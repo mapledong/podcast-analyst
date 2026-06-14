@@ -2,9 +2,10 @@
 """Match Founders YouTube channel videos to discovered episodes by title.
 
 Transcript fetching (--transcripts) is rate-limited by default to avoid YouTube 429 /
-IP blocks: up to 3 unapproved curated episodes per run, 60s between requests, and
-exponential backoff (60s → 120s → 240s, max 3 retries) on transient failures.
-Use --all for the full queue, or override with --batch-size / --delay.
+IP blocks: **2 episodes per run**, **90s** between requests (+ random jitter), and
+exponential backoff (90s → 180s → 360s, max 3 retries) on transient failures.
+Prefer many small runs (see `.github/workflows/youtube-captions.yml`) over bulk fetch.
+Use --all only with YOUTUBE_CAPTION_BULK_OK=1, or override with --batch-size / --delay.
 """
 
 from __future__ import annotations
@@ -24,6 +25,13 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
 from scripts.resolve_curated_bb_founders import resolve_curated  # noqa: E402
+from scripts.youtube_caption_limits import (  # noqa: E402
+    DEFAULT_BATCH_SIZE,
+    DEFAULT_TRANSCRIPT_DELAY,
+    reject_bulk_unless_forced,
+    sleep_between_episodes,
+    with_transcript_backoff,
+)
 from src.expand import resolve_transcript_path  # noqa: E402
 from src.fetch_transcript import extract_video_id, fetch_transcript  # noqa: E402
 
@@ -43,10 +51,6 @@ MANUAL_BY_EPISODE: dict[int, str] = {
 }
 
 MIN_MATCH_SCORE = 70
-DEFAULT_TRANSCRIPT_DELAY = 60.0
-DEFAULT_BATCH_SIZE = 3
-MAX_TRANSCRIPT_RETRIES = 3
-TRANSCRIPT_BACKOFF_DELAYS = (60, 120, 240)
 
 STOP = frozenset(
     {
@@ -291,48 +295,6 @@ def _is_youtube_transcript(path: Path | None) -> bool:
     return "# source: youtube/" in head
 
 
-def _is_transient_youtube_error(exc: Exception) -> bool:
-    msg = str(exc).lower()
-    name = type(exc).__qualname__.lower()
-    markers = (
-        "429",
-        "too many requests",
-        "ipblocked",
-        "ip blocked",
-        "ipblock",
-        "rate limit",
-        "connection reset",
-        "timed out",
-        "timeout",
-        "temporary failure",
-        "503",
-        "502",
-        "service unavailable",
-    )
-    return any(marker in msg or marker in name for marker in markers)
-
-
-def _sleep_logged(seconds: float, *, reason: str) -> None:
-    print(f"  sleeping {seconds:.0f}s ({reason}) …")
-    time.sleep(seconds)
-
-
-def _with_transcript_backoff(fn, *, episode_id: str):
-    last_err: Exception | None = None
-    for attempt in range(MAX_TRANSCRIPT_RETRIES + 1):
-        if attempt:
-            wait = TRANSCRIPT_BACKOFF_DELAYS[min(attempt - 1, len(TRANSCRIPT_BACKOFF_DELAYS) - 1)]
-            print(f"  retry {attempt}/{MAX_TRANSCRIPT_RETRIES} for {episode_id}, sleeping {wait}s …")
-            time.sleep(wait)
-        try:
-            return fn()
-        except Exception as exc:
-            last_err = exc
-            if not _is_transient_youtube_error(exc) or attempt >= MAX_TRANSCRIPT_RETRIES:
-                raise
-    raise last_err or RuntimeError(f"transcript fetch failed for {episode_id}")
-
-
 def _vtt_to_text(vtt: str) -> str:
     lines: list[str] = []
     seen: set[str] = set()
@@ -482,7 +444,7 @@ def _fetch_episode_transcript(ep: dict, yt: str) -> tuple[str, str, int]:
             result = fetch_transcript(yt)
             return result.text, result.source, result.line_count
 
-    text, source, line_count = _with_transcript_backoff(_do_fetch, episode_id=ep["id"])
+    text, source, line_count = with_transcript_backoff(_do_fetch, episode_id=ep["id"])
     return text, source, line_count
 
 
@@ -549,7 +511,7 @@ def fetch_founders_transcripts(
             print(f"✗ {ep['id']}: {exc}")
             fail += 1
         if idx < batch_total:
-            _sleep_logged(delay, reason="between episodes")
+            sleep_between_episodes(delay)
 
     if not process_all and len(queue) > batch_total:
         remaining = len(queue) - batch_total
@@ -576,7 +538,7 @@ def main() -> None:
     parser.add_argument(
         "--all",
         action="store_true",
-        help="With --transcripts: process the full pending queue (no batch limit)",
+        help="With --transcripts: process the full pending queue (requires YOUTUBE_CAPTION_BULK_OK=1)",
     )
     parser.add_argument(
         "--batch-size",
@@ -593,6 +555,7 @@ def main() -> None:
     args = parser.parse_args()
 
     if args.transcripts:
+        reject_bulk_unless_forced(bulk_flag=args.all, flag_name="--all")
         ok, skip, fail = fetch_founders_transcripts(
             delay=args.delay,
             batch_size=args.batch_size,

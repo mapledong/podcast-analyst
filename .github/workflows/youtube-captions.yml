@@ -1,0 +1,48 @@
+name: YouTube Captions (slow batch)
+
+on:
+  schedule:
+    # Four small runs per day (~2 captions each) — spread to avoid YouTube 429 / IP blocks
+    # 11:00 / 17:00 / 23:00 / 05:00 Beijing  →  03:00 / 09:00 / 15:00 / 21:00 UTC
+    - cron: "0 3,9,15,21 * * *"
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: Max captions per podcast per run (keep low)
+        required: false
+        default: "2"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-captions
+  cancel-in-progress: false
+
+jobs:
+  captions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Fetch Founders captions (small batch)
+        env:
+          YOUTUBE_CAPTION_BATCH_SIZE: ${{ github.event.inputs.batch_size || vars.YOUTUBE_CAPTION_BATCH_SIZE || '2' }}
+          YOUTUBE_CAPTION_DELAY: ${{ vars.YOUTUBE_CAPTION_DELAY || '90' }}
+        run: python scripts/fetch_founders_youtube.py --transcripts
+      - name: Fetch BB captions (small batch)
+        env:
+          YOUTUBE_CAPTION_BATCH_SIZE: ${{ github.event.inputs.batch_size || vars.YOUTUBE_CAPTION_BATCH_SIZE || '2' }}
+          YOUTUBE_CAPTION_DELAY: ${{ vars.YOUTUBE_CAPTION_DELAY || '90' }}
+        run: python scripts/fetch_curated_youtube.py --transcripts
+      - name: Commit new transcripts
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "YouTube captions (slow batch)"
+          file_pattern: "data/transcripts/**"
+          push: true

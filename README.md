@@ -172,6 +172,7 @@ This repo includes GitHub Actions for public hosting and scheduled updates:
 | `deploy-pages.yml` | push to `main` | Builds `web/` and deploys to GitHub Pages |
 | `weekly-update.yml` | Saturday 10:00 Beijing time | Uses Cursor SDK to discover new podcast episodes, create transcript-grounded summaries, publish, sync web data, and commit changes |
 | `nightly-bb-founders.yml` | Daily 02:00 Beijing time | Expands BB/Founders toward 80+ summaries each (transcript-first pool; default 10/night) |
+| `youtube-captions.yml` | 4× daily (small batches) | Fetches YouTube captions slowly (2/podcast/run, 90s+jitter) to avoid blocks |
 | `weekly-digest.yml` | Sunday 12:00 Beijing time | Emails the weekly digest to `mapledong1996@hotmail.com` |
 
 To publish the site:

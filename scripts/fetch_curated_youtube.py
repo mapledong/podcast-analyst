@@ -6,9 +6,10 @@ Priority workflow:
 2. For episodes with YouTube links, try YouTube transcript API first.
 3. Skip non-YouTube episodes (no Whisper unless audio already cached elsewhere).
 
-Transcript fetching (--transcripts) defaults to 3 episodes per run, 60s between
-requests, and exponential backoff on 429/IP blocks. Use --full-queue for no
-batch limit, or override with --batch-size / --delay.
+Transcript fetching (--transcripts) defaults to **2 episodes per run**, **90s** between
+requests (+ jitter), and exponential backoff on 429/IP blocks. Prefer many small runs
+(`.github/workflows/youtube-captions.yml`) over bulk. `--full-queue` requires
+YOUTUBE_CAPTION_BULK_OK=1. Override with --batch-size / --transcript-delay.
 """
 
 from __future__ import annotations
@@ -24,16 +25,19 @@ sys.path.insert(0, str(ROOT))
 
 from scripts.discover_colossus_podcasts import _fetch_youtube  # noqa: E402
 from scripts.fetch_founders_youtube import (  # noqa: E402
-    DEFAULT_BATCH_SIZE,
-    DEFAULT_TRANSCRIPT_DELAY,
-    _sleep_logged,
-    _with_transcript_backoff,
     apply_matches,
     fetch_youtube_catalog,
     load_episodes,
     match_episodes,
     save_episodes,
     sync_approved_founders,
+)
+from scripts.youtube_caption_limits import (  # noqa: E402
+    DEFAULT_BATCH_SIZE,
+    DEFAULT_TRANSCRIPT_DELAY,
+    reject_bulk_unless_forced,
+    sleep_between_episodes,
+    with_transcript_backoff,
 )
 from scripts.resolve_curated_bb_founders import (  # noqa: E402
     DISCOVERED,
@@ -153,7 +157,7 @@ def fetch_youtube_transcripts(
             def _do_fetch():
                 return fetch_transcript(yt)
 
-            result = _with_transcript_backoff(_do_fetch, episode_id=ep["id"])
+            result = with_transcript_backoff(_do_fetch, episode_id=ep["id"])
             save_transcript(result, transcripts)
             alias = transcripts / f"{ep['id']}.txt"
             header = (
@@ -169,7 +173,7 @@ def fetch_youtube_transcripts(
             print(f"✗ {ep['id']}: {exc}")
             fail += 1
         if idx < batch_total:
-            _sleep_logged(delay, reason="between episodes")
+            sleep_between_episodes(delay)
 
     if not process_all and len(queue) > batch_total:
         remaining = len(queue) - batch_total
@@ -186,7 +190,7 @@ def main() -> None:
     parser.add_argument(
         "--full-queue",
         action="store_true",
-        help="With --transcripts: process the full pending queue (no batch limit)",
+        help="With --transcripts: process the full pending queue (requires YOUTUBE_CAPTION_BULK_OK=1)",
     )
     parser.add_argument(
         "--batch-size",
@@ -216,6 +220,7 @@ def main() -> None:
         print(f"\nURLs: fetched {ok}, skipped {skip}, failed {fail}")
 
     if args.transcripts or args.all:
+        reject_bulk_unless_forced(bulk_flag=args.full_queue, flag_name="--full-queue")
         ok, skip, fail = fetch_youtube_transcripts(
             delay=args.transcript_delay,
             batch_size=args.batch_size,

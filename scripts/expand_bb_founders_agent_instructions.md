@@ -59,7 +59,7 @@ Append to `review_notes`: `| curated v4.10`
 ## Transcribe if missing
 
 Priority order for curated episodes:
-1. **YouTube** — Founders: `python3 scripts/fetch_founders_youtube.py --transcripts` (3/run, 60s delay; `--all` for full queue); BB: `python3 scripts/fetch_curated_youtube.py --transcripts` (same limits; `--full-queue` for all)
+1. **YouTube** — Founders: `python3 scripts/fetch_founders_youtube.py --transcripts` (default **2/run**, **90s** delay + jitter); BB: `python3 scripts/fetch_curated_youtube.py --transcripts` (same). **Never bulk-fetch** (`--all` / `--full-queue` blocked unless `YOUTUBE_CAPTION_BULK_OK=1`). Prefer the scheduled `youtube-captions.yml` workflow (4× daily, 2 episodes each).
 2. **Whisper** — only for YouTube-linked episodes still missing full transcript, or explicit IDs:
    ```bash
    python3 scripts/transcribe_colossus_audio.py EPISODE_ID

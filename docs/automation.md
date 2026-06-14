@@ -139,9 +139,26 @@ SMTP_FROM=<sender email>
 
 The email includes the new summaries added in the last 7 days: podcast, theme/title, guest/subject, conclusion, and investment ideas.
 
-## YouTube transcript rate limits
+## YouTube caption rate limits (important)
 
-Founders/BB YouTube caption fetches default to 3 episodes per run with 60s spacing and exponential backoff on 429/IP blocks (`scripts/fetch_founders_youtube.py --transcripts`, `scripts/fetch_curated_youtube.py --transcripts`). Use `--all` / `--full-queue` for the full pending queue.
+YouTube caption fetches are **conservative by design** to avoid 429 / IP blocks:
+
+| Setting | Default |
+|---|---|
+| Episodes per run | **2** (`YOUTUBE_CAPTION_BATCH_SIZE`) |
+| Delay between episodes | **90s** + 8–30s random jitter |
+| Backoff on failure | 90s → 180s → 360s (max 3 retries) |
+
+**Do not bulk-fetch.** `--all` (Founders) and `--full-queue` (BB) are **blocked** unless you explicitly set `YOUTUBE_CAPTION_BULK_OK=1` for a one-off local run.
+
+**Scheduled slow batch:** `.github/workflows/youtube-captions.yml` runs **4× daily** (Beijing ~05:00 / 11:00 / 17:00 / 23:00), **2 captions per podcast per run** (~16 new transcripts/day max). Manual:
+
+```bash
+python scripts/fetch_founders_youtube.py --transcripts   # 2 Founders, then stop
+python scripts/fetch_curated_youtube.py --transcripts    # 2 BB, then stop
+```
+
+The **nightly summary job does not fetch captions** — it only writes summaries for episodes that already have transcripts.
 
 ## Nightly BB/Founders expansion
 
@@ -190,9 +207,11 @@ Refresh the expand list after RSS discovery or new transcripts:
 ```bash
 python scripts/discover_colossus_podcasts.py --founders-youtube   # optional: refresh RSS
 python scripts/refresh_expand_bb_founders.py                      # rewrite expand yaml extras
-python scripts/fetch_founders_youtube.py --transcripts            # Founders captions (rate-limited)
-python scripts/fetch_curated_youtube.py --transcripts           # BB captions for expand pool
+python scripts/fetch_founders_youtube.py --transcripts            # 2/run — rerun or use workflow
+python scripts/fetch_curated_youtube.py --transcripts           # 2/run — rerun or use workflow
 ```
+
+See **YouTube caption rate limits** above; prefer `youtube-captions.yml` over manual loops.
 
 Edit `config/curated_bb_founders.yaml` to change the core 30; edit `target_per_podcast` or per-episode `episode_number` entries in `config/expand_bb_founders.yaml` for manual overrides.
 

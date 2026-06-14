@@ -36,7 +36,12 @@ def main() -> None:
             cwd=str(ROOT),
         )
         subprocess.run(
-            [PY, str(ROOT / "scripts/fetch_curated_youtube.py"), "--all"],
+            [PY, str(ROOT / "scripts/fetch_founders_youtube.py"), "--transcripts"],
+            check=False,
+            cwd=str(ROOT),
+        )
+        subprocess.run(
+            [PY, str(ROOT / "scripts/fetch_curated_youtube.py"), "--transcripts"],
             check=False,
             cwd=str(ROOT),
         )
