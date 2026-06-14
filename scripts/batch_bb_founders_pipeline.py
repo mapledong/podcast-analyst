@@ -31,7 +31,7 @@ def main() -> None:
 
     if args.youtube:
         subprocess.run(
-            [PY, str(ROOT / "scripts/fetch_founders_youtube.py"), "--fix-approved"],
+            [PY, str(ROOT / "scripts/fetch_founders_youtube.py"), "--curated-only"],
             check=False,
             cwd=str(ROOT),
         )

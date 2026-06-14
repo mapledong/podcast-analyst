@@ -160,6 +160,18 @@ maybe_create_repo() {
   "$gh_bin" "${create_args[@]}"
 }
 
+DEPLOY_WORKFLOW_NAME="${DEPLOY_WORKFLOW_NAME:-Deploy Summary Library}"
+
+maybe_trigger_deploy() {
+  local gh_bin="$1"
+  [[ "${TRIGGER_DEPLOY:-1}" == "1" ]] || return 0
+  if "$gh_bin" workflow run "$DEPLOY_WORKFLOW_NAME" --ref "${BRANCH}" >/dev/null 2>&1; then
+    info "Triggered workflow: ${DEPLOY_WORKFLOW_NAME}"
+  else
+    warn "Could not trigger workflow '${DEPLOY_WORKFLOW_NAME}' (push may still start deploy if paths match)"
+  fi
+}
+
 test_ssh_github() {
   ensure_github_host_key
   ssh -o BatchMode=yes -o ConnectTimeout=10 -T git@github.com 2>&1 | grep -qi 'successfully authenticated' && return 0
@@ -259,6 +271,7 @@ main() {
   if [[ "$USE_HTTPS" == "1" ]]; then
     if push_main; then
       info "Push succeeded."
+      [[ -n "$gh_bin" ]] && maybe_trigger_deploy "$gh_bin"
       print_pages_steps
       exit 0
     fi
@@ -269,10 +282,25 @@ main() {
   if test_ssh_github; then
     if push_main; then
       info "Push succeeded."
+      [[ -n "$gh_bin" ]] && maybe_trigger_deploy "$gh_bin"
       print_pages_steps
       exit 0
     fi
     die "git push failed (SSH authenticated but push rejected)"
+  fi
+
+  if [[ -n "$gh_bin" ]] && "$gh_bin" auth status >/dev/null 2>&1; then
+    info "SSH unavailable; falling back to HTTPS with gh git credentials"
+    USE_HTTPS=1
+    "$gh_bin" auth setup-git --hostname github.com >/dev/null 2>&1 || true
+    configure_remote
+    if push_main; then
+      info "Push succeeded (HTTPS)."
+      maybe_trigger_deploy "$gh_bin"
+      print_pages_steps
+      exit 0
+    fi
+    die "git push failed over HTTPS (run: gh auth setup-git && git push -u origin ${BRANCH})"
   fi
 
   warn "SSH auth to GitHub failed (add ~/.ssh/id_ed25519.pub to GitHub or use USE_HTTPS=1)."
@@ -294,7 +322,7 @@ case "${1:-}" in
     ;;
   --help|-h)
     sed -n '1,20p' "$0"
-    echo "Env: USE_HTTPS=1 INSTALL_GH=1 CREATE_REPO=0 GITHUB_OWNER GITHUB_REPO DEPLOY_BRANCH"
+    echo "Env: USE_HTTPS=1 (force HTTPS) INSTALL_GH=1 CREATE_REPO=0 TRIGGER_DEPLOY=0 DEPLOY_WORKFLOW_NAME GITHUB_OWNER GITHUB_REPO DEPLOY_BRANCH"
     exit 0
     ;;
   *)

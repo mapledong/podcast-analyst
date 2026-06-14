@@ -27,11 +27,11 @@
 
 ## Key Facts
 
-> **F1** FedMart (1954) targeted sailors required to buy uniforms ashore; Sol circumvented fair-trade laws by making shoppers members. FedCo drew members driving 200-mile round trips — 5,000 members signaled demand Price replicated in a vacant warehouse joint venture with 12% average markup versus 36–50% department stores.
+> **F1** FedMart 1954 Navy-uniform niche; fair-trade loopholes via membership; FedCo drew 5,000 members driving 200-mile trips — Price copied in vacant warehouse with 12% markup vs 36–50% department stores.
 
-> **F2** Price Club opened with roughly $50,000 capital, negotiated 10-year lease cancellation rights, and paid workers $1 when competitors paid cents — doubling Phoenix wages. He rejected mortgage clauses mandating segregated bathrooms, fought bootleggers and pharmacists over prescription sales, and created Kirkland-style private label when suppliers blocked him.
+> **F2** Price Club 1976: ≈$50,000 capital, 10-year cancel-anytime lease, $1 hourly wage doubling Phoenix pay; fought segregated bathroom mortgage clauses and pharmacy permit battles creating Kirkland-style private label.
 
-> **F3** Sam Walton visited in 1978; Arthur Blank and Bernie Marcus adapted the model to Home Depot. Sinegal merged Price Club with Costco in 1993. Sol's handwritten letter weeks before death still sought Sinegal's approval at 70 — Jim's assistant waited 50 years for compliments that rarely came.
+> **F3** Sam Walton visited 1978; Blank and Marcus to Home Depot; Sinegal merged Price Club with Costco 1993. Sol's pre-death letter still sought Jim's approval — assistant waited 50 years for compliments.
 
 
 ---
@@ -40,11 +40,11 @@
 
 > **Components**
 >
-> Price built membership barriers to filter customers he did not want — parking lot loiterers, bad checks — while capping markup and SKU count. Payroll runs ≈80% of retail cost; limited selection and pass-through pricing align fiduciary duty to members over margin extraction. Alter-ego hiring means leaders who greet, sweep, and think like owners.
+> Membership filters unwanted customers; markup caps and SKU limits align fiduciary duty; alter-ego leaders greet and sweep; hot dog $1.50 forever promise signals volume discipline.
 >
 > **Application**
 >
-> When entering retail or platforms, decide negative constraints first — who you will not serve and what markup you refuse. Use regulatory arbitrage ethically where laws protect incumbents, then out-execute on efficiency. Train culture through procedures and owner-like behavior, not slogans; hot-dog pricing can be a forever promise if volume compensates.
+> Define negative constraints first; use regulatory insight ethically; train culture through owner behavior not slogans; European merger euphoria taught Price to return to No Frills basics when partners betray.
 
 ---
 
@@ -55,19 +55,19 @@
 >
 > **Q** Why call Price the most influential retailer?
 >
-> **A** Walton admitted borrowing FedMart innovations; Bezos, Marcus, and Trader Joe's founders traced concepts to Price. Sinegal said he learned everything, not a little — the Costco model is Price Club executed with Patton-like aggression and European lessons on what not to merge.
+> **A** Walton admitted borrowing FedMart innovations; Bezos, Marcus, and Trader Joe's founders traced concepts to Price. Sinegal said he learned everything, not a little — the Costco model is Price Club executed with Patton-like aggression and European lessons on what not to merge. Stephen King and Tabby parallel: supportive spouse matters — Sol's Helen eloped when in-laws called him lazy. Price's father faked disability payments teaching hustle ethics Price rejected yet learned from.
 
 > **2.** Constraints breed warehouse logic.
 >
 > **Q** How did undercapitalization help?
 >
-> **A** Remote warehouses in small communities forced creative efficiency — ignorance of conventional retail was bliss. Limited selection — three-in-one oil instead of many sizes — cut labor and inventory while raising turns, the opposite of conventional more-SKU wisdom.
+> **A** Remote warehouses in small communities forced creative efficiency — ignorance of conventional retail was bliss. Limited selection — three-in-one oil instead of many sizes — cut labor and inventory while raising turns, the opposite of conventional more-SKU wisdom. Three-in-one oil SKU logic cut payroll — 80% of retail cost — versus carrying many sizes competitors stocked. European merger at 64% stake ended in 90-minute tirade and firing — returned to No Frills warehouse.
 
 > **3.** Character tests under multi-front fights.
 >
 > **Q** How did Price handle opposition?
 >
-> **A** State inspectors, pharmacy boards, white-label blocks, and rock-through-window threats met polite firmness — he treated members as fiduciaries, not marks. When European partners fired him after a 90-minute tirade, he returned to No Frills warehouse basics that worked.
+> **A** State inspectors, pharmacy boards, white-label blocks, and rock-through-window threats met polite firmness — he treated members as fiduciaries, not marks. When European partners fired him after a 90-minute tirade, he returned to No Frills warehouse basics that worked. Patton letters on Sol's desk — aggressive promotion tool. Hot dog stayed $1.50 because Price published raises as betrayal of member trust; Sinegal carried identical ethic into Costco culture.
 
 ---
 
@@ -75,11 +75,11 @@
 
 > **1. COST** · 🟢 LONG · ●●● High
 >
-> Price's membership, markup cap, and pass-through ethic are the DNA Sinegal carried into Costco — durable moat narrative even as margins cycle; the biography explains why fee and hot-dog discipline signal culture, not gimmicks.
+> Price's membership, markup cap, pass-through ethic are Costco DNA — durable moat narrative even as margins cycle. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook.
 
-> **2. WMT** · 🟡 WATCH · ●●○ Medium
+> **2. WMT** · 🟢 LONG · ●●○ Medium
 >
-> Walton's Bentonville visits show Walmart as an adapter of Price's warehouse insights — relevant when comparing club versus supercenter economics and who owns pass-through discipline today.
+> Walton's 1978 Price Club tour shows Walmart as adapter of warehouse insights — relevant comparing club versus supercenter economics. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook.
 
 ---
 

@@ -1,0 +1,106 @@
+{
+  "episode_id": "fnd-405-how-rockefeller-worked",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 405,
+    "title": "How Rockefeller Worked",
+    "guest": "John D. Rockefeller",
+    "guest_role": "Biography · Standard Oil · Episode 405",
+    "date": "2025-11-17",
+    "duration_minutes": 58,
+    "youtube_url": "https://www.youtube.com/watch?v=M_TiZJapSLw",
+    "links": {
+      "founders": "https://www.founderspodcast.com/episodes/405",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "youtube": "https://www.youtube.com/watch?v=M_TiZJapSLw"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "review_notes": "Manual curated batch v4.10 | curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated",
+    "transcript_source": "whisper/base",
+    "status": "approved",
+    "template_version": "4.10"
+  },
+  "keywords": [
+    "XOM",
+    "Standard Oil",
+    "Refining Scale"
+  ],
+  "conclusion": "Senra distills David Freeman Hawke's 1980 Rockefeller biography into roughly 100 operating ideas Munger called the greatest company ever built: business as coded war, teenage ledger obsession, freight rebates as the first moat, and quiet consolidation until 25 refineries appeared in one partnership reveal. Rockefeller's lesson is relentless focus on unit economics — shipping by water at half rail cost, controlling barrels in-house, and outlasting loud partners with patient financing.",
+  "background": "David Senra rereads John D.: The Founding Father of the Rockefellers by David Freeman Hawke (1980) and strips away biography to list how Standard Oil was actually assembled — the approach Charlie Munger praised as the greatest company ever created.\n\nThe monologue walks Rockefeller's Cleveland canvassing days (six days a week knocking on commission houses), his embrace of railroad and telegraph technology, refining-site genius on river plus rail, secret rebate negotiations, and the famous quiet takeover that backed 25 refineries while former partners thought they were winning an auction.",
+  "important_facts": [
+    "Senra cites Hawke's concise Standard Oil narrative and a list of roughly 100 ideas Rockefeller used; Munger called Standard Oil the greatest company ever created. Rockefeller opened letters with battle language, used coded messages, and admitted later that secrecy was too extreme — comparing himself to a general who would never send a brass band ahead of an attack.",
+    "As a teenager Rockefeller canvassed Cleveland firms six days a week with letters of introduction, revisiting every office until doors closed; he scrutinized every line item on bills before paying. He chose a refining site on both river and rail because shipping by water cost about 50% less than rail — Senra says location was the secret weapon when freight dominated unit economics.",
+    "During a partner breakup Rockefeller quietly lined financing, let rivals bluff at auction, then won the bidding and weeks later newspapers announced a partnership backing 25 refineries worldwide — partners who had been loud and idle were shocked. Vanderbilt, 45 years older and then America's richest man, summoned young Rockefeller to Cleveland only to hear Rockefeller refuse advice because he had tracked every number since childhood."
+  ],
+  "mental_model": {
+    "name": "Quiet Consolidation at the Margin",
+    "components": "Rockefeller treated refining as war fought with ledgers: master posted freight rates through personal negotiation, borrow aggressively to control barrels in-house, and wear down competitors with methodical persistence rather than noise. He cultivated an unaggressive exterior — patient, gracious, never profane — while financing takeovers in secret. Technology edges (telegraph price signals, rail rebates, river shipping) compounded with obsessive cost inspection.",
+    "application": "When commodity margins are thin, obsess over the largest cost line — freight and location before brand — and consolidate supply quietly while competitors perform in public auctions. Rockefeller's teenage bill auditing and refusal to be cheated on sloppy practices mirror how durable operators win roll-ups: finance first, confront second, and let newspapers announce the scale after the fact."
+  },
+  "key_insights": [
+    {
+      "view": "Numbers are the true story.",
+      "question": "Why did Rockefeller inspect every bill as a teenager?",
+      "answer": "Hawke shows Rockefeller believed numbers reveal reality before narrative; he admonished partners who failed to verify totals and maintained that discipline from commission-house days through Standard Oil. Senra ties the habit to Munger's praise — the company's advantage was accounting-level precision applied to transportation rebates and refining throughput."
+    },
+    {
+      "view": "Transportation is the first moat.",
+      "question": "How did site selection compound?",
+      "answer": "Rockefeller placed refineries where river and rail met, cutting shipping cost roughly in half versus rail-only rivals. Senra labels freight the largest expense of the era and says Rockefeller spent disproportionate time on routes, rebates, and boat captains — the same way modern operators obsess over the biggest COGS line before marketing."
+    },
+    {
+      "view": "Charm masks consolidation.",
+      "question": "What happened in the quiet auction?",
+      "answer": "When partners tried to force him out, Rockefeller financed secretly, let them threaten and bluff, then won the asset auction and revealed backing for 25 refineries. Former loud partners had dismissed his empire as small-minded; the episode frames his gracious manner as a deliberate mask over relentless priority focus."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "XOM",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Standard Oil's breakup descendants inherited Rockefeller's scale-and-logistics DNA; the episode is historical operating craft (rebates, river routing, quiet roll-ups) rather than a direct ExxonMobil call, but it explains why integrated energy majors still treat transportation and refining coordination as core advantage."
+    }
+  ],
+  "golden_quotes": [
+    "Rockefeller told Vanderbilt he needed no advice on transactions he had carried since childhood — extreme self-confidence at an age when Vanderbilt was already America's richest man.",
+    "His father advised: never mind the crowd; tend your own business — Rockefeller followed that exclusionary focus for life.",
+    "Partners thought they won the auction; weeks later newspapers announced Rockefeller's partnership backing 25 refineries worldwide."
+  ],
+  "chronology": {
+    "subject": "John D. Rockefeller · Standard Oil",
+    "events": [
+      {
+        "date": "1850s",
+        "event": "Teenage Rockefeller canvasses Cleveland firms six days a week seeking commission-house work."
+      },
+      {
+        "date": "1860s",
+        "event": "Embraces telegraph and railroad technology in commodity trading before shifting to oil."
+      },
+      {
+        "date": "1860s",
+        "event": "Selects refining sites on river plus rail; pursues freight rebates as core advantage."
+      },
+      {
+        "date": "1870s",
+        "event": "Quiet financing and auction strategy consolidates refineries into Standard Oil scale."
+      },
+      {
+        "date": "1870s",
+        "event": "Newspapers announce partnership backing 25 refineries after partners underestimated him."
+      },
+      {
+        "date": "1980",
+        "event": "Senra sources Hawke biography John D.: The Founding Father of the Rockefellers."
+      }
+    ]
+  }
+}

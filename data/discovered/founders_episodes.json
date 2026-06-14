@@ -2039,10 +2039,9 @@
       "duration_minutes": 56,
       "colossus_url": "",
       "audio_url": "https://traffic.megaphone.fm/DSLLC7378519597.mp3?updated=1748636181",
-      "youtube_url": "https://www.youtube.com/watch?v=GmmuNVv4ehE",
+      "youtube_url": "",
       "rss_title": "#278 Peter Thiel",
-      "podcast": "Founders",
-      "youtube_title": "Peter Thiel's Ideas"
+      "podcast": "Founders"
     },
     {
       "id": "fnd-277-paul-graham-s-essays-part-3",
@@ -2211,10 +2210,9 @@
       "duration_minutes": 73,
       "colossus_url": "",
       "audio_url": "https://traffic.megaphone.fm/DSLLC6885286520.mp3?updated=1748636188",
-      "youtube_url": "https://www.youtube.com/watch?v=KzXxxbuTAAg",
+      "youtube_url": "",
       "rss_title": "#266 Henry Ford's Autobiography",
-      "podcast": "Founders",
-      "youtube_title": "Henry Ford's Autobiography"
+      "podcast": "Founders"
     },
     {
       "id": "fnd-265-becoming-steve-jobs-the-evolution-of-a-reckless-upstart",
@@ -2674,9 +2672,10 @@
       "duration_minutes": 113,
       "colossus_url": "",
       "audio_url": "https://traffic.megaphone.fm/DSLLC8109783014.mp3?updated=1748636210",
-      "youtube_url": "",
+      "youtube_url": "https://www.youtube.com/watch?v=GmmuNVv4ehE",
       "rss_title": "#233 Elon Musk, Peter Thiel, Max Levchin (PayPal)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Peter Thiel's Ideas"
     },
     {
       "id": "fnd-232-alexander-the-great",
@@ -3279,9 +3278,10 @@
       "duration_minutes": 59,
       "colossus_url": "",
       "audio_url": "https://traffic.megaphone.fm/DSLLC7713034296.mp3?updated=1748636239",
-      "youtube_url": "",
+      "youtube_url": "https://www.youtube.com/watch?v=KzXxxbuTAAg",
       "rss_title": "#190 Henry Ford and Thomas Edison",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Henry Ford's Autobiography"
     },
     {
       "id": "fnd-189-david-ogilvy-the-book-i-ve-given-as-a-gift-the-most",

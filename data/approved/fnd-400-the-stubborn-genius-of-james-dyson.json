@@ -1,0 +1,102 @@
+{
+  "episode_id": "fnd-400-the-stubborn-genius-of-james-dyson",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 400,
+    "title": "The Stubborn Genius of James Dyson",
+    "guest": "James Dyson",
+    "guest_role": "Biography · Against the Odds · Episode 400",
+    "date": "2025-09-12",
+    "duration_minutes": 73,
+    "youtube_url": "https://www.youtube.com/watch?v=hagy0fhiPpY",
+    "links": {
+      "founders": "https://www.founderspodcast.com/episodes/400",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "youtube": "https://www.youtube.com/watch?v=hagy0fhiPpY"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "review_notes": "Manual curated batch v4.10 | curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated",
+    "transcript_source": "whisper/base",
+    "status": "approved",
+    "template_version": "4.10"
+  },
+  "keywords": [
+    "Private:Dyson",
+    "Stubbornness",
+    "5126 Prototypes"
+  ],
+  "conclusion": "Episode 400 marks nine years and 400 founder biographies for Senra; Dyson's second autobiography reframes vision as stubbornness — retain total control, prototype through 5,126 vacuum iterations, and sell half-finished products to learn from customers. Fry's lake-plank experiments and Brunel's impossible projects supply the mental model: expertise is optional when obsession and iteration compound.",
+  "background": "David Senra celebrates episode 400 by rereading James Dyson's two autobiographies — Against the Odds first, a second written roughly 20 years later — and naming the episode for Dyson's line that vision might equally be stubbornness.\n\nSenra contrasts Dyson's anti-business-business philosophy (beautiful, useful objects) with Jeremy Fry mentorship at Bath: lake tests instead of hydrodynamics experts, ballbarrow departure from a stable job, 5,126 vacuum prototypes, and the principle of retaining control rather than licensing early.",
+  "important_facts": [
+    "Senra took nine years to reach episode 400 and estimates 400 founder biographies read; Dyson's Against the Odds remains his top recommendation. Dyson writes that vision might equally be stubbornness and that his business philosophy is 'a book against business' filled with ugly, useless objects — difference and retention of total control summarize his approach.",
+    "Mentor Jeremy Fry told young Dyson to tow a plank behind a Land Rover on the lake instead of hiring hydrodynamics experts; Dyson proceeded through preliminary sketches and prototypes until iterations worked extremely quickly. The bagless vacuum required 5,126 prototypes over years before success.",
+    "Dyson left a high-paying job to pursue the ballbarrow (a wheel that does not sink in mud) despite partner pressure to stop wholesale selling; he argues entrepreneurs must tolerate excessive risk, sell finished-ish products for customer feedback, and keep control rather than license inventions early."
+  ],
+  "mental_model": {
+    "name": "Stubborn Iteration With Control",
+    "components": "Dyson pairs misfit contrarianism with Fry-style empirical testing — lake planks, workshop access, no expert committees — and refuses to release control at the moment an idea strikes. He studies invention history (Brunel, encyclopedias of great inventions) for perseverance fuel, runs daily stamina-building routines, and treats failure fear as competitive fuel through product cycles.",
+    "application": "When experts say stop, prototype one more version and sell a rough product to real users if it carries learning value. Dyson's 5,126 vacuum iterations and ballbarrow leap show that retaining ownership of engineering and distribution matters more than early licensing revenue — stubbornness is a feature when paired with customer-facing iteration."
+  },
+  "key_insights": [
+    {
+      "view": "Vision equals stubbornness.",
+      "question": "Why does Dyson reject the arrogance label?",
+      "answer": "He asks readers to celebrate stubbornness instead — claiming only virtues of a mule. Senra names the episode from that sentence because Dyson's career is persistence through ridicule: anti-expert testing, thousands of prototypes, and refusal to follow herd advice from shareholders or partners."
+    },
+    {
+      "view": "Experts are optional.",
+      "question": "What did Fry teach at the lake?",
+      "answer": "When Dyson suggested hiring a hydrodynamics specialist, Fry pointed to the lake and a Land Rover — test the plank yourself. Senra says Dyson applied the same modus operandi for decades: enthusiasm plus intelligence beat credentialed committees for original products."
+    },
+    {
+      "view": "Control beats early licensing.",
+      "question": "What is Dyson's single-sentence strategy?",
+      "answer": "Difference plus retention of total control — do not hand off the idea when it strikes. Licensing and partner-driven wholesale nearly killed early ventures; owning manufacturing and brand let Dyson compound industrial design into a global appliance company."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Dyson",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Private Dyson illustrates premium consumer hardware built by iterative R&D and brand control rather than outsourced manufacturing — relevant for investors tracking durable family-owned product companies, not a tradable equity thesis from this episode."
+    }
+  ],
+  "golden_quotes": [
+    "Dyson: vision might equally well be stubbornness — celebrate stubbornness, not arrogance.",
+    "Fry on hydrodynamics: the lake is there; take a plank and tow it behind the Land Rover.",
+    "5,126 prototypes separated Dyson from the bagless vacuum that finally worked."
+  ],
+  "chronology": {
+    "subject": "James Dyson · Against the Odds",
+    "events": [
+      {
+        "date": "Youth",
+        "event": "Father dies when Dyson is nine; Fry becomes engineering mentor at Bath."
+      },
+      {
+        "date": "1970s",
+        "event": "Ballbarrow project — leaves stable job; resists partner pressure to abandon wholesale."
+      },
+      {
+        "date": "1970s-80s",
+        "event": "5,126 vacuum prototypes before commercial bagless design succeeds."
+      },
+      {
+        "date": "2000s",
+        "event": "Second autobiography written ~20 years after Against the Odds."
+      },
+      {
+        "date": "2025",
+        "event": "Senra records episode 400 on Dyson's stubborn-genius philosophy."
+      }
+    ]
+  }
+}

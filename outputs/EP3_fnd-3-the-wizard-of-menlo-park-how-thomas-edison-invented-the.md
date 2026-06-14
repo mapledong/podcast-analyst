@@ -4,7 +4,7 @@
 
 **★★★☆☆** · 3/5
 
-**Podcast** Founders · **Date** Mar 24, 2017 · **Duration** 86 min · **Read** ≈3 min
+**Podcast** Founders · **Date** Mar 24, 2017 · **Duration** 86 min · **Read** ≈4 min
 
 **Host** David Senra
 
@@ -27,11 +27,11 @@
 
 ## Key Facts
 
-> **F1** At 22 Edison cornered Western Union quote traffic during Jay Gould's gold scandal — losing his fortune in the panic taught him to distrust financiers. He incorporated the Edison Universal Stock Printer after refining tickers; imitation preceded creation as he iterated on existing machines faster than incumbents.
+> **F1** Josephson's 1959 biography — 500 pages, 25 hours — continues Senra's inventor series after Polaroid and Ford. Father fled Canada ≈80 miles in 2.5 days; young Ed publicly whipped after barn fire; Nancy homeschooled him reading sunrise to 10 p.m.
 
-> **F2** Menlo Park (1876–1881) was Edison's happiest period: phonograph, incandescent light, and systematic filament search across thousands of materials — including Frank McGowen dispatched up the Amazon for bamboo. Dey pulled a $500,000 checkbook after a demo; Edison's showmanship and mission infected capitalists the way Danny Luan's 9/11 story infected early backers.
+> **F2** At 22 Edison cornered Western Union quotes during Gould gold panic — lost fortune taught distrust of financiers. Menlo Park 1876–1881 happiest period: phonograph, light, thousands of filament tests including Amazon explorer McGowen; Dey $500,000 checkbook demo.
 
-> **F3** Edison fought Western Union with quadruplex telegraph patents and General Electric's formation through Morgan-engineered consolidation — operational warfare where he stayed oblivious to robber-baron politics while focusing on functional products. He avoided mental distractions at Menlo Park, worked 4 a.m. shifts, and kept Faraday's researches under his pillow like Buffett later kept Graham.
+> **F3** Quadruplex telegraph fought Western Union; Morgan consolidation formed GE lineage. Edison kept Faraday researches under pillow; 4 a.m. shifts; compared to Jobs, Land, Munger focus and Henry Ford expert-hiring warnings.
 
 
 ---
@@ -40,11 +40,11 @@
 
 > **Components**
 >
-> Edison combined obsessive experiment, public demonstration, and parallel commercialization — tickers, light, phonograph, motion pictures — while hiring young operators and sleeping in telegraph offices. He learned from Faraday that framing questions mattered; from hardship that there was no easy way out. Capital followed demos, not business plans.
+> Obsessive experiment plus public demo plus parallel commercialization while hiring young operators. Capital followed working hardware; financiers and incumbents fought while lab focused on function.
 >
 > **Application**
 >
-> When building something new, recruit enthusiasm over credentials, iterate on existing tools rather than wait for permission, and demo to decision-makers who can write checks. Expect financiers and incumbents to fight; keep the lab focused on what works while lawyers and robber barons battle over wires.
+> Recruit enthusiasm over credentials; iterate existing tools; demo to check writers; expect patent wars — keep lab on product while lawyers battle.
 
 ---
 
@@ -55,27 +55,27 @@
 >
 > **Q** How did Edison start without formal schooling?
 >
-> **A** A station master taught him telegraphy after a childhood rescue; by 16 he was a nomadic operator sleeping in offices. He edited and printed a paper with 400 circulation at 15, then lost it after violent editorial revenge — pattern of hustle, setback, and reinvention.
+> **A** A station master taught him telegraphy after a childhood rescue; by 16 he was a nomadic operator sleeping in offices. He edited and printed a paper with 400 circulation at 15, then lost it after violent editorial revenge — pattern of hustle, setback, and reinvention. Senra ties Edison to Steve Jobs' dent-in-the-universe line and Munger's follow-your-curiosity drift — Edison wanted many projects at once unlike Ford's single-car focus.
 
 > **2.** Demos move capital faster than slides.
 >
 > **Q** How did Edison fund the light bulb?
 >
-> **A** He identified stenographer shortages and sold wire recorders to courts before pivoting to incandescent light. Showmanship at the Supreme Court and $500,000 from Dey proved investors respond to working hardware and infectious confidence, not spreadsheets.
+> **A** He identified stenographer shortages and sold wire recorders to courts before pivoting to incandescent light. Showmanship at the Supreme Court and $500,000 from Dey proved investors respond to working hardware and infectious confidence, not spreadsheets. At 15 Edison edited a paper with 400 circulation until violent editorial revenge closed it — pattern of hustle and setback. Telegraph nomadism at 16 preceded Menlo Park factory mentality.
 
 > **3.** Focus beats diversification of attention.
 >
 > **Q** What made Menlo Park work?
 >
-> **A** Edison walled off distractions, ran chemical experiments at his desk, and pursued practical commercial applications — happiest in his 30s when the lab hummed. Senra compares his schedule to Land and Jobs: intense concentration hour after hour releases capabilities people did not know they had.
+> **A** Edison walled off distractions, ran chemical experiments at his desk, and pursued practical commercial applications — happiest in his 30s when the lab hummed. Senra compares his schedule to Land and Jobs: intense concentration hour after hour releases capabilities people did not know they had. Victor Hugo's reef metaphor: Edison stuck on filament search until tides of mechanical skill freed him — McGowen sent up the Amazon for bamboo while thousands of materials tested worldwide.
 
 ---
 
 ## Investment Ideas
 
-> **1. GE** · 🟡 WATCH · ●○○ Low
+> **1. GE** · 🔴 SHORT · ●○○ Low
 >
-> Edison's arc — invention to consolidated GE — illustrates how operational genius in labs can lose to capital structure and patent wars; today's GE is a reminder that durable value capture requires more than Menlo Park breakthroughs.
+> Edison's arc shows invention labs can lose to capital structure after Morgan consolidation — cautionary for industrial conglomerates distant from Menlo Park breakthrough culture. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook. Josephson's 1959 biography remains Senra's 25-hour foundation for understanding industrial America's heroic invention age.
 
 ---
 
@@ -86,6 +86,8 @@
 > "Edison kept Faraday's Experimental Researches under his pillow like a Bible — poor, without schooling, taught himself from English journals."
 
 > "Victor Hugo's metaphor: Edison was the steamship stuck on the reef, saved by tides of mechanical skill and courage — thousands of filament tests worldwide before light worked."
+
+> "Edison at 22 lost life's fortune in Gould gold panic — lesson that financiers could destroy inventors overnight."
 
 ---
 

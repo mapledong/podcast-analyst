@@ -1,0 +1,105 @@
+{
+  "episode_id": "fnd-159-andy-grove-intel",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 159,
+    "title": "Andy Grove (Intel)",
+    "guest": "Andy Grove",
+    "guest_role": "Biography · Swimming Across · Episode 159",
+    "date": "2020-12-21",
+    "duration_minutes": 70,
+    "youtube_url": "",
+    "links": {
+      "founders": "https://www.founderspodcast.com/episodes/159",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "review_notes": "Manual curated batch v4.10 | curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated",
+    "transcript_source": "whisper/base",
+    "status": "approved",
+    "template_version": "4.10"
+  },
+  "keywords": [
+    "INTC",
+    "Swimming Across",
+    "Only the Paranoid Survive"
+  ],
+  "conclusion": "Swimming Across is Senra's pick for Grove's pre-Intel life: Budapest regime changes, a father who disappeared on the Russian front, 200,000 refugees after the 1956 revolution, and a professor who pointed him to San Francisco. Fairchild to Intel followed — Grove became CEO for 11 years and Time Man of the Year in 1997 — but the episode's core is endurance: immigrants swim across lakes with help, setbacks, and no resentment at success.",
+  "background": "David Senra reads Andy Grove's autobiography Swimming Across after Walter Isaacson's Innovators rekindled interest. Grove opens by listing Hungarian fascism, Nazi occupation, Soviet siege, communist regimes, and the 1956 uprising crushed in 13 days — 200,000 Hungarians fled west; Grove was one.\n\nThe narrative covers his father disappearing with 90% mortality in Jewish labor battalions, childhood air raids in Budapest, escape to New York then Berkeley, Fairchild Semiconductor, Intel's founding, 11 years as CEO, U.S. citizenship, and book royalties donated to refugee aid.",
+  "important_facts": [
+    "Grove was born in Budapest in 1936; by age 20 he had lived through fascist dictatorship, Nazi occupation, Soviet siege, and the 1956 revolution ended in 13 days with 200,000 Hungarians escaping west. His father was conscripted to the Russian front in Jewish labor battalions; Grove later learned roughly 90% did not return.",
+    "After reaching New York Grove moved to UC Berkeley on scholarships, joined Fairchild Semiconductor, then co-founded Intel, rose to CEO for 11 years, and became a U.S. citizen. Time magazine named him Man of the Year in 1997; he notes no one resented his immigrant success as he progressed.",
+    "Grove fell in love with the Bay Area driving through the Sierra Nevada — 'the words jumped out of the Karl May books' — and lived there ever since. Swimming Across royalties go to refugee support; he wrote the memoir after grandchildren arrived, framing life as swimming across a lake with setbacks and help from others."
+  ],
+  "mental_model": {
+    "name": "Power to Endure",
+    "components": "Extreme early instability — missing fathers, ghetto play reenactments, bombing raids — forged Grove's later management realism at Intel. He treats survival as continued swimming: scholarships, mentors, geographic reinvention (New York to California), and channeling fear into work rather than grievance. Endurance plus paranoia about industry transitions becomes the operating system.",
+    "application": "Operators facing platform shifts can study Grove's biography as proof that personal catastrophe tolerance translates into corporate turnaround discipline — but the episode emphasizes immigration gratitude and mentor-enabled reinvention over tactical Intel management quotes."
+  },
+  "key_insights": [
+    {
+      "view": "Endurance precedes paranoia.",
+      "question": "Why does Senra call this a power-to-endure book?",
+      "answer": "A New York Times review line frames Grove's early life — regime changes, father's disappearance, revolution escape — as commentary on enduring impossible environments before Fairchild and Intel. The management books make more sense once you understand centralized-economy survival skills."
+    },
+    {
+      "view": "Mentors redirect geography.",
+      "question": "How did Grove reach California?",
+      "answer": "He loved America but hated New York weather; a professor described San Francisco, leading Grove to pile into an old car toward Berkeley after graduation. That single redirect placed him in Fairchild's orbit and the Intel founding circle."
+    },
+    {
+      "view": "Success without resentment.",
+      "question": "What surprised Grove about America?",
+      "answer": "He writes that as he advanced through school and Intel, no one resented his immigrant success — scholarships opened doors, citizenship followed, and Time's 1997 honor capped a life he describes as still swimming with help from others."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "INTC",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Grove's Intel CEO era (11 years, semiconductor leadership) contextualizes INTC as a company built by immigrants who endured catastrophic personal risk — useful cultural background for turnaround investors, not a directional call from this autobiography-focused episode."
+    }
+  ],
+  "golden_quotes": [
+    "Grove: by age 20 I had lived through Hungarian fascism, Nazi occupation, Soviet siege, and a revolution put down at gunpoint.",
+    "His father disappeared at the Russian front; roughly 90% of Jewish labor battalion conscripts did not return.",
+    "I managed to swim across the lake — not without effort, not without setbacks, and with a great deal of help."
+  ],
+  "chronology": {
+    "subject": "Andy Grove · Swimming Across · Intel",
+    "events": [
+      {
+        "date": "1936",
+        "event": "Born in Budapest under right-wing dictatorship aligned with Nazi Germany."
+      },
+      {
+        "date": "1942-43",
+        "event": "Father conscripted; letters stop; official notice says he disappeared at the front."
+      },
+      {
+        "date": "1944-45",
+        "event": "Nazi occupation and Budapest bombing; Soviet army takes city April 1945."
+      },
+      {
+        "date": "1956",
+        "event": "Hungarian Revolution lasts 13 days; Grove escapes west with ~200,000 refugees."
+      },
+      {
+        "date": "1960s",
+        "event": "UC Berkeley graduate school; Fairchild Semiconductor job."
+      },
+      {
+        "date": "1968+",
+        "event": "Intel co-founder; CEO for 11 years; Time Man of the Year 1997."
+      }
+    ]
+  }
+}

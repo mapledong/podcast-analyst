@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T14:49:49.541Z",
+  "generatedAt": "2026-06-14T14:52:09.020Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -29,7 +29,7 @@
       "accent_color": "#2D5016",
       "youtube_url": "https://www.youtube.com/@founderspodcast1",
       "cover_url": "/covers/founders.jpg",
-      "episodeCount": 24
+      "episodeCount": 30
     },
     {
       "id": "business-breakdowns",
@@ -39,7 +39,7 @@
       "accent_color": "#0068B3",
       "youtube_url": "https://www.youtube.com/@joincolossus",
       "cover_url": "/covers/business-breakdowns.jpg",
-      "episodeCount": 28
+      "episodeCount": 30
     }
   ],
   "episodes": [
@@ -2985,37 +2985,6 @@
       "chronologySubject": "Coca-Cola"
     },
     {
-      "id": "bb-ge-aerospace-full-throttle",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 235,
-      "title": "GE Aerospace: Full Throttle",
-      "guest": "GE Aerospace",
-      "displayTitle": "GE Aerospace",
-      "displaySubtitle": "Full Throttle · Public · GE",
-      "guestRole": "Public · GE",
-      "date": "2025-11-14",
-      "durationMinutes": 59,
-      "readMinutes": 4,
-      "rating": 4,
-      "conclusion": "Narayanan frames GE Aerospace as a post-spin pure play on a razor-and-blade franchise: ~70,000 engines in service, ~$175 billion backlog, and ~70% of revenue from mandated aftermarket services with ~25% segment margins. Larry Culp's lean turnaround and CFM International's sole-source narrow-body positions support 8–10% commercial-services growth, though OE losses on Leap ramp and multi-decade technology bets on open-rotor architecture remain the long-cycle risks.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=64xjlq_rKW0",
-      "summaryFile": "bb-ge-aerospace-full-throttle.md",
-      "keywords": [
-        "GE",
-        "Jet Engines",
-        "Aftermarket Services"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "GE",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Narayanan argues GE Aerospace combines oligopoly scale, ~$175B backlog, and 8–10% commercial-services growth with 20–25% cash returns on capital; post-spin pure-play exposure rewards patience as Leap OE losses fade and aftermarket pricing compounds."
-        }
-      ],
-      "chronologySubject": "GE Aerospace"
-    },
-    {
       "id": "ep414",
       "podcastId": "invest-like-the-best",
       "episodeNumber": 414,
@@ -3057,6 +3026,68 @@
         }
       ],
       "chronologySubject": "Lone Pine investing process"
+    },
+    {
+      "id": "fnd-405-how-rockefeller-worked",
+      "podcastId": "founders",
+      "episodeNumber": 405,
+      "title": "How Rockefeller Worked",
+      "guest": "John D. Rockefeller",
+      "displayTitle": "John D. Rockefeller",
+      "displaySubtitle": "How Rockefeller Worked",
+      "guestRole": "Biography · Standard Oil · Episode 405",
+      "date": "2025-11-17",
+      "durationMinutes": 58,
+      "readMinutes": 4,
+      "rating": 4,
+      "conclusion": "Senra distills David Freeman Hawke's 1980 Rockefeller biography into roughly 100 operating ideas Munger called the greatest company ever built: business as coded war, teenage ledger obsession, freight rebates as the first moat, and quiet consolidation until 25 refineries appeared in one partnership reveal. Rockefeller's lesson is relentless focus on unit economics — shipping by water at half rail cost, controlling barrels in-house, and outlasting loud partners with patient financing.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M_TiZJapSLw",
+      "summaryFile": "fnd-405-how-rockefeller-worked.md",
+      "keywords": [
+        "XOM",
+        "Standard Oil",
+        "Refining Scale"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "XOM",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Standard Oil's breakup descendants inherited Rockefeller's scale-and-logistics DNA; the episode is historical operating craft (rebates, river routing, quiet roll-ups) rather than a direct ExxonMobil call, but it explains why integrated energy majors still treat transportation and refining coordination as core advantage."
+        }
+      ],
+      "chronologySubject": "John D. Rockefeller · Standard Oil"
+    },
+    {
+      "id": "bb-ge-aerospace-full-throttle",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 235,
+      "title": "GE Aerospace: Full Throttle",
+      "guest": "GE Aerospace",
+      "displayTitle": "GE Aerospace",
+      "displaySubtitle": "Full Throttle · Public · GE",
+      "guestRole": "Public · GE",
+      "date": "2025-11-14",
+      "durationMinutes": 59,
+      "readMinutes": 4,
+      "rating": 4,
+      "conclusion": "Narayanan frames GE Aerospace as a post-spin pure play on a razor-and-blade franchise: ~70,000 engines in service, ~$175 billion backlog, and ~70% of revenue from mandated aftermarket services with ~25% segment margins. Larry Culp's lean turnaround and CFM International's sole-source narrow-body positions support 8–10% commercial-services growth, though OE losses on Leap ramp and multi-decade technology bets on open-rotor architecture remain the long-cycle risks.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=64xjlq_rKW0",
+      "summaryFile": "bb-ge-aerospace-full-throttle.md",
+      "keywords": [
+        "GE",
+        "Jet Engines",
+        "Aftermarket Services"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GE",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Narayanan argues GE Aerospace combines oligopoly scale, ~$175B backlog, and 8–10% commercial-services growth with 20–25% cash returns on capital; post-spin pure-play exposure rewards patience as Leap OE losses fade and aftermarket pricing compounds."
+        }
+      ],
+      "chronologySubject": "GE Aerospace"
     },
     {
       "id": "fnd-404-larry-ellison",
@@ -3313,6 +3344,37 @@
       "chronologySubject": "Bill Gates · Microsoft"
     },
     {
+      "id": "fnd-400-the-stubborn-genius-of-james-dyson",
+      "podcastId": "founders",
+      "episodeNumber": 400,
+      "title": "The Stubborn Genius of James Dyson",
+      "guest": "James Dyson",
+      "displayTitle": "James Dyson",
+      "displaySubtitle": "Biography · Against the Odds · Episode 400",
+      "guestRole": "Biography · Against the Odds · Episode 400",
+      "date": "2025-09-12",
+      "durationMinutes": 73,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Episode 400 marks nine years and 400 founder biographies for Senra; Dyson's second autobiography reframes vision as stubbornness — retain total control, prototype through 5,126 vacuum iterations, and sell half-finished products to learn from customers. Fry's lake-plank experiments and Brunel's impossible projects supply the mental model: expertise is optional when obsession and iteration compound.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hagy0fhiPpY",
+      "summaryFile": "fnd-400-the-stubborn-genius-of-james-dyson.md",
+      "keywords": [
+        "Private:Dyson",
+        "Stubbornness",
+        "5126 Prototypes"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Dyson",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Private Dyson illustrates premium consumer hardware built by iterative R&D and brand control rather than outsourced manufacturing — relevant for investors tracking durable family-owned product companies, not a tradable equity thesis from this episode."
+        }
+      ],
+      "chronologySubject": "James Dyson · Against the Odds"
+    },
+    {
       "id": "bb-mercado-libre-e-commerce-empire",
       "podcastId": "business-breakdowns",
       "episodeNumber": 227,
@@ -3397,9 +3459,9 @@
       "guestRole": "Biography · Episode 398",
       "date": "2025-08-14",
       "durationMinutes": 121,
-      "readMinutes": 3,
+      "readMinutes": 5,
       "rating": 3,
-      "conclusion": "Laurene Powell Jobs' introduction frames Make Something Wonderful as unfiltered Jobs — arts married to technology, rigor imposed first on himself, and teams assembled to make what did not yet exist. Senra pairs the free Apple archive with lost interviews: love transmitted through work beats money motivation; Microsoft criticized as third-rate taste; Land's Polaroid torch carried forward.",
+      "conclusion": "Laurene Powell Jobs' introduction frames Make Something Wonderful as unfiltered Jobs — arts married to technology, rigor imposed first on himself, and teams assembled to make what did not yet exist. Senra pairs the free Apple archive with lost interviews: love transmitted through work beats money motivation; Microsoft criticized as third-rate taste; Land's Polaroid torch carried forward. Archive drafts show stumble growth change — primary voice beats secondhand myth. Senra pairs free archive with rare 1995 Lost Interview for unfiltered founder voice.",
       "youtubeUrl": "https://www.youtube.com/watch?v=zGEOQ6I2Sv4",
       "summaryFile": "fnd-398-steve-jobs-in-his-own-words-make-something-wonderful.md",
       "keywords": [
@@ -3412,13 +3474,13 @@
           "ticker": "AAPL",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Archive reinforces Apple as taste-and-integration compounder — arts-plus-tech rigor, focus discipline, Land lineage — supporting premium hardware and services narrative independent of cyclical upgrade timing."
+          "thesis": "Archive reinforces Apple as taste-and-integration compounder — arts-plus-tech rigor, focus discipline, Land lineage — supporting premium hardware and services narrative independent of upgrade cycles. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook. Free Apple archive lets founders read primary Jobs voice without biography filter — Senra recommends alongside Lost Interview."
         },
         {
           "ticker": "MSFT",
-          "direction": "Watch",
+          "direction": "Short",
           "confidence": "Low",
-          "thesis": "Jobs' 1996 critique frames historical brand gap on taste versus aggression — context for Apple's differentiation story, not a current short thesis from Senra's reading."
+          "thesis": "Jobs' 1996 taste critique frames historical differentiation gap — opportunist success without product spirit — context for Apple's brand premium, not a standalone short call from Senra's reading. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook. Free Apple archive lets founders read primary Jobs voice without biography filter — Senra recommends alongside Lost Interview."
         }
       ],
       "chronologySubject": "Steve Jobs · Make Something Wonderful archive"
@@ -3564,7 +3626,7 @@
       "guestRole": "Biography · Episode 388",
       "date": "2025-05-15",
       "durationMinutes": 79,
-      "readMinutes": 3,
+      "readMinutes": 4,
       "rating": 3,
       "conclusion": "Bezos's letters are a crash course in Day 1 discipline — long-term market leadership over quarterly gaps, flywheel economics, missionary culture, and invention funded by frugality from Sam Walton's highlighted autobiography. Senra rereads every letter for repeated principles: customer obsession, willingness to be misunderstood, six-page narratives, and AWS born from infrastructure others later needed.",
       "youtubeUrl": "https://www.youtube.com/watch?v=NFjdllY44J0",
@@ -3579,7 +3641,7 @@
           "ticker": "AMZN",
           "direction": "Long",
           "confidence": "High",
-          "thesis": "Letters document durable advantages — flywheel, AWS origin, Prime lock-in, invention tolerance — that justify premium to retailers without cloud; culture of Day 1 and customer obsession repeated across 20+ years of shareholder communication."
+          "thesis": "Letters document durable advantages — flywheel, AWS origin, Prime lock-in, invention tolerance — that justify premium to retailers without cloud; culture of Day 1 and customer obsession repeated across 20+ years of shareholder communication. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook."
         }
       ],
       "chronologySubject": "Jeff Bezos · Amazon shareholder letters"
@@ -3595,9 +3657,9 @@
       "guestRole": "Biography · Episode 386",
       "date": "2025-04-22",
       "durationMinutes": 71,
-      "readMinutes": 3,
+      "readMinutes": 4,
       "rating": 3,
-      "conclusion": "Morita rebuilt Sony from burned-out Tokyo rubble with co-founder Ibuka — high-end quality when Japan meant cheap copycats, transistor radios sold through demos, and Walkman shipped despite internal revolt to 400 million units. Senra links him to Jobs' turtleneck, Bezos' customer-centric mission, and Land's premium innovation: create markets, educate consumers, refuse committee consensus.",
+      "conclusion": "Morita rebuilt Sony from burned-out Tokyo rubble with co-founder Ibuka — high-end quality when Japan meant cheap copycats, transistor radios sold through demos, and Walkman shipped despite internal revolt to 400 million units. Senra links him to Jobs' turtleneck, Bezos' customer-centric mission, and Land's premium innovation: create markets, educate consumers, refuse committee consensus. Morita chose electronics over food scarcity in burned Tokyo — quality mission Bezos echoed.",
       "youtubeUrl": "https://www.youtube.com/watch?v=ynlY9rIb7O8",
       "summaryFile": "fnd-386-akio-morita-founder-of-sony.md",
       "keywords": [
@@ -3610,7 +3672,7 @@
           "ticker": "SONY",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Morita's market-creation and premium-brand arc — Walkman, Trinitron era discipline, direct U.S. retail — explains Sony's IP and brand heritage even as divisions cycle; biography supports moat in premium electronics and content where innovation culture persists."
+          "thesis": "Morita's market-creation and premium-brand arc — Walkman, Trinitron era discipline, direct U.S. retail — explains Sony's IP and brand heritage even as divisions cycle; biography supports moat in premium electronics and content where innovation culture persists. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook. Made in Japan 1986 autobiography influenced Bezos Jobs and Dyson decades later per Senra cross-episodes."
         }
       ],
       "chronologySubject": "Akio Morita · Ibuka · Sony · Made in Japan"
@@ -3904,9 +3966,9 @@
       "guestRole": "Biography · Episode 369",
       "date": "2024-11-01",
       "durationMinutes": 63,
-      "readMinutes": 3,
+      "readMinutes": 4,
       "rating": 3,
-      "conclusion": "Berger's Liftoff shows SpaceX roots in an empty factory, a $100,000 weekly burn, three Falcon 1 failures, and a fourth launch that saved Musk from bankruptcy in December 2008 while Tesla and SolarCity also teetered. Senra connects today's 232-foot booster catches to the Edisonian iterate-in-hardware culture — Shotwell vacuuming, bought machine shops, and hires who pass Musk's 15-minute phony test.",
+      "conclusion": "Berger's Liftoff shows SpaceX roots in an empty factory, a $100,000 weekly burn, three Falcon 1 failures, and a fourth launch that saved Musk from bankruptcy in December 2008 while Tesla and SolarCity also teetered. Senra connects today's 232-foot booster catches to the Edisonian iterate-in-hardware culture — Shotwell vacuuming, bought machine shops, and hires who pass Musk's 15-minute phony test. Fourth Falcon 1 launch and ~$1.6B CRS deal near Christmas 2008 saved Musk from personal bankruptcy.",
       "youtubeUrl": "https://www.youtube.com/watch?v=2hSdEkDe87s",
       "summaryFile": "fnd-369-elon-musk-and-the-early-days-of-spacex.md",
       "keywords": [
@@ -3917,15 +3979,15 @@
       "investmentIdeas": [
         {
           "ticker": "TSLA",
-          "direction": "Watch",
+          "direction": "Long",
           "confidence": "Low",
-          "thesis": "2008 split-focus between SpaceX rescue and Tesla survival explains Musk capital allocation and tolerance for brinkmanship — operator risk transfers across entities he controls."
+          "thesis": "2008 brinkmanship between SpaceX rescue and Tesla survival explains Musk capital allocation and tolerance for near-death — operator risk spans controlled entities. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook."
         },
         {
           "ticker": "Private:SpaceX",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Liftoff narrative — iterative culture, vertical integration, Shotwell sales to government — underpins Starship economics; public comps scarce but Berger documents DNA behind chopstick catches."
+          "thesis": "Liftoff DNA — iterative culture, vertical integration, Shotwell government sales — underpins Starship economics documented before chopstick booster catches. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook."
         }
       ],
       "chronologySubject": "SpaceX · Falcon 1 · Eric Berger · Liftoff"
@@ -4151,9 +4213,9 @@
       "guestRole": "Biography · Episode 354",
       "date": "2024-06-29",
       "durationMinutes": 92,
-      "readMinutes": 3,
+      "readMinutes": 5,
       "rating": 3,
-      "conclusion": "Trimble's pre-autobiography portrait shows Walton as ordinary on the surface — buy cheap, sell low, smile — with iron discipline beneath: JC Penney string lessons, Newport lease loss at 32, Bentonville restart, charter planes beating eight-hour drives, and Sol Price club visits that unlocked discount scale. Senra ties him to Bezos handouts, Patton execution, and a quarter-trillion family fortune built by relentless store walks.",
+      "conclusion": "Trimble's pre-autobiography portrait shows Walton as ordinary on the surface — buy cheap, sell low, smile — with iron discipline beneath: JC Penney string lessons, Newport lease loss at 32, Bentonville restart, charter planes beating eight-hour drives, and Sol Price club visits that unlocked discount scale. Senra ties him to Bezos handouts, Patton execution, and a quarter-trillion family fortune built by relentless store walks. Charter planes and $500 IBM bets wired a quarter-trillion dynasty.",
       "youtubeUrl": "https://www.youtube.com/watch?v=tL71OzGcewk",
       "summaryFile": "fnd-354-sam-walton-the-inside-story-of-america-s-richest-man.md",
       "keywords": [
@@ -4166,7 +4228,7 @@
           "ticker": "WMT",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Trimble's portrait reinforces Walmart as an operational-excellence compounder born from small-town necessity and copied club economics — culture of store visits and frugality ages better than promotional retail cycles."
+          "thesis": "Trimble's portrait reinforces Walmart as small-town trial-and-error compounder — EDLP, club format from Price, and logistics obsession — culture that ages better than promotional retail even as e-commerce shifts traffic. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook."
         }
       ],
       "chronologySubject": "Sam Walton · Vance Trimble"
@@ -4232,6 +4294,37 @@
         }
       ],
       "chronologySubject": "Microsoft · Volume I (1968–1981)"
+    },
+    {
+      "id": "bb-intuitive-surgical-robotic-precision",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 155,
+      "title": "Intuitive Surgical: Robotic Precision",
+      "guest": "Joe Thomas",
+      "displayTitle": "Intuitive Surgical",
+      "displaySubtitle": "Joe Thomas · Analyst · 91 Capital · Robotic Precision",
+      "guestRole": "Analyst · 91 Capital",
+      "date": "2024-03-20",
+      "durationMinutes": 66,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Joe Thomas of 91 Capital frames Intuitive Surgical at roughly $140 billion market cap as the robotic soft-tissue winner: ~100% share in approved procedures, 8,500 Da Vinci systems globally, and $7 billion revenue split 60% instruments / 25% systems. With 2.3 million procedures in 2023 and 14 million lifetime cases feeding algorithms, the moat is data plus surgeon trust — yet penetration is only ~10% of a 7-million-procedure addressable market.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-intuitive-surgical-robotic-precision.md",
+      "keywords": [
+        "ISRG",
+        "Da Vinci",
+        "Robotic Surgery"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "ISRG",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Thomas's breakdown supports ISRG as a procedure-volume compounder with 70% gross margins, instrument-heavy revenue mix, and decade-long data moat — tempered by premium valuation at all-time highs and Ion competition from J&J in bronchoscopy."
+        }
+      ],
+      "chronologySubject": "Intuitive Surgical · Da Vinci"
     },
     {
       "id": "acq-renaissance-technologies",
@@ -4743,13 +4836,13 @@
           "ticker": "COST",
           "direction": "Long",
           "confidence": "High",
-          "thesis": "Price's membership, markup cap, and pass-through ethic are the DNA Sinegal carried into Costco — durable moat narrative even as margins cycle; the biography explains why fee and hot-dog discipline signal culture, not gimmicks."
+          "thesis": "Price's membership, markup cap, pass-through ethic are Costco DNA — durable moat narrative even as margins cycle. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook."
         },
         {
           "ticker": "WMT",
-          "direction": "Watch",
+          "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Walton's Bentonville visits show Walmart as an adapter of Price's warehouse insights — relevant when comparing club versus supercenter economics and who owns pass-through discipline today."
+          "thesis": "Walton's 1978 Price Club tour shows Walmart as adapter of warehouse insights — relevant comparing club versus supercenter economics. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook."
         }
       ],
       "chronologySubject": "Sol Price · FedMart · Price Club"
@@ -5100,7 +5193,7 @@
       "guestRole": "Biography · Episode 286",
       "date": "2023-01-16",
       "durationMinutes": 70,
-      "readMinutes": 3,
+      "readMinutes": 4,
       "rating": 4,
       "conclusion": "Bevelin's dialogue distills Buffett and Munger into repeatable habits: read constantly, invert problems, avoid debt and envy, and structure life to survive inevitable mistakes. Senra treats them as the wise grandfathers he never had — Einstein's of business whose uncommon common sense beats multitasking crowds chasing yield.",
       "youtubeUrl": "https://www.youtube.com/watch?v=t47NBQqlzbk",
@@ -5115,7 +5208,7 @@
           "ticker": "BRK.B",
           "direction": "Long",
           "confidence": "High",
-          "thesis": "Bevelin's compilation reinforces Berkshire as a compound-interest vehicle run by readers who refuse leverage and envy — culture of cash, autonomy for A-player managers, and buyer-of-choice positioning that Senra calls history's greatest content marketing via shareholder letters."
+          "thesis": "Bevelin's compilation reinforces Berkshire as a compound-interest vehicle run by readers who refuse leverage and envy — culture of cash, autonomy for A-player managers, and buyer-of-choice positioning that Senra calls history's greatest content marketing via shareholder letters. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook."
         }
       ],
       "chronologySubject": "Warren Buffett · Charlie Munger · Peter Bevelin"
@@ -6037,9 +6130,9 @@
       "guestRole": "Biography · Episode 233",
       "date": "2022-02-23",
       "durationMinutes": 113,
-      "readMinutes": 3,
+      "readMinutes": 5,
       "rating": 3,
-      "conclusion": "PayPal was a four-year odyssey of near failure followed by near failure — Confinity and X.com merged under siege from fraud, regulators, and dot-com collapse while a World Domination Index tracked daily users. Senra treats Jimmy Soni's book as mandatory reading on scenius: misfit founders who polished one another like rocks in a tumbler and spawned much of modern Silicon Valley.",
+      "conclusion": "PayPal was a four-year odyssey of near failure followed by near failure — Confinity and X.com merged under siege from fraud, regulators, and dot-com collapse while a World Domination Index tracked daily users. Senra treats Jimmy Soni's book as mandatory reading on scenius: misfit founders who polished one another like rocks in a tumbler and spawned much of modern Silicon Valley. Senra: properly understood PayPal is near failure followed by near failure — four years under siege before eBay exit. World Domination Index and Memento Mori banners tracked daily users beside mortality reminder.",
       "youtubeUrl": "https://www.youtube.com/watch?v=GmmuNVv4ehE",
       "summaryFile": "fnd-233-elon-musk-peter-thiel-max-levchin-paypal.md",
       "keywords": [
@@ -6052,13 +6145,13 @@
           "ticker": "PYPL",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "PayPal's origin as a fraud-riddled, regulatory-besieged payments innovator under misfit leadership explains durable network effects and risk culture — relevant when judging fintech moats versus commodity checkout features."
+          "thesis": "Origin under fraud siege and misfit hiring explains durable network effects and risk culture — relevant when judging fintech moats versus commodity checkout. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook. Jimmy Soni five-year reporting captures fraud wars and CEO coups the polite paragraph summaries skip."
         },
         {
           "ticker": "TSLA",
-          "direction": "Watch",
+          "direction": "Long",
           "confidence": "Low",
-          "thesis": "Musk's post-PayPal pattern — bet personal fortune, recruit with intensity, iterate under near-death — originated here; Tesla investors inherit the same operator DNA and volatility."
+          "thesis": "Musk's post-PayPal pattern — bet personal fortune, recruit intensity, iterate under near-death — began with $70 million Tesla allocation immediately after eBay exit. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook. Jimmy Soni five-year reporting captures fraud wars and CEO coups the polite paragraph summaries skip."
         }
       ],
       "chronologySubject": "PayPal · Jimmy Soni · The Founders"
@@ -6310,6 +6403,37 @@
         }
       ],
       "chronologySubject": "Not Boring / Packy McCormick"
+    },
+    {
+      "id": "bb-amazon-aggregators-buying-third-party-sellers",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 35,
+      "title": "Amazon Aggregators: Buying Third-Party Sellers",
+      "guest": "Ali Ahmed",
+      "displayTitle": "Amazon Aggregators",
+      "displaySubtitle": "Ali Ahmed · Partner · CoVenture · Buying Third-Party Sellers",
+      "guestRole": "Partner · CoVenture",
+      "date": "2021-11-17",
+      "durationMinutes": 61,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "CoVenture's Ali Ahmed sizes Amazon third-party sellers at roughly $300 billion revenue growing faster than Amazon itself — ~$60 billion EBITDA at ~20% margins — while only ~$8 billion of aggregator funding chases the space at 4–6x EBITDA. Aggregators buy FBA storefronts (ASINs, reviews, inventory) and add Amazon-native playbooks: international review porting, DSP ads, and supply-chain redundancy rather than cost synergies.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-amazon-aggregators-buying-third-party-sellers.md",
+      "keywords": [
+        "AMZN",
+        "FBA Roll-Up",
+        "Third-Party Sellers"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AMZN",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Aggregator growth validates Amazon's third-party flywheel — higher-margin fee revenue without inventory risk — supporting AMZN marketplace take rate durability as FBA GMV compounds toward Ahmed's half-trillion to trillion-dollar market-value scenario."
+        }
+      ],
+      "chronologySubject": "Amazon FBA · Aggregators"
     },
     {
       "id": "bb-mongodb-the-database-platform",
@@ -7323,6 +7447,37 @@
       "chronologySubject": "Bitcoin"
     },
     {
+      "id": "fnd-159-andy-grove-intel",
+      "podcastId": "founders",
+      "episodeNumber": 159,
+      "title": "Andy Grove (Intel)",
+      "guest": "Andy Grove",
+      "displayTitle": "Andy Grove",
+      "displaySubtitle": "Biography · Swimming Across · Episode 159",
+      "guestRole": "Biography · Swimming Across · Episode 159",
+      "date": "2020-12-21",
+      "durationMinutes": 70,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "Swimming Across is Senra's pick for Grove's pre-Intel life: Budapest regime changes, a father who disappeared on the Russian front, 200,000 refugees after the 1956 revolution, and a professor who pointed him to San Francisco. Fairchild to Intel followed — Grove became CEO for 11 years and Time Man of the Year in 1997 — but the episode's core is endurance: immigrants swim across lakes with help, setbacks, and no resentment at success.",
+      "youtubeUrl": "",
+      "summaryFile": "fnd-159-andy-grove-intel.md",
+      "keywords": [
+        "INTC",
+        "Swimming Across",
+        "Only the Paranoid Survive"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "INTC",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Grove's Intel CEO era (11 years, semiconductor leadership) contextualizes INTC as a company built by immigrants who endured catastrophic personal risk — useful cultural background for turnaround investors, not a directional call from this autobiography-focused episode."
+        }
+      ],
+      "chronologySubject": "Andy Grove · Swimming Across · Intel"
+    },
+    {
       "id": "acq-special-acquired-x-indie-hackers",
       "podcastId": "acquired",
       "episodeNumber": 114,
@@ -7852,6 +8007,37 @@
         }
       ],
       "chronologySubject": "Oprah Winfrey & Harpo Studios"
+    },
+    {
+      "id": "fnd-132-edwin-land-steve-jobs-s-hero",
+      "podcastId": "founders",
+      "episodeNumber": 132,
+      "title": "Edwin Land (Steve Jobs's Hero)",
+      "guest": "Edwin Land",
+      "displayTitle": "Edwin Land",
+      "displaySubtitle": "Biography · Polaroid · Episode 132",
+      "guestRole": "Biography · Polaroid · Episode 132",
+      "date": "2020-06-20",
+      "durationMinutes": 61,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Senra opens a three-part Land series with The Instant Image: high technological drama as SX-70 burned millions without revenue, problems renamed opportunities, and Land treated Polaroid as experience not hardware. Jobs modeled himself on Land — no college degree, perfectionism, secrecy, shareholder letters as poetry — and Land's rule that anything worth doing is worth doing to excess explains both Polaroid's peaks and its later strain.",
+      "youtubeUrl": "",
+      "summaryFile": "fnd-132-edwin-land-steve-jobs-s-hero.md",
+      "keywords": [
+        "Private:Polaroid",
+        "SX-70",
+        "Instant Photography"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Polaroid",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Polaroid's rise-and-strain arc is a case study in experience-led hardware with film-like recurring margins; no public Polaroid equity remains, but Land's SX-70 gamble informs how investors should underwrite long R&D ramps in consumer tech."
+        }
+      ],
+      "chronologySubject": "Edwin Land · Polaroid · SX-70"
     },
     {
       "id": "acq-spacex",
@@ -9105,6 +9291,43 @@
       "chronologySubject": "Alibaba · Jack Ma"
     },
     {
+      "id": "fnd-38-the-space-barons-elon-musk-jeff-bezos-and-the-quest-to",
+      "podcastId": "founders",
+      "episodeNumber": 38,
+      "title": "The Space Barons: Elon Musk, Jeff Bezos, and the Quest to Colonize the Cosmos",
+      "guest": "Elon Musk & Jeff Bezos",
+      "displayTitle": "Elon Musk & Jeff Bezos",
+      "displaySubtitle": "The Space Barons: Elon Musk, Jeff Bezos, and the Quest to Colonize the Cosmos",
+      "guestRole": "Biography · The Space Barons · Episode 38",
+      "date": "2018-09-17",
+      "durationMinutes": 90,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Davenport's Space Barons pairs Bezos the secretive tortoise with Musk the audacious hare: vertical rocket landings reignited space hope, while 2003 Blue Origin land hunts happened as Amazon passed a trillion-dollar market cap critics once mocked. Senra stresses criticism immunity (Amazon.bomb headlines), Bezos's 2003 analogy that the web was like electricity in 1908, and the closing thesis that rivalry — not consolation — is the best rocket fuel for Mars-scale ambitions.",
+      "youtubeUrl": "",
+      "summaryFile": "fnd-38-the-space-barons-elon-musk-jeff-bezos-and-the-quest-to.md",
+      "keywords": [
+        "AMZN",
+        "TSLA",
+        "Blue Origin"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AMZN",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Bezos's 2003 confidence — double-digit segment growth while funding Blue Origin — reinforces Amazon as a cash-flow engine that subsidizes optional long-horizon bets; episode supports enduring reinvestment culture more than near-term AWS multiples."
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Musk's SpaceX narrative parallels Tesla's public-goal-driven strategy; episode is biography not an auto thesis, but illustrates how Musk uses visible rivals to marshal capital and talent toward physics-limited missions."
+        }
+      ],
+      "chronologySubject": "Musk · Bezos · Space Barons"
+    },
+    {
       "id": "acq-season-3-episode-4recode-with-kara-swisher",
       "podcastId": "acquired",
       "episodeNumber": 60,
@@ -9774,6 +9997,37 @@
       "chronologySubject": "HTC & Google hardware agreement"
     },
     {
+      "id": "fnd-8-the-intel-trinity-how-robert-noyce-gordon-moore-and-and",
+      "podcastId": "founders",
+      "episodeNumber": 8,
+      "title": "The Intel Trinity: How Robert Noyce, Gordon Moore, and Andy Grove Built the World's Most Important Company",
+      "guest": "Robert Noyce",
+      "displayTitle": "Robert Noyce",
+      "displaySubtitle": "Biography · Intel Trinity · Episode 8",
+      "guestRole": "Biography · Intel Trinity · Episode 8",
+      "date": "2017-06-20",
+      "durationMinutes": 60,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Senra focuses The Intel Trinity on Robert Noyce — Jobs's mentor and 'mayor of Silicon Valley' — rather than Gordon Moore or Andy Grove alone. Noyce co-founded Fairchild and Intel, charmed competitors on live TV, mentored Jobs through exile after Macintosh, and died June 1990 days after Sematech honored him; Apple's tribute called him the model every rebel entrepreneur wanted to become.",
+      "youtubeUrl": "",
+      "summaryFile": "fnd-8-the-intel-trinity-how-robert-noyce-gordon-moore-and-and.md",
+      "keywords": [
+        "INTC",
+        "Fairchild",
+        "Moores Law"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "INTC",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Intel's cultural origin — Noyce's fairchild lineage and Moore's Law cadence — frames INTC as a national champion grown from mentor-network silicon; historical context for investors tracking fab politics, not a 2025 earnings call."
+        }
+      ],
+      "chronologySubject": "Robert Noyce · Intel · Fairchild"
+    },
+    {
       "id": "acq-episode-36-the-la-clippers",
       "podcastId": "acquired",
       "episodeNumber": 39,
@@ -9815,7 +10069,7 @@
       "guestRole": "Biography · Episode 3",
       "date": "2017-03-24",
       "durationMinutes": 86,
-      "readMinutes": 3,
+      "readMinutes": 4,
       "rating": 3,
       "conclusion": "Edison's life is relentless resourcefulness under constraint: a headstrong boy who read from sunrise to 10 p.m., turned telegraphy into an industrial laboratory, and commercialized light, sound, and power while fighting Western Union and Wall Street. Senra ties him to Jobs, Ford, Land, and Munger — inventors who put a dent in the universe by iterating in public and refusing expert pessimism.",
       "youtubeUrl": "https://www.youtube.com/watch?v=KMnV7mX0EQM",
@@ -9828,9 +10082,9 @@
       "investmentIdeas": [
         {
           "ticker": "GE",
-          "direction": "Watch",
+          "direction": "Short",
           "confidence": "Low",
-          "thesis": "Edison's arc — invention to consolidated GE — illustrates how operational genius in labs can lose to capital structure and patent wars; today's GE is a reminder that durable value capture requires more than Menlo Park breakthroughs."
+          "thesis": "Edison's arc shows invention labs can lose to capital structure after Morgan consolidation — cautionary for industrial conglomerates distant from Menlo Park breakthrough culture. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook. Josephson's 1959 biography remains Senra's 25-hour foundation for understanding industrial America's heroic invention age."
         }
       ],
       "chronologySubject": "Thomas Edison · Josephson biography"
@@ -10140,7 +10394,7 @@
           "ticker": "DIS",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Gabler's biography reinforces Disney as an IP-and-experience compounder born from obsessive control of characters and places — the same logic behind parks, merchandise, and streaming today, even as the film studio cycles through labor and franchise risk unrelated to Walt's artisan playbook."
+          "thesis": "Gabler's biography reinforces Disney as an IP-and-experience compounder born from obsessive control of characters and places — the same logic behind parks, merchandise, and streaming today, even as the film studio cycles through labor and franchise risk unrelated to Walt's artisan playbook. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook."
         }
       ],
       "chronologySubject": "Walt Disney · Gabler biography"

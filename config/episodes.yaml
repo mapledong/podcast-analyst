@@ -525,6 +525,15 @@ episodes:
   duration_minutes: 88
   youtube_url: https://www.youtube.com/watch?v=WHYr_CeiGOM
   podcast: Invest Like the Best
+- id: fnd-405-how-rockefeller-worked
+  episode_number: 405
+  title: How Rockefeller Worked
+  guest: John D. Rockefeller
+  guest_role: Biography · Standard Oil · Episode 405
+  date: '2025-11-17'
+  duration_minutes: 58
+  youtube_url: https://www.youtube.com/watch?v=M_TiZJapSLw
+  podcast: Founders
 - id: fnd-404-larry-ellison
   episode_number: 404
   title: How Larry Ellison Thinks
@@ -551,6 +560,15 @@ episodes:
   date: '2025-09-24'
   duration_minutes: 68
   youtube_url: https://www.youtube.com/watch?v=IMXm123V3Co
+  podcast: Founders
+- id: fnd-400-the-stubborn-genius-of-james-dyson
+  episode_number: 400
+  title: The Stubborn Genius of James Dyson
+  guest: James Dyson
+  guest_role: Biography · Against the Odds · Episode 400
+  date: '2025-09-12'
+  duration_minutes: 73
+  youtube_url: https://www.youtube.com/watch?v=hagy0fhiPpY
   podcast: Founders
 - id: fnd-398-steve-jobs-in-his-own-words-make-something-wonderful
   episode_number: 398
@@ -1268,6 +1286,15 @@ episodes:
   duration_minutes: 164
   youtube_url: ''
   podcast: Acquired
+- id: fnd-159-andy-grove-intel
+  episode_number: 159
+  title: Andy Grove (Intel)
+  guest: Andy Grove
+  guest_role: Biography · Swimming Across · Episode 159
+  date: '2020-12-21'
+  duration_minutes: 70
+  youtube_url: ''
+  podcast: Founders
 - id: acq-howard-marks-andrew-marks-something-of-value
   episode_number: 158
   title: 'Howard Marks & Andrew Marks: Something of Value'
@@ -1306,6 +1333,15 @@ episodes:
   duration_minutes: 181
   youtube_url: ''
   podcast: Acquired
+- id: bb-intuitive-surgical-robotic-precision
+  episode_number: 155
+  title: 'Intuitive Surgical: Robotic Precision'
+  guest: Joe Thomas
+  guest_role: Analyst · 91 Capital
+  date: '2024-03-20'
+  duration_minutes: 66
+  youtube_url: ''
+  podcast: Business Breakdowns
 - id: acq-the-playbook-lessons-from-200-company-stories
   episode_number: 154
   title: 'The Playbook: Lessons from 200+ Company Stories'
@@ -1526,6 +1562,15 @@ episodes:
   duration_minutes: 149
   youtube_url: ''
   podcast: Acquired
+- id: fnd-132-edwin-land-steve-jobs-s-hero
+  episode_number: 132
+  title: Edwin Land (Steve Jobs's Hero)
+  guest: Edwin Land
+  guest_role: Biography · Polaroid · Episode 132
+  date: '2020-06-20'
+  duration_minutes: 61
+  youtube_url: ''
+  podcast: Founders
 - id: acq-kevin-rose-from-web-2-0-to-web3
   episode_number: 131
   title: Kevin Rose from Web 2.0 to Web3
@@ -2444,6 +2489,15 @@ episodes:
   duration_minutes: 120
   youtube_url: ''
   podcast: Acquired
+- id: fnd-38-the-space-barons-elon-musk-jeff-bezos-and-the-quest-to
+  episode_number: 38
+  title: 'The Space Barons: Elon Musk, Jeff Bezos, and the Quest to Colonize the Cosmos'
+  guest: Elon Musk & Jeff Bezos
+  guest_role: Biography · The Space Barons · Episode 38
+  date: '2018-09-17'
+  duration_minutes: 90
+  youtube_url: ''
+  podcast: Founders
 - id: acq-episode-35-oculus
   episode_number: 37
   title: Oculus (Facebook acquisition)
@@ -2471,6 +2525,15 @@ episodes:
   duration_minutes: 120
   youtube_url: ''
   podcast: Acquired
+- id: bb-amazon-aggregators-buying-third-party-sellers
+  episode_number: 35
+  title: 'Amazon Aggregators: Buying Third-Party Sellers'
+  guest: Ali Ahmed
+  guest_role: Partner · CoVenture
+  date: '2021-11-17'
+  duration_minutes: 61
+  youtube_url: ''
+  podcast: Business Breakdowns
 - id: acq-episode-31-the-uber-didi-chuxing-merger-with-brad-stone-author-of-the-upstarts-the-everything-store
   episode_number: 34
   title: The Uber–Didi Merger (with Brad Stone)
@@ -2750,6 +2813,16 @@ episodes:
   duration_minutes: 120
   youtube_url: ''
   podcast: Acquired
+- id: fnd-8-the-intel-trinity-how-robert-noyce-gordon-moore-and-and
+  episode_number: 8
+  title: 'The Intel Trinity: How Robert Noyce, Gordon Moore, and Andy Grove Built
+    the World''s Most Important Company'
+  guest: Robert Noyce
+  guest_role: Biography · Intel Trinity · Episode 8
+  date: '2017-06-20'
+  duration_minutes: 60
+  youtube_url: ''
+  podcast: Founders
 - id: acq-episode-12-snapchat
   episode_number: 7
   title: Snapchat

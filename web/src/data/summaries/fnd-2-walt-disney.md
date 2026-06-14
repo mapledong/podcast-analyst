@@ -27,11 +27,11 @@
 
 ## Key Facts
 
-> **F1** In February 1928 Mintz secretly signed Oswald animators and offered Walt $1,800 per picture — down from the $2,250 he had hoped to raise to $2,500 — while taking ownership of the character Walt created. Walt left New York with no contract, no staff, and no character; on the return trip he sketched what became Mickey Mouse.
+> **F1** Mintz 1928 betrayal: $2,250 per Oswald picture hoped raised to $2,500; offered $1,800 instead while taking character and animators — Walt left New York with nothing; Mickey sketched on train home.
 
-> **F2** Snow White (1937) grossed about $180,000 in its first 10 weeks at one theater, over $500,000 at Radio City Music Hall, and $6.7 million in U.S. receipts by May 1939 — surpassing the prior record holder by nearly $2 million. Merchandising included 2,183 licensed products and 16.5 million drinking glasses; Walt received one large Oscar and seven small ones for the dwarfs from Shirley Temple.
+> **F2** Snow White grossed $6.7 million by May 1939 — prior record beaten by ≈$2 million; 2,183 products and 16.5 million glasses; one large Oscar plus seven dwarf statuettes from Shirley Temple.
 
-> **F3** Disney bought his parents a $8,300 North Hollywood home in 1938; a defective furnace killed his mother Florrie on November 26 from carbon monoxide poisoning after a studio workman repaired it. The 1941 strike shrank the studio from about 1,500 to 600 people. Disneyland opened July 17, 1955 with 161,000 visitors its first week and 3.6 million in year one; Walt died December 15 from lung cancer after decades of chain smoking.
+> **F3** Parents' $8,300 home; mother died November 26, 1938 carbon monoxide from defective furnace studio workman installed. Strike cut staff ≈1,500 to 600; Disneyland July 1955 — 161,000 first week, 3.6 million year one; Walt died December 15, 1966 lung cancer.
 
 
 ---
@@ -40,11 +40,11 @@
 
 > **Components**
 >
-> Disney repeated one lesson after Oswald: if you do not own the work and the people around it, partners will strip you bare. He chased quality across sound, color, feature animation, television, and theme parks — each time ignoring experts who said feature cartoons or amusement parks would fail. Roy handled finance; Walt handled vision and refused to be anyone's subcontractor again.
+> Own characters, studios, parks after Oswald loss. Quality across sound, color, features, TV, parks; skeptics energized fight — Snow White and Disneyland both broke records after universal doubt.
 >
 > **Application**
 >
-> Founders who outsource brand, IP, or core talent learn the Mintz lesson the hard way. When critics say an idea cannot work, Disney's pattern was to get energized by the fight — Snow White and Disneyland both succeeded after universal doubt. Protect ownership early; treat the product as a living thing you never finish improving.
+> Protect IP and talent early; treat product as living thing never finished; when experts say fail, history shows Disney often proved them wrong — but control remains non-negotiable.
 
 ---
 
@@ -55,19 +55,19 @@
 >
 > **Q** Why was Walt Disney a control freak?
 >
-> **A** Mintz took Oswald, animators, and negotiating leverage in roughly two weeks in 1928. Walt told Roy he would never work for anyone again and spent the rest of his career owning studios, characters, and eventually Disneyland — comparing his detail fixation to Steve Jobs editing press releases.
+> **A** Mintz took Oswald, animators, and negotiating leverage in roughly two weeks in 1928. Walt told Roy he would never work for anyone again and spent the rest of his career owning studios, characters, and eventually Disneyland — comparing his detail fixation to Steve Jobs editing press releases. Senra compares Disney's control obsession to Elon Musk editing press releases — artisans who cannot delegate quality. Roy handled finance while Walt refused subcontractor status again after Mintz.
 
 > **2.** Skepticism was fuel, not friction.
 >
 > **Q** How did Disney respond when experts said he would fail?
 >
-> **A** Studios refused Snow White; amusement-park operators told him Disneyland would fail. In both cases doubt made him happier — he loved proving himself right again. Snow White became the highest-grossing American film to that date; Disneyland drew half a million visitors in its first month.
+> **A** Studios refused Snow White; amusement-park operators told him Disneyland would fail. In both cases doubt made him happier — he loved proving himself right again. Snow White became the highest-grossing American film to that date; Disneyland drew half a million visitors in its first month. Lillian hurled coffee during Snow White; daughters became central after polo ended in 1935. Walt's happiest days were weekend studio visits when Diane barely knew he was famous.
 
 > **3.** Work consumed him until family mattered late.
 >
 > **Q** What does Gabler say defined Walt as a person?
 >
-> **A** Senra cites the line that Walt was so self-absorbed he emerged only to share ideas and have them executed. Lillian hurled coffee during Snow White's production; daughters Diane and Sharon became central after polo ended following a 1935 accident. Some of his happiest days were weekend studio visits with young girls who barely knew he was Walt Disney.
+> **A** Senra cites the line that Walt was so self-absorbed he emerged only to share ideas and have them executed. Lillian hurled coffee during Snow White's production; daughters Diane and Sharon became central after polo ended following a 1935 accident. Some of his happiest days were weekend studio visits with young girls who barely knew he was Walt Disney. Amusement-park operators predicted failure before Disneyland too — Walt loved the fight. Opening week 161,000 visitors vindicated decades of obsession with a living park he never finished improving.
 
 ---
 
@@ -75,7 +75,7 @@
 
 > **1. DIS** · 🟢 LONG · ●●○ Medium
 >
-> Gabler's biography reinforces Disney as an IP-and-experience compounder born from obsessive control of characters and places — the same logic behind parks, merchandise, and streaming today, even as the film studio cycles through labor and franchise risk unrelated to Walt's artisan playbook.
+> Gabler's biography reinforces Disney as an IP-and-experience compounder born from obsessive control of characters and places — the same logic behind parks, merchandise, and streaming today, even as the film studio cycles through labor and franchise risk unrelated to Walt's artisan playbook. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook.
 
 ---
 

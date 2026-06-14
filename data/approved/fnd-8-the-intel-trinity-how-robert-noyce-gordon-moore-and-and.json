@@ -1,0 +1,105 @@
+{
+  "episode_id": "fnd-8-the-intel-trinity-how-robert-noyce-gordon-moore-and-and",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 8,
+    "title": "The Intel Trinity: How Robert Noyce, Gordon Moore, and Andy Grove Built the World's Most Important Company",
+    "guest": "Robert Noyce",
+    "guest_role": "Biography · Intel Trinity · Episode 8",
+    "date": "2017-06-20",
+    "duration_minutes": 60,
+    "youtube_url": "",
+    "links": {
+      "founders": "https://www.founderspodcast.com/episodes/8",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "review_notes": "Manual curated batch v4.10 | curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated",
+    "transcript_source": "whisper/base",
+    "status": "approved",
+    "template_version": "4.10"
+  },
+  "keywords": [
+    "INTC",
+    "Fairchild",
+    "Moores Law"
+  ],
+  "conclusion": "Senra focuses The Intel Trinity on Robert Noyce — Jobs's mentor and 'mayor of Silicon Valley' — rather than Gordon Moore or Andy Grove alone. Noyce co-founded Fairchild and Intel, charmed competitors on live TV, mentored Jobs through exile after Macintosh, and died June 1990 days after Sematech honored him; Apple's tribute called him the model every rebel entrepreneur wanted to become.",
+  "background": "David Senra reads Michael Malone's The Intel Trinity but centers Robert Noyce after Isaacson's Jobs biography sparked interest. Intel was founded by Noyce and Moore; Grove operationalized later — yet 90% of Senra's notes cover Noyce's character.\n\nStories include Jobs camping at the Noyce home for mentorship without PC advice, Noyce as beloved Fairchild/Intel figure, Sematech government partnership against Japanese competition, chain-smoking stress, and sudden death after Sematech declared Bob Noyce Day June 1 1990.",
+  "important_facts": [
+    "Steve Jobs sought Noyce as a father figure after exile from Apple — Next struggled and Jobs risked being forgotten in his 30s without another hit. Noyce let Jobs crash at events, fly in his CES plane (nearly flipping on landing), and absorb how to be successful and beloved unlike Jobs's abrasive early style.",
+    "Noyce co-founded Fairchild Semiconductor and Intel with Gordon Moore; Malone frames Intel as inventing mass-produced complex chips at billion-unit scale with Moore's Law pace. Noyce was called mayor of Silicon Valley for being successful without Jobs-like cruelty — Apple later said he was the giant who provided the model for everything they wanted to become.",
+    "Late career Noyce led Sematech with hundreds of millions in government support fighting Japanese semiconductor advantages; employees celebrated Bob Noyce Day June 1 1990 with T-shirts quoting a Mercury News pedestal line. He died Sunday June 3 1990 after swimming and lying down tired — Apple's comment called him the ultimate inventor, rebel, and entrepreneur."
+  ],
+  "mental_model": {
+    "name": "Beloved Builder",
+    "components": "Noyce combines Fairchild transistor lineage, Intel scaling culture, and personal warmth that attracts mentees and employees without intimidation. He competes publicly with confidence (TV challenges to top his demo) yet shares credit — contrasting Jobs's reality distortion without hostility. Government-industry coalitions appear when national supply chains threaten valley winners.",
+    "application": "Leadership models in tech are plural: Noyce proves you can win semiconductor revolutions while being liked — useful for founders who want high performance without burning bridges required for decades-long mentor networks."
+  },
+  "key_insights": [
+    {
+      "view": "Jobs needed a beloved model.",
+      "question": "Why did Jobs pursue Noyce?",
+      "answer": "After Apple exile Jobs wanted vision for living successfully in the valley without ridicule — Noyce had already founded two fundamental companies and was universally liked, something Jobs's early Apple behavior lacked."
+    },
+    {
+      "view": "Moore's Law needs operators.",
+      "question": "Where do Moore and Grove fit?",
+      "answer": "Intel's founding pair is Noyce and Moore (Moore's Law namesake); Grove's operational intensity came later. Episode skews Noyce because Malone's anecdotes and Jobs mentorship supply the richest founder lessons."
+    },
+    {
+      "view": "National industrial policy returns.",
+      "question": "What was Sematech's role?",
+      "answer": "Japanese government-backed competition threatened U.S. fabs; Noyce led a coalition with hundreds of millions in government funds — showing that even valley icons sometimes need public-private defense when supply chains shift."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "INTC",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Intel's cultural origin — Noyce's fairchild lineage and Moore's Law cadence — frames INTC as a national champion grown from mentor-network silicon; historical context for investors tracking fab politics, not a 2025 earnings call."
+    }
+  ],
+  "golden_quotes": [
+    "Jobs on Noyce: he was the soul of Intel — I wanted to smell that wonderful second era of the valley.",
+    "Noyce on TV after a demo: now let's see if you can top that one — friendly competitive confidence.",
+    "Apple after his death: he was the ultimate inventor, rebel, and entrepreneur — the model for everything we wanted to become."
+  ],
+  "chronology": {
+    "subject": "Robert Noyce · Intel · Fairchild",
+    "events": [
+      {
+        "date": "1950s-60s",
+        "event": "Fairchild Semiconductor era; Noyce transistor and planar process fame."
+      },
+      {
+        "date": "1968",
+        "event": "Intel founded by Noyce and Gordon Moore."
+      },
+      {
+        "date": "1984",
+        "event": "Jobs exiled from Apple; begins seeking Noyce mentorship."
+      },
+      {
+        "date": "1988-90",
+        "event": "Noyce leads Sematech coalition vs Japanese semiconductor rise."
+      },
+      {
+        "date": "1990-06-01",
+        "event": "Sematech declares Bob Noyce Day; celebration with employee T-shirts."
+      },
+      {
+        "date": "1990-06-03",
+        "event": "Noyce dies after swimming at home Sunday afternoon."
+      }
+    ]
+  }
+}

@@ -1,14 +1,29 @@
 # Expanded nightly pool beyond config/curated_bb_founders.yaml (30 curated each).
 # Long-term goal: 80+ approved summaries per podcast.
 # Refresh: python scripts/refresh_expand_bb_founders.py
-# Priority when selecting extras: full transcript > YouTube URL > other.
+# Priority when selecting extras: full transcript > public company/unicorn subject > YouTube URL > other.
 
 target_per_podcast: 80
 business_breakdowns:
+- episode_number: 226
+- episode_number: 232
+- episode_number: 202
+- episode_number: 189
+- episode_number: 149
+- episode_number: 134
+- episode_number: 119
+- episode_number: 95
+- episode_number: 88
+- episode_number: 68
+- episode_number: 43
+- episode_number: 31
+- episode_number: 21
+- episode_number: 15
+- episode_number: 11
+- episode_number: 7
 - episode_number: 245
 - episode_number: 240
 - episode_number: 239
-- episode_number: 226
 - episode_number: 223
 - episode_number: 222
 - episode_number: 220
@@ -25,7 +40,6 @@ business_breakdowns:
 - episode_number: 246
 - episode_number: 243
 - episode_number: 234
-- episode_number: 232
 - episode_number: 231
 - episode_number: 230
 - episode_number: 228
@@ -40,25 +54,44 @@ business_breakdowns:
 - episode_number: 206
 - episode_number: 205
 - episode_number: 203
-- episode_number: 202
 - episode_number: 201
-- episode_number: 200
-- episode_number: 199
-- episode_number: 198
-- episode_number: 197
-- episode_number: 196
-- episode_number: 195
-- episode_number: 193
-- episode_number: 192
-- episode_number: 191
-- episode_number: 190
-- episode_number: 189
-- episode_number: 188
-- episode_number: 187
 founders:
+- episode_number: 414
+- episode_number: 356
+- episode_number: 347
+- episode_number: 310
+- episode_number: 346
+- episode_number: 260
+- episode_number: 220
+- episode_number: 186
+- episode_number: 178
+- episode_number: 172
+- episode_number: 166
+- episode_number: 158
+- episode_number: 157
+- episode_number: 153
+- episode_number: 140
+- episode_number: 127
+- episode_number: 124
+- episode_number: 107
+- episode_number: 102
+- episode_number: 98
+- episode_number: 97
+- episode_number: 83
+- episode_number: 76
+- episode_number: 57
+- episode_number: 44
+- episode_number: 42
+- episode_number: 39
+- episode_number: 32
+- episode_number: 30
+- episode_number: 17
+- episode_number: 14
+- episode_number: 13
+- episode_number: 12
+- episode_number: 10
 - episode_number: 417
 - episode_number: 415
-- episode_number: 414
 - episode_number: 413
 - episode_number: 412
 - episode_number: 411
@@ -73,36 +106,3 @@ founders:
 - episode_number: 397
 - episode_number: 394
 - episode_number: 392
-- episode_number: 391
-- episode_number: 390
-- episode_number: 389
-- episode_number: 385
-- episode_number: 384
-- episode_number: 383
-- episode_number: 379
-- episode_number: 378
-- episode_number: 377
-- episode_number: 374
-- episode_number: 373
-- episode_number: 372
-- episode_number: 371
-- episode_number: 370
-- episode_number: 368
-- episode_number: 366
-- episode_number: 365
-- episode_number: 364
-- episode_number: 363
-- episode_number: 362
-- episode_number: 361
-- episode_number: 360
-- episode_number: 359
-- episode_number: 358
-- episode_number: 357
-- episode_number: 356
-- episode_number: 353
-- episode_number: 352
-- episode_number: 351
-- episode_number: 350
-- episode_number: 349
-- episode_number: 348
-- episode_number: 347

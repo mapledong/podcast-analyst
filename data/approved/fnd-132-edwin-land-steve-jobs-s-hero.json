@@ -1,0 +1,105 @@
+{
+  "episode_id": "fnd-132-edwin-land-steve-jobs-s-hero",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 132,
+    "title": "Edwin Land (Steve Jobs's Hero)",
+    "guest": "Edwin Land",
+    "guest_role": "Biography · Polaroid · Episode 132",
+    "date": "2020-06-20",
+    "duration_minutes": 61,
+    "youtube_url": "",
+    "links": {
+      "founders": "https://www.founderspodcast.com/episodes/132",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "review_notes": "Manual curated batch v4.10 | curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated",
+    "transcript_source": "whisper/base",
+    "status": "approved",
+    "template_version": "4.10"
+  },
+  "keywords": [
+    "Private:Polaroid",
+    "SX-70",
+    "Instant Photography"
+  ],
+  "conclusion": "Senra opens a three-part Land series with The Instant Image: high technological drama as SX-70 burned millions without revenue, problems renamed opportunities, and Land treated Polaroid as experience not hardware. Jobs modeled himself on Land — no college degree, perfectionism, secrecy, shareholder letters as poetry — and Land's rule that anything worth doing is worth doing to excess explains both Polaroid's peaks and its later strain.",
+  "background": "David Senra reads a 42-year-old copy of The Instant Image: Edwin Land and the Polaroid Experience, starting a three-part Land arc after listener Dustin mapped every Land biography. Fortune called SX-70 the biggest consumer gamble ever; Land reframed problems as opportunities while millions poured into manufacturing pain.\n\nThe episode ties Land to Steve Jobs — national treasure status, shrine-like meetings, instant camera secrecy paralleling iPhone development — and quotes Land's excess rule, group-originality skepticism, and ambition to make cameras as common as telephones.",
+  "important_facts": [
+    "At SX-70's 1971 crisis Land called Polaroid's situation 'high technological drama' while the system had cost millions and not yet returned a dime; Fortune labeled it the biggest gamble on a consumer product. Land replaced the word problem with opportunity in his vocabulary during lean years after dazzling early success.",
+    "Steve Jobs hailed Land as a national treasure and told reporters meeting him was like visiting a shrine; Jobs modeled careers after Land's perfectionism, marketing showmanship, and secrecy — Polaroid cameras developed in secret like later iPhones. Land was roughly 70 in the period covered yet still driving instant photography bets.",
+    "Land's Harvard Business Review stance: no group originality — creativity is individual. He told a 1972 annual meeting his fantasy was cameras as widely used as telephones; Polaroid film carried roughly 60–80% margin in the Kodak comparison Senra cites from the book's competitive passages."
+  ],
+  "mental_model": {
+    "name": "Experience Company, Not Product Company",
+    "components": "Land sells technological drama and human connection — partners exploring a once-empty planet — not specifications. He ignores experts who judge only existing markets, believing ingenious products create new markets. Secrecy, superlative language, and doing worthy things to excess compound until manufacturing scale and consumer economics bite.",
+    "application": "Founders chasing radical hardware should expect years of negative cash flow while renaming engineering crises as opportunities — and should study Land as both inspiration (Jobs) and caution (Polaroid unprepared for lean times after SX-70 scale-up)."
+  },
+  "key_insights": [
+    {
+      "view": "Markets follow ingenious products.",
+      "question": "Why did experts predict Polaroid failures?",
+      "answer": "They judged new cameras against existing photography markets; Land believed sufficiently ingenious products create their own demand — instant imaging defined a category Kodak underestimated until film margins woke them up."
+    },
+    {
+      "view": "Jobs's template is Land.",
+      "question": "How did Jobs describe Land?",
+      "answer": "Jobs called Land a national treasure and compared meetings to visiting a shrine; both lacked college degrees, demanded perfection, used secrecy for breakthrough launches, and treated shareholder communication as experience narrative, not metrics alone."
+    },
+    {
+      "view": "Excess is strategy.",
+      "question": "What rule did Land live by?",
+      "answer": "If anything is worth doing, it's worth doing to excess — SX-70 spend, telephone-scale camera ambition, and refusal to use anything but superlatives in public statements show Land optimizing for breakthrough experience over incremental P&L calm."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Polaroid",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Polaroid's rise-and-strain arc is a case study in experience-led hardware with film-like recurring margins; no public Polaroid equity remains, but Land's SX-70 gamble informs how investors should underwrite long R&D ramps in consumer tech."
+    }
+  ],
+  "golden_quotes": [
+    "Land on SX-70: high technological drama — millions spent, not yet a dime returned.",
+    "If anything is worth doing, it's worth doing to excess.",
+    "Jobs on Land: meeting him was like visiting a shrine."
+  ],
+  "chronology": {
+    "subject": "Edwin Land · Polaroid · SX-70",
+    "events": [
+      {
+        "date": "1930s-40s",
+        "event": "Polarizing filter invention seeds Polaroid; Land ignores expert market sizing."
+      },
+      {
+        "date": "1948+",
+        "event": "Instant camera category established; dazzling growth precedes later lean years."
+      },
+      {
+        "date": "1971",
+        "event": "SX-70 crisis — manufacturing pains, negative cash flow, Land's drama framing."
+      },
+      {
+        "date": "1972",
+        "event": "Annual meeting: fantasy of cameras as ubiquitous as telephones."
+      },
+      {
+        "date": "1980s",
+        "event": "Senra's Instant Image source book published; Jobs parallels widely discussed."
+      },
+      {
+        "date": "2020",
+        "event": "Founders episode 132 opens three-part Land series."
+      }
+    ]
+  }
+}
