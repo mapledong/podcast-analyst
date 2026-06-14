@@ -913,7 +913,7 @@ episodes:
   guest_role: Biography · Episode 190
   date: '2021-07-10'
   duration_minutes: 59
-  youtube_url: ''
+  youtube_url: https://www.youtube.com/watch?v=KzXxxbuTAAg
   podcast: Founders
 - id: acq-microsoft-volume-ii
   episode_number: 189

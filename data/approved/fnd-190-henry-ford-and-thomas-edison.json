@@ -9,11 +9,12 @@
     "guest_role": "Biography · Episode 190",
     "date": "2021-07-10",
     "duration_minutes": 59,
-    "youtube_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=KzXxxbuTAAg",
     "links": {
       "founders": "https://www.founderspodcast.com/episodes/190-henry-ford-and-thomas-edison",
       "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
-      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj"
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "youtube": "https://www.youtube.com/watch?v=KzXxxbuTAAg"
     }
   },
   "episode_rating": {

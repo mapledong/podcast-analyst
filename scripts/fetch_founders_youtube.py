@@ -30,11 +30,6 @@ from src.fetch_transcript import extract_video_id, fetch_transcript  # noqa: E40
 DISCOVERED = ROOT / "data" / "discovered" / "founders_episodes.json"
 APPROVED = ROOT / "data" / "approved"
 YOUTUBE_CHANNEL = "https://www.youtube.com/@founderspodcast1/videos"
-MIN_MATCH_SCORE = 70
-DEFAULT_TRANSCRIPT_DELAY = 60.0
-DEFAULT_BATCH_SIZE = 3
-MAX_TRANSCRIPT_RETRIES = 3
-TRANSCRIPT_BACKOFF_DELAYS = (60, 120, 240)
 
 # High-confidence overrides when RSS/YouTube titles diverge but mapping is known.
 MANUAL_BY_EPISODE: dict[int, str] = {
@@ -43,7 +38,15 @@ MANUAL_BY_EPISODE: dict[int, str] = {
     286: "t47NBQqlzbk",  # 400 Pages of Warren Buffett and Charlie Munger…
     2: "Hc3u0bUu8eg",  # The Biography of Walt Disney
     3: "KMnV7mX0EQM",  # The Biography of Thomas Edison
+    190: "KzXxxbuTAAg",  # Henry Ford's Autobiography
+    233: "GmmuNVv4ehE",  # Peter Thiel's Ideas (PayPal mafia episode)
 }
+
+MIN_MATCH_SCORE = 70
+DEFAULT_TRANSCRIPT_DELAY = 60.0
+DEFAULT_BATCH_SIZE = 3
+MAX_TRANSCRIPT_RETRIES = 3
+TRANSCRIPT_BACKOFF_DELAYS = (60, 120, 240)
 
 STOP = frozenset(
     {
