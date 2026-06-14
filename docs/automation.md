@@ -142,9 +142,11 @@ If `SMTP_HOST` is invalid, the workflow fails with `Name or service not known`.
 
 **Gmail:** enable 2-Step Verification, then create an App Password at https://myaccount.google.com/apppasswords
 
-Trial send: Actions → **Weekly Summary Digest Email** → Run workflow (`trial=true`, `max_items=10`).
+Trial send: Actions → **Weekly Summary Digest Email** → Run workflow (`trial=true`).
 
-The email includes the new summaries added in the last 7 days: podcast, theme/title, guest/subject, conclusion, and investment ideas.
+The email filters by **episode publish date** (`metadata.date`) in the past 7 days — not git commit time. Layout: weekly index first, then each episode's conclusion and investment ideas. HTML matches site styling (cards, podcast accents, Long/Short badges).
+
+Preview locally: `python scripts/send_weekly_digest.py --preview-html tmp/weekly_digest_preview.html --days 7`
 
 ## YouTube caption rate limits (important)
 

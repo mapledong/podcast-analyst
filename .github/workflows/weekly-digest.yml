@@ -7,13 +7,13 @@ on:
   workflow_dispatch:
     inputs:
       trial:
-        description: Send as trial preview ([Trial] subject, max 10 items)
+        description: Send as trial preview ([Trial] subject banner)
         type: boolean
         default: true
       max_items:
-        description: Max summaries in email (0 = no limit)
+        description: Max episodes (0 = no limit)
         required: false
-        default: "10"
+        default: "0"
 
 permissions:
   contents: read
