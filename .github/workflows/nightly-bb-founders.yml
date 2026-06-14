@@ -1,0 +1,62 @@
+name: Nightly BB/Founders Expansion
+
+on:
+  schedule:
+    # Daily 02:00 Beijing (18:00 UTC)
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: Max summaries per run
+        required: false
+        default: "10"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nightly-bb-founders
+  cancel-in-progress: false
+
+jobs:
+  expand:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install cursor-sdk
+          cd web && npm ci
+      - name: Report ready queue
+        run: python scripts/resolve_curated_bb_founders.py --stats && python scripts/resolve_curated_bb_founders.py --ready || true
+      - name: Run overnight BB/Founders agent
+        env:
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+          CURSOR_AGENT_MODEL: ${{ vars.CURSOR_AGENT_MODEL || 'gpt-5.5-medium' }}
+          NIGHTLY_BATCH_SIZE: ${{ github.event.inputs.batch_size || vars.NIGHTLY_BATCH_SIZE || '10' }}
+        run: python scripts/overnight_bb_founders.py
+      - name: Post-process and sync web
+        run: |
+          python scripts/normalize_summary_tickers.py --publish || true
+          python scripts/fix_meta_prose_batch.py || true
+          node web/scripts/sync-content.mjs
+      - name: Block mp3 from commit
+        run: chmod +x scripts/verify_no_mp3_in_commit.sh && ./scripts/verify_no_mp3_in_commit.sh
+      - name: Commit nightly summaries
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Nightly BB/Founders summaries"
+          file_pattern: "data/approved/** outputs/** web/src/data/** config/episodes.yaml"
+          push: true
