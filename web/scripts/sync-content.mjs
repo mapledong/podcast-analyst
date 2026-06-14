@@ -34,6 +34,14 @@ function estimateReadMinutes(markdown) {
   return Math.max(1, Math.round(words / 200));
 }
 
+function resolveLocalCover(podcastId) {
+  const jpg = path.join(COVERS_OUT, `${podcastId}.jpg`);
+  const svg = path.join(COVERS_OUT, `${podcastId}.svg`);
+  if (fs.existsSync(jpg) && fs.statSync(jpg).size > 500) return `/covers/${podcastId}.jpg`;
+  if (fs.existsSync(svg)) return `/covers/${podcastId}.svg`;
+  return `/covers/${podcastId}.jpg`;
+}
+
 async function fetchAppleCover(applePodcastId, podcastId) {
   fs.mkdirSync(COVERS_OUT, { recursive: true });
   const localFile = `${podcastId}.jpg`;
@@ -68,6 +76,11 @@ async function fetchAppleCover(applePodcastId, podcastId) {
       console.warn(`Cover fetch failed for ${podcastId}, using cached JPG`);
       return cached;
     }
+    const svgFallback = path.join(COVERS_OUT, `${podcastId}.svg`);
+    if (fs.existsSync(svgFallback)) {
+      console.warn(`Cover fetch failed for ${podcastId}, using local SVG`);
+      return `/covers/${podcastId}.svg`;
+    }
     console.warn(`Cover fetch failed for ${podcastId}: ${err.message}`);
     throw err;
   }
@@ -98,8 +111,7 @@ const podcasts = await Promise.all(
       try {
         cover_url = await fetchAppleCover(p.apple_podcast_id, p.id);
       } catch {
-        const cached = path.join(COVERS_OUT, `${p.id}.jpg`);
-        if (fs.existsSync(cached)) cover_url = `/covers/${p.id}.jpg`;
+        cover_url = resolveLocalCover(p.id);
       }
     } else if (p.cover_url) {
       cover_url = p.cover_url;

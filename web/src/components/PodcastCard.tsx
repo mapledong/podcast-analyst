@@ -1,5 +1,7 @@
 import type { CSSProperties } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
+import { assetUrl } from "../lib/assets";
 import type { Podcast } from "../types";
 
 interface Props {
@@ -8,6 +10,7 @@ interface Props {
 
 export default function PodcastCard({ podcast }: Props) {
   const hasEpisodes = podcast.episodeCount > 0;
+  const [coverFailed, setCoverFailed] = useState(false);
 
   return (
     <Link
@@ -17,12 +20,13 @@ export default function PodcastCard({ podcast }: Props) {
     >
       <div className="podcast-card-cover">
         <img
-          src={podcast.cover_url}
+          src={assetUrl(podcast.cover_url)}
           alt={`${podcast.name} cover art`}
           loading="lazy"
           className="podcast-cover-img"
+          onError={() => setCoverFailed(true)}
         />
-        <div className="cover-fallback" aria-hidden>
+        <div className={`cover-fallback${coverFailed ? " visible" : ""}`} aria-hidden>
           {podcast.name
             .split(" ")
             .slice(0, 2)

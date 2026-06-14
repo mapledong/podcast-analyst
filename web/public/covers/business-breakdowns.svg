@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#0068B3"/>
+  <text x="300" y="300" text-anchor="middle" fill="#fff" font-family="Georgia, serif" font-size="40" font-weight="400">Business</text>
+  <text x="300" y="350" text-anchor="middle" fill="#fff" font-family="Georgia, serif" font-size="40" font-weight="400">Breakdowns</text>
+</svg>

@@ -8,6 +8,7 @@ import StarRating from "../components/StarRating";
 import { compareEpisodes, data, formatDate, getPodcast } from "../lib/catalog";
 import { episodeHeadline, episodeSubtitle } from "../lib/displayTitles";
 import { applyEpisodeFilters, hasActiveFilters } from "../lib/filters";
+import { assetUrl } from "../lib/assets";
 
 export default function HomePage() {
   const totalSummaries = data.episodes.length;
@@ -80,7 +81,7 @@ export default function HomePage() {
                     className="search-result-row"
                     style={{ "--accent": podcast.accent_color } as CSSProperties}
                   >
-                    <img src={podcast.cover_url} alt="" className="search-result-cover" />
+                    <img src={assetUrl(podcast.cover_url)} alt="" className="search-result-cover" />
                     <div className="search-result-body">
                       <div className="search-result-top">
                         <span className="episode-num">

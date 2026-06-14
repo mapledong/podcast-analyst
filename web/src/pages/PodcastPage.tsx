@@ -3,6 +3,7 @@ import { useMemo, useState } from "react";
 import { useParams } from "react-router-dom";
 import Breadcrumbs from "../components/Breadcrumbs";
 import EpisodeCard from "../components/EpisodeCard";
+import { assetUrl } from "../lib/assets";
 import { compareEpisodes, data, getEpisodesForPodcast, getPodcast } from "../lib/catalog";
 import { filterEpisodes } from "../lib/search";
 
@@ -40,7 +41,7 @@ export default function PodcastPage() {
 
       <header className="podcast-header">
         <img
-          src={podcast.cover_url}
+          src={assetUrl(podcast.cover_url)}
           alt=""
           className="podcast-header-cover"
           onError={(e) => {
