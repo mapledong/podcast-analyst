@@ -33,21 +33,7 @@ jobs:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-        run: |
-          set -euo pipefail
-          missing=0
-          for name in SMTP_HOST SMTP_USER SMTP_PASSWORD; do
-            val="${!name:-}"
-            if [ -z "${val// /}" ]; then
-              echo "::error title=Missing SMTP secret::Add repository secret '$name' under Settings → Secrets and variables → Actions."
-              missing=1
-            fi
-          done
-          if [ "$missing" -ne 0 ]; then
-            exit 1
-          fi
-          echo "SMTP host configured: ${SMTP_HOST}"
-          echo "SMTP user configured: ${SMTP_USER}"
+        run: bash scripts/verify_smtp_secrets.sh
       - name: Send weekly digest
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}

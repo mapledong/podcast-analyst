@@ -132,7 +132,13 @@ Required **repository secrets** (Settings → Secrets and variables → **Action
 | `SMTP_FROM` | `alex.dongrufeng@gmail.com` |
 | `WEEKLY_DIGEST_TO` | `mapledong1996@hotmail.com` (optional; defaults to hotmail) |
 
-Secret names must match **exactly** (case-sensitive). If `SMTP_HOST` is missing or empty, the workflow fails with `Name or service not known`.
+Secret names must match **exactly** (case-sensitive). Common mistakes:
+
+- `SMTP_HOST` = your **email** → wrong; use `smtp.gmail.com`
+- `SMTP_HOST` = `https://smtp.gmail.com` → wrong; no `https://`
+- `SMTP_PASSWORD` = Gmail **login password** → wrong; use **App Password**
+
+If `SMTP_HOST` is invalid, the workflow fails with `Name or service not known`.
 
 **Gmail:** enable 2-Step Verification, then create an App Password at https://myaccount.google.com/apppasswords
 

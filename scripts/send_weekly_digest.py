@@ -127,6 +127,22 @@ def _html(text: str) -> str:
     return f"<html><body style=\"font-family: -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; line-height:1.45\">{escaped}</body></html>"
 
 
+def _normalize_smtp_host(raw: str) -> str:
+    host = raw.strip().strip('"').strip("'")
+    for prefix in ("https://", "http://"):
+        if host.lower().startswith(prefix):
+            host = host[len(prefix) :]
+    host = host.split("/")[0].strip()
+    if "@" in host:
+        raise SystemExit(
+            "SMTP_HOST looks like an email address. "
+            "Set SMTP_HOST=smtp.gmail.com and SMTP_USER=your@gmail.com separately."
+        )
+    if ":" in host:
+        host = host.rsplit(":", 1)[0]
+    return host
+
+
 def _smtp_config() -> tuple[str, int, str, str, str]:
     missing = [k for k in ("SMTP_HOST", "SMTP_USER", "SMTP_PASSWORD") if not (os.environ.get(k) or "").strip()]
     if missing:
@@ -136,12 +152,13 @@ def _smtp_config() -> tuple[str, int, str, str, str]:
             + ". In GitHub: repo Settings → Secrets and variables → Actions → add "
             "SMTP_HOST, SMTP_USER, SMTP_PASSWORD (and SMTP_FROM). See docs/automation.md."
         )
-    host = os.environ["SMTP_HOST"].strip()
-    if not host or " " in host:
+    host = _normalize_smtp_host(os.environ["SMTP_HOST"])
+    if not host or " " in host or "." not in host:
         raise SystemExit(
-            f"Invalid SMTP_HOST={host!r}. For Gmail use exactly: smtp.gmail.com"
+            f"Invalid SMTP_HOST after cleanup: {host!r}. For Gmail use exactly: smtp.gmail.com"
         )
-    port = int((os.environ.get("SMTP_PORT") or "587").strip())
+    raw_port = (os.environ.get("SMTP_PORT") or "587").strip() or "587"
+    port = int(raw_port)
     user = os.environ["SMTP_USER"].strip()
     # Gmail app passwords are often copied with spaces — strip them all.
     password = os.environ["SMTP_PASSWORD"].replace(" ", "").strip()
@@ -206,7 +223,19 @@ def main() -> int:
         default=0,
         help="Cap number of summaries in the email (0 = no limit)",
     )
+    parser.add_argument(
+        "--test-smtp",
+        action="store_true",
+        help="Only verify SMTP login (no email body sent)",
+    )
     args = parser.parse_args()
+
+    if args.test_smtp:
+        host, port, user, _password, _from_addr = _smtp_config()
+        print(f"SMTP config OK: host={host} port={port} user={user}")
+        send_email("[SMTP test] Podcast Analyst", "SMTP connectivity test.", to_addr=args.to)
+        print(f"SMTP test email sent to {args.to}")
+        return 0
 
     paths = _changed_approved_files(args.days)
     items = _digest_items(paths)
