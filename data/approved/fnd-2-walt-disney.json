@@ -1,0 +1,107 @@
+{
+  "episode_id": "fnd-2-walt-disney",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 2,
+    "title": "Walt Disney",
+    "guest": "Walt Disney",
+    "guest_role": "Biography · Episode 2",
+    "date": "2016-10-10",
+    "duration_minutes": 77,
+    "youtube_url": "https://www.youtube.com/watch?v=Hc3u0bUu8eg",
+    "links": {
+      "founders": "https://www.founderspodcast.com/episodes/2-walt-disney",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "youtube": "https://www.youtube.com/watch?v=Hc3u0bUu8eg"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "DIS",
+    "Creative Control",
+    "Theme Parks"
+  ],
+  "conclusion": "Disney's arc is control recovered from betrayal: losing Oswald taught him to own characters and studios, Snow White proved skeptics wrong at $6.7 million in receipts, and Disneyland became the living project he refined until lung cancer ended a chain-smoking life. Senra frames him as a master of order and quality — an artisan who worked through family tragedy and labor strikes to build an empire that outlasted him.",
+  "background": "Senra rereads Neil Gabler's Walt Disney: The Triumph of the American Imagination and walks chronologically through five defining episodes. Disney never finished high school yet started his first business at 19 in Missouri before heading west. The episode opens on Charlie Mintz's 1928 betrayal — the two-week crisis that cost Oswald, most animators, and any rights to the rabbit — then tracks Mickey Mouse born on the train ride home, Snow White's record box office, his mother's carbon-monoxide death in the house he bought, the animator strike that cut staff from roughly 1,500 to 600, and Disneyland's 1955 opening against every amusement-park operator's doubt.",
+  "important_facts": [
+    "In February 1928 Mintz secretly signed Oswald animators and offered Walt $1,800 per picture — down from the $2,250 he had hoped to raise to $2,500 — while taking ownership of the character Walt created. Walt left New York with no contract, no staff, and no character; on the return trip he sketched what became Mickey Mouse.",
+    "Snow White (1937) grossed about $180,000 in its first 10 weeks at one theater, over $500,000 at Radio City Music Hall, and $6.7 million in U.S. receipts by May 1939 — surpassing the prior record holder by nearly $2 million. Merchandising included 2,183 licensed products and 16.5 million drinking glasses; Walt received one large Oscar and seven small ones for the dwarfs from Shirley Temple.",
+    "Disney bought his parents a $8,300 North Hollywood home in 1938; a defective furnace killed his mother Florrie on November 26 from carbon monoxide poisoning after a studio workman repaired it. The 1941 strike shrank the studio from about 1,500 to 600 people. Disneyland opened July 17, 1955 with 161,000 visitors its first week and 3.6 million in year one; Walt died December 15 from lung cancer after decades of chain smoking."
+  ],
+  "mental_model": {
+    "name": "Control the Canvas",
+    "components": "Disney repeated one lesson after Oswald: if you do not own the work and the people around it, partners will strip you bare. He chased quality across sound, color, feature animation, television, and theme parks — each time ignoring experts who said feature cartoons or amusement parks would fail. Roy handled finance; Walt handled vision and refused to be anyone's subcontractor again.",
+    "application": "Founders who outsource brand, IP, or core talent learn the Mintz lesson the hard way. When critics say an idea cannot work, Disney's pattern was to get energized by the fight — Snow White and Disneyland both succeeded after universal doubt. Protect ownership early; treat the product as a living thing you never finish improving."
+  },
+  "key_insights": [
+    {
+      "view": "Betrayal forged permanent control obsession.",
+      "question": "Why was Walt Disney a control freak?",
+      "answer": "Mintz took Oswald, animators, and negotiating leverage in roughly two weeks in 1928. Walt told Roy he would never work for anyone again and spent the rest of his career owning studios, characters, and eventually Disneyland — comparing his detail fixation to Steve Jobs editing press releases."
+    },
+    {
+      "view": "Skepticism was fuel, not friction.",
+      "question": "How did Disney respond when experts said he would fail?",
+      "answer": "Studios refused Snow White; amusement-park operators told him Disneyland would fail. In both cases doubt made him happier — he loved proving himself right again. Snow White became the highest-grossing American film to that date; Disneyland drew half a million visitors in its first month."
+    },
+    {
+      "view": "Work consumed him until family mattered late.",
+      "question": "What does Gabler say defined Walt as a person?",
+      "answer": "Senra cites the line that Walt was so self-absorbed he emerged only to share ideas and have them executed. Lillian hurled coffee during Snow White's production; daughters Diane and Sharon became central after polo ended following a 1935 accident. Some of his happiest days were weekend studio visits with young girls who barely knew he was Walt Disney."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "DIS",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Gabler's biography reinforces Disney as an IP-and-experience compounder born from obsessive control of characters and places — the same logic behind parks, merchandise, and streaming today, even as the film studio cycles through labor and franchise risk unrelated to Walt's artisan playbook."
+    }
+  ],
+  "golden_quotes": [
+    "He had learned that you had to control what you had or it would be taken from you — Walt never forgot the Oswald betrayal that unfolded in about two weeks.",
+    "Snow White returned over $1 million to the studio on $3.5 million in U.S. and Canada gross — the highest-grossing American film to that point in the 1930s.",
+    "Even after 3,000 workers poured 5,000 cubic yards of concrete, Walt still wasn't finished — the night before Disneyland opened he stayed up repainting a giant squid for the park."
+  ],
+  "chronology": {
+    "subject": "Walt Disney · Gabler biography",
+    "events": [
+      {
+        "date": "1928",
+        "event": "Mintz betrays Walt over Oswald; Mickey Mouse conceived on the train ride back to Los Angeles."
+      },
+      {
+        "date": "1937–1939",
+        "event": "Snow White becomes highest-grossing American film to date; Oscar with seven dwarf statuettes."
+      },
+      {
+        "date": "1938",
+        "event": "Mother dies of carbon monoxide in the new home Walt and Roy bought for parents."
+      },
+      {
+        "date": "1941",
+        "event": "Animator strike cuts Disney studio headcount from about 1,500 to 600."
+      },
+      {
+        "date": "1955",
+        "event": "Disneyland opens; 161,000 visitors first week, 3.6 million in year one."
+      },
+      {
+        "date": "1966",
+        "event": "Walt Disney dies at 9:35 a.m. on December 15 from lung cancer."
+      }
+    ]
+  },
+  "review_notes": "Manual agent batch | curated v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "founderspodcast.com",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  }
+}

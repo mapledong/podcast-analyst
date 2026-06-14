@@ -552,6 +552,15 @@ episodes:
   duration_minutes: 68
   youtube_url: https://www.youtube.com/watch?v=IMXm123V3Co
   podcast: Founders
+- id: fnd-398-steve-jobs-in-his-own-words-make-something-wonderful
+  episode_number: 398
+  title: Steve Jobs In His Own Words (Make Something Wonderful)
+  guest: Steve Jobs In His Own Words (Make Something Wonderful)
+  guest_role: Biography · Episode 398
+  date: '2025-08-14'
+  duration_minutes: 121
+  youtube_url: https://www.youtube.com/watch?v=zGEOQ6I2Sv4
+  podcast: Founders
 - id: fnd-396-the-obsession-of-enzo-ferrari
   episode_number: 396
   title: The Obsession of Enzo Ferrari
@@ -560,6 +569,24 @@ episodes:
   date: '2025-07-30'
   duration_minutes: 57
   youtube_url: https://www.youtube.com/watch?v=-quUT9uGApo
+  podcast: Founders
+- id: fnd-388-jeff-bezos-s-shareholder-letters-all-of-them
+  episode_number: 388
+  title: 'Jeff Bezos''s Shareholder Letters: All of Them!'
+  guest: Jeff Bezos's Shareholder Letters
+  guest_role: Biography · Episode 388
+  date: '2025-05-15'
+  duration_minutes: 79
+  youtube_url: https://www.youtube.com/watch?v=NFjdllY44J0
+  podcast: Founders
+- id: fnd-386-akio-morita-founder-of-sony
+  episode_number: 386
+  title: 'Akio Morita: Founder of Sony'
+  guest: Akio Morita
+  guest_role: Biography · Episode 386
+  date: '2025-04-22'
+  duration_minutes: 71
+  youtube_url: https://www.youtube.com/watch?v=ynlY9rIb7O8
   podcast: Founders
 - id: fnd-382-who-is-michael-ovitz-the-rise-and-fall-and-rise-of-the
   episode_number: 382
@@ -580,6 +607,15 @@ episodes:
   duration_minutes: 100
   youtube_url: https://www.youtube.com/watch?v=Sywq2Ua4GXw
   podcast: Founders
+- id: fnd-369-elon-musk-and-the-early-days-of-spacex
+  episode_number: 369
+  title: Elon Musk and The Early Days of SpaceX
+  guest: Elon Musk and The Early Days of SpaceX
+  guest_role: Biography · Episode 369
+  date: '2024-11-01'
+  duration_minutes: 63
+  youtube_url: https://www.youtube.com/watch?v=2hSdEkDe87s
+  podcast: Founders
 - id: fnd-367-inside-the-contrarian-mind-of-sam-zell
   episode_number: 367
   title: Inside the Contrarian Mind of Sam Zell
@@ -597,6 +633,35 @@ episodes:
   date: '2024-07-04'
   duration_minutes: 44
   youtube_url: https://www.youtube.com/watch?v=ieuPEgGMS2w
+  podcast: Founders
+- id: fnd-354-sam-walton-the-inside-story-of-america-s-richest-man
+  episode_number: 354
+  title: 'Sam Walton: The Inside Story of America''s Richest Man'
+  guest: Sam Walton
+  guest_role: Biography · Episode 354
+  date: '2024-06-29'
+  duration_minutes: 92
+  youtube_url: https://www.youtube.com/watch?v=tL71OzGcewk
+  podcast: Founders
+- id: fnd-304-sol-price-the-founder-who-taught-jim-sinegal-sam-walton
+  episode_number: 304
+  title: Sol Price (The Founder Who Taught Jim Sinegal, Sam Walton, Jeff Bezos, Bernie
+    Marcus)
+  guest: Sol Price (The Founder Who Taught Jim Sinegal, Sam Walton, Jeff Bezos, Bernie
+    Marcus)
+  guest_role: Biography · Episode 304
+  date: '2023-05-22'
+  duration_minutes: 59
+  youtube_url: https://www.youtube.com/watch?v=1ENZ3Mq2NXw
+  podcast: Founders
+- id: fnd-286-warren-buffett-and-charlie-munger
+  episode_number: 286
+  title: Warren Buffett and Charlie Munger
+  guest: Warren Buffett and Charlie Munger
+  guest_role: Biography · Episode 286
+  date: '2023-01-16'
+  duration_minutes: 70
+  youtube_url: https://www.youtube.com/watch?v=t47NBQqlzbk
   podcast: Founders
 - id: bb-toast-sticky-saas
   episode_number: 247
@@ -673,12 +738,21 @@ episodes:
 - id: bb-robinhood-mobile-first-margins-later
   episode_number: 233
   title: 'Robinhood: Mobile First, Margins Later'
-  guest: Robinhood
-  guest_role: Public · HOOD
+  guest: Arthur Olson
+  guest_role: Founding Partner, Ravenswood Partners
   date: '2025-10-31'
   duration_minutes: 60
   youtube_url: ''
   podcast: Business Breakdowns
+- id: fnd-233-elon-musk-peter-thiel-max-levchin-paypal
+  episode_number: 233
+  title: Elon Musk, Peter Thiel, Max Levchin (PayPal)
+  guest: Elon Musk, Peter Thiel, Max Levchin (PayPal)
+  guest_role: Biography · Episode 233
+  date: '2022-02-23'
+  duration_minutes: 113
+  youtube_url: https://www.youtube.com/watch?v=GmmuNVv4ehE
+  podcast: Founders
 - id: bb-exor-fiat-crisis-to-ferrari-glory
   episode_number: 229
   title: 'Exor: Fiat Crisis to Ferrari Glory'
@@ -2739,6 +2813,16 @@ episodes:
   duration_minutes: 47
   youtube_url: ''
   podcast: Business Breakdowns
+- id: fnd-3-the-wizard-of-menlo-park-how-thomas-edison-invented-the
+  episode_number: 3
+  title: 'The Wizard of Menlo Park: How Thomas Edison Invented The Modern the Modern
+    World'
+  guest: The Wizard of Menlo Park
+  guest_role: Biography · Episode 3
+  date: '2017-03-24'
+  duration_minutes: 86
+  youtube_url: https://www.youtube.com/watch?v=KMnV7mX0EQM
+  podcast: Founders
 - id: acq-acquired-episode-16-midroll-stitcher-acquired-by-scripps
   episode_number: 2
   title: Acquired Episode 16 Midroll Stitcher Acquired By Scripps
@@ -2748,6 +2832,15 @@ episodes:
   duration_minutes: 120
   youtube_url: ''
   podcast: Acquired
+- id: fnd-2-walt-disney
+  episode_number: 2
+  title: Walt Disney
+  guest: Walt Disney
+  guest_role: Biography · Episode 2
+  date: '2016-10-10'
+  duration_minutes: 77
+  youtube_url: https://www.youtube.com/watch?v=Hc3u0bUu8eg
+  podcast: Founders
 - id: acq-acquired-episode-15-exacttarget-acquired-by-salesforce-with-scott-dorsey
   episode_number: 1
   title: Acquired Episode 15 Exacttarget Acquired By Salesforce With Scott Dorsey

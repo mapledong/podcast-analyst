@@ -40,12 +40,15 @@ jobs:
           pip install cursor-sdk
           cd web && npm ci
       - name: Report ready queue
-        run: python scripts/resolve_curated_bb_founders.py --stats && python scripts/resolve_curated_bb_founders.py --ready || true
+        run: |
+          python scripts/resolve_curated_bb_founders.py --stats
+          python scripts/resolve_curated_bb_founders.py --ready --limit ${{ github.event.inputs.batch_size || vars.NIGHTLY_BATCH_SIZE || '10' }} || true
       - name: Run overnight BB/Founders agent
         env:
           CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
           CURSOR_AGENT_MODEL: ${{ vars.CURSOR_AGENT_MODEL || 'gpt-5.5-medium' }}
           NIGHTLY_BATCH_SIZE: ${{ github.event.inputs.batch_size || vars.NIGHTLY_BATCH_SIZE || '10' }}
+          TARGET_PER_PODCAST: ${{ vars.TARGET_PER_PODCAST || '80' }}
         run: python scripts/overnight_bb_founders.py
       - name: Post-process and sync web
         run: |

@@ -147,9 +147,17 @@ Founders/BB YouTube caption fetches default to 3 episodes per run with 60s spaci
 
 Workflow: `.github/workflows/nightly-bb-founders.yml`
 
+**Long-term goal:** **80+ approved summaries per podcast** (Business Breakdowns + Founders). Expanded pool: `config/curated_bb_founders.yaml` (30 each) plus `config/expand_bb_founders.yaml` / auto-fill from `data/discovered/*.json` to `TARGET_PER_PODCAST` (default **80**).
+
+**Selection policy:** prioritize **public companies (上市公司)** and **unicorn startups (一级市场独角兽)**; within the pool prefer episodes with a **full transcript** already in `data/transcripts/` (fetch YouTube captions before Whisper).
+
 Schedule: **daily 02:00 Beijing** (18:00 UTC). Target **5–10 summaries per night** (default 10; set repo variable `NIGHTLY_BATCH_SIZE`).
 
-Uses `scripts/overnight_bb_founders.py` (Cursor SDK) to write summaries for episodes in the `--ready` queue (full transcript, not yet approved). Commits only:
+Long-term goal: **80+ high-quality approved summaries per podcast** (Business Breakdowns + Founders). The nightly pool is `config/curated_bb_founders.yaml` (30 curated each) plus `config/expand_bb_founders.yaml` (fills to `target_per_podcast: 80`).
+
+**Transcript-first policy:** episodes with a full transcript in `data/transcripts/` are summarized first. YouTube caption fetch is the fallback for pool episodes with a `youtube_url` but no transcript yet. Avoid Whisper in the nightly job unless no other source exists (run Whisper locally via `scripts/batch_bb_founders_pipeline.py --transcribe`).
+
+Uses `scripts/overnight_bb_founders.py` (Cursor SDK) to write summaries for episodes from `resolve_curated_bb_founders.py --ready --limit N`. Commits only:
 
 ```text
 data/approved/**  outputs/**  web/src/data/**  config/episodes.yaml
@@ -159,7 +167,34 @@ data/approved/**  outputs/**  web/src/data/**  config/episodes.yaml
 
 Required secret: `CURSOR_API_KEY` (same as weekly update).
 
+Optional repository variables:
+
+| Variable | Default | Purpose |
+|---|---|---|
+| `NIGHTLY_BATCH_SIZE` | `10` | Max summaries per nightly run |
+| `TARGET_PER_PODCAST` | `80` | Expanded pool size per podcast |
+
 Manual run: **Actions → Nightly BB/Founders Expansion → Run workflow**.
+
+### Pool progress and refresh
+
+```bash
+python scripts/resolve_curated_bb_founders.py --stats
+python scripts/resolve_curated_bb_founders.py --ready --limit 10
+```
+
+Stats fields: `approved` / `target` / `ready_with_transcript` / `ready_total`, plus `youtube_no_transcript` and `needs_transcribe` for backlog.
+
+Refresh the expand list after RSS discovery or new transcripts:
+
+```bash
+python scripts/discover_colossus_podcasts.py --founders-youtube   # optional: refresh RSS
+python scripts/refresh_expand_bb_founders.py                      # rewrite expand yaml extras
+python scripts/fetch_founders_youtube.py --transcripts            # Founders captions (rate-limited)
+python scripts/fetch_curated_youtube.py --transcripts           # BB captions for expand pool
+```
+
+Edit `config/curated_bb_founders.yaml` to change the core 30; edit `target_per_podcast` or per-episode `episode_number` entries in `config/expand_bb_founders.yaml` for manual overrides.
 
 ### Local Mac (optional)
 
@@ -173,4 +208,4 @@ chmod +x scripts/install-overnight-launchd.sh scripts/overnight-local.sh
 
 Logs: `tmp/overnight-logs/`. Prefer GitHub Actions if the machine sleeps at night.
 
-Current curated progress: `python scripts/resolve_curated_bb_founders.py --stats`
+Current expanded pool progress: `python scripts/resolve_curated_bb_founders.py --stats`

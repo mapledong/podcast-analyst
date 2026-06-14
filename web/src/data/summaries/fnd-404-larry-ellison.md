@@ -10,7 +10,7 @@
 
 **Guest** Larry Ellison · Founder of Oracle · Softwar
 
-**Listen**  · [Apple](https://podcasts.apple.com/podcast/founders/id1141877104) · [Spotify](https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj)
+**Listen** [YouTube](https://www.youtube.com/watch?v=z__KpHVSglE) · [Apple](https://podcasts.apple.com/podcast/founders/id1141877104) · [Spotify](https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj)
 
 **Topics** ORCL · Contrarian Bets · Cost Control
 > ### Conclusion
@@ -118,5 +118,5 @@
 
 - **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Founders, David Senra, or Larry Ellison. It reflects independent analyst notes for personal research and education only.
 - **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
-- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=z__KpHVSglE) for full context and the guest's own words.
 - **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

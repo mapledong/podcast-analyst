@@ -1,5 +1,8 @@
 # BB / Founders summary build instructions (template v4.10)
 
+## Selection (long-term pool)
+- Target **80+ episodes per podcast**; prefer subjects that are **public companies** (US tickers) or **unicorn startups**, and episodes with an existing **full transcript** before Whisper.
+
 ## Authenticity — NON-NEGOTIABLE
 - Read transcript before writing (`data/transcripts/{prefix}-{slug}.txt` or episode_id).
 - Use ONLY facts, numbers, and quotes from transcript or episode show notes.

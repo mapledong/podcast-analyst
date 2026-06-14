@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Nightly BB/Founders expansion via Cursor SDK.
 
-Processes episodes from `resolve_curated_bb_founders.py --ready` (full transcript,
-no approved JSON yet). Intended for GitHub Actions (~2am Beijing) or local
-launchd on Mac mini.
+Processes episodes from `resolve_curated_bb_founders.py --ready --limit N`
+(transcript-first expanded pool; default target 80 per podcast). Intended for
+GitHub Actions (~2am Beijing) or local launchd on Mac mini.
 """
 
 from __future__ import annotations
@@ -14,11 +14,18 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+DEFAULT_TARGET = 80
 
 
 def _ready_ids(limit: int) -> list[str]:
     proc = subprocess.run(
-        [sys.executable, str(ROOT / "scripts/resolve_curated_bb_founders.py"), "--ready"],
+        [
+            sys.executable,
+            str(ROOT / "scripts/resolve_curated_bb_founders.py"),
+            "--ready",
+            "--limit",
+            str(limit),
+        ],
         capture_output=True,
         text=True,
         cwd=str(ROOT),
@@ -40,17 +47,28 @@ def _stats_json() -> str:
 def build_prompt(*, batch_size: int) -> str:
     ready = _ready_ids(batch_size)
     stats = _stats_json()
+    target = int(os.environ.get("TARGET_PER_PODCAST", str(DEFAULT_TARGET)))
     ready_block = "\n".join(f"- {eid}" for eid in ready) if ready else "(none — check --stats)"
     return f"""
-You are expanding the podcast-analyst BB/Founders curated library (overnight batch).
+You are expanding the podcast-analyst BB/Founders library (overnight batch).
+
+Long-term goal: **{target}+ high-quality approved summaries per podcast** (Business Breakdowns + Founders).
+
+Transcript-first policy:
+1. **Write summaries only from full transcripts** in `data/transcripts/` (do not invent facts).
+2. Episodes in the ready queue already have transcripts — prioritize those.
+3. If the queue is short, fetch YouTube captions before summarizing (`scripts/fetch_founders_youtube.py` / `scripts/fetch_curated_youtube.py`) — avoid Whisper unless no transcript exists.
+4. Do NOT download mp3 or touch `data/audio_cache/`.
 
 Current stats:
 {stats}
 
-Write approved summaries for up to {batch_size} episodes from this ready queue (prioritize Founders, then BB):
+Write approved summaries for up to {batch_size} episodes from this ready queue (Founders first, then BB; transcript-ready first):
 {ready_block}
 
-If the ready queue has fewer than {batch_size}, write all of them. If empty, report and exit.
+If the ready queue has fewer than {batch_size} transcript-ready episodes, summarize all transcript-ready IDs first, then fetch YouTube captions for the next highest-priority pool episodes (YouTube URL, no transcript yet) and summarize if captions succeed. Do not run Whisper in this nightly job.
+
+If empty after caption fetch attempts, report blockers and exit.
 
 Instructions: read `scripts/expand_bb_founders_agent_instructions.md` and follow template v4.10.
 
