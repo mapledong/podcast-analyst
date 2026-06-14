@@ -24,8 +24,17 @@ if [[ "$clean" == *"@"* ]]; then
   exit 1
 fi
 
+if [[ "$clean" == "smtp.google.com" ]]; then
+  echo "::warning::SMTP_HOST is smtp.google.com — auto-correcting to smtp.gmail.com in send step."
+  exit 0
+fi
+
 if [[ ! "$clean" =~ ^[a-zA-Z0-9][a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$ ]]; then
-  echo "::error title=Invalid SMTP_HOST::Expected a hostname like smtp.gmail.com (length ${#clean}). Check for typos or extra characters in the secret."
+  hint="Check for typos. Gmail must be smtp.gmail.com (not smtp.google.com or your email)."
+  if [ "${#clean}" -eq 15 ]; then
+    hint="Length 15 often means smtp.google.com — change secret to smtp.gmail.com (14 chars)."
+  fi
+  echo "::error title=Invalid SMTP_HOST::$hint (hostname length ${#clean})"
   exit 1
 fi
 

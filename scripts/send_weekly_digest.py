@@ -153,6 +153,9 @@ def _smtp_config() -> tuple[str, int, str, str, str]:
             "SMTP_HOST, SMTP_USER, SMTP_PASSWORD (and SMTP_FROM). See docs/automation.md."
         )
     host = _normalize_smtp_host(os.environ["SMTP_HOST"])
+    # Common typo: smtp.google.com → smtp.gmail.com
+    if host.lower() in {"smtp.google.com", "googlemail.com", "smtp.googlemail.com"}:
+        host = "smtp.gmail.com"
     if not host or " " in host or "." not in host:
         raise SystemExit(
             f"Invalid SMTP_HOST after cleanup: {host!r}. For Gmail use exactly: smtp.gmail.com"
