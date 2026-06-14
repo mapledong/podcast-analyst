@@ -5,6 +5,15 @@ on:
     # Sunday 12:00 Beijing time (04:00 UTC)
     - cron: "0 4 * * 0"
   workflow_dispatch:
+    inputs:
+      trial:
+        description: Send as trial preview ([Trial] subject, max 10 items)
+        type: boolean
+        default: true
+      max_items:
+        description: Max summaries in email (0 = no limit)
+        required: false
+        default: "10"
 
 permissions:
   contents: read
@@ -28,4 +37,15 @@ jobs:
           SMTP_FROM: ${{ secrets.SMTP_FROM }}
           WEEKLY_DIGEST_TO: mapledong1996@hotmail.com
           SITE_URL: ${{ vars.SITE_URL }}
-        run: python scripts/send_weekly_digest.py --days 7
+        run: |
+          ARGS="--days 7"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            if [ "${{ github.event.inputs.trial }}" = "true" ]; then
+              ARGS="$ARGS --trial"
+            fi
+            MAX="${{ github.event.inputs.max_items }}"
+            if [ -n "$MAX" ] && [ "$MAX" != "0" ]; then
+              ARGS="$ARGS --max-items $MAX"
+            fi
+          fi
+          python scripts/send_weekly_digest.py $ARGS

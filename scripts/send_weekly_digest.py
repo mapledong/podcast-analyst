@@ -19,6 +19,21 @@ APPROVED = ROOT / "data" / "approved"
 DEFAULT_TO = "mapledong1996@hotmail.com"
 
 
+def _load_dotenv() -> None:
+    path = ROOT / ".env"
+    if not path.exists():
+        return
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, val = line.partition("=")
+        key = key.strip()
+        val = val.strip().strip("'\"")
+        if key and key not in os.environ:
+            os.environ[key] = val
+
+
 def _run_git(args: list[str]) -> str:
     return subprocess.check_output(["git", *args], cwd=str(ROOT), text=True, stderr=subprocess.DEVNULL)
 
@@ -137,13 +152,34 @@ def main() -> int:
     parser.add_argument("--days", type=int, default=7)
     parser.add_argument("--to", default=os.environ.get("WEEKLY_DIGEST_TO", DEFAULT_TO))
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument(
+        "--trial",
+        action="store_true",
+        help="Mark email as a trial run ([Trial] subject prefix, footer note)",
+    )
+    parser.add_argument(
+        "--max-items",
+        type=int,
+        default=0,
+        help="Cap number of summaries in the email (0 = no limit)",
+    )
     args = parser.parse_args()
 
     paths = _changed_approved_files(args.days)
     items = _digest_items(paths)
+    if args.max_items > 0:
+        items = items[: args.max_items]
     site_url = os.environ.get("SITE_URL", "")
     body = _plain_text(items, site_url=site_url)
+    if args.trial:
+        body += (
+            "\n---\n"
+            "[Trial run] This is a preview of the weekly digest format. "
+            f"Showing {len(items)} of recent summaries (window: past {args.days} days).\n"
+        )
     subject = f"Podcast Analyst weekly update: {len(items)} new summaries"
+    if args.trial:
+        subject = f"[Trial] {subject}"
 
     if args.dry_run:
         print(body)
@@ -155,4 +191,5 @@ def main() -> int:
 
 
 if __name__ == "__main__":
+    _load_dotenv()
     raise SystemExit(main())
