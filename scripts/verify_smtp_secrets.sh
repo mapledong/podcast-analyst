@@ -24,9 +24,15 @@ if [[ "$clean" == *"@"* ]]; then
   exit 1
 fi
 
-if [[ "$clean" == "smtp.google.com" ]]; then
-  echo "::warning::SMTP_HOST is smtp.google.com — auto-correcting to smtp.gmail.com in send step."
+lower=$(printf '%s' "$clean" | tr '[:upper:]' '[:lower:]')
+if [[ "$lower" == "smtp.google.com" ]]; then
+  echo "::warning::SMTP_HOST is smtp.google.com — will auto-correct to smtp.gmail.com when sending."
   exit 0
+fi
+
+if [[ "$clean" != *.* ]]; then
+  echo "::error title=Wrong SMTP_HOST::SMTP_HOST must be smtp.gmail.com (a mail server hostname), not an email username. Put alex.dongrufeng@gmail.com in SMTP_USER instead."
+  exit 1
 fi
 
 if [[ ! "$clean" =~ ^[a-zA-Z0-9][a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$ ]]; then

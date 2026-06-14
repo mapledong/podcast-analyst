@@ -138,6 +138,11 @@ def _normalize_smtp_host(raw: str) -> str:
             "SMTP_HOST looks like an email address. "
             "Set SMTP_HOST=smtp.gmail.com and SMTP_USER=your@gmail.com separately."
         )
+    if "." not in host:
+        raise SystemExit(
+            f"SMTP_HOST={host!r} is not a mail server hostname. "
+            "Use SMTP_HOST=smtp.gmail.com and put your email in SMTP_USER."
+        )
     if ":" in host:
         host = host.rsplit(":", 1)[0]
     return host
