@@ -2,7 +2,7 @@
 """Send the production weekly digest email (template v1).
 
 Filter: episode publish date in the past N days (default 7, see config/weekly_digest.yaml).
-Scheduled: Sunday 12:00 Beijing via .github/workflows/weekly-digest.yml
+Scheduled: Friday 12:00 Beijing via .github/workflows/weekly-digest.yml
 """
 
 from __future__ import annotations

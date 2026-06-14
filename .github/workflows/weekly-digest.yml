@@ -2,8 +2,8 @@ name: Weekly Summary Digest Email
 
 on:
   schedule:
-    # Sunday 12:00 Beijing time (04:00 UTC) — production template v1
-    - cron: "0 4 * * 0"
+    # Friday 12:00 Beijing time (04:00 UTC) — production template v1
+    - cron: "0 4 * * 5"
   workflow_dispatch:
     inputs:
       trial:

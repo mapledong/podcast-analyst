@@ -115,13 +115,13 @@ Optional repository variable:
 CURSOR_AGENT_MODEL=gpt-5.5-medium
 ```
 
-## Weekly Sunday Email (template v1)
+## Weekly Friday Email (template v1)
 
 Workflow: `.github/workflows/weekly-digest.yml`  
 Template config: `config/weekly_digest.yaml`  
 Renderer: `scripts/weekly_digest_render.py`
 
-**Schedule:** every **Sunday 12:00 Beijing** (04:00 UTC). Production sends use template v1 with no `[Trial]` banner.
+**Schedule:** every **Friday 12:00 Beijing** (04:00 UTC). Production sends use template v1 with no `[Trial]` banner.
 
 ### Template layout
 
