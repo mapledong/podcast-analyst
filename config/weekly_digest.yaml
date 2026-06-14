@@ -1,0 +1,24 @@
+# Weekly digest email template (production)
+# Rendered by scripts/weekly_digest_render.py · sent by scripts/send_weekly_digest.py
+
+template_version: v1
+
+schedule:
+  # GitHub Actions cron: Sunday 12:00 Beijing (04:00 UTC)
+  workflow: .github/workflows/weekly-digest.yml
+
+lookback_days: 7
+date_filter: episode_publish_date  # metadata.date in data/approved/*.json
+
+recipient_default: mapledong1996@hotmail.com
+
+subject: "Podcast Analyst 周报 · {count} 期 · {start_mm/dd}–{end_mm/dd}"
+
+layout:
+  - header          # title + date range
+  - merged_index    # episode count, podcast pills, numbered list with guest org/title
+  - details         # per-episode cards: conclusion + investment ideas + link
+
+guest_line: metadata.guest + metadata.guest_role  # institution / title formatting
+
+html_style: site_v1  # #f5f5f7 bg, white cards, podcast accent colors, Long/Short badges

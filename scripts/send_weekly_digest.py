@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Email a weekly digest of podcast summaries (filtered by episode publish date)."""
+"""Send the production weekly digest email (template v1).
+
+Filter: episode publish date in the past N days (default 7, see config/weekly_digest.yaml).
+Scheduled: Sunday 12:00 Beijing via .github/workflows/weekly-digest.yml
+"""
 
 from __future__ import annotations
 
@@ -14,7 +18,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from scripts.weekly_digest_render import load_weekly_items, render_html, render_plain  # noqa: E402
+from scripts.weekly_digest_render import (  # noqa: E402
+    default_lookback_days,
+    load_weekly_items,
+    render_html,
+    render_plain,
+)
 
 DEFAULT_TO = "mapledong1996@hotmail.com"
 
@@ -115,7 +124,7 @@ def send_email(subject: str, plain: str, html: str, *, to_addr: str) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Weekly digest by episode publish date")
-    parser.add_argument("--days", type=int, default=7, help="Look back N days by episode date")
+    parser.add_argument("--days", type=int, default=default_lookback_days(), help="Look back N days by episode date")
     parser.add_argument("--to", default=os.environ.get("WEEKLY_DIGEST_TO", DEFAULT_TO))
     parser.add_argument("--dry-run", action="store_true", help="Print plain-text digest to stdout")
     parser.add_argument("--preview-html", metavar="PATH", help="Write HTML preview to file")

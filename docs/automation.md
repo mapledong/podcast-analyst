@@ -115,13 +115,34 @@ Optional repository variable:
 CURSOR_AGENT_MODEL=gpt-5.5-medium
 ```
 
-## Weekly Sunday Email
+## Weekly Sunday Email (template v1)
 
-Workflow: `.github/workflows/weekly-digest.yml`
+Workflow: `.github/workflows/weekly-digest.yml`  
+Template config: `config/weekly_digest.yaml`  
+Renderer: `scripts/weekly_digest_render.py`
 
-Schedule: every Sunday 12:00 Beijing time.
+**Schedule:** every **Sunday 12:00 Beijing** (04:00 UTC). Production sends use template v1 with no `[Trial]` banner.
 
-Required **repository secrets** (Settings → Secrets and variables → **Actions** — not personal account settings):
+### Template layout
+
+1. **Header** — Podcast Analyst · Weekly Update · episode date range  
+2. **Merged index** — episode count, podcast tags, numbered list (title + guest with **org / title** from `metadata.guest_role`)  
+3. **Details** — one card per episode: Conclusion, Investment Ideas (Long/Short badges), link to site  
+
+**Filter:** episodes whose **`metadata.date`** (publish date) falls in the past **7 days** — not git commit time. If none match, the email says so and still sends.
+
+**Subject:** `Podcast Analyst 周报 · N 期 · MM/DD–MM/DD`
+
+Preview locally:
+
+```bash
+python scripts/send_weekly_digest.py --preview-html tmp/weekly_digest_preview.html
+open tmp/weekly_digest_preview.html
+```
+
+Manual test (optional `[Trial]` banner): Actions → **Weekly Summary Digest Email** → Run workflow, check **Preview mode** only for tests.
+
+### SMTP secrets
 
 | Secret | Gmail example |
 |--------|----------------|
@@ -142,13 +163,7 @@ If `SMTP_HOST` is invalid, the workflow fails with `Name or service not known`.
 
 **Gmail:** enable 2-Step Verification, then create an App Password at https://myaccount.google.com/apppasswords
 
-Trial send: Actions → **Weekly Summary Digest Email** → Run workflow (`trial=true`).
-
-The email filters by **episode publish date** (`metadata.date`) in the past 7 days — not git commit time. Layout: weekly index first, then each episode's conclusion and investment ideas. HTML matches site styling (cards, podcast accents, Long/Short badges).
-
-Preview locally: `python scripts/send_weekly_digest.py --preview-html tmp/weekly_digest_preview.html --days 7`
-
-## YouTube caption rate limits (important)
+Repository secrets (Settings → Secrets and variables → **Actions**):
 
 YouTube caption fetches are **conservative by design** to avoid 429 / IP blocks:
 

@@ -1,4 +1,8 @@
-"""HTML + plain-text rendering for the weekly podcast digest email."""
+"""HTML + plain-text rendering for the weekly podcast digest email.
+
+Production template **v1** — see `config/weekly_digest.yaml`.
+Do not change layout without bumping template_version.
+"""
 
 from __future__ import annotations
 
@@ -8,8 +12,13 @@ from datetime import date, timedelta
 from pathlib import Path
 from typing import Any
 
+import yaml
+
 ROOT = Path(__file__).resolve().parent.parent
 APPROVED = ROOT / "data" / "approved"
+TEMPLATE_CONFIG = ROOT / "config" / "weekly_digest.yaml"
+TEMPLATE_VERSION = "v1"
+DEFAULT_LOOKBACK_DAYS = 7
 
 PODCAST_SLUG: dict[str, str] = {
     "Invest Like the Best": "invest-like-the-best",
@@ -30,6 +39,17 @@ DIR_STYLES: dict[str, tuple[str, str]] = {
     "Short": ("#d70015", "rgba(255,59,48,0.10)"),
     "Watch": ("#c93400", "rgba(255,149,0,0.12)"),
 }
+
+
+def digest_config() -> dict:
+    if not TEMPLATE_CONFIG.exists():
+        return {"lookback_days": DEFAULT_LOOKBACK_DAYS, "template_version": TEMPLATE_VERSION}
+    return yaml.safe_load(TEMPLATE_CONFIG.read_text(encoding="utf-8")) or {}
+
+
+def default_lookback_days() -> int:
+    cfg = digest_config()
+    return int(cfg.get("lookback_days") or DEFAULT_LOOKBACK_DAYS)
 
 
 def parse_episode_date(raw: str) -> date | None:

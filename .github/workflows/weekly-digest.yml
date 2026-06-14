@@ -2,14 +2,14 @@ name: Weekly Summary Digest Email
 
 on:
   schedule:
-    # Sunday 12:00 Beijing time (04:00 UTC)
+    # Sunday 12:00 Beijing time (04:00 UTC) — production template v1
     - cron: "0 4 * * 0"
   workflow_dispatch:
     inputs:
       trial:
-        description: Send as trial preview ([Trial] subject banner)
+        description: Preview mode only ([Trial] subject banner)
         type: boolean
-        default: true
+        default: false
       max_items:
         description: Max episodes (0 = no limit)
         required: false
@@ -23,18 +23,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
+      - name: Install dependencies
+        run: pip install pyyaml
       - name: Verify SMTP secrets
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
         run: bash scripts/verify_smtp_secrets.sh
-      - name: Send weekly digest
+      - name: Send weekly digest (template v1)
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
