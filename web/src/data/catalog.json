@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T13:51:25.625Z",
+  "generatedAt": "2026-06-14T13:54:11.244Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -29,7 +29,7 @@
       "accent_color": "#2D5016",
       "youtube_url": "https://www.youtube.com/@founderspodcast1",
       "cover_url": "/covers/founders.jpg",
-      "episodeCount": 11
+      "episodeCount": 14
     },
     {
       "id": "business-breakdowns",
@@ -2379,6 +2379,43 @@
       "chronologySubject": "GreenOaks growth investing"
     },
     {
+      "id": "fnd-419-kelly-johnson-skunk-works",
+      "podcastId": "founders",
+      "episodeNumber": 419,
+      "title": "Kelly Johnson: Skunk Works",
+      "guest": "Kelly Johnson",
+      "displayTitle": "Kelly Johnson",
+      "displaySubtitle": "Biography · Episode 419",
+      "guestRole": "Biography · Episode 419",
+      "date": "2026-05-16",
+      "durationMinutes": 49,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Kelly Johnson's lesson is institutional design: breakthrough programs are organizations before they are designs. A single empowered leader, a handful of exceptional people, and ruthless subtraction of bureaucracy let Skunk Works deliver the XP-80 in 143 days and the SR-71 record that still stands 60 years later. Elon Musk and SpaceX are the modern echo — but Johnson also shows the human cost behind the speed.",
+      "youtubeUrl": "",
+      "summaryFile": "fnd-419-kelly-johnson-skunk-works.md",
+      "keywords": [
+        "LMT",
+        "Skunk Works",
+        "Speed as Weapon"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "LMT",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Lockheed's Skunk Works heritage — still cited 60 years after the SR-71 — is a durable institutional asset in defense primes where program speed and single-threaded authority win contracts. Johnson's 14 rules describe how LMT's advanced-development culture compounds: lean teams, customer trust, and cost discipline that saved $10,000–$20,000 per plane across 2,500 XP-80 units."
+        },
+        {
+          "ticker": "BA",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Johnson's horror at 1,206-person quality-control bureaucracies versus 135 Skunk Works engineers frames the investor question for Boeing: can a legacy airframe prime reintroduce Skunk Works-style authority and builder-proximity, or does committee design by inspection remain structurally embedded?"
+        }
+      ],
+      "chronologySubject": "Kelly Johnson · Lockheed Skunk Works"
+    },
+    {
       "id": "ep418",
       "podcastId": "invest-like-the-best",
       "episodeNumber": 418,
@@ -3548,6 +3585,43 @@
       "chronologySubject": "BCCI · Indian Premier League"
     },
     {
+      "id": "fnd-382-who-is-michael-ovitz-the-rise-and-fall-and-rise-of-the",
+      "podcastId": "founders",
+      "episodeNumber": 382,
+      "title": "Who Is Michael Ovitz?: The Rise and Fall (and Rise) of the Most Powerful Man in Hollywood",
+      "guest": "Michael Ovitz",
+      "displayTitle": "Michael Ovitz",
+      "displaySubtitle": "Biography · Episode 382",
+      "guestRole": "Biography · Episode 382",
+      "date": "2025-03-07",
+      "durationMinutes": 91,
+      "readMinutes": 5,
+      "rating": 4,
+      "conclusion": "Ovitz reshaped Hollywood by outworking William Morris — 120-day mailroom bet, file-room encyclopedia, packaging films before studios asked — then expanding CAA into M&A ($135 million fee on Panasonic's $6.5 billion MCA purchase) and Coca-Cola consulting ($31 million check). The same intensity that flipped studio power to talent also cost him: Ron Mayer's $5 million and $6.5 million poker losses, a 16-year equity resentment bomb, and 14 months as Michael Eisner's number two at Disney ended in public humiliation. The empty CAA fortress closing reminds that origins never leave the brain — but camaraderie, not deals, is what he missed.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=UplmZ1GgHcA",
+      "summaryFile": "fnd-382-who-is-michael-ovitz-the-rise-and-fall-and-rise-of-the.md",
+      "keywords": [
+        "DIS",
+        "CMCSA",
+        "Talent Agencies"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "DIS",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Ovitz's 14-month Disney tenure — hired as Michael Eisner's number two, blocked on innovation, fired by proxy — illustrates the risk when founders who cannot share spotlight hire perceived rivals; Eisner and Ovitz each told confidants the pairing was a mistake before Ovitz accepted."
+        },
+        {
+          "ticker": "CMCSA",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Ovitz's $6.5 billion Panasonic-MCA Universal deal and Lou Wasserman's later mistake passing on Raiders of the Lost Ark over a 50-50 split — while calling a 15-year film-cost bubble inflated — frame legacy media M&A as timing trades where incumbents can sit out growth and cede share."
+        }
+      ],
+      "chronologySubject": "Michael Ovitz · CAA · Disney"
+    },
+    {
       "id": "acq-tsmc-founder-morris-chang",
       "podcastId": "acquired",
       "episodeNumber": 195,
@@ -3750,6 +3824,43 @@
         }
       ],
       "chronologySubject": "Mark Zuckerberg · Meta"
+    },
+    {
+      "id": "fnd-367-inside-the-contrarian-mind-of-sam-zell",
+      "podcastId": "founders",
+      "episodeNumber": 367,
+      "title": "Inside the Contrarian Mind of Sam Zell",
+      "guest": "Sam Zell",
+      "displayTitle": "Sam Zell",
+      "displaySubtitle": "Biography · Episode 367",
+      "guestRole": "Biography · Episode 367",
+      "date": "2024-10-08",
+      "durationMinutes": 50,
+      "readMinutes": 5,
+      "rating": 4,
+      "conclusion": "Zell built wealth by buying distressed assets when competition was thin, exiting when copycats crowded the trade, and measuring every deal on cash flow rather than narrative. His Tribune tirade — $50 million of lost cash flow while staff fixated on his language — and his refusal to mourn the $39 billion EOP sale to Blackstone or the Tribune bankruptcy capture the same forward-only mindset: limited competition beats genius, liquidity equals value, and freedom to work on what you love is the only luxury that matters.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vU3JqUt8Hhc",
+      "summaryFile": "fnd-367-inside-the-contrarian-mind-of-sam-zell.md",
+      "keywords": [
+        "BX",
+        "Real Estate",
+        "Contrarian Investing"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BX",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Blackstone's $39 billion EOP acquisition — the largest LBO in history when closed — validated Zell's timing selling peak office assets; Schwarzman's 1979 floor meeting with leather-jacketed Zell foreshadowed decades of repeat business between the firms."
+        },
+        {
+          "ticker": "BXP",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Zell's refusal to join the 1980s development frenzy and his 2007 exit from the largest office portfolio frame office REITs as cyclical supply-demand trades — buy distress when ten-year gluts clear, avoid when 'build it today because it'll cost more tomorrow' dominates developer psychology."
+        }
+      ],
+      "chronologySubject": "Sam Zell · Equity Office · Tribune Media"
     },
     {
       "id": "acq-acquired-live-from-chase-center-with-daniel-ek-emily-chang-jensen-huang-and-mark-zuckerberg",

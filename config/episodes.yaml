@@ -462,6 +462,15 @@ episodes:
   duration_minutes: 52
   youtube_url: https://www.youtube.com/watch?v=AXYbyl-5-2U
   podcast: Founders
+- id: fnd-420-steve-jobs-in-exile
+  episode_number: 420
+  title: Steve Jobs In Exile
+  guest: Steve Jobs
+  guest_role: Biography · Episode 420
+  date: '2026-06-04'
+  duration_minutes: 53
+  youtube_url: https://www.youtube.com/watch?v=JjV1uikElgs
+  podcast: Founders
 - id: ep419
   episode_number: 419
   title: Finding Future S&P 500 Companies
@@ -471,6 +480,15 @@ episodes:
   duration_minutes: 95
   youtube_url: https://www.youtube.com/watch?v=502sB_IbjpQ
   podcast: Invest Like the Best
+- id: fnd-419-kelly-johnson-skunk-works
+  episode_number: 419
+  title: 'Kelly Johnson: Skunk Works'
+  guest: Kelly Johnson
+  guest_role: Biography · Episode 419
+  date: '2026-05-16'
+  duration_minutes: 49
+  youtube_url: ''
+  podcast: Founders
 - id: ep418
   episode_number: 418
   title: Turning Potential into Prominence
@@ -525,6 +543,52 @@ episodes:
   duration_minutes: 175
   youtube_url: https://www.youtube.com/watch?v=EagrRPukYdc
   podcast: Invest Like the Best
+- id: fnd-401-how-bill-gates-works
+  episode_number: 401
+  title: How Bill Gates Works
+  guest: Bill Gates
+  guest_role: Biography · Episode 401
+  date: '2025-09-24'
+  duration_minutes: 68
+  youtube_url: https://www.youtube.com/watch?v=IMXm123V3Co
+  podcast: Founders
+- id: fnd-396-the-obsession-of-enzo-ferrari
+  episode_number: 396
+  title: The Obsession of Enzo Ferrari
+  guest: Enzo Ferrari
+  guest_role: Biography · Episode 396
+  date: '2025-07-30'
+  duration_minutes: 57
+  youtube_url: https://www.youtube.com/watch?v=-quUT9uGApo
+  podcast: Founders
+- id: fnd-382-who-is-michael-ovitz-the-rise-and-fall-and-rise-of-the
+  episode_number: 382
+  title: 'Who Is Michael Ovitz?: The Rise and Fall (and Rise) of the Most Powerful
+    Man in Hollywood'
+  guest: Michael Ovitz
+  guest_role: Biography · Episode 382
+  date: '2025-03-07'
+  duration_minutes: 91
+  youtube_url: https://www.youtube.com/watch?v=UplmZ1GgHcA
+  podcast: Founders
+- id: fnd-376-jensen-huang-founder-of-nvidia
+  episode_number: 376
+  title: 'Jensen Huang: Founder of Nvidia'
+  guest: Jensen Huang
+  guest_role: Biography · Episode 376
+  date: '2025-01-13'
+  duration_minutes: 100
+  youtube_url: https://www.youtube.com/watch?v=Sywq2Ua4GXw
+  podcast: Founders
+- id: fnd-367-inside-the-contrarian-mind-of-sam-zell
+  episode_number: 367
+  title: Inside the Contrarian Mind of Sam Zell
+  guest: Sam Zell
+  guest_role: Biography · Episode 367
+  date: '2024-10-08'
+  duration_minutes: 50
+  youtube_url: https://www.youtube.com/watch?v=vU3JqUt8Hhc
+  podcast: Founders
 - id: fnd-355-rare-bernard-arnault-interview
   episode_number: 355
   title: Rare Bernard Arnault Interview
@@ -541,6 +605,15 @@ episodes:
   guest_role: Founder & CIO, Counter Global
   date: '2026-05-29'
   duration_minutes: 49
+  youtube_url: ''
+  podcast: Business Breakdowns
+- id: bb-pricesmart-central-america-s-costco
+  episode_number: 244
+  title: 'PriceSmart: Central America''s Costco'
+  guest: PriceSmart
+  guest_role: Public · PSMT
+  date: '2026-05-01'
+  duration_minutes: 56
   youtube_url: ''
   podcast: Business Breakdowns
 - id: bb-givaudan-the-magic-ingredients
@@ -604,6 +677,15 @@ episodes:
   guest_role: Public · HOOD
   date: '2025-10-31'
   duration_minutes: 60
+  youtube_url: ''
+  podcast: Business Breakdowns
+- id: bb-exor-fiat-crisis-to-ferrari-glory
+  episode_number: 229
+  title: 'Exor: Fiat Crisis to Ferrari Glory'
+  guest: Exor
+  guest_role: Public · EXXRF
+  date: '2025-10-01'
+  duration_minutes: 48
   youtube_url: ''
   podcast: Business Breakdowns
 - id: bb-mercado-libre-e-commerce-empire
@@ -824,6 +906,15 @@ episodes:
   duration_minutes: 89
   youtube_url: ''
   podcast: Acquired
+- id: fnd-190-henry-ford-and-thomas-edison
+  episode_number: 190
+  title: Henry Ford and Thomas Edison
+  guest: Henry Ford and Thomas Edison
+  guest_role: Biography · Episode 190
+  date: '2021-07-10'
+  duration_minutes: 59
+  youtube_url: ''
+  podcast: Founders
 - id: acq-microsoft-volume-ii
   episode_number: 189
   title: Microsoft Volume II
@@ -2675,3 +2766,12 @@ episodes:
   duration_minutes: 63
   youtube_url: ''
   podcast: Business Breakdowns
+- id: fnd-1-elon-musk-tesla-spacex-the-quest-for-a-fantastic-future
+  episode_number: 1
+  title: 'Elon Musk: Tesla, SpaceX, & the Quest for a Fantastic Future'
+  guest: Elon Musk
+  guest_role: Biography · Episode 1
+  date: '2016-09-19'
+  duration_minutes: 58
+  youtube_url: ''
+  podcast: Founders

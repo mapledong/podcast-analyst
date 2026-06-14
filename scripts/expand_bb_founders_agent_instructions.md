@@ -56,7 +56,7 @@ Append to `review_notes`: `| curated v4.10`
 ## Transcribe if missing
 
 Priority order for curated episodes:
-1. **YouTube** — Founders: `python3 scripts/fetch_founders_youtube.py --fix-approved` (@founderspodcast1); BB: `python3 scripts/fetch_curated_youtube.py --all` (Colossus pages, then transcript API)
+1. **YouTube** — Founders: `python3 scripts/fetch_founders_youtube.py --transcripts` (3/run, 60s delay; `--all` for full queue); BB: `python3 scripts/fetch_curated_youtube.py --transcripts` (same limits; `--full-queue` for all)
 2. **Whisper** — only for YouTube-linked episodes still missing full transcript, or explicit IDs:
    ```bash
    python3 scripts/transcribe_colossus_audio.py EPISODE_ID

@@ -1,0 +1,116 @@
+{
+  "episode_id": "fnd-190-henry-ford-and-thomas-edison",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 190,
+    "title": "Henry Ford and Thomas Edison",
+    "guest": "Henry Ford and Thomas Edison",
+    "guest_role": "Biography · Episode 190",
+    "date": "2021-07-10",
+    "duration_minutes": 59,
+    "youtube_url": "",
+    "links": {
+      "founders": "https://www.founderspodcast.com/episodes/190-henry-ford-and-thomas-edison",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "F",
+    "Mass Production",
+    "Cost Control"
+  ],
+  "conclusion": "Henry Ford and Thomas Edison shared anti-Wall Street, hands-on, no-college credos — but Ford captured value through ruthless manufacturing simplicity while Edison scattered genius across inventions he failed to monetize. The Model T's price cuts were Ford's advertising; $5 eight-hour days doubled worker wages and created customers. Ford owned 100% of a company worth ~$500M in 1919 dollars by eliminating waste, not chasing every patent.",
+  "background": "Senra covers the friendship between Ford and Edison — poor boys who became icons, mutual suspicion of financiers, and 'Vagabonds' camping trips with Harvey Firestone and naturalist John Burroughs. Edison told young Ford in 1896, 'Young man, that's the thing — keep at it,' when Ford showed an internal-combustion engine path while most cars were steam or electric failures.\n\nFord failed twice before the third company succeeded; the Model T arrived 12 years after Edison's encouragement — a reminder not to quit. Ford idolized Edison yet became far wealthier by expanding an existing market rather than inventing new ones. Edison jumped between projects; Ford stuck with one car, one process, one obsession: eliminate waste and cut price continuously.",
+  "important_facts": [
+    "Model T introduction: ~194,000 cars owned in America; six years later ~2 million — ~10× growth with Ford holding nearly half the market. Ford cut prices relentlessly (ads showed $295 Model T) and stopped traditional advertising because price drops were newsworthy. Black paint only because it dried fastest — faster assembly line throughput. Model T weighed ~1,200 pounds, half competitors, lowering repair and tire costs.",
+    "In 1914 Ford announced $5 daily wages and 8-hour days versus industry norms of ~$2 for 10-hour shifts, 60-hour weeks — 'everyone in America was talking about it.' At ~1919 Ford owned 100% of Ford Motor Company valued around $500 million in contemporary dollars. He later borrowed ~$60M of ~$106M to buy out minority shareholders and gain full control.",
+    "Edison and Ford bonded over distrust of Wall Street and classroom elitism — neither had college degrees. Ford bought Burroughs's family farm outright when Burroughs feared losing it; gifted Model Ts for publicity when Burroughs rode in them. Edison invented broadly but struggled to capture value; Ford's hobby was work — 'devoted almost every waking minute' — with employees forbidden to disagree."
+  ],
+  "mental_model": {
+    "name": "Price as Marketing, Waste as Enemy",
+    "components": "Ford's loop: simplify product (any color black if it speeds paint), simplify labor (assembly line, $5 day to reduce turnover), pass savings as price cuts that generate free press. Lean engineering and aiming for simplicity were explicit principles from My Life and Work. Edison supplied inspiration and friendship; Ford supplied industrial discipline — one market, one product, decades of incremental process improvement versus Edison's portfolio of unfinished commercializations.",
+    "application": "Manufacturers who compete on features lose to those who compete on delivered cost per unit — if your line takes 5 hours per car and Ford's takes 2.5 minutes, you lose. Wage increases can expand your customer base when paired with productivity gains. Inventors need Ford-style operators (or become them) to compound wealth; friendship with heroes does not substitute for capture mechanics."
+  },
+  "key_insights": [
+    {
+      "view": "Simplicity and speed compound.",
+      "question": "Why only black Model Ts?",
+      "answer": "Black paint dried fastest — cars moved through the line quicker, saving labor dollars. Combined with ~1,200-pound weight (half rivals), utilitarian design passed savings to buyers and made each price cut headline news."
+    },
+    {
+      "view": "Pay workers enough to buy the product.",
+      "question": "What did $5/day accomplish?",
+      "answer": "Doubling prevailing ~$2 wages while cutting hours to eight shocked the nation — marketing coup and customer creation. Ford controlled ~half the U.S. auto market six years after Model T launch as car ownership 10×'d."
+    },
+    {
+      "view": "Stick to one market longer than inventors do.",
+      "question": "Why was Ford richer than Edison?",
+      "answer": "Edison jumped across inventions without capturing full value; Ford expanded an existing market with one car and process obsession for 12+ years after Edison's 1896 encouragement. Ford: 'He only needed to expand them.'"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "F",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Ford's origin story — vertical integration, wage-productivity loop, price-as-marketing — explains how F scaled before Sloan-era GM; modern F bears little operational resemblance, but the historical playbook informs auto labor and cost culture debates."
+    },
+    {
+      "ticker": "TSLA",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Senra links Musk to Ford/Rockefeller-style vertical ambition; Tesla's direct model and manufacturing obsession echo Ford's dealer-bypass and line-speed ethos — analogical lens only from this Edison-Ford friendship episode."
+    }
+  ],
+  "golden_quotes": [
+    "Edison to 1896 Ford on internal combustion: 'Young man, that's the thing — keep at it.' Model T followed 12 years later.",
+    "Ford on advertising: price cuts were the only ads needed — newspapers spread word when Model T dropped toward $295.",
+    "Ford on Edison: 'I think Mr. Edison is the greatest man in the world' — yet Ford's wealth exceeded his hero's through manufacturing focus."
+  ],
+  "chronology": {
+    "subject": "Henry Ford · Thomas Edison",
+    "events": [
+      {
+        "date": "1896",
+        "event": "Ford demonstrates engine to Edison while working at Edison Illuminating; Edison encourages him."
+      },
+      {
+        "date": "1903",
+        "event": "Third Ford company succeeds after two failures; Model T development begins."
+      },
+      {
+        "date": "1908",
+        "event": "Model T introduced; U.S. car ownership ~194,000."
+      },
+      {
+        "date": "1914",
+        "event": "Ford announces $5/day and 8-hour shifts versus ~$2/10-hour industry norm."
+      },
+      {
+        "date": "1914–1920s",
+        "event": "U.S. car ownership rises to ~2 million; Ford holds ~half market share."
+      },
+      {
+        "date": "1919",
+        "event": "Ford owns 100% of company valued ~$500M; borrows ~$60M of ~$106M to buy out minorities."
+      },
+      {
+        "date": "1916–1926",
+        "event": "Vagabonds camping trips with Edison, Firestone, and Burroughs; Ford gifts farms and Model Ts to friends."
+      }
+    ]
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "whisper/tiny",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  }
+}

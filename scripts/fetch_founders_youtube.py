@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Match Founders YouTube channel videos to discovered episodes by title."""
+"""Match Founders YouTube channel videos to discovered episodes by title.
+
+Transcript fetching (--transcripts) is rate-limited by default to avoid YouTube 429 /
+IP blocks: up to 3 unapproved curated episodes per run, 60s between requests, and
+exponential backoff (60s → 120s → 240s, max 3 retries) on transient failures.
+Use --all for the full queue, or override with --batch-size / --delay.
+"""
 
 from __future__ import annotations
 
@@ -25,6 +31,10 @@ DISCOVERED = ROOT / "data" / "discovered" / "founders_episodes.json"
 APPROVED = ROOT / "data" / "approved"
 YOUTUBE_CHANNEL = "https://www.youtube.com/@founderspodcast1/videos"
 MIN_MATCH_SCORE = 70
+DEFAULT_TRANSCRIPT_DELAY = 60.0
+DEFAULT_BATCH_SIZE = 3
+MAX_TRANSCRIPT_RETRIES = 3
+TRANSCRIPT_BACKOFF_DELAYS = (60, 120, 240)
 
 # High-confidence overrides when RSS/YouTube titles diverge but mapping is known.
 MANUAL_BY_EPISODE: dict[int, str] = {
@@ -278,6 +288,48 @@ def _is_youtube_transcript(path: Path | None) -> bool:
     return "# source: youtube/" in head
 
 
+def _is_transient_youtube_error(exc: Exception) -> bool:
+    msg = str(exc).lower()
+    name = type(exc).__qualname__.lower()
+    markers = (
+        "429",
+        "too many requests",
+        "ipblocked",
+        "ip blocked",
+        "ipblock",
+        "rate limit",
+        "connection reset",
+        "timed out",
+        "timeout",
+        "temporary failure",
+        "503",
+        "502",
+        "service unavailable",
+    )
+    return any(marker in msg or marker in name for marker in markers)
+
+
+def _sleep_logged(seconds: float, *, reason: str) -> None:
+    print(f"  sleeping {seconds:.0f}s ({reason}) …")
+    time.sleep(seconds)
+
+
+def _with_transcript_backoff(fn, *, episode_id: str):
+    last_err: Exception | None = None
+    for attempt in range(MAX_TRANSCRIPT_RETRIES + 1):
+        if attempt:
+            wait = TRANSCRIPT_BACKOFF_DELAYS[min(attempt - 1, len(TRANSCRIPT_BACKOFF_DELAYS) - 1)]
+            print(f"  retry {attempt}/{MAX_TRANSCRIPT_RETRIES} for {episode_id}, sleeping {wait}s …")
+            time.sleep(wait)
+        try:
+            return fn()
+        except Exception as exc:
+            last_err = exc
+            if not _is_transient_youtube_error(exc) or attempt >= MAX_TRANSCRIPT_RETRIES:
+                raise
+    raise last_err or RuntimeError(f"transcript fetch failed for {episode_id}")
+
+
 def _vtt_to_text(vtt: str) -> str:
     lines: list[str] = []
     seen: set[str] = set()
@@ -359,53 +411,41 @@ def _fetch_subtitle_url(url: str) -> tuple[str, int]:
     raise RuntimeError("subtitle payload too short")
 
 
-def _fetch_ytdlp_auto_sub(url: str, *, retries: int = 5) -> tuple[str, int]:
-    """Download auto-generated English subtitles via yt-dlp --write-auto-sub."""
-    last_err: Exception | None = None
-    for attempt in range(retries):
-        if attempt:
-            wait = min(45 * attempt, 180)
-            print(f"    retry {attempt + 1}/{retries} after {wait}s …")
-            time.sleep(wait)
-        try:
-            return _fetch_subtitle_url(url)
-        except Exception as exc:
-            last_err = exc
-            if "429" not in str(exc) and "Too Many Requests" not in str(exc):
-                break
-        with tempfile.TemporaryDirectory() as tmp:
-            out_tpl = str(Path(tmp) / "%(id)s")
-            cmd = [
-                _ytdlp(),
-                "--extractor-args",
-                "youtube:player_client=android",
-                "--write-auto-sub",
-                "--sub-langs",
-                "en,en-US,en-GB",
-                "--skip-download",
-                "--sub-format",
-                "vtt/best",
-                "-o",
-                out_tpl,
-                url,
-            ]
-            result = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
-            if result.returncode != 0:
-                err = result.stderr.strip() or result.stdout.strip() or "yt-dlp failed"
-                last_err = RuntimeError(err)
-                if "429" in err or "Too Many Requests" in err:
-                    continue
-                raise last_err
-            vtt_files = sorted(Path(tmp).glob("*.vtt"))
-            if not vtt_files:
-                last_err = RuntimeError("no VTT subtitles from yt-dlp")
-                continue
-            text = _vtt_to_text(vtt_files[0].read_text(encoding="utf-8", errors="replace"))
-            line_count = len([ln for ln in text.splitlines() if ln.strip()])
-            if line_count < 50:
-                raise RuntimeError(f"subtitle too short ({line_count} lines)")
-            return text, line_count
-    raise last_err or RuntimeError("yt-dlp subtitle fetch failed")
+def _fetch_ytdlp_auto_sub(url: str) -> tuple[str, int]:
+    """Download auto-generated English subtitles via yt-dlp metadata or auto-sub file."""
+    try:
+        return _fetch_subtitle_url(url)
+    except Exception as exc:
+        if _is_transient_youtube_error(exc):
+            raise
+    with tempfile.TemporaryDirectory() as tmp:
+        out_tpl = str(Path(tmp) / "%(id)s")
+        cmd = [
+            _ytdlp(),
+            "--extractor-args",
+            "youtube:player_client=android",
+            "--write-auto-sub",
+            "--sub-langs",
+            "en,en-US,en-GB",
+            "--skip-download",
+            "--sub-format",
+            "vtt/best",
+            "-o",
+            out_tpl,
+            url,
+        ]
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
+        if result.returncode != 0:
+            err = result.stderr.strip() or result.stdout.strip() or "yt-dlp failed"
+            raise RuntimeError(err)
+        vtt_files = sorted(Path(tmp).glob("*.vtt"))
+        if not vtt_files:
+            raise RuntimeError("no VTT subtitles from yt-dlp")
+        text = _vtt_to_text(vtt_files[0].read_text(encoding="utf-8", errors="replace"))
+        line_count = len([ln for ln in text.splitlines() if ln.strip()])
+        if line_count < 50:
+            raise RuntimeError(f"subtitle too short ({line_count} lines)")
+        return text, line_count
 
 
 def _save_episode_transcript(ep: dict, *, video_id: str, text: str, source: str, line_count: int) -> None:
@@ -428,10 +468,33 @@ def _save_episode_transcript(ep: dict, *, video_id: str, text: str, source: str,
     )
 
 
-def fetch_founders_transcripts(*, delay: float = 5.0, unapproved_only: bool = True) -> tuple[int, int, int]:
+def _fetch_episode_transcript(ep: dict, yt: str) -> tuple[str, str, int]:
+    """Fetch transcript text for one episode; raises on failure."""
+
+    def _do_fetch() -> tuple[str, str, int]:
+        try:
+            text, line_count = _fetch_ytdlp_auto_sub(yt)
+            return text, "ytdlp-auto", line_count
+        except Exception as ytdlp_exc:
+            result = fetch_transcript(yt)
+            return result.text, result.source, result.line_count
+
+    text, source, line_count = _with_transcript_backoff(_do_fetch, episode_id=ep["id"])
+    return text, source, line_count
+
+
+def fetch_founders_transcripts(
+    *,
+    delay: float = DEFAULT_TRANSCRIPT_DELAY,
+    batch_size: int = DEFAULT_BATCH_SIZE,
+    process_all: bool = False,
+    unapproved_only: bool = True,
+) -> tuple[int, int, int]:
     """Fetch YouTube transcripts for curated Founders episodes via yt-dlp auto-subs."""
     rows = resolve_curated()["Founders"]
     ok = skip = fail = 0
+    queue: list[dict] = []
+
     for ep in rows:
         if unapproved_only and ep.get("approved"):
             skip += 1
@@ -447,31 +510,48 @@ def fetch_founders_transcripts(*, delay: float = 5.0, unapproved_only: bool = Tr
             continue
         try:
             vid = extract_video_id(yt)
-            vid_path = ROOT / "data" / "transcripts" / f"{vid}.txt"
-            if _is_youtube_transcript(vid_path):
-                skip += 1
-                continue
-            try:
-                text, line_count = _fetch_ytdlp_auto_sub(yt)
-                _save_episode_transcript(
-                    ep, video_id=vid, text=text, source="ytdlp-auto", line_count=line_count
-                )
-                print(f"✓ {ep['id']} yt-dlp ({line_count} lines)")
-            except Exception as ytdlp_exc:
-                result = fetch_transcript(yt)
-                _save_episode_transcript(
-                    ep,
-                    video_id=result.video_id,
-                    text=result.text,
-                    source=result.source,
-                    line_count=result.line_count,
-                )
-                print(f"✓ {ep['id']} api ({result.line_count} lines) [yt-dlp: {ytdlp_exc}]")
+        except ValueError:
+            skip += 1
+            continue
+        vid_path = ROOT / "data" / "transcripts" / f"{vid}.txt"
+        if _is_youtube_transcript(vid_path):
+            skip += 1
+            continue
+        queue.append(ep)
+
+    queue.sort(key=lambda e: (bool(e.get("approved")), e["id"]))
+    to_process = queue if process_all else queue[:batch_size]
+    batch_total = len(to_process)
+
+    if not to_process:
+        return ok, skip, fail
+
+    print(
+        f"Transcript queue: {len(queue)} pending"
+        + ("" if process_all else f", processing batch of {batch_total}")
+    )
+
+    for idx, ep in enumerate(to_process, start=1):
+        yt = (ep.get("youtube_url") or "").strip()
+        print(f"batch {idx}/{batch_total}: {ep['id']} …")
+        try:
+            text, source, line_count = _fetch_episode_transcript(ep, yt)
+            vid = extract_video_id(yt)
+            _save_episode_transcript(
+                ep, video_id=vid, text=text, source=source, line_count=line_count
+            )
+            print(f"✓ {ep['id']} {source} ({line_count} lines)")
             ok += 1
         except Exception as exc:
             print(f"✗ {ep['id']}: {exc}")
             fail += 1
-        time.sleep(delay)
+        if idx < batch_total:
+            _sleep_logged(delay, reason="between episodes")
+
+    if not process_all and len(queue) > batch_total:
+        remaining = len(queue) - batch_total
+        print(f"  {remaining} episode(s) remain in queue; rerun or pass --all")
+
     return ok, skip, fail
 
 
@@ -490,11 +570,31 @@ def main() -> None:
         action="store_true",
         help="Fetch YouTube transcripts for unapproved curated Founders with youtube_url",
     )
-    parser.add_argument("--delay", type=float, default=5.0, help="Seconds between transcript fetches")
+    parser.add_argument(
+        "--all",
+        action="store_true",
+        help="With --transcripts: process the full pending queue (no batch limit)",
+    )
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=DEFAULT_BATCH_SIZE,
+        help=f"Max episodes per --transcripts run (default: {DEFAULT_BATCH_SIZE})",
+    )
+    parser.add_argument(
+        "--delay",
+        type=float,
+        default=DEFAULT_TRANSCRIPT_DELAY,
+        help=f"Seconds between transcript fetches (default: {DEFAULT_TRANSCRIPT_DELAY:.0f})",
+    )
     args = parser.parse_args()
 
     if args.transcripts:
-        ok, skip, fail = fetch_founders_transcripts(delay=args.delay)
+        ok, skip, fail = fetch_founders_transcripts(
+            delay=args.delay,
+            batch_size=args.batch_size,
+            process_all=args.all,
+        )
         print(f"\nTranscripts: fetched {ok}, skipped {skip}, failed {fail}")
         return
 
