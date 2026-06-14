@@ -41,9 +41,12 @@ jobs:
           cd web && npm ci
       - name: Discover new episodes (all series)
         run: |
+          set -euo pipefail
           python scripts/discover_iltb.py
           python scripts/discover_acquired.py
           python scripts/discover_colossus_podcasts.py --founders-youtube
+        env:
+          PYTHONPATH: ${{ github.workspace }}
       - name: Fetch YouTube captions (small batch)
         env:
           YOUTUBE_CAPTION_BATCH_SIZE: "2"

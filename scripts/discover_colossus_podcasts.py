@@ -6,12 +6,14 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 import urllib.request
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
 OUT_BB = ROOT / "data" / "discovered" / "business_breakdowns_episodes.json"
 OUT_FND = ROOT / "data" / "discovered" / "founders_episodes.json"
 ITUNES = "http://www.itunes.com/dtds/podcast-1.0.dtd"
