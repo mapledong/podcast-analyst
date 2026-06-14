@@ -121,21 +121,22 @@ Workflow: `.github/workflows/weekly-digest.yml`
 
 Schedule: every Sunday 12:00 Beijing time.
 
-Recipient:
+Required **repository secrets** (Settings → Secrets and variables → **Actions** — not personal account settings):
 
-```text
-mapledong1996@hotmail.com
-```
+| Secret | Gmail example |
+|--------|----------------|
+| `SMTP_HOST` | `smtp.gmail.com` |
+| `SMTP_PORT` | `587` |
+| `SMTP_USER` | `alex.dongrufeng@gmail.com` |
+| `SMTP_PASSWORD` | 16-char **App Password** (not login password) |
+| `SMTP_FROM` | `alex.dongrufeng@gmail.com` |
+| `WEEKLY_DIGEST_TO` | `mapledong1996@hotmail.com` (optional; defaults to hotmail) |
 
-Required secrets:
+Secret names must match **exactly** (case-sensitive). If `SMTP_HOST` is missing or empty, the workflow fails with `Name or service not known`.
 
-```text
-SMTP_HOST=smtp.office365.com
-SMTP_PORT=587
-SMTP_USER=<sender email>
-SMTP_PASSWORD=<smtp or app password>
-SMTP_FROM=<sender email>
-```
+**Gmail:** enable 2-Step Verification, then create an App Password at https://myaccount.google.com/apppasswords
+
+Trial send: Actions → **Weekly Summary Digest Email** → Run workflow (`trial=true`, `max_items=10`).
 
 The email includes the new summaries added in the last 7 days: podcast, theme/title, guest/subject, conclusion, and investment ideas.
 

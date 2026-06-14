@@ -127,20 +127,33 @@ def _html(text: str) -> str:
     return f"<html><body style=\"font-family: -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; line-height:1.45\">{escaped}</body></html>"
 
 
-def send_email(subject: str, body: str, *, to_addr: str) -> None:
-    missing = [k for k in ("SMTP_HOST", "SMTP_USER", "SMTP_PASSWORD") if not os.environ.get(k)]
+def _smtp_config() -> tuple[str, int, str, str, str]:
+    missing = [k for k in ("SMTP_HOST", "SMTP_USER", "SMTP_PASSWORD") if not (os.environ.get(k) or "").strip()]
     if missing:
         raise SystemExit(
             "Missing SMTP config: "
             + ", ".join(missing)
-            + ". Add GitHub secrets (SMTP_HOST, SMTP_USER, SMTP_PASSWORD, SMTP_FROM) "
-            "or create a local .env — see docs/automation.md."
+            + ". In GitHub: repo Settings → Secrets and variables → Actions → add "
+            "SMTP_HOST, SMTP_USER, SMTP_PASSWORD (and SMTP_FROM). See docs/automation.md."
         )
-    host = os.environ["SMTP_HOST"]
-    port = int(os.environ.get("SMTP_PORT") or "587")
-    user = os.environ["SMTP_USER"]
-    password = os.environ["SMTP_PASSWORD"]
-    from_addr = os.environ.get("SMTP_FROM", user)
+    host = os.environ["SMTP_HOST"].strip()
+    if not host or " " in host:
+        raise SystemExit(
+            f"Invalid SMTP_HOST={host!r}. For Gmail use exactly: smtp.gmail.com"
+        )
+    port = int((os.environ.get("SMTP_PORT") or "587").strip())
+    user = os.environ["SMTP_USER"].strip()
+    # Gmail app passwords are often copied with spaces — strip them all.
+    password = os.environ["SMTP_PASSWORD"].replace(" ", "").strip()
+    from_addr = (os.environ.get("SMTP_FROM") or user).strip()
+    return host, port, user, password, from_addr
+
+
+def send_email(subject: str, body: str, *, to_addr: str) -> None:
+    host, port, user, password, from_addr = _smtp_config()
+    use_ssl = (os.environ.get("SMTP_USE_SSL") or "").strip().lower() in {"1", "true", "yes"}
+    if host.endswith("gmail.com") and port == 25:
+        port = 587
 
     msg = EmailMessage()
     msg["Subject"] = subject
@@ -149,10 +162,32 @@ def send_email(subject: str, body: str, *, to_addr: str) -> None:
     msg.set_content(body)
     msg.add_alternative(_html(body), subtype="html")
 
-    with smtplib.SMTP(host, port) as smtp:
-        smtp.starttls()
-        smtp.login(user, password)
-        smtp.send_message(msg)
+    try:
+        if use_ssl or port == 465:
+            with smtplib.SMTP_SSL(host, port, timeout=30) as smtp:
+                smtp.login(user, password)
+                smtp.send_message(msg)
+        else:
+            with smtplib.SMTP(host, port, timeout=30) as smtp:
+                smtp.ehlo()
+                smtp.starttls()
+                smtp.ehlo()
+                smtp.login(user, password)
+                smtp.send_message(msg)
+    except smtplib.SMTPAuthenticationError as exc:
+        raise SystemExit(
+            f"SMTP login failed for {user} @ {host}:{port}. "
+            "Gmail: use an App Password (not your login password), "
+            "SMTP_HOST=smtp.gmail.com, SMTP_PORT=587. "
+            f"Detail: {exc}"
+        ) from exc
+    except OSError as exc:
+        raise SystemExit(
+            f"Cannot connect to SMTP server {host}:{port} ({exc}). "
+            "Check SMTP_HOST secret spelling (Gmail: smtp.gmail.com)."
+        ) from exc
+    except smtplib.SMTPException as exc:
+        raise SystemExit(f"SMTP send failed: {exc}") from exc
 
 
 def main() -> int:
