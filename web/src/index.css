@@ -169,9 +169,14 @@ img {
   letter-spacing: -0.03em;
 }
 
+@media (min-width: 641px) {
+  .hero h1 {
+    white-space: nowrap;
+  }
+}
+
 .hero {
   margin-bottom: var(--space-section);
-  max-width: 640px;
 }
 
 .home-page .hero {
@@ -184,6 +189,7 @@ img {
   color: var(--text-muted);
   margin: 0;
   font-weight: 400;
+  max-width: 640px;
 }
 
 .podcast-grid {

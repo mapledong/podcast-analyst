@@ -38,7 +38,7 @@ export default function HomePage() {
     <div className="page home-page">
       <section className="hero">
         <p className="eyebrow">Summary Library</p>
-        <h1>Great podcasts, distilled for investors</h1>
+        <h1>Great podcasts, summaries for investors</h1>
         <p className="hero-lede">
           Browse PM-ready summaries — key facts, mental models, and top investment ideas — from the
           shows you already listen to.{" "}
