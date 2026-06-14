@@ -15,6 +15,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "discovered" / "iltb_episodes.json"
+sys.path.insert(0, str(ROOT))
+
+from scripts.ytdlp_bin import ytdlp_bin  # noqa: E402
 ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 APPLE_PODCAST_ID = 1154105909
 DEFAULT_CUTOFF = datetime(2021, 6, 14, tzinfo=timezone.utc)
@@ -119,9 +122,8 @@ def _fetch_rss_episodes(feed_url: str, cutoff: datetime) -> list[dict]:
 
 
 def _fetch_youtube_catalog() -> list[dict]:
-    ytdlp = str(ROOT / ".venv" / "bin" / "yt-dlp")
     cmd = [
-        ytdlp,
+        ytdlp_bin(),
         "--ignore-errors",
         "--print",
         "%(id)s\t%(title)s\t%(description)s",

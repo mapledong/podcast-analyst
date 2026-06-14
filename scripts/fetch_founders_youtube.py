@@ -32,6 +32,7 @@ from scripts.youtube_caption_limits import (  # noqa: E402
     sleep_between_episodes,
     with_transcript_backoff,
 )
+from scripts.ytdlp_bin import ytdlp_bin  # noqa: E402
 from src.expand import resolve_transcript_path  # noqa: E402
 from src.fetch_transcript import extract_video_id, fetch_transcript  # noqa: E402
 
@@ -148,9 +149,8 @@ def _score_match(ep: dict, video: dict) -> tuple[int, str]:
 
 
 def fetch_youtube_catalog(*, timeout: int = 600) -> list[dict]:
-    ytdlp = str(ROOT / ".venv" / "bin" / "yt-dlp")
     cmd = [
-        ytdlp,
+        ytdlp_bin(),
         "--ignore-errors",
         "--flat-playlist",
         "--print",
@@ -285,7 +285,7 @@ def curated_episode_numbers() -> list[int]:
 
 
 def _ytdlp() -> str:
-    return str(ROOT / ".venv" / "bin" / "yt-dlp")
+    return ytdlp_bin()
 
 
 def _is_youtube_transcript(path: Path | None) -> bool:
