@@ -1,9 +1,6 @@
 name: Weekly Podcast Summary Update
 
 on:
-  schedule:
-    # Saturday 10:00 Beijing time (02:00 UTC)
-    - cron: "0 2 * * 6"
   workflow_dispatch:
 
 permissions:

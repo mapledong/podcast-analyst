@@ -1,9 +1,6 @@
 name: Nightly BB/Founders Expansion
 
 on:
-  schedule:
-    # Daily 02:00 Beijing (18:00 UTC)
-    - cron: "0 18 * * *"
   workflow_dispatch:
     inputs:
       batch_size:

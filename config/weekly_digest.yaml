@@ -4,7 +4,7 @@
 template_version: v1
 
 schedule:
-  # GitHub Actions cron: Friday 12:00 Beijing (04:00 UTC)
+  # Fed by nightly-content-update.yml (daily 01:00 Beijing)
   workflow: .github/workflows/weekly-digest.yml
 
 lookback_days: 7

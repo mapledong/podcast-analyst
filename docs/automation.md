@@ -88,15 +88,39 @@ BASE_PATH=/
 SITE_URL=https://your-domain.com/
 ```
 
-## Weekly Saturday Update
+## Nightly content update (01:00 Beijing)
 
-Workflow: `.github/workflows/weekly-update.yml`
+Workflow: `.github/workflows/nightly-content-update.yml`
 
-Schedule: every Saturday 10:00 Beijing time.
+**Schedule:** every night **01:00 Beijing** (17:00 UTC).
 
-It runs a Cursor SDK agent that:
+Pipeline each night:
 
-- discovers new episodes from existing podcast series,
+1. **Discover** new episodes — ILTB, Acquired, BB/Founders RSS (`discover_*.py`)
+2. **YouTube captions** — small batch (2/podcast, rate-limited)
+3. **Summarize** up to **8** episodes (default `NIGHTLY_BATCH_SIZE`):
+   - Priority: **new releases** (past 7 days) with full transcript
+   - Then: BB/Founders expand-pool backlog (`resolve_curated_bb_founders.py --ready`)
+4. **Publish** — validate, sync web, commit + push → GitHub Pages deploy
+
+This keeps the **Friday 12:00 weekly digest** fed with the past week's episode dates.
+
+Scripts: `scripts/report_new_episodes.py`, `scripts/nightly_content_update.py`
+
+Required secret: `CURSOR_API_KEY`
+
+Manual run: Actions → **Nightly Content Update**
+
+### Legacy workflows (manual only)
+
+- `weekly-update.yml` — large backfill via Cursor (formerly Saturday)
+- `nightly-bb-founders.yml` — BB/Founders-only expansion (merged into nightly)
+
+## Weekly Saturday Update (manual backfill)
+
+Workflow: `.github/workflows/weekly-update.yml` (no schedule — use **Nightly Content Update** instead)
+
+When run manually, it:
 - creates transcript-grounded summaries,
 - publishes approved JSON and markdown,
 - normalizes company tickers,
