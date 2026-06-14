@@ -1,0 +1,243 @@
+{
+  "completed": [],
+  "failed": [
+    {
+      "id": "ep414",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep469",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep470",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep475",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep476",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep477",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep433",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep460",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep461",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep462",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep463",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep464",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep465",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep466",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep471",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep472",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep473",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep474",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep440",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep441",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep442",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep443",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep444",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep445",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep446",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep447",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep457",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep449",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep403",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep418",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep419",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep421",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep422",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep424",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep425",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep426",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep427",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep429",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep430",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep435",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep436",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep438",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep439",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep450",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep451",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep452",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep453",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep455",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "ep456",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "acq-special-2016-review-and-2017-predictions",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "acq-altimeter-with-brad-gerstner",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "acq-bitcoin",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "acq-episode-43-the-square-ipo",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "acq-episode-44-aol-time-warner-with-the-internet-history-podcast",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "acq-netflix-part-1",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "acq-rolex",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "acq-sequoia-capital-part-1",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "acq-the-shopify-ipo",
+      "error": "OPENAI_API_KEY not set"
+    },
+    {
+      "id": "acq-the-zoom-ipo-with-santi-subotovsky",
+      "error": "OPENAI_API_KEY not set"
+    }
+  ],
+  "skipped": [],
+  "started_at": "2026-06-14T08:19:53.658538+00:00"
+}

@@ -1,0 +1,115 @@
+{
+  "episode_id": "ep467",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 467,
+    "title": "SpaceX, Founders Fund, and Rebuilding American Uranium Enrichment",
+    "guest": "Scott Nolan",
+    "guest_role": "Founder, General Matter; former SpaceX engineer and Founders Fund investor",
+    "date": "2026-04-14",
+    "duration_minutes": 75,
+    "youtube_url": "https://www.youtube.com/watch?v=m7H42MCzBCQ",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=m7H42MCzBCQ",
+      "colossus": "https://colossus.com/episode/betting-on-atoms/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "Nuclear Energy",
+    "Uranium Enrichment",
+    "Founders Fund"
+  ],
+  "conclusion": "Nolan's bet is that nuclear's forgotten bottleneck is fuel, not reactors. The US can mine, convert, deconvert, and fabricate, but lacks commercial-scale enrichment. General Matter starts with urgent HALEU demand for advanced reactors, then aims at LEU for 94 existing US reactors and a multi-billion-dollar domestic fuel market.",
+  "background": "Scott Nolan traces a path from employee #35 at SpaceX to Founders Fund investor to founder of General Matter. The connective tissue is Founders Fund's atoms thesis: work on important physical-world problems that incumbents ignore. Uranium enrichment looked boring until advanced reactors, AI data-center power demand, the Russian uranium ban, and US energy security made it a critical chokepoint.",
+  "important_facts": [
+    "Nolan was employee #35 at SpaceX after seeing Boeing and aerospace incumbents stagnate, joined Founders Fund around 2011, and spent 11–12 years investing in hardware, biotech, chips, satellites, transportation, infrastructure, and other atoms companies before founding General Matter.",
+    "The nuclear fuel cycle has 5 steps: mine uranium, convert it to gas, enrich it, deconvert it to solid, and form fuel pellets. The US has capability across the board except commercial-scale enrichment — the step every advanced reactor company kept saying they could not source reliably for scale deployments beyond DOE test batches.",
+    "He identifies 3 nuclear fuel cliffs: HALEU for advanced reactors at about 20% U-235, the January 1, 2028 full effect of the US ban on Russian uranium imports (roughly 20–25% of US supply), and the longer-term Navy propulsion stockpile. LEU at 3–5% enrichment for the 94 existing US reactors is a $2B–$2.5B domestic market General Matter targets in phase 2 after urgent HALEU supply for SMRs and advanced reactor first deployments."
+  ],
+  "mental_model": {
+    "name": "Small Market, Strategic Bottleneck",
+    "components": "The US nuclear problem is a fuel-cycle problem, not just a reactor problem. Nolan looked for an enrichment company for a year, could not find one, and started General Matter to debottleneck the supply chain. Founders Fund's atoms thesis and SpaceX showed that stagnant, cost-plus physical industries can be rebuilt by a focused new company taking orthogonal views on important problems others are not funding. Nuclear is clean, reliable baseload with extraordinary energy density, but got expensive after the US stopped building in the 1970s.",
+    "application": "Nolan's bet is that nuclear's forgotten bottleneck is fuel, not reactors. General Matter starts with urgent HALEU demand for advanced reactors — the emergent market incumbents are unlikely to serve on the same timeline — then expands to LEU for the 94 reactors on the grid today. Advanced reactors need HALEU enriched to about 20% so reactors can be smaller; without reliable supply in the next few years, SMR scale-up becomes very difficult even with DOE test batches. AI data-center power demand and Russian import restrictions add urgency to rebuilding domestic enrichment capacity that the US has lacked for decades."
+  },
+  "key_insights": [
+    {
+      "view": "The US nuclear problem is a fuel-cycle problem.",
+      "question": "Why enrichment instead of another reactor company?",
+      "answer": "Advanced reactor companies kept saying they could not get fuel. Nolan looked for an enrichment company for a year, could not find one, and started General Matter to debottleneck the supply chain — starting with HALEU at about 20% U-235 before expanding to LEU for 94 grid reactors."
+    },
+    {
+      "view": "Founders Fund's atoms thesis shaped the company.",
+      "question": "What did SpaceX and Founders Fund teach him?",
+      "answer": "SpaceX showed that stagnant, cost-plus physical industries can be rebuilt by a focused new company. Founders Fund taught him to avoid trends, look where others are not funding, and take orthogonal views on important problems."
+    },
+    {
+      "view": "Nuclear is attractive on first principles but bad on execution history.",
+      "question": "Why believe in nuclear despite 10-15 year builds and overruns?",
+      "answer": "It is clean, safe, reliable baseload with extraordinary energy density. The industry got expensive as the US stopped building after the 1970s; advanced reactors and fuel-cycle fixes try to restore the first-principles economics."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:General Matter",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Targets the missing US enrichment step, starting with HALEU and expanding to LEU for existing reactors"
+    },
+    {
+      "ticker": "CCJ",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Western uranium and fuel-cycle capacity benefit from Russian import restrictions and nuclear revival"
+    },
+    {
+      "ticker": "URA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Uranium and nuclear-fuel-cycle equities should benefit if AI data-center power demand and HALEU availability pull advanced reactors forward"
+    }
+  ],
+  "golden_quotes": [
+    "Nolan's career filter from SpaceX and Founders Fund was simple: do something that is useful.",
+    "After studying advanced reactors, he concluded that the enrichment step is the bottleneck.",
+    "On US nuclear fuel security, his diagnosis was that America does not have commercial-scale enrichment capability."
+  ],
+  "chronology": {
+    "subject": "Scott Nolan and General Matter",
+    "events": [
+      {
+        "date": "2000s",
+        "event": "Nolan joins SpaceX as employee #35 after seeing Boeing and aerospace incumbents stagnate"
+      },
+      {
+        "date": "2011",
+        "event": "He joins Founders Fund while at Stanford, focusing on underappreciated atoms companies"
+      },
+      {
+        "date": "2010s",
+        "event": "Advanced reactor investing reveals fuel availability as the bottleneck"
+      },
+      {
+        "date": "2020s",
+        "event": "General Matter is incubated at Founders Fund to rebuild US uranium enrichment"
+      },
+      {
+        "date": "2028",
+        "event": "US ban on Russian uranium imports goes fully into effect, removing roughly 20-25% of supply"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10 | patched v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

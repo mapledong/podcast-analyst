@@ -1,0 +1,145 @@
+{
+  "episode_id": "acq-episode-19-jet",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 10,
+    "title": "Jet",
+    "guest": "Jet",
+    "guest_role": "Acquired · Episode 19",
+    "date": "",
+    "duration_minutes": 120,
+    "youtube_url": "",
+    "links": {
+      "youtube": "",
+      "acquired": "https://www.acquired.fm/episodes/episode-19-jet",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "WMT",
+    "Jet.com",
+    "Marc Lore"
+  ],
+  "conclusion": "Walmart's August 2016 $3.3 billion Jet.com deal ($3 billion cash, $300 million retention) bought Marc Lore's e-commerce playbook after his Quidsi/Diapers.com history — Amazon paid $545 million in 2010 after price-war coercion while Walmart had also bid. Jet raised $220 million pre-launch, dropped its $50/year Costco-style membership after three months, and touted 2 million customers and $90 million May 2016 revenue — growth without proven unit economics. Hosts categorize primarily people-plus-technology: urban millennials Jet attracted versus Walmart's Sears-like demographic, dynamic pricing cart incentives, and aggregation theory's winner-take-all online retail. Grade lands middling — bold Walmart defense against Amazon, but hard to imagine a durable #2 in U.S. e-commerce.",
+  "background": "Episode 19 responds to listener demand on Walmart–Jet (record requests). David opens with Marc Lore's 2005 Quidsi/Diapers.com — Bezos school-picnic meeting, Amazon price war, defensive acquisition to block Walmart. Lore exits 2013 criticizing Amazon 'burnout culture,' launches Jet Hoboken 2014 with $80M seed (extraordinary trust) plus $140M pre-launch ($220M total). July 2015 launch: subway ads, 350K insider members, membership model killed October 2015. November 2015 $350M round; December 2M customers and $33M December revenue; May 2016 $90M monthly revenue. Fortune interview questions winner-take-all thesis. Walmart buys August 8, 2016; Lore to run Walmart.com. Tech themes: Ben Thompson aggregation, urban vs suburban retail, Amazon Seattle campus vs Walmart legacy. Community spotlight: Chris Laurent Nowdue.ai; listener demand drove episode (10+ requests). Lore school-picnic Bezos meeting; Amazon left Diapers independent in Hoboken like Zappos model. Jet Insider Program ~350K pre-launch signups; subway ad blitz in NYC. Fortune July 2016 Lore interview on winner-take-all; hosts compare Walmart to fading Sears and Amazon biospheres vs suburban HQ legacy. Acquisition category spans people, technology, business line, and asset (urban millennial cohort). What-would-have-happened: Amazon price war playbook repeats. Tech themes: aggregation theory, e-commerce still ~5% of U.S. retail in 2012 baseline, Walmart as Sears generational analogy. Grade middling — bold defense, unproven #2. Hot takes: Disney–Twitter; carve-outs Shoe Dog, Marvel Symphonic Universe.",
+  "important_facts": [
+    "Amazon acquired Quidsi/Diapers.com in 2010 for $545 million after aggressive price competition; Walmart had also bid.",
+    "Jet raised $80 million seed (2014) and $140 million more pre-launch — $220 million before selling a single item.",
+    "Launch July 21, 2015 with ~$50/year membership (half of Prime); membership fee dropped October 2015 (~3 months later).",
+    "December 2015: 2 million active customers and $33 million December revenue; May 2016: $90 million monthly revenue.",
+    "Walmart acquisition August 8, 2016: $3.3 billion total ($3 billion cash, $300 million stock retention); Lore to lead Walmart.com."
+  ],
+  "mental_model": {
+    "name": "Get-Scale-or-Sell in E-commerce",
+    "components": "Online retail aggregates to few winners when distribution is free (aggregation theory). Jet's dynamic cart discounts and membership flip-flop chased Amazon scale without matching fulfillment leverage; mega-retailers (Walmart) buy teams and tech when organic catch-up falters. Lore's track record made him the asset. Strategic buyers pay for proven founders when organic catch-up fails; retention stock ($300M) aligns multi-year integration.",
+    "application": "When modeling commerce challengers, separate GMV growth from margin structure — Walmart paid for CEO option value and millennial cohort access, not proven profits. Model e-commerce challengers on GMV growth separately from contribution margin; ask whether buyer needs cohort, tech, or GMV — Jet was people+tech, not profitable product."
+  },
+  "competitive_advantage": "Jet's innovation was gamified logistics pricing — bundle items from same fulfillment center, waive returns for discounts, pass half interchange back — technology-heavy but margin-thin against Amazon's scale and supplier terms. Lore's PR and fundraising credibility (post-Diapers) unlocked capital impossible for typical seed teams. Walmart brought balance sheet and store footprint; Jet brought urban brand and algorithmic pricing IP. Weakness: membership model abandoned; Amazon could underprice indefinitely; only ~5% U.S. retail online in 2012 baseline — battle is vast offline share, not just web traffic. Jet cart algorithms rewarded same-warehouse bundling, return waivers, and interchange givebacks — operational savings passed as consumer discounts if scale arrived. Lore's PR mastery sustained funding after killing membership fee — credibility from Diapers exit at $545M. Walmart gained urban millennial brand and Hoboken tech talent; stores offer pickup/last-mile options Amazon still builds. Weakness: Amazon could subsidize indefinitely; Jet's 10–15% undercut promise eroded when membership engine removed; December holiday $33M revenue impressive but May $90M still tiny vs Amazon. Aggregation theory suggests one online storefront per market — Walmart paid for time and talent, not proven #2 economics. Walmart store footprint offers pickup and last-mile options Jet lacked — acquirer synergy more physical than digital. Lore's second successful exit premium justified $3.3B price for talent and playbook, not GAAP earnings. Costco membership metaphor failed quickly; dynamic cart remained differentiated tech asset if integrated into walmart.com pricing engine over multi-year horizon.",
+  "key_insights": [
+    {
+      "view": "People acquisition more than product.",
+      "question": "Why $3.3B for one-year-old Jet?",
+      "answer": "Marc Lore's second act, team, and pricing engine — Walmart explicitly put him in charge of Walmart.com; product fold likely temporary. Everything Store and Fortune interview quotes document Lore's Amazon exit motives and Walmart's second attempt after losing Diapers to Bezos in 2010."
+    },
+    {
+      "view": "Amazon–Walmart chess repeats.",
+      "question": "How did Diapers foreshadow Jet?",
+      "answer": "Bezos blocked Walmart from Quidsi; Lore returns to compete, then sells to Walmart — same two players, decade apart."
+    },
+    {
+      "view": "Membership flip signaled model risk.",
+      "question": "Why kill $50 fee after 3 months?",
+      "answer": "Costco-style profit-from-fees thesis collapsed; shifted to 4–5% discounts vs Amazon — hosts skeptical on sustaining margins."
+    },
+    {
+      "view": "Winner-take-all makes #2 expensive.",
+      "question": "Can two U.S. e-commerce giants coexist?",
+      "answer": "Hosts struggle to name durable #2; category winners (apparel, etc.) fragment offline but online storefront is singular — Walmart buying optionality."
+    },
+    {
+      "view": "Urban millennial asset for Walmart.",
+      "question": "What demographic gap closes?",
+      "answer": "Jet's Hoboken/NYC subway brand vs Walmart's aging Sears comparison — acquisition buys cohort Amazon already owns."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "WMT",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Jet deal marks Walmart's Amazon defense via talent import; judge e-commerce ROI on omnichannel integration, not standalone Jet.com GMV."
+    },
+    {
+      "ticker": "AMZN",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Aggregation dynamics in episode explain why incumbents struggle to dislodge Amazon scale — relevant to AWS-retail flywheel debates."
+    }
+  ],
+  "golden_quotes": [
+    "\"At Amazon, I saw it didn't matter how you treated people… very short-term thinking\" — Marc Lore, NYT, quoted by David.",
+    "\"There's this huge middle class… willing to trade off convenience… for price\" — Lore starting Jet, per hosts.",
+    "\"Walmart is this generation's Sears\" — Ben on demographic headwinds."
+  ],
+  "chronology": {
+    "subject": "Jet.com · Walmart Acquisition",
+    "events": [
+      {
+        "date": "2005",
+        "event": "Marc Lore founds Quidsi (Diapers.com)"
+      },
+      {
+        "date": "2010",
+        "event": "Amazon acquires Quidsi for $545 million"
+      },
+      {
+        "date": "2013",
+        "event": "Lore leaves Amazon"
+      },
+      {
+        "date": "2014",
+        "event": "Jet founded; $80M seed raised"
+      },
+      {
+        "date": "2015-02",
+        "event": "Additional $140M raised pre-launch"
+      },
+      {
+        "date": "2015-07-21",
+        "event": "Jet.com launches publicly"
+      },
+      {
+        "date": "2015-10",
+        "event": "Membership fee dropped"
+      },
+      {
+        "date": "2015-11",
+        "event": "$350 million funding round"
+      },
+      {
+        "date": "2015-12",
+        "event": "2M customers; $33M December revenue"
+      },
+      {
+        "date": "2016-05",
+        "event": "$90M monthly revenue announced"
+      },
+      {
+        "date": "2016-08-08",
+        "event": "Walmart acquires Jet for $3.3 billion"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT Acquired batch ep19-25 — v5.1-acquired | optimized v5.4"
+}

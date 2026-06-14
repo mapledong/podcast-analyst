@@ -1,0 +1,138 @@
+{
+  "episode_id": "acq-twitter-with-dick-costolo",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 107,
+    "title": "Twitter (with Dick Costolo)",
+    "guest": "Twitter (with Dick Costolo)",
+    "guest_role": "Season 7 · Episode 5",
+    "date": "2020-10-28",
+    "duration_minutes": 85,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/twitter-with-dick-costolo",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch v5.1 — Season 7 specials | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Promoted Tweets",
+    "Platform vs Ads",
+    "Mobile Pivot"
+  ],
+  "conclusion": "Dick Costolo walks Ben and David through the fork where Twitter could have owned mobile social — pioneering promoted tweets before Facebook's feed ads, acquiring Loren Brichter's Tweetie (Atebits) for the native app, and nearly buying Instagram for ~$500M before Facebook paid $1B. Instead, Twitter chose an advertising business over a platform/API strategy, generating $100M+ in 2011 ad revenue (3x the next year) but capping at ~$3.5B versus Facebook's $70B+. The alternate universe: Twitter owns Instagram and Vine, becoming TikTok's parent. Costolo's candid history — FeedBurner to Google, the $500M–$1B Facebook offer (worth ~$27B in FB stock today), hardcoded Russian-president office visits, and IPO at $26 — frames Twitter as a product that reached ~330M MAU but never matched Facebook's ceiling because asymmetric follows expose less targeting data and the core UX remained hard to use.",
+  "background": "Season 7 Episode 5 reframes Twitter through Dick Costolo — CEO from 2010, first revenue dollar, IPO architect — rather than rehashing founder musical-chairs. The episode opens in Web 2.0: Costolo's SpyOnIt RSS predecessor, FeedBurner ad insertion (acquired by Google alongside Ev Williams' Blogger), and the race to 1M followers. Costolo joins as COO in 2009, becomes CEO in 2010, and builds Twitter's ad engine with Adam Bain — promoted tweets based on engagement, self-serve targeting portals, and Google/Microsoft data deals ($100M 2010 revenue mostly from partnerships). Product moves include acquiring Atebits/Tweetie, launching Twitter Cards, buying Vine and Periscope, and negotiating Instagram (~$500M, 10% of Twitter) before Facebook intervened. Post-IPO hype ($26 price, whisper numbers at $40 on CNBC) crashed within six months. Costolo reflects on ~330M MAU plateau, mDAU growth, content moderation, and the 2020 election context. The 2020 election context frames moderation tradeoffs: Dick deleted his own tweet, reflecting on polarization and Section 230. Twitter's sponsorship kit value — Acquired listeners as a premium audience — illustrates mDAU monetization even when MAU stalls.",
+  "important_facts": [
+    "Facebook offered $500M–$1B for Twitter circa 2008–2009 when Twitter was growing faster than Facebook; $500M in Facebook stock then would be worth ~$27B today.",
+    "Twitter pioneered promoted tweets (engagement-based feed ads) before Facebook's mobile ad format; 2010 revenue was mostly Google and Microsoft data deals, then 2011 exceeded $100M in ads and 3x'd the following year.",
+    "Twitter negotiated to acquire Instagram for roughly $500M (10% of Twitter); at IPO the next year, 10% of Twitter would have exceeded Facebook's Instagram purchase price.",
+    "Twitter IPO priced at $26/share (Oct 2013); stock nearly doubled in six weeks on 'next Facebook' narrative before crashing back toward IPO price within six months.",
+    "When Costolo left, Twitter had ~300M users; MAU peaked near ~330M while mDAU and monetization continued climbing; Twitter generates ~$3.5B annual revenue versus Facebook's ~$70B."
+  ],
+  "mental_model": {
+    "name": "Platform vs. Advertising Fork",
+    "components": "Consumer tech companies face a binary strategic fork: become the rails (API/platform, WeChat-like) or become the ad seller (Facebook/Google duopoly). Twitter's third-party ecosystem (TweetDeck, clients) generated engagement but the ad unit required first-party tweet consumption. Closing the platform to capture promoted-tweet revenue traded ecosystem optionality for a smaller ad TAM. Network effects favor the player who reaches escape velocity first — Instagram/TikTok winners were not outrun once Facebook or ByteDance poured capital in.",
+    "application": "When evaluating social products, ask whether value accrues to the platform owner or third-party clients. Twitter Cards powered Instagram's early growth — then Twitter disabled rich previews in rivalry. Costolo's lesson: the most common third-party app is a better client of your own product, not a Windows-scale platform. For investors, asymmetric-follow graphs expose less friend-graph data than Facebook, constraining ad targeting and ceiling even with strong cultural relevance."
+  },
+  "competitive_advantage": "Twitter's moat is real-time public conversation — unmatched for news, politics, and cultural moments. Dick Costolo built the monetization layer: promoted tweets, self-serve ads, and enterprise data licensing. First-mover in mobile feed ads (pre-Facebook mobile competence) and acquisitions (Tweetie native app, Vine, Periscope) gave product advantages that were squandered in platform wars. Asymmetric follows create a unique graph (interest-based, not friend-based) — perfect fit for Instagram's model, which Twitter nearly owned. Bidirectional follow visibility is unique among major social networks but yields less targeting data than Facebook's private friend graph. Weaknesses: persistent UX difficulty limiting MAU growth (~330M cap); Instagram preview disabling; losing TikTok-scale opportunities (Vine, Musical.ly) to better-capitalized rivals; and moderation polarization risk. Post-Costolo mDAU focus improved monetization without solving ceiling. Content moderation leadership versus Facebook creates differentiation but not revenue parity. Historical leverage: Russian president office visit (hardcoded into product), Adam Bain's sales execution, and recruiting ad talent from Google at premium comp built a real business — just not a Facebook-scale one. Operational detail reinforces the fork: Costolo recruited Google ad engineers at premium comp, built self-serve targeting portals when only Google had done so, and hardcoded a Russian presidential office visit into the product. Third-party clients (TweetDeck) extended reach but could not monetize promoted tweets — the RSS analogy Ben draws is precise. Periscope followed Meerkat within weeks; Musical.ly slogged until ByteDance poured ad dollars into TikTok rebrand. Costolo reflects that raising a war chest to subsidize Vine-scale growth was discussed but never executed at Twitter scale. Post-IPO, whisper numbers hit $40 on CNBC while the stock doubled then crashed — a cautionary tale for 'next Facebook' narratives applied to asymmetric-follow products with persistent UX friction.",
+  "key_insights": [
+    {
+      "view": "Twitter pioneered the feed ad unit Facebook would dominate.",
+      "question": "How did promoted tweets precede Facebook mobile ads?",
+      "answer": "Circa 2010, Facebook was 'garbage on mobile' with display-style Microsoft deals. Costolo/Ashish built engagement-based promoted tweets — requiring heavy engineering, advertiser education, and third-party data plumbing. 2011 exceeded $100M ad revenue, 3x in 2012. Facebook later copied and scaled with a richer friend graph. The episode's 2020 recording date anchors these dynamics before subsequent CBA, streaming, and geopolitical shifts — but the structural incentives remain instructive for media and platform investors."
+    },
+    {
+      "view": "The Instagram acquisition was the butterfly effect.",
+      "question": "What if Twitter bought Instagram for ~$500M?",
+      "answer": "Twitter had ~140M MAU; Instagram fit the asymmetric-follow model perfectly. Facebook paid $1B instead. Costolo notes 10% of Twitter at IPO would have exceeded that price. Alternate universe: Twitter owns Instagram and effectively TikTok via Vine/Musical.ly lineage — becoming the dominant mobile social company."
+    },
+    {
+      "view": "Platform openness and ad monetization conflict.",
+      "question": "Why kill third-party clients?",
+      "answer": "If tweets are the ad unit, consumption must happen where Twitter controls ads. RSS failed partly because publishers couldn't control first-party engagement. Costolo chose advertising over a WeChat-like platform — rational given Facebook/Google duopoly size, but capped Twitter at ~$3.5B vs. $70B+."
+    },
+    {
+      "view": "Escape velocity beats product parity.",
+      "question": "Why couldn't Twitter outrun Instagram or TikTok?",
+      "answer": "Once network effects compound (Netflix content spend, Facebook user base, ByteDance ad blitz on TikTok), catching up requires disproportionate capital. Meerkat/Periscope and Vine demonstrated Silicon Valley darlings get crushed within weeks when a better-funded rival ships."
+    },
+    {
+      "view": "MAU plateau does not mean business failure.",
+      "question": "Why is Twitter 'only' 330M users?",
+      "answer": "Product difficulty and niche appeal (news/politics vs. universal friend graph) limit MAU. Costolo notes ~$3.5B revenue and 300M+ users is extraordinary; mDAU growth shows improved monetization. Acquired listeners are a valuable demographic — but Twitter's graph exposes less targeting data than Facebook."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "TWTR",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Costolo-era foundation built promoted-tweet monetization and mDAU metrics; cultural relevance in news/politics sustains ad pricing even as MAU growth stalled near 330M."
+    }
+  ],
+  "golden_quotes": [
+    "\"If it were $500 million in Facebook stock back then, that would be $27 billion today\" — David on the foregone Facebook acquisition offer for Twitter.",
+    "\"On any given Sunday\" — Ben reframing that once a consumer service hits escape velocity, competitors cannot match the same playing field.",
+    "\"Twitter is the only social platform that exposes bidirectional follows\" — Ben on Twitter's unique graph visibility and its limits for ad targeting versus Facebook."
+  ],
+  "chronology": {
+    "subject": "Twitter (Dick Costolo era)",
+    "events": [
+      {
+        "date": "Early 1990s",
+        "event": "Costolo at Andersen Consulting; pivots to stand-up comedy at Second City"
+      },
+      {
+        "date": "2004",
+        "event": "Costolo founds FeedBurner (RSS ad insertion)"
+      },
+      {
+        "date": "2007",
+        "event": "Google acquires FeedBurner; Costolo joins Google"
+      },
+      {
+        "date": "2008",
+        "event": "Facebook offers $500M–$1B for Twitter; offer declined"
+      },
+      {
+        "date": "2009",
+        "event": "Costolo joins Twitter as COO"
+      },
+      {
+        "date": "2010",
+        "event": "Costolo becomes CEO; promoted tweets and Google/Microsoft data deals launch"
+      },
+      {
+        "date": "2011",
+        "event": "Twitter exceeds $100M ad revenue; 3x growth the following year"
+      },
+      {
+        "date": "2012",
+        "event": "Instagram acquisition talks fail; Facebook buys Instagram for $1B"
+      },
+      {
+        "date": "2013",
+        "event": "Twitter IPO at $26/share"
+      },
+      {
+        "date": "2015",
+        "event": "Costolo steps down as CEO; Twitter ~300M users"
+      },
+      {
+        "date": "2020",
+        "event": "Episode recorded week before US presidential election"
+      }
+    ]
+  }
+}

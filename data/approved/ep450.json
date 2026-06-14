@@ -1,0 +1,117 @@
+{
+  "episode_id": "ep450",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 450,
+    "title": "Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth",
+    "guest": "David George",
+    "guest_role": "",
+    "date": "2025-12-02",
+    "duration_minutes": 67,
+    "youtube_url": "https://www.youtube.com/watch?v=cZB-0TVRsO8",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=cZB-0TVRsO8",
+      "colossus": "https://joincolossus.com/episode/inside-a16z-growth/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "a16z Growth",
+    "AI Stack",
+    "Technical Terminators"
+  ],
+  "conclusion": "George's growth lens is simple and hard: find the right founder for the right market, then pay up when people, product, and insight line up. AI expands markets, but much of the surplus may go to users, so product judgment matters more.",
+  "background": "David George runs a16z Growth and explains how the firm invests across private and public technology markets. He discusses AI consumer products, enterprise AI, Waymo, robotics, market leadership, technical founders, Figma, Roblox, Cursor, Databricks, and the institutionalization of private markets. The episode is less about one stock and more about how growth investors compete when the best private companies are obvious, expensive, and relationship-driven. George's answer is years of founder work plus product and market insight that a spreadsheet cannot show.",
+  "important_facts": [
+    "George says ChatGPT reached Google-scale usage roughly four times faster and has around 1B users, while monetizing fewer than 50M of them. Private markets have become a real asset class: he cites ≈$5T of private market cap, up 10x in 10 years, almost a quarter of the S&P 500 and more than half of the Magnificent Seven's market cap. Key quantitative evidence: George says ChatGPT reached Google-scale usage roughly four times faster and has around 1B users, while monetizing fewer than 50M of them.",
+    "He frames consumer internet monetization as a lesson in ARPU expansion: Facebook and Google were once thought capped around $20 per user, but later made about $200 per user in developed markets. He frames consumer internet monetization as a lesson in ARPU expansion: Facebook and Google were once thought capped around $20 per user, but later made about $200 per user in developed markets. Consumer AI may be huge, but the interface is probably not just chat.",
+    "Private markets have become a real asset class: he cites ≈$5T of private market cap, up 10x in 10 years, almost a quarter of the S&P 500 and more than half of the Magnificent Seven's market cap. Investment implications in the summary are: Private:OpenAI (Watch) — George says ChatGPT reached roughly 1B users while monetizing fewer than 50M, creating upside if consumer AI moves beyond chat into task completion. Consumer AI may be huge, but the interface is probably not just chat."
+  ],
+  "mental_model": {
+    "name": "People, Product, Market Edge",
+    "components": "Consumer AI may be huge, but the interface is probably not just chat. George says ChatGPT has staggering usage but monetizes a tiny share. The next leap may come from AI interacting with the web and completing tasks, not from a static chatbot interface. Market leadership still matters most in technology. He uses the Glengarry Glen Ross framing: first prize matters and second or third can be painful. Most market cap creation goes to the leader, especially in software, consumer, and fintech. Growth investing now requires private-market maturity. Technology is now eight of the ten largest market-cap companies, seven of them West Coast venture-backed. With ≈$5T of private market cap, the best rounds attract large multi-stage firms and specialist boutiques, so years of relationship work matter.",
+    "application": "George describes years of relationship-building before many competitive rounds, then using product and market conviction to act at valuations that looked expensive at the time. In Figma, the critical call was that design would converge with engineering workflows, expanding the addressable market. In AI, he applies the same logic to autonomy and consumer software where monetization may lag adoption by years."
+  },
+  "key_insights": [
+    {
+      "view": "Consumer AI may be huge, but the interface is probably not just chat.",
+      "question": "What is still unsettled about AI consumer companies?",
+      "answer": "George says ChatGPT has staggering usage but monetizes a tiny share. The next leap may come from AI interacting with the web and completing tasks, not from a static chatbot interface. George says ChatGPT reached Google-scale usage roughly four times faster and has around 1B users, while monetizing fewer than 50M of them."
+    },
+    {
+      "view": "Market leadership still matters most in technology.",
+      "question": "Why pay up for leaders?",
+      "answer": "He uses the Glengarry Glen Ross framing: first prize matters and second or third can be painful. Most market cap creation goes to the leader, especially in software, consumer, and fintech. He frames consumer internet monetization as a lesson in ARPU expansion: Facebook and Google were once thought capped around $20 per user, but later made about $200 per user in developed markets."
+    },
+    {
+      "view": "Growth investing now requires private-market maturity.",
+      "question": "How has competition changed?",
+      "answer": "Technology is now eight of the ten largest market-cap companies, seven of them West Coast venture-backed. With ≈$5T of private market cap, the best rounds attract large multi-stage firms and specialist boutiques, so years of relationship work matter. Private markets have become a real asset class: he cites ≈$5T of private market cap, up 10x in 10 years, almost a quarter of the S&P 500 and more than half of the Magnificent Seven's market cap."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:OpenAI",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "George says ChatGPT reached roughly 1B users while monetizing fewer than 50M, creating upside if consumer AI moves beyond chat into task completion"
+    },
+    {
+      "ticker": "Private:Waymo",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "a16z invested in 2020 and again after visible 2024 road traction; George frames autonomy as a mother-of-all-markets opportunity"
+    },
+    {
+      "ticker": "Private:Figma",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "The Figma case shows how product-market expansion from designers into front-end engineering can make an expensive growth-stage price executable"
+    }
+  ],
+  "golden_quotes": [
+    "\"George's growth-investing preference is to pay fair prices for great companies when founder, product, and market line up.\"",
+    "\"He warns that without product and market insight, a growth investor will live in a spreadsheet and die in a spreadsheet.\"",
+    "\"His market-leadership lesson is blunt: the vast majority of technology market-cap creation goes to the category leader.\""
+  ],
+  "chronology": {
+    "subject": "a16z Growth and David George",
+    "events": [
+      {
+        "date": "2018",
+        "event": "George joins a16z and immediately identifies Figma as a must-win growth opportunity "
+      },
+      {
+        "date": "2020",
+        "event": "a16z invests in Waymo when Alphabet raises outside capital for the first time "
+      },
+      {
+        "date": "2020",
+        "event": "Figma investment opportunity arrives during COVID after years of relationship building "
+      },
+      {
+        "date": "2024",
+        "event": "Waymo raises again with cars visibly on the road, improving the investment case "
+      },
+      {
+        "date": "2026",
+        "event": "George frames private markets as a $5T, institutionalized asset class central to technology market cap creation "
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "restored_from_outputs": true,
+    "expanded_from_outputs": true,
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

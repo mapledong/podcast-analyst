@@ -1,0 +1,10 @@
+.env
+data/transcripts/*
+data/drafts/*
+!.gitkeep
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+tmp/

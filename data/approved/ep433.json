@@ -1,0 +1,119 @@
+{
+  "episode_id": "ep433",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 433,
+    "title": "Building Sixth Street",
+    "guest": "Alan Waxman",
+    "guest_role": "Co-Founder & CEO, Sixth Street",
+    "date": "2025-07-15",
+    "duration_minutes": 74,
+    "youtube_url": "https://www.youtube.com/watch?v=zPFor81KJx0",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=zPFor81KJx0",
+      "colossus": "https://joincolossus.com/episode/building-sixth-street/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Sixth Street",
+    "Flexible Capital",
+    "Private Markets"
+  ],
+  "conclusion": "Waxman frames Sixth Street as a flexible-capital platform built on risk unitization, cross-asset comparison, and disciplined fund sizing. He argues that the combination of specialized platforms and TAL allows billion-dollar scale without forcing style drift. His core lesson is cultural and structural: bespoke deals and strong downside control work best when teams share information, stay curious, and respond together when situations turn difficult.",
+  "background": "Alan Waxman traces Sixth Street to lessons from Goldman's Special Situations Group, where teams compared opportunities across asset classes using a common risk-and-return language. He says that framework, plus a culture of sharing information and asking hard questions, shaped Sixth Street's approach to bespoke financings. The episode emphasizes architecture: ten platform strategies plus TAL, an umbrella balance sheet used to participate in very large opportunities without forcing every strategy fund to become oversized. Waxman uses examples like Spotify, Airbnb, sports partnerships, and Affirm to show the same operating pattern: start with a specific company need, design a structure around that need, and protect downside with rigorous underwriting and collaborative execution.",
+  "important_facts": [
+    "Goldman's Special Situations Group had about $25B of firm balance sheet at peak and compared opportunities across asset classes, geographies, durations, and return profiles from roughly 10% to 30%, with the core rule that the group could not lose money.",
+    "Sixth Street runs ten investment platforms plus TAL — a ~$30B synthetic Goldman balance sheet on top. Without TAL, Waxman says the growth business might need an ~$8B fund, yet a $2B Spotify-like deal would not fit a $3–4B growth fund alone.",
+    "Deal examples include a ~$1B Spotify convertible with a ~$25B cap and yield to bridge pre-IPO, a ~$1B Airbnb COVID financing with Silver Lake, Real Madrid and FC Barcelona partnerships beyond 10 years, and a ~$20B Affirm joint venture for asset origination."
+  ],
+  "mental_model": {
+    "name": "Constraint-Aware Compounding",
+    "components": "Flexible mandate only works if the culture shares information. Waxman says the unitization of risk and return breaks down if people hoard relationships or protect fiefdoms. The Special Situations Group compared every opportunity in common units and punched above its weight on Goldman net income. Capital architecture should prevent forced style drift. Project Austin studied GPs that raised ever-larger funds where the opportunity set did not justify it. Sixth Street keeps each of ten platforms sized to its horizon and deal flow, while TAL provides Goldman-like flexibility for $1–2B+ checks. The best deals are whiteboarded with management, not pulled off a shelf. Each required bespoke structure around a company need: Spotify's ~$1B convertible with ~$25B cap and yield for pre-IPO bridge; Airbnb's ~$1B COVID financing alongside Silver Lake; Affirm's ~$20B origination partnership engineered on a whiteboard with Max Levchin. Waxman says most Sixth Street deals cannot be pulled off the shelf — the firm wants to be the creative partner, not just the highest-coupon lender, and themes that work today will be different in three years as 15–25 active themes rotate.",
+    "application": "Apply the model by sharing risk units across platforms, sizing each fund to its deal flow while TAL handles oversized checks, and whiteboarding bespoke structures with management rather than pulling products off the shelf."
+  },
+  "key_insights": [
+    {
+      "view": "Flexible mandate only works if the culture shares information.",
+      "question": "What made the Goldman group formative?",
+      "answer": "Waxman says the unitization of risk and return breaks down if people hoard relationships or protect fiefdoms. The Special Situations Group compared every opportunity in common units and punched above its weight on Goldman net income. Sixth Street's recruiting filter is nice people, no politics, no egos, and being 'over yourself' — he jokes he asks so many questions that dinner guests complain, because curiosity and shared information are how flexible mandates avoid fiefdoms."
+    },
+    {
+      "view": "Capital architecture should prevent forced style drift.",
+      "question": "Why build TAL on top of modest platform funds?",
+      "answer": "Project Austin studied GPs that raised ever-larger funds where the opportunity set did not justify it. Sixth Street keeps each of ten platforms sized to its horizon and deal flow, while TAL provides Goldman-like flexibility for $1–2B+ checks. Waxman walks through a hypothetical $2B Spotify sequel: a $3–4B growth fund could not hold it, but a ~$30B umbrella can without bloating every strategy mandate — one of the few firms that can consistently write billion-dollar-plus checks across asset classes."
+    },
+    {
+      "view": "The best deals are whiteboarded with management, not pulled off a shelf.",
+      "question": "What do Spotify, Airbnb, and Affirm have in common?",
+      "answer": "Each required bespoke structure around a company need: Spotify's ~$1B convertible with ~$25B cap and yield for pre-IPO bridge; Airbnb's ~$1B COVID financing alongside Silver Lake; Affirm's ~$20B origination partnership engineered on a whiteboard with Max Levchin. Waxman says most Sixth Street deals cannot be pulled off the shelf — the firm wants to be the creative partner, not just the highest-coupon lender, and themes that work today will be different in three years as 15–25 active themes rotate."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Sixth Street",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "TAL plus ten platforms let Sixth Street keep fund sizes disciplined while still competing for billion-dollar checks across asset classes — a structure Waxman argues most GPs cannot replicate without either undersizing deals or over-sizing funds"
+    },
+    {
+      "ticker": "SPOT",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "The 2016 ~$1B convertible — contrarian amid Amazon/Apple fears — bridged Spotify to IPO with a ~$25B cap structure; Waxman's takeaway is durable music platforms with aligned management can absorb flexible pre-IPO capital when equity markets are hostile"
+    },
+    {
+      "ticker": "AFRM",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Sixth Street's ~$20B Affirm joint venture expands origination and operating leverage rather than passive credit exposure — consistent with Waxman's asset-based finance playbook of engineering capacity alongside founders"
+    }
+  ],
+  "golden_quotes": [
+    "We're one of the few handful of firms in the world that can consistently write billion dollar plus checks across asset classes.",
+    "At Sixth Street we're like, 'Good, let's go. Let's face the tiger together.'",
+    "His warning on themes is that anything good has a shelf life of only 12 to 36 months before capital crowds in."
+  ],
+  "chronology": {
+    "subject": "Sixth Street",
+    "events": [
+      {
+        "date": "College",
+        "event": "Waxman had 35 interviews without a job offer; started in a bond mail room before Goldman"
+      },
+      {
+        "date": "Goldman era",
+        "event": "Joined predecessor to Special Situations Group; peak ~$25B balance sheet mandate"
+      },
+      {
+        "date": "2008–2009",
+        "event": "GFC informs Project Austin; Sixth Street founded as flexible capital firm"
+      },
+      {
+        "date": "2016",
+        "event": "~$1B Spotify convertible financing with ~$25B cap during competitive-threat overhang"
+      },
+      {
+        "date": "2020",
+        "event": "~$1B Airbnb COVID financing alongside Silver Lake"
+      },
+      {
+        "date": "2020s",
+        "event": "Real Madrid and FC Barcelona partnerships; ~$20B Affirm origination JV; TAL ~$30B architecture"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

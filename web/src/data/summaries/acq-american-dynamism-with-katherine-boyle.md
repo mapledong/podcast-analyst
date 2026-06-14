@@ -1,0 +1,145 @@
+# EP.153 — American Dynamism
+
+## *Katherine Boyle · Season 10*
+
+**★★★☆☆** · 3/5
+
+**Podcast** Acquired · **Date** Jun 5, 2022 · **Duration** 78 min · **Read** ≈5 min
+
+**Host** Ben Gilbert & David Rosenthal
+
+**Guest** Katherine Boyle · Season 10
+
+**Listen**  · [Acquired](https://www.acquired.fm/episodes/american-dynamism-with-katherine-boyle) · [Apple](https://podcasts.apple.com/podcast/acquired/id1050462261) · [Spotify](https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx)
+
+**Topics** American Dynamism · Defense Tech · Geographic Decentralization
+> ### Conclusion
+>
+> Katherine Boyle, Andreessen Horowitz general partner leading American Dynamism, argues the next venture frontier is companies serving national interest — defense, infrastructure, energy, healthcare, education — not only consumer SaaS. The thesis merges Marc Andreessen's 2020 "It's Time to Build" moment with Boyle's path from Washington Post journalist to Silicon Valley investor: old institutions feel stagnant while builders want impact. a16z formalized a vertical practice around this; Boyle operates from Miami as part of tech's geographic diaspora. Space moved from deeply non-consensus to consensus, proving deep-tech categories can compound for decades. Founders reach Boyle via a16z channels and her Substack "The Rambler." The episode pairs with Rep. Gonzalez on industrial policy — American dynamism as both investment theme and political project.
+
+---
+
+## Background
+
+> Recorded at a live event (hotel-room remote setup), Ben and David interview Katherine Boyle on a16z's American Dynamism vertical — investing in startups supporting US prosperity, defense, and critical infrastructure beyond traditional enterprise SaaS. Boyle explains the practice includes healthcare, education, and domestic capability, not only Pentagon-facing tech. Discussion covers intellectual origins (COVID build moment, Don Valentine selling to DoD in Silicon Valley's earliest days), timing versus consensus (Social Network era founder culture), Boyle's Washington Post background and non-consensus move west, scarcity mindset in DC versus growth mindset in tech, Miami/geographic decentralization ending "move to Sand Hill Road" default, and moral framing of why extending the "American way" is worth funding. Space is the first category that went from ridiculed to consensus in venture.
+
+---
+
+## Key Facts
+
+> **F1** Andreessen Horowitz structured American Dynamism as a dedicated vertical investing practice — one of the most granular sector splits among megafunds at recording time, with dedicated GP leadership (Boyle).
+
+> **F2** Marc Andreessen's April 2020 "It's Time to Build" blog post is cited as a cultural precursor to the American Dynamism thesis during COVID supply-chain shocks.
+
+> **F3** Don Valentine sold to the US Department of Defense in Silicon Valley's early era (1960s–70s) — hosts tie defense-customer DNA to the region's origins.
+
+> **F4** The Social Network film (2011) is referenced as accelerating founder-as-builder culture among young people entering tech.
+
+> **F5** Katherine Boyle publishes "The Rambler" on Substack; founders contact her and a16z through firm channels to pitch American Dynamism-fit companies.
+
+
+---
+
+## Mental Model · *Correct, Non-Consensus, and Timed*
+
+> **Components**
+>
+> Acquired's recurring investment thesis triad: being right is insufficient — you must be non-consensus and early enough for compounding. American Dynamism applies this to categories VCs ignored for a decade (defense, atoms, infrastructure) while SaaS absorbed talent and capital. Boyle's career swap (journalism → venture) exemplifies non-consensus human capital allocation. Geographic decentralization (Miami, national founder base) expands non-consensus sourcing beyond Bay Area groupthink. Space's arc from punchline to consensus validates long J-curves in deep tech.
+>
+> **Application**
+>
+> When evaluating "boring" sectors (logistics, energy, govtech), ask if consensus is still absent — that is where venture multiples may exist before incumbents react. Founders outside SF should no longer treat Sand Hill relocation as default term-sheet condition. Policy shifts (CHIPS, reshoring, defense budgets) can create "why now" even if technology existed earlier — timing is exogenous.
+
+---
+
+## What Makes It Work
+
+> a16z's American Dynamism practice combines brand, capital, and policy network. Counter-positioning versus funds that avoided "hard tech" and government sales cycles for years — lower competition for deals in defense and infrastructure when Boyle launched the vertical. a16z megafund scale lets portfolio companies survive long J-curves (Palantir took ≈70 years of compounding from garage to societal infrastructure, per hosts). Boyle's DC press credentials provide trust with policy-adjacent founders and understanding of regulatory moats. Weaknesses: defense/gov contracting favors incumbents (Lockheed, Raytheon) with captured relationships; venture-style speed may clash with procurement. Political polarization can strand "American way" rhetoric. Deep tech capital intensity exceeds SaaS — fund size helps but does not eliminate binary risk. Key-person and brand concentration on Marc/ firm partners remains. Boyle's Washington Post tenure (pre-a16z) gives credibility but also baggage in tech-media "battle" narratives Andreessen sometimes amplifies. Miami HQ signals geographic decentralization yet a16z remains Silicon Valley-branded — founders must navigate both identities when pitching the vertical.
+
+---
+
+## Key Insights
+
+> **1.** American Dynamism is broader than defense contractors.
+>
+> **Q** Does the thesis include healthcare and education?
+>
+> **A** Boyle confirms anything supporting national interest and domestic prosperity qualifies — not only weapons or foreign policy. The framing is prosperity, resilience, and capability across the American economy, aligning with post-COVID supply-chain and industrial-policy debates.
+
+> **2.** Silicon Valley may have over-optimized startup playbook at the expense of frontier.
+>
+> **Q** Did SV become too institutional?
+>
+> **A** Hosts ask if counterculture became bureaucracy — incubators, SAFEs, and Sand Hill rituals standardized founding. Boyle's practice recenters builders on hard problems (atoms, energy, defense) where playbook is thinner and moats may be physical or regulatory, not just growth loops.
+
+> **3.** Washington and Silicon Valley operate on different status games.
+>
+> **Q** Is making money gauche in DC?
+>
+> **A** Boyle notes DC attention economy rewards power and visibility, not wealth creation — opposite of venture. Moving west was non-consensus among her press network. Seattle/Bay Area still celebrate company scale ($100M revenue, unicorn status) while downplaying personal flash.
+
+> **4.** Geographic gatekeeping is ending.
+>
+> **Q** Must founders move to Sand Hill Road?
+>
+> **A** Pre-COVID default: book one-way ticket to SFO, drive Sand Hill until term sheet. Boyle and a16z now treat geography as the internet — Miami base symbolizes diaspora. Better for national talent but increases competition for same deals remotely.
+
+> **5.** Space proved deep tech consensus cycles take years.
+>
+> **Q** What category flipped first?
+>
+> **A** Space went from Silicon Valley punchline to consensus — lower gross margins than SaaS but massive outcomes as tech permeates physical industries. Boyle expects continued entrepreneurs attacking broad swaths of the American economy previously deemed unventureable.
+
+---
+
+## Investment Ideas
+
+> **1. PLTR** · 🟡 WATCH · ●○○ Low
+>
+> Episode cites Palantir as decades-long compounding example of garage innovation becoming societal infrastructure — benchmark for American Dynamism hold periods and gov/defense GTM.
+
+---
+
+## Golden Quotes
+
+> ""Don't do stuff that doesn't make your beer taste better." — Acquired mega-theme (Bezos/AWS origin), cited while discussing specialized tech stacks for builders."
+
+> ""Being correct, non-consensus, and getting the timing right." — Acquired's three-part investment thesis applied to American Dynamism launch."
+
+> ""Space went from deeply non-consensus in Silicon Valley to now pretty consensus." — Katherine Boyle on how deep-tech categories mature."
+
+---
+
+## Chronology
+
+> *American Dynamism (a16z) & Katherine Boyle*
+>
+> **1960s–70s** Don Valentine sells to US Department of Defense — early Silicon Valley defense customer DNA
+>
+> **2011** The Social Network film shapes founder-builder cultural moment
+>
+> **2010s** Katherine Boyle covers Washington for Post; transitions to Silicon Valley investing
+>
+> **Apr 2020** Marc Andreessen publishes "It's Time to Build" during COVID
+>
+> **2014** Katherine Boyle transitions from Washington journalism toward Silicon Valley venture investing
+>
+> **2019–20** COVID supply-chain shocks and CHIPS discourse accelerate industrial-policy venture interest
+>
+> **2021** a16z expands vertical practices; Boyle relocates to Miami as part of coastal diaspora
+>
+> **2020–22** Venture attention shifts toward space, defense, and infrastructure; Boyle based in Miami
+>
+> **2022-06-05** Acquired live interview on American Dynamism thesis published
+>
+> **2022-08** Companion episode with Rep. Anthony Gonzalez on industrial policy and crypto regulation
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Acquired, Ben Gilbert & David Rosenthal, or American Dynamism (with Katherine Boyle). It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

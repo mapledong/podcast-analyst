@@ -1,0 +1,134 @@
+{
+  "episode_id": "acq-10-years-of-acquired-with-michael-lewis",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 205,
+    "title": "10 Years of Acquired (with Michael Lewis)",
+    "guest": "10 Years of Acquired (with Michael Lewis)",
+    "guest_role": "Season 18 · Episode 4",
+    "date": "2025-12-14",
+    "duration_minutes": 165,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/10-years-of-acquired-with-michael-lewis",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch v5.1 — episodes 491-500 | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Podcast Economics",
+    "Circle of Competence",
+    "Partnership"
+  ],
+  "conclusion": "Ten years in, Ben and David invite Michael Lewis to the Menlo Park garage where Google started to ask why Acquired succeeded where 99% of podcasts fail. The answer blends Berkshire-style circle of competence, Sequoia-like partnership discipline, and Hermès-inspired quality scarcity — only ~15 episodes per year, each consuming a month of research. Lewis reframes their work as narrative non-fiction with a business lens: find obscurity-to-ubiquity hero journeys with secrets hiding in plain sight. The episode meta-analyzes Acquired's sponsor strategy (enterprise deals, not CPM ads), true subscriber distribution without algorithmic disintermediation, and terror-driven quality control. Unlike Lewis's books that create phenomena from obscurity, Acquired covers companies audiences already love — the craft is revealing the machine behind familiar brands.",
+  "background": "Recorded in Google's original Menlo Park garage during the Fall 2025 season finale, Ben and David depart from holiday-special tradition to examine Acquired itself with Michael Lewis — author of Moneyball, Liar's Poker, and host of Against the Rules. Lewis probes why studying great companies might have osmosed into Acquired's own durability. The conversation covers David's French-literature thesis on Dom Pérignon (later becoming the LVMH episode), Ben's venture background versus David's storytelling strength, lessons from Berkshire (circle of competence, too-hard pile), Sequoia (partnership as profane alternative to solo host), Hermès (quality and scarcity), and the economics of premium sponsorship targeting multimillion-dollar enterprise deals rather than programmatic ads.",
+  "important_facts": [
+    "Acquired launched in 2015; by 2025 the show produces ~15 episodes per year versus weekly schedules at most podcasts — each episode requiring roughly a month of research, reflecting Hermès-inspired quality scarcity.",
+    "David went full-time on Acquired in 2020; Ben followed full-time in late 2023/early 2024 — a five-year staggered transition mirroring Sequoia's partnership patience.",
+    "True podcast subscription differs from YouTube/Twitter follows: Apple Podcasts and Spotify subscribers receive every episode without algorithmic disintermediation — Ben cites ~4 billion global internet users making any niche massive online.",
+    "Sponsor strategy targets companies doing multimillion-dollar annual enterprise deals; Ben and David report sponsors often ROI-positive from a single large customer acquired via Acquired plus co-hosted events — planning partners 1–2 years ahead.",
+    "Lewis recorded in the literal garage where Google started (~$4T company); the venue caps the three-part Google series season. First ad sold was chosen specifically to signal quality brand perception."
+  ],
+  "mental_model": {
+    "name": "Scarcity-Quality Compounding",
+    "components": "Acquired applies lessons from subjects it covers: Berkshire's circle of competence (large too-hard pile), Hermès quality scarcity (~15 episodes/year), Sequoia partnership discipline (two hosts, non-negotiable), and Costco-style trust (no loss-leader content). True podcast subscriptions create direct audience relationships without algorithmic intermediation. Terror of disappointing subscribers drives quality. Enterprise sponsor model aligns with B2B companies where one incremental deal repays annual sponsorship.",
+    "application": "For media businesses, frequency and quality trade off more sharply than growth metrics suggest. Acquired proves niche topics reach millions globally on the internet. Partnership structures beat solo host fragility for decade-long compounding. Sponsor selection as brand signal — not just revenue — reinforces positioning."
+  },
+  "competitive_advantage": "Acquired's moat is research depth plus brand trust accumulated over 10 years. ~15 episodes annually creates scarcity that weekly competitors cannot replicate without diluting quality. Two-host partnership (Ben analysis, David narrative) prevents single-point-of-failure and enables month-long production cycles. True subscriber distribution on Apple/Spotify bypasses algorithmic risk plaguing YouTube-first creators. Audience follows from LVMH to Epic Systems to healthcare IT — cross-topic loyalty rare in podcasting. Enterprise sponsor model (multimillion-dollar deal targets, co-hosted events) selects for B2B brands where Acquired delivers measurable pipeline — avoiding CPM race-to-bottom. First sponsor chosen for brand elevation, not maximum rate. Weaknesses: production intensity caps scale; dependency on two hosts; no algorithmic discovery engine for new audience; and meta-episode risk of naval-gazing. Lewis notes Acquired covers known brands versus his obscurity-to-fame book model — different creative challenge. Live events (Chase Center ~6,000 attendees, AWS re:Invent Venetian Theater CEO series) extend the brand beyond audio without diluting episode scarcity. Ben and David's complementary skills — venture/product analysis versus French-literature narrative research — mirror Berkshire's Munger-Buffett division of cognitive labor applied to media.",
+  "key_insights": [
+    {
+      "view": "Acquired applies its subjects' playbooks to itself.",
+      "question": "What did Berkshire teach the show?",
+      "answer": "Circle of competence and a large too-hard pile — intelligent nos. Not every company deserves an episode. Buffett's durability lesson also resonated: lean into compounding over decades after initially undervaluing that frame. Quality over frequency."
+    },
+    {
+      "view": "Partnership is non-negotiable.",
+      "question": "Why two hosts for 10 years?",
+      "answer": "David went full-time 2020; Ben followed ~2024. Acquired has always been two people — 'profane' to consider otherwise, echoing Sequoia's partnership model. Ben brings analysis and products background; David brings narrative and research storytelling. Complementary, not interchangeable."
+    },
+    {
+      "view": "True subscription beats algorithmic follow.",
+      "question": "Why does podcast distribution matter?",
+      "answer": "Apple/Spotify subscribers receive every episode — unlike YouTube or Twitter where follow is algorithm input, not guarantee. When Acquired publishes, the base comes along: LVMH listeners learn healthcare IT on Epic Systems. Cross-topic loyalty requires direct subscription relationship."
+    },
+    {
+      "view": "Three ingredients for great episodes.",
+      "question": "What makes a company Acquired-worthy?",
+      "answer": "Ben's framework: (1) hero's journey from obscurity to ubiquity, (2) secret hiding in plain sight — Costco gears visible after listening, (3) compelling protagonist. Differs from Lewis's model of creating phenomena from obscurity — Acquired reveals machinery behind brands audiences already love."
+    },
+    {
+      "view": "Enterprise sponsors match the audience.",
+      "question": "Why not maximize ad inventory?",
+      "answer": "Sponsors must target multimillion-dollar annual enterprise deals — one incremental customer repays sponsorship. Co-hosted events put sponsors next to best prospects. First ad sold specifically to signal quality brand. Planning sponsors 1-2 years ahead like strategic partnerships, not programmatic CPM."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "SPOT",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Spotify's podcast investments compete on volume; Acquired's model suggests durable value accrues to direct-subscriber shows with premium production — a niche within Spotify's broader podcast strategy."
+    }
+  ],
+  "golden_quotes": [
+    "\"Why Acquired worked when 99% of podcasts do not\" — Ben framing the meta-episode with Michael Lewis.",
+    "\"It would be profane for it to be anything other than the two of us\" — David on Acquired's partnership structure.",
+    "\"There's a secret hiding in plain sight like Costco\" — Ben's framework for great episodes where listeners see gears turning after the show."
+  ],
+  "chronology": {
+    "subject": "Acquired · Ben Gilbert & David Rosenthal",
+    "events": [
+      {
+        "date": "2015",
+        "event": "Acquired launches; first episodes published"
+      },
+      {
+        "date": "2015",
+        "event": "Dom Pérignon vintage released — same year show started; David's thesis topic"
+      },
+      {
+        "date": "2020",
+        "event": "David goes full-time on Acquired"
+      },
+      {
+        "date": "2021–23",
+        "event": "Show adopts quality scarcity — ~15 episodes per year"
+      },
+      {
+        "date": "2023–24",
+        "event": "Ben goes full-time; Chase Center live event era begins"
+      },
+      {
+        "date": "2024",
+        "event": "Hermès, Costco, NFL remaster — peak production values"
+      },
+      {
+        "date": "2025",
+        "event": "Three-part Google series; 10-year anniversary"
+      },
+      {
+        "date": "2024",
+        "event": "Chase Center live show with Jamie Dimon; ~6,000 in-person attendees"
+      },
+      {
+        "date": "Fall 2025",
+        "event": "AWS re:Invent Venetian Theater CEO interview series at Reinvent"
+      },
+      {
+        "date": "Dec 2025",
+        "event": "Michael Lewis interview recorded in Google's original garage"
+      }
+    ]
+  }
+}

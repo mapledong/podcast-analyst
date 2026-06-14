@@ -1,0 +1,116 @@
+{
+  "episode_id": "bb-amadeus-the-it-backbone-of-travel",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 237,
+    "title": "Amadeus: The IT Backbone of Travel",
+    "guest": "Ben Needham",
+    "guest_role": "Portfolio Manager, 91 Asset Management",
+    "date": "2025-12-12",
+    "duration_minutes": 47,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://joincolossus.com/episode/amadeus-the-it-backbone-of-travel/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "Amadeus",
+    "Travel IT",
+    "Airline Distribution"
+  ],
+  "conclusion": "Needham frames Amadeus as the friendly gorilla of travel IT: ~50% share in distribution and airline IT, inflation-linked 10–15 year contracts, and ~70% contribution margins on air IT. AI-agent fears look overblown while Navitaire order-management upgrades and a peer-weakened hotel IT market offer mid-teens revenue-per-booking upside.",
+  "background": "Matt Reustle breaks down Amadeus with Ben Needham of 91 Asset Management, covering the Spanish travel IT giant that pipes bookings for agents, corporates, and airlines worldwide. Needham splits the business into distribution (~35% of group profits) linking sellers to providers, air IT (~50% of profits) running reservation and departure systems for airlines boarding 2 billion-plus passengers a year, and hotel IT (~10% of profits) scaling reservation systems for chains like IHG, Marriott, and Accor.\n\nThe conversation traces Amadeus's 1987 origin from airline-owned GDS mergers, explains why ~80% of airline IT is outsourced, and walks fee economics — roughly €1 per passenger boarded on air IT and ~€6 gross / ~€3 net on distribution. Needham argues AI agents still need aggregated content, away bookings drive most distribution revenue, and a strong balance sheet lets Amadeus gain share as leveraged peers retreat.",
+  "important_facts": [
+    "Amadeus holds roughly 50% market share in both global distribution and airline IT, processing over 2 billion passengers boarded annually versus a ~4 billion market ex-China; Sabre is second at ~600–700 million passengers boarded and ~30% distribution share. Air IT now contributes ~50% of group profits versus ~20% fifteen years ago, at nearly 70% contribution margins, while distribution contributes ~35% and hotel IT ~10%.",
+    "Revenue resembles Visa-style take rates: ~€1 per passenger boarded on air IT and ~€6 gross distribution fees (~€3 net after paying travel sellers) — often well under 1% of a long-haul ticket above €1,000. Air IT contracts run 10–15 years with inflation-linked modular pricing; distribution revenue skews to away bookings (~majority of revenue) even as only ~25% of total bookings flow through the indirect channel of ~1 billion bookings per year.",
+    "Organic volume growth runs roughly 3–4.5% before new wins as travel grows ~1.5–2× GDP; Needham cites industry experts expecting mid-teens revenue-per-booking uplift from order-management migration, with early Navitaire adopters seeing 5–7% revenue-per-passenger gains versus Amadeus's current ~€1 air IT extraction. Hotel IT wins include IHG (2015), Marriott, and Accor as Sabre exited the segment."
+  ],
+  "mental_model": {
+    "name": "Community Platform for Travel Infrastructure",
+    "components": "Airlines and hotels outsource mission-critical reservation, inventory, and departure systems to a shared platform that amortizes R&D across customers — only ~20% of airline IT remains in-house today. Distribution aggregates fragmented global inventory for ~1 billion indirect bookings per year without balance-sheet risk, while dual IT-plus-GDS ownership improves bookability and cross-subsidized pricing versus travelport-only peers. Inflation-linked fixed fees make air IT defensive in downturns when airlines cut ticket prices but not per-passenger IT rents.",
+    "application": "Needham sees AI travel agents as funnel competitors to OTAs, not replacements for aggregated NDC/edifact plumbing — agents still need Amadeus-scale content pipes and mission-critical PSS behind the booking. NDC transition has raised look-to-book ratios on airline sites; Amadeus net fee per booking has risen over time, contradicting dilution fears. Balance-sheet strength versus levered Sabre creates hotel IT share-gain optionality, potential consolidation upside, and bankruptcy-driven share capture in a severe traffic downturn."
+  },
+  "key_insights": [
+    {
+      "view": "Air IT is now the profit engine, not GDS.",
+      "question": "How is profit mix shifting?",
+      "answer": "Needham says air IT moved from ~20% of group profits fifteen years ago to ~50% today at nearly 70% contribution margins, while distribution is ~35% despite getting most investor attention. Processing 2 billion-plus boarded passengers on ~50% global share anchors the moat."
+    },
+    {
+      "view": "AI disintermediation fears look overstated.",
+      "question": "Does AI threaten the GDS?",
+      "answer": "Needham calls agent-led search a storm in a teacup: mission-critical reservation systems still required, aggregating fragmented airline content remains costly, and corporate travel complexity resists full automation. Distribution-heavy peers with weaker IT would suffer first — potentially letting Amadeus gain share."
+    },
+    {
+      "view": "Order-management upgrade is the next growth leg.",
+      "question": "What is Navitaire/Nevio?",
+      "answer": "Airlines migrating from legacy passenger service systems to order-management platforms could see mid-teens revenue-per-booking uplift industry-wide; early Navitaire customers like Finnair, Saudia, and Air France-KLM show 5–7% revenue-per-passenger gains versus Amadeus's ~€1 current air IT take."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "AMS",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Needham sees inflation-linked air IT (~70% contribution margins, ~50% share), rising net distribution fees through NDC, and Navitaire-driven ARPU uplift against a travel market growing ~1.5–2× GDP — with balance-sheet optionality as levered peers retreat from hotel IT."
+    },
+    {
+      "ticker": "SABR",
+      "direction": "Short",
+      "confidence": "Low",
+      "thesis": "Sabre trails at ~600–700 million passengers boarded versus Amadeus's 2 billion-plus and exited hotel IT amid balance-sheet pressure — Needham argues dual IT-plus-distribution scale lets Amadeus underprice and cross-sell while Sabre lacks the same integrated halo."
+    }
+  ],
+  "golden_quotes": [
+    "Needham summarizes Amadeus as the gorilla of travel IT — but a friendly gorilla growing ahead of a structurally expanding market in a low-risk, inflation-linked way.",
+    "On AI agents: aggregating disparate NDC and edifact content is expensive — why rebuild infrastructure when Amadeus already does it at a very low industry take rate?",
+    "Distribution gross fees of ~€6 per booking translate to ~€3 net after paying travel sellers — and net fee per unit has steadily risen through the NDC transition."
+  ],
+  "chronology": {
+    "subject": "Amadeus",
+    "events": [
+      {
+        "date": "1960s-1970s",
+        "event": "Airline-owned distribution systems emerge after deregulation; anti-competitive bias prompts airline divestitures."
+      },
+      {
+        "date": "1987",
+        "event": "Amadeus formed from merger of Iberia, SAS, Air France, and Lufthansa distribution systems."
+      },
+      {
+        "date": "Early 2000s",
+        "event": "Launches Altéa air IT platform for reservations, inventory, and departure control behind the GDS."
+      },
+      {
+        "date": "2010s",
+        "event": "Hotel IT scales; wins landmark IHG contract in 2015 as air IT profit mix rises toward half of group."
+      },
+      {
+        "date": "Mid-2010s",
+        "event": "Lufthansa briefly pulls from Amadeus distribution then reverses — underscoring outsourcing economics."
+      },
+      {
+        "date": "2020s",
+        "event": "Wins Marriott and Accor hotel IT; Sabre sells hotel IT unit; Navitaire order-management pilots with Finnair, Saudia, Air France-KLM."
+      },
+      {
+        "date": "2025",
+        "event": "Needham joins Business Breakdowns EP.237 as Amadeus holds ~50% GDS and air IT share processing 2B+ passengers."
+      }
+    ]
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "joincolossus",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  }
+}

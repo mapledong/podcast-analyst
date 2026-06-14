@@ -1,0 +1,117 @@
+{
+  "episode_id": "ep456",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 456,
+    "title": "Lessons from Investing in 700 Companies",
+    "guest": "Gokul Rajaram",
+    "guest_role": "",
+    "date": "2026-01-29",
+    "duration_minutes": 76,
+    "youtube_url": "https://www.youtube.com/watch?v=JUsb1FYOstA",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=JUsb1FYOstA",
+      "colossus": "https://colossus.com/episode/lessons-from-investing-in-700-companies",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Product Management",
+    "AI Agents",
+    "Self-Serve Software"
+  ],
+  "conclusion": "Rajaram's core point is that AI makes building cheaper, so judgment becomes more valuable. The scarce skill is deciding what matters, defining the right outcome, and testing whether a product changes customer behavior. Seat-based software and lazy middle management look exposed; self-serve products, outcome pricing, and agent-fluent builders look better.",
+  "background": "Gokul Rajaram has built and led core product and revenue systems at Google, Facebook, Square, DoorDash, and Coinbase, and has invested in roughly 700 companies. He uses those operating reps to explain how product work changes when agents can code, test, and execute. This is a practical product conversation: evals, customer behavior, systems of record, North Star metrics, work projects in hiring, and why self-serve distribution can sneak into large enterprises before sales teams even notice.",
+  "important_facts": [
+    "Rajaram says product roles were clearly split 5-10 years ago between PMs, designers, and engineers, but long-horizon agents now let technical and non-technical people build working products in hours. He cites concrete product lessons: Gmail offered 100x Hotmail's 10MB storage, Square accepted 95% of applicants by moving risk to the transaction level, and self-serve products can reach millions of customers versus ≈10,000 through a 100-person sales force.",
+    "He distinguishes exposed seat-based software from more durable workflow systems. A $20-$30 per seat customer-service product may need to move toward $1, $0.50, or $0.20 per resolved ticket as AI changes the unit of value. Investment implications in the summary are: APP (Watch) — Rajaram cites AppLovin as a $100B-plus outcome machine for mobile app installs, illustrating why AI-era software may be valued on verified outcomes rather than seats.",
+    "He cites concrete product lessons: Gmail offered 100x Hotmail's 10MB storage, Square accepted 95% of applicants by moving risk to the transaction level, and self-serve products can reach millions of customers versus ≈10,000 through a 100-person sales force. Key quantitative evidence: Rajaram says product roles were clearly split 5-10 years ago between PMs, designers, and engineers, but long-horizon agents now let technical and non-technical people build working products in hours."
+  ],
+  "mental_model": {
+    "name": "Outcome First Product Judgment",
+    "components": "Start from the customer outcome and define how success will be evaluated before building. Favor products that can onboard and deliver delight without human mediation, because self-serve quality compounds distribution efficiency. Identify where incumbents hold system-of-record advantages and data access control, then decide whether to integrate, displace, or build a new record layer. Keep teams close to real usage evidence and fast iteration. The future-proof skill is judgment, not prompt volume. What matters when anyone can build more software? Rajaram worries about AI slop. In an era when teams can make almost anything, the harder question is which things should be made, what outcome they create, and whether an eval proves the product is good enough to ship.",
+    "application": "Rajaram applies this in both operating and investing contexts: he values products with explicit North Star metrics tied to customer value, and he pressure-tests whether pricing aligns with delivered outcomes. He also looks for bottom-up adoption patterns where teams adopt tools before executive mandates, as seen in cases like Figma and newer AI developer products entering enterprises through daily utility."
+  },
+  "key_insights": [
+    {
+      "view": "The future-proof skill is judgment, not prompt volume.",
+      "question": "What matters when anyone can build more software?",
+      "answer": "Rajaram worries about AI slop. In an era when teams can make almost anything, the harder question is which things should be made, what outcome they create, and whether an eval proves the product is good enough to ship. Rajaram says product roles were clearly split 5-10 years ago between PMs, designers, and engineers, but long-horizon agents now let technical and non-technical people build working products in hours."
+    },
+    {
+      "view": "Systems of record can fight back against agents by controlling data.",
+      "question": "Why are incumbents not automatically dead?",
+      "answer": "Slack, Salesforce, Epic, and other workflow systems hold the data agents need. Rajaram notes Slack cutting off Glean and APIs moving toward prices like $2 per call, which can force agent companies to build systems of record too. He distinguishes exposed seat-based software from more durable workflow systems. A $20-$30 per seat customer-service product may need to move toward $1, $0.50, or $0.20 per resolved ticket as AI changes the unit of value."
+    },
+    {
+      "view": "Self-serve is both a product discipline and a distribution weapon.",
+      "question": "Why does self-serve matter beyond lower CAC?",
+      "answer": "If a customer can onboard without talking to an employee, the product must deliver a fast moment of delight. It can also infiltrate enterprises from the bottom up, as Figma did after a mid-level design manager brought it in despite a failed top-down push. He cites concrete product lessons: Gmail offered 100x Hotmail's 10MB storage, Square accepted 95% of applicants by moving risk to the transaction level, and self-serve products can reach millions of customers versus ≈10,000 through a 100-person sales force."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "APP",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Rajaram cites AppLovin as a $100B-plus outcome machine for mobile app installs, illustrating why AI-era software may be valued on verified outcomes rather than seats"
+    },
+    {
+      "ticker": "CRM",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Salesforce can defend valuable system-of-record data, but seat-based modules may face pressure to move toward outcome pricing as agents automate work"
+    },
+    {
+      "ticker": "Private:Cursor",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Self-serve adoption inside large companies is a strong example of AI-native bottom-up distribution"
+    }
+  ],
+  "golden_quotes": [
+    "\"Rajaram says the truly future-proof product skill is judgment: deciding what matters when AI can help build almost anything.\"",
+    "\"In an era when teams can do everything, he says the core question becomes which of those things actually matter to customers.\"",
+    "\"His hiring and product lesson is that talk is not enough; candidates and teams have to do real work that reveals judgment.\""
+  ],
+  "chronology": {
+    "subject": "Gokul Rajaram's product lessons",
+    "events": [
+      {
+        "date": "2003",
+        "event": "Gmail launches internally with a 100x storage advantage over Hotmail "
+      },
+      {
+        "date": "2000s",
+        "event": "Google AdSense and self-serve systems teach him to build for scale and onboarding "
+      },
+      {
+        "date": "2010s",
+        "event": "Square shifts risk to transaction-level underwriting and uses GPV as a core value metric "
+      },
+      {
+        "date": "2020s",
+        "event": "Self-serve products like Figma and Cursor spread bottom-up inside large companies "
+      },
+      {
+        "date": "2026",
+        "event": "Long-horizon AI agents make product judgment, evals, and agent orchestration central skills "
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "restored_from_outputs": true,
+    "expanded_from_outputs": true,
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

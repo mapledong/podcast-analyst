@@ -1,0 +1,115 @@
+# EP.{{ metadata.episode_number }} — {{ display_title }}
+{% if display_subtitle %}
+
+## *{{ display_subtitle }}*
+{% endif %}
+
+{{ episode_rating.overall | star_rating }}
+
+{% set links = metadata.get('links', {}) %}
+**Podcast** {{ podcast }} · **Date** {{ metadata.date | format_date }} · **Duration** {{ metadata.duration_minutes }} min · **Read** ≈{{ reading_time_min }} min
+
+**Host** {{ host }}
+
+{% if display_guest %}
+**Guest** {{ display_guest }}{% if display_guest_role %} · {{ display_guest_role }}{% endif %}
+{% endif %}
+
+{% if links.get('youtube') or metadata.get('youtube_url') or links.get('colossus') or links.get('acquired') or links.get('apple_podcasts') or links.get('spotify') %}
+
+**Listen** {% if links.get('youtube') or metadata.get('youtube_url') %}[YouTube]({{ links.get('youtube') or metadata.youtube_url }}){% endif %}{% if links.get('acquired') %} · [Acquired]({{ links.acquired }}){% endif %}{% if links.get('colossus') %} · [Colossus]({{ links.colossus }}){% endif %}{% if links.get('apple_podcasts') %} · [Apple]({{ links.apple_podcasts }}){% endif %}{% if links.get('spotify') %} · [Spotify]({{ links.spotify }}){% endif %}
+
+{% endif %}
+
+**Topics** {% for kw in keywords %}{{ kw }}{% if not loop.last %} · {% endif %}{% endfor %}
+
+> ### Conclusion
+>
+> {{ conclusion }}
+
+---
+
+## Background
+
+> {{ background | replace('\n\n', '\n>\n> ') }}
+
+---
+
+## Key Facts
+
+{% for fact in important_facts %}
+> **F{{ loop.index }}** {{ fact }}
+
+{% endfor %}
+
+---
+
+## Mental Model · *{{ mental_model.name }}*
+
+> **Components**
+>
+> {{ mental_model.components }}
+>
+> **Application**
+>
+> {{ mental_model.application }}
+
+---
+
+{% if competitive_advantage %}
+## What Makes It Work
+
+> {{ competitive_advantage | replace('\n\n', '\n>\n> ') }}
+
+---
+{% endif %}
+
+## Key Insights
+
+{% for item in key_insights %}
+> **{{ loop.index }}.** {{ item.view }}
+>
+> **Q** {{ item.question }}
+>
+> **A** {{ item.answer }}
+
+{% endfor %}
+---
+
+## Investment Ideas
+
+{% for clue in top_investment_implications %}
+> **{{ loop.index }}. {{ clue.ticker }}** · {{ clue.direction | direction_label }} · {{ clue.confidence | confidence_bar }}
+>
+> {{ clue.thesis }}
+
+{% endfor %}
+---
+
+## Golden Quotes
+
+{% for quote in golden_quotes %}
+> "{{ quote }}"
+
+{% endfor %}
+---
+
+## Chronology
+
+> *{{ chronology.subject }}*
+>
+{% for entry in chronology.events %}
+> **{{ entry.date }}** {{ entry.event }}
+>
+{% endfor %}
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by {{ podcast }}, {{ host }}, or {{ metadata.guest }}. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice.{% if links.get('youtube') or metadata.get('youtube_url') %} Listen to the [original episode]({{ links.get('youtube') or metadata.youtube_url }}) for full context and the guest's own words.{% else %} Listen to the original episode for full context and the guest's own words.{% endif %}
+
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.
+

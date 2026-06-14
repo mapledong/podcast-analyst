@@ -1,0 +1,119 @@
+{
+  "episode_id": "ep468",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 468,
+    "title": "The Trillion-Dollar Health Revolution",
+    "guest": "Alex Karnal",
+    "guest_role": "Healthcare and life sciences investor",
+    "date": "2026-04-21",
+    "duration_minutes": 92,
+    "youtube_url": "https://www.youtube.com/watch?v=QVSP8bGm2KQ",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=QVSP8bGm2KQ",
+      "colossus": "https://colossus.com/episode/trillion-dollar-health-revolution/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "GLP-1",
+    "Health Stack",
+    "Biotech"
+  ],
+  "conclusion": "Karnal argues medicine is moving from reactive treatment to a defensive health stack. GLP-1s prove people will pay to prevent future disease — oral Wegovy at roughly $150/month pushed weekly new scripts from about 200,000 to 300,000 in months. The bigger opportunity is pairing proven drugs with better access, adherence, and AI-guided monitoring before risks become catastrophes, ultimately aiming at a trillion-dollar reduction in annual healthcare spend.",
+  "background": "Alex Karnal gives a sweeping life sciences tour: GLP-1s, PCSK9 inhibitors, oral obesity drugs, compounding, Alzheimer's, cancer, inflammation, and the idea of a personal health stack. The episode is unusually data-rich because it connects drug mechanisms to adoption, pricing, and health-system cost. His main claim is that GLP-1s are a $100B-plus revenue class and a signal of a once-in-a-lifetime trillion-dollar public-health shift. Karnal says expected lifespan charts have barely moved in decades — the last major inflection came from antibiotics, vaccines, and better hygiene — even though scientists have largely cracked the biological targets for the diseases that kill most people. The gap is impact, not invention: access, cost, prescribing friction, and reactive care keep proven medicines from reaching people early enough. GLP-1 adoption exceeding expectations is the first commercial proof that consumers will vote with their feet for prevention. On commercialization, 2025 brought compounding that revealed price elasticity — branded GLP-1s north of $400–$500/month versus compounded at roughly half — and 2026 brought oral Wegovy, which Karnal calls an absolute game changer. Oral launch velocity is setting records with an almost 4x relative launch cycle versus injectable Zepbound, driven less by injection aversion than by a lower price point on the demand curve.",
+  "important_facts": [
+    "Karnal says GLP-1s can easily exceed $100B a year in revenue and may be the first proof point for a once-in-a-lifetime trillion-dollar revolution in public health — which he defines as a trillion-dollar reduction in annual healthcare spend.",
+    "He says middle-aged men and women have roughly a 30–50% probability of heart attack or stroke between ages 40 and 80, and existing medicines could lower that risk to sub-10%. Lilly data shows a 94% reduction in progression from pre-diabetic to diabetic on GLP-1s.",
+    "Compounded GLP-1s revealed major price elasticity: branded drugs were north of $400–$500/month, compounded versions were about half that, and he saw 15–20% of the market able to pay $200–$250/month but not $400–$500. Oral Wegovy costs about $150/month (~$1,800/year); prior to launch the GLP-1 market ran ~200,000 new scripts per week, rising to ~300,000 per week within months."
+  ],
+  "mental_model": {
+    "name": "Defensive Health Stack",
+    "components": "Layer preventive medicine and behavior across lipids, cardio-metabolic health, neurocognitive health, inflammation, and blood pressure. Use drugs where evidence is strong — GLP-1 as the most important molecule across axes, PCSK9 for LDL, statins where appropriate — plus monitoring where behavior matters and AI to reduce friction. Karnal traces GLP-1 science back 20 years; the hormone naturally lasts only ~2 minutes in the body, so durable injectable and oral formulations required decades of chemistry.",
+    "application": "For healthcare investing, look for companies that close the gap between invention and impact: cheaper access, better prescribing, adherence, diagnostics, and longitudinal monitoring around existing high-evidence therapies. Oral Wegovy shows that at ~$1,800/year cost these medicines fly off the shelves; compounding showed 15–20% of consumers will pay $200–$250/month but not $400–$500. Digital access models and AI-guided prevention can capture that elasticity while PCSK9 and next-gen GLP-1 triple-agonists broaden the stack beyond obesity alone."
+  },
+  "key_insights": [
+    {
+      "view": "GLP-1s are bigger than obesity.",
+      "question": "Why are these drugs such a big deal?",
+      "answer": "They touch diabetes prevention, weight, heart attacks, strokes, kidneys, inflammation, blood pressure, and possibly addiction. Karnal calls GLP-1 the most important molecule across the health-stack axes and notes the class has been accumulating evidence for 20 years — his first exposure was Amylin in 2005. Adoption has exceeded even his high expectations; he now sees revenue easily in excess of $100B annually. The 2026 oral Wegovy launch is setting record weekly scripts with an almost 4x relative launch versus Zepbound, not mainly because people dislike injections but because $150/month unlocks a lower segment of the demand curve."
+    },
+    {
+      "view": "PCSK9 may be closer to a free lunch than GLP-1.",
+      "question": "What drug class is underappreciated?",
+      "answer": "PCSK9 inhibitors can lower LDL about 50%, reduce future heart attack or stroke risk by over 20% in patients who already had an event, and by about 25% in high-risk patients without prior events. Discovery came from human genetics: populations with PCSK9 gene mutations that block the protein showed an 88% reduction in cardiovascular disease over 15-year studies. Karnal says PCSK9 is very much more the free-lunch drug versus GLP-1 because you can pin the bad actor without the broader metabolic trade-offs — yet heart disease remains the number one US killer and uptake lags the science."
+    },
+    {
+      "view": "The bottleneck is impact, not invention.",
+      "question": "If the medicines exist, why has lifespan not moved?",
+      "answer": "Access, cost, prescribing friction, adherence, and reactive healthcare keep proven medicines from reaching people early enough. Karnal stresses lifespan expectation charts have not budged in decades since antibiotics, vaccines, and hygiene — despite scientists having cracked most targets for diseases that claim most lives. GLP-1 demand shows consumers may now pull preventive care forward: compounded pricing proved 15–20% will pay $200–$250/month; oral Wegovy at $150/month accelerated weekly new starts from ~200,000 to ~300,000. The trillion-dollar revolution means learning from GLP-1 commercialization to arm people with a stack that could add an extra decade of life."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "LLY",
+      "direction": "Long",
+      "confidence": "High",
+      "thesis": "GLP-1 leadership, Lilly Direct, oral portfolio momentum, and future Alzheimer/obesity readouts place it at the center of preventive health demand"
+    },
+    {
+      "ticker": "NVO",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Novo remains a major GLP-1 player with oral Wegovy setting launch records and cardiovascular outcome evidence expanding access"
+    },
+    {
+      "ticker": "HIMS",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Digital access models can capture GLP-1 price elasticity and prescribing friction, especially for consumers who can pay $200–$250/month but not $400–$500/month"
+    }
+  ],
+  "golden_quotes": [
+    "After two decades in biotech, Karnal called 2025 probably the single most exciting year in his investing journey.",
+    "He argues that GLP-1s mark the start of a once-in-a-lifetime, trillion-dollar revolution in public health — a trillion-dollar reduction in annual healthcare spend.",
+    "His healthcare bottleneck is impact, not invention: the gap is not necessarily needing more medicines."
+  ],
+  "chronology": {
+    "subject": "Preventive medicine and the health stack",
+    "events": [
+      {
+        "date": "2005",
+        "event": "Karnal's early GLP-1 exposure via Amylin Pharmaceuticals as a young biotech investor"
+      },
+      {
+        "date": "20+ years",
+        "event": "GLP-1 class accumulates safety and mechanism evidence; natural hormone lasts ~2 minutes in body"
+      },
+      {
+        "date": "2024–25",
+        "event": "GLP-1 adoption exceeds expectations; compounding reveals price elasticity at $200–$250/month versus $400–$500 branded"
+      },
+      {
+        "date": "2025",
+        "event": "Karnal calls the year the most exciting in 20 years of biotech investing"
+      },
+      {
+        "date": "2026",
+        "event": "Oral Wegovy launches at ~$150/month; weekly new scripts rise from ~200,000 to ~300,000"
+      },
+      {
+        "date": "Future",
+        "event": "Health stack expands into PCSK9, neurocognitive disease, inflammation, blood pressure, triple-acting GLP-1s, and AI-guided prevention"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

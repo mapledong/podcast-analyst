@@ -1,0 +1,141 @@
+{
+  "episode_id": "acq-episode-12-snapchat",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 7,
+    "title": "Snapchat",
+    "guest": "Snapchat",
+    "guest_role": "Acquired · Episode 12",
+    "date": "",
+    "duration_minutes": 120,
+    "youtube_url": "",
+    "links": {
+      "youtube": "",
+      "acquired": "https://www.acquired.fm/episodes/episode-12-snapchat",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "Ephemeral Messaging",
+    "Facebook M&A",
+    "Counterfactual Analysis"
+  ],
+  "conclusion": "Facebook's November 2013 reported ~$3 billion offer for Snapchat — rejected by Evan Spiegel — is Acquired's first 'deal that didn't happen' episode, using hindsight to grade counterfactual outcomes. David traces Snapchat from Stanford (Peekaboo/Picaboo, 127 users after first summer) through Reggie Brown co-founder litigation, Bobby Murphy CTO, and explosive teen growth that terrified Facebook as mobile feed ads were still unproven. Spiegel's product-design pedigree (David Kelley advisor, Scott Cook internship) foreshadowed category creation in ephemeral camera communication. Hosts conclude Snapchat's independence preserved a generational brand Facebook would have likely mishandled — Instagram/WhatsApp parallels — while Facebook copied Stories later anyway. The episode introduces Acquired Slack community and 'what would have happened otherwise' as core format innovation.",
+  "background": "Ben and David experiment with covering a failed acquisition — Facebook's ~$3B Snapchat bid (November 2013) — with full 'what would have happened otherwise' analysis only possible when history plays out independently. David recounts Evan Spiegel and Bobby Murphy's Stanford arc: failed Future Freshman and Google Plus-inspired apps, Reggie Brown's disappearing-photo idea, VC panel rejection at Stanford design class, summer 2011 launch with 127 users, co-founder ouster, and rename to Snapchat. Episode connects to Facebook's mobile panic era (hoodie AllThingsD interview) and positions Snapchat as existential threat to social graph attention. Acquired launches Slack for listener discussion — meta commentary on episode length and community building alongside acquisition history. Hosts emphasize transcript-only facts: listener Slack launched this week; Product Hunt cross-post requested; episode length creep noted as intentional for early canon.",
+  "important_facts": [
+    "Facebook reportedly offered ~$3 billion for Snapchat in November 2013; Evan Spiegel declined — episode covers deal that never closed, grading with benefit of subsequent Snapchat IPO and Facebook Stories clone.",
+    "Snapchat origin: Stanford 2011 Peekaboo/Picaboo; 127 users after first summer; design-class VC panel suggested Best Buy partnership — rejected; Reggie Brown co-founder ousted amid equity dispute (later litigation).",
+    "Evan Spiegel: Stanford product design, David Kelley (IDEO/d.school) advisor; audited Stanford GSB entrepreneurship class with Eric Schmidt; Scott Cook (Intuit) internship — talent signals pre-product.",
+    "Facebook context: post-IPO mobile monetization fear; Recode/AllThingsD hoodie interview where Zuckerberg grilled on mobile — turning point toward native apps and acquisitions (Instagram 2012, WhatsApp later).",
+    "Hosts argue horizontal social networks with network effects (Facebook) struggle to buy cool teen products without killing them — Snapchat independence vs Instagram integration as natural experiment."
+  ],
+  "mental_model": {
+    "name": "Reject the Check, Keep the Graph",
+    "components": "When a platform offers billions for a nascent network attacking your weakness (mobile engagement among teens), accepting risks acqui-kill while declining bets you can outrun or out-copy. Snapchat's ephemeral mechanic was orthogonal to Facebook's permanent social graph — strategic fit poor even at $3B. Spiegel's rejection preserved independent brand and IPO optionality; Facebook eventually copied Stories, validating threat without owning entity. Counterfactual grading requires separating defensive value (remove competitor) from creative value (grow asset) — Instagram succeeded on latter; Snapchat likely fails on culture fit.",
+    "application": "Founders facing mega-cap bids should model post-acquisition product death vs independent upside with platform retaliation (copy feature). Strategists pricing defensive M&A must ask if acquisition removes threat or merely delays clone — Facebook cloned ephemeral feeds anyway. Investors treat rejected bids as signals of category validation, not failure."
+  },
+  "competitive_advantage": "Snapchat's early moat was behavior and demographic lock-in, not technology secrets. Disappearing photos solved teen privacy from parents and permanence anxiety — product insight Facebook's graph could not replicate without breaking core model. Growth through school-by-school density and camera-first UX created habit loop distinct from News Feed consumption. Spiegel's design taste (Paper-like polish later) differentiated from utilitarian Facebook app of 2013. Independence let Snapchat evolve into Stories, Discover, Spectacles, and AR lenses — revenue lines a Facebook sub-brand might never prioritize. Facebook's advantage remained distribution and ad targeting; Snapchat's was authenticity with youth cohort. Rejected $3B looks cheap in hindsight versus later valuation peaks, but hosts emphasize execution risk had Spiegel sold — Instagram integration playbook not guaranteed. Facebook copied mechanics (Stories 2016+) reducing defensive M&A ROI. Weaknesses at offer time: tiny user base vs price, no proven revenue, founder litigation over idea ownership, and capital needs versus Facebook war chest. Platform risk ran opposite direction from PayPal-eBay — Facebook was predator, not host. Weaknesses include execution and integration risk at scale — grades assume transcript coverage only, not post-episode market moves.",
+  "key_insights": [
+    {
+      "view": "Failed deals deserve canonical treatment.",
+      "question": "Why cover acquisitions that didn't close?",
+      "answer": "Ben and David introduce counterfactual 'what would have happened otherwise' only knowable ex-post — Snapchat rejection lets them compare independent trajectory vs hypothetical Facebook ownership using Instagram/WhatsApp as analogs. Format expands Acquired beyond closed M&A."
+    },
+    {
+      "view": "127 users is not too early to persist.",
+      "question": "What lesson from Snapchat's slow start?",
+      "answer": "After summer 2011 Snapchat had 127 users — Design pedigree (Kelley, Cook) signaled talent before traction — relevant for seed-stage judgment."
+    },
+    {
+      "view": "Facebook needed mobile relevance.",
+      "question": "Why $3B for pre-revenue app?",
+      "answer": "Post-IPO Facebook faced mobile ad transition; Snapchat captured teen attention outside Feed — defensive premium similar to Instagram $1B (2012). Hoodie interview embarrassment accelerated native/mobile acquisitions; $3B bid validated category even without close."
+    },
+    {
+      "view": "Culture mismatch kills mega-acquisitions.",
+      "question": "Would Facebook have nurtured Snapchat?",
+      "answer": "Hosts skeptical — permanent graph company buying anti-permanence product; likely talent drain and feature subsumption. Independence preserved brand; Facebook later copied Stories, achieving partial defensive goal without purchase."
+    },
+    {
+      "view": "Co-founder disputes are pattern.",
+      "question": "How does Reggie Brown fit?",
+      "answer": "Social Network parallels — idea attribution, equity split, ouster before scale; litigation followed. Episode warns M&A and founding teams: cap table and IP clarity matter before offers arrive; Snapchat survived dispute, others do not."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "META",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Snapchat rejection forced Facebook to copy ephemeral formats — Stories reduced unique threat but Meta still pays for teen engagement via Reels/Instagram; defensive M&A math applies to future social challengers."
+    },
+    {
+      "ticker": "SNAP",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Independence at ~$3B offer preserved upside and brand authenticity — episode bullish on decision ex-post though public-market SNAP volatility post-IPO not covered in depth."
+    }
+  ],
+  "golden_quotes": [
+    "\"Today we're going to talk about one that didn't happen at all\" — Ben introducing Acquired's counterfactual acquisition format.",
+    "\"127 users\" — David on Snapchat's user count after first summer, inspirational persistence datapoint.",
+    "\"A million dollar idea\" — Reggie Brown's alleged phrase for disappearing photos (disputed in court), origin myth of ephemeral messaging."
+  ],
+  "chronology": {
+    "subject": "Snapchat · founding to Facebook $3B offer",
+    "events": [
+      {
+        "date": "2010",
+        "event": "Evan Spiegel meets Bobby Murphy at Stanford Kappa Sigma"
+      },
+      {
+        "date": "2011",
+        "event": "Future Freshman fails; Peekaboo/Picaboo prototype in design class"
+      },
+      {
+        "date": "Summer 2011",
+        "event": "127 users; Reggie Brown ousted amid equity fight"
+      },
+      {
+        "date": "2011–12",
+        "event": "App renamed Snapchat; school-by-school growth"
+      },
+      {
+        "date": "2012",
+        "event": "Facebook acquires Instagram for ~$1B — mobile defense begins"
+      },
+      {
+        "date": "2013",
+        "event": "Facebook reportedly offers ~$3B; Spiegel declines"
+      },
+      {
+        "date": "2016+",
+        "event": "Facebook/Instagram launch Stories — feature clone without acquisition"
+      },
+      {
+        "date": "2017",
+        "event": "Snap Inc. IPO — independence vindicated vs $3B offer"
+      },
+      {
+        "date": "2016",
+        "event": "Acquired launches Slack community alongside Snapchat episode"
+      },
+      {
+        "date": "2016+",
+        "event": "Facebook Stories launch reduces unique threat without owning Snap"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT Acquired batch v5.1 — early season backlog (episodes 10–17) | optimized v5.4",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  }
+}

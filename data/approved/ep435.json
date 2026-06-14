@@ -1,0 +1,116 @@
+{
+  "episode_id": "ep435",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 435,
+    "title": "Building Abstract",
+    "guest": "Ramtin Naimi",
+    "guest_role": "Founder, Abstract Ventures",
+    "date": "2025-07-29",
+    "duration_minutes": 113,
+    "youtube_url": "https://www.youtube.com/watch?v=QEICTvGNKrY",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=QEICTvGNKrY",
+      "colossus": "https://joincolossus.com/episode/building-abstract/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Seed Investing",
+    "Abstract Ventures",
+    "Art Markets"
+  ],
+  "conclusion": "Naimi's seed investing style combines art-world taste with a fundraising machine. The useful idea is not celebrity access or pattern matching; it is building a seed firm whose product is helping founders reach a stronger Series A with less dilution.",
+  "background": "Ramtin Naimi started Abstract after a failed startup and personal bankruptcy at 24. He first backed companies through AngelList syndicates, later raised a fund, and built a seed platform with partner Alex and a data-driven CRM. The episode starts with contemporary art because Naimi sees a direct analogy between early galleries spotting future blue-chip artists and seed firms spotting power-law companies.",
+  "important_facts": [
+    "Naimi says he was flat broke and out of bankruptcy when he started Abstract. His first AngelList deal attracted about $470,000 of commitments within four hours, and AngelList sourced all the capital in those syndicates. Private:Seed-stage AI startups (Watch) — Naimi is valuation-aware in hot categories; seed AI deals north of $50M post-money need exceptional founders and markets to justify using two shots on goal.",
+    "Abstract now leads roughly 80-90% of its portfolio companies and claims the highest seed-to-Series-A graduation rate to a tier-one VC firm, plus top-decile Series A valuations and low Series A dilution. Abstract now leads roughly 80-90% of its portfolio companies and claims the highest seed-to-Series-A graduation rate to a tier-one VC firm, plus top-decile Series A valuations and low Series A dilution. The portfolio model targets about 8-10% ownership in 60 seed companies and maintaining around 10% in the best 10 through Series B.",
+    "The portfolio model targets about 8-10% ownership in 60 seed companies and maintaining around 10% in the best 10 through Series B. He says sub-$20M average entry valuations are no longer possible, so the current target is closer to sub-$30M. Private:Seed-stage AI startups — Naimi is valuation-aware in hot categories; seed AI deals north of $50M post-money need exceptional founders and markets to justify using two shots on goal."
+  ],
+  "mental_model": {
+    "name": "Graduation Rate as Product",
+    "components": "The art-market analogy is about spotting talent before institutions validate it. Naimi studies smaller galleries that repeatedly feed artists into the big four galleries. In venture, he wants to be the early spotter before the platform funds crowd in. Founder salesmanship matters in more than customer demos. Three forms of sales: fundraising, hiring, and customer/product momentum. Hiring is especially hard when a seed startup asks an engineer to take $150K instead of $400K at Meta, Google, or OpenAI. Dilution sensitivity is a signal of founder conviction. He prefers founders who know exactly why they need $3M or $5M and want to sell as little equity as possible, because each percent sold is a percent they never get back. The portfolio model targets about 8-10% ownership in 60 seed companies and maintaining around 10% in the best 10 through Series B.",
+    "application": "Naimi's seed investing style combines art-world taste with a fundraising machine. The useful idea is not celebrity access or pattern matching; it is building a seed firm whose product is helping founders reach a stronger Series A with less dilution. The firm may compound if its seed-to-Series-A graduation and dilution outcomes remain structurally better than peers. Naimi is valuation-aware in hot categories; seed AI deals north of $50M post-money need exceptional founders and markets to justify using two shots on goal. Naimi put half of a Lightspeed scout fund into Rippling's seed round, an example of early power-law exposure. His first AngelList deal attracted about $470,000 of commitments within four hours, and AngelList sourced all the capital in those syndicates. Abstract now leads roughly 80-90% of its portfolio companies and claims the highest seed-to-Series-A graduation rate to a tier-one VC firm, plus top-decile Series A valuations and low Series A dilution. He says sub-$20M average entry valuations are no longer possible, so the current target is closer to sub-$30M."
+  },
+  "key_insights": [
+    {
+      "view": "The art-market analogy is about spotting talent before institutions validate it.",
+      "question": "Why spend so much time on art?",
+      "answer": "Naimi studies smaller galleries that repeatedly feed artists into the big four galleries. In venture, he wants to be the early spotter before the platform funds crowd in. Naimi says he was flat broke and out of bankruptcy when he started Abstract. His first AngelList deal attracted about $470,000 of commitments within four hours, and AngelList sourced all the capital in those syndicates."
+    },
+    {
+      "view": "Founder salesmanship matters in more than customer demos.",
+      "question": "What does Abstract look for at seed?",
+      "answer": "Three forms of sales: fundraising, hiring, and customer/product momentum. Hiring is especially hard when a seed startup asks an engineer to take $150K instead of $400K at Meta, Google, or OpenAI. Abstract now leads roughly 80-90% of its portfolio companies and claims the highest seed-to-Series-A graduation rate to a tier-one VC firm, plus top-decile Series A valuations and low Series A dilution."
+    },
+    {
+      "view": "Dilution sensitivity is a signal of founder conviction.",
+      "question": "Why does he dislike the standard 20-25% seed sale?",
+      "answer": "He prefers founders who know exactly why they need $3M or $5M and want to sell as little equity as possible, because each percent sold is a percent they never get back. The portfolio model targets about 8-10% ownership in 60 seed companies and maintaining around 10% in the best 10 through Series B. He says sub-$20M average entry valuations are no longer possible, so the current target is closer to sub-$30M."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Abstract Ventures",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "The firm may compound if its seed-to-Series-A graduation and dilution outcomes remain structurally better than peers."
+    },
+    {
+      "ticker": "Private:Seed-stage AI startups",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Naimi is valuation-aware in hot categories; seed AI deals north of $50M post-money need exceptional founders and markets to justify using two shots on goal."
+    },
+    {
+      "ticker": "Private:Rippling",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Naimi put half of a Lightspeed scout fund into Rippling's seed round, an example of early power-law exposure."
+    }
+  ],
+  "golden_quotes": [
+    "\"Naimi says he was literally flat broke when he started Abstract, which shaped his urgency around fundraising and survival.\"",
+    "\"On AngelList, he says he did not source a dollar of the platform capital himself; the marketplace created the syndicate leverage.\"",
+    "\"His dilution message to founders is simple: every percent of equity they give away is a percent they will never get back.\""
+  ],
+  "chronology": {
+    "subject": "Abstract Ventures",
+    "events": [
+      {
+        "date": "Age 24",
+        "event": "Naimi files bankruptcy after a startup failure. "
+      },
+      {
+        "date": "AngelList era",
+        "event": "Uses syndicates to back deals, including a first deal with about $470K subscribed in four hours. "
+      },
+      {
+        "date": "Scout period",
+        "event": "Puts half of a Lightspeed scout fund into Rippling's seed round. "
+      },
+      {
+        "date": "Fund I",
+        "event": "Builds a 55-company portfolio after 47 AngelList-era companies. "
+      },
+      {
+        "date": "2025",
+        "event": "Abstract positions itself as the seed firm with the strongest tier-one Series A graduation rate. "
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "restored_from_outputs": true,
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

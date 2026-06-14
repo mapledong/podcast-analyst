@@ -1,0 +1,134 @@
+{
+  "episode_id": "acq-netflix-part-1",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 66,
+    "title": "Netflix (Part 1)",
+    "guest": "Netflix (Part 1)",
+    "guest_role": "Season 3 · Episode 8",
+    "date": "2018-11-11",
+    "duration_minutes": 92,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/netflix-part-1",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch — v5.1-acquired; Season 3 ep 4–10 | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "DVD-by-Mail",
+    "Counter-Positioning",
+    "Blockbuster Battle"
+  ],
+  "conclusion": "Ben and David open Netflix's two-part history with Reed Hastings and Marc Randolph's 1997 DVD-by-mail startup — counter-positioning Blockbuster's late-fee profit pool (~$800M at peak, ~40% of revenue per Helmer framing) with no due dates and subscription simplicity. Barry McCarthy joined as CFO from Music Express, bringing unit-economics discipline and later Spotify direct-listing fame. Blockbuster passed on buying Netflix for ~$50M in 2000; Netflix IPO'd May 2002 at ~$1B market cap. By shipping DVDs from regional warehouses with Cinematch recommendations, Netflix built a logistics-and-data moat before streaming existed — setting up Part 2's content pivot.",
+  "background": "Season 3 Episode 8 traces Netflix from Hastings' Pure Software sale through the infamous late-fee inspiration (Apollo 13 Blockbuster fine), Marc Randolph co-founder dynamics, and 1998 launch. Hosts explain per-rental vs subscription pricing experiments, warehouse density improving delivery speed, and Ted Sarandos joining content acquisition. Blockbuster Online responses and internal politics at Blockbuster (Viacom ownership) show incumbent failure modes. McCarthy's CFO hire and Tom Dillon ops leadership mirror Amazon Prime logistics lessons — faster delivery increased retention. Episode ends as streaming experiments begin, teeing up Part 2.",
+  "important_facts": [
+    "Netflix founded 1997 by Reed Hastings and Marc Randolph; launched DVD-by-mail 1998 with no late fees versus Blockbuster's ~$40M+ monthly late-fee revenue stream (often cited ~40% of profit).",
+    "Blockbuster declined to acquire Netflix for ~$50M in 2000 — inflection point hosts grade as catastrophic incumbent error.",
+    "Netflix IPO May 23, 2002 — ~5.5M shares at ~$15, ~$1B market cap; Barry McCarthy CFO from 1999 brought subscription unit-economics rigor; Tom Dylan from Seagate ran ops alongside that finance bench.",
+    "By 2005 Netflix shipped ~1M DVDs per day from ~50 regional warehouses — delivery speed correlated with lower churn (Amazon Prime parallel).",
+    "Marc Randolph stepped down as CEO in 1999; Hastings became sole CEO — Randolph remained early architect of culture and testing methodology."
+  ],
+  "mental_model": {
+    "name": "Counter-Positioning on Incumbent Profit Pool",
+    "components": "Blockbuster monetized late fees (~$800M peak industry-wide) and per-rental friction. Netflix subscription with no due dates poisoned that revenue line — Blockbuster could not match without cannibalizing stores. Warehouse density + Cinematch increased engagement per shipped DVD, improving unit economics versus video-store real estate. Data flywheel preceded streaming: ratings improved marginal selection cost. Helmer counter-positioning: structural, not execution.",
+    "application": "Identify which incumbent revenue lines your model zeroes — if >30% of profit, expect slow response. Netflix applied Amazon logistics lesson (delivery speed → retention) to physical media. CFO hire with subscription expertise (McCarthy) early signals unit-economics discipline wins over growth-at-all-costs in rental businesses."
+  },
+  "competitive_advantage": "Netflix's early moat combined no-late-fee subscription positioning, regional warehouse network (~50 sites by mid-2000s), and Cinematch collaborative filtering — engagement per DVD exceeded store browsing. No retail real estate cap-ex versus Blockbuster's ~9,000 stores. Direct customer relationship enabled pricing experiments (per-rental → subscription tiers). Barry McCarthy institutionalized contribution margin analysis — knowing which subscribers were profitable by shipping cost zone. Ted Sarandos content relationships later extended moat to licensing (pre-originals). Weaknesses: USPS dependency; studio windowing power; Blockbuster brand still dominated impulse rental until 2005–2007. DVD shipping economics capped TAM versus streaming eventual unlimited consumption. Incumbent could have acquired for ~$50M — classic disruption blind spot. Versus Blockbuster Online: late internal launch, cannibalization fear. Versus Amazon DVD mail: Netflix focus beat generalist. Part 1 ends before streaming proves second counter-positioning.",
+  "key_insights": [
+    {
+      "view": "Late fees were Blockbuster's poison pill to match.",
+      "question": "Why couldn't Blockbuster copy subscription?",
+      "answer": "Late fees ~$40M+/month (~40% profit) funded store footprint. Zero-late-fee subscription required abandoning core cash cow — classic counter-positioning. Internal teams proposed acquisitions (~$50M Netflix offer rejected); store managers resisted cannibalization. By 2005 Blockbuster Online launched years late with hybrid model preserving fees."
+    },
+    {
+      "view": "Warehouse density was Amazon Prime for DVDs.",
+      "question": "Why did delivery speed matter?",
+      "answer": "~50 regional warehouses let Netflix ship ~1M DVDs/day with 1-day turnaround in dense zones — faster delivery correlated with lower churn (McCarthy metrics). Same insight as Amazon Prime: logistics is retention product. Blockbuster stores offered instant gratification but worse selection breadth."
+    },
+    {
+      "view": "McCarthy was the CFO superhero.",
+      "question": "Why highlight Barry McCarthy?",
+      "answer": "Joined 1999 from Music Express — brought subscription finance discipline, later executed Spotify direct listing (Acquired Season 2) after a brief Clinkle detour hosts fast-forward past. At Netflix he modeled cohort LTV by shipping zone before SaaS metrics were fashionable. Proves CFO hire can be strategic weapon in consumer subscription businesses."
+    },
+    {
+      "view": "$50M rejection is canonical M&A failure.",
+      "question": "What if Blockbuster bought Netflix?",
+      "answer": "2000 offer ~$50M rejected by Blockbuster leadership — Netflix later exceeded $100B+ peak market cap. Even partial acquisition could have captured DVD-by-mail transition. Hosts grade F for Blockbuster — incumbent dismissed dot-com experiment during dot-com crash psychology."
+    },
+    {
+      "view": "Data preceded streaming pivot.",
+      "question": "Was Cinematch strategic?",
+      "answer": "Collaborative filtering increased discs-per-subscriber — critical when postage was variable cost. Viewing taste graph became foundation for streaming recommendations and later originals greenlight (House of Cards data). Netflix was data company wearing DVD-mail skin — Part 2 exploits asset."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NFLX",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Part 1 establishes counter-positioning DNA and data flywheel — framework for judging whether streaming content spend retains structural advantage versus commoditized distribution."
+    }
+  ],
+  "golden_quotes": [
+    "\"Blockbuster made $800 million a year on late fees\" — Hastings on the profit pool Netflix attacked.",
+    "\"They offered to buy us for $50 million — Blockbuster said no\" — canonical incumbent rejection.",
+    "\"Barry McCarthy is an Acquired superhero\" — on CFO hire linking Netflix and Spotify episodes."
+  ],
+  "chronology": {
+    "subject": "Netflix · Reed Hastings (Part 1 — DVD era)",
+    "events": [
+      {
+        "date": "1997",
+        "event": "Netflix founded — Hastings and Marc Randolph"
+      },
+      {
+        "date": "1998",
+        "event": "DVD-by-mail launches — no late fees model"
+      },
+      {
+        "date": "1999",
+        "event": "Barry McCarthy joins as CFO; Randolph steps down as CEO"
+      },
+      {
+        "date": "2000",
+        "event": "Blockbuster declines ~$50M acquisition offer"
+      },
+      {
+        "date": "2002-05",
+        "event": "Netflix IPO — ~$1B market cap"
+      },
+      {
+        "date": "2003",
+        "event": "Ted Sarandos joins content acquisition"
+      },
+      {
+        "date": "2005",
+        "event": "~1M DVDs shipped daily; ~50 warehouse network"
+      },
+      {
+        "date": "2005",
+        "event": "Blockbuster Online launches — late competitive response"
+      },
+      {
+        "date": "2007",
+        "event": "Streaming introduced — tee for Part 2"
+      },
+      {
+        "date": "2018",
+        "event": "Acquired Part 1 publishes — DVD history canon"
+      }
+    ]
+  }
+}

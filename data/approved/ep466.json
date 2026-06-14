@@ -1,0 +1,123 @@
+{
+  "episode_id": "ep466",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 466,
+    "title": "Private Credit and the Modern Financial System",
+    "guest": "Alan Waxman",
+    "guest_role": "Founder & CEO, Sixth Street",
+    "date": "2026-04-08",
+    "duration_minutes": 62,
+    "youtube_url": "https://www.youtube.com/watch?v=5RnPko2HviQ",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=5RnPko2HviQ",
+      "colossus": "https://colossus.com/episode/clarity-of-purpose/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "Private Credit",
+    "Asset-Liability Mismatch",
+    "Capital Markets"
+  ],
+  "conclusion": "Waxman's point: private credit itself is not the villain. The risk is the factory model — raise fast, deploy fast, and fund illiquid assets with impatient money. It is not 2008 yet, but the industry has been warned before a real recession tests it.",
+  "background": "Alan Waxman runs Sixth Street and frames the last century of American finance as three systems: Glass-Steagall stability from 1933 to 1999, deregulated leverage into the GFC, and the post-2010 Basel III/Dodd-Frank system where safer commercial banks sit beside private capital. The episode is really about how a good System Three can become fragile when private capital adopts public-company-style fee growth incentives. He is especially worried about perpetual private BDCs, wealth-channel money, SMAs, narrow direct-lending vehicles, and the pressure created when FRE multiples move from 10-15x to 25-30x+. Sixth Street's answer is wide-aperture private capital, matched liabilities, and saying no when capital is too easy.",
+  "important_facts": [
+    "System One ran roughly 1933-1999 after Glass-Steagall and the FDIC; it followed the 1929 crash and about 9,000 bank failures. System Two followed the 1999 repeal, with investment bank and commercial bank leverage reaching 20-30x or more before the GFC.",
+    "Post-GFC private capital grew from about $2T to $14-15T; private credit grew from roughly $500B to about $2T. Waxman says that matched assets and liabilities made this healthy until behavior changed around 2018 and accelerated after COVID.",
+    "Fee-related earnings multiples in asset management moved from roughly 10-15x in the early 2010s to 15-20x around 2018 and then 25-30x+. Perpetual private BDC redemptions have exceeded typical 5% quarterly limits, exposing the liquidity mismatch."
+  ],
+  "mental_model": {
+    "name": "Guardrails, Incentives, Market Structure",
+    "components": "Private credit is not automatically systemic, but some structures have recreated the classic crisis ingredient: illiquid assets funded by impatient liabilities. Waxman says not yet: the problem is only about five years old and the economy is still healthy. But the setup is recognizable. The factory model starts on the liability side, not the asset side. Because firms first industrialize fundraising, then need to industrialize deployment. If hit rates rise from about 0.5% to 2-3%, capital goes out faster, but capped-upside credit investors may accept terms that can move a 50% LTV to 120% LTV for only a 10% return. The better answer is not necessarily more regulation; it is better market discipline and better product design. Govern inflows, widen the aperture beyond one narrow strategy, tell investors to assume they cannot get money back in a 1929 or 2008 environment, and keep clarity of purpose. Sixth Street could have launched perpetual private BDCs and says it chose zero.",
+    "application": "Waxman's point: private credit itself is not the villain. The risk is the factory model — raise fast, deploy fast, and fund illiquid assets with impatient money. It is not 2008 yet, but the industry has been warned before a real recession tests it. Wide-aperture private capital with matched liabilities should be advantaged if narrow wealth-channel credit products face redemptions and lower fee-multiple expectations. Public BDC exposure is the most liquid proxy for pressure from semi-liquid credit products; Waxman highlights 5% quarterly gates, redemptions, valuation risk, and illiquid loan books. The episode warns that 25-30x+ FRE multiples can reward asset gathering over underwriting; watch which scaled managers govern inflows and preserve credit discipline. Wealth-channel investors got quarterly liquidity against narrow direct-lending and private-market portfolios, and redemption requests are already breaching 5% gates. If hit rates rise from about 0.5% to 2-3%, capital goes out faster, but capped-upside credit investors may accept terms that can move a 50% LTV to 120% LTV for only a 10% return. Sixth Street could have launched perpetual private BDCs and says it chose zero."
+  },
+  "key_insights": [
+    {
+      "view": "Private credit is not automatically systemic, but some structures have recreated the classic crisis ingredient: illiquid assets funded by impatient liabilities.",
+      "question": "Is today's private credit issue another GFC?",
+      "answer": "Waxman says not yet: the problem is only about five years old and the economy is still healthy. But the setup is recognizable. Wealth-channel investors got quarterly liquidity against narrow direct-lending and private-market portfolios, and redemption requests are already breaching 5% gates."
+    },
+    {
+      "view": "The factory model starts on the liability side, not the asset side.",
+      "question": "Why do underwriting standards fall?",
+      "answer": "Because firms first industrialize fundraising, then need to industrialize deployment. If hit rates rise from about 0.5% to 2-3%, capital goes out faster, but capped-upside credit investors may accept terms that can move a 50% LTV to 120% LTV for only a 10% return."
+    },
+    {
+      "view": "The better answer is not necessarily more regulation; it is better market discipline and better product design.",
+      "question": "What would responsible private capital look like?",
+      "answer": "Govern inflows, widen the aperture beyond one narrow strategy, tell investors to assume they cannot get money back in a 1929 or 2008 environment, and keep clarity of purpose. Sixth Street could have launched perpetual private BDCs and says it chose zero."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Sixth Street",
+      "direction": "Watch",
+      "confidence": "High",
+      "thesis": "Wide-aperture private capital with matched liabilities should be advantaged if narrow wealth-channel credit products face redemptions and lower fee-multiple expectations."
+    },
+    {
+      "ticker": "BIZD",
+      "direction": "Short",
+      "confidence": "Medium",
+      "thesis": "Public BDC exposure is the most liquid proxy for pressure from semi-liquid credit products; Waxman highlights 5% quarterly gates, redemptions, valuation risk, and illiquid loan books."
+    },
+    {
+      "ticker": "Basket:Alternative asset managers (BX/APO/KKR)",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "The episode warns that 25-30x+ FRE multiples can reward asset gathering over underwriting; watch which scaled managers govern inflows and preserve credit discipline."
+    }
+  ],
+  "golden_quotes": [
+    "Waxman's blunt warning on wealth-channel private credit: 'There is no such thing as semi-liquid.'",
+    "He argues the visible stress is secondary: 'The symptoms are not really the root cause' when incentives push firms to raise and deploy too fast.",
+    "On liquidity design, he says investors must assume a crisis environment: 'You have to assume it's like 2008 crisis, 1929.'"
+  ],
+  "chronology": {
+    "subject": "American Finance Systems",
+    "events": [
+      {
+        "date": "1929-1933",
+        "event": "Crash, roughly 9,000 bank failures, Glass-Steagall and FDIC create System One"
+      },
+      {
+        "date": "1998-1999",
+        "event": "Deutsche Bank buys Bankers Trust; Glass-Steagall repeal starts System Two"
+      },
+      {
+        "date": "2008-2010",
+        "event": "GFC leads to Basel III, Dodd-Frank, and tighter bank leverage/liquidity rules"
+      },
+      {
+        "date": "2010s",
+        "event": "Private capital fills the gap left by constrained banks"
+      },
+      {
+        "date": "2018",
+        "event": "SMAs and factory-model behavior begin to show up more clearly"
+      },
+      {
+        "date": "2020-2022",
+        "event": "Post-COVID fundraising and deployment accelerate; many assets bought at high prices"
+      },
+      {
+        "date": "2026",
+        "event": "Perpetual private BDC redemptions force an industry recalibration"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "episode_id": "acq-netflix-part-2",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 67,
+    "title": "Netflix (Part 2)",
+    "guest": "Netflix (Part 2)",
+    "guest_role": "Season 3 · Episode 9",
+    "date": "2018-11-25",
+    "duration_minutes": 90,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/netflix-part-2",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch — v5.1-acquired; Season 3 ep 4–10 | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Streaming Pivot",
+    "Qwikster",
+    "Original Content"
+  ],
+  "conclusion": "Part 2 chronicles Netflix's streaming transformation: 2007 Watch Now launch, Reed Hastings' 2011 Qwikster debacle (60% price hike, DVD business spin-out, ~800K subscriber loss in one quarter), and rebirth as a global media company spending $8B–$12B+ annually on content by late 2010s. House of Cards (2013) validated data-driven originals; global licensing built audience before local production. Netflix rejoined FAANG market-cap peers by 2018 after 2011–2012 stock collapse. Ben and David frame Qwikster as pricing-strategy error, not streaming-strategy error — the pivot was inevitable, the communication catastrophic. Content became moat when distribution commoditized.",
+  "background": "Season 3 Episode 9 picks up at 2007 streaming beta through 2018 global expansion. Hosts dissect Qwikster: separate DVD and streaming brands, price increases up to 60%, Hastings apology video (parodied on SNL), and board turmoil. Recovery arc covers Ted Sarandos originals strategy (House of Cards, Orange Is the New Black), Marvel/Disney licensing tensions, international market entry (130+ countries by 2016), and tech culture (Chaos Monkey, AWS infrastructure). FAANG chart comparisons show Netflix's market-cap recovery. Episode links Benedict Evans aggregation theory and Netflix's shift from tech-multiple to media-multiple investor framing.",
+  "important_facts": [
+    "Netflix streaming launched 2007 as 'Watch Now' — years before Blockbuster filed bankruptcy (2010) and while DVD still majority of Netflix revenue.",
+    "Qwikster announced September 2011 — DVD service rebranded and split; combined price hikes up to ~60%; ~800K net subscriber loss in Q3 2011; Hastings reversed DVD split within weeks.",
+    "House of Cards premiered February 2013 — $100M+ committed for two seasons upfront; data-driven greenlight from viewership clusters (Fincher, Spacey, political drama fans).",
+    "2016: Netflix available in 130+ countries — global expansion before local originals scale; content spend approached ~$8B annually by 2017 (grew toward ~$12B+ by 2018).",
+    "Netflix stock fell from ~$300 split-adjusted highs pre-Qwikster to ~$50–70 range in 2012 before 10-year bull run back into FAANG peer market caps by 2018."
+  ],
+  "mental_model": {
+    "name": "Distribution to Content Vertical Integration",
+    "components": "When streaming distribution commoditizes (every studio launches OTT), rights holders capture value — Netflix pivoted from licensed catalog to owned originals. Data from 100M+ subscribers informs greenlight reducing Hollywood greenlight risk. Global subscriber scale amortizes $100M show bets across 190 countries — studio competitors used domestic-only models. Qwikster lesson: right strategy (streaming focus) wrong pricing packaging — subscriber trust is balance-sheet asset.",
+    "application": "Platform shifts require communication discipline — separate price hikes from product unbundling. Original content is moat when suppliers become competitors (Disney+, HBO Max). Evaluate streaming investments by global ARPU × subscriber ceiling, not US box office comps. Tech infrastructure (AWS, Chaos Monkey) enabled media pivot — dual competency rare."
+  },
+  "competitive_advantage": "Post-recovery Netflix stacked global distribution (130+ countries), recommendation data at 100M+ subscriber scale, and originals pipeline (House of Cards, Stranger Things, international local content). First-mover on binge-release format changed TV cadence. No ads preserved UX versus Hulu early model. Tech culture (Chaos Monkey resiliency, CDN optimization) reduced streaming friction competitors matched slowly. Brand synonymous with streaming — verb status in culture. Weaknesses: content costs rising as studios pulled licenses; debt-funded content spend; Qwikster proved trust fragility. Media multiples lower than pure-tech. Regional competitors (Hotstar, etc.) and later password-sharing crackdown headwinds post-episode. Disney+ launch (2019) ended easy licensing era. Versus HBO: Netflix volume vs HBO prestige before HBO Max. Versus Amazon Prime Video: Netflix dedicated vs bundle subsidy. Qwikster remains case-study in separating strategic pivot from customer communication.",
+  "key_insights": [
+    {
+      "view": "Qwikster was packaging failure, not streaming mistake.",
+      "question": "Why did ~800K subscribers leave?",
+      "answer": "September 2011: 60% combined price hike plus confusing DVD/streaming split branded Qwikster. Users punished perceived double-charging, not streaming direction. Hastings apology video became cautionary tale — right long-term bet (streaming), catastrophic short-term execution. Stock dropped ~75% from peak; recovery took years but strategy vindicated."
+    },
+    {
+      "view": "House of Cards proved data-driven originals.",
+      "question": "Why commit $100M before pilot?",
+      "answer": "Viewing data showed overlap among Fincher fans, political drama watchers, Kevin Spacey affinity — greenlight two seasons upfront without pilot. Traditional TV required pilot season; Netflix amortized bet across global subscriber base. Model later copied by every streamer — data as greenlight committee."
+    },
+    {
+      "view": "Global licensing preceded local production.",
+      "question": "How did international expansion work?",
+      "answer": "2016 launch in 130+ countries used licensed catalog while originals scale ramped — subscribers added before local content spend required. Global ARPU lower than US but TAM 5× — amortize $8B–$12B content across world. Competitors launched country-by-country; Netflix big-bang distribution blitz."
+    },
+    {
+      "view": "Studios became competitors — vertical integration mandatory.",
+      "question": "Why shift from licensed to owned content?",
+      "answer": "Disney, Warner, NBCU pulled catalog as they launched DTC apps — Netflix's licensed moat eroded. Owned originals only defensible long-term asset; content spend rose toward ~$12B+ by 2018. Trade-off: media company margins vs tech multiples. Episode previews Disney+ 2019 threat."
+    },
+    {
+      "view": "FAANG membership was market-cap validation.",
+      "question": "Did Netflix recover from Qwikster?",
+      "answer": "2012 stock ~$50–70 split-adj versus 2011 ~$300 pre-crash; by 2018 Netflix rejoined Apple, Amazon, Google, Facebook peer charts (Benedict Evans FAANG). Subscriber growth to 130M+ global and content awards rebuilt investor narrative — execution after apology mattered more than apology itself."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NFLX",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Part 2 frames content-spend moat versus studio verticalization — monitor subscriber net adds, content amortization per sub, and ad-tier pivot post-password-sharing era."
+    }
+  ],
+  "golden_quotes": [
+    "\"Qwikster will go down in business school history\" — on 2011 pricing and spin-out disaster.",
+    "\"We committed $100 million to House of Cards without a pilot\" — Sarandos data-driven originals bet.",
+    "\"They're a media company now, not a tech company\" — hosts on investor reframing by 2018."
+  ],
+  "chronology": {
+    "subject": "Netflix · Streaming era (Part 2)",
+    "events": [
+      {
+        "date": "2007",
+        "event": "Watch Now streaming launches alongside DVD"
+      },
+      {
+        "date": "2010",
+        "event": "Blockbuster bankruptcy — physical rental era ends"
+      },
+      {
+        "date": "2011-09",
+        "event": "Qwikster announced — price hikes and DVD split"
+      },
+      {
+        "date": "2011-Q3",
+        "event": "~800K subscriber loss; Hastings apology video"
+      },
+      {
+        "date": "2011-10",
+        "event": "Qwikster reversed — DVD stays under Netflix brand"
+      },
+      {
+        "date": "2013-02",
+        "event": "House of Cards premieres — $100M+ two-season bet"
+      },
+      {
+        "date": "2013",
+        "event": "Orange Is the New Black — originals slate expands"
+      },
+      {
+        "date": "2016",
+        "event": "Global launch — 130+ countries in one move"
+      },
+      {
+        "date": "2017–2018",
+        "event": "Content spend ~$8B–$12B; FAANG market-cap peer recovery"
+      },
+      {
+        "date": "2018-11",
+        "event": "Acquired Part 2 publishes — streaming canon complete"
+      }
+    ]
+  }
+}

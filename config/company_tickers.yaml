@@ -1,0 +1,86 @@
+# Canonical US ticker symbols for publicly traded companies.
+# Used by web discovery filters, validation, and batch normalization.
+#
+# aliases: company names / alternate spellings (lowercase keys) → canonical ticker
+# ticker_aliases: alternate tickers (foreign listings, share classes) → canonical ticker
+#
+# Display preference: primary US ticker (e.g. LVMH/MC.PA → LVMUY ADR, not Paris listing).
+
+aliases:
+  # Mega-cap US
+  amazon: AMZN
+  "amazon.com": AMZN
+  "amazon web services": AMZN
+  alphabet: GOOGL
+  apple: AAPL
+  meta: META
+  facebook: META
+  google: GOOGL
+  microsoft: MSFT
+  nvidia: NVDA
+  tesla: TSLA
+  netflix: NFLX
+  costco: COST
+  uber: UBER
+  disney: DIS
+  "walt disney": DIS
+  salesforce: CRM
+  oracle: ORCL
+  "berkshire hathaway": BRK.B
+  berkshire: BRK.B
+
+  # Large-cap US
+  adobe: ADBE
+  airbnb: ABNB
+  alibaba: BABA
+  broadcom: AVGO
+  coinbase: COIN
+  doordash: DASH
+  intel: INTC
+  jpmorgan: JPM
+  "jp morgan": JPM
+  "jpmorgan chase": JPM
+  mercado libre: MELI
+  nike: NKE
+  palantir: PLTR
+  paypal: PYPL
+  qualcomm: QCOM
+  roblox: RBLX
+  shopify: SHOP
+  spotify: SPOT
+  square: SQ
+  block: SQ
+  sony: SONY
+  "sony corporation": SONY
+  tsmc: TSM
+  "taiwan semiconductor": TSM
+  walmart: WMT
+  zoom: ZM
+  cloudflare: NET
+  datadog: DDOG
+  doximity: DOCS
+  instagram: META
+  mongodb: MDB
+  peloton: PTON
+  pinterest: PINS
+  robinhood: HOOD
+  slack: CRM
+  snowflake: SNOW
+  toast: TOST
+  visa: V
+  "warner bros": WBD
+  "warner bros discovery": WBD
+
+  # ADRs / foreign listings → US display ticker
+  ferrari: RACE
+  lvmh: LVMUY
+  "louis vuitton": LVMUY
+
+ticker_aliases:
+  GOOG: GOOGL
+  "BRK.A": BRK.B
+  "BRK-A": BRK.B
+  "MC.PA": LVMUY
+  MC: LVMUY
+  LVMH: LVMUY
+  TSMC: TSM

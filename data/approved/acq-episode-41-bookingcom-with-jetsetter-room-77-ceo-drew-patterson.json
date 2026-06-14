@@ -1,0 +1,134 @@
+{
+  "episode_id": "acq-episode-41-bookingcom-with-jetsetter-room-77-ceo-drew-patterson",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 22,
+    "title": "Booking.com (with Drew Patterson)",
+    "guest": "Drew Patterson",
+    "guest_role": "Episode 41 · Guest",
+    "date": "",
+    "duration_minutes": 120,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/episode-41-bookingcom-with-jetsetter-room-77-ceo-drew-patterson",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch v5.1 — episodes 37–44 | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Online Travel",
+    "Marketplace",
+    "Agency Model"
+  ],
+  "conclusion": "Priceline's 2005 purchase of Booking.com (~$135M) plus Active Hotels (~$155M combined ~$290M) imported Europe's agency-model OTA — hotels set price, Booking takes commission, travelers pay at stay with flexible cancellation — versus US merchant inventory risk. Geert-Jan Bruinsma bootstrapped Bookings.nl (1996) with ~50K euros from 18 email contacts; Expedia diligenced six months then board-vetoed the deal. Private European investors held it until Glenn Fogel (Priceline M&A) championed acquisition; Priceline left Booking autonomous. Room nights grew from ~18.7M (2006) to 500M+ (2016); Booking drove ~$7.8B of ~$10.7B 2016 Priceline revenue. Market cap ~$91B (episode) — 'three Airbnbs.' Drew Patterson (Starwood, Kayak, Jetsetter, Room 77) explains GDS/long-tail hotel supply and why marketplace density beats feature wars.",
+  "background": "Guest Drew Patterson joins for OTA taxonomy: agency vs merchant (Amazon retail analogy), metasearch (Kayak) vs OTA conversion funnels. Booking solved multilingual European hotel calls by aggregating long-tail supply postcards couldn't reach via US GDS head — Google-longtail vs Yahoo-directory parallel. Expedia's pass looks like wholesale-model hubris; Fogel saw agency alignment with hotels and higher European travel frequency. Post-merger separation on financials preserved product/GTM independence — business-line acquisition. Tech themes: marketplace slog to tipping point, Google tax on travel keywords, Airbnb unlocking new supply, conversion as core marketplace product. Hosts grade outcomes, debate counterfactuals, and tie lessons to modern comparables (streaming bundles, marketplace M&A, fintech IPO mechanics, enterprise timing risk). Episode recorded mid-2017 Acquired era with survey Slack community callbacks.",
+  "important_facts": [
+    "Priceline acquired Booking.com and Active Hotels in 2005 for a combined ~$290M ($133M + ~$155M cited).",
+    "Room nights booked grew from ~18.7M in 2006 to 500M+ in 2016 — ~40%+ CAGR over a decade.",
+    "2016 Priceline group revenue ~$10.7B; Booking.com contributed ~$7.8B — majority of the company.",
+    "Founder Geert-Jan Bruinsma raised ~50,000 euros from 18 email contacts after mass-mailing acquaintances with email addresses.",
+    "Expedia conducted ~6 months of diligence on Booking then US board rejected the deal over agency-model concerns."
+  ],
+  "mental_model": {
+    "name": "Agency Marketplace Alignment",
+    "components": "Merchant OTAs buy room blocks — better unit economics when markups work but misalign hotel risk and cancellation policy. Agency model: hotel sets rate, OTA earns commission, guest pays at property — negative working capital and hotel-friendly terms accelerate long-tail supply signup (postcards, fax era). Demand-side Google SEM scales only after supply density; Booking's European travel frequency beat US workaholic cohort. Priceline's M&A added a parallel business line rather than forcing merchant conversion.",
+    "application": "When incumbents scoff at 'worse' unit economics (agency vs merchant, marketplace vs retail), check incentive alignment with supply — fragmented European hotels mirrored Amazon marketplace vs wholesale ebooks. Leave acquired winners autonomous until integration clearly improves conversion; Fogel→CEO lineage shows patience pays."
+  },
+  "competitive_advantage": "Booking's moat is proprietary long-tail hotel supply across Europe — 500K+ global hotels, many absent from US GDS/merchant OTAs. Agency terms reduce hotel friction; SEM mastery captured high-intent 'hotel in Rome' queries. Expedia scale in US did not translate to European villa inventory. Priceline holding company structure preserved Booking brand and model — avoiding Expedia-style assimilation. Network effects: travelers go where supply is complete; hotels list where demand converts. Trivago/Expedia compete on marketing efficiency; Airbnb attacks different supply (homes). Weaknesses: Google keyword tax; industry insular talent pool; US share lagged Europe. Drew notes consolidation helps matching supply/demand but hotels may prefer direct — Hilton/Marriott vs 20-room Romania B&B value prop differs. Drew Patterson's Kayak/Starwood lens emphasizes hotel PMS connectivity and rate parity — operational frictions agency model sidestepped for independents but not for chains building direct.",
+  "key_insights": [
+    {
+      "view": "Expedia's pass is the counterfactual.",
+      "question": "What if Expedia closed the deal?",
+      "answer": "US board rejected agency economics after six-month diligence — merchant golden-goose bias. Likely Booking assimilated or starved; Priceline's willingness to run parallel models captured 500M room nights. Classic incumbent dismisses hard supply slog. Fogel succession shows M&A hire became CEO steward."
+    },
+    {
+      "view": "Long-tail supply beats directory head.",
+      "question": "Why couldn't GDS cover Europe?",
+      "answer": "US-centric GDS missed fragmented European hotels — Booking postcard MVP onboarded properties without internet. Google vs Yahoo metaphor: search won when head listings insufficient; specific European queries had one answer."
+    },
+    {
+      "view": "Autonomy preserved the growth engine.",
+      "question": "Did Booking need Priceline capital?",
+      "answer": "Agency model threw off cash; Priceline added SEM war chest and public currency but critical was Fogel leaving ops alone — separate reporting lines, no forced merchant flip. Integration of business lines often kills marketplace culture. SEM spend scaled only after European supply tipping point."
+    },
+    {
+      "view": "Conversion is the product.",
+      "question": "How do OTAs win beyond ads?",
+      "answer": "Bill Gurley/Rover lesson: marketplace product equals match rate × consummation. Booking instrumented keyword→booking LTV; Trivago excels at funnel math. Features matter less than completing transactions at scale."
+    },
+    {
+      "view": "Airbnb reshapes supply side.",
+      "question": "Where is disruption now?",
+      "answer": "OTAs optimized traveler experience with mixed hotel feelings; Airbnb aligned new supply (spare bedroom) with demand — different acquisition category but same travel wallet. Booking's hotel long-tail moat remains for traditional stays."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "BKNG",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Booking remains Priceline/Booking Holdings profit engine — marketplace density + agency alignment; watch Google/Meta CAC and regulatory pressure on OTAs; episode ~2017 framing at ~$91B mkt cap."
+    }
+  ],
+  "golden_quotes": [
+    "\"He emailed everyone who he knew who had an email address because he figured if they had an email address, they at least knew something about the internet.\" — on Geert-Jan Bruinsma fundraising.",
+    "\"Booking or nothing.\" — David on European long-tail queries pre-Google ubiquity.",
+    "\"The product that you're building when you're at a marketplace company is essentially the matching of supply and demand.\" — Bill Gurley via David/Rover."
+  ],
+  "chronology": {
+    "subject": "Booking.com / Priceline",
+    "events": [
+      {
+        "date": "1996",
+        "event": "Geert-Jan Bruinsma founds Bookings.nl in Amsterdam"
+      },
+      {
+        "date": "2000",
+        "event": "Merger with Bookings Online → Booking.com name"
+      },
+      {
+        "date": "2002",
+        "event": "Expedia nears then aborts Booking acquisition"
+      },
+      {
+        "date": "2002-2003",
+        "event": "European private investors acquire majority stake"
+      },
+      {
+        "date": "2005",
+        "event": "Priceline acquires Booking.com and Active Hotels (~$290M total)"
+      },
+      {
+        "date": "2006",
+        "event": "Combined ~18.7M room nights booked post-merger"
+      },
+      {
+        "date": "2016",
+        "event": "~500M+ room nights; Booking ~$7.8B of ~$10.7B group revenue"
+      },
+      {
+        "date": "2017",
+        "event": "Episode records ~$91B Priceline market cap with Drew Patterson guest"
+      },
+      {
+        "date": "1999",
+        "event": "Active Hotels founded — later merged inside Priceline group with Booking"
+      },
+      {
+        "date": "2010",
+        "event": "Glenn Fogel leads Priceline M&A; later becomes Booking Holdings CEO"
+      }
+    ]
+  }
+}

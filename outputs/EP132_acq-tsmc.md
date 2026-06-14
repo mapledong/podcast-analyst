@@ -1,0 +1,151 @@
+# EP.132 — TSMC
+
+## *Season 9 · Episode 3*
+
+**★★★★☆** · 4/5
+
+**Podcast** Acquired · **Date** Sep 6, 2021 · **Duration** 149 min · **Read** ≈5 min
+
+**Host** Ben Gilbert & David Rosenthal
+
+
+
+**Listen**  · [Acquired](https://www.acquired.fm/episodes/tsmc) · [Apple](https://podcasts.apple.com/podcast/acquired/id1050462261) · [Spotify](https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx)
+
+**Topics** Pure-Play Foundry · Morris Chang · Semiconductor CapEx
+> ### Conclusion
+>
+> TSMC's 2021 Acquired episode (remastered 2025) explains the foundry that fabs Apple, NVIDIA, AMD, and Qualcomm silicon. Morris Chang founded at 56 in 1987 with $0 pre-money — 50% Taiwan government, 50% investors including Philips; he bought shares with salary. Pure-play foundry was 'solution seeking problem' until fabless revolution (NVIDIA raised only ≈$20M, never built fabs). Learning-curve pricing from TI/BCG; 40% operating margins on contract manufacturing. 2020: $48B revenue, $20B operating profit, $17B CapEx reinvested. Apple 2010 deal: ≈$9B dedicated fab, 6000 employees, 11-month build. >50% foundry share, ≈90% leading-edge 5nm. ASML EUV machines ≈$200M each; only TSMC/Samsung at 5nm. Rated 3/5: strong history and business insight, standard Acquired depth for the era — not a definitive reference vs. dedicated biographies or technical white papers.
+
+---
+
+## Background
+
+> Recorded amid 2021 chip shortage (Ford F-150 pauses). Morris Chang: Ningbo-born, TI semiconductor chief passed over for CEO, ITRI 'retirement' → TSMC mandate. Value chain sidebar: ARM (1987), EDA (Synopsys/Cadence), ASML lithography, fabless designers. 2009 Morris return during financial crisis; iPhone/Android fabless wave; cloud/GPU pivot makes Intel dominance 'over.'
+
+---
+
+## Key Facts
+
+> **F1** TSMC 1987 founding: ≈$110M raised at $0 pre-money — Morris Chang received no founder equity; bought TSMC stock with cash.
+
+> **F2** Global semiconductor market ≈$26B (1987) vs. ≈$527B (2024 context in remaster); TSMC among few trillion-dollar companies outside US West Coast.
+
+> **F3** 2020 financials: ≈$48B revenue, ≈$20B operating profit; ≈$17B of ≈$20B op profit reinvested as CapEx — announced ≈$100B CapEx over 3 years by 2021.
+
+> **F4** Apple TSMC deal ≈2010: ≈$9B fab investment, ≈6000 dedicated staff; A4 iPhone chip first Apple-designed TSMC-fabbed silicon.
+
+> **F5** Compound annual revenue growth ≈17.4% for 27 years since 1994 Taiwan IPO ($4B market cap → ≈$550B+ by 2021 episode).
+
+
+---
+
+## Mental Model · *Pure Play Foundry Treadmill*
+
+> **Components**
+>
+> Never compete with customers on design — Apple won't trust Intel/Samsung IDM conflicts. Win each node volume to amortize $20B+ fabs (trending $100B). Morris begged IDM 'dregs' until Qualcomm/NVIDIA/Marvell fabless startups arrived. ASML EUV monopoly + Hsinchu ecosystem = unreplicable process power. Learning-curve pricing: start low, cut price every quarter even when market doesn't demand. UMC spun from government RCA tech-transfer (≈2.5 generations behind). SMIC China alternative lacks ecosystem. CoWoS advanced packaging bottleneck for AI GPUs. Odd Lots bear case: trailing nodes 'good enough' — Ben rejects; software expands to fill fastest silicon.
+>
+> **Application**
+>
+> Capital-intensive component businesses: vendor-customer conflict determines trust. TSMC concentration risk inherited by every fabless AI winner; Arizona fabs lack Taiwan cluster density.
+
+---
+
+## What Makes It Work
+
+> TSMC wins as neutral leading-edge manufacturer when IDMs conflict with customers. Scale + learning curve: old Fab 2–3 from 1980s still run trailing nodes — monetize automotive/IoT while leading edge funds next node. 2009 Morris return: no layoffs culture; 28nm then 5nm bets after 40nm yield crisis. Weaknesses: Taiwan geopolitics, Apple/NVIDIA concentration, capital intensity — 5–10% demand miss tanks node economics. Versus Intel/Samsung: Apple chose TSMC over Samsung foundry due to Galaxy conflict; Intel lost IBM PC processor then mobile forever. Sidebar value chain: ARM (1987 JV with Apple/Acorn), ASML EUV (≈$200M tools, 50+ backorder), EDA duopoly Synopsys/Cadence, IP licensors — TSMC sits at manufacturing chokepoint. P.A. Semi lineage (DEC StrongARM → Intel XScale → Apple Silicon) shows fabless designer + TSMC fab pairing. 2021 price increases end Morris learning-curve cuts — monopoly pricing power at 5nm. Remaster (2025) notes ≈$1T market cap doubling since 2021 episode. 2005 Morris retirement at 74; 2009 surprise return. MediaTek, NVIDIA PlayStation/Xbox contract cyclicality pre-AI. Arizona fab geopolitical hedge without Hsinchu density. $28B cash 2020 balance sheet funds $100B CapEx plan. Morris pipe-smoker anecdote humanizes founder gravitas.
+
+---
+
+## Key Insights
+
+> **1.** Pure-play foundry was contrarian in 1987.
+>
+> **Q** Why did Morris not build an Intel clone?
+>
+> **A** Taiwan had 4–5% average gross margins on toys — no design talent. Minister KT Li demanded semiconductor leader; Morris chose foundry serving future fabless designers ('real men have fabs' era). Market didn't exist yet — he hoped fabless would come. Episode ties to broader Acquired themes: concentrated ownership, DPI over IRR marketing, and founder quality sensed before metrics confirm. The episode ties numbers to primary sources (Chernow, Russo, Chang interviews, company filings where cited) rather than secondary hype.
+
+> **2.** $0 pre-money was survivable, not generous.
+>
+> **Q** How is Chang worth billions?
+>
+> **A** Government owned 50%; Morris bought TSMC shares from salary and dividends as public markets opened (1994 Taiwan IPO, 1997 NYSE). Opposite of Silicon Valley equity — bet on own economics.
+
+> **3.** 2009 crisis proved operational moat.
+>
+> **Q** Why return at 78?
+>
+> **A** Financial crisis + iPhone/Android fabless wave + GPU/cloud shift away from Intel x86. Morris closed Apple deal competitors couldn't — founder gravitas despite no initial equity.
+
+> **4.** ASML + TSMC co-evolution.
+>
+> **Q** Why can't governments replicate TSMC?
+>
+> **A** EUV machines ≈$200M, 50+ on backorder; wavelength of light vs. 5nm gates requires alchemy-level process knowledge. Even with $100B cash, 'you wouldn't know what to do with ASML shipments.' The episode ties numbers to primary sources (Chernow, Russo, Chang interviews, company filings where cited) rather than secondary hype.
+
+> **5.** Pricing power inflects at monopoly share.
+>
+> **Q** Why raise prices after decades of cuts?
+>
+> **A** >50% foundry share, ≈95% leading-edge profit share — first price increases since Morris learning-curve era. Commodity transformed into iPhone-of-semiconductors positioning.
+
+---
+
+## Investment Ideas
+
+> **1. TSM** · 🟡 WATCH · ●●○ Medium
+>
+> Pure-play foundry oligopoly at 5nm/3nm; AI/GPU demand drives advanced utilization — primary bear case is Taiwan geopolitical concentration and customer diversification efforts.
+
+> **2. NVDA** · 🟡 WATCH · ●●○ Medium
+>
+> NVIDIA–TSMC partnership since RIVA 128; AI GPU supply constrained by TSMC CoWoS/advanced packaging allocation.
+
+---
+
+## Golden Quotes
+
+> ""The semiconductor business is like a treadmill that speeds up all the time. If you can't keep up, you fall off." — Morris Chang."
+
+> ""We had no strength in R&D… We had almost no strength in intellectual property." — Morris on 1985 Taiwan — context for foundry bet."
+
+> ""Real men have fabs." — Jerry Sanders (AMD), the worldview TSMC inverted."
+
+---
+
+## Chronology
+
+> *TSMC*
+>
+> **1958** Morris Chang joins Texas Instruments; learning-curve pricing with BCG
+>
+> **1983** Chang demoted at TI; resigns after ≈30 years
+>
+> **1987** TSMC founded; ARM also founded — annus mirabilis for chips
+>
+> **1987** ≈$110M raised at $0 pre-money; Philips and Taiwan government invest
+>
+> **1993** NVIDIA founded — fabless, ≈$20M raised, TSMC fabs from start
+>
+> **1994** TSMC Taiwan IPO — ≈$4B market cap
+>
+> **2009** Morris Chang returns as CEO amid financial crisis
+>
+> **2010–12** Apple ≈$9B dedicated fab deal; A4/A6 iPhone silicon
+>
+> **2020** ≈$48B revenue; ≈$17B CapEx reinvestment
+>
+> **2021** Acquired episode; ≈$100B 3-year CapEx plan; 5nm leadership
+>
+> **2025** Remaster; TSMC market cap ≈$1T+ in remaster intro
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Acquired, Ben Gilbert & David Rosenthal, or TSMC. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

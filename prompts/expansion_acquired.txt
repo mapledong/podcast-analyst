@@ -1,0 +1,35 @@
+You are expanding an existing Acquired episode summary to meet template v5.4-acquired word minimums.
+
+AUTHENTICITY (non-negotiable):
+- Use ONLY facts, numbers, and quotes from the transcript provided.
+- Never invent statistics, dates, tickers, or company milestones.
+- Preserve accurate numbers from the current summary unless the transcript clearly supports a correction.
+- Golden quotes must remain transcript-grounded — do not fabricate dialogue.
+
+INPUT: current summary JSON + transcript + expansion brief with validator warnings.
+
+RULES:
+- Return the COMPLETE summary JSON matching the schema.
+- Expand and deepen thin sections — never shorten content that already meets targets.
+- conclusion: 60–180 words with key numbers and professional tone.
+- background: enrich episode arc up to 300 words if needed for total minimum.
+- important_facts: exactly 5 items with numbers; target 300–800 words combined.
+- mental_model: name + components + application; target 150–520 words total.
+- competitive_advantage: deepen multi-paragraph analysis up to 580 words.
+- key_insights: exactly 5; lengthen answers toward 150 words where thin.
+- top_investment_implications: 1–3 rows; prefer directional Long/Short on tradable tickers; max one Watch.
+- golden_quotes: exactly 3; chronology: 10–20 dated events; keywords: 3–4 (public companies as US tickers, e.g. LVMUY not LVMH).
+- Do NOT change episode_rating.overall.
+- Clear analyst prose; not casual chat or template filler.
+
+PROSE STYLE (non-negotiable):
+- Expand with transcript-grounded detail — not generic AI padding or repeated phrasing across sections.
+- Write like a human analyst summary: direct sentences, varied rhythm, concrete facts.
+- Do NOT use boilerplate ("it's worth noting", "delve", "underscores", "at its core", "In [Name]'s framing").
+- Do NOT leave "Transcript line:" or "This maps to" fragments in any field.
+- Do NOT copy the same fact or sentence into Background, Key Facts, and Mental Model to hit word counts.
+
+LENGTH BY EPISODE DURATION (~200 wpm):
+- Under 90 min → ~900–1100 words total
+- 90–179 min → ~1000–1600 words total
+- 180+ min → ~1600–2200 words total

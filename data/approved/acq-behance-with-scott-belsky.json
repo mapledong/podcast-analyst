@@ -1,0 +1,134 @@
+{
+  "episode_id": "acq-behance-with-scott-belsky",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 62,
+    "title": "Behance",
+    "guest": "Scott Belsky",
+    "guest_role": "Season 3 · Episode 6",
+    "date": "2018-10-01",
+    "duration_minutes": 77,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/behance-with-scott-belsky",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch — v5.1-acquired; Season 3 ep 4–10 | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Creative Portfolio",
+    "Adobe M&A",
+    "Product-Community Fit"
+  ],
+  "conclusion": "Scott Belsky joins Ben and David to tell Behance's arc from 2006 creative portfolio site to Adobe's December 2012 acquisition for ~$150M — integrating 1M+ projects and millions of creatives into Creative Cloud. Belsky bootstrapped then raised from Union Square Ventures, prioritizing community stats (appreciations, views) over pure social graph. Adobe bought distribution for Creative Suite subscribers and talent pipeline; Belsky later ran Adobe Document Cloud and 99U conference. The episode is Acquired's creative-economy case study: vertical community beats horizontal social for professional identity, and strategic acquirers pay for audience-in-product, not ARR alone when ~$150M buys the default portfolio layer for designers worldwide.",
+  "background": "Season 3 Episode 6 features founder Scott Belsky on building Behance as LinkedIn-for-creatives before that category existed. He explains project-based profiles (case studies vs resumes), ProSite custom domains, and hiring Adobe as distribution partner before becoming acquisition target. Hosts cover creative-gig economy precursors, Dribbble competition, and why Adobe paid ~$150M for community rather than technology moat. Belsky discusses post-acquisition integration into Creative Cloud, 99U conference for creative professionals, and lessons on 'the messy middle' of scaling startups — themes he later codified in book and venture career at Benchmark.",
+  "important_facts": [
+    "Adobe acquired Behance in December 2012 for ~$150M — ~1M+ projects and millions of registered creatives integrated into Creative Cloud subscription bundle.",
+    "Behance founded 2006 by Scott Belsky; raised from Union Square Ventures after initial bootstrap — revenue mix included ProSite subscriptions and job board before acquisition.",
+    "Creative Cloud had ~1.5M+ subscribers at 2012 acquisition announcement — Behance added community retention layer to Adobe's software subscription pivot away from boxed CS6.",
+    "Behance Stats tracked billions of project views and millions of appreciations by 2012 — hiring managers used view counts as reputation heuristics, analogous to GitHub stars for designers.",
+    "Belsky launched 99U conference and later joined Adobe as VP Products, Community (Document Cloud) — founder retention rare in creative-tool M&A."
+  ],
+  "mental_model": {
+    "name": "Project-Based Professional Identity",
+    "components": "Creatives are hired on portfolios, not resumes — Behance productized case-study presentation with discoverability (featured galleries, curated collections). Appreciation metrics created lightweight reputation graph without LinkedIn's text-heavy feed. Adobe's Creative Cloud subscription needed engagement between Photoshop launches — Behance supplied daily return habit. Strategic acquirers pay when community is embedded in customer workflow, not adjacently monetizable via ads.",
+    "application": "Vertical communities for professionals should index on output artifacts (projects, code, designs) not generic posts. If your user is also a customer of a platform vendor (Adobe), partnership → acquisition path is viable when you reduce churn. Founders: ~$150M outcome without massive revenue requires strategic value — map who your audience is worth to incumbents."
+  },
+  "competitive_advantage": "Behance owned default portfolio hosting for Adobe ecosystem designers — Creative Cloud integration post-acquisition created distribution incumbents could not replicate without similar subscriber base. Curated galleries and editorial featuring gave discovery unlike Instagram's chronological noise. ProSite custom domains let freelancers present behance.net/username as professional storefront. Community effects: more portfolios → better search/referral for hiring managers → more signups. Job board and freelance leads monetized attention without intrusive ads. 99U conference extended brand into offline professional development. Weaknesses: limited proprietary technology — Adobe bought audience. Dribbble competed on designer social niche. Dependent on Adobe strategy post-acquisition — standalone startup path capped without subscription attach. Not a venture-scale IPO trajectory; ~$150M strategic exit was win condition. Versus LinkedIn: visual project proof vs text credentials. Versus Instagram: professional context, not personal social. Episode foreshadows creator-economy tooling Acquired later covers (TikTok, etc.) but Behance is B2Pro not consumer viral.",
+  "key_insights": [
+    {
+      "view": "Adobe bought retention, not technology.",
+      "question": "Why ~$150M for Behance?",
+      "answer": "Creative Cloud subscription (~1.5M+ subscribers in 2012) needed engagement between major software releases — Behance supplied daily portfolio updates and community. Replacing churned boxed software revenue required habit layer. Building in-house community would take years; Behance had 1M+ projects and hiring-manager traffic. Strategic premium for audience-in-product."
+    },
+    {
+      "view": "Stats created reputation currency.",
+      "question": "Why appreciations matter?",
+      "answer": "Views and appreciations quantified creative peer approval — hiring managers scanned stats as heuristic before interviews. Lighter than LinkedIn endorsements, more credible than Instagram likes (professional context). Network effect: featured projects drove traffic to creators who reinvested in platform."
+    },
+    {
+      "view": "Bootstrap → USV → strategic exit is valid path.",
+      "question": "Was Behance a venture failure?",
+      "answer": "No — ~$150M Adobe exit rewarded community scale without $100M ARR. Belsky argues creative tools M&A pays for strategic fit, not SaaS multiples. Union Square Ventures thesis: networks of professionals have latent acquisition value to platform owners. Contrast with Dribbble staying independent longer — different outcome risk."
+    },
+    {
+      "view": "Founder retention signaled integration success.",
+      "question": "Why did Belsky stay at Adobe?",
+      "answer": "Moved from Behance CEO to Adobe VP Products, Community — Document Cloud and 99U expansion. Rare founder continuity post-acquisition indicates Adobe wanted operator who understood creative professionals, not acqui-hire shutdown. Belsky later joined Benchmark — episode captures pre-venture-capital second act."
+    },
+    {
+      "view": "Vertical beats horizontal for pro creatives.",
+      "question": "Why not just use Instagram?",
+      "answer": "Hiring managers need case-study depth — process sketches, iterations, client context. Instagram optimizes single-image scroll; Behance optimized project containers and tools-specific tags (Photoshop, Illustrator). Professional identity requires archival quality and search by skill — horizontal social feeds optimize different engagement."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "ADBE",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Behance integration exemplifies Creative Cloud community moat — track whether Adobe Design and generative AI tools leverage portfolio data for retention versus standalone AI competitors."
+    }
+  ],
+  "golden_quotes": [
+    "\"Your work is your resume\" — Belsky on project-based portfolios versus LinkedIn profiles.",
+    "\"Adobe bought the community our subscribers lived in\" — on strategic ~$150M acquisition logic.",
+    "\"Appreciations are the currency of creative reputation\" — on Behance Stats metrics."
+  ],
+  "chronology": {
+    "subject": "Behance · Scott Belsky · Adobe",
+    "events": [
+      {
+        "date": "2006",
+        "event": "Behance founded — online portfolio platform for creatives"
+      },
+      {
+        "date": "2008–2010",
+        "event": "Bootstrap then Union Square Ventures funding"
+      },
+      {
+        "date": "2010",
+        "event": "ProSite custom domains and job board launch"
+      },
+      {
+        "date": "2011",
+        "event": "99U conference debuts for creative professionals"
+      },
+      {
+        "date": "2012",
+        "event": "Creative Cloud subscription replaces boxed Creative Suite"
+      },
+      {
+        "date": "2012-12",
+        "event": "Adobe acquires Behance for ~$150M"
+      },
+      {
+        "date": "2013",
+        "event": "Behance integrated into Creative Cloud subscriber experience"
+      },
+      {
+        "date": "2014",
+        "event": "Belsky promoted to Adobe VP Products, Community"
+      },
+      {
+        "date": "2018",
+        "event": "Acquired live interview with Belsky records"
+      },
+      {
+        "date": "2019+",
+        "event": "Belsky joins Benchmark; publishes The Messy Middle"
+      }
+    ]
+  }
+}

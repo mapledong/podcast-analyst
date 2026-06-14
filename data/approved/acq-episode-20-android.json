@@ -1,0 +1,139 @@
+{
+  "episode_id": "acq-episode-20-android",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 11,
+    "title": "Android",
+    "guest": "Android",
+    "guest_role": "Acquired · Episode 20",
+    "date": "",
+    "duration_minutes": 120,
+    "youtube_url": "",
+    "links": {
+      "youtube": "",
+      "acquired": "https://www.acquired.fm/episodes/episode-20-android",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "Android",
+    "GOOGL",
+    "Mobile Platform"
+  ],
+  "conclusion": "Google's 2005 ~$50 million Android acquisition — Andy Rubin's Danger/General Magic lineage, Steve Perlman's $10,000 cash infusion, no VC — became the defensive moat protecting Search from mobile distribution taxes. After January 2007 iPhone, Google scrapped the HTC non-touch prototype, launched Open Handset Alliance November 2007, and shipped the G1 in 2008. Oracle lawsuit disclosures cited ~$31 billion Android revenue and ~$22 billion profit; hosts estimate Android saves ~$4 billion yearly by avoiding ~34% traffic-share payments Apple extracts for default mobile search. Open-source AOSP plus Google Play/services bundle created 80% global share and fork pressure (Amazon, Xiaomi). David Lawee called it Google's best deal; hosts grade A+ alongside Instagram — defensive but existential.",
+  "background": "Requested for months, Episode 20 unpacks Android pre-iPhone: Rubin leaves Danger 2003, builds Linux-based mobile OS; Larry/Sergey were Sidekick fans. Google buys 2005 before iPhone exists. January 2007 iPhone keynote forces full UI reset; November 2007 OHA announcement with $10M developer challenge; 2008 G1 (T-Mobile/HTC) trails iPhone but Verizon's 2009 Droid campaign (Lucasfilm 'droid' fee) ignites holy wars. Episode links Motorola $12.5B patent buy (sold to Lenovo $2.9B), Oracle Java API suit revealing Apple–Google search rev-share (~34%), and Ben Thompson 'own the customer' theme. Eric Schmidt on Apple's board through 2007 — friendship to warfare in two years. Rubin lineage: Apple → General Magic (public, bankrupt) → WebTV → Danger Sidekick celebrity (Entourage) → Android without VC. January 2007 iPhone line-up story (Ben queued, no money for data plan). Eric Schmidt on Apple board through iPhone launch; Google Maps default on first iPhone. Motorola patent detour and Xiaomi fork cited as open-source second-order effects. Acquisition category: technology at purchase evolving to product, business line, and strategic asset. Motorola patent sidebar and Xiaomi/Amazon fork examples. Grade A+ vs Instagram — defensive but existential. Carve-outs and community Matt Morgante Patagonia book. Eric Schmidt board seat and Maps on first iPhone underline how fast alliances flipped.",
+  "important_facts": [
+    "Google acquired Android in 2005 for approximately $50 million; Andy Rubin had not raised VC — Steve Perlman once delivered $10,000 cash refusing equity.",
+    "January 2007 iPhone launch triggered Android prototype scrap; Open Handset Alliance announced November 2007 with $10 million developer challenge.",
+    "First Android phone (G1) shipped 2008 with HTC/T-Mobile; Verizon Droid campaign 2009 paid Lucasfilm for 'droid' trademark use.",
+    "Oracle lawsuit cited ~$31 billion annual Android revenue and ~$22 billion profit; ~$15 billion mobile search revenue 2015 with Apple taking ~34% of iOS search.",
+    "Hosts estimate Android's ~80% share avoids ~$4 billion per year in traffic-share payouts Google would owe if mobile search ran through others' browsers."
+  ],
+  "mental_model": {
+    "name": "Search Tax Avoidance via OS",
+    "components": "Google monetizes attention on owned surfaces. Mobile inserted carriers/OEMs/browser defaults between users and AdWords; Apple extracts ~34% of iOS search revenue. Android gives Google default search on ~80% of phones — economic value is defensive rent capture, not Play Store margin alone. Rubin + Sidekick fandom gave Google talent and timing; iPhone forced UI reset that synced launch with OHA marketing.",
+    "application": "Evaluate 'free' OS/product subsidies by quantifying avoided tolls on core cash engine. Android's ROI is tax saved plus Play 30% cut — compare to $50M entry vs building in-house without Rubin/OHA coalition. When core revenue is traffic-mediated (ads), subsidize OS/browser to avoid tolls; measure success in avoided rev-share billions, not Play margin alone."
+  },
+  "competitive_advantage": "Android won via open coalition: free AOSP united OEMs/carriers against Apple exclusivity (AT&T/iPhone rocket). Developer reach argument pressured Apple to App Store in 2008. Samsung and others copied fast; Google controlled GMS bundle (Maps, Play, Gmail) on licensed builds. Rubin's handset DNA (Danger Sidekick) and post-iPhone pivot speed mattered. Weaknesses: fragmentation, fork risk (Xiaomi, Fire OS), Motorola patent detour. Microsoft Windows Mobile lost because product sucked and coalition closed — lesson in UX-first plus open distribution. Open Handset Alliance coordinated OEMs/carriers against Apple–AT&T exclusivity — economic enemy-of-my-enemy coalition. $10M developer challenge signaled openness; App Store pressure followed. GMS bundle (Play, Maps, Gmail) is real control point atop AOSP; Amazon Kindle Fire shows fork path without Google services. Samsung fast-follow copied iPhone features within months — acceptable to Google if Search default retained. Oracle suit revealed Apple takes ~34% of iOS search revenue — quantifying Android's defensive ROI. Chrome parallel on desktop completes 'own the front door' strategy. Windows Mobile failed closed ecosystem; BlackBerry denied iPhone feasibility — incumbents misread UX revolution. GMS licensing bundle is the real control lever: OEMs get Play Store and Google apps only when default search/maps stay Google — AOSP forks without GMS (China, Fire OS) show ceiling of open-source alone. AT&T iPhone exclusivity 2007–2010 funded Apple's rise; Verizon Droid campaign bought Android credibility in U.S. carrier channel — coalition economics, not solo product superiority, won share.",
+  "key_insights": [
+    {
+      "view": "Android exists to protect AdWords.",
+      "question": "Why give OS away free?",
+      "answer": "Mobile reopened distribution tolls; Apple–Google revenue share (~$1B/year order-of-magnitude) shows cost of not owning front door. Chrome and Android share thesis — prevent taxing own users. Oracle litigation disclosures and Goldman mobile-search estimates give hard numbers to Android's defensive economics beyond market-share headlines and holy-war rhetoric."
+    },
+    {
+      "view": "iPhone reset saved Android from irrelevance.",
+      "question": "What if no iPhone?",
+      "answer": "Pre-touch QWERTY prototypes would have lost slowly; iPhone forced parity chase and OHA narrative ('open vs closed') that recruited OEMs."
+    },
+    {
+      "view": "Eric Schmidt board seat was strategic intel.",
+      "question": "Did Google know iPhone plans?",
+      "answer": "Schmidt on Apple board until 2007; still, hosts argue exact smartphone war outcome unforeseeable — acquisition was talent/optionality bet that compounded."
+    },
+    {
+      "view": "Play Store is bonus revenue.",
+      "question": "How else does Android pay?",
+      "answer": "~30% Play cut on ~$10–15B of gross cited in lawsuit math — great on $50M purchase, but defensive search rent dominates."
+    },
+    {
+      "view": "A+ defensive can equal offensive Instagram.",
+      "question": "Why grade as highly as Instagram?",
+      "answer": "Ben: ensured Google customer access for decades; David wavers on '+' only because Instagram felt offensive — both existential to core business."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "GOOGL",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Android economics explain mobile search margin structure; relevant when DOJ/remedy debates threaten default search bundles on Android OEMs."
+    }
+  ],
+  "golden_quotes": [
+    "\"If Google did not act, we faced a draconian future… one man, one company, one device\" — Vic Gundotra at Google I/O 2010, quoted by David.",
+    "\"Google's best deal ever\" — David Lawee attribution on the acquisition.",
+    "\"Droid Does\" — Verizon campaign paying Lucasfilm for every 'droid' mention."
+  ],
+  "chronology": {
+    "subject": "Android · Google Acquisition",
+    "events": [
+      {
+        "date": "2003",
+        "event": "Andy Rubin leaves Danger; starts Android"
+      },
+      {
+        "date": "2005",
+        "event": "Google acquires Android (~$50M)"
+      },
+      {
+        "date": "2007-01",
+        "event": "iPhone announced; Android prototypes scrapped"
+      },
+      {
+        "date": "2007-11",
+        "event": "Open Handset Alliance and Android announced"
+      },
+      {
+        "date": "2008",
+        "event": "G1 phone ships; Apple App Store walks back web-only apps"
+      },
+      {
+        "date": "2009",
+        "event": "Verizon Droid campaign vs iPhone"
+      },
+      {
+        "date": "2011-08",
+        "event": "Google buys Motorola Mobility for $12.5B (patents)"
+      },
+      {
+        "date": "2014",
+        "event": "Motorola sold to Lenovo for $2.9B"
+      },
+      {
+        "date": "2010",
+        "event": "Vic Gundotra frames Android as anti-monopoly hammer vs Apple"
+      },
+      {
+        "date": "2011+",
+        "event": "Oracle Java API lawsuit reveals mobile search economics"
+      },
+      {
+        "date": "2016",
+        "event": "Hosts grade Android A+ — 'Google's best deal ever' per Lawee"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT Acquired batch ep19-25 — v5.1-acquired | optimized v5.4"
+}

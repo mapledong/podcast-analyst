@@ -1,0 +1,360 @@
+{
+  "fetched": [
+    "the-nfl",
+    "rolex",
+    "costco",
+    "10-years-of-acquired-with-michael-lewis",
+    "coca-cola",
+    "trader-joes",
+    "google-the-ai-company",
+    "alphabet-inc",
+    "the-jamie-dimon-interview",
+    "google",
+    "the-steve-ballmer-interview",
+    "epic-systems-mychart",
+    "indian-premier-league-cricket",
+    "tsmc-founder-morris-chang",
+    "mars-inc-the-chocolate-story",
+    "ikea",
+    "meta",
+    "acquired-live-from-chase-center-with-daniel-ek-emily-chang-jensen-huang-and-mark-zuckerberg",
+    "the-mark-zuckerberg-interview",
+    "microsoft-volume-ii",
+    "starbucks-with-howard-schultz",
+    "microsoft",
+    "renaissance-technologies",
+    "hermes",
+    "novo-nordisk-ozempic",
+    "holiday-special-2023",
+    "visa",
+    "charlie-munger",
+    "jensen-huang",
+    "nvidia-the-dawn-of-the-ai-era",
+    "nike",
+    "porsche-with-doug-demuro",
+    "uber-ceo-dara-khosrowshahi",
+    "lockheed-martin",
+    "spotify-ceo-daniel-ek",
+    "benchmarks-mitch-lasky-and-blake-robbins-on-the-art-of-business-in-gaming",
+    "short-the-death-of-sega",
+    "nintendo-the-console-wars",
+    "interview-hamilton-helmer-chenyi-shi-on-how-to-build-an-aws-like-second-business",
+    "sessions-david-senra-founders-podcast",
+    "nintendo",
+    "lvmh",
+    "holiday-special-2022",
+    "stratechery-with-ben-thompson",
+    "enron",
+    "qualcomm",
+    "benchmark-part-ii-the-dinner",
+    "acq-sessions-jason-calacanis",
+    "benchmark-capital",
+    "amazon-web-services",
+    "howard-marks-andrew-marks-something-of-value",
+    "amazon-com",
+    "from-nfl-to-startup-coo-to-congressman-regulating-crypto-with-rep-anthony-gonzalez",
+    "walmart",
+    "the-playbook-lessons-from-200-company-stories",
+    "american-dynamism-with-katherine-boyle",
+    "capital-efficient-growth-with-zoom-ceo-eric-yuan-veeva-ceo-peter-gassner",
+    "arena-show-part-ii-brooks-running-with-ceo-jim-weber",
+    "arena-show-part-i-idea-dinner-yc-continuity",
+    "nvidia-the-machine-learning-company-2006-2022",
+    "platforms-and-power-with-hamilton-helmer-and-chenyi-shi",
+    "nvidia-the-gpu-company-1993-2006",
+    "altimeter-with-brad-gerstner",
+    "sony",
+    "super-pumped-with-brian-koppelman-and-joseph-gordon-levitt",
+    "the-browser-with-brendan-eich-chief-architect-of-netscape-mozilla-and-ceo-of-brave",
+    "peloton",
+    "taylor-swift-acquireds-version",
+    "caa-with-michael-ovitz",
+    "ftx-with-sam-bankman-fried-mario-gabriele",
+    "7-powers-with-hamilton-helmer",
+    "not-boring-with-packy-mccormick",
+    "complexity-investing-semiconductors-with-nzs-capital",
+    "standard-oil-part-ii",
+    "standard-oil-part-i",
+    "tsmc",
+    "kevin-rose-from-web-2-0-to-web3",
+    "andreessen-horowitz-part-ii",
+    "andreessen-horowitz-part-i",
+    "solana-with-ceo-anatoly-yakovenko",
+    "ethereum",
+    "special-ho-nam-from-altos-ventures-a-different-approach-to-vc",
+    "berkshire-hathaway-part-iii",
+    "special-amazon-unbound-with-brad-stone",
+    "berkshire-hathaway-part-ii",
+    "special-2021-china-tech-trends-with-tech-buzz-china",
+    "berkshire-hathaway-part-i",
+    "special-why-now-for-digital-health-with-levels-founder-josh-clemente",
+    "rec-room-part-ii-with-ceo-nick-fajt",
+    "the-new-york-times-company",
+    "special-sequoia-capitals-investment-playbook-with-alfred-lin",
+    "bitcoin",
+    "special-acquired-x-indie-hackers",
+    "airbnb",
+    "doordash",
+    "slack-salesforce-emergency-pod-with-packy-mccormick-of-not-boring",
+    "virgin-galactic",
+    "superhuman",
+    "special-superhuman-part-ii-designing-software-to-feel-like-a-game-with-rahul-vohra",
+    "twitter-with-dick-costolo",
+    "special-invest-like-the-best-on-acquired",
+    "the-nba",
+    "special-acquired-x-my-first-million",
+    "epic-games",
+    "eventbrite",
+    "pinduoduo",
+    "oprah-harpo-studios",
+    "spacex",
+    "adapting-episode-3-intel",
+    "acquired-special-episode-jason-calacanis",
+    "sequoias-black-swan-memo",
+    "canlis",
+    "sequoia-capital-part-ii-with-doug-leone",
+    "whatsapp",
+    "convoy-with-ceo-dan-lewis",
+    "tiktok",
+    "disney-plus",
+    "the-wework-acquisition-with-dan-primack",
+    "atari-with-nolan-bushnell",
+    "sequoia-capital-part-1",
+    "google-maps",
+    "the-shopify-ipo",
+    "the-slack-dpo",
+    "the-zoom-ipo-with-santi-subotovsky",
+    "the-electronic-arts-ipo-with-trip-hawkins",
+    "the-uber-ipo",
+    "netflix-part-1",
+    "special-2016-review-and-2017-predictions",
+    "special-conversation-with-microsofts-head-of-strategic-investments-brian-schultz",
+    "episode-9-writely-google-docs",
+    "episode-44-aol-time-warner-with-the-internet-history-podcast",
+    "episode-43-the-square-ipo",
+    "episode-42-opsware-with-special-guest-michel-feaster",
+    "episode-41-bookingcom-with-jetsetter-room-77-ceo-drew-patterson",
+    "episode-40-activision-blizzard",
+    "episode-39-whole-foods-market",
+    "episode-38-soundjam-itunes",
+    "episode-37-bamtech-disney-and-the-biggest-media-company-youve-never-heard-of"
+  ],
+  "failed": [
+    {
+      "slug": "michael-mauboussin-master-class-moats-skill-luck-decision-making-and-a-whole-lot-more",
+      "error": "No transcript paragraphs found for michael-mauboussin-master-class-moats-skill-luck-decision-making-and-a-whole-lot-more"
+    },
+    {
+      "slug": "meituan",
+      "error": "No transcript paragraphs found for meituan"
+    },
+    {
+      "slug": "episode-3-twitch",
+      "error": "No transcript paragraphs found for episode-3-twitch"
+    },
+    {
+      "slug": "episode-2-instagram",
+      "error": "No transcript paragraphs found for episode-2-instagram"
+    },
+    {
+      "slug": "episode-1-pixar",
+      "error": "No transcript paragraphs found for episode-1-pixar"
+    },
+    {
+      "slug": "episode-5-siri",
+      "error": "No transcript paragraphs found for episode-5-siri"
+    },
+    {
+      "slug": "huawei",
+      "error": "No transcript paragraphs found for huawei"
+    },
+    {
+      "slug": "the-pinterest-ipo",
+      "error": "No transcript paragraphs found for the-pinterest-ipo"
+    },
+    {
+      "slug": "season-3-episode-1tesla",
+      "error": "No transcript paragraphs found for season-3-episode-1tesla"
+    },
+    {
+      "slug": "instagram-revisited-with-emily-white",
+      "error": "No transcript paragraphs found for instagram-revisited-with-emily-white"
+    },
+    {
+      "slug": "episode-4-bungie",
+      "error": "No transcript paragraphs found for episode-4-bungie"
+    },
+    {
+      "slug": "spotify-gimlet-anchor-quick-take-worldwide-meetup-details",
+      "error": "No transcript paragraphs found for spotify-gimlet-anchor-quick-take-worldwide-meetup-details"
+    },
+    {
+      "slug": "season-2-episode-9github",
+      "error": "No transcript paragraphs found for season-2-episode-9github"
+    },
+    {
+      "slug": "season-2-episode-7powerpoint",
+      "error": "No transcript paragraphs found for season-2-episode-7powerpoint"
+    },
+    {
+      "slug": "season-2-episode-3nest",
+      "error": "No transcript paragraphs found for season-2-episode-3nest"
+    },
+    {
+      "slug": "arm-softbank",
+      "error": "No transcript paragraphs found for arm-softbank"
+    },
+    {
+      "slug": "season-4-episode-1-espn",
+      "error": "No transcript paragraphs found for season-4-episode-1-espn"
+    },
+    {
+      "slug": "season-3-episode-10-tencent",
+      "error": "No transcript paragraphs found for season-3-episode-10-tencent"
+    },
+    {
+      "slug": "netflix-part-2",
+      "error": "No transcript paragraphs found for netflix-part-2"
+    },
+    {
+      "slug": "episode-7-youtube",
+      "error": "No transcript paragraphs found for episode-7-youtube"
+    },
+    {
+      "slug": "episode-6-lucasfilm",
+      "error": "No transcript paragraphs found for episode-6-lucasfilm"
+    },
+    {
+      "slug": "behance-with-scott-belsky",
+      "error": "No transcript paragraphs found for behance-with-scott-belsky"
+    },
+    {
+      "slug": "alibaba",
+      "error": "No transcript paragraphs found for alibaba"
+    },
+    {
+      "slug": "season-3-episode-4recode-with-kara-swisher",
+      "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+    },
+    {
+      "slug": "season-3-episode-3the-sonos-ipo",
+      "error": "No transcript paragraphs found for season-3-episode-3the-sonos-ipo"
+    },
+    {
+      "slug": "season-3-episode-2the-xiaomi-ipo",
+      "error": "No transcript paragraphs found for season-3-episode-2the-xiaomi-ipo"
+    },
+    {
+      "slug": "season-2-episode-10the-rover-dogvacay-merger-with-rover-ceo-aaron-easterly",
+      "error": "No transcript paragraphs found for season-2-episode-10the-rover-dogvacay-merger-with-rover-ceo-aaron-easterly"
+    },
+    {
+      "slug": "season-2-episode-8t-mobile-sprint",
+      "error": "No transcript paragraphs found for season-2-episode-8t-mobile-sprint"
+    },
+    {
+      "slug": "season-2-episode-6spotifys-direct-listing",
+      "error": "No transcript paragraphs found for season-2-episode-6spotifys-direct-listing"
+    },
+    {
+      "slug": "season-2-episode-5the-dropbox-ipo",
+      "error": "No transcript paragraphs found for season-2-episode-5the-dropbox-ipo"
+    },
+    {
+      "slug": "season-2-episode-4softbank-fortress-and-the-vision-fund",
+      "error": "<urlopen error _ssl.c:1112: The handshake operation timed out>"
+    },
+    {
+      "slug": "season-2-episode-2raising-a-seed-round-with-against-gravity-ceo-nick-fajt",
+      "error": "No transcript paragraphs found for season-2-episode-2raising-a-seed-round-with-against-gravity-ceo-nick-fajt"
+    },
+    {
+      "slug": "season-2-episode-1zappos-with-alfred-lin",
+      "error": "No transcript paragraphs found for season-2-episode-1zappos-with-alfred-lin"
+    },
+    {
+      "slug": "2017-holiday-special",
+      "error": "No transcript paragraphs found for 2017-holiday-special"
+    },
+    {
+      "slug": "the-stitch-fix-ipo",
+      "error": "No transcript paragraphs found for the-stitch-fix-ipo"
+    },
+    {
+      "slug": "qualcomm-broadcom",
+      "error": "No transcript paragraphs found for qualcomm-broadcom"
+    },
+    {
+      "slug": "the-atlassian-ipo",
+      "error": "No transcript paragraphs found for the-atlassian-ipo"
+    },
+    {
+      "slug": "season-5-episode-10-the-lean-startup-and-the-long-term-stock-exchange-with-eric-ries",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "slug": "season-4-episode-4-the-lyft-ipo",
+      "error": "No transcript paragraphs found for season-4-episode-4-the-lyft-ipo"
+    },
+    {
+      "slug": "season-3-episode-7-venmo-sf-live-show-with-andrew-kortina",
+      "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+    },
+    {
+      "slug": "episode-8-acompli-sunrise-and-wunderlist",
+      "error": "No transcript paragraphs found for episode-8-acompli-sunrise-and-wunderlist"
+    },
+    {
+      "slug": "episode-50-apple-beats",
+      "error": "No transcript paragraphs found for episode-50-apple-beats"
+    },
+    {
+      "slug": "episode-45-htc-google-and-the-future-of-mobile",
+      "error": "No transcript paragraphs found for episode-45-htc-google-and-the-future-of-mobile"
+    },
+    {
+      "slug": "2017-holiday-special",
+      "error": "No transcript paragraphs found for 2017-holiday-special"
+    },
+    {
+      "slug": "meituan",
+      "error": "No transcript paragraphs found for meituan"
+    },
+    {
+      "slug": "michael-mauboussin-master-class-moats-skill-luck-decision-making-and-a-whole-lot-more",
+      "error": "No transcript paragraphs found for michael-mauboussin-master-class-moats-skill-luck-decision-making-and-a-whole-lot-more"
+    },
+    {
+      "slug": "qualcomm-broadcom",
+      "error": "No transcript paragraphs found for qualcomm-broadcom"
+    },
+    {
+      "slug": "season-2-episode-3nest",
+      "error": "No transcript paragraphs found for season-2-episode-3nest"
+    },
+    {
+      "slug": "season-2-episode-7powerpoint",
+      "error": "No transcript paragraphs found for season-2-episode-7powerpoint"
+    },
+    {
+      "slug": "season-2-episode-9github",
+      "error": "No transcript paragraphs found for season-2-episode-9github"
+    },
+    {
+      "slug": "season-3-episode-1tesla",
+      "error": "No transcript paragraphs found for season-3-episode-1tesla"
+    },
+    {
+      "slug": "the-atlassian-ipo",
+      "error": "No transcript paragraphs found for the-atlassian-ipo"
+    },
+    {
+      "slug": "the-pinterest-ipo",
+      "error": "No transcript paragraphs found for the-pinterest-ipo"
+    },
+    {
+      "slug": "the-stitch-fix-ipo",
+      "error": "No transcript paragraphs found for the-stitch-fix-ipo"
+    }
+  ]
+}

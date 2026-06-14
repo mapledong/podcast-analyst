@@ -1,0 +1,140 @@
+{
+  "episode_id": "acq-episode-9-writely-google-docs",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 28,
+    "title": "Writely (Google Docs)",
+    "guest": "Writely (Google Docs)",
+    "guest_role": "Season 1 · Episode 9",
+    "date": "2016-03-01",
+    "duration_minutes": 55,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/episode-9-writely-google-docs",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch v5.1 — user request 8 episodes | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Google Docs",
+    "Cloud Productivity",
+    "Writely"
+  ],
+  "conclusion": "Ben and David trace how Google assembled Docs, Sheets, and Slides through a string of ~$10M Ajax-era acquisitions — Writely (March 2006), 2Web, Tonic, Zenter — rather than one blockbuster deal. Writely's collaborative browser editing became Google Docs; the suite never displaced Microsoft's enterprise cash cow but established cloud collaboration norms. Hosts grade the effort C/B-: cheap and self-sustaining, yet a major focus distraction for an advertising company chasing a second leg Microsoft already defended with Office 365. Low-end disruption stalled — Google won usage, Microsoft won dollars.",
+  "background": "Season 1 Episode 9 rewinds to mid-2000s Web 2.0: Intuit alumni at Upstartle ship Writely, collaborative docs in the browser. Google buys Writely (~$10M rumored, March 2006) plus 2Web (Excel2Web), Tonic, and Zenter for presentations — full suite live by September 2007. Eric Schmidt publicly denied competing with Office; Kurt DelBene (later Microsoft) might have smiled. Ben and David apply Christensen: Google looked like a low-end disruptor but lacked Microsoft's existential focus — Larry Page's mindshare on ads/mobile vs Ballmer/Nadella on productivity. Dropbox/Box founded 2007 as Google Drive rumors swirled until 2012 launch. Bitglass data: Google Apps briefly led Office 365 share, then Microsoft cloud caught up.",
+  "important_facts": [
+    "Google acquired Writely (Upstartle) in March 2006 for an undisclosed amount rumored around $10 million.",
+    "Writely had 4 employees at acquisition: founders Schillace, Carpenter, Newman, and Jennifer Mazzon.",
+    "Google acquired at least five small companies (Writely, 2Web, Tonic, Zenter, others) to assemble Docs, Sheets, and Slides by 2007.",
+    "Google Drive did not launch until 2012 — years after the office suite, despite persistent \"G Drive\" rumors.",
+    "By ~2016 Office 365 had overtaken Google Apps in cloud productivity market share (~25% vs ~23% per Bitglass cited on show)."
+  ],
+  "mental_model": {
+    "name": "Buy-the-Prototype vs. Own-the-Castle",
+    "components": "Google bought Ajax experiments cheaply when cloud editing was a toy; Microsoft owned enterprise distribution and high-fidelity Word requirements. Low-end disruption needs a disruptor committed to climbing the feature ladder — Google treated productivity as optional second business while Microsoft treated it as core. Amazon later won cloud infra without owning email/docs — alternative path Google could have taken earlier.",
+    "application": "Before copying a rival's product map, ask if your incentives match. Founders: incumbents with 90% executive focus beat diversifiers with 10%. Investors: separate user adoption from revenue capture in freemium suites."
+  },
+  "competitive_advantage": "Google's edge was free web collaboration, speed of iteration, and upsell into Google Workspace for SMBs. Real-time multi-cursor editing felt magical vs desktop Word. Acquisitions imported founder talent (Schillace et al.) faster than greenfield R&D. Search/ad cash subsidized free tiers — Microsoft couldn't match price, only bundle with enterprise agreements. Gmail integration gave distribution. Weaknesses: legal-grade Word fidelity still drives enterprise; Google lacked sales muscle vs Microsoft field org. Focus dilution — moonshots and Android vs Office war. YouTube and other bets consumed capital; Docs became profitable but sub-Google-scale. Dropbox/Box proved storage layer could have been partnered/acquired instead.",
+  "key_insights": [
+    {
+      "view": "String-of-pearls beat one big buy.",
+      "question": "Why five small acquisitions?",
+      "answer": "Each component (docs, sheets, slides) was an immature Ajax startup; ~$10M each bought teams and prototypes faster than internal build — classic Google 2000s playbook."
+    },
+    {
+      "view": "Low-end disruption failed to unseat Office revenue.",
+      "question": "Did Google Docs disrupt Microsoft?",
+      "answer": "Usage grew (especially greenfield docs) but enterprise dollars stayed with Microsoft once Office 365 matched collaboration; Google fought an advertising company's war, not a productivity company's."
+    },
+    {
+      "view": "Focus is the scarcest resource.",
+      "question": "Why grade C/B-?",
+      "answer": "Financially cheap and self-sustaining, but opportunity cost enormous — same era Google could have doubled down on AWS-competitive cloud infra per hosts' counterfactual."
+    },
+    {
+      "view": "Storage was the missing piece.",
+      "question": "Where was Google Drive?",
+      "answer": "Suite launched 2007; Drive until 2012 — Dropbox/Box filled the gap; hosts speculate alternate history if Google acquired storage startups early."
+    },
+    {
+      "view": "Incentives determine defense intensity.",
+      "question": "Why did Microsoft win the cloud productivity battle?",
+      "answer": "Ballmer/Nadella 90% focus vs Larry Page ~10%; Microsoft had existential need to protect Office cash cow — Google did not need Docs to survive."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "GOOGL",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Episode frames Workspace as profitable but non-core vs ads — relevant when judging Google Cloud cross-sell and whether productivity still drives enterprise GCP deals."
+    },
+    {
+      "ticker": "MSFT",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Office 365 resurgence after dismissing Google threat validates incumbent focus; Azure linkage matters more than Docs user counts."
+    }
+  ],
+  "golden_quotes": [
+    "\"Google is an advertising company\" — Ben on misaligned incentives vs Microsoft productivity focus.",
+    "\"Focus, focus, focus\" — David on the scarcest startup/big-co resource wasted on second-leg bets.",
+    "\"The wrong battleground\" — hosts on fighting feature parity instead of cloud/platform economics."
+  ],
+  "chronology": {
+    "subject": "Google Docs / Writely acquisitions",
+    "events": [
+      {
+        "date": "2005",
+        "event": "Google acquires 2Web Technologies (Excel2Web)"
+      },
+      {
+        "date": "2006-03",
+        "event": "Google acquires Writely (~$10M rumored)"
+      },
+      {
+        "date": "2006-06",
+        "event": "Google Spreadsheets launches in Labs"
+      },
+      {
+        "date": "2007",
+        "event": "Google acquires Tonic Systems and Zenter for presentations"
+      },
+      {
+        "date": "2007-09",
+        "event": "Google Docs & Spreadsheets suite goes public"
+      },
+      {
+        "date": "2007",
+        "event": "Dropbox founded; G Drive rumors begin"
+      },
+      {
+        "date": "2012",
+        "event": "Google Drive finally launches"
+      },
+      {
+        "date": "2016",
+        "event": "Acquired publishes Writely / Google Docs episode (Episode 9)"
+      },
+      {
+        "date": "2010s",
+        "event": "Office 365 overtakes Google Apps enterprise share"
+      },
+      {
+        "date": "Ongoing",
+        "event": "Real-time collaboration becomes table stakes in productivity software"
+      }
+    ]
+  }
+}

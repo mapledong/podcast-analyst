@@ -1,0 +1,134 @@
+{
+  "episode_id": "acq-superhuman",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 109,
+    "title": "Superhuman Part II - Designing Software to Feel like a Game",
+    "guest": "Rahul Vohra",
+    "guest_role": "Season 7",
+    "date": "2020-11-12",
+    "duration_minutes": 56,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/superhuman",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch v5.1 — Season 7/8 target batch | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Product-Market Fit",
+    "Premium SaaS",
+    "Sean Ellis Survey"
+  ],
+  "conclusion": "This Acquired LP episode visits Superhuman HQ with CEO Rahul Vohra (Rapportive sold to LinkedIn 2012) on PMF science, not game design. Superhuman spent ~2½ years pre-launch (Feb 2015–summer 2017): a year sketching, a year designing, 14-person team before ship — heresy versus MVP dogma but rational when competing with Gmail and Outlook in an established market. Pricing locked at $30/month from Crossing the Chasm early-adopter framing; waitlist grew to 180,000 with weekly admission throttles. Rahul's Sean Ellis-inspired survey: users who'd be \"very disappointed\" without the product define PMF; four-step loop segments lovers, builds for them, surveys ~40% disappointment threshold, then grows. Second-time-founder discipline let the team ignore premature-launch pressure — relevant as Airbnb, DoorDash, and Slack IPO season framed the conversation.",
+  "background": "Ben and David record at Superhuman's California Street office with Rahul and team present. Rapportive Gmail plugin history (LinkedIn acquisition) explains Rahul's email-domain obsession and why plugins cannot build enduring companies on Gmail/Microsoft rails. Deep dive covers intentional slow launch vs. land-grab markets (Uber iOS moment), Tesla-not-EV1 positioning, merged local/server search, contrarian design-agency hire, and algorithmic PMF measurement from First Round Review essay. LP audience gets hiring pitch; hosts tease covering Superhuman IPO on main show — still private at recording.",
+  "important_facts": [
+    "Superhuman charged $30 per month from launch — a premium email client backed by Gmail, validated via Crossing the Chasm early-adopter pricing.",
+    "Rahul Vohra sold Rapportive to LinkedIn in 2012 before founding Superhuman in 2014.",
+    "First line of code ~February 2015; summer 2017 (~2½ years later) 14-person team still pre-general launch with intentional slow rollout.",
+    "Waitlist reached roughly 180,000 prospective users; Superhuman admits a controlled number weekly to manage onboarding quality.",
+    "PMF benchmark: Sean Ellis survey — target ~40% of users \"very disappointed\" if product disappeared before scaling growth."
+  ],
+  "mental_model": {
+    "name": "Measured PMF for Premium Markets",
+    "components": "In existing high-bar markets (email), slow craftsmanship beats embarrassing MVP — land-grab rules apply only when timing demands speed. Price signals early-adopter positioning ($30/mo). PMF loop: (1) find users who love you, (2) build for them, (3) measure very-disappointed %, (4) grow when ~40% threshold hits. Waitlist throttle converts scarcity into onboarding quality. Second-time founders can ignore investor launch pressure.",
+    "application": "Segment users who love product before broadening — avoid averaging feedback across lukewarm trials. Use disappointment survey as transmission metric; passion is engine, process is gearbox. When platform risk (Gmail) looms, own native experience even via Electron. Premium pricing filters serious users and funds artisanal product cycles."
+  },
+  "competitive_advantage": "Superhuman's moat is speed (merged local/server search), keyboard-first UX, and onboarding concierge — flow state Gmail/Outlook rarely match. $30/month selects professionals spending 3+ hours daily in email; willingness to pay funds small-team craftsmanship. Rahul's Rapportive pedigree and PMF methodology credibility attract founder-customers and press — distribution via reputation and waitlist hype without gamified badges. Weaknesses: Gmail platform dependency; $30 limits TAM; 2½-year stealth invites fast-follow clones; email category faces Slack/async erosion. Electron performance ceiling; Microsoft/Google can absorb features. Waitlist frustration (David disqualified as iPad-primary) risks brand heat.",
+  "key_insights": [
+    {
+      "view": "MVP timing depends on market structure.",
+      "question": "When is slow launch rational?",
+      "answer": "Land-grab markets (post-iOS Uber moment) demand speed; entrenched high-quality incumbents (Gmail, Outlook) reward Tesla-style multi-year craft. Rahul shipped after 2½ years with 14 engineers — Reid Hoffman embarrassment rule rejected deliberately."
+    },
+    {
+      "view": "PMF is measurable, not mystical.",
+      "question": "What is the four-step loop?",
+      "answer": "Find users who love product; build only for them; run Sean Ellis 'very disappointed' survey; grow when ~40% threshold clears. Product changes guided by lover feedback — First Round Review essay codifies the algorithm."
+    },
+    {
+      "view": "Premium price is positioning.",
+      "question": "Why $30/month?",
+      "answer": "Crossing the Chasm early-adopter framing — price signals quality and filters serious professionals. Rahul unchanged pricing since launch; compares to iPhone plan psychology ($12.99 carrier tiers)."
+    },
+    {
+      "view": "Waitlist is a control knob.",
+      "question": "How manage 180,000 waitlist?",
+      "answer": "Weekly admission quotas balance onboarding capacity with hype — deliberate scarcity vs. land-grab free tiers. Referral governors prevent uncontrolled floods; concierge onboarding preserves NPS."
+    },
+    {
+      "view": "Plugins cannot become platforms.",
+      "question": "Why leave Rapportive for native app?",
+      "answer": "Rapportive peaked as Gmail plugin sold to LinkedIn; Rahul cites rule — few huge companies built solely on another platform's rails. Superhuman needs owned client experience despite Gmail data dependency."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "GOOGL",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Gmail incumbent Superhuman displaces among power users; Google's UX bar and workspace bundling determine whether premium email niche sustains."
+    }
+  ],
+  "golden_quotes": [
+    "\"If you're not embarrassed by the first version, you've launched too late\" — Reid Hoffman quote Rahul explicitly rejects for Superhuman's market.",
+    "\"Very disappointed\" — Sean Ellis PMF survey threshold Rahul adopted as scaling gate.",
+    "\"You can't build a big company on the back of somebody else's platform\" — David on Rapportive/Gmail plugin limits."
+  ],
+  "chronology": {
+    "subject": "Rahul Vohra / Superhuman",
+    "events": [
+      {
+        "date": "2000s",
+        "event": "Rahul builds games and Rapportive Gmail social graph plugin"
+      },
+      {
+        "date": "2012",
+        "event": "LinkedIn acquires Rapportive"
+      },
+      {
+        "date": "2014",
+        "event": "Rahul founds Superhuman"
+      },
+      {
+        "date": "Feb 2015",
+        "event": "First line of code; year of sketching begins"
+      },
+      {
+        "date": "2016",
+        "event": "Design phase; ~14-person team forms"
+      },
+      {
+        "date": "Summer 2017",
+        "event": "Still pre-launch; controlled user admissions"
+      },
+      {
+        "date": "2018+",
+        "event": "$30/month pricing; waitlist grows toward 180,000"
+      },
+      {
+        "date": "2019",
+        "event": "First Acquired main-show PMF episode (Season 5 finale)"
+      },
+      {
+        "date": "2020",
+        "event": "LP episode recorded at Superhuman HQ"
+      },
+      {
+        "date": "Ongoing",
+        "event": "PMF survey methodology published on First Round Review"
+      }
+    ]
+  }
+}

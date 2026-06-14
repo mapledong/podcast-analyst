@@ -1,0 +1,134 @@
+{
+  "episode_id": "acq-season-2-episode-2raising-a-seed-round-with-against-gravity-ceo-nick-fajt",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 48,
+    "title": "Raising a Seed Round",
+    "guest": "Against Gravity CEO Nick Fajt",
+    "guest_role": "Season 2 · Episode 2",
+    "date": "2018-02-06",
+    "duration_minutes": 80,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/season-2-episode-2raising-a-seed-round-with-against-gravity-ceo-nick-fajt",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch — v5.1-acquired; Season 2–3 batch | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Seed Fundraising",
+    "VR Gaming",
+    "Founder Interview"
+  ],
+  "conclusion": "Nick Fajt (Against Gravity, later Rec Room) joins Ben and David for a rare Acquired format: live deconstruction of an in-progress $5M seed round for a social VR gaming startup. Fajt — ex-Microsoft Hololens team — explains raising from Sequoia and others while building cross-platform 'Rec Room' before consumer VR hit scale. Hosts walk term sheet mechanics: pre-money valuation, option pool shuffle, pro-rata rights, and why Seattle VR cluster (Valve, Oculus partnerships) mattered. The company pivoted brand to Rec Room, grew free-to-play VR with 37M+ lifetime users (post-episode), and raised $100M+ Series D — but at recording (2018) success was uncertain. Episode is Acquired's best seed-stage fundraising masterclass.",
+  "background": "Season 2 Episode 2 breaks Acquired's usual historical format for a founder interview during active fundraising. Nick Fajt built Against Gravity in Seattle after Microsoft AR work — product was Rec Room, a social VR playground for Xbox/PlayStation/PC/mobile (VR optional). Ben (Pioneer Square Labs) and David walk cap table math, investor selection (Sequoia lead), and why VR timing was brutal (2018 headset install base tiny). Fajt discusses free-to-play monetization (cosmetics), community moderation, and building for flat-screen first with VR upside. Meta-lesson: raise when you have momentum narrative, not when broke — Fajt ran process with multiple term sheets. Ben contributes Pioneer Square Labs perspective on Seattle seed ecosystem — how local angels and Microsoft alumni de-risk hiring before Sand Hill leads. Fajt demos Rec Room live on air, showing social rooms and mini-games that convinced investors despite tiny VR TAM.",
+  "important_facts": [
+    "Against Gravity (Rec Room) raising ~$5M seed round during episode recording — Sequoia among lead investors discussed; Fajt previously on Microsoft Hololens team before founding.",
+    "Rec Room launched cross-platform (PC, console, mobile) with VR as enhancement — 2018 VR install base under 10M headsets globally, forcing flat-screen-first strategy.",
+    "Free-to-play cosmetics monetization — avatar items typically $0.99–$9.99 — no gameplay pay-to-win; similar to Fortnite/Roblox economics Fajt cited in pitch.",
+    "Seattle gaming cluster: 100+ game studios in metro area; proximity to Valve, Microsoft, and early Oculus relationships for distribution and talent.",
+    "Post-episode trajectory (context): rebranded Rec Room, raised $100M+ Series D (2021), 37M+ lifetime accounts and mobile expansion — seed round in episode preceded scale phase."
+  ],
+  "mental_model": {
+    "name": "Raise Into Strength, Not Exhaustion",
+    "components": "Fajt ran seed process with leverage — multiple interested investors, clear product demo (Rec Room social rooms), and narrative that VR timing risk is priced in but cross-platform optionality is free call option. Term sheet topics: 15–20% dilution typical seed, option pool expansion pre-money vs post-money, board seat (often observer at seed). Ben's PSL lens: Seattle founders can access SF capital without relocating. VR-specific: build for today's install base (console/PC) while positioning for tomorrow's headset curve. Fajt's Hololens background informed spatial UX but Rec Room prioritized fun sessions over tech demos — community retention metrics mattered more than polygon counts in seed pitch.",
+    "application": "Founders: start fundraising with 6+ months runway and working product — Fajt demoed live social rooms. Optimize for investor who understands gaming community dynamics, not generic SaaS metrics. Accept platform risk (Meta/Oculus) but diversify to PlayStation/Xbox/mobile. Investors: seed in VR requires belief in founder iteration speed when TAM timing uncertain. Optimize seed process for partner fit and pro-rata rights, not last-dollar valuation — Fajt chose Sequoia for gaming pattern recognition."
+  },
+  "competitive_advantage": "Rec Room's edge was social-first game design — parties, mini-games, user-generated rooms — not VR tech demo. Fajt's Hololens background informed spatial interaction but product prioritized fun over fidelity. Cross-platform from early days meant 2018 users on PS4 without VR headset still joined — critical when VR install base <10M. Community moderation and kid-safe branding (later COPPA compliance) differentiated from open VR chat rooms. Free-to-play cosmetics aligned incentives — no pay-to-win backlash. Seattle talent pool (Valve alumni, Microsoft game dev) lowered hiring friction. Weaknesses at seed: VR platform risk (Oculus/Meta controls destiny), tiny initial TAM, capital intensity of 3D content. Fortnite and Roblox competed for same teen social gaming minutes. Monetization per user lower than PC AAA titles — required scale for venture outcome. Versus Roblox: Rec Room more session-based social VR; Roblox UGC empire larger. Versus AltspaceVR: Rec Room survived by going cross-platform early. Episode captures seed-stage uncertainty before 2020+ VR and mobile growth validated thesis. Rec Room's post-seed trajectory — 37M+ lifetime accounts, $100M+ Series D (2021), mobile as primary growth driver — validated Fajt's cross-platform thesis while VR install base stayed modest. For seed investors, episode demonstrates what 'good' looks like: live product demo, multiple term sheets, Sequoia lead with gaming-domain fit, and honest VR timing risk disclosure. Against Gravity rebrand to Rec Room clarified consumer brand. Meta-lesson: social gaming seeds are judged on community retention and cosmetics ARPU, not headset shipment forecasts.",
+  "key_insights": [
+    {
+      "view": "Cross-platform de-risks VR timing.",
+      "question": "Why build for PS4 when pitching VR investors?",
+      "answer": "2018 global VR headsets under 10M — pure VR company dies waiting for TAM. Rec Room ran on flat screens with VR optional — revenue and engagement today, optionality tomorrow. Fajt framed VR as accelerant not requirement. Sequoia bought cross-platform hedge; lesson applies to AR today. PS4/PC users without VR headsets still hosted Rec Room parties — TAM today not tomorrow."
+    },
+    {
+      "view": "Seed term sheets are negotiable if you have leverage.",
+      "question": "What did Fajt negotiate?",
+      "answer": "Multiple term sheets let Fajt optimize partner fit, not just valuation. Option pool shuffle pre-money common trap — Ben explains dilution math live. Pro-rata rights for lead investor signal follow-on confidence. Board observer vs seat — seed-stage founders retain control. Process run from strength with months of runway remaining. Option pool shuffle pre-money dilution explained live — common founder trap."
+    },
+    {
+      "view": "Social VR is community product, not hardware product.",
+      "question": "Why did Against Gravity win vs Altspace?",
+      "answer": "Focus on games and parties — immediate fun loop — versus corporate meeting use cases. Moderation and kid-friendly design built trust for parents. Cosmetics monetization matched Fortnite generation expectations. Hardware-agnostic distribution meant community persisted across platform shifts. Moderation and kid-safe design differentiated from Altspace corporate-meeting focus."
+    },
+    {
+      "view": "Seattle can raise SF-caliber seed.",
+      "question": "Does geography matter at seed?",
+      "answer": "Fajt accessed Sequoia despite Seattle HQ — product demo traveled. PSL ecosystem (Ben) and Microsoft alumni network provided intros. Gaming talent locally deep (Valve, Bungie alums). Lesson: relocate optional if product compelling; VR/gaming investors fly to demos. Sequoia flew to Seattle demo — product quality beat geography bias."
+    },
+    {
+      "view": "Free-to-play is default for social gaming seed pitches.",
+      "question": "Why not premium VR title?",
+      "answer": "Premium ($30) caps revenue on small install base; cosmetics and battle pass scale with DAU. Fortnite/Roblox proved model — Fajt cited comparables in pitch. Investors want LTV expansion curves, not one-time unit sales. Content updates drive retention without sequel dependency. Cosmetics $0.99–$9.99 items scale with DAU — premium VR titles cap at install base."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Rec Room became category winner in social gaming — episode seed fundamentals (cross-platform, F2P cosmetics) explain later $100M+ raises independent of VR headset curve."
+    }
+  ],
+  "golden_quotes": [
+    "\"We raised when we had leverage — not when we were running out of money\" — Fajt on seed process timing.",
+    "\"Build for the platforms that exist today, not the ones you hope exist tomorrow\" — cross-platform VR strategy.",
+    "\"This is a community product — the game is just the excuse to hang out\" — on Rec Room social design."
+  ],
+  "chronology": {
+    "subject": "Against Gravity · Rec Room · Nick Fajt",
+    "events": [
+      {
+        "date": "2014–2015",
+        "event": "Nick Fajt leaves Microsoft Hololens team; founds Against Gravity"
+      },
+      {
+        "date": "2016",
+        "event": "Rec Room launches in early access — social VR gaming focus"
+      },
+      {
+        "date": "2016–2017",
+        "event": "Cross-platform expansion to PlayStation and PC flat-screen"
+      },
+      {
+        "date": "2018-02",
+        "event": "Acquired records episode during ~$5M seed fundraise"
+      },
+      {
+        "date": "2018",
+        "event": "Sequoia-led seed closes — term sheet mechanics discussed on air"
+      },
+      {
+        "date": "2019",
+        "event": "Mobile and console growth beyond core VR install base"
+      },
+      {
+        "date": "2020",
+        "event": "COVID accelerates social gaming engagement industry-wide"
+      },
+      {
+        "date": "2021",
+        "event": "Rec Room raises $100M+ Series D; rebrand from Against Gravity"
+      },
+      {
+        "date": "2021+",
+        "event": "37M+ lifetime accounts reported — mobile key growth driver"
+      },
+      {
+        "date": "2021+",
+        "event": "Validates seed thesis: cross-platform social gaming beyond VR niche"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "episode_id": "acq-season-2-episode-3nest",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 49,
+    "title": "Nest",
+    "guest": "Nest",
+    "guest_role": "Season 2 · Episode 3",
+    "date": "2018-02-19",
+    "duration_minutes": 99,
+    "youtube_url": "",
+    "links": {
+      "youtube": "",
+      "acquired": "https://www.acquired.fm/episodes/season-2-episode-3nest",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch — v5.1-acquired; legacy season batch | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Smart Home",
+    "Tony Fadell",
+    "Google Hardware"
+  ],
+  "conclusion": "Google acquired Nest Labs in January 2014 for $3.2B in cash — betting Tony Fadell's Apple-honed hardware taste could crack the smart home. Fadell co-invented the iPod at General Magic alumni network (alongside Android founder Andy Rubin), led 18 generations of iPod and early iPhone, then retired to build a green thermostat. Nest Learning Thermostat ($249) sold millions by making ugly HVAC controls desirable; Protect smoke detectors and Dropcam followed. Integration failed: Nest stayed separate until 2018 reorg, Fadell departed 2016, and Google merged Nest into Home division. The episode asks whether $3.2B bought design DNA or merely expensive optionality in a category Apple and Amazon eventually contested.",
+  "background": "Season 2 Episode 3 (~99 min, February 2018) covers Google's January 2014 $3.2B cash Nest acquisition — timed with news Google would merge Nest into main hardware under Rick Osterloh. Ben and David trace Tony Fadell from General Magic and Philips through 18 iPod generations and iPhone hardware to Nest's $249 Learning Thermostat. Episode covers GV's early 12% stake, Alphabet reorg undoing Nest's five-year independence runway, Dropcam culture clash, Echo versus Google Home install bases, and whether Google bought design DNA or expensive smart-home optionality.",
+  "important_facts": [
+    "Google acquired Nest Labs January 13, 2014 for $3.2 billion cash with ~280 employees — roughly $11 million per employee. Google Ventures owned ~12% from October 2011 $55 million Series B; SEC 10-Q valued prior stake at $152 million with $2.35 billion goodwill for expected synergies.",
+    "Tony Fadell co-created iPod at Apple, led 18 generations of iPod, co-led iPhone hardware, then founded Nest in 2010 after General Magic and Philips. Co-founder Matt Rogers joined as Carnegie Mellon intern on iPod team. Nest Learning Thermostat launched October 2011 at $249 retail; January 2013 Series C raised $80 million at $800 million pre-money on ~50,000 thermostats shipped per month — over $100 million annual revenue run rate ~15 months post-launch, still unprofitable through acquisition.",
+    "Nest raised ~$145 million total venture capital with only ~$51 million cash on balance sheet at close — implying ~$100 million burned on hardware supply chain before acquisition. October 2011 $55 million Series B (Google Ventures lead) and January 2013 $80 million Series C were early mega-rounds for a hardware startup still unprofitable; SEC attributed $430 million to intangibles at close.",
+    "Deal terms promised YouTube-style independence: Tony Fadell CEO, separate offices, reported five-year runway without financial accountability (reported, not public). Alphabet reorg end 2015 redid agreements; Ruth Porat CFO arrival brought financial discipline. Other Bets segment later reported ~$2.44 billion operating losses while Google core profit exceeded ~$24 billion.",
+    "Voice hub war: September 2017 report cited ~20 million Amazon Echo units sold versus ~7 million Google Homes; Amazon added tens of millions more over 2017 holidays — hosts estimate 40+ million Echo versus 10–15 million Google Home on same growth curve. Google Home launched late 2016 from separate hardware division — not Nest — while Fadell departed June 2016; February 2018 Nest merged into Google Home hardware under Rick Osterloh."
+  ],
+  "mental_model": {
+    "name": "Design-Led Hardware Inside Ad-Driven Software Co",
+    "components": "Google excels at software scale and ad monetization; premium hardware needs taste, supply chain, and brand patience Fadell honed across 18 iPod generations. $3.2 billion bought team and thermostat traction — ~50,000 units/month at $250 — not a home OS: voice became bundle point Amazon captured first. Integration failed when ad-company financial discipline (Ruth Porat, Alphabet Other Bets scrutiny) collided with Nest's reported five-year independence runway and hardware burn (~$100M before close).",
+    "application": "When big tech buys hardware founders, model cultural fit and whether standalone P&L survives corporate reorg. Nest kept separate identity until 2018 merge — signal Google could not absorb premium positioning inside search-ad culture. Dropcam integration disaster (CEO emailing Larry Page to fire Fadell) shows founder-led hardware rarely survives ad-company politics. Smart home winners may be voice ecosystems (20M+ Echo lead) not beautiful wall thermostats; investors in GOOGL hardware should track Matter/Home attach versus Amazon Ring/Alexa commerce flywheel."
+  },
+  "competitive_advantage": "Nest's early moat was industrial design plus learning algorithm — thermostat that programs itself from behavior, sold through Apple Stores and Best Buy/Lowe's/Home Depot shelves Fadell's Apple supply-chain relationships enabled. Second-gen thermostat reached ~85–90% home wiring compatibility. Google added data-center ML path and cross-subsidy from search profits; Dropcam extended security cameras. Weaknesses: April 2014 Protect smoke-detector recall halted sales; Dropcam culture clash and delayed security products; voice hub captured by Amazon Echo while Google Home launched outside Nest org. Premium $249 pricing limited mass adoption versus sub-$50 Alexa dots. Alphabet Other Bets losses (~$2.44B) and Project Amalfi sell attempt signaled strategic doubt; 2018 Nest-Home merge under Osterloh formalized loss of independent brand. Versus Apple HomeKit (slow) or Amazon (voice-first), Nest won thermostat niche but lost platform war Fadell's General Magic alumni network (Andy Rubin parallel) predicted.",
+  "key_insights": [
+    {
+      "view": "$3.2B bought Apple hardware DNA, not smart home victory.",
+      "question": "Why pay billions for thermostats?",
+      "answer": "Google feared missing next platform after mobile — home sensors and connected devices generate data and lock-in. Fadell proved hardware taste at $249 price point; ~50,000 thermostats/month by January 2013 validated premium tier at $100M+ run rate under three years from founding. Larry Page bet Nest becomes home OS before Amazon or Apple seal category — but $2.35B of $3.2B purchase price was goodwill for synergies, not current cash flows, per SEC filing."
+    },
+    {
+      "view": "General Magic alumni shaped two mobile eras.",
+      "question": "What's the Andy Rubin connection?",
+      "answer": "Fadell and Andy Rubin both passed through General Magic (1990) — failed PDA pioneer training a generation including Pierre Omidyar. Rubin built Android (Google's 2005 acquisition parallels Nest playbook); Fadell built iPod then Nest. Episode frames smart home as sequel to smartphone platform wars — same alumni network, different form-factor pivots. Android was digital cameras inside Google before phones; Nest was appliances before voice hub."
+    },
+    {
+      "view": "Dropcam integration was cultural catastrophe.",
+      "question": "What integration mistake hurt Nest?",
+      "answer": "June 2014 Nest acquired Dropcam after Google CorpDev routed deal to Nest. Apple-DNA Nest (Fadell, Matt Rogers from iPod team) clashed with YC-scrappy Dropcam (Greg Duffy from first YC batch). Duffy emailed Larry Page demanding Tony be fired; Fadell told press Dropcam team was 'not as good as we hoped.' Planned Nest security product delayed indefinitely while Dropcam roadmap shelved. Lesson: premium hardware integration requires founder alignment — not just product adjacency."
+    },
+    {
+      "view": "Voice beat touch for home hub.",
+      "question": "Did Nest lose to Echo?",
+      "answer": "Nest thermostat succeeded in premium niche; Amazon Echo (2014) became command center for lights, music, and shopping. September 2017 data: ~20 million Echo units versus ~7 million Google Homes before holiday surge. Google Home launched late 2016 from separate hardware division — not Nest — despite blog-post revisionism. Voice is home bundle point; walking to wall thermostat lost to 'Alexa, turn off lights.' Google Assistant on phones existed but Amazon shipped dedicated hub first."
+    },
+    {
+      "view": "Alphabet reorg ended Nest independence.",
+      "question": "Why did Fadell leave 2016?",
+      "answer": "End-2015 Alphabet creation redid Nest-Google agreements — reported five-year financial runway vanished. Ruth Porat brought Morgan Stanley discipline; Other Bets losses (~$2.44B) triggered Project Amalfi sell attempt. Fadell worked Google Glass redesign while staying for retention packages; NLRB complaint May 2016 marked firestorm before June exit. Marwan Faraj replaced him; Nest finally shipped Secure, Hello doorbell, and ML cameras under new leadership — too late for voice hub race."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "AMZN",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Echo voice-hub victory (~20M+ units versus ~7M Google Homes pre-holiday 2017) and 'Works with Alexa' CES ecosystem cement smart-home commerce flywheel; Nest fragmentation validated Amazon platform lead."
+    }
+  ],
+  "golden_quotes": [
+    "\"Tony Fadell made thermostats sexy — that's not a sentence anyone said before 2011.\" — Hosts on design-led category creation.",
+    "\"Three point two billion for the iPod guy's retirement project.\" — David on deal headline.",
+    "\"Eleven million bucks per employee — and they were still burning cash.\" — Hosts on $3.2B for 280-person hardware team."
+  ],
+  "chronology": {
+    "subject": "Nest · Google · Tony Fadell",
+    "events": [
+      {
+        "date": "1990",
+        "event": "General Magic founded; Fadell and Andy Rubin among alumni"
+      },
+      {
+        "date": "2001",
+        "event": "Tony Fadell joins Apple; leads iPod development"
+      },
+      {
+        "date": "2007",
+        "event": "Fadell co-leads iPhone hardware program"
+      },
+      {
+        "date": "2010",
+        "event": "Fadell founds Nest Labs after leaving Apple"
+      },
+      {
+        "date": "2011",
+        "event": "Nest Learning Thermostat launches at $249 retail"
+      },
+      {
+        "date": "Jan 2014",
+        "event": "Google acquires Nest for $3.2B cash"
+      },
+      {
+        "date": "2014",
+        "event": "Nest buys Dropcam for $555M; Amazon launches Echo"
+      },
+      {
+        "date": "2016",
+        "event": "Google bricks Revolv hubs; Fadell departs Nest"
+      },
+      {
+        "date": "Feb 2018",
+        "event": "Google merges Nest into Home hardware division"
+      },
+      {
+        "date": "2018-02-19",
+        "event": "Acquired publishes Nest acquisition episode"
+      }
+    ]
+  }
+}

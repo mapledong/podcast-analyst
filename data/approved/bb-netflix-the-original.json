@@ -1,0 +1,114 @@
+{
+  "episode_id": "bb-netflix-the-original",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 86,
+    "title": "Netflix: The Original",
+    "guest": "Netflix",
+    "guest_role": "Public · NFLX",
+    "date": "2022-11-30",
+    "duration_minutes": 56,
+    "youtube_url": "",
+    "links": {
+      "colossus": "https://joincolossus.com/episodes/99430832/weiss-netflix-the-original",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "NFLX",
+    "Streaming",
+    "Original Content",
+    "Advertising"
+  ],
+  "conclusion": "Netflix is no longer just a subscriber-growth story; it is becoming a global entertainment software business where fixed content spend can turn scale into free cash flow. The thesis rests on product reliability, broad catalog depth, 100 million password-sharing households, and an ad tier that can widen access without diluting revenue per user.",
+  "background": "Jesse Pujji breaks down Netflix with Ben Weiss, CIO of 8th & Jackson. Netflix began in 1997 as a DVD-by-mail company, but Reed Hastings named it for the internet-delivered future. The company has since rebuilt itself four times: DVD to streaming in 2007, U.S. to international starting with Canada in 2010, licensed content to originals around 2013, and now pure subscription to subscription plus advertising. By 2022 Netflix operates in 190 countries, produces content in 40 countries, and has about 227 million paid subscribers, with roughly 73 million in the U.S. and Canada and 149 million outside the U.S. and Canada. Weiss frames the company as a rare marriage of entertainment and technology: Ted Sarandos built the content muscle, Reed Hastings built the software culture, and Greg Peters is architecting the advertising business.",
+  "important_facts": [
+    "Netflix will generate about $30 billion of 2022 revenue from roughly 227 million paid subscribers. Average revenue per member is about $11.85 per month globally, with the U.S. and Canada at $16.37 and Asia Pacific much lower at roughly $7.34. The company has an estimated 100 million-plus households globally sharing passwords, including about 30 million in the U.S. and Canada, while U.S. streaming is only about 37% of television viewing time.",
+    "Content assets have shifted from licensed to owned: in 2018 produced content was about $6 billion of $20 billion in content assets, or roughly 30%; by the latest quarter, produced content was about $20 billion of $30 billion, or about 60%. Netflix expects cash content spending around $17-18 billion to be the right zip code for the next few years.",
+    "The 2022 P&L is roughly $30 billion of revenue, $18 billion of content amortization, about $2.6 billion each in marketing and technology development, G&A near 5% of revenue, and operating margin around 20%. Free cash flow is only about $1 billion now, but Weiss models a path to $40 billion of revenue, $12 billion of operating profit, and about $10 billion of after-tax profit if content spend stays fixed."
+  ],
+  "mental_model": {
+    "name": "Fixed Content Engine, Expanding Audience",
+    "components": "Build a global catalog once, then push more viewing, members, price, ads, and IP extensions through the same content base. Netflix's edge is not only shows; it is app reliability, personalization, Open Connect distribution, cloud infrastructure, subtitling, dubbing, and a culture willing to go all-in on the next transition. The product is entertainment, but the scaling law looks like software once content cash spend plateaus.",
+    "application": "The key investor question is whether revenue can grow faster than content spend. If advertising monetizes 8% U.S. viewing, password sharing converts, and the ad tier expands access in lower-income markets, Netflix can turn a historically cash-consuming model into a high-margin free-cash-flow compounder. The risk is a content treadmill where churn forces ever-higher spend just to hold engagement. The upside case depends on the opposite: content spending near $17-18 billion supporting more subscribers, more price, and more ad inventory without proportional cost growth."
+  },
+  "key_insights": [
+    {
+      "view": "Netflix's culture keeps surviving transitions.",
+      "question": "Why has Netflix handled four business pivots?",
+      "answer": "Weiss highlights customer-backward thinking, top-of-market talent, and a professional-sports-team culture. Netflix did not dabble in international expansion or original content; it committed fully when the opportunity was large and strategically necessary."
+    },
+    {
+      "view": "The essential service is broad and reliable.",
+      "question": "Why might households keep Netflix first?",
+      "answer": "Netflix has the broadest catalog for everyone in a household, from rom-coms and documentaries to stand-up and global series. Just as important, the app works: Open Connect has about 17,000 servers in 158 countries, and consumers notice when rivals buffer or fail."
+    },
+    {
+      "view": "Advertising is access, not just ARPU.",
+      "question": "What does the ad tier change?",
+      "answer": "The U.S. ad tier launched at $6.99 with about 4-5 minutes of ads per hour across 12 markets representing roughly 75% of global brand advertising. Netflix expects it to be ARPU neutral to accretive while opening a lower-price path for cost-sensitive and password-sharing users."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NFLX",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Weiss sees a path from about $30 billion of revenue and $1 billion of free cash flow to roughly $40 billion of revenue, $12 billion of operating profit, and $20 per share of earnings if content spend stays near $17-18 billion and ads/password conversion add revenue."
+    }
+  ],
+  "golden_quotes": [
+    "Netflix has been willing to go all in when the opportunity is big, whether streaming, international, originals, or ads.",
+    "If consumers choose one service, Netflix wants to be the one service the household keeps.",
+    "Experience is content: the app, subtitles, dubbing, recommendations, and reliability make the catalog more valuable."
+  ],
+  "chronology": {
+    "subject": "Netflix",
+    "events": [
+      {
+        "date": "1997",
+        "event": "Reed Hastings and Marc Randolph found Netflix as a DVD-by-mail business."
+      },
+      {
+        "date": "2002",
+        "event": "Netflix goes public, raising about $82.5 million at roughly a $300 million market value."
+      },
+      {
+        "date": "2007",
+        "event": "The company launches streaming, beginning the shift away from DVDs."
+      },
+      {
+        "date": "2010",
+        "event": "Netflix enters Canada, its first international market."
+      },
+      {
+        "date": "2013",
+        "event": "Original content accelerates with House of Cards and global-rights strategy."
+      },
+      {
+        "date": "2016",
+        "event": "Netflix goes fully international, making streaming a global business."
+      },
+      {
+        "date": "2018",
+        "event": "Bandersnatch showcases Branch Manager and interactive storytelling technology."
+      },
+      {
+        "date": "2022",
+        "event": "Netflix launches an ad-supported tier in 12 markets and confronts more than 100 million password-sharing households."
+      }
+    ]
+  },
+  "review_notes": "Manual GPT agent v4.10 | curated v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/tiny",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

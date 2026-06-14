@@ -1,0 +1,135 @@
+{
+  "episode_id": "acq-2017-holiday-special",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 46,
+    "title": "2017 Holiday Special",
+    "guest": "2017 Holiday Special",
+    "guest_role": "Season 1 · Episode 51",
+    "date": "2017-12-18",
+    "duration_minutes": 82,
+    "youtube_url": "",
+    "links": {
+      "youtube": "",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx",
+      "acquired": "https://www.acquired.fm/episodes/2017-holiday-special"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "Manual GPT Acquired batch — v5.1-acquired; acq-2017-holiday-special | optimized v5.4",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "keywords": [
+    "2017 Year Review",
+    "Bitcoin Mania",
+    "Prediction Scorecard"
+  ],
+  "conclusion": "Episode 51 (~82 min, Dec 18, 2017) closes Season 1 with a fireside format: Ben/David grade Episode 29's 2017 predictions (aggregation theory nailed; Snap IPO correct; VR still not mainstream; ML commoditization on track), recap 21 episodes recorded in 2017, and forecast 2018 — Ben picks Bitcoin at $28,000 on Dec 12, 2018 versus David's $2,000 (after peaking ~$30,000 first). Slack nears 1,100 members; SF meetup set Jan 18, 2018. Season 2 announced: ~10 episodes per six-month season with ~3-episode mini-series. Carve-outs span Shoe Dog, His Dark Materials, Blade Runner 2049, Odesza. Less structured than deal deep dives — intellectual honesty plus community building.",
+  "background": "Second annual holiday special (Dec 18, 2017) grades January 2017 Episode 29 predictions rather than making new ones alone. Hosts reflect on 51-episode Season 1, 2017 tech IPOs (26 in 2016, 33 in 2017 — Snap, Stitch Fix, Blue Apron, MongoDB among covered names), and crypto mania near $17,000 Bitcoin. Announce Season 2 format shift: six-month seasons of ~10 episodes including mini-series (Disney saga model formalized). SF listener meetup Jan 18, 2018 organized with Preet (PR33T on Slack). Extended carve-outs: Defiant Ones documentary, NYT AI awakening, Patrick McKenzie distribution essays, Creed, Last Jedi.",
+  "important_facts": [
+    "Episode 51 published December 18, 2017 — Season 1 capstone at approximately 82 minutes runtime. Hosts recorded 21 episodes in calendar 2017 (this holiday special being the 22nd recording of the year) across approximately 51 total Season 1 episodes since Acquired launched — closing the first year before Season 2's Zappos premiere.",
+    "Bitcoin traded near $17,000 on December 12, 2017 during recording — Ben predicted $28,000 (and 52 cents) for Dec 12, 2018; David predicted $2,000 after Bitcoin runs to ~$30,000 first, an order-of-magnitude spread. Crypto mania was absent from Episode 29's January 2017 forecast — hosts joke listeners will download Coinbase as the #1 App Store app for Christmas 2017 stocking stuffers.",
+    "Episode 29 (January 2017) predictions partially validated: Snap IPO March 2017 checked Ben's call; aggregation theory 'became even more important' as Facebook, Amazon, Google, and Apple consolidated power — patio11 tweet cited that B2C distribution runs through two destinations (Google or Facebook). Tech IPO count rose from 26 in 2016 to 33 in 2017 (Snap, Stitch Fix, Blue Apron, MongoDB, Okta among big names).",
+    "Acquired Slack community neared 1,100 members with accelerating exponential growth and more DM activity than main-channel chatter; SF meetup announced for evening of Thursday January 18, 2018 — Bay Area has densest listener concentration, organized with longtime listener Preet (PR33T on Slack) who sparked the event hosts had discussed but not executed.",
+    "Season 2 format announced: six-month seasons of approximately 10 episodes each, including roughly three-episode mini-series per season (seven standard acquired episodes plus three linked narratives like the informal Disney saga). Hosts teased 'Season 2 and Season 10 simultaneously' as a joke; Ben predicts Amazon HQ2 in Toronto for tax diversification, David picks Dallas/Austin Texas."
+  ],
+  "mental_model": {
+    "name": "Prediction Scorecard Discipline",
+    "components": "Make forecasts explicit (Episode 29, January 2017) then grade annually (Episode 51) — reduces hindsight bias. Holiday format prioritizes community (1,100+ Slack members, SF meetup), carve-outs, and format evolution over single-company analysis. Bitcoin price joke ($17K → Ben $28K vs David $2K for Dec 2018) anchors speculative versus operating-business investing distinction hosts maintain on M&A episodes. Aggregation theory scorecard: Facebook/Google as only scalable B2C distribution; patio11 tweet cited — hardest B2C problem is distribution, hardest B2B is sales.",
+    "application": "Investors and analysts should maintain written prediction logs with annual review — Acquired models intellectual honesty ('how wrong were we?') without formal rubric. Meta-episodes build audience trust between deep dives and justify format experiments (Season 2 mini-series). When grading predictions, separate controversial macro calls (aggregation theory) from falsifiable ones (VR mainstream, IPO count 26→33). Crypto mania December 2017 illustrates assets decoupled from operating metrics — hosts explicitly disclaim expertise."
+  },
+  "competitive_advantage": "Acquired holiday episodes humanize Ben/David — rose-in-hand fireside tone deepens listener relationship versus pure M&A factory. Prediction scorecard creates continuity incentive for annual listeners and links back to prior episodes (Snap IPO, Stitch Fix). Season format announcement (~10 episodes, mini-series) productizes content library compounding (Disney saga → formalized three-episode arcs). Slack community (1,100+, DM-heavy) becomes distribution moat for meetups and episode feedback. Weaknesses: dated crypto and 2017 headlines reduce evergreen value versus company histories. Versus news podcasts: ties year review to owned catalog of 51 episodes — recap strengthens back-catalog discovery.",
+  "key_insights": [
+    {
+      "view": "Episode 29 predictions mixed success.",
+      "question": "How wrong were we?",
+      "answer": "Snap IPO correct; VR 'not a big thing yet' — Oculus Kickstarter strong but mainstream adoption still hard; ML commoditization on track as algorithms stabilize and cloud vendors productize tools. Aggregation theory and 'big aggregators get bigger' both validated — Facebook/Google dominate consumer distribution, patio11 cited. UBI discussion entrenched proponents without broad new adoption. IPO count rose 26 to 33 — 'more, but nowhere near heyday.'"
+    },
+    {
+      "view": "2017 was crypto plus corp dev.",
+      "question": "Year themes?",
+      "answer": "Bitcoin near $17,000 and ICO frenzy concurrent with mega-M&A headlines hosts covered (Amazon/Whole Foods, Broadcom/Qualcomm bids) and tech IPOs (Snap, Stitch Fix, Blue Apron, MongoDB, Okta). Coinbase App Store prominence and Christmas crypto-gift joke highlight speculative cycle decoupled from Episode 29 forecasts. Low-rate environment heated both strategic M&A and speculative assets."
+    },
+    {
+      "view": "Community became product.",
+      "question": "Why meetup announcement?",
+      "answer": "Slack passed ~1,100 members with accelerating growth — DMs exceed main-channel chatter as listeners connect. SF meetup Jan 18, 2018 evening formalizes densest geographic cluster; listener Preet (PR33T) sparked event hosts had discussed but not executed. Sentry later sponsors acquired meetups per transcript ad read — community events extend podcast brand offline."
+    },
+    {
+      "view": "Carve-outs are discovery engine.",
+      "question": "Extended recommendations?",
+      "answer": "Defiant Ones HBO documentary (Beats episode tie-in), Square IPO as Ben's favorite for structured reasoning, Shoe Dog, His Dark Materials, NYT AI awakening, Patrick McKenzie distribution essays, Blade Runner 2049, Odesza — hosts curate adjacent learning beyond M&A. Holiday tradition releases before Christmas so carve-outs work as stocking stuffers for long drives."
+    },
+    {
+      "view": "Season 2 reframes content strategy.",
+      "question": "What's next?",
+      "answer": "After 51 episodes, Season 2 launches six-month blocks of ~10 episodes — ~3 mini-series slots plus seven standard deep dives. Lets hosts try radical formats for at most one season. Zappos/Alfred Lin Season 2 premiere imminent; hosts flag revisiting wrong grades (YouTube C, Instagram) as future mini-series. Ben predicts Amazon HQ2 in Toronto; David picks Texas (Dallas edge over Austin)."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "BTC",
+      "direction": "Short",
+      "confidence": "Low",
+      "thesis": "December 2017 mania near $17,000 — David forecast $2,000 by Dec 12, 2018 after ~$30,000 peak; hosts treat crypto as cultural/speculative moment decoupled from operating-business analysis, not allocation advice. Illustrates bubble dynamics Episode 29 missed entirely."
+    }
+  ],
+  "golden_quotes": [
+    "\"How wrong were we?\" — Episode 51 opening premise grading Episode 29 predictions.",
+    "\"What is the price of Bitcoin on December 12th, 2018?\" — Ben forcing a call with BTC near $17,000.",
+    "\"You think people are gonna give each other Bitcoin for Christmas?\" — David on Coinbase-as-stocking-stuffer mania."
+  ],
+  "chronology": {
+    "subject": "Acquired 2017 Holiday & Season 1",
+    "events": [
+      {
+        "date": "2016",
+        "event": "Acquired launches; first full season begins"
+      },
+      {
+        "date": "2017-01",
+        "event": "Episode 29 2017 predictions special"
+      },
+      {
+        "date": "2017-03",
+        "event": "Snap IPO validates one major prediction"
+      },
+      {
+        "date": "2017",
+        "event": "33 tech IPOs vs 26 in 2016; ML tools commoditize"
+      },
+      {
+        "date": "2017-12",
+        "event": "Bitcoin near $17,000; crypto mania peaks"
+      },
+      {
+        "date": "2017-12-18",
+        "event": "Episode 51 holiday special airs"
+      },
+      {
+        "date": "2018-01-18",
+        "event": "SF Acquired meetup announced date"
+      },
+      {
+        "date": "2018",
+        "event": "Season 2 launches with Zappos episode"
+      },
+      {
+        "date": "2018-12",
+        "event": "Bitcoin prediction joke ages — David's $2K closer than Ben's $28K"
+      },
+      {
+        "date": "2018",
+        "event": "Season format debuts ~10 episodes per six-month block"
+      }
+    ]
+  }
+}

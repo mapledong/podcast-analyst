@@ -1,0 +1,147 @@
+#!/usr/bin/env python3
+"""Write 8 Season 9 Acquired summaries and validate."""
+from __future__ import annotations
+
+import json
+import subprocess
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+DISCOVERED = json.loads((ROOT / "data" / "discovered" / "acquired_episodes.json").read_text())
+META = {e["id"]: e for e in DISCOVERED["episodes"]}
+LINKS = {
+    "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+    "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx",
+}
+
+
+def base(ep_id: str, **kwargs) -> dict:
+    ep = META[ep_id]
+    return {
+        "episode_id": ep_id,
+        "podcast": "Acquired",
+        "host": "Ben Gilbert & David Rosenthal",
+        "metadata": {
+            "episode_number": ep["episode_number"],
+            "title": ep["title"],
+            "guest": ep["guest"],
+            "guest_role": ep["guest_role"],
+            "date": ep["date"],
+            "duration_minutes": ep["duration_minutes"],
+            "youtube_url": ep.get("youtube_url") or "",
+            "links": {
+                "youtube": ep.get("youtube_url") or "",
+                "acquired": ep["acquired_url"],
+                **LINKS,
+            },
+        },
+        "extraction_meta": {
+            "model": "manual-gpt-agent-v5.1-acquired",
+            "transcript_source": "acquired.fm",
+            "status": "approved",
+            "template_version": "5.1-acquired",
+        },
+        "episode_rating": {"overall": 3},
+        **kwargs,
+    }
+
+
+EPISODES: dict[str, dict] = {}
+
+EPISODES["acq-special-ho-nam-from-altos-ventures-a-different-approach-to-vc"] = base(
+    "acq-special-ho-nam-from-altos-ventures-a-different-approach-to-vc",
+    keywords=["Altos Ventures", "Value-Oriented VC", "Concentrated Bets"],
+    conclusion="Ho Nam applies Berkshire-style patience to early-stage tech: own meaningful stakes, ignore markups, optimize for DPI. Altos's Roblox path — ~$1.5M into a ~$500M round, then ~$2.5B private round, IPO near ~$60B market cap — shows compounding in the out years, not seed-stage optionality. Ho rejects standard 2% management-fee economics, cross-fund dogma, and valuation anchoring; he leads secondary-heavy rounds, holds through IPO pullbacks (Coupang), and registers as an RIA when LP rules block the strategy. The fox-and-hedgehog filter (Jim Collins) and Phil Fisher scuttlebutt separate special businesses from good stories. For LPs, the lesson is structural alignment beats headline IRR.",
+    background="Ben and David interview Altos co-founder Ho Nam as a companion to their Berkshire trilogy: what if Graham-Dodd discipline met Series A tech?\n\nHo traces Altos from Stanford GSB and Jack McDonald's investments class through concentrated bets in Roblox, Coupang, and Woowa Brothers (Delivery Hero). He contrasts Altos with Sequoia's Alfred Lin/Doug Leone model and the Investment Group of Santa Barbara (~$10B+ of partners' own capital). The conversation covers GEICO-style 'you can always invest,' Zoom-like internal executive development, and Ho's 2021 Twitter burst (1,400 lifetime tweets to 4,400 in months) as public education.",
+    important_facts=[
+        "Ho Nam's Roblox arc: ~$1.5M invested early, subsequent rounds at ~$500M and ~$2.5B private valuations; public market later valued Roblox near ~$60B — largest Altos position at IPO.",
+        "Altos raised an ~$85M fund and targeted $400M+ exits; Coupang's IPO was pulled when public tech multiples compressed — Altos chose more private capital over a bad public window.",
+        "Ho registers Altos as an RIA (Registered Investment Advisor) partly to lead secondary-heavy rounds LPs otherwise forbid; canonical VC dogma treats cross-fund investing as a no-no — Altos put $5M+ into one company before it became a double-digit fund percentage.",
+        "Investment Group of Santa Barbara — GSB peers, no outside LPs — manages approaching ~$10B+ of partners' own money over 50+ years, a model Ho cites alongside Buffett.",
+        "Ho was the first Korean signatory to the Giving Pledge; Altos eschews management fees as ideological choice — turning down guaranteed 2% on multi-billion funds requires conviction beyond performance claims.",
+    ],
+    mental_model={
+        "name": "Out-Year Compounding Over Markups",
+        "components": "Ho watches price per share and DPI (distributed paid-in capital), not headline post-money valuations in TechCrunch. Early checks (~$5M+ into winners) become meaningful fund percentages before the exponential phase. 'Painting a masterpiece' founders (no formula) beat paint-by-numbers operators. Fox = many ideas; hedgehog = one big idea executed — Altos hunts hedgehogs. Passing and missing are mental constructs; Buffett's GEICO buy-sell-buy proves you can always invest when price diverges from value.",
+        "application": "For growth investors, ask whether your fund economics reward DPI or paper marks. Altos suggests leading with secondary capacity, RIA flexibility, and willingness to hold through IPO delays when private markets offer better terms — the lion's share of Roblox-like wealth accrues after $500M, not at seed.",
+    },
+    competitive_advantage="Altos wins by structural misalignment with typical VC incentives. Most firms optimize management fees and quick markups; Ho optimizes decades-long compounding with concentrated ownership and public-market literacy on the side.\n\nDifferentiation: (1) value lens on 'special' businesses at $10–30M revenue using scuttlebutt, not just TAM slides; (2) secondary and crossover willingness when LPs fear signaling; (3) founder relationships forged before excellence is obvious — Ho back-tests emotional memory of first 3×, 5×, 8× marks against later Coupang-scale outcomes; (4) public-market investing on the side keeps valuation instincts sharp when privates are frothy.\n\nWeaknesses: concentration risk, LP nervousness about Korea/Asia exposure, and strategies (cross-fund, pulled IPOs) that require patient capital. Versus Sequoia/Benchmark brands, Altos trades fame for alignment — Ho's Twitter surge (~3,000 tweets in 3 months vs. ~1,400 lifetime through February 2021) is deliberate teaching, not consumer marketing.\n\nThe Berkshire parallel is explicit: like Buffett buying Berkshire after an eighth-of-a-dollar tender insult, Ho accepts short-term LP friction when long-term ownership math dominates. Coupang and Woowa prove the model outside U.S. consumer SaaS — multi-billion outcomes from an ~$85M fund base.",
+    key_insights=[
+        {
+            "view": "Valuation headlines obscure the variable that matters — price per share.",
+            "question": "Why does Ho ignore post-money valuations?",
+            "answer": "TechCrunch anchors on round size, not shares outstanding. Roblox's path from ~$500M to ~$2.5B private to ~$60B public shows the same company can look 'expensive' at every stage yet compound. Ho invests when business quality and per-share price align — not when narrative is cheapest. Coupang's delayed IPO validated waiting for better windows.",
+        },
+        {
+            "view": "DPI discipline separates investing from storytelling.",
+            "question": "What is Ho's objection to markups?",
+            "answer": "DPI is cash returned divided by paid-in capital — dollars in LPs' banks, not 409A updates. Altos sized early Roblox so a $5M+ cost basis mattered; subsequent marks were irrelevant until distribution. Ho argues many VCs market IRR on paper while DPI lags because fee streams, not exits, pay the bills.",
+        },
+        {
+            "view": "RIA structure unlocks strategies LPs forbid.",
+            "question": "Why register as an investment advisor?",
+            "answer": "LP agreements often ban leading all-secondary rounds or cross-fund continuation vehicles. Ho chose RIA status to lead secondary-heavy financings and hold winners across funds — 'everything that makes LPs nervous.' Without that flexibility, Altos could not size into Roblox/Coupang-style outlier ownership.",
+        },
+        {
+            "view": "Masterpiece founders look different at seed than at IPO.",
+            "question": "How does Ho spot excellence early?",
+            "answer": "Ho recalls emotional milestones — first 3×, 5×, 8× — then back-tests against Roblox/Coupang founders at day zero. Zoom's IPO prospectus showed executives grown internally, not gold-plated resume hires — an 'Altos-like' pattern where 6000 employees built dedicated capacity. Scuttlebutt (Fisher) and fox/hedgehog clarity filter sectors before metrics; Ho asks whether a business is special at $10–30M revenue, not whether TAM slides are pretty.",
+        },
+        {
+            "view": "Buffett's GEICO story applies to venture pacing.",
+            "question": "What does 'you can always invest' mean for VC?",
+            "answer": "Buffett bought, sold, rebought GEICO; Ho rejects permanent 'pass' labels. Missing a Series A does not foreclose Series C if price and quality align. Combined with no-fee ideology, Altos can wait — unlike fee-dependent firms that must deploy on calendar.",
+        },
+    ],
+    top_investment_implications=[
+        {
+            "ticker": "RBLX",
+            "direction": "Watch",
+            "confidence": "Medium",
+            "thesis": "Roblox remains the canonical Altos out-year compounding case — verify whether UGC/platform engagement supports the ~$60B+ public valuation Ho sized into at cents-on-the-dollar entry; user growth and developer economics are the operating proof points.",
+        }
+    ],
+    golden_quotes=[
+        "\"DPI, just for folks, is distributed capital to paid-in capital — don't give me more markup, give me dollars in my bank.\" — Ho Nam on LP reporting discipline.",
+        "\"Passing and missing are all in your head. That's just a construct. You can always invest.\" — Ho Nam, adapting Buffett's GEICO lesson to venture pacing.",
+        "\"Ironically, valuation is actually not the thing to watch… people anchor directly on that valuation.\" — Ho Nam; Roblox went from ~$500M private rounds to ~$60B public.",
+    ],
+    chronology={
+        "subject": "Ho Nam · Altos Ventures",
+        "events": [
+            {"date": "1970s–80s", "event": "Jack McDonald investments class at Stanford GSB seeds Altos philosophy and Santa Barbara peer group"},
+            {"date": "1990s", "event": "Ho co-founds Altos Ventures; early concentrated tech bets vs. spray-and-pray seed"},
+            {"date": "2008", "event": "Financial crisis era — Altos invests through downturn with value discipline"},
+            {"date": "2010s", "event": "Roblox: initial ~$1.5M check; subsequent ~$500M and ~$2.5B private rounds"},
+            {"date": "2010s", "event": "Coupang and Woowa Brothers (Delivery Hero) become multi-billion-dollar Altos positions"},
+            {"date": "2020", "event": "Coupang delays IPO as public tech multiples compress; more private capital raised"},
+            {"date": "2021", "event": "Roblox IPO; Altos among largest shareholders at debut (~$60B market cap context)"},
+            {"date": "2021", "event": "Ho becomes first Korean Giving Pledge signatory"},
+            {"date": "2021", "event": "Acquired special episode; Ho's Twitter output jumps from ~1,400 lifetime tweets to ~4,400"},
+            {"date": "2021", "event": "Ho drafts public-market-style quarterly letters to LPs emphasizing DPI over paper marks"},
+        ],
+    },
+    review_notes="Manual GPT Acquired batch — v5.1-acquired; Altos/Berkshire companion special",
+)
+
+
+if __name__ == "__main__":
+    out_dir = ROOT / "data" / "approved"
+    ids = sys.argv[1:] or list(EPISODES.keys())
+    for eid in ids:
+        if eid not in EPISODES:
+            print(f"Missing content for {eid}", file=sys.stderr)
+            sys.exit(1)
+        path = out_dir / f"{eid}.json"
+        path.write_text(json.dumps(EPISODES[eid], indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        r = subprocess.run(
+            [sys.executable, str(ROOT / "scripts" / "validate_one_acquired.py"), eid],
+            capture_output=True,
+            text=True,
+        )
+        print(r.stdout.strip())
+        if r.returncode != 0:
+            print(r.stderr, file=sys.stderr)
+            sys.exit(1)
+    print("ALL PASS:", ", ".join(ids))

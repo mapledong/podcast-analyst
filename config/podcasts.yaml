@@ -1,0 +1,34 @@
+# Podcast catalog for the summary library website
+
+podcasts:
+  - id: invest-like-the-best
+    name: Invest Like the Best
+    host: Patrick O'Shaughnessy
+    description: Long-form conversations with investors, founders, and operators — distilled into PM-ready summaries.
+    apple_podcast_id: 1154105909
+    accent_color: "#C45D3E"
+    youtube_url: https://www.youtube.com/@ILTB_Podcast
+
+  - id: acquired
+    name: Acquired
+    host: Ben Gilbert & David Rosenthal
+    description: Deep dives on great companies and how they were built — distilled into PM-ready summaries.
+    apple_podcast_id: 1050462261
+    accent_color: "#1B3A4B"
+    youtube_url: https://www.youtube.com/@AcquiredFM
+
+  - id: founders
+    name: Founders
+    host: David Senra
+    description: Biographies of history's greatest entrepreneurs — distilled into PM-ready summaries.
+    apple_podcast_id: 1141877104
+    accent_color: "#2D5016"
+    youtube_url: https://www.youtube.com/@founderspodcast1
+
+  - id: business-breakdowns
+    name: Business Breakdowns
+    host: Matt Reustle & Zack Fuss
+    description: Colossus show dissecting public companies and private giants — model, financials, and competitive edge in PM-ready summaries.
+    apple_podcast_id: 1559120677
+    accent_color: "#0068B3"
+    youtube_url: https://www.youtube.com/@joincolossus

@@ -1,0 +1,120 @@
+{
+  "episode_id": "ep425",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 425,
+    "title": "Building Alpine",
+    "guest": "Graham Weaver",
+    "guest_role": "",
+    "date": "2025-05-27",
+    "duration_minutes": 90,
+    "youtube_url": "https://www.youtube.com/watch?v=u2nHljZeMQ8",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=u2nHljZeMQ8",
+      "colossus": "https://joincolossus.com/episode/building-alpine/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 2
+  },
+  "keywords": [
+    "Private Equity",
+    "Talent Development",
+    "Small Business"
+  ],
+  "conclusion": "Weaver's Alpine story is private equity rebuilt around people. The firm wants 5x MOIC, but the edge is not auction math; it is buying small retiring-owner businesses and installing hungry CEOs, often operators Alpine trained before the acquisition.",
+  "background": "Graham Weaver describes Alpine's three north stars: become the top-performing private-equity fund by MOIC, become the best place to work for top talent, and use the platform as a force for good. His personal story runs from a difficult childhood and wrestling to buying businesses out of business school and learning by doing. The practical Alpine model is a deliberate search for winnable games: avoid heavily banked auctions, find small companies that need new leadership, build the management team and holdco, then compound through operating improvement and add-ons.",
+  "important_facts": [
+    "Alpine's stated target is 5x on every fund; Weaver says the last three funds are marked at 5x and the fourth is well on its way, after originally thinking 3x would put them in the conversation. Key quantitative evidence: Alpine's stated target is 5x on every fund; Weaver says the last three funds are marked at 5x and the fourth is well on its way, after originally thinking 3x would put them in the conversation.",
+    "The firm often targets businesses like a $20M revenue plumbing company in Ball, Louisiana, where the hard part is installing a CEO, IT systems, and operating cadence rather than winning a crowded auction among 5,500 private-equity funds. The firm wants 5x MOIC, but the edge is not auction math; it is buying small retiring-owner businesses and installing hungry CEOs, often operators Alpine trained before the acquisition.",
+    "Weaver's earliest deals included roughly $0.5M EBITDA businesses bought for about $2M, often with $1M seller financing and even credit-card checks. The first three collectively ended around 1x, while a later label-printing deal helped fund Alpine. The firm often targets businesses like a $20M revenue plumbing company in Ball, Louisiana, where the hard part is installing a CEO, IT systems, and operating cadence rather than winning a crowded auction among 5,500 private-equity funds."
+  ],
+  "mental_model": {
+    "name": "Talent Alpha In Boring Markets",
+    "components": "Alpine competes in places where talent matters more than auction access. Do a hard, operational game few firms want: succession-heavy small companies where the owner is retiring and the buyer must bring the CEO, systems, and culture. Alpine's stated target is 5x on every fund; Weaver says the last three funds are marked at 5x and the fourth is well on its way, after originally thinking 3x would put them in the conversation. The metric shapes the behavior. A 5x MOIC goal encourages holding and building great businesses instead of selling winners quickly to show a high IRR or raise the next fund. The firm often targets businesses like a $20M revenue plumbing company in Ball, Louisiana, where the hard part is installing a CEO, IT systems, and operating cadence rather than winning a crowded auction among 5,500 private-equity funds. Alpine's young-CEO model came from conviction, not convenience. Weaver believes extraordinary leaders create the alpha. Once Alpine saw it could develop operators and pair them with the right industries, it burned the boats and became known as the buyer for owners who want to leave.",
+    "application": "Weaver's Alpine story is private equity rebuilt around people. The firm wants 5x MOIC, but the edge is not auction math; it is buying small retiring-owner businesses and installing hungry CEOs, often operators Alpine trained before the acquisition. Alpine's operator-development system gives it a repeatable edge in lower-middle-market companies where succession and management depth are the constraint Succession-driven services companies can reward buyers that bring CEOs, systems, and holdco support rather than only capital The practical investment lesson is talent-led ownership of boring cash-flow businesses, though execution risk is high and there is no clean public-market proxy Alpine's stated target is 5x on every fund; Weaver says the last three funds are marked at 5x and the fourth is well on its way, after originally thinking 3x would put them in the conversation. The firm often targets businesses like a $20M revenue plumbing company in Ball, Louisiana, where the hard part is installing a CEO, IT systems, and operating cadence rather than winning a crowded auction among 5,500 private-equity funds. The first three collectively ended around 1x, while a later."
+  },
+  "key_insights": [
+    {
+      "view": "Alpine competes in places where talent matters more than auction access.",
+      "question": "How do you win when private equity has thousands of funds?",
+      "answer": "Do a hard, operational game few firms want: succession-heavy small companies where the owner is retiring and the buyer must bring the CEO, systems, and culture. Alpine's stated target is 5x on every fund; Weaver says the last three funds are marked at 5x and the fourth is well on its way, after originally thinking 3x would put them in the conversation."
+    },
+    {
+      "view": "The metric shapes the behavior.",
+      "question": "Why obsess over MOIC instead of IRR?",
+      "answer": "A 5x MOIC goal encourages holding and building great businesses instead of selling winners quickly to show a high IRR or raise the next fund. The firm often targets businesses like a $20M revenue plumbing company in Ball, Louisiana, where the hard part is installing a CEO, IT systems, and operating cadence rather than winning a crowded auction among 5,500 private-equity funds."
+    },
+    {
+      "view": "Alpine's young-CEO model came from conviction, not convenience.",
+      "question": "Why install your own teams so often?",
+      "answer": "Weaver believes extraordinary leaders create the alpha. Once Alpine saw it could develop operators and pair them with the right industries, it burned the boats and became known as the buyer for owners who want to leave. Weaver's earliest deals included roughly $0.5M EBITDA businesses bought for about $2M, often with $1M seller financing and even credit-card checks. The first three collectively ended around 1x, while a later label-printing deal helped fund Alpine."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Alpine Investors",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Alpine's operator-development system gives it a repeatable edge in lower-middle-market companies where succession and management depth are the constraint"
+    },
+    {
+      "ticker": "Private:Lower-middle-market services buyout funds",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Succession-driven services companies can reward buyers that bring CEOs, systems, and holdco support rather than only capital"
+    },
+    {
+      "ticker": "Private:Search-fund-style services rollups",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "The practical investment lesson is talent-led ownership of boring cash-flow businesses, though execution risk is high and there is no clean public-market proxy"
+    }
+  ],
+  "golden_quotes": [
+    "\"Weaver says Alpine's explicit investing goal is 5x on every fund, which forces the firm to build rather than flip businesses.\"",
+    "\"When Alpine evaluates young CEOs, the first attribute Weaver looks for is a 'white hot will to win.'\"",
+    "\"His coaching question to founders and operators is simple but revealing: what would you do if you knew you would not fail?\""
+  ],
+  "chronology": {
+    "subject": "Alpine Investors and Graham Weaver",
+    "events": [
+      {
+        "date": "Childhood",
+        "event": "Weaver listened to self-help tapes while mowing lawns after his parents' divorce "
+      },
+      {
+        "date": "High school",
+        "event": "Dropped about 30 pounds to wrestle at 125 pounds, a formative willpower test "
+      },
+      {
+        "date": "Business school",
+        "event": "Started buying small companies out of his dorm room and named Alpine after Alpine Road "
+      },
+      {
+        "date": "Early deals",
+        "event": "Bought small businesses using seller financing and personal capital; first three deals ended around 1x "
+      },
+      {
+        "date": "Alpine scale-up",
+        "event": "Built a model around installing Alpine-trained CEOs into platform companies "
+      },
+      {
+        "date": "Recent funds",
+        "event": "Last three funds marked at roughly 5x and the fourth described as on its way "
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "restored_from_outputs": true,
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

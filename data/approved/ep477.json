@@ -1,0 +1,123 @@
+{
+  "episode_id": "ep477",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 477,
+    "title": "How to Invest Through Technology Cycles",
+    "guest": "Alex Sacerdote",
+    "guest_role": "Founder, Whale Rock Capital Management",
+    "date": "2026-06-09",
+    "duration_minutes": 72,
+    "youtube_url": "https://www.youtube.com/watch?v=DZt1DDmMNGk",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=DZt1DDmMNGk",
+      "colossus": "https://colossus.com/episode/investing-on-the-s-curve/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Anthropic",
+    "AI Infrastructure",
+    "Semiconductors"
+  ],
+  "conclusion": "Sacerdote's bottom line: AI is earlier than the headlines suggest. Enterprise usage is still under 1%, compute is tight, and three model companies are pulling away. He favors Anthropic and infrastructure, doubts legacy software can charge enough for AI, and is hunting for overlooked hardware suppliers.",
+  "background": "Alex Sacerdote left Fidelity about twenty years ago — Peter Lynch was a mentor — and built Whale Rock into a $17B Boston shop that's compounded roughly 44% over the last three years. Ten people, thousands of meetings a year, many with private companies. Patrick has him walk through the same S-curve lens he used for internet, mobile, and cloud, applied to AI. Anthropic is the name he keeps coming back to. The through-line: adoption feels tiny even when every CIO says they're 'doing AI,' and Whale Rock entered 2026 net short traditional application software.",
+  "important_facts": [
+    "Whale Rock bought into Anthropic in August 2025 at ~$180B; revenue had gone from ~$100M to ~$1B with ~$9B the next target. Power users were spending up to ~$100/day on tokens (~$20–30K/year). With ~20M coders globally, Sacerdote puts the coding market alone at $500B+. Compute is sold out worldwide.",
+    "Anthropic has ~14–15M daily users. Sundar Pichai said ~10 bps of knowledge workers use AI in a deep way. Enterprise app-layer AI is under 1% penetrated. Anthropic still has only ~half the compute it wants. A 90-page internal deck on Claude Code helped seal the August investment.",
+    "Whale Rock bought Nvidia in 2023 at ~4x earnings, Tesla in 2019 at ~5x, Apple at ~4x. Software was ~40–50% of the book five years ago; entering 2026 they were net short app software. Of ~60 model startups at a 2023 industry webinar, almost all are gone. On chips he scores names by AI sales mix × share — 30% × 30% = 60 is the bar."
+  ],
+  "mental_model": {
+    "name": "S-Curve × Competitive Advantage × Underappreciated Earnings Power",
+    "components": "Find the adoption curve — sometimes an 'L-curve' when friction drops fast. Ask who has a real moat: network effects, scale, IP, lock-in. Then model earnings a few years out while the market still thinks linearly. On chips he multiplies AI revenue mix by AI market share; 60+ is the sweet spot.",
+    "application": "This cycle he went chips first (2023), then Anthropic after the 2025 coding inflection, sold SaaS when AI SKUs didn't move revenue, and dug into hardware via scuttlebutt — Celestica at ~8x as sole Google TPU box supplier. He tries to sell around 30–40% penetration; says he sold Apple too early at ~50% US smartphone share in 2012."
+  },
+  "key_insights": [
+    {
+      "view": "At an April 2023 webinar he counted ~60 model startups; most are dead now, and it looks like a three-way race — OpenAI, Anthropic, Google — the way cloud did.",
+      "question": "Why wouldn't the model layer just commoditize?",
+      "answer": "Quality at the frontier still matters — 80% to 85% on benchmarks is a big jump, not a rounding error. Open source trails without compute. Revenue really clicked when coding took off; Claude Code in mid-2025 was the moment they leaned in."
+    },
+    {
+      "view": "Salesforce does ~$40B a year; its AI ARR is maybe $500–700M. That's the gap he's watching — AI is 1–2% of sales for most software names, not the 20%+ the old 'rule of 40' math would need.",
+      "question": "Can incumbents like Salesforce actually make money on AI?",
+      "answer": "Not much evidence yet — AI products barely register on the P&L. They went net short app software entering 2026. He leaves room for a bull case: plug Claude into Slack, let agents live inside CRM. But he said that's still half-baked."
+    },
+    {
+      "view": "Data-center hardware was a commodity for forty years under Intel x86. AI workloads growing ~10x a year are forcing real engineering again — HBM, boards, liquid cooling.",
+      "question": "Why are suppliers like Celestica suddenly interesting?",
+      "answer": "An AI server runs $200–300K versus $5K for the old kind — and it can't break. Celestica was the sole Google TPU supplier at ~8x earnings when they found it. Sequoia's Shawn Maguire told him he wished he could run a hardware fund again."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Anthropic",
+      "direction": "Long",
+      "confidence": "High",
+      "thesis": "Whale Rock entered around $180B as revenue scaled from ~$100M to ~$1B; Claude Code and enterprise tooling could create AWS-like lock-in"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "High",
+      "thesis": "AI infrastructure remains capacity constrained; Nvidia benefits across model winners as compute demand stays sold out"
+    },
+    {
+      "ticker": "Basket:SaaS incumbents (CRM/ADBE/NOW)",
+      "direction": "Short",
+      "confidence": "Medium",
+      "thesis": "Whale Rock entered 2026 net short app software because AI revenue is often only ~1–2% of sales while CIO budgets shift toward model tokens"
+    }
+  ],
+  "golden_quotes": [
+    "When you get the right part of the S-curve, unit growth goes exponential, and the world still tends to think linearly.",
+    "Enterprise AI is less than 1% penetrated; Sacerdote says the curve may look less like an S and more like an L going straight up.",
+    "He compared old software workflows to a horse and buggy and AI-native workflows to the transporter from Star Trek."
+  ],
+  "chronology": {
+    "subject": "Whale Rock Capital · Alex Sacerdote",
+    "events": [
+      {
+        "date": "1990s",
+        "event": "Fidelity analyst; mentored by Peter Lynch"
+      },
+      {
+        "date": "~2005",
+        "event": "Founded Whale Rock Capital Management (Boston)"
+      },
+      {
+        "date": "2011",
+        "event": "Father (Goldman Sachs exec, firm chairman) passes after 6 years"
+      },
+      {
+        "date": "2019",
+        "event": "Tesla entry at ~5× earnings"
+      },
+      {
+        "date": "2023",
+        "event": "Nvidia at ~4× earnings; ~60 AI model startups at industry webinar"
+      },
+      {
+        "date": "Aug 2025",
+        "event": "Anthropic investment at ~$180B valuation (~$100M→$1B revenue run-rate)"
+      },
+      {
+        "date": "2026",
+        "event": "$17B+ AUM; ~44% 3-yr CAGR; net short application software entering year"
+      }
+    ]
+  },
+  "review_notes": "Template v4.5 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-curation-v4.5",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

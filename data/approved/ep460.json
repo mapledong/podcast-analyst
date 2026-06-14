@@ -1,0 +1,119 @@
+{
+  "episode_id": "ep460",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 460,
+    "title": "The Art of Public and Private Market Investing",
+    "guest": "Dan Sundheim",
+    "guest_role": "Founder & CIO, D1 Capital Partners",
+    "date": "2026-02-24",
+    "duration_minutes": 75,
+    "youtube_url": "https://www.youtube.com/watch?v=mBtmTmCC0ZM",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=mBtmTmCC0ZM",
+      "colossus": "https://colossus.com/episode/the-art-of-public-private-market-investing",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "AI",
+    "Private Markets",
+    "Stock Picking"
+  ],
+  "conclusion": "Sundheim's edge is relentless company curiosity across public and private markets. He is bullish on AI, but precise: LLMs can be real businesses, hyperscalers may get worse despite growth, software will split into winners and shorts, and SpaceX may attack telecom.",
+  "background": "Dan Sundheim founded D1 after a long run at Viking, where by 2016 he managed just over half the firm's capital. D1 invests across public and private markets and owns or has owned stakes in SpaceX, OpenAI, Anthropic, Ramp, Rivian, and many public companies. The conversation is partly an AI market map and partly a biography of an investor: early Value Investors Club work, discovering an accounting fraud in Orthodontic Centers of America, the GameStop drawdown, a June 2022 LP dinner at the trough, and the importance of passion, loyalty, and leadership in stock picking.",
+  "important_facts": [
+    "D1 first invested in OpenAI at the $125B round. Sundheim says 4 or 5 LLMs probably matter long term because capital needs are too high for many new entrants; Anthropic was initially compared by skeptics to Lyft versus Uber, but its enterprise and coding focus created strong traction. He compares LLM economics to Netflix's upfront content spend plus Spotify's personalization stickiness — real businesses, but with unprecedented capital intensity. Gross margins do not look commoditized, but returns on capital and adoption speed are the real debate.",
+    "By 2016 Sundheim was managing just over half of Viking's capital — about 55% — after joining in 2002 as an analyst with no portfolio. He left to start D1 in 2018 at age 40, recognizing Viking would not let one person manage more than half the firm's capital indefinitely and that he still had the energy for a new fund. He had gone from no portfolio to CIO while covering banks, healthcare, industrials, and TMT.",
+    "GameStop and the 2021–2022 drawdown forced portfolio construction changes. D1 held semiannual LP dinners over 4 nights in early June 2022 right after the May drawdown trough; president Jeremy initially wanted to cancel, but Sundheim insisted they meet investors and explain a singles-and-doubles approach with less risk. Stock selection stayed the same, but the book would be much less risk-prone going forward."
+  ],
+  "mental_model": {
+    "name": "Fixed-Asset AI Flywheel",
+    "components": "Private AI investing now informs public market investing more than ever. Because AI will affect almost every public company, seeing private leaders up close gives D1 a view on model progress, adoption, capex, software risk, and real economy second-order effects. Hyperscalers can grow faster and still become worse businesses as their customer base shifts from every company to a few giant LLMs that may insource compute once they have free cash flow. Software is wounded, not dead: ERP and CRM are hard to vibe-code for the whole enterprise, but incumbents must integrate AI like Walmart integrated e-commerce.",
+    "application": "Sundheim's edge is relentless company curiosity across public and private markets. He is bullish on AI, but precise: LLMs can be real businesses, hyperscalers may get worse despite growth, software will split into winners and shorts, and SpaceX may attack telecom. Anthropic's enterprise traction and Dario's clarity reminded him of Bezos's 1997 shareholder letter. Starship can drive launch costs down while Starlink expands into global telecom, giving SpaceX multiple compounding engines. On hyperscalers, AI can accelerate cloud revenue, but GPU clusters and inference look different from traditional CPU cloud workloads. His early Value Investors Club work included discovering accounting fraud in Orthodontic Centers of America — a reminder that public markets reward deep company work."
+  },
+  "key_insights": [
+    {
+      "view": "Private AI investing now informs public market investing more than ever.",
+      "question": "Why own OpenAI, Anthropic, and SpaceX?",
+      "answer": "Because AI will affect almost every public company. Seeing private leaders up close gives D1 a view on model progress, adoption, capex, software risk, and real economy second-order effects — from OpenAI consumer traction to Anthropic enterprise coding wins."
+    },
+    {
+      "view": "Hyperscalers can grow faster and still become worse businesses.",
+      "question": "How can AWS/Azure/GCP be worse if AI demand is huge?",
+      "answer": "Their customer base shifts from every company to a few giant LLMs. Those LLMs may insource compute once they have free cash flow, and GPU clusters/inference look different from traditional CPU cloud workloads."
+    },
+    {
+      "view": "Software is wounded, not dead.",
+      "question": "Does coding AI kill software companies?",
+      "answer": "Sundheim expects a worse model but not instant death for systems of record. ERP and CRM are hard to vibe-code for the whole enterprise, but incumbents must integrate AI like Walmart integrated e-commerce."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Anthropic",
+      "direction": "Long",
+      "confidence": "High",
+      "thesis": "Anthropic's enterprise and coding focus created strong traction; Sundheim says Dario's clarity reminded him of Bezos's 1997 shareholder letter."
+    },
+    {
+      "ticker": "Private:SpaceX",
+      "direction": "Long",
+      "confidence": "High",
+      "thesis": "Starship can drive launch costs down while Starlink expands the addressable market into global telecom and broadband, giving SpaceX multiple compounding engines."
+    },
+    {
+      "ticker": "Basket:Cloud hyperscalers (MSFT/GOOGL/AMZN)",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "AI can accelerate Azure, Google Cloud, and AWS revenue, but Sundheim warns workloads bring capital intensity, customer concentration, and future insourcing risk from large LLM customers."
+    }
+  ],
+  "golden_quotes": [
+    "Sundheim's respect for the arena is plain: 'The public markets are the most competitive in the world.'",
+    "On leading LLM companies, he argues, 'The gross margins are not the margins that you see in a commoditized industry.'",
+    "His investing career lesson after drawdowns and scale: 'It doesn't get easier, right? You just go faster.'"
+  ],
+  "chronology": {
+    "subject": "Dan Sundheim and D1",
+    "events": [
+      {
+        "date": "2002",
+        "event": "Posts Orthodontic Centers of America short thesis on Value Investors Club"
+      },
+      {
+        "date": "2002-2016",
+        "event": "Builds career at Viking from analyst to CIO, managing just over half the firm's capital"
+      },
+      {
+        "date": "2018",
+        "event": "Starts D1 Capital Partners"
+      },
+      {
+        "date": "2021",
+        "event": "GameStop creates severe drawdown and public scrutiny"
+      },
+      {
+        "date": "June 2022",
+        "event": "D1 holds LP dinners at drawdown trough and changes portfolio construction"
+      },
+      {
+        "date": "2024-2026",
+        "event": "Large private AI positions shape views on LLMs, hyperscalers, software, and AI shorts"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10 | patched v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

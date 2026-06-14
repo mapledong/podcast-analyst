@@ -1,0 +1,185 @@
+# Acquired podcast summary template v5.4-acquired
+# Extends standard v4.10 with a long-form, company-history profile.
+#
+# Same as standard: conclusion, background, key facts, mental model, key insights,
+# investment ideas, golden quotes, chronology, disclaimer, prose_style, investment_policy.
+#
+# Acquired-only differences:
+#   - competitive_advantage ("What Makes It Work") — moat / edge vs competitors
+#   - 5 key facts (not 3), 5 key insights (not 3), 10–20 chronology events (not 5–10)
+#   - Longer word budgets: conclusion 60–180, background ≤300, facts 300–800, etc.
+#   - Higher total minimums (~900+ words for <90 min episodes)
+#
+# Read targets @ 200 wpm:
+#   <60 min episode  → ~4 min read
+#   <90 min episode  → ~5 min read
+#   90–179 min      → 5–8 min read
+#   180+ min        → 8–10 min read
+
+reading_speed_wpm: 200
+template_version: "5.4-acquired"
+extends_template: "4.10"
+applies_to_podcast: Acquired
+
+template_profile:
+  depth: long_form
+  exclusive_sections:
+    - competitive_advantage
+  section_counts:
+    important_facts: 5
+    key_insights: 5
+    chronology_events_min: 10
+    chronology_events_max: 20
+
+target_read_minutes:
+  under_60_min: 4
+  under_90_min: 5
+  90_to_180_min: 6
+  over_180_min: 9
+
+sections:
+  - id: episode_rating
+    title: "Episode Rating"
+    required: true
+    fields:
+      - overall
+
+  - id: header_meta
+    title: "Header Metadata"
+    required: true
+
+  - id: keywords
+    title: "Topics / Keywords"
+    required: true
+    item_count_min: 3
+    item_count_max: 4
+    exclude_from_word_count: true
+    guidance: >
+      Use standard US ticker symbols (e.g. NVDA, GOOGL, LVMUY) for publicly traded
+      companies. Reserve company names for private entities (Private:Name), people,
+      themes, or industries. Do not mix a company name and its ticker as separate keywords.
+
+  - id: conclusion
+    title: "Conclusion"
+    min_words: 60
+    max_words: 180
+    required: true
+
+  - id: background
+    title: "Background"
+    max_words: 300
+    required: true
+
+  - id: important_facts
+    title: "Key Facts"
+    min_words: 300
+    max_words: 800
+    item_count: 5
+    require_quantitative: true
+    required: true
+
+  - id: mental_model
+    title: "Mental Model"
+    min_words: 150
+    max_words: 520
+    required: true
+
+  - id: competitive_advantage
+    title: "What Makes It Work"
+    max_words: 580
+    required: true
+
+  - id: key_insights
+    title: "Key Insights (Views & Q&A)"
+    item_count: 5
+    required: true
+    max_words_per_view: 55
+    max_words_per_answer: 150
+
+  - id: top_investment_implications
+    title: "Investment Implications"
+    item_count_min: 1
+    item_count_max: 3
+    required: true
+
+  - id: golden_quotes
+    title: "Golden Quotes"
+    max_words: 200
+    item_count: 3
+    required: true
+
+  - id: chronology
+    title: "Chronology"
+    required: true
+    exclude_from_word_count: true
+    item_count_min: 10
+    item_count_max: 20
+    fields:
+      - date
+      - event
+
+  - id: disclaimer
+    title: "Disclaimer"
+    required: true
+    exclude_from_word_count: true
+
+total_word_limits:
+  under_60_min: 1000
+  under_90_min: 1100
+  90_to_180_min: 1600
+  over_180_min: 2200
+
+minimum_word_limits:
+  under_60_min: 700
+  under_90_min: 900
+  90_to_180_min: 1000
+  over_180_min: 1600
+
+content_policy:
+  require_transcript_for_generation: true
+  facts_must_be_verifiable: true
+  prose_style:
+    voice: human_analyst
+    summary: >
+      Write like a sharp human analyst briefing a PM — a proper summary or research
+      note, not generated filler. Prefer concrete facts and plain sentences over
+      polished-but-empty AI phrasing.
+    avoid:
+      - AI boilerplate ("it's worth noting", "delve", "underscores", "at its core", "serves as a testament", "in [Name]'s framing")
+      - buzzword stacking (playbook, leverage, unlock, ecosystem, holistic, landscape, robust, paradigm, synergy)
+      - transcript meta-junk ("Transcript line:", "This maps to", duplicated facts pasted across sections to pad word count)
+      - stiff essay transitions (Moreover, Furthermore, In conclusion mid-section)
+      - repetitive parallel triplets and copy-paste padding
+    prefer:
+      - named people, companies, and numbers in every Key Fact
+      - short and medium sentences with varied rhythm
+      - active voice; one clear idea per sentence in Key Facts
+      - prose that could appear in a buy-side note or well-edited business summary
+
+investment_directions:
+  - Long
+  - Short
+  - Watch
+
+investment_confidence:
+  - High
+  - Medium
+  - Low
+
+investment_policy:
+  prefer_directions:
+    - Long
+    - Short
+  watch_max_count: 1
+  require_directional_when_tradable: true
+
+rating_distribution:
+  scope: per_podcast
+  cap_method: floor
+  min_episodes_to_enforce: 5
+  five_star_max_pct: 0.20
+  four_star_max_pct: 0.30
+  default_rating: 3
+  guidance: >
+    Most episodes earn 3★. Reserve 4★ for unusually strong insight; 5★ for landmark
+    reference episodes only. Caps are enforced per podcast (~20% at 5★, ~30% at 4★).

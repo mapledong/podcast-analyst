@@ -1,0 +1,135 @@
+{
+  "episode_id": "acq-the-browser-with-brendan-eich-chief-architect-of-netscape-mozilla-and-ceo-of-brave",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 143,
+    "title": "The Browser (with Brendan Eich, Chief Architect of Netscape + Mozilla and CEO of Brave)",
+    "guest": "The Browser (with Brendan Eich, Chief Architect of Netscape + Mozilla and CEO of Brave)",
+    "guest_role": "Season 10",
+    "date": "2022-02-14",
+    "duration_minutes": 103,
+    "youtube_url": "",
+    "links": {
+      "youtube": "",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx",
+      "acquired": "https://www.acquired.fm/episodes/the-browser-with-brendan-eich-chief-architect-of-netscape-mozilla-and-ceo-of-brave"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "Manual GPT Acquired batch — v5.1-acquired; acq-the-browser-with-brendan-eich-chief-architect-of-netscape-mozilla-and-ceo-of-brave | optimized v5.4",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "keywords": [
+    "Brave Browser",
+    "Brendan Eich",
+    "Web3 Privacy"
+  ],
+  "conclusion": "Brendan Eich — JavaScript creator, Netscape/Mozilla architect — built Brave as privacy-first Chromium fork with Basic Attention Token (BAT): users earn ~70% of ad revenue into self-custodied wallets. ~50M MAU at recording ('crypto nice, not browser nice') but fastest-growing blockchain app. Thesis: browser is neutral user-agent layer where tracking became 'evil' as Google/Facebook incentives scaled; speed (blocking ads/trackers) was wedge before economic empowerment. Native Brave wallet (post-Metamask fork) targets first browser-baked hot wallet — Opera precedent. Mozilla revenue dependence on Google search deal (~$400M+) constrains challenger narrative Chrome already won (~65% share).",
+  "background": "Season 10 special (~103 min) with Brendan Eich — JavaScript creator, Netscape/Mozilla architect, Brave CEO. Traces Eich's path: SGI talent nexus → MicroUnity → Netscape (Mosaic buy) → JavaScript in ~10 days → AOL Mozilla spinout → Firefox rebuild (~25% peak share, ~3% at recording) → brief Mozilla CEO tenure (2014) → Brave 2016. Discussion: cookie evolution, process-isolated tabs (Chrome 2008), failed Dolphin/RockMelt challengers, Moxie Marlinspike decentralization-vs-UX tension, and Brave Search/wallet roadmap. Mozilla revenue dependence on Google default-search deal (hundreds of millions annually).",
+  "important_facts": [
+    "Brave reported over 50 million monthly active users at episode recording — the largest blockchain-based application by user count cited by Ben and David, though Ben noted '50 million MAU is crypto nice, not browser nice' versus Chrome's billions of users. Netscape acquired via AOL 1998; Mozilla project open-sourced from Netscape ashes.",
+    "Brave's ad network returns approximately 70% of gross ad revenue to users via the Basic Attention Token deposited into self-custodied wallets — an opt-in model replacing third-party cookie surveillance with direct advertiser-to-user attention payments. Firefox 1.0 launched 2004 rebuilding community 'fighting the man' narrative Ben describes.",
+    "Mozilla Firefox peaked above 25% global browser market share before Chrome's 2008 launch with process-isolated tabs and Google distribution eroded share to roughly 3% at episode recording — the open-source challenger cycle Ben and David trace from Netscape through Mozilla to Brave. 2015 Facebook ad targeting to one person felt like magic to startup advertisers Ben funded.",
+    "Mozilla derives the vast majority of its revenue from Google's default-search deal paying hundreds of millions of dollars annually per Ben; Firefox meanwhile fell from 25%+ peak share to roughly 3% at recording as Chrome captured ~65% globally.",
+    "Google Chrome controlled approximately 65% of global browser market share at episode recording with Safari second on mobile; Eich created JavaScript in roughly 10 days at Netscape in 1994 and launched Brave in 2016 as a privacy-first Chromium fork with native wallet and Brave Search roadmap. Sign-in-with-Google conflicts with incumbents defaulting crypto wallets in Chrome and Safari."
+  ],
+  "mental_model": {
+    "name": "User-Agent as Economic Layer",
+    "components": "The browser mediates nearly all web activity — default search plus tracking infrastructure extracts rent from every page load. Brave blocks third-party surveillance and replaces it with opt-in ad units paying users roughly 70% via BAT. The Chromium fork strategy preserves site compatibility without rebuilding the rendering engine.",
+    "application": "Privacy products need a speed wedge before ideology — Brave led with performance from ad blocking. Web3 adoption may route through browsers with native wallets faster than standalone apps if Chrome and Safari refuse to ship crypto defaults due to sign-in-with-Google conflicts."
+  },
+  "competitive_advantage": "Eich's technical credibility (JavaScript, Firefox) attracts developer community; BAT creates two-sided ad market without third-party cookies. Speed from ad/tracker blocking measurable vs Chrome — privacy becomes performance product. Weaknesses: Google pays Mozilla hundreds of millions to stay relevant; Chrome bundling with Android/Search; 50M MAU tiny vs billions on Chrome. Metamask/OpenSea user habits entrenched. Versus Chrome/Safari: incumbents won't default crypto wallets (sign-in-with-Google conflict). Opera wallet proves concept but limited share. Moxie critique: decentralization consolidates around Infura/OpenSea anyway. Ben: '50 million MAU is crypto nice, not browser nice.'",
+  "key_insights": [
+    {
+      "view": "Evil is incentive-dependent.",
+      "question": "Why track users?",
+      "answer": "2015 Facebook targeting 'one person' level felt magic to advertisers — expense of user privacy. Eich: definition of evil shifts with incentive size; Google/Mozilla search deal (hundreds of millions annually) poisons pure mission. Ben bought Facebook ads 2015–2016 with unfreaking-real targeting precision. Facebook later walked back granular targeting. Eich targets hundreds of millions MAU plus meaningful BAT economy — not crypto-niche scale."
+    },
+    {
+      "view": "Firefox proved challenger brand cycle.",
+      "question": "Why did Firefox fall?",
+      "answer": "Community needs 'fighting the man' narrative — Netscape refugees rebuilt from AOL ashes; Chrome process-isolated tabs (2008) + Google distribution won. Firefox peaked ~25%+ share, eroded to ~3% at recording. Joe Hewitt to Facebook mobile drained talent. Eich created JavaScript in ~10 days at Netscape. Brave Search and native wallet rollout began 2021 expanding beyond browser ad blocking alone."
+    },
+    {
+      "view": "Speed beat privacy in messaging.",
+      "question": "First Brave wedge?",
+      "answer": "Blocking ads/trackers improved load times before BAT economics marketed — same pattern as privacy VPNs selling speed. Users won't sacrifice performance for principle alone. Brave returns ~70% of gross ad revenue to users via BAT in self-custodied wallets. Opt-in ad units replace third-party cookie surveillance. Moxie Marlinspike argued decentralization still consolidates around Infura and OpenSea anyway."
+    },
+    {
+      "view": "Browser wallet changes security model.",
+      "question": "Why native wallet?",
+      "answer": "Extensions hackable, always online — browser-integrated hot wallet recovers via seed but tighter sandbox. Secret-phrase UX still pre-password-maturity — 20 years to train users. Brave forked from Metamask approach for native wallet post-2016 launch. Opera precedent for browser-baked hot wallet. Opera browser wallet proves browser-baked hot wallet concept though share remains limited."
+    },
+    {
+      "view": "A+ requires mainstream share.",
+      "question": "Brave success in 3 years?",
+      "answer": "Eich: hundreds of millions MAU + meaningful BAT economy with KYC'd creators — failure is remaining crypto-niche while Chrome (~65% share) bundles Web3 defensively. 50M MAU largest blockchain app but tiny vs Chrome billions. Brave Search and native wallet rollout (2021) expand Web3 stack beyond browser alone. Failed challengers Dolphin and RockMelt cited as cautionary browser startup history on episode."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "GOOGL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Chrome ~65% share and Google default-search payments to Mozilla (hundreds of millions) entrench distribution moat — Brave at 50M MAU immaterial to revenue but privacy regulation could force tracking changes benefiting Chromium competitors long-term."
+    }
+  ],
+  "golden_quotes": [
+    "\"50 million MAU is crypto nice, not browser nice.\" — Ben Gilbert framing Brave scale vs Chrome.",
+    "\"The definition of evil shifts depending on how large the incentives are.\" — Brendan Eich on tracking economics.",
+    "\"JavaScript was written in about 10 days.\" — Eich legacy enabling modern web apps Brave monetizes."
+  ],
+  "chronology": {
+    "subject": "Brendan Eich & Brave",
+    "events": [
+      {
+        "date": "1994",
+        "event": "Eich joins Netscape; JavaScript created in ~10 days"
+      },
+      {
+        "date": "1998",
+        "event": "AOL acquires Netscape; Mozilla project open-sourced"
+      },
+      {
+        "date": "2004",
+        "event": "Firefox 1.0 launches; peak share eventually ~25%+"
+      },
+      {
+        "date": "2008",
+        "event": "Google Chrome released with process-isolated tabs"
+      },
+      {
+        "date": "2014",
+        "event": "Eich brief Mozilla CEO tenure"
+      },
+      {
+        "date": "2016",
+        "event": "Brave browser and BAT token launch"
+      },
+      {
+        "date": "2021",
+        "event": "Brave Search and native wallet rollout begins"
+      },
+      {
+        "date": "2022",
+        "event": "Acquired interview; ~50M MAU cited"
+      },
+      {
+        "date": "2023",
+        "event": "Brave Search and wallet features expand Web3 stack"
+      },
+      {
+        "date": "2024",
+        "event": "Chrome dominance continues; Brave niche grows slowly"
+      }
+    ]
+  }
+}

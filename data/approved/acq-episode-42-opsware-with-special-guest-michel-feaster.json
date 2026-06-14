@@ -1,0 +1,134 @@
+{
+  "episode_id": "acq-episode-42-opsware-with-special-guest-michel-feaster",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 23,
+    "title": "Opsware (with Michel Feaster)",
+    "guest": "Michel Feaster",
+    "guest_role": "Episode 42 · Guest",
+    "date": "",
+    "duration_minutes": 120,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/episode-42-opsware-with-special-guest-michel-feaster",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch v5.1 — episodes 37–44 | optimized v5.4",
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "Enterprise Software",
+    "Data Center Automation",
+    "Timing Risk"
+  ],
+  "conclusion": "HP paid $1.6B in July 2007 for Opsware — Ben Horowitz and Marc Andreessen's Loudcloud pivot from 'internet OS' hosting to data-center automation software. Loudcloud (1999) sold to EDS for ~$63M after the bubble; internal Opsware tool provisioned servers LDAP inventor Tim Howes built became the whole company — market cap had sunk to ~$28M (~$40M below cash) before the turnaround. Guest Michel Feaster (HP product director, ex-Mercury; now Usermind CEO, a16z board) tells the buy-side: five-slide deck, build-vs-buy vs BladeLogic/BMC, sales-overlay integration, and market-leader status despite not-best product. Grades: Michel A, David A-, Ben B — HP got timing-right asset but lost cloud era to AWS; Puppet/Chef inherited config management.",
+  "background": "Episode flips The Hard Thing About Hard Things narrative to HP enterprise software (Mercury acquisition precedes Opsware). Loudcloud was AWS-before-AWS using Andreessen's 'electric grid' metaphor; without VMware-style virtualization and pre-cloud budgets, hosting failed. Public pivot to Opsware sold automation to enterprises with their own data centers. Feaster describes HP's manufacturing culture vs 10x software talent, overlay managers on acquired leaders, and why HP isn't among today's cloud big three. Tech theme: Sequoia-style timing studies — right product wrong clock; management pivots salvage option value. Category debate: product integration vs standalone business line. Hosts grade outcomes, debate counterfactuals, and tie lessons to modern comparables (streaming bundles, marketplace M&A, fintech IPO mechanics, enterprise timing risk). Episode recorded mid-2017 Acquired era with survey Slack community callbacks.",
+  "important_facts": [
+    "HP acquired Opsware in July 2007 for $1.6B — roughly 50× the ~$28M market cap at the 2002 pivot trough.",
+    "Loudcloud sold its hosting business to EDS for just over ~$63M; Opsware software was the remaining asset.",
+    "At pivot, Opsware traded at ~$28M market cap with ~$60–70M cash in bank — negative enterprise value.",
+    "Michel Feaster joined via Mercury Interactive (HP acquired); presented ~5 slides to justify Opsware buy vs build.",
+    "BladeLogic (BMC competitor) was alternative; virtualization adoption ~2007 made data-center automation mandatory."
+  ],
+  "mental_model": {
+    "name": "Pivot Timing Over Funeral",
+    "components": "Loudcloud had correct thesis (utility compute) wrong decade — no virtualization, bubble capex, enterprise servers in closets. Horowitz/Andreessen kept the internal provisioning tool, fire-sold hosting, and rebuilt as enterprise ISV. HP bought market leadership + sales channel when virtualization forced every CIO to automate — not because Opsware had best UX. Enterprise wins often go to sales motion incumbents when category becomes checklist.",
+    "application": "When macro timing kills v1, inventory internal tools that solved your pain — you are customer zero with perfect spec. Acquirers: buy when category inflection (virtualization) makes build-too-late; integrate via distribution overlay, not culture squash. Founders: HP's manufacturing HR model cannot retain 10x engineers — expect talent bleed post-deal."
+  },
+  "competitive_advantage": "Opsware moat at sale: installed base + enterprise sales machine after Loudcloud scars — product led data-center orchestration before Puppet/Chef/docker era. HP's global CIO sales force could bundle with servers/services — classic enterprise channel advantage over startups. Versus BladeLogic/BMC, Opsware won deals via leadership perception and HP balance sheet, not pure product scores (Feaster admits). Loudcloud alumni seeded Andreessen Horowitz — acquisition created venture mafia value beyond HP P&L. Weaknesses: HP missed public cloud; config management moved to open-source; talent left incompatible culture. Michel: big cos treat engineers as interchangeable — fatal for software. Opsware did not make HP a hyperscaler; AWS/Google/Microsoft captured next wave. Feaster's Usermind later raised with Ben Horowitz on board — Opsware mafia paid forward in Seattle enterprise SaaS. HP integration cautionary for any acquirer overlaying matrix managers on founder-led sales cultures.",
+  "key_insights": [
+    {
+      "view": "Buy-side was channel + category fear.",
+      "question": "Why $1.6B for automation?",
+      "answer": "Feaster's team feared not playing data-center automation as virtualization hit — build would miss window; BladeLogic rival risk. Five-slide HP deck: market size in 5–10 years, cannot skip category. Price reflected turnaround story from negative EV, not Loudcloud hype."
+    },
+    {
+      "view": "Sales overlay beats culture merge.",
+      "question": "How integrate Ben's team?",
+      "answer": "HP sales learned Opsware SKU; overlay managers on acquired execs — not instant assimilation. Enterprise wins when global account reps can pitch automation alongside hardware — Opsware fine-tuned machine met HP portfolio breadth. Mercury 0→$1B cited as HP software innovation counterexample."
+    },
+    {
+      "view": "Best product ≠ winner in enterprise.",
+      "question": "Was Opsware technically best?",
+      "answer": "Feaster: market leader but not best product — Steve Jobs line that sales motion decides. BladeLogic lost despite features; same pattern in BMC/CA land. Lesson for founders: GTM and category timing stack with code."
+    },
+    {
+      "view": "Timing study validated.",
+      "question": "Why Loudcloud fail but AWS win?",
+      "answer": "Same grid metaphor — Andreessen 1999, Bezos mid-2000s with virtualization and capex appetite. Sequoia partner study cites timing as top VC decision factor; Horowitz pivoted instead of liquidating. Loudcloud hosting sale funded software-only restart."
+    },
+    {
+      "view": "HP couldn't retain 10x talent.",
+      "question": "Why isn't HP a cloud player?",
+      "answer": "Manufacturing mindset + overlay bureaucracy; Michel swore too much for HP culture. Innovation needs courage and star retention — Mercury counterexample scaling 0→$1B. Cloud passed HP despite Opsware buy."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "HPE",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Opsware episode is historical HP enterprise software — illustrates channel M&A limits when platform shifts to public cloud; legacy read for infra investors tracking automation vs hyperscaler native tools."
+    }
+  ],
+  "golden_quotes": [
+    "\"It's like providing the electric power grid and companies can plug in.\" — Marc Andreessen on Loudcloud (Bezos reused for AWS).",
+    "\"In the enterprise, it's not always the best product that wins.\" — Steve Jobs (via hosts) on Opsware vs BladeLogic.",
+    "\"Timing is everything.\" — David summarizing Sequoia partner study on venture outcomes."
+  ],
+  "chronology": {
+    "subject": "Loudcloud / Opsware / HP",
+    "events": [
+      {
+        "date": "1999",
+        "event": "Andreessen and Horowitz found Loudcloud"
+      },
+      {
+        "date": "2000",
+        "event": "Tech bubble peak; Loudcloud highly hyped pre-IPO"
+      },
+      {
+        "date": "2002",
+        "event": "Hosting sold to EDS for ~$63M; public pivot to Opsware software"
+      },
+      {
+        "date": "2002",
+        "event": "Opsware market cap ~$28M — below cash on hand"
+      },
+      {
+        "date": "2007",
+        "event": "Virtualization mainstream; data-center automation inflection"
+      },
+      {
+        "date": "Jul 2007",
+        "event": "HP acquires Opsware for $1.6B"
+      },
+      {
+        "date": "2013",
+        "event": "Michel Feaster founds Usermind; Ben Horowitz joins board via a16z"
+      },
+      {
+        "date": "2006",
+        "event": "VMware virtualization adoption accelerates — category inflection for Opsware buyers"
+      },
+      {
+        "date": "2008",
+        "event": "Opsware mafia seeds Andreessen Horowitz; alumni across enterprise VC"
+      },
+      {
+        "date": "2012",
+        "event": "HP splits enterprise trajectory; cloud passes data-center automation TAM"
+      }
+    ]
+  }
+}

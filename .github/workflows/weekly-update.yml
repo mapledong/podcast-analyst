@@ -1,0 +1,59 @@
+name: Weekly Podcast Summary Update
+
+on:
+  schedule:
+    # Saturday 10:00 Beijing time (02:00 UTC)
+    - cron: "0 2 * * 6"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-podcast-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Install Cursor SDK
+        run: pip install cursor-sdk
+      - name: Install web dependencies
+        working-directory: web
+        run: npm ci
+      - name: Run weekly Cursor update
+        env:
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+          CURSOR_AGENT_MODEL: ${{ vars.CURSOR_AGENT_MODEL || 'gpt-5.5-medium' }}
+        run: python scripts/weekly_cursor_update.py
+      - name: Normalize tickers and sync web
+        run: |
+          python scripts/normalize_summary_tickers.py --publish || true
+          python scripts/fix_meta_prose_batch.py || true
+          node web/scripts/sync-content.mjs
+      - name: Build web
+        working-directory: web
+        env:
+          BASE_PATH: ${{ vars.BASE_PATH || format('/{0}/', github.event.repository.name) }}
+        run: npm run build
+      - name: Commit weekly updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update weekly podcast summaries"
+          file_pattern: "data/approved/** outputs/** web/src/data/** config/episodes.yaml data/discovered/** data/transcripts/**"
+          push: true

@@ -1,0 +1,143 @@
+{
+  "episode_id": "acq-taylor-swift-acquireds-version",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 141,
+    "title": "Taylor Swift (Acquired's Version)",
+    "guest": "Taylor Swift (Acquired's Version)",
+    "guest_role": "Season 10 · Episode 1",
+    "date": "2022-01-23",
+    "duration_minutes": 158,
+    "youtube_url": "",
+    "links": {
+      "youtube": "",
+      "acquired": "https://www.acquired.fm/episodes/taylor-swift-acquireds-version",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "Music Rights",
+    "Master Recordings",
+    "Artist Direct-to-Fan"
+  ],
+  "conclusion": "Taylor Swift is less a pop star than a vertically integrated media company whose power comes from owning songwriting copyrights, cultivating ~200M Instagram followers, and repeatedly renegotiating an oligopolistic label system designed for CD-era economics. RCA's rejection of her teenage songwriting forced a Big Machine deal (Scott Borchetta; her father invested ~$120K for ~3% of the label) that eventually made her masters a ~$300M asset sold to Scooter Braun's Ithaca — triggering the Taylor's Version re-recording strategy that actively devalues Shamrock Capital's purchase. Her 2019 Republic/UMG deal retains master ownership with a 10-year license — plus a precedent-setting clause sharing UMG's ~$1.5B Spotify equity gains with other artists. Streaming pays ~0.4¢ per play (~$400 artist share per million streams at 10% royalty); touring grossed ~$345M on the Reputation Tour. Forbes estimated ~$550M net worth (Aug 2021). Hosts grade her career A+ but note the entire recorded-music industry's revenue rivals Best Buy — influence exceeds economics.",
+  "background": "Season 10 premiere treats Taylor Swift as a business case study: publishing versus master rights, recoupment advances, and platform-era fan relationships. David traces her Philadelphia-mainline upbringing (father Merrill Lynch stockbroker), Nashville move at ~14, Sony/ATV songwriting contract as youngest ever, and RCA walking away from her originals — leading to Big Machine's first artist and Tob Keith-backed financing. Ben dissects licensing regimes (streaming, radio, sync) and the industry's collapse from ~$14–15B peak CD revenue (1999) to streaming's low per-stream payouts. The episode covers Kanye's 2009 VMA moment as catalyst, pulling catalog from Spotify (2014–2017), forcing Apple Music to pay during trial periods, Big Machine's sale to Scooter Braun, Kelly Clarkson's re-record tweet, and pandemic output explosion (25 songs in 2020, 46 in 2021 including Fearless and Red Taylor's Versions). Seven Powers analysis highlights branding, scale, switching costs (Spotify CEO flew to Nashville), and process power in songwriting.",
+  "important_facts": [
+    "Publishing (composition) versus master (recording) splits: on a typical Spotify play, ~80% flows to master holders; artists often retain only ~10–22% of master revenue after recoupment — versus ~50/50 on publishing for songwriters.",
+    "Hosts estimate ~0.4¢ per Spotify stream; ~$4,000 to label/artist per million streams at ~10% artist royalty (~$400 to artist) if recouped — versus roughly ~$1 per CD sold in the old model.",
+    "Big Machine derived an estimated ~80% of revenue from Taylor's catalog; Ithaca/Holding sold her six-album masters to Shamrock Capital for ~$300M (~same price as entire Big Machine purchase a year earlier).",
+    "1989 Tour grossed ~$250M (US); Reputation Tour ~$345M worldwide — versus only ~$2.4M from streaming for Taylor in 2017 (U2: ~$600K streaming of ~$54M total that year).",
+    "Forbes net worth ~$550M (Aug 2021), up from ~$365M; she ranks 31st all-time in paid music consumption — only artist in top 50 who debuted after 2000 (next: Adele at 66)."
+  ],
+  "mental_model": {
+    "name": "Two Copyrights, One Artist",
+    "components": "Every song splits into composition copyright (lyrics/melody — songwriters/publishers) and master copyright (specific recording — labels). Uses trigger different licenses: streaming (mainly master), radio (favors songwriters), sync (both must approve — Peloton pays heavily). Labels advance cash and recoup from royalties like VC liquidation prefs; ~90%+ of artists fail, so majors demand exploitative splits. Taylor's leverage came from (1) owning her writing, (2) direct fan channels (MySpace, Tumblr — 27,000 fan interactions), (3) re-recording clause leverage — new recordings can substitute on streaming/playlists when she controls songwriting. Taylor's Version branding converts moral argument into consumer choice: \"if you love me, stream my version.\"",
+    "application": "In media IP businesses, identify which copyright layer you control and which a distributor owns. When masters are sold, songwriters with publishing rights retain veto on sync and can re-record (if contract permits) to arbitrage catalog buyers. Platform power (Spotify, Apple, smart speakers defaulting to Taylor's Version) matters as much as legal rights. Celebrity influence ≠ revenue scale — compare to software market caps before sizing opportunity."
+  },
+  "competitive_advantage": "Taylor's durable advantage is fan relationship intensity, not label infrastructure. She pioneered direct-to-teen community (2006 MySpace before Instagram existed), Easter-egg narrative marketing, and \"resident loud person\" advocacy that moved Apple and Spotify policy within 24 hours. Branding power is literal: hosts admit learning Rihanna/Calvin Harris tracks she secretly performed on elevates perceived value. Scale economies appear in touring and re-recording amortization — one album spawns 17 Hot 100 entries (Speak Now); pandemic she released 46 tracks in a year while re-recording classics. Switching costs hit platforms: Daniel Ek spent years lobbying her return to Spotify. Cornered resource is her process — Voice Memos at 3AM producing Lover's chorus; cannot be documented or delegated. Weaknesses: masters for first six albums owned by Shamrock (Disney-family PE) until she completes Taylor's Versions; music industry TAM is small (~Best Buy revenue) — Bruce Springsteen catalog ~$500M, Bob Dylan ~600 songs for ~$300M. Reality-distortion-field PR risks (Kanye phone-call dispute) but usually net-positive. UMG/Tencent/Pershing Square cap table ties her to major-label ecosystem she publicly fights. Episode links Peloton (10:13 All Too Well ride), Standard Oil (Holiday House / Harkness Rockefeller — Christina Cacioppo Slack guess), and FTX wealth comparison. Miss Americana shows reinvention compulsion. Shamrock $300M masters grade F — Taylor's Version defaults on voice assistants route streams away from originals she does not control.",
+  "key_insights": [
+    {
+      "view": "RCA walking away was the unforced error that created Taylor Swift.",
+      "question": "Why does a 15-year-old reject a major-label development deal?",
+      "answer": "RCA wanted to feed her teen-pop covers instead of her originals — she walked from development status, hosted a Bluebird Cafe showcase, and signed with Scott Borchetta's startup Big Machine (her father ~$120K for ~3% equity). Parallel to Blockbuster passing on Netflix: incumbents optimize for format, not talent. She proved songwriting on Fearless (2008 youngest Album of the Year) and Speak Now (all 17 tracks charted Hot 100)."
+    },
+    {
+      "view": "Streaming economics structurally underpay recorded-music artists.",
+      "question": "Why did Taylor pull her catalog from Spotify in 2014?",
+      "answer": "1989 sold 1.3M copies week one, then she removed all albums from Spotify (returned ~2017 before Reputation). She objected to free-tier devaluation — Wall Street Journal op-ed, then Apple Music trial fight: \"We don't ask you for free iPhones.\" Artists net ~$400 per million streams at typical royalty rates if recouped; touring ($250M–$345M per cycle) and merch dwarf streaming. Industry streaming revenue (2020) exceeded all 2015 formats — but dollars are split among labels, not artists."
+    },
+    {
+      "view": "The Scooter Braun sale converted operating label into securitized cash-flow asset.",
+      "question": "What changed when Taylor left Big Machine for Republic?",
+      "answer": "Her departure turned ~80% of Big Machine revenue from operating (new releases) into catalog cash flows — triggering auction (Evan Spiegel rumored; sold to Ithaca/Carlyle-backed Scooter Braun for ~$300–330M). Taylor claims she was never offered first refusal; she vetoed sync deals on songs she wrote, then adopted Kelly Clarkson's re-record strategy (Aug 2019 GMA announcement). Shamrock bought masters for ~$300M (~2020); hosts grade that purchase F — Taylor actively devalues originals via Taylor's Version and streaming defaults."
+    },
+    {
+      "view": "Her UMG deal is the most artist-favorable major-label structure discussed on Acquired.",
+      "question": "What did she negotiate beyond owning new masters?",
+      "answer": "Republic deal: she owns masters and licenses them to UMG for up to 10 years (reversion to her). She also required UMG to share proceeds when labels sold Spotify equity — Warner gave artists 25%; her clause helped force industry-wide artist participation in ~$750M distributed gains. UMG retained Spotify stake now worth ~$1.5B at episode research — Tencent owns ~20% of UMG, linking to Acquired's Tencent/Matsushita/Universal thread."
+    },
+    {
+      "view": "Influence and wealth diverge in music versus technology.",
+      "question": "Why compare Taylor to SBF's crypto billions?",
+      "answer": "Entire music industry revenue ≈ Best Buy; a $300M catalog exit wouldn't make TechCrunch's biggest-deal headline. Power law: top 1% of artists capture ~78% of sales. Lesson: moats in attention ≠ moats in cash flow unless you expand into film (Long Pond Sessions), merch, and re-recording arbitrage."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "UMG",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Episode frames UMG as oligopoly beneficiary of streaming recovery (Tencent ~20% holder) but vulnerable to superstar re-recording and direct-artist deals — Taylor's master-retention template reduces long-term catalog optionality. Music TAM is modest versus tech; watch artist-relations PR and Spotify stake monetization, not hyper-growth."
+    }
+  ],
+  "golden_quotes": [
+    "\"We don't ask you for free iPhones. Please don't ask us to provide you with our music for no compensation.\" — Taylor Swift to Apple Music (2015), forcing paid trials before Reputation.",
+    "\"If you love me, you'll listen to my version.\" — Hosts' summary of Taylor's Version branding — direct fan call-to-action against Shamrock-owned masters.",
+    "\"An artist is never ever, ever going to make a lot of money from streaming, like ever.\" — Ben Gilbert (parodying Taylor's \"We Are Never Ever Getting Back Together\") on per-stream economics."
+  ],
+  "chronology": {
+    "subject": "Taylor Swift (business career)",
+    "events": [
+      {
+        "date": "2004",
+        "event": "Sony/ATV signs Taylor (age 14) as youngest songwriter; pairs with Liz Rose"
+      },
+      {
+        "date": "2005",
+        "event": "Walks away from RCA development deal; signs as Big Machine's first artist — Swift family invests ~$120K for ~3% of label"
+      },
+      {
+        "date": "Oct 2006",
+        "event": "Debut album releases; builds via MySpace — reaches Billboard 200 top 10 after 63 weeks"
+      },
+      {
+        "date": "Nov 2008",
+        "event": "Fearless debuts #1; youngest Album of the Year Grammy winner"
+      },
+      {
+        "date": "Sep 2009",
+        "event": "Kanye West VMA interruption — catalyst for reputation era and industry conflicts"
+      },
+      {
+        "date": "Oct 2014",
+        "event": "1989 releases (1.3M week-one sales); pulls entire catalog from Spotify Nov 3"
+      },
+      {
+        "date": "2016–2017",
+        "event": "Reputation era; Big Machine six-album deal ends; explores staying vs leaving"
+      },
+      {
+        "date": "2019",
+        "event": "Signs Republic/UMG (retains masters); Scooter Braun/Ithaca buys Big Machine for ~$300M+"
+      },
+      {
+        "date": "Aug 2019",
+        "event": "Announces re-recording masters on Good Morning America"
+      },
+      {
+        "date": "Apr 2021",
+        "event": "Fearless (Taylor's Version) #1 — first artist with three #1 albums in under a year during pandemic"
+      },
+      {
+        "date": "Nov 2021",
+        "event": "Red (Taylor's Version) with 10-minute All Too Well — devalues original Shamrock masters"
+      },
+      {
+        "date": "Aug 2021",
+        "event": "Forbes estimates net worth ~$550M; 31st all-time music sales despite streaming-era handicap"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT Acquired batch — v5.1-acquired; Season 10 premiere | optimized v5.4",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  }
+}

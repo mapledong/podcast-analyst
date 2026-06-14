@@ -1,0 +1,119 @@
+{
+  "episode_id": "ep464",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 464,
+    "title": "Lessons from Cold Calling 10,000 Companies",
+    "guest": "Mitchell Green",
+    "guest_role": "Founder, Lead Edge Capital",
+    "date": "2026-03-24",
+    "duration_minutes": 54,
+    "youtube_url": "https://www.youtube.com/watch?v=0G1st54tRBI",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0G1st54tRBI",
+      "colossus": "https://colossus.com/episode/building-a-machine/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Growth Equity",
+    "Software",
+    "Secondaries"
+  ],
+  "conclusion": "Green describes Lead Edge as an engineered machine: 9,000 company calls, a tight software filter, 800 executive LPs, and a real sell discipline. It is useful and detailed, but more operating playbook than top-tier episode. He emphasizes this directly in the conversation: \"Lead Edge is have a company and not tell.\"",
+  "background": "Mitchell Green founded Lead Edge Capital after Bessemer, bringing cold-calling discipline and a practical growth-equity filter to private software. The firm aims for singles and doubles: 2-5x per deal over 3-7 years, 2-2.25x net fund outcomes, and 95% LP gross dollar retention. The episode is packed with operating detail: Lead Edge Eight criteria, 800 mostly executive LPs, 9,000 companies contacted annually, 150-175 diligenced to make 5-7 investments, a disposition committee, and a creative secondary/special-situations engine that now represents around 70% of deployment. Transcript-grounded context: \"Ramp saves companies 5%, it's no wonder.\"",
+  "important_facts": [
+    "Lead Edge talks to about 9,000 companies per year, filters to roughly 900 that meet at least five criteria, diligences 150-175, and does 5-7 deals annually. Its seventh fund was $3.5B. Why have 800 executive LPs instead of 20 big institutions? A former GM CEO can open an automotive software door better than a 22-year-old associate. Because 9,000 companies has to become a manageable strike zone.",
+    "Deal targets are 2-5x in 3-7 years, around 25% net IRR at the deal level, and 2-2.25x net MOIC with 20% net IRR at the fund level. Funds usually hold about 20 investments, not 100-150. Why have 800 executive LPs instead of 20 big institutions? A former GM CEO can open an automotive software door better than a 22-year-old associate. Because 9,000 companies has to become a manageable strike zone.",
+    "Lead Edge has about 800 LPs, 95% by number are executives and entrepreneurs. Roughly 70% of recent deployment is creative: special situations, secondary, CVs, derivatives, or public positions. Why have 800 executive LPs instead of 20 big institutions? A former GM CEO can open an automotive software door better than a 22-year-old associate. Because 9,000 companies has to become a manageable strike zone."
+  ],
+  "mental_model": {
+    "name": "Investment Firm as Software Machine",
+    "components": "Lead Edge's LP base is not just capital; it is part of the product. They help get calls returned, diligence customers, and create introductions after investment. A former GM CEO can open an automotive software door better than a 22-year-old associate. The criteria are a focus tool, not a magic alpha formula. Because 9,000 companies has to become a manageable strike zone. Five criteria produce about a 10% yield and let the team spend time on 900 plausible companies instead of everything. AI is both opportunity and valuation risk. He thinks public software is hated and may be attractive, but AI capex resembles telecom overbuild risk. He worries model commoditization and energy needs make some private AI valuations impossible, while infrastructure software like ClickHouse and Grafana can still show exceptional growth with good economics.",
+    "application": "Green describes Lead Edge as an engineered machine: 9,000 company calls, a tight software filter, 800 executive LPs, and a real sell discipline. It is useful and detailed, but more operating playbook than top-tier episode. He emphasizes this directly in the conversation: \"Lead Edge is have a company and not tell.\" Green argues public software is hated, while deeply implemented systems of record with 98-99% retention may be incumbents' game to lose as AI adoption unfolds. OpenAI remains strategically central, but Green says paying $100B+ is 'a little insane' unless earnings scale enough to justify the capital intensity. Green sees telecom-style overbuild risk in AI infrastructure and questions whether power costs, model commoditization, and private valuations can support today's capex curve. A former GM CEO can open an automotive software door better than a 22-year-old associate. Well,.\" Could it be.\""
+  },
+  "key_insights": [
+    {
+      "view": "Lead Edge's LP base is not just capital; it is part of the product.",
+      "question": "Why have 800 executive LPs instead of 20 big institutions?",
+      "answer": "They help get calls returned, diligence customers, and create introductions after investment. A former GM CEO can open an automotive software door better than a 22-year-old associate."
+    },
+    {
+      "view": "The criteria are a focus tool, not a magic alpha formula.",
+      "question": "If eight-criteria deals do not outperform five-criteria deals, why use the criteria?",
+      "answer": "Because 9,000 companies has to become a manageable strike zone. Five criteria produce about a 10% yield and let the team spend time on 900 plausible companies instead of everything. Well,.\""
+    },
+    {
+      "view": "AI is both opportunity and valuation risk.",
+      "question": "Where does Green disagree with the AI consensus?",
+      "answer": "He thinks public software is hated and may be attractive, but AI capex resembles telecom overbuild risk. He worries model commoditization and energy needs make some private AI valuations impossible, while infrastructure software like ClickHouse and Grafana can still show exceptional growth with good economics. 2 million bucks. Could it be.\""
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "IGV",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Green argues public software is hated, while deeply implemented systems of record with 98-99% retention may be incumbents' game to lose as AI adoption unfolds."
+    },
+    {
+      "ticker": "Private:OpenAI",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "OpenAI remains strategically central, but Green says paying $100B+ is 'a little insane' unless earnings scale enough to justify the capital intensity."
+    },
+    {
+      "ticker": "Basket:AI infrastructure (NVDA/AVGO/VRT)",
+      "direction": "Short",
+      "confidence": "Medium",
+      "thesis": "Green sees telecom-style overbuild risk in AI infrastructure and questions whether power costs, model commoditization, and private valuations can support today's capex curve."
+    }
+  ],
+  "golden_quotes": [
+    "On Lead Edge's cold-calling engine, Green says the core lesson is simple: 'People love to talk.'",
+    "He describes sourcing as both research and persuasion: 'It's investigative journalism with sales.'",
+    "On market timing, his disposition discipline cuts both ways: 'When things get scary, you're going to want to buy.'"
+  ],
+  "chronology": {
+    "subject": "Lead Edge Capital",
+    "events": [
+      {
+        "date": "late 2000s",
+        "event": "Green and partners bring Bessemer/Insight cold-calling discipline into Lead Edge"
+      },
+      {
+        "date": "2010s",
+        "event": "Builds executive LP network and the Lead Edge Eight criteria"
+      },
+      {
+        "date": "2015-2018",
+        "event": "Multiple expansion boosts returns; firm sells into strength"
+      },
+      {
+        "date": "2020-2021",
+        "event": "High-priced venture growth vintages likely face weak outcomes"
+      },
+      {
+        "date": "2024-2026",
+        "event": "AI drives software selloff and creates public software opportunities"
+      },
+      {
+        "date": "2026",
+        "event": "Fund VII at $3.5B; secondaries and special situations are about 70% of deployment"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

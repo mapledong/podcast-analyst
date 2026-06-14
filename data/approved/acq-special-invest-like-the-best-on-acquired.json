@@ -1,0 +1,134 @@
+{
+  "episode_id": "acq-special-invest-like-the-best-on-acquired",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 106,
+    "title": "Acquired",
+    "guest": "Invest Like the Best",
+    "guest_role": "Season 7",
+    "date": "2020-10-06",
+    "duration_minutes": 110,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/special-invest-like-the-best-on-acquired",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch v5.1 — Season 7 specials | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Quant Investing",
+    "Media Flywheel",
+    "OSAM"
+  ],
+  "conclusion": "Patrick O'Shaughnessy traces three generations of O'Shaughnessy Capital/OSAM — his father's quantitative Graham-and-Dodd screening, the 2008 crisis pivot, and today's Canvas platform licensing plus Invest Like the Best media empire. The core thesis: asset management is becoming a media business and media is becoming an asset management distribution channel. OSAM deviates from vanilla long-only fees by productizing research via Canvas (debating whether to license to competitors), launching an early-stage fund alongside public quant strategies, and spinning up Infinite Powers — a narrative-driven podcast on business plot arcs. Patrick's power comes from brand: high quality, low variance, over time — the same persistence drivers as top-tier venture firms.",
+  "background": "Patrick O'Shaughnessy — CEO of O'Shaughnessy Asset Management and host of Invest Like the Best — joins for a crossover special. David opens with O'Shaughnessy Capital Management, founded by Patrick's father on academic quantitative value screening married to media evangelism (the first Invest Like the Best iteration). Patrick narrates graduating into the 2008 crisis (Bear Stearns/JPMorgan moment), OSAM's evolution beyond long-only fee models, the Canvas platform (vertical vs. horizontal licensing tension with competitors), and how the podcast became a research flywheel — surfacing scale-advantage businesses like Spotify and Netflix. He manages concurrent initiatives: codifying business knowledge, early-stage investing, Infinite Powers podcast, and running OSAM. The episode grades acquisitions, discusses Taylor Pearson/Austin Rief's 'investing is media' thesis, and contrasts Western startup narrative scarcity with China's plot-driven tech discourse. Wealthfront-style set-and-forget portfolios contrast with Netfolio's cloned-portfolio concept. Patrick grades acquisitions on-air. China tech 'plot' discourse versus Western financial-statement focus informs Infinite Powers' narrative lens. LP community 7-day trial funnels listeners into deeper OSAM and ILTB engagement.",
+  "important_facts": [
+    "O'Shaughnessy Capital Management pioneered quantitative Graham-and-Dodd screening with media evangelism — Invest Like the Best is the second iteration of that brand.",
+    "Patrick graduated in 2007 alongside the 2008 financial crisis; Bear Stearns sold to JPMorgan for $2/share during his entry into markets.",
+    "SoftBank Vision Fund deployed billion-dollar checks that raised private-market prices across venture over the last decade.",
+    "OSAM's Canvas platform sparked vertical-vs-horizontal debate: whether to license research tools to competing asset managers.",
+    "Patrick's brand power framework mirrors venture persistence: high quality, low variance, over time — sustaining top-tier franchise economics."
+  ],
+  "mental_model": {
+    "name": "Media-Research Flywheel",
+    "components": "Public investing and venture increasingly reward distribution plus insight compounding. Podcasts surface scale-advantage research (Spotify podcasting, Netflix content amortization) that feeds back into allocation decisions. Long-only fee compression pushes managers toward performance components (VC/PE model) while private markets absorbed billions that distorted venture pricing. Brand equals high quality + low variance + time — durable edge when performance alone commoditizes.",
+    "application": "Founders and investors should treat content as research infrastructure, not marketing garnish. Patrick runs public quant, early-stage, and narrative podcasting concurrently because each feeds deal flow and LP trust. Before launching a fund, ask whether your media audience amortizes diligence costs the way OSAM's does."
+  },
+  "competitive_advantage": "OSAM's edge stacks multi-generational quant heritage, media distribution, and platform productization. Patrick's father built data-driven value investing before 'quant' was fashionable; Patrick added crisis-tested resilience and Canvas as a licensable research OS. Invest Like the Best provides LP-grade diligence access that traditional asset managers cannot replicate without conflicting with their salesforce. The early-stage fund and Infinite Powers podcast extend the brand into venture and narrative analysis — capturing China's 'plot-driven' tech discourse advantage for Western audiences. Canvas licensing decision (competitors vs. exclusivity) is the classic platform vertical-horizontal tension. Weaknesses: concurrent CEO/podcaster/VC roles risk focus dilution; quant strategies face capacity constraints; media flywheel depends on Patrick's personal brand; and performance fees remain harder to earn in public markets than private. SAC-like competitors building Canvas equivalents would be threatening — but hedge funds monetize performance, not research licenses. Grades on acquisitions and Patrick's kindest-memory close reinforce human capital as the enduring moat. OSAM's multi-product strategy mirrors platform thinking: Canvas as licensable research OS, early-stage fund for optionality, Infinite Powers for narrative forecasting, and ILTB as distribution. Patrick's father built the quant-value library before data was cheap; Patrick added crisis-tested resilience and media as customer acquisition. The vertical-horizontal Canvas debate — sell to SAC-like competitors or keep proprietary — is identical to AWS's enterprise dilemma. Performance-fee psychology in private markets (SoftBank Vision Fund) distorted venture pricing for a decade; OSAM's public-market discipline offers contrast. Grading acquisitions on-air and Patrick's kindest-memory close humanize what could otherwise read as abstract asset-management theory. Don Valentine's question-and-listen skill applies across Patrick's concurrent CEO, podcaster, and VC roles. Netfolio cloned-portfolio concept and Wealthfront automation show how OSAM's quant heritage evolved with fintech distribution. Taylor Pearson/Austin Rief media thesis positions ILTB as customer acquisition for Canvas licenses and early-stage deal flow. Patrick's kindest-memory close and acquisition grading segment humanize OSAM beyond quant jargon. China plot-driven tech discourse versus Western financial-statement focus remains a research edge for Infinite Powers and ILTB cross-pollination. SAC building Canvas would terrify incumbents — but hedge funds monetize performance, not research licenses.",
+  "key_insights": [
+    {
+      "view": "Investing and media are converging businesses.",
+      "question": "Why is ILTB the second iteration of OSAM's insight?",
+      "answer": "Patrick's father evangelized quant value research through media before podcasts existed. Today's managers face fee compression in long-only public equity while VC/PE absorbed billions with performance fees. ILTB amortizes research across a large audience — the Taylor Pearson/Morning Brew thesis that asset management is becoming media. The episode's 2020 recording date anchors these dynamics before subsequent CBA, streaming, and geopolitical shifts — but the structural incentives remain instructive for media and platform investors."
+    },
+    {
+      "view": "Brand power equals quality times consistency times duration.",
+      "question": "Where does OSAM derive power?",
+      "answer": "High quality, low variance, over time — mirroring venture persistence at Sequoia/a16z. Performance alone commoditizes; brand lets OSAM launch Canvas, early-stage funds, and Infinite Powers without cold-starting trust each time."
+    },
+    {
+      "view": "Canvas is a platform strategy decision, not a feature.",
+      "question": "License to competitors or keep proprietary?",
+      "answer": "Vertical integration preserves alpha but caps TAM; horizontal licensing scales research tooling like AWS but risks arming rivals. Patrick debated this explicitly — the answer shapes whether OSAM is a fund or a fintech platform."
+    },
+    {
+      "view": "Narrative literacy is an investing edge.",
+      "question": "Why launch Infinite Powers podcast?",
+      "answer": "China tech discourse centers plot arcs ('where does this end?'); Western investing often lacks narrative framing. Infinite Powers applies story-structure analysis to business — extending ILTB's research flywheel into long-horizon strategic forecasting."
+    },
+    {
+      "view": "SoftBank proved blunt capital distorts venture.",
+      "question": "What changed in private markets over 10 years?",
+      "answer": "Billions flooded venture with performance-fee psychology, raising prices and making $1B checks hard to deploy efficiently. Patrick contrasts OSAM's disciplined quant heritage with Vision Fund-style deployment that became an Acquired running joke for 2.5 years."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "SPOT",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Patrick cites Spotify podcasting as scale-advantage amortization — ILTB research flywheel repeatedly surfaces platform businesses where audience size lowers per-unit content cost."
+    }
+  ],
+  "golden_quotes": [
+    "\"High quality, low variance, and time\" — Patrick's brand-power framework, paralleling venture capital persistence.",
+    "\"The investing business is becoming the media business\" — David citing Taylor Pearson and Austin Rief's exchange on VC/media convergence.",
+    "\"Learning to ask the right questions and listen to the answers\" — Ben citing Don Valentine on the core VC skill Patrick exercises across OSAM initiatives."
+  ],
+  "chronology": {
+    "subject": "O'Shaughnessy Asset Management",
+    "events": [
+      {
+        "date": "1990s",
+        "event": "Patrick's father founds O'Shaughnessy Capital Management on quant value screens"
+      },
+      {
+        "date": "2007",
+        "event": "Patrick graduates into pre-crisis markets"
+      },
+      {
+        "date": "2008",
+        "event": "Financial crisis; Bear Stearns/JPMorgan moment reshapes OSAM path"
+      },
+      {
+        "date": "2010s",
+        "event": "First Invest Like the Best media iteration evolves into podcast"
+      },
+      {
+        "date": "2010s",
+        "event": "OSAM develops Canvas research platform"
+      },
+      {
+        "date": "2010s",
+        "event": "SoftBank Vision Fund era raises private-market prices globally"
+      },
+      {
+        "date": "2020",
+        "event": "Patrick launches Infinite Powers narrative podcast"
+      },
+      {
+        "date": "2020",
+        "event": "OSAM early-stage investment fund operates alongside public strategies"
+      },
+      {
+        "date": "2020",
+        "event": "Acquired crossover special recorded"
+      },
+      {
+        "date": "Ongoing",
+        "event": "Invest Like the Best remains top-tier business podcast"
+      }
+    ]
+  }
+}

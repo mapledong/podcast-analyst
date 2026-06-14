@@ -1,0 +1,116 @@
+{
+  "episode_id": "ep438",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 438,
+    "title": "Performance During Pain",
+    "guest": "Mark Bertolini",
+    "guest_role": "Former CEO, Aetna; CEO, Oscar Health",
+    "date": "2025-08-19",
+    "duration_minutes": 98,
+    "youtube_url": "https://www.youtube.com/watch?v=937hn2TW-d0",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=937hn2TW-d0",
+      "colossus": "https://joincolossus.com/episode/performance-during-pain/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Healthcare",
+    "Oscar Health",
+    "Employer Insurance"
+  ],
+  "conclusion": "Bertolini's healthcare argument comes from scars, not theory. After a near-fatal ski accident, years of severe pain, Aetna, CVS, and now Oscar, he wants U.S. health insurance to shift from employer-selected group plans to consumer-selected individual coverage with better incentives.",
+  "background": "Mark Bertolini grew up in Detroit, became a paramedic, entered healthcare through HMOs, ran Aetna, helped sell it to CVS, and later joined Oscar Health. The episode mixes his personal pain story with a detailed critique of employer-sponsored insurance, the ACA individual market, diabetes economics, end-of-life care, and the plumbing of health-plan platforms.",
+  "important_facts": [
+    "In 2004 Bertolini hit a tree while skiing, broke five vertebrae, slid about 60 feet into a river, was in a coma for five days, and then lived with level 7-10 pain while sleeping roughly one hour a night for 18 years. He cites two out of five Americans borrowing $74.9B for healthcare out-of-pocket costs; uncontrolled diabetics cost about $1,600-$1,700 per month versus about $900 when controlled, leaving a ≈$700 monthly intervention opportunity.",
+    "Oscar covered about 2 million ACA lives at taping and runs what Bertolini calls the first new health-insurance platform built since 1972. He says Oscar could serve 125 million people if individual-choice models expand. Additional operating detail: In 2004 Bertolini hit a tree while skiing, broke five vertebrae, slid about 60 feet into a river, was in a coma for five days, and then lived with level 7-10 pain while sleeping roughly one hour a night for 18 years.",
+    "He cites two out of five Americans borrowing $74.9B for healthcare out-of-pocket costs; uncontrolled diabetics cost about $1,600-$1,700 per month versus about $900 when controlled, leaving a ≈$700 monthly intervention opportunity. Key quantitative evidence: In 2004 Bertolini hit a tree while skiing, broke five vertebrae, slid about 60 feet into a river, was in a coma for five days, and then lived with level 7-10 pain while sleeping roughly one hour a night for 18 years."
+  ],
+  "mental_model": {
+    "name": "Consumer-Controlled Risk Pool",
+    "components": "Employer-sponsored insurance hides price and choice from the person who uses care. Eliminate employer-sponsored insurance over time and move to individual buying with defined contributions. He argues small employers have paid double-digit rate increases for five years and workers still get limited choice plus out-of-pocket exposure. Oscar is a platform bet on subsidized and individual markets, not a conventional insurer with a newer app. It has 2 million ACA members today, a cloud-native platform, and a thesis that 79 million middle-market workers plus tens of millions of gig workers can move into individual choice models. Oscar covered about 2 million ACA lives at taping and runs what Bertolini calls the first new health-insurance platform built since 1972. Better rules can lower cost and improve dignity at the same time. When rules allowed earlier hospice without forcing people to surrender hope, hospice participation moved from 18% to 75% and end-of-life costs were 75% lower in his example. He cites two out of five Americans borrowing $74.9B for healthcare out-of-pocket costs; uncontrolled diabetics cost about $1,600-$1,700 per month versus about $900 when controlled, leaving a ≈$700 monthly intervention opportunity.",
+    "application": "Bertolini's healthcare argument comes from scars, not theory. After a near-fatal ski accident, years of severe pain, Aetna, CVS, and now Oscar, he wants U.S. health insurance to shift from employer-selected group plans to consumer-selected individual coverage with better incentives. Oscar's upside depends on ACA scale, individual choice, and converting a 2M-life base into a much larger consumer insurance platform. A shift away from employer-selected group plans could pressure incumbent managed-care models, while still rewarding carriers that manage individual risk and care navigation well. If coverage dollars move from employers to individuals, patients will need tools to choose networks, benefits, and condition programs without HR departments acting as intermediaries. In 2004 Bertolini hit a tree while skiing, broke five vertebrae, slid about 60 feet into a river, was in a coma for five days, and then lived with level 7-10 pain while sleeping roughly one hour a night for 18 years. He says Oscar could serve 125 million people if individual-choice models expand. He cites two out of five Americans borrowing $74.9B for healthcare out-of-pocket costs; uncontrolled diabetics cost about."
+  },
+  "key_insights": [
+    {
+      "view": "Employer-sponsored insurance hides price and choice from the person who uses care.",
+      "question": "What reform does Bertolini want most?",
+      "answer": "Eliminate employer-sponsored insurance over time and move to individual buying with defined contributions. He argues small employers have paid double-digit rate increases for five years and workers still get limited choice plus out-of-pocket exposure. In 2004 Bertolini hit a tree while skiing, broke five vertebrae, slid about 60 feet into a river, was in a coma for five days, and then lived with level 7-10 pain while sleeping roughly one hour a night for 18 years."
+    },
+    {
+      "view": "Oscar is a platform bet on subsidized and individual markets, not a conventional insurer with a newer app.",
+      "question": "Why does he think Oscar can scale?",
+      "answer": "It has 2 million ACA members today, a cloud-native platform, and a thesis that 79 million middle-market workers plus tens of millions of gig workers can move into individual choice models. Oscar covered about 2 million ACA lives at taping and runs what Bertolini calls the first new health-insurance platform built since 1972. He says Oscar could serve 125 million people if individual-choice models expand."
+    },
+    {
+      "view": "Better rules can lower cost and improve dignity at the same time.",
+      "question": "What did he learn from end-of-life care?",
+      "answer": "When rules allowed earlier hospice without forcing people to surrender hope, hospice participation moved from 18% to 75% and end-of-life costs were 75% lower in his example. He cites two out of five Americans borrowing $74.9B for healthcare out-of-pocket costs; uncontrolled diabetics cost about $1,600-$1,700 per month versus about $900 when controlled, leaving a ≈$700 monthly intervention opportunity."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "OSCR",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Oscar's upside depends on ACA scale, individual choice, and converting a 2M-life base into a much larger consumer insurance platform."
+    },
+    {
+      "ticker": "UNH",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "A shift away from employer-selected group plans could pressure incumbent managed-care models, while still rewarding carriers that manage individual risk and care navigation well."
+    },
+    {
+      "ticker": "Private:Healthcare navigation platforms",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "If coverage dollars move from employers to individuals, patients will need tools to choose networks, benefits, and condition programs without HR departments acting as intermediaries."
+    }
+  ],
+  "golden_quotes": [
+    "\"Bertolini says his accident left him with the daily reminder to remember you will die, which changed how he led and allocated time.\"",
+    "\"His core policy view is blunt: the U.S. needs to eliminate employer-sponsored insurance and let individuals choose coverage with dollars in hand.\"",
+    "\"He frames diabetes as an actionable cost pool: uncontrolled patients cost about $1,600-$1,700 a month, while controlled diabetics can get down near $900.\""
+  ],
+  "chronology": {
+    "subject": "Mark Bertolini",
+    "events": [
+      {
+        "date": "1950s-70s",
+        "event": "Grows up in Detroit as the oldest of six in a working-class family. "
+      },
+      {
+        "date": "2002-03",
+        "event": "His son enters hospice and then comes home after Bertolini finds a possible treatment. "
+      },
+      {
+        "date": "2004",
+        "event": "Ski accident leaves him with broken vertebrae, nerve damage, and years of severe pain. "
+      },
+      {
+        "date": "2010s",
+        "event": "Runs Aetna and later sells it to CVS. "
+      },
+      {
+        "date": "2025",
+        "event": "Leads Oscar Health and argues for individual-choice insurance at national scale. "
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "restored_from_outputs": true,
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

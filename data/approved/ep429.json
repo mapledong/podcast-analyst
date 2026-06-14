@@ -1,0 +1,116 @@
+{
+  "episode_id": "ep429",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 429,
+    "title": "Keys to Successful Growth Investing",
+    "guest": "Jay Hoag",
+    "guest_role": "Co-Founder, TCV",
+    "date": "2025-06-17",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=15dCw7lxqRk",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=15dCw7lxqRk",
+      "colossus": "https://joincolossus.com/episode/keys-to-successf…growth-investing/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Growth Investing",
+    "TCV",
+    "Technology"
+  ],
+  "conclusion": "Hoag's growth investing lesson is patience with commercialized technology, not chasing every new tool. TCV wants proven adoption, low leverage, big markets, and founders who can live through the desert of disillusionment. In 2025, overlooked consumer internet interests him more than crowded AI/SaaS.",
+  "background": "Jay Hoag co-founded TCV around 1995 and has invested through 30 years of technology cycles. TCV is a growth investor behind companies like Netflix, Spotify, Expedia, Revolut, and others. The conversation compares 1990s venture scale with today's trillion-dollar technology market, explains TCV's sourcing machine, and reflects on holding great companies through public-market pain.",
+  "important_facts": [
+    "The entire venture industry raised about $4B in 1994. In 1991 there were 31 public technology companies over $1B and 13 more between $500M and $1B; today there are six companies above $1T, including Nvidia around $2.8T and Amazon/Google around $2T. The firm tracks roughly 11 million technology companies with data on employee growth, app downloads, and usage, then makes only about six to 10 growth investments per year.",
+    "TCV's first fund was about $100M and its latest was about $3B. The firm tracks roughly 11 million technology companies with data on employee growth, app downloads, and usage, then makes only about six to 10 growth investments per year. Basket:Consumer internet (META/GOOGL/SPOT) (Long) — Hoag argues capital has crowded into AI and SaaS while consumer internet still has 5B+ smartphone users, making scaled platforms and new consumer franchises worth revisiting.",
+    "A typical TCV fund has about 20-25 investments. Netflix went public in 2002 after a difficult 2001 financing; TCV owned 43% at IPO, while Netflix later reached roughly $480B of market cap. In 1991 there were 31 public technology companies over $1B and 13 more between $500M and $1B; today there are six companies above $1T, including Nvidia around $2.8T and Amazon/Google around $2T."
+  ],
+  "mental_model": {
+    "name": "Commercialization Over Novelty",
+    "components": "The opportunity may be where capital is not staring right now. Hoag says AI and SaaS are shiny and crowded, while consumer internet has been deemphasized even though there are 5B+ smartphone users and new franchises should still be built over the next 10-20 years. The entire venture industry raised about $4B in 1994. Every great company goes through investor disillusionment. Assuming great companies move linearly. Apple, Microsoft, Netflix, and others all had periods when investors doubted them. Growth is a narrow middle ground between seed loss rates and buyout leverage. TCV invests after product availability and customer adoption, often with half the companies profitable at entry, little leverage, and upside from top-line compounding plus high incremental margins. A typical TCV fund has about 20-25 investments.",
+    "application": "Hoag's growth investing lesson is patience with commercialized technology, not chasing every new tool. TCV wants proven adoption, low leverage, big markets, and founders who can live through the desert of disillusionment. In 2025, overlooked consumer internet interests him more than crowded AI/SaaS. Netflix remains the archetype of compounding through multiple deserts of disillusionment; TCV owned 43% at IPO. Spotify fits the same long-duration consumer internet franchise pattern TCV values. Hoag argues capital has crowded into AI and SaaS while consumer internet still has 5B+ smartphone users, making scaled platforms and new consumer franchises worth revisiting. In 1991 there were 31 public technology companies over $1B and 13 more between $500M and $1B; today there are six companies above $1T, including Nvidia around $2.8T and Amazon/Google around $2T. The firm tracks roughly 11 million technology companies with data on employee growth, app downloads, and usage, then makes only about six to 10 growth investments per year. Netflix went public in 2002 after a difficult 2001 financing; TCV owned 43% at IPO, while Netflix later reached roughly $480B of market cap."
+  },
+  "key_insights": [
+    {
+      "view": "The opportunity may be where capital is not staring right now.",
+      "question": "What looks interesting in today's market?",
+      "answer": "Hoag says AI and SaaS are shiny and crowded, while consumer internet has been deemphasized even though there are 5B+ smartphone users and new franchises should still be built over the next 10-20 years. The entire venture industry raised about $4B in 1994. In 1991 there were 31 public technology companies over $1B and 13 more between $500M and $1B; today there are six companies above $1T, including Nvidia around $2.8T and Amazon/Google around $2T."
+    },
+    {
+      "view": "Every great company goes through investor disillusionment.",
+      "question": "What is the most common growth-investing mistake?",
+      "answer": "Assuming great companies move linearly. Apple, Microsoft, Netflix, and others all had periods when investors doubted them. Hoag says founders cannot build a great tech franchise part-time. TCV's first fund was about $100M and its latest was about $3B. The firm tracks roughly 11 million technology companies with data on employee growth, app downloads, and usage, then makes only about six to 10 growth investments per year."
+    },
+    {
+      "view": "Growth is a narrow middle ground between seed loss rates and buyout leverage.",
+      "question": "Why does Hoag still like growth?",
+      "answer": "TCV invests after product availability and customer adoption, often with half the companies profitable at entry, little leverage, and upside from top-line compounding plus high incremental margins. A typical TCV fund has about 20-25 investments. Netflix went public in 2002 after a difficult 2001 financing; TCV owned 43% at IPO, while Netflix later reached roughly $480B of market cap."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NFLX",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Netflix remains the archetype of compounding through multiple deserts of disillusionment; TCV owned 43% at IPO."
+    },
+    {
+      "ticker": "SPOT",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Spotify fits the same long-duration consumer internet franchise pattern TCV values."
+    },
+    {
+      "ticker": "Basket:Consumer internet (META/GOOGL/SPOT)",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Hoag argues capital has crowded into AI and SaaS while consumer internet still has 5B+ smartphone users, making scaled platforms and new consumer franchises worth revisiting."
+    }
+  ],
+  "golden_quotes": [
+    "\"Hoag says you cannot build a great technology franchise part-time; the founder has to stay fully committed through long adoption cycles.\"",
+    "\"His reminder to growth investors is that every great company goes through a desert of disillusionment when the market stops believing.\"",
+    "\"On attribution, he quotes the old line that success has many fathers while failure is an orphan, a warning about judging cycles too neatly.\""
+  ],
+  "chronology": {
+    "subject": "TCV and growth investing",
+    "events": [
+      {
+        "date": "1991",
+        "event": "Large public technology universe is only 31 companies above $1B plus 13 between $500M and $1B. "
+      },
+      {
+        "date": "1994",
+        "event": "The venture industry raises about $4B; Hoag and Rick Kimball prepare to launch TCV. "
+      },
+      {
+        "date": "1995",
+        "event": "TCV starts with a roughly $100M first fund. "
+      },
+      {
+        "date": "2001-02",
+        "event": "TCV leads a hard Netflix financing before its 2002 IPO. "
+      },
+      {
+        "date": "2025",
+        "event": "TCV celebrates 30 years, tracks 11M tech companies, and invests six to 10 times per year from a much larger platform. "
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "restored_from_outputs": true,
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

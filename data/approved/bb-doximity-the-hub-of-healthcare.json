@@ -1,0 +1,110 @@
+{
+  "episode_id": "bb-doximity-the-hub-of-healthcare",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 236,
+    "title": "Doximity: The Hub of Healthcare",
+    "guest": "Jim Jones",
+    "guest_role": "Partner & Analyst, William Blair",
+    "date": "2025-12-05",
+    "duration_minutes": 32,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://joincolossus.com/episode/doximity-the-hub-of-healthcare/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "DOCS",
+    "Healthcare Advertising",
+    "Physician Platform"
+  ],
+  "conclusion": "Jones frames Doximity as a doctor-first workflow platform monetized through pharma ads with measurable ROI — 80% physician penetration, ~90% gross margins, and a long runway as healthcare digital ad spend catches the rest of the economy while AI scribe and clinical-reference tools deepen daily use.",
+  "background": "Matt Reustle breaks down Doximity with Jim Jones of William Blair, who covers the platform often called LinkedIn for doctors. Jones traces CEO Jeff's epocrates roots in the 1990s mobile drug-reference era through Doximity's 2010 founding with Nate Gross and Sherry Buck and its 2021 IPO.\n\nThe conversation walks how a social network for referrals and job posts evolved into a daily workflow hub — newsfeed, telehealth dialer, HIPAA-compliant e-sign, secure messaging, CME credits, and AI scribe tools — while pharma advertisers target verified prescribers with one ad per 11 news items. Jones contrasts point-solution competitors with Doximity's integrated platform and explains why secular digital shift plus wallet-share gains drive the bull case.",
+  "important_facts": [
+    "Doximity reaches roughly 80% of U.S. physicians on a purpose-built healthcare workflow platform spanning news, telehealth, secure messaging, digital signing, CME credits, and AI scribe tools — doctors use the tools free while hospitals can buy enterprise dialer agreements. Jones compares the investor lens to Bloomberg or FactSet (always on) and the advertiser lens to Facebook (verified identity targeting).",
+    "Revenue is primarily pharma advertising: the HCP market grows about 5–7% annually, digital is ~75% penetrated economy-wide but only about half that in healthcare, and pharma spends roughly $10 billion per year on direct-to-consumer ads versus ~$7 billion targeting physicians. Doximity shows one ad per 11 news items; machine learning filters thousands of healthcare articles so doctors earn CME credits without sifting irrelevant content.",
+    "Jones cites ~90% gross margins, ~55% EBITDA margins, ~54% operating margins, ~$900 million of net cash (~$5 per share), and CapEx around 1% of revenue — big-brand wallet share on the platform has risen from about 10% toward 50%+ as ROI measurement drives share shift away from reps, print, and TV. COVID grounded sales reps and accelerated no-see-doctor behavior; the pharma portal now gives brands real-time ad performance feedback to expand spend."
+  ],
+  "mental_model": {
+    "name": "Doctor-First Platform with Ad Inventory",
+    "components": "Land physicians with productivity tools they use all day (news, dialer, messaging, scribe), keep engagement doctor-centric and free at the individual level, then sell pharma advertisers verified prescriber targeting with measurable script lift via third-party data — one integrated platform beats point solutions that only win if far superior. Jones says Doximity does not need to be the number-one telehealth or transcription vendor if good-enough tools stay in one place.",
+    "application": "B2B media wins when the audience is scarce, high-value, and identifiable; Doximity's moat is bundling good-enough workflow tools so doctors stay on-platform while pharma shifts digital spend from grounded reps and low-ROI TV. COVID accelerated no-see-doctor trends and digital adoption; incremental margins stay high as ad inventory scales with eyeballs without proportional cost. Jones values the stock on cash flows and secular share gains, not price-to-sales multiples meant for pre-profit ad tech."
+  },
+  "key_insights": [
+    {
+      "view": "Platform integration beats point solutions.",
+      "question": "Why don't telehealth or newsfeed competitors displace Doximity?",
+      "answer": "Jones says point solutions must be far better to pull doctors off a one-stop shop open all day. Doximity bundles Zoom-like telehealth, Slack-like messaging, newsfeed, e-sign, and AI scribe on one platform — good enough across workflows keeps 80% physician share."
+    },
+    {
+      "view": "Healthcare digital ad shift has a long runway.",
+      "question": "Where does growth come from beyond GDP?",
+      "answer": "Healthcare digital penetration trails the ~75% economy average; pharma still relies on an army of in-person reps. Jones sees dollars shifting from banner ads, print, consumer TV (hurt by risk-disclosure rules), and fewer field reps toward measurable HCP digital — Doximity's portal gives real-time ad feedback to capture wallet share."
+    },
+    {
+      "view": "Doctor engagement is the KPI that funds everything.",
+      "question": "Will Doximity charge doctors subscription fees?",
+      "answer": "Jones says charging doctors would not be surprising at the hospital-system level for AI tools, but management avoids upsetting its core audience. Free doctor tools maximize stickiness and ad inventory; ~90% gross margins and 55% EBITDA let R&D and acquisitions (clinical reference AI, scribe) recycle without crushing profitability."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "DOCS",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Jones values cash flows on secular healthcare digital shift plus wallet-share gains: 80% physician penetration, 55% EBITDA margins, ~$900M net cash, and measurable pharma ROI support durable earnings power if engagement holds."
+    }
+  ],
+  "golden_quotes": [
+    "Jones says Doximity is unapologetically doctor-first — productivity tools respect physician time while advertisers know exactly who they are targeting.",
+    "When you know where the fish are, you can fish in that pond — pharma pays for verified prescriber eyeballs, not consumer banner ads on golf.com.",
+    "Jones combines doctor-centric value proposition, a long digital runway, and strong incremental margins as the recipe for rapidly increasing earnings power."
+  ],
+  "chronology": {
+    "subject": "Doximity",
+    "events": [
+      {
+        "date": "1990s",
+        "event": "CEO Jeff builds epocrates, a mobile digital drug reference guide; company goes public and sells to Athena Health."
+      },
+      {
+        "date": "2010",
+        "event": "Jeff, Nate Gross, and Sherry Buck found Doximity as a LinkedIn-style network for medical professionals."
+      },
+      {
+        "date": "2010s",
+        "event": "Adds newsfeed, CME credits, telehealth dialer, HIPAA e-sign, secure messaging, and workflow tools beyond social networking."
+      },
+      {
+        "date": "2020",
+        "event": "COVID grounds pharma reps and accelerates digital HCP marketing adoption."
+      },
+      {
+        "date": "2021",
+        "event": "Doximity IPOs; platform monetization centers on pharma advertising with rising big-brand spend."
+      },
+      {
+        "date": "2024-25",
+        "event": "Acquires AI clinical-reference engine; launches pharma portal for real-time ad feedback and expands scribe tools."
+      },
+      {
+        "date": "2025",
+        "event": "Jones joins Business Breakdowns EP.236 as Doximity holds ~80% physician share with ~55% EBITDA margins."
+      }
+    ]
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "joincolossus",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  }
+}

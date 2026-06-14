@@ -1,0 +1,145 @@
+# EP.175 — Lockheed Martin
+
+## *Season 12 · Episode 5*
+
+**★★★★★** · 5/5
+
+**Podcast** Acquired · **Date** May 29, 2023 · **Duration** 218 min · **Read** ≈6 min
+
+**Host** Ben Gilbert & David Rosenthal
+
+
+
+**Listen**  · [Acquired](https://www.acquired.fm/episodes/lockheed-martin) · [Apple](https://podcasts.apple.com/podcast/acquired/id1050462261) · [Spotify](https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx)
+
+**Topics** Skunk Works · Defense Contracting · Military Industrial Complex
+> ### Conclusion
+>
+> LP-selected episode on America's largest government contractor (≈$50B/year from taxpayers, ≈75% of ≈$66B total revenue). Ben and David focus two Lockheed golden eras — Kelly Johnson's Skunk Works (P-38, P-80 jet in 180 days, U-2 at 70,000 ft for CIA, SR-71) and Lockheed Missiles & Space Company (Polaris sub-launched missiles, Silicon Valley origin). Skunk Works rules: small elite teams, outsourced engines (Halford Goblin), designer-near-production, mission motivation during existential Cold War. Post-SR-71, stealth F-117 saved Skunk Works (≈$2.5B, 59 planes); Desert Storm 1% missions / 40% damaged targets. 1995 Lockheed-Martin merger plus consolidation to oligopoly bidding F-35 (≈$30B+ US contract). Cost-plus pricing yields ≈8% net margin — Buffett/Munger hate incentives but fit unknowable-cost R&D. Deterrence framing shifts after researching 'killing machines' history.
+
+---
+
+## Background
+
+> Lockheed Martin = 1995 merger of Lockheed and Martin Marietta plus ≈17 predecessor firms. Allan Lockheed (Loughead) started tourist flights San Francisco Bay; bought from bankruptcy for $40,000 — Allan considered $50K bid 'insulting' but winner paid $10K less. Kelly Johnson ('could see the air') ran Skunk Works from circus tent beside Burbank plastics factory — 180-day jet mandate, ≈50 designers + ≈100 machinists max. U-2: CIA customer (not military), Edwin Land/Polaroid cameras, spacesuit pilots, $3.5M project delivered July 1955. SR-71 Mach 3+; J58 engines ≈25% of required thrust alone. LMSC in Sunnyvale: bought silicon from Shockley-era startups; sometimes >100% of Lockheed profits when rest bled. Norm Augustine quotes frame post-Cold-War consolidation. US defense budget ≈$800B (≈3–4% GDP, ≈12–20% federal budget); ≈$400B to contractors; Lockheed #1 ahead of Boeing, GD, Raytheon, Northrop.
+
+---
+
+## Key Facts
+
+> **F1** Lockheed Martin receives ≈$50B annually from US federal government — largest government contractor period; ≈75% of ≈$66B total company revenue (Ben/David); ≈8% net income margin reflecting cost-plus structure.
+
+> **F2** Skunk Works P-80 Shooting Star: Kelly Johnson, 23 engineers + ≈30 shop staff, 180-day mandate — first US jet fighter using outsourced Halford H.1B Goblin engine; model 'Lulu Belle' delivered post-WWII.
+
+> **F3** U-2 spy plane: CIA contract (not Army/Navy/Air Force); spec 70,000 ft — above Soviet ≈45K interceptor and ≈55K radar limits; total project ≈$3.5M, delivered July 1955; Polaroid/Edwin Land camera systems.
+
+> **F4** F-117 Nighthawk stealth: 59 aircraft at ≈$43M each (≈$2.5B revenue when Lockheed desperate); Desert Storm — 1% of air missions, 40% of damaged targets.
+
+> **F5** F-35 Joint Strike Fighter: ≈$30B DoD contract for 398 US aircraft cited — largest military contract; consolidation left Boeing/McDonnell Douglas merging after losses; US defense budget ≈$800B, ~half (≈$400B) to contractors.
+
+
+---
+
+## Mental Model · *Skunk Works Under Existential Mission*
+
+> **Components**
+>
+> Kelly Johnson rules distill to: (1) rapid delivery of superior products only; (2) outsource non-core (engines — aircraft makers never vertically integrated like automakers); (3) designers adjacent to factory floor; (4) skunk works manager has complete program control; (5) reward performance not headcount; (6) small motivated team — WWII/Cold War existential stakes substitute for extrinsic cajoling. Threat-based need (LMSC): build what adversary forces require, not vanity specs — Kelly lost B-2/competitions when stubborn on requirements. Intelligence > strike in Cold War: U-2/SR-71 over Soviet territory. Post-1970s decline until stealth computer-modeling win. Industry economics: oligopoly primes rotate contracts; cost-plus when costs unknowable; revenue synergy beats cost-cut M&A.
+>
+> **Application**
+>
+> R&D orgs should co-locate design and production (iPhone/Skunk Works parallel). Existential deadlines (Operation Warp Speed) cut bureaucracy — peacetime complacency kills edge. Defense investors: margin capped ≈8%; moat is certification, scale, political process — not product brilliance alone. Startups selling to primes: LMSC bought silicon from valley startups — platform risk and prime dependency. Fred Terman's Stanford Industrial Park and Lockheed's 20,000+ Sunnyvale jobs seeded the valley's commercial ethos alongside HP's 3,000 — defense procurement as demand-side venture customer.
+
+---
+
+## What Makes It Work
+
+> Lockheed Martin's moat is post-1995 scale as #1 prime contractor, classified program incumbency, and Skunk Works legacy brand for impossible timelines — U-2, SR-71, F-117 proved classified aerospace can be delivered in years not decades. Skunk Works competitive advantages: Kelly's talent bar ('see the air'), flat delegated control, engine outsourcing (Halford, J58), co-located production, mission motivation. CIA relationship bypassed service-branch bureaucracy for U-2. LMSC Sunnyvale: missile programs (Polaris underwater launch pivot), silicon supplier to emerging valley — at times entire Lockheed profit when aircraft divisions lost money. Modern: F-35 program size creates too-big-to-fail dynamics; five primes share big contracts with government awareness. Export sales require US government approval — limits but stabilizes. Weaknesses: cost-plus dulls efficiency; Kelly stubbornness lost programs; SR-71 ops cost ≈$300M/year maintenance; consolidation reduces innovation competition; 'military industrial complex' political vulnerability. Corona satellite program (declassified 1995): film buckets dropped from orbit, caught mid-air by C-130 claw — 39,000 canisters, 2.1M feet of film, Keyhole lineage to Google Earth. LMSC built Sunnyvale (≈30,000 employees vs HP ≈3,000); Woz’s father moved family for Lockheed job — ‘no Lockheed, no Apple’ thesis. Area 51 origin for U-2 tests at Groom Lake near nuclear test site. SR-71 titanium sourced via dummy firms from Soviet Union; panel gaps leaked fuel on ground until heat sealed skin. Kelly lost competitions when refusing dumb specs — threat-based need vs vanity engineering. L-1011 commercial disaster ≈$2.5B loss nearly sank company. Today F-35 ≈75% revenue concentration; export requires US approval. Ben: research shifted view on deterrence — building machines may have prevented use. Gary Powers shootdown May 1960 ended U-2 overflights; three-month blind spot until Corona film recovery worked. Hexagon/KH satellites followed Corona; GPS and weather satellites spun from same LMSC shop. Ben Rich succeeded Kelly; F-117 ‘Hopeless Diamond’ faceted stealth from Soviet-published math paper. Desert Storm validated stealth ROI. Failed Northrop Grumman merger 1997; five primes today. Augustine laws on defense acquisition dysfunction. Maverick film F/A-18 discontinued by release; Darkstar Mach-10 Lockheed nod.
+
+---
+
+## Key Insights
+
+> **1.** Skunk Works is a management system, not a mascot.
+>
+> **Q** What made Kelly Johnson's shop work?
+>
+> **A** ≈50 engineers max, complete program manager authority, designers beside machinists in Burbank unmarked building, outsource engines (180-day P-80), reward output not org size. Born in circus tent by plastics factory smell — 'skonk works' renamed Skunk Works after Li'l Abner lawsuit. Existential WWII/Cold War mission provided motivation without extra incentives.
+
+> **2.** Intelligence aircraft won the Cold War narrative.
+>
+> **Q** Why CIA not Air Force for U-2?
+>
+> **A** Cold War battleground was intelligence on Soviet nuclear capability — flying over Russia peacetime required spy agency cover. U-2 at 70,000 ft with Polaroid optics and spacesuit pilots; $3.5M total project cost. SR-71 followed for speed/altitude; satellites eventually complement.
+
+> **3.** Stealth saved Skunk Works from post-SR-71 layoffs.
+>
+> **Q** How did F-117 matter financially?
+>
+> **A** After SR-71 cancellation, Skunk Works laid off — stealth program with computer-aided design won Air Force contract; 59 F-117s at ≈$43M (≈$2.5B) when Lockheed desperate. Desert Storm: 1% missions, 40% damaged targets — proved ROI of classified R&D.
+
+> **4.** Defense industry consolidated to oligopoly game.
+>
+> **Q** What changed after Cold War?
+>
+> **A** 1995 Lockheed-Martin merger; Loral acquisition ≈$10B; failed Northrop Grumman merge attempt. F-35 ≈$30B US contract — losers (Boeing/MD) forced to combine. Five primes rotate primes/sub roles; government accepts stasis. Augustine/Tellep frame rational consolidation.
+
+> **5.** Cost-plus fits unknowable-cost weapons.
+>
+> **Q** Why ≈8% margin acceptable?
+>
+> **A** Ben/David: ≈$66B revenue, ≈8% net — cost-plus when R&D cost unknowable but investment mandatory (Buffett/Munger critique acknowledged). ≈$800B US defense budget, ≈$400B contractors, Lockheed ≈$50B largest slice — scale moat over operational excellence.
+
+---
+
+## Investment Ideas
+
+> **1. LMT** · 🟡 WATCH · ●●○ Medium
+>
+> Largest US government contractor (≈$50B/year, ≈75% of revenue) with F-35 program tailwind and oligopoly prime positioning — ≈8% margins cap upside; moat is regulatory/scale/classified incumbency rather than commercial growth optionality.
+
+---
+
+## Golden Quotes
+
+> ""The American taxpayers pay Lockheed Martin around $50 billion a year" — Ben stating early that Lockheed is the federal government's largest contractor, full stop."
+
+> ""The night hawk flew 1% of the air missions in Desert Storm, but accounted for 40% of all damaged targets" — David on F-117 stealth impact validating Skunk Works' classified bet."
+
+> ""That guy can see the air" — Lockheed chief engineer Hall Hibbard on Kelly Johnson's intuitive aerodynamics genius."
+
+---
+
+## Chronology
+
+> *Lockheed · Skunk Works · Lockheed Martin*
+>
+> **1910s–20s** Allan and Malcolm Lockheed; Model G tourist flights San Francisco; Loughead → Lockheed spelling
+>
+> **1930s** Kelly Johnson joins; Electra era; P-38 Lightning — 10,000+ built WWII
+>
+> **1943–45** Skunk Works formed; 180-day jet mandate; P-80 Shooting Star first US jet fighter
+>
+> **1953–55** CIA contracts U-2; Edwin Land cameras; delivered July 1955 for ≈$3.5M
+>
+> **1955+** Lockheed Missiles & Space (Polaris); buys silicon from valley startups
+>
+> **1960s** SR-71 Mach 3+; J58 engine thrust challenge; spacesuit pilots
+>
+> **1983** F-117 deliveries begin; 59 aircraft ≈$43M each
+>
+> **1991** Desert Storm — F-117 1% missions, 40% damaged targets
+>
+> **Jan 1996** Lockheed-Martin merger closes; Loral defense acquisition ≈$10B
+>
+> **2000s+** F-35 JSF ≈$30B US contract; oligopoly prime contractor structure persists
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Acquired, Ben Gilbert & David Rosenthal, or Lockheed Martin. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

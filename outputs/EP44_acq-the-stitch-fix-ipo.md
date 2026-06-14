@@ -1,0 +1,145 @@
+# EP.44 — The Stitch Fix IPO
+
+## *Season 1 · Episode 49*
+
+**★★★☆☆** · 3/5
+
+**Podcast** Acquired · **Date** Dec 4, 2017 · **Duration** 78 min · **Read** ≈6 min
+
+**Host** Ben Gilbert & David Rosenthal
+
+
+
+**Listen**  · [Acquired](https://www.acquired.fm/episodes/the-stitch-fix-ipo) · [Apple](https://podcasts.apple.com/podcast/acquired/id1050462261) · [Spotify](https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx)
+
+**Topics** Stitch Fix IPO · Katrina Lake · Algorithmic Retail
+> ### Conclusion
+>
+> Stitch Fix IPO episode (≈78 min, Dec 2017): Katrina Lake founded Rack Habit at HBS (2010), renamed Stitch Fix after Baseline seed. Hybrid data science plus 3,400 part-time stylists shipping curated five-item boxes — $20 styling fee credited toward purchases, 25% discount if all five kept. ≈$977M fiscal 2017 revenue (+34% YoY), $60M EBITDA; only ≈$42M total VC raised. Benchmark Bill Gurley $12M at $40M post (2013) after Katrina showed three-statement Excel model. IPO downsized to $15/share (below $18–20 range) Nov 16, 2017 — ≈$1.5B market cap; traded ≈$18.62 a week later. Katrina ≈15% ownership (≈$250M). Hosts grade IPO B; narrative disconnect vs private hype.
+
+---
+
+## Background
+
+> Episode 49 contrasts private momentum ('crushing it') with disappointing public reception. Co-founder Erin Flynn departed (lawsuit referenced). Trunk Club (men, acquired by Nordstrom) inspired women-focused assisted commerce. Key hires: Mike Smith (Walmart.com COO), Eric Colson (Netflix VP data science) — 'Netflix of fashion' positioning after retention improved. Compared to Blue Apron IPO flop as subscription-commerce cautionary tale. Ben Thompson/Bloomberg cited on cohort saturation. Carve out: Blue Bottle coffee quote. Hosts note customers don't care about stock price unlike enterprise SaaS IPO pop dynamics.
+
+---
+
+## Key Facts
+
+> **F1** Stitch Fix raised approximately $42 million total venture capital before IPO — $750K Baseline seed (Steve Anderson, first Instagram investor), $2M bridge when 8 weeks from payroll, $4.75M Series A (≈$14M post from Lightspeed), Benchmark $12M at $40M post (2013), plus $30M insider round at $300M post (2015). Reached ≈$977 million fiscal 2017 revenue in under 7 years; David grades IPO a B on Episode 49 per hosts.
+
+> **F2** IPO priced November 16, 2017 at $15 per share below $18–20 proposed range — approximately $1.5 billion initial market capitalization versus $1.8–2B target. Traded ≈$18.62 per share roughly one week later — within original range but no big first-day pop. Last private round $300M valuation still delivered ≈5x+ for Series C insiders despite roadshow-driven downsizing after Blue Apron skepticism.
+
+> **F3** Katrina Lake retained roughly 15% ownership post-IPO — shares worth approximately $250 million at pricing; picked up ≈$17 million cash morning of IPO. Co-founder Aaron Morrison Flynn (J.Crew buyer) partnered at HBS on Rack Habit (2010); company moved from Boston to San Francisco after Baseline seed and renamed Stitch Fix.
+
+> **F4** 3,400 part-time remote stylists (≈$15/hour) assemble every fix using algorithm output plus human judgment — Eric Colson (Netflix VP data science) hire improved retention and keep rates significantly per hosts. Each box: 5 items, $20 styling fee (credited if purchased), 25% discount if all 5 kept. Shipped 100,000th fix around 2013 Series A close; Trunk Club pioneered men's curated boxes before Nordstrom acquired that Chicago competitor.
+
+> **F5** Fiscal 2016: $730M revenue, $72M EBITDA, $25M advertising spend; fiscal 2017: ≈$977M revenue (+34% YoY vs 100%+ prior years), $60M EBITDA (down as company invested in infrastructure and men's/plus/maternity verticals), advertising roughly tripled to over $70M. Ben Thompson cited core segment saturating after Blue Apron IPO disappointment tainted non-Amazon commerce category psychology on Wall Street in 2017.
+
+
+---
+
+## Mental Model · *Human-in-the-Loop Personalization*
+
+> **Components**
+>
+> Algorithm narrows inventory; stylist adds taste judgment — hybrid beats pure recommendation for subjective apparel fit. Eric Colson (Netflix algorithms) improved retention and keep rates; stylists see data-engine output plus measurement-based fit (not letter sizes — actual garment dimensions). Capital efficiency: prove unit economics before scaling — $42M to ≈$1B revenue, cash-flow positive since ≈2014 ($42M EBITDA FY2015 on $343M revenue). Inventory-heavy retail requires three-statement modeling Katrina showed Gurley — unlike typical startup projections. IPO downsizing signals public skepticism on subscription/assisted-commerce category post-Blue Apron, not necessarily business quality.
+>
+> **Application**
+>
+> Retail tech should pair ML with domain expert where taste matters — 3,400 stylists create variance competitors can't copy with pure ML. Monitor advertising/revenue ratio: $25M→$70M ad spend while growth decelerated 100%+ to 34% — classic core-market saturation. 'Profits first' anti-Amazon playbook: positive unit economics per cohort before blitzscaling. Voting machine vs weighing machine: Silicon Valley hype exceeded public-market cohort concerns.
+
+---
+
+## What Makes It Work
+
+> Stitch Fix moat: stylist network plus fit-data feedback loop — each shipment improves personalization via returns data and measurement cataloging; Pinterest/social sleuthing at onboarding. Eric Colson Netflix team brought recommendation rigor — retention and keep rates rose post-hire. Capital efficiency attracted Gurley ('never happened in my venture career' on three-statement model at Series A pitch). Weaknesses: Amazon Wardrobe era competition; CAC tripling ($70M+ ads FY2017) as marginal customers harder/cheaper-LTV; Blue Apron tainted subscription-commerce IPO class; S-1 cohort disclosure weaker than Atlassian per hosts/Ezra Galston 'Unboxing Stitch Fix S1'. Versus Trunk Club: women-focused from start; versus flash sales (Gilt/Groupon): full-price positioning. Hosts grade IPO B — necessary timing, variance to A if data-science platform expands beyond narrow segment.
+
+---
+
+## Key Insights
+
+> **1.** Capital efficiency enabled IPO optionality.
+>
+> **Q** Why only $42.5M raised?
+>
+> **A** Cash-flow positive since ≈2014 — $42M EBITDA on $343M revenue FY2015, $72M on $730M FY2016 — didn't need mega-rounds. Eight weeks from payroll at end 2012 before Baseline $2M bridge; Lightspeed topped $4.75M Series A reluctantly. Gurley $12M at $40M post (2013) after Katrina opened Excel with three-year cash-flow and income projections. $30M insider round at $300M post (2015) optional flexibility for men's/plus/maternity expansion.
+
+> **2.** Down IPO ≠ bad business.
+>
+> **Q** Why price below range?
+>
+> **A** Nov 2017 public markets skeptical on non-Amazon commerce post Blue Apron disappointment — Stitch Fix profitable but category tainted. Roadshow questions led to downsized offering; priced $15 vs $18–20 target (≈$1.5B vs $1.8–2B hoped). Traded ≈$18.62 within week — partial recovery but no big pop. Ben: customers don't care about day-one trading unlike enterprise SaaS; Katrina got appropriate value ($250M on 15%). David: Wall Street 'weighing machine' sometimes smarter than Valley hype.
+
+> **3.** Stylists are moat not cost center.
+>
+> **Q** Why humans if data science?
+>
+> **A** 3,400 part-time stylists (≈$15/hr remote) make final call after algorithm surfaces options — 'Netflix of fashion' branding post-Eric Colson hire. Every fix human-assembled; measurement-based inventory matching beats manufacturer size labels. $20 styling fee per fix (credited toward purchase); 5 items per box, 25% off if all kept — consumer psychology often keeps 3–4 and buys fifth for effective 'buy 4 get 1 free.' Apparel taste too subjective for full automation.
+
+> **4.** Saturation shows in ad spend.
+>
+> **Q** Growth deceleration?
+>
+> **A** FY2016: $730M revenue on $25M ads; FY2017: ≈$977M (+34%) on $70M+ ads (≈3x) — revenue growth far below prior 100%+ pace. Ben Thompson/Bloomberg: core segment of women who 'enjoy looking good but don't enjoy shopping' largely penetrated; word-of-mouth era ending. Cohort data shows existing customers churning or ordering less while marginal acquired customers spend less — opposite of aggregator LTV-up/CAC-down dynamic.
+
+> **5.** Women-led narrative at IPO.
+>
+> **Q** Why founding story matters?
+>
+> **A** Founded 2010 by Katrina Lake (Stanford undergrad, HBS) and Aaron Morrison Flynn (J.Crew buyer) as Rack Habit in Boston — moved SF after Baseline seed, renamed Stitch Fix. Trunk Club pioneered men's curated boxes (Nordstrom acquired); Stitch Fix targeted women Trunk Club ignored. Gurley actively sought 'Trunk Club for women.' Hosts grade IPO B (David) — necessary move, timing hurt by Blue Apron overhang; Katrina 'exceedingly well-run' with first-principles financial discipline rare in commerce.
+
+---
+
+## Investment Ideas
+
+> **1. SFIX** · 🟢 LONG · ●●○ Medium
+>
+> Capital-efficient hybrid model with positive EBITDA at ≈$1B scale — monitor ad-spend/revenue ratio and cohort retention as core segment saturates; downside if CAC/LTV inversion persists post-IPO.
+
+---
+
+## Golden Quotes
+
+> ""Only $42 million raised to nearly $1 billion revenue." — host awe at capital efficiency."
+
+> ""That has never happened in the history of my venture career." — Bill Gurley on Katrina's three-statement Excel at first meeting."
+
+> ""Unfortunately the IPO was downsized — disconnect between momentum and public reception." — Ben on $15 pricing vs private hype."
+
+---
+
+## Chronology
+
+> *Stitch Fix*
+>
+> **2010** Founded as Rack Habit at Harvard Business School
+>
+> **2011** Baseline $750K seed; move to SF; rename Stitch Fix
+>
+> **2012** Mike Smith (Walmart.com) and Eric Colson (Netflix) hired
+>
+> **2013** Benchmark $12M Series A at ≈$40M valuation
+>
+> **2014** Cash-flow positive; $73M revenue
+>
+> **2015** $343M revenue; $42M EBITDA; $30M at ≈$300M val
+>
+> **2016** $730M revenue; $72M EBITDA; $25M advertising
+>
+> **2017** ≈$977M revenue; $60M EBITDA; S-1 filed October
+>
+> **2017-11-16** IPO prices $15/share below $18–20 range
+>
+> **2017-12** Acquired Episode 49 analysis; ≈$18.62 trading
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Acquired, Ben Gilbert & David Rosenthal, or The Stitch Fix IPO. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

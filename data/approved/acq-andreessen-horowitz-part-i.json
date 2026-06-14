@@ -1,0 +1,135 @@
+{
+  "episode_id": "acq-andreessen-horowitz-part-i",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 129,
+    "title": "Andreessen Horowitz Part I",
+    "guest": "Andreessen Horowitz Part I",
+    "guest_role": "Season 9 · Episode 1",
+    "date": "2021-07-26",
+    "duration_minutes": 126,
+    "youtube_url": "",
+    "links": {
+      "youtube": "",
+      "acquired": "https://www.acquired.fm/episodes/andreessen-horowitz-part-i",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "Netscape",
+    "Loudcloud",
+    "Opsware"
+  ],
+  "conclusion": "Part I traces Marc Andreessen and Ben Horowitz from opposite origins — Ben's Berkeley Black Panthers-adjacent childhood vs. Marc's rural Iowa $6.25/hour NCSA Mosaic — through Netscape's 16-month IPO ($3B market cap, 80% browser share), Microsoft IE bundling, and Loudcloud/Opsware survival. Netscape did $85M/$346M/$534M revenue 1995–97; Loudcloud sold infrastructure to EDS for $63.5M, pivoted Opsware (pimp-themed internal tool 'Jive'), sold to HP for $1.6B (~$14.25/share). Benchmark Series A drama ($6M Marc personal check) planted a16z seeds. Super-angel era: 36 deals in 3 years, ~$200K checks. IM exchange ending Part I: 'We ought to start a VC firm.' Rated 3/5: strong history and business insight, standard Acquired depth for the era — not a definitive reference vs. dedicated biographies or technical white papers.",
+  "background": "Season 9 opens a16z two-parter. David discloses Kindergarten Ventures LPs include a16z GPs. Ben Horowitz born London 1966 to radical activist father David Horowitz (Ramparts, Black Panthers); Marc from New Lisbon, Wisconsin (~2,554 people). Mosaic: 12 users Feb 1993 → 1M by early 1994 (~10% of internet). Netscape IPO Aug 1995 priced $28, opened $75, closed $58 (~$3B cap).",
+  "important_facts": [
+    "Marc Andreessen paid $6.25/hour at NCSA; Mosaic hit ~1M users by early 1994 from 12 in February 1993.",
+    "Netscape IPO August 1995: priced $28/share, first trade $75, closed $58 — ~$3B market cap; 16 months from founding.",
+    "Netscape revenue: $85M (1995), $346M (1996), $534M (1997) — enterprise server division led by Ben Horowitz.",
+    "Loudcloud sold infrastructure business to EDS for $63.5M (~10¢ on dollar vs. prior raises); Opsware sold to HP 2007 for ~$1.6B.",
+    "Marc/Ben angel portfolio pre-firm: 36 deals in ~3 years at ~$200K max check including Twitter, Facebook, LinkedIn, Zynga. (2021 episode context)."
+  ],
+  "mental_model": {
+    "name": "Open the Closed Thing",
+    "components": "Marc's repeated playbook: Mosaic opened academic internet to masses; Netscape free browser + paid server; Loudcloud/AWS-before-AWS (too early); a16z will open VC services to founders. Counter-positioning vs. closed guilds (NCSA bureaucracy, Microsoft's IE bundling, Benchmark 'professional CEO' dogma). Survive until market catches up — Opsware at $28M market cap with $63.5M cash + $20M EDS contract. Spyglass/University of Illinois $8M IE license. Jim Clark $4M of $15M net worth into Netscape. Pets.com Loudcloud customer illustrates bubble CapEx trap. Thunderbird email client footnote; Benchmark Andy Rachleff only friendly partner.",
+    "application": "When incumbents gate specialized tools, mass-market wrapper plus distribution wins — but timing matters (Loudcloud CapEx killed before AWS demand). Founder-operator credibility beats finance-only VC if you productize services."
+  },
+  "competitive_advantage": "Pre-a16z, Marc/Ben compound network from Netscape celebrity, Loudcloud/Opsware scar tissue, and super-angel density. Marc on Facebook board (2008) after advising Zuckerberg to reject $1B Yahoo offer — only voice against sale. Ben's Opsware turnaround proves operating credibility Benchmark questioned. Michael Ovitz Loudcloud board seat → CAA-of-VC inspiration for a16z services model. Weaknesses: Marc poor operator instincts (Time barefoot cover, leaked strategy email); Loudcloud nearly bankrupt; Ning white-label social ahead of time. Mozilla open-source (1998) preserved browser lineage after AOL acquisition — Firefox emerged from Mosaic-killer codebase. Ning white-label social networks previewed creator tools but mistimed. Doug Leone's Sequoia recruiting call after Opsware sale shows respect earned through turnaround, not Netscape fame alone. Zuckerberg board relationship (2008) and HP board tenure (until 2018) extended Marc's public-company governance beyond operating roles. Netscape enterprise server vs browser strategic split under Jim Barksdale. Thomas Reardon IE prototype at Microsoft pre-tidal-wave memo. AOL chief futurist Marc role short-lived pre-Time Warner. Ben crying through layoffs per Hard Things. 45 angel investments pre-firm including Digg (Kevin Rose episode crossover).",
+  "key_insights": [
+    {
+      "view": "Mosaic growth proved mass-market internet.",
+      "question": "Why did academics resist Mosaic?",
+      "answer": "Internet elite wanted research-only purity — Marc: 'only smart people should use internet.' Mosaic went 12→1,000→10,000→1M users in ~12 months on dial-up TAM. Al Gore's 1991 bill funded Marc's $6.25/hour salary. Episode ties to broader Acquired themes: concentrated ownership, DPI over IRR marketing, and founder quality sensed before metrics confirm. The episode ties numbers to primary sources (Chernow, Russo, Chang interviews, company filings where cited) rather than secondary hype."
+    },
+    {
+      "view": "Free browser rewrote software economics.",
+      "question": "Why wasn't Netscape sold in boxes?",
+      "answer": "NCSA retained Mosaic IP; Netscape inverted model — free browser, paid servers (aggregation theory precursor). Microsoft licensed Spyglass/Mosaic for IE, paid only ~$8M total — bundling killed Netscape distribution."
+    },
+    {
+      "view": "Benchmark feud seeded a16z positioning.",
+      "question": "What happened at Loudcloud Series A?",
+      "answer": "Marc's $6M personal check raised post-money; Benchmark partner Byrne attacked Ben's CEO fitness in front of team. Marc/Ben alienated from Benchmark except Andy Rachleff — explicit later counter-positioning vs. classic VC."
+    },
+    {
+      "view": "Opsware proved Ben can salvage CapEx disasters.",
+      "question": "How recover from Loudcloud?",
+      "answer": "Sold servers for $63.5M; rebuilt provisioning software for EDS ($20M/year contract). Stock at $0.35 (~$28M cap) with $63.5M cash — five years later HP paid ~$1.6B. Doug Leone called Ben to learn turnaround mechanics."
+    },
+    {
+      "view": "Super-angel density preceded firm formation.",
+      "question": "Why start a16z in 2009?",
+      "answer": "While Sequoia wrote RIP Good Times, Marc/Ben did ~36 angel deals — most active 'VCs' who weren't a firm. Zuckerberg quote: Marc only advisor saying don't sell to Yahoo. IM to Marc: 'We ought to start a VC firm.' The episode ties numbers to primary sources (Chernow, Russo, Chang interviews, company filings where cited) rather than secondary hype."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "META",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Marc Andreessen board tenure since 2008 began with anti-Yahoo-sale advice — illustrative of a16z founder-friendly governance thesis, not a current Marc pick."
+    }
+  ],
+  "golden_quotes": [
+    "\"We ought to start a venture capital firm.\" / \"I was thinking the same thing.\" — Ben Horowitz IM to Marc Andreessen, ~2008.",
+    "\"When I got to the Valley in 1993/1994, I thought I had missed the whole thing.\" — Marc Andreessen on perpetual too-late feeling.",
+    "\"I guess we're not going to wait until the 5th to launch the strategy.\" — Ben email to Marc after premature strategy leak to press."
+  ],
+  "chronology": {
+    "subject": "Marc Andreessen & Ben Horowitz (Part I)",
+    "events": [
+      {
+        "date": "1966",
+        "event": "Ben Horowitz born London; Marc born rural Wisconsin 1971"
+      },
+      {
+        "date": "1993",
+        "event": "Mosaic launches — 12 users February, 1M by early 1994"
+      },
+      {
+        "date": "1994",
+        "event": "Netscape founded with Jim Clark; Mozilla codename"
+      },
+      {
+        "date": "Aug 1995",
+        "event": "Netscape IPO ~$3B market cap; Windows 95 six days later"
+      },
+      {
+        "date": "1998",
+        "event": "Mozilla open-sourced; AOL acquires Netscape"
+      },
+      {
+        "date": "1999",
+        "event": "Loudcloud founded — cloud before AWS"
+      },
+      {
+        "date": "2002",
+        "event": "Loudcloud sells infrastructure to EDS for $63.5M"
+      },
+      {
+        "date": "2007",
+        "event": "HP acquires Opsware for ~$1.6B"
+      },
+      {
+        "date": "2007–09",
+        "event": "Marc/Ben super-angel era — ~36 deals, ~$200K checks"
+      },
+      {
+        "date": "2009",
+        "event": "IM decision to start Andreessen Horowitz"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT Acquired batch — v5.1-acquired; a16z Part I of II | optimized v5.4"
+}

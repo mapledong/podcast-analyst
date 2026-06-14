@@ -1,0 +1,120 @@
+{
+  "episode_id": "ep418",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 418,
+    "title": "Turning Potential into Prominence",
+    "guest": "Michael Ovitz",
+    "guest_role": "",
+    "date": "2025-04-08",
+    "duration_minutes": 103,
+    "youtube_url": "https://www.youtube.com/watch?v=0RHFu4N3fq4",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0RHFu4N3fq4",
+      "colossus": "https://joincolossus.com/episode/turning-potential-into-prominence/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Talent",
+    "Institution Building",
+    "Creative Industries"
+  ],
+  "conclusion": "Ovitz's lesson is that the best institutions are founder-led before they look institutional. Across MoMA, Blackstone, CAA, Palantir, Gagosian, and Andreessen Horowitz, he looks for unusual taste, urgency, leadership, and the ability to recruit people who make the platform larger than the founder.",
+  "background": "Michael Ovitz uses stories from art, entertainment, finance, and technology to explain how he spots talent early and helps turn individual potential into durable institutions. He discusses MoMA's Glenn Lowry, Alex Karp at Palantir, Steve Schwarzman at Blackstone, Mark and Ben at Andreessen Horowitz, Josh Kushner at Thrive, and Larry Gagosian. The discussion is practical and personal: boards that meet monthly, leaders who go first, trust-based dealmaking, time as a scarce input, and how CAA became a strategic force in entertainment rather than a simple talent agency.",
+  "important_facts": [
+    "Ovitz has been on MoMA's board for about 35 years. The museum handles roughly 20,000 visitors per day, seven days a week, and has about 35,000 pieces of art in storage. He describes one entertainment transaction where the net fee to CAA was roughly $60-70M at the time, which Patrick frames as perhaps around $200M in today's dollars. The museum handles roughly 20,000 visitors per day, seven days a week, and has about 35,000 pieces of art in storage.",
+    "At CAA, Ovitz says the agency had about 76% market share of talent and represented 46 of the top 50 grossing directors, while packaging work across roughly 10 studios outside Disney. Private:Andreessen Horowitz (Watch) — A16Z is framed as a modern venture institution built around founder energy, talent density, and a platform larger than its founders. Private:Andreessen Horowitz — A16Z is framed as a modern venture institution built around founder energy, talent density, and a platform larger than its founders.",
+    "He describes one entertainment transaction where the net fee to CAA was roughly $60-70M at the time, which Patrick frames as perhaps around $200M in today's dollars. At CAA, Ovitz says the agency had about 76% market share of talent and represented 46 of the top 50 grossing directors, while packaging work across roughly 10 studios outside Disney."
+  ],
+  "mental_model": {
+    "name": "Founder Energy In Institutions",
+    "components": "The best talent often does not fit the obvious resume screen. He lacked the expected contemporary-art background, but he had founder-like energy, curiosity, communication, and leadership. Ovitz trusted those traits over conventional museum credentials. Institution builders recruit people who could threaten them. Ovitz admires leaders who hire strong people, give them real freedom, and keep asking 'what's next?' That is how Blackstone, CAA, and a16z become bigger than one person's production. At CAA, Ovitz says the agency had about 76% market share of talent and represented 46 of the top 50 grossing directors, while packaging work across roughly 10 studios outside Disney. Taste is built by looking directly, not outsourcing judgment. He says do not meet a million artists; look at pictures. The broader idea is to study the work itself until quality differences become visible without needing a committee to explain them.",
+    "application": "Ovitz's lesson is that the best institutions are founder-led before they look institutional. Across MoMA, Blackstone, CAA, Palantir, Gagosian, and Andreessen Horowitz, he looks for unusual taste, urgency, leadership, and the ability to recruit people who make the platform larger than the founder. Ovitz's Blackstone stories reinforce founder-led institution building, aggressive talent recruitment, and compounding platform scale Ovitz saw Alex Karp's unusual founder qualities long before Palantir became an obvious public AI/software trade A16Z is framed as a modern venture institution built around founder energy, talent density, and a platform larger than its founders The museum handles roughly 20,000 visitors per day, seven days a week, and has about 35,000 pieces of art in storage. At CAA, Ovitz says the agency had about 76% market share of talent and represented 46 of the top 50 grossing directors, while packaging work across roughly 10 studios outside Disney. He describes one entertainment transaction where the net fee to CAA was roughly $60-70M at the time, which Patrick frames as perhaps around $200M in today's dollars."
+  },
+  "key_insights": [
+    {
+      "view": "The best talent often does not fit the obvious resume screen.",
+      "question": "Why did Glenn Lowry work at MoMA?",
+      "answer": "He lacked the expected contemporary-art background, but he had founder-like energy, curiosity, communication, and leadership. Ovitz trusted those traits over conventional museum credentials. Ovitz has been on MoMA's board for about 35 years. The museum handles roughly 20,000 visitors per day, seven days a week, and has about 35,000 pieces of art in storage."
+    },
+    {
+      "view": "Institution builders recruit people who could threaten them.",
+      "question": "What separates founders from operators guarding turf?",
+      "answer": "Ovitz admires leaders who hire strong people, give them real freedom, and keep asking 'what's next?' That is how Blackstone, CAA, and a16z become bigger than one person's production. At CAA, Ovitz says the agency had about 76% market share of talent and represented 46 of the top 50 grossing directors, while packaging work across roughly 10 studios outside Disney."
+    },
+    {
+      "view": "Taste is built by looking directly, not outsourcing judgment.",
+      "question": "How does Ovitz build reference class?",
+      "answer": "He says do not meet a million artists; look at pictures. The broader idea is to study the work itself until quality differences become visible without needing a committee to explain them. He describes one entertainment transaction where the net fee to CAA was roughly $60-70M at the time, which Patrick frames as perhaps around $200M in today's dollars."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "BX",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Ovitz's Blackstone stories reinforce founder-led institution building, aggressive talent recruitment, and compounding platform scale"
+    },
+    {
+      "ticker": "PLTR",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Ovitz saw Alex Karp's unusual founder qualities long before Palantir became an obvious public AI/software trade"
+    },
+    {
+      "ticker": "Private:Andreessen Horowitz",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "A16Z is framed as a modern venture institution built around founder energy, talent density, and a platform larger than its founders"
+    }
+  ],
+  "golden_quotes": [
+    "\"Ovitz says time is his enemy, which is why he focuses on the few people and institutions where his judgment can matter most.\"",
+    "\"His leadership test is whether someone is the first person out of the foxhole when the institution needs courage.\"",
+    "\"Across art, finance, technology, and entertainment, Ovitz keeps returning to the same underwriting point: it is all about the founder.\""
+  ],
+  "chronology": {
+    "subject": "Michael Ovitz talent and institution stories",
+    "events": [
+      {
+        "date": "1974",
+        "event": "Ovitz started CAA despite being told an independent agency could not work "
+      },
+      {
+        "date": "1980s",
+        "event": "CAA became strategically dominant in entertainment talent and packaging "
+      },
+      {
+        "date": "30+ years ago",
+        "event": "MoMA recruited Glenn Lowry in a controversial but successful director choice "
+      },
+      {
+        "date": "20 years ago",
+        "event": "Ovitz met Alex Karp through Peter Thiel before Palantir's later prominence "
+      },
+      {
+        "date": "Recent decades",
+        "event": "Ovitz watched Blackstone, Palantir, Thrive, and a16z move from founder ambition to institution building "
+      },
+      {
+        "date": "2025",
+        "event": "Episode revisits the early traits that let potential become durable prominence "
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "restored_from_outputs": true,
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

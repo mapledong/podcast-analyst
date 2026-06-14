@@ -1,0 +1,66 @@
+# Curated 30 episodes each — public companies, unicorns, iconic founders.
+# episode_number matches RSS; id overrides auto-slug when set.
+
+business_breakdowns:
+  - episode_number: 247  # existing bb-toast-sticky-saas
+  - episode_number: 238  # existing bb-databricks-from-data-to-decisions
+  - episode_number: 227  # existing bb-mercado-libre-e-commerce-empire
+  - episode_number: 241  # Cloudflare
+  - episode_number: 233  # Robinhood
+  - episode_number: 97   # Constellation Software
+  - episode_number: 235  # GE Aerospace
+  - episode_number: 53   # Block / Square
+  - episode_number: 86   # Netflix
+  - episode_number: 63   # Berkshire Hathaway
+  - episode_number: 29   # Salesforce
+  - episode_number: 1    # Shopify
+  - episode_number: 72   # CrowdStrike
+  - episode_number: 25   # Datadog
+  - episode_number: 33   # MongoDB
+  - episode_number: 77   # Intuit
+  - episode_number: 101  # Disney
+  - episode_number: 113  # PayPal
+  - episode_number: 140  # Ferrari
+  - episode_number: 14   # Formula One
+  - episode_number: 4    # Costco
+  - episode_number: 3    # Alibaba
+  - episode_number: 194  # SpaceX
+  - episode_number: 236  # Doximity
+  - episode_number: 155  # Intuitive Surgical
+  - episode_number: 229  # Exor / Ferrari
+  - episode_number: 237  # Amadeus
+  - episode_number: 242  # Givaudan
+  - episode_number: 244  # PriceSmart
+  - episode_number: 35   # Amazon aggregators
+
+founders:
+  - episode_number: 418  # existing fnd-418-phil-knight
+  - episode_number: 404  # existing fnd-404-larry-ellison
+  - episode_number: 416  # existing fnd-416-demis-hassabis
+  - episode_number: 1    # Elon Musk (Ashlee Vance)
+  - episode_number: 2    # Walt Disney
+  - episode_number: 3    # Thomas Edison
+  - episode_number: 421  # Jony Ive
+  - episode_number: 420  # Steve Jobs In Exile
+  - episode_number: 376  # Jensen Huang / Nvidia
+  - episode_number: 388  # Jeff Bezos shareholder letters
+  - episode_number: 286  # Warren Buffett & Charlie Munger
+  - episode_number: 132  # Edwin Land
+  - episode_number: 386  # Akio Morita / Sony
+  - episode_number: 159  # Andy Grove / Intel
+  - episode_number: 190  # Henry Ford & Thomas Edison
+  - episode_number: 396  # Enzo Ferrari
+  - episode_number: 400  # James Dyson
+  - episode_number: 401  # Bill Gates
+  - episode_number: 382  # Michael Ovitz
+  - episode_number: 354  # Sam Walton
+  - episode_number: 355  # Bernard Arnault
+  - episode_number: 367  # Sam Zell
+  - episode_number: 405  # Rockefeller
+  - episode_number: 369  # Elon Musk early SpaceX
+  - episode_number: 419  # Kelly Johnson / Skunk Works
+  - episode_number: 398  # Steve Jobs own words
+  - episode_number: 233  # Elon Musk / PayPal mafia
+  - episode_number: 8    # Intel Trinity
+  - episode_number: 38   # Space Barons (Musk & Bezos)
+  - episode_number: 304  # Sol Price (Costco / Walmart lineage)

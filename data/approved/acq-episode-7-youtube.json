@@ -1,0 +1,134 @@
+{
+  "episode_id": "acq-episode-7-youtube",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 64,
+    "title": "Venmo",
+    "guest": "Andrew Kortina",
+    "guest_role": "Season 3 · Episode 7",
+    "date": "2018-10-29",
+    "duration_minutes": 75,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/episode-7-youtube",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch — v5.1-acquired; Season 3 ep 4–10 | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Social Payments",
+    "PayPal M&A",
+    "Network Effects"
+  ],
+  "conclusion": "Andrew Kortina joins Ben and David live in San Francisco for Season 3 Episode 7 on Venmo — the social payments app he co-founded with Iqram Magdon in 2009 that turned P2P transfers into a public feed of emoji-laden payments. Braintree acquired Venmo in 2012 for ~$26.2M; PayPal bought Braintree in 2013 for ~$800M, making Venmo the consumer social layer PayPal lacked. By 2018 Venmo processed ~$62B+ annualized payment volume with monetization still emerging via Pay With Venmo and debit card. The episode dissects whether social graph is moat or novelty in payments — and why incumbents buy culture they cannot build inside risk-averse fintech orgs.",
+  "background": "Recorded as a live SF show, Kortina walks Venmo's origin at a 2009 jazz show where he forgot his wallet — building SMS-based P2P payments for roommates and friends. The signature social feed (public payment notes, emoji) created organic growth on college campuses before bank P2P (Zelle) existed. Hosts cover Braintree's developer-API business logic for buying Venmo, PayPal's post-acquisition integration struggles, fraud/risk constraints on social features, and comparisons to Square Cash, Apple Pay, and WeChat Pay. Kortina reflects on founder psychology and why Venmo stayed in NYC while recording in SF — East Coast fintech roots versus Silicon Valley payments infra.",
+  "important_facts": [
+    "Venmo founded 2009 by Andrew Kortina and Iqram Magdon; launched as SMS P2P payments with social feed showing payment notes — grew on US college campuses 2010–2012.",
+    "Braintree acquired Venmo in August 2012 for ~$26.2M in stock — Braintree needed consumer brand beyond developer payment APIs.",
+    "PayPal acquired Braintree (including Venmo) in September 2013 for ~$800M — Venmo became PayPal's consumer-social strategy versus Square and Apple Pay.",
+    "Venmo payment volume cited ~$62B+ annualized by 2018 episode date — monetization via Pay With Venmo merchant button and Venmo debit card still early versus volume.",
+    "Zelle (bank consortium) launched 2017 with ~$75B+ quarterly volume by 2018 — faster settlement inside bank apps but without Venmo's social engagement layer."
+  ],
+  "mental_model": {
+    "name": "Social Graph as Distribution in Commoditized Payments",
+    "components": "P2P money movement is commodity — banks and ACH always existed. Venmo's insight: payment notes and public feed create organic discovery and habit among 18–25 cohort. Social proof lowers trust barrier for sending money to friends. Monetization lags volume because social products resist charging users directly — Pay With Venmo taxes merchants instead. Acquirer logic: PayPal bought culture and MAU, not novel rails.",
+    "application": "Consumer fintech: viral loop matters when rails are undifferentiated. Evaluate whether social features survive compliance scaling (fraud, privacy). Strategic buyers pay for demographic penetration PayPal's core brand could not reach. Watch Zelle-style bank coalitions as incumbent response copying speed without social."
+  },
+  "competitive_advantage": "Venmo owned young-adult P2P habit and brand verb ('Venmo me') — PayPal parentage added trust and regulatory licenses without killing UX. Social feed created engagement banks' Zelle lacks — users open app for content, not just transactions. College campus seeding built dense local networks before national scale. Braintree developer DNA preserved API quality; PayPal cross-sell to merchants via Pay With Venmo. Debit card extended Venmo balance into offline spend — closing monetization loop. Weaknesses: social feed novelty fades with age cohort; fraud and privacy scrutiny on public defaults. Monetization trailed ~$62B volume — ad-like social model hard in regulated payments. Zelle copied instant bank transfer inside existing apps. International expansion limited versus PayPal core. Versus Square Cash: Venmo social vs Cash App crypto/rewards diversification. Versus WeChat Pay: super-app integration China achieved; US app silos limit Venmo's scope. Episode captures pre-Cash App dominance era when Venmo was default Gen-Z payments.",
+  "key_insights": [
+    {
+      "view": "Payments are commodity; social is distribution.",
+      "question": "Why did Venmo beat bank P2P for years?",
+      "answer": "ACH existed; Venmo added frictionless UX plus public payment notes friends actually read. College density created local network effects — split rent, meals, tickets. Banks ignored 18–25 demographic until 2017 Zelle consortium. Social feed was marketing channel with zero CAC — users acquired users via emoji payments."
+    },
+    {
+      "view": "Braintree bought consumer brand for API business.",
+      "question": "Why acquire for ~$26M?",
+      "answer": "Braintree powered Uber, Airbnb developer payments — needed consumer-facing asset for investor narrative and fraud-data diversity. Venmo MAU complemented merchant APIs. ~$26.2M looked cheap before volume scaled to ~$62B — classic nested acquisition creating PayPal optionality."
+    },
+    {
+      "view": "PayPal bought Venmo via Braintree, not organically.",
+      "question": "Why couldn't PayPal build Venmo internally?",
+      "answer": "PayPal brand skewed older and merchant-focused; internal teams killed social features on compliance fears. Acquiring Braintree/Venmo imported culture and youth MAU. ~$800M Braintree price looks strategic in hindsight as Venmo became Gen-Z on-ramp — acqui-hire-at-scale pattern."
+    },
+    {
+      "view": "Monetization intentionally lagged engagement.",
+      "question": "Why low revenue on ~$62B volume?",
+      "answer": "Venmo waived P2P fees to grow network; Pay With Venmo merchant take rate and debit interchange arrived later. Social apps risk churn if you tax users directly. PayPal tolerated subsidy while chasing lifetime value — mirrors consumer social growth-before-revenue playbook in regulated category with fraud costs."
+    },
+    {
+      "view": "Zelle is functional response without social soul.",
+      "question": "Does Zelle threaten Venmo?",
+      "answer": "Zelle hit ~$75B+ quarterly volume by 2018 inside bank apps — instant settlement advantage. Lacks Venmo feed and brand verb among under-30 users. Kortina argues habit and identity matter until cohort ages into bank-primary apps. Long-term: Cash App added crypto/stocks; Venmo needed feature expansion beyond P2P — episode records pre-Cash App surge."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "PYPL",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Venmo volume scale with lagging monetization — episode frames PayPal's consumer retention bet; track Pay With Venmo penetration versus Cash App and Zelle in under-35 demographics."
+    }
+  ],
+  "golden_quotes": [
+    "\"We built Venmo because I forgot my wallet at a jazz show\" — Kortina origin story.",
+    "\"PayPal bought the social graph it couldn't build\" — hosts on ~$800M Braintree acquisition logic.",
+    "\"Zelle is faster; Venmo is where your friends are\" — on engagement versus settlement speed."
+  ],
+  "chronology": {
+    "subject": "Venmo · Andrew Kortina · PayPal",
+    "events": [
+      {
+        "date": "2009",
+        "event": "Kortina and Magdon found Venmo — SMS P2P with social feed"
+      },
+      {
+        "date": "2010–2012",
+        "event": "College campus growth; iPhone app scales"
+      },
+      {
+        "date": "2012-08",
+        "event": "Braintree acquires Venmo for ~$26.2M"
+      },
+      {
+        "date": "2013-09",
+        "event": "PayPal acquires Braintree for ~$800M"
+      },
+      {
+        "date": "2014",
+        "event": "Public feed privacy defaults revised after scrutiny"
+      },
+      {
+        "date": "2016",
+        "event": "Pay With Venmo merchant product expands"
+      },
+      {
+        "date": "2017",
+        "event": "Zelle bank consortium launches competitive P2P"
+      },
+      {
+        "date": "2018",
+        "event": "Acquired live SF episode; ~$62B+ annualized volume cited"
+      },
+      {
+        "date": "2018",
+        "event": "Venmo debit card ships — offline monetization"
+      },
+      {
+        "date": "2020+",
+        "event": "Cash App competition intensifies; Venmo adds crypto and rewards"
+      }
+    ]
+  }
+}

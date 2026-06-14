@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C45D3E"/>
+      <stop offset="100%" stop-color="#1B3A4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#g)"/>
+  <text x="300" y="320" text-anchor="middle" fill="#fff" font-family="Georgia, serif" font-size="72" font-weight="400">ILTB</text>
+</svg>

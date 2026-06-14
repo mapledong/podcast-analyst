@@ -1,0 +1,119 @@
+{
+  "episode_id": "ep414",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 414,
+    "title": "Investing At Lone Pine",
+    "guest": "Kelly Granat",
+    "guest_role": "",
+    "date": "2025-03-11",
+    "duration_minutes": 88,
+    "youtube_url": "https://www.youtube.com/watch?v=WHYr_CeiGOM",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=WHYr_CeiGOM",
+      "colossus": "https://joincolossus.com/episode/investing-at-lone-pine/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Lone Pine",
+    "Public Equities",
+    "Market Structure"
+  ],
+  "conclusion": "Granat presents a public-equity process designed for a noisier market structure: keep duration as the edge, but build shock absorbers so volatility does not force low-quality decisions. The transcript repeatedly ties this to position sizing, gross-exposure discipline, and explicit debate around what would actually change a three-to-five-year thesis. Lone Pine's advantage, in his framing, is not speed for its own sake but clarity about when to act and when to do nothing.",
+  "background": "Kelly Granat contrasts public-market investing when she started in 2001 with today's market. Earlier, long-duration fundamental investors like Fidelity, Capital, and hedge funds mattered more to marginal price discovery; today, passive, pods, event setup dynamics, and real-time datasets shape a lot of price action. The discussion covers Lone Pine's research process, Monday meetings, the firm's data team, AI themes, tariff shocks, portfolio construction, culture, and the transition to a 'Lone Pine 2.0' under new leadership. Granat started as a summer intern in 2001 and returned full time in 2002 to a market with more directional, duration-oriented investors and fewer levered pods. She describes the current environment as almost making the team 'giddy' — a scorecard every day where capital tests learnings — while managing a concentrated portfolio of large public companies through what may be the biggest technological shift of their careers. Lone Pine launched its long-only strategy in 2004 and has evolved research into Lone Pine 2.0 under new leadership.",
+  "important_facts": [
+    "Granat describes entering Lone Pine as a summer intern in 2001 and returning full time in 2002, then watching the public-markets ecosystem change over more than two decades. His comparison is structural: fewer purely directional discretionary managers at the margin in the past, versus much greater influence today from passive flows, pods, and short-horizon positioning. That shift matters because it creates more price moves that are not clean signals about intrinsic value.",
+    "On portfolio construction, he gives explicit ranges. Historically, Lone Pine often ran around 170/200 gross for roughly its first 15-17 years. Over the last six to eight years, he says the firm has generally operated closer to 150/180 gross. The purpose is to preserve flexibility when volatility spikes, so the team can add to long-duration convictions instead of being forced to de-risk into panic conditions simply because the book is too tight.",
+    "Granat also details process changes in research infrastructure and decision cadence. He cites a three-person internal data team that works directly with analysts to source and interpret third-party datasets. In the March 2025 tariff-shock discussion, the team reviewed premarket dislocations across exposed industries and scenario branches, then placed literally zero orders because the fundamental three-to-five-year thesis had not changed. The fact pattern is central to his point: discipline includes active restraint."
+  ],
+  "mental_model": {
+    "name": "Duration With Liquidity Headroom",
+    "components": "Anchor each position to a three-to-five-year business trajectory, then explicitly separate thesis risk from market-structure noise. Maintain enough gross and net flexibility to add into non-fundamental drawdowns rather than reactively cutting. Combine classic fundamental work with external data, channel checks, and internal debate loops that define in advance what evidence would require a change. Treat inactivity as a valid decision when new information is headline-loud but thesis-light.",
+    "application": "Granat applies this model in two recurring contexts from the episode: macro shock days and AI narrative surges. On tariff days, the team maps first- and second-order effects, then trades only if long-term cash-flow assumptions move. In AI, the same framework asks which holdings are true beneficiaries, which face durable disruption, and which may be narratively correlated without economic linkage. The model is practical because it translates 'duration' into specific portfolio mechanics instead of a slogan."
+  },
+  "key_insights": [
+    {
+      "view": "Duration is a bigger edge now than before.",
+      "question": "Why does market structure make patience more valuable?",
+      "answer": "Granat's answer is that more marginal flow now comes from short-horizon participants and passive mechanics, which can decouple price from business trajectory over brief windows. If your process and sizing allow you to hold through that noise, dislocation becomes opportunity rather than threat. That is why he links today's environment to lower gross and explicit stress planning: patience only works when portfolio construction gives you the capacity to act on it."
+    },
+    {
+      "view": "Data expanded the toolkit, but people still drive judgment.",
+      "question": "How has research changed at Lone Pine?",
+      "answer": "He describes a broader evidence stack than in earlier years: filings and management meetings remain core, but now sit alongside expert calls, alternative datasets, and a dedicated internal data team. Even so, he keeps returning to qualitative factors like culture, management quality, and leadership transitions that can reset company trajectories. In his framing, the right process is synthesis: use data to sharpen questions, then use human judgment to decide what matters most."
+    },
+    {
+      "view": "Process quality is visible on high-volatility days.",
+      "question": "What does the March 2025 zero-order anecdote reveal?",
+      "answer": "The tariff episode shows Lone Pine treating action as conditional, not obligatory. The team reviewed exposed names, retaliation paths, and policy walk-back scenarios, but ended with zero trades because the medium-term thesis set was intact. Granat presents that as normal rather than exceptional. The point is that conviction should be evidence-weighted, and sometimes the most value-preserving move is to avoid reflexive turnover when the information set is still immature."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Basket:AI infrastructure (NVDA/TSM/VRT)",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Granat says public-market AI exposure is more available today in picks-and-shovels companies than in many application winners still held privately"
+    },
+    {
+      "ticker": "Private:Fundamental long/short equity funds",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Lower gross exposure, durable capital, and better third-party data may help fundamental firms exploit pod and passive-driven dislocations when they can hold three-to-five-year views"
+    },
+    {
+      "ticker": "Private:Multi-manager pod equity strategies",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Pods shape marginal price action and can create crowding around quarters, investor days, and macro shocks — Granat's tariff review shows how headline events can move exposed names without changing Lone Pine's positioning"
+    }
+  ],
+  "golden_quotes": [
+    "Granat says duration is Lone Pine's single biggest advantage, but only because the portfolio is built to survive short-term pressure.",
+    "Her market-structure point is that the marginal dollar is less often dictated by fundamental decisions than it was earlier in her career.",
+    "After one tariff-shock review, the process produced literally zero orders, which Granat uses as evidence that doing nothing can be active risk management."
+  ],
+  "chronology": {
+    "subject": "Lone Pine investing process",
+    "events": [
+      {
+        "date": "2001",
+        "event": "Granat started as a summer intern in public markets"
+      },
+      {
+        "date": "2002",
+        "event": "Returned full time to a market with more directional fundamental capital and fewer passive/pod effects"
+      },
+      {
+        "date": "2004",
+        "event": "Lone Pine launched long-only strategy"
+      },
+      {
+        "date": "First 15–17 years",
+        "event": "Firm often ran closer to 170/200 gross exposure"
+      },
+      {
+        "date": "Last 6–8 years",
+        "event": "Gross exposure shifted closer to 150/180 to handle modern market structure"
+      },
+      {
+        "date": "2025",
+        "event": "Granat describes Lone Pine 2.0 and investing through AI, tariffs, and short-term data-driven markets"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

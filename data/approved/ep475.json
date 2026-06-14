@@ -1,0 +1,123 @@
+{
+  "episode_id": "ep475",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 475,
+    "title": "Lessons from 30 Years of Investing",
+    "guest": "Dan Loeb",
+    "guest_role": "Founder & CEO, Third Point",
+    "date": "2026-05-28",
+    "duration_minutes": 63,
+    "youtube_url": "https://www.youtube.com/watch?v=vhTi_8QwXjg",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vhTi_8QwXjg",
+      "colossus": "https://colossus.com/episode/reminiscences-of-an-investor/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "NVDA",
+    "Semiconductors",
+    "Activist Investing"
+  ],
+  "conclusion": "Loeb's message after thirty years: do not fight the cycle you're in. Today that means AI and semis, with credit as ballast when markets get scary. He sees real earnings, not dot-com hope, and still finds edge in messy human moments: board fights, panics, and forced selling.",
+  "background": "Dan Loeb started Third Point in 1995 with ~$3M. The main hedge fund is ~$9B inside a ~$24–25B platform. He learned distressed credit at Warburg Pincus and Jefferies; his father wrote books on corporate governance. The letters at Sotheby's, Sony, and Yahoo are what people remember. Here he's explaining how he moved from event-driven trades to owning quality names and running a credit-heavy book (~60% of firm assets), and why he thinks Nvidia at ~15x 2027 earnings isn't crazy. Sony, FTX, and Twitter/XAI debt come up as stories, not slides.",
+  "important_facts": [
+    "Third Point grew from ~$3M (1995) to ~$24–25B AUM. The flagship fund runs ~110% long / ~30–40% short with ~30% credit; ~60% of the whole platform is credit. In COVID and during the Iran war they temporarily held more credit than equity.",
+    "SOX was +40% YTD at taping. Nvidia traded ~15x 2027 / ~12x 2028 earnings — Loeb looked at the whole semis and hyperscaler book and didn't cut. Micron beat by ~80%; the stock fell anyway. Peak Sony stake was ~7%.",
+    "Twitter debt bought ~96–97¢ (~12% yield). XAI debt priced off ~$2B revenue / ~$20B EV. FTX blew up despite on-chain checks — they added bank-balance verification after. CLO book ~$7B; asbestos liabilities ~$2B."
+  ],
+  "mental_model": {
+    "name": "Fulcrum Security + Barbell Capital Structure",
+    "components": "Pick the best spot in the capital structure — equity, debt, prefs — not the asset class you came from. Stack strategies: event-driven first, then quality/thematic, then lean on credit when stress hits. Governance matters; a public letter can move a board faster than a proxy fight.",
+    "application": "AI today: long semis and hyperscalers, buy mispriced credit like Twitter/XAI. COVID he went into IG credit; Iran war he cut equity and added credit, then added risk back. Sony took five years and a New York Times story embargoed to the Tokyo close. He hires people who've worked in an industry, not just people who model fast."
+  },
+  "key_insights": [
+    {
+      "view": "He's still bullish AI and semis — most of the book is there — and Nvidia at ~15x 2027 earnings feels like catch-up, not bubble.",
+      "question": "Is this AI trade the next dot-com?",
+      "answer": "Dot-com was multiples on hope. These companies earn real money and fund capex off their own balance sheets. To be bearish you have to believe they're 'flushing money down the toilet.' On Anthropic he thinks corporate adoption hasn't really started."
+    },
+    {
+      "view": "Pods and quant funds still create weird price action that a fundamental investor can use.",
+      "question": "Where's the edge if machines get smarter?",
+      "answer": "Buffett says buy when it drops; pod risk limits force selling on the way down. Micron put up an ~80% beat and sold off; Meta went up then cliff-dived after a good quarter. Restructuring committees and private credit deals still need humans — 'AI will not do private equity.'."
+    },
+    {
+      "view": "Activism by writing still works — he published the Sony thesis in the Times and waited for Tokyo to close.",
+      "question": "What happened with Sony?",
+      "answer": "They owned up to ~7% and told management to break up the conglomerate. Kaz Hirai panicked when he heard about the Times piece. It took ~five years, but they spun the chip unit and planned to separate financial services. He says activism in Japan is brutal."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "High",
+      "thesis": "Third Point's largest position; Loeb frames ~15x 2027 earnings as reasonable because AI demand is funded by profitable customers, not dot-com-style hope"
+    },
+    {
+      "ticker": "Private:Anthropic",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Enterprise adoption is still early, which supports both frontier-model revenue growth and the broader AI capex story"
+    },
+    {
+      "ticker": "Basket:Information services (SPGI/MCO/MSCI)",
+      "direction": "Short",
+      "confidence": "Medium",
+      "thesis": "AI could erode data and workflow moats faster than expected; Loeb says he has been wrong here before and remains cautious"
+    }
+  ],
+  "golden_quotes": [
+    "On AI, Loeb's warning was: hold on to your seats, because things are only going to accelerate from here.",
+    "After thirty years of cycles, he still comes back to the same lesson: there is nothing new under the sun.",
+    "Reflecting on the early Third Point years, he said money does not buy the friends who believed in you when you had nothing."
+  ],
+  "chronology": {
+    "subject": "Third Point · Dan Loeb",
+    "events": [
+      {
+        "date": "1995",
+        "event": "Founded Third Point with ~$3M after Warburg Pincus / Jefferies distressed credit"
+      },
+      {
+        "date": "2000s",
+        "event": "Activist letters at Sotheby's, Sony, Yahoo; governance-driven returns"
+      },
+      {
+        "date": "2010s",
+        "event": "Expanded from event-driven to quality/thematic; multi-strategy platform"
+      },
+      {
+        "date": "~2020",
+        "event": "Credit barbell ~60% of firm assets; CLOs ~$7B; asbestos liabilities ~$2B"
+      },
+      {
+        "date": "2022",
+        "event": "FTX exposure highlights counterparty / governance risk"
+      },
+      {
+        "date": "2023–25",
+        "event": "Long AI/semis; Nvidia ~15× '27 EPS framing vs dot-com bubble"
+      },
+      {
+        "date": "2026",
+        "event": "Flagship fund ~$9B within ~$24–25B platform"
+      }
+    ]
+  },
+  "review_notes": "Template v4.5 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-curation-v4.5",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

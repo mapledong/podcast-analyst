@@ -1,0 +1,120 @@
+{
+  "episode_id": "ep419",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 419,
+    "title": "Finding Future S&P 500 Companies",
+    "guest": "Neil Mehta",
+    "guest_role": "",
+    "date": "2025-04-15",
+    "duration_minutes": 95,
+    "youtube_url": "https://www.youtube.com/watch?v=502sB_IbjpQ",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=502sB_IbjpQ",
+      "colossus": "https://joincolossus.com/episode/finding-future-sp-500-companies/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Growth Investing",
+    "Founders",
+    "GreenOaks"
+  ],
+  "conclusion": "Mehta's GreenOaks philosophy is extreme selectivity around founders building jaw-dropping customer experiences in huge markets. He rejects coverage-volume growth investing. For the 10 to 15 best founders each year, he wants GreenOaks to know the company before the meeting, move fast, and bring the whole firm.",
+  "background": "Neil Mehta links his childhood exposure to his grandfather's gun collection and craftsmanship to how GreenOaks studies companies. The firm sees a great company as an artist's work: hard to build, easy to imitate badly, and obvious only after the customer experience breaks old trade-offs. The episode covers Coupang, Wiz, Stripe, Robinhood, Uber, Tencent, and the mistake of passing on SpaceX. Mehta keeps returning to the idea that very few founders and companies create most of the value, so process should be designed for the rare outlier, not the average meeting.",
+  "important_facts": [
+    "GreenOaks has been involved with Coupang for about 15 years and invested a little under $1B over roughly 10 years, leading 5-8 rounds and continuing to buy some shares after it went public. Key quantitative evidence: GreenOaks has been involved with Coupang for about 15 years and invested a little under $1B over roughly 10 years, leading 5-8 rounds and continuing to buy some shares after it went public.",
+    "Mehta says GreenOaks usually wants growth companies that can become a meaningful part of the S&P 500. He cites the idea that about 1% of the S&P 500 drives around 90% of the value. Additional operating detail: GreenOaks has been involved with Coupang for about 15 years and invested a little under $1B over roughly 10 years, leading 5-8 rounds and continuing to buy some shares after it went public.",
+    "For the rarest founders, Mehta estimates there may be only 10-15 per year worth full-firm focus. He contrasts that with a broader market where tens of thousands of meetings happen and 90%-plus of the industry can operate with coverage processes. Investment implications in the summary are: CPNG (Long) — GreenOaks invested nearly $1B in Coupang over roughly a decade because its logistics execution and customer experience fit Mehta's future-S&P-500 framework."
+  ],
+  "mental_model": {
+    "name": "Jaw-Dropping Customer Experience",
+    "components": "Founder quality and business quality usually converge. Mehta says it is rare. Truly remarkable founders usually find their way into better markets because they think in customer experience, learn quickly, and refuse mediocre trade-offs. Great growth investing is not private-equity-style coverage. Coverage works for most of the market, but the best founders should not need to explain themselves to a junior process. GreenOaks wants to understand them from the outside in and bring all of GreenOaks, not a small slice. Concentration is rational if returns are power-law distributed. If a tiny share of companies creates most long-term equity value, then the job is not to be broadly average; it is to find the future Apple, Google, Facebook, Tencent, Coupang, or Wiz early enough to matter. For the rarest founders, Mehta estimates there may be only 10-15 per year worth full-firm focus.",
+    "application": "Mehta's GreenOaks philosophy is extreme selectivity around founders building jaw-dropping customer experiences in huge markets. He rejects coverage-volume growth investing. For the 10 to 15 best founders each year, he wants GreenOaks to know the company before the meeting, move fast, and bring the whole firm. GreenOaks invested nearly $1B in Coupang over roughly a decade because its logistics execution and customer experience fit Mehta's future-S&P-500 framework Mehta highlights Wiz as the kind of fast-growth, founder-led company GreenOaks wants to back before the market fully appreciates the scale of the category Stripe is cited as a canonical jaw-dropping developer experience and a possible future public-market compounder if it reaches S&P 500 scale GreenOaks has been involved with Coupang for about 15 years and invested a little under $1B over roughly 10 years, leading 5-8 rounds and continuing to buy some shares after it went public. He cites the idea that about 1% of the S&P 500 drives around 90% of the value. He contrasts that with a broader market where tens of thousands of meetings happen and 90%-plus of the."
+  },
+  "key_insights": [
+    {
+      "view": "Founder quality and business quality usually converge.",
+      "question": "Can a great founder build a bad business?",
+      "answer": "Mehta says it is rare. Truly remarkable founders usually find their way into better markets because they think in customer experience, learn quickly, and refuse mediocre trade-offs. GreenOaks has been involved with Coupang for about 15 years and invested a little under $1B over roughly 10 years, leading 5-8 rounds and continuing to buy some shares after it went public."
+    },
+    {
+      "view": "Great growth investing is not private-equity-style coverage.",
+      "question": "Why not track every Series A, B, and C?",
+      "answer": "Coverage works for most of the market, but the best founders should not need to explain themselves to a junior process. GreenOaks wants to understand them from the outside in and bring all of GreenOaks, not a small slice. Mehta says GreenOaks usually wants growth companies that can become a meaningful part of the S&P 500. He cites the idea that about 1% of the S&P 500 drives around 90% of the value."
+    },
+    {
+      "view": "Concentration is rational if returns are power-law distributed.",
+      "question": "Why focus so much effort on a few companies?",
+      "answer": "If a tiny share of companies creates most long-term equity value, then the job is not to be broadly average; it is to find the future Apple, Google, Facebook, Tencent, Coupang, or Wiz early enough to matter. For the rarest founders, Mehta estimates there may be only 10-15 per year worth full-firm focus. He contrasts that with a broader market where tens of thousands of meetings happen and 90%-plus of the industry can operate with coverage processes."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "CPNG",
+      "direction": "Long",
+      "confidence": "High",
+      "thesis": "GreenOaks invested nearly $1B in Coupang over roughly a decade because its logistics execution and customer experience fit Mehta's future-S&P-500 framework"
+    },
+    {
+      "ticker": "Private:Wiz",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Mehta highlights Wiz as the kind of fast-growth, founder-led company GreenOaks wants to back before the market fully appreciates the scale of the category"
+    },
+    {
+      "ticker": "Private:Stripe",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Stripe is cited as a canonical jaw-dropping developer experience and a possible future public-market compounder if it reaches S&P 500 scale"
+    }
+  ],
+  "golden_quotes": [
+    "\"Mehta's shorthand for the companies GreenOaks wants is JDCE: a jaw-dropping customer experience that breaks old trade-offs.\"",
+    "\"For GreenOaks, the underwriting starts with founders because exceptional founders usually find their way into exceptional markets.\"",
+    "\"Mehta argues that public and private markets do not change the basics: the laws of great businesses are the laws of great businesses.\""
+  ],
+  "chronology": {
+    "subject": "GreenOaks growth investing",
+    "events": [
+      {
+        "date": "Childhood",
+        "event": "Mehta studied craftsmanship through his grandfather's gun collection in India "
+      },
+      {
+        "date": "2010-11",
+        "event": "Mehta moved back to San Francisco to start GreenOaks "
+      },
+      {
+        "date": "Early GreenOaks",
+        "event": "Raised first $50M after a difficult fundraising start "
+      },
+      {
+        "date": "2010s",
+        "event": "Backed Coupang repeatedly, investing a little under $1B over roughly a decade "
+      },
+      {
+        "date": "Later",
+        "event": "GreenOaks continued buying some Coupang shares after IPO "
+      },
+      {
+        "date": "2020s",
+        "event": "Mehta applies the same outlier-founder lens to companies like Wiz, Stripe, and future AI-era winners "
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "restored_from_outputs": true,
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

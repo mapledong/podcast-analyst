@@ -1,0 +1,134 @@
+{
+  "episode_id": "acq-special-an-acquirers-view-into-ma-with-taylor-barada-head-of-corp-dev-at-adobe",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 29,
+    "title": "Special: An Acquirer's View into M&A with Taylor Barada (Adobe Corp Dev)",
+    "guest": "Taylor Barada",
+    "guest_role": "Head of Corp Dev, Adobe",
+    "date": "2016-08-22",
+    "duration_minutes": 75,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/special-an-acquirers-view-into-ma-with-taylor-barada-head-of-corp-dev-at-adobe",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch v5.1 — user request 8 episodes | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Corporate Development",
+    "M&A Process",
+    "Culture Fit"
+  ],
+  "conclusion": "Taylor Barada opens Adobe's corp-dev playbook: most deals start as relationship-driven coffee chats, not auction processes — mirroring venture's \"always be raising\" and Mark Suster's invest-in-lines-not-dots. Adobe walks away from billion-dollar targets when culture misaligns; sub-10% of tracked opportunities close despite ~1,000 inbound pitches per year. LOIs carry 45–60-day no-shops, multi-day diligence, and integration owned inside corp dev so deals are growth bets, not press-release wins. Founders should partner with business owners and corp dev equally, avoid CEO partner-shopping, and treat closing day as day one — the episode's meta-lesson for anyone selling into strategic acquirers.",
+  "background": "Ben and David host Taylor Barada, Adobe VP of Corp Dev, Corp Strategy & Strategic Partnerships (joined 2013; prior Yahoo corp dev and Zynga VP Business; Bain JD-MBA; former pro soccer in England). Instead of grading one acquisition, they walk through how strategic M&A actually works inside a 15,000-person repeat buyer. Taylor compares corp dev to VC sourcing: warm intros, long courtships, and occasional competitive processes when another bidder forces a sale. Culture fit is non-negotiable — Adobe passed on nine-figure deals where founders would not embrace Adobe's broader vision. He details LOI mechanics, data-room diligence, business-owner vs. corp-dev roles, and post-close integration reporting to the board for two years. Contrasts Yahoo's slower bureaucracy, Zynga's two-hour fly-to-close speed, and Adobe's strategy-led Omniture-style adjacency bets using Bain's Profit-from-the-Core framework. Taylor contrasts three corp-dev cultures in detail: Yahoo (2008–09) needed top-down executive-sponsor alignment during restructuring; transparency about internal hoops mattered because outsiders perceived slowness as bureaucracy. Zynga under Mark Pincus could fly to a meeting within two hours when talent was spotted — aggressive category expansion in social gaming. Adobe under Shantanu emphasizes strategy arcs: mobile as tailwind, B2B network effects via data/content assets, and Omniture as a conscious four-step adjacency (SaaS, enterprise sales, recurring revenue, new product) that became a $2B+ marketing cloud. He cites Bain Profit-from-the-Core stats: ~30–40% success one step from core, ~10% at three–four steps.",
+  "important_facts": [
+    "Taylor Barada leads Adobe corp dev after Yahoo and Zynga; Adobe employs roughly 15,000 people and completes about 4–10 acquisitions per year.",
+    "Adobe has walked away from deals north of $1 billion when culture fit failed — culture is treated as a fourth pillar beside strategy, product, and financials.",
+    "Taylor estimates fewer than 10% of seriously tracked M&A conversations close; Adobe receives roughly 2–5 inbound acquisition pitches per day (~1,000/year).",
+    "Term sheets/LOIs at large strategics almost always include 45–60-day no-shop provisions, paralleling venture financing market terms.",
+    "Adobe reports quarterly to CEO, CFO, and board for 2 years post-close on each acquisition — typically 8+ KPI reviews per deal across financial, product, and retention metrics."
+  ],
+  "mental_model": {
+    "name": "Lines Not Dots (Strategic M&A)",
+    "components": "Most acquirer-startup relationships begin as open-ended introductions in a small Valley network — not \"we're for sale\" calls. Credibility accrues when founders execute what they said over multiple touchpoints (Suster's lines). Competitive auctions are the ~20% case. Culture fit predicts post-close execution: founders must want to expand the acquirer's vision, not just cash out. Corp dev is a collaborative guide; business owners and corp dev both matter; premature CEO access can kill deals. Integration begins at term sheet — retention packages and org design are negotiated with post-close roles in mind.",
+    "application": "Founders: take corp-dev meetings before you need a exit; diligence the buyer's culture. Never partner-shop to a second exec without context. Acquirers: keep integration inside deal teams to avoid \"throw over the wall\" behavior. Use adjacency discipline (Profit from the Core) so multi-step bets like Omniture are conscious, not random diversification."
+  },
+  "competitive_advantage": "Adobe's corp-dev edge is CEO Shantanu Narayen's founder-level passion (19 years at Adobe, 9 as CEO) setting a high strategic bar — saying no preserves deal quality bankers notice. Repeat-player process (lawyers, templates, integration cadence) speeds diligence without sacrificing culture screens. Taylor's cross-company pattern recognition (Yahoo, Zynga, Adobe) and Bain adjacency framing help match deal type to corporate strategy — core tuck-ins vs. Omniture-scale pivots. Relationship sourcing beats auction fees for proprietary flow; entrepreneurs trust Adobe as steward when creative-to-marketing expansion stories resonate (Omniture, mobile tailwind theses). Integration-in-house aligns retention and product roadmaps early. Weaknesses: high no-rate can slow category moves; 15,000-person complexity still overwhelms founders; partnerships often disappoint startups expecting distribution miracles. Sub-10% close rate means corp dev bandwidth spent mostly on passes — cost of discipline. On integration, Taylor's team negotiates retention packages collaboratively — sometimes rewarding operational lieutenants more at close if their importance rises post-acquisition. Quarterly board reports for two years force honesty (not all-green scorecards). Yahoo deals like Citizen Sports (Mike Kerns) and IntoNow (Adam Cahan) show founders rising to SVP when they embrace parent vision; misaligned sales destroy founder morale. Carve-outs close on Carol Dweck's Mindset, Phil Knight's Shoe Dog, and Adam Grant's Originals — fitting for a conversation about growth versus fixed mindsets in M&A and entrepreneurship. Hosts compare corp dev to VC partner-shopping horror stories — second partner meetings without context kill deals. Taylor demystifies: corp dev cannot force a sale; collaborative dance over months. Business owners meet startups organically; corp dev acts as concierge into 15,000-person org. Enterprise sales force throughput logic: bolt-on products into same sales bag after Omniture — decade-long investment to build true enterprise channel. Adobe Ventures under Taylor does smaller strategic bets. Post-close failure modes: founders bitter when products wither inside big cos; success when founders expand parent vision (Mike Kerns, Adam Cahan at Yahoo). Instagram Stories follow-up ties to prior Facebook/Snap episodes.",
+  "key_insights": [
+    {
+      "view": "Strategic M&A mirrors venture fundraising.",
+      "question": "How do Adobe deals usually start?",
+      "answer": "Warm intros and long relationships — \"not looking to sell, let's grab coffee.\" Auctions happen when another bidder forces the issue (~20%). Taylor explicitly parallels always-be-raising VC culture and Suster's lines-not-dots. Hosts tie to broader Acquired themes: acquisition category (product vs people vs business line), what would have happened otherwise, and grading outcomes years later with public market or product retrospective — standard playbook applied even when transcript or live format limits numeric detail."
+    },
+    {
+      "view": "Culture fit is a financial variable, not HR fluff.",
+      "question": "Why walk away from billion-dollar deals?",
+      "answer": "Post-close value is execution on combined vision. Without aligned founders who embrace Adobe's roadmap, cash-flow forecasts fail. Taylor cites Yahoo Citizen Sports and IntoNow founders rising to SVP as positive counterexamples."
+    },
+    {
+      "view": "LOI/no-shop is the venture term sheet of M&A.",
+      "question": "What changes after a term sheet?",
+      "answer": "Knowledge circle expands; 1–3 day deep dives; data rooms; lawyers define market terms. No-shops typically 45–60 days. Early-stage legal messes (unsigned contractor agreements) still appear but rarely kill deals."
+    },
+    {
+      "view": "Partner-shopping kills deals faster than bad terms.",
+      "question": "Should founders go straight to the CEO?",
+      "answer": "Taylor and hosts compare to VC partner-shopping — second meetings without context destroy trust. Business owners and corp dev should frame the story before executive sponsors engage."
+    },
+    {
+      "view": "Integration ownership separates growth M&A from financial engineering.",
+      "question": "How does Adobe measure success post-close?",
+      "answer": "Corp dev owns integration; quarterly board reports for two years on financial, product, and retention KPIs. Taylor frames hit rate like baseball (~30%) not free throws — Adobe beats industry averages by pre-deal culture and strategy discipline."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "ADBE",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Episode reveals Adobe's selective, culture-first M&A machine supporting creative-cloud and marketing-cloud expansion — relevant when evaluating whether Experience Cloud M&A (Figma blocked, etc.) remains disciplined vs. desperate."
+    }
+  ],
+  "golden_quotes": [
+    "\"When you want money, ask for advice; when you want advice, ask for money\" — Taylor on why founders should meet acquirers before a sale process.",
+    "\"We don't care about winning the press release\" — Taylor on value creation vs. announcement optics.",
+    "\"It's not about the deal… it's a tool\" — Taylor on M&A serving strategy, not deal-making for its own sake."
+  ],
+  "chronology": {
+    "subject": "Taylor Barada & Adobe Corp Dev",
+    "events": [
+      {
+        "date": "Pre-2008",
+        "event": "Taylor plays professional soccer in England; Bain JD-MBA"
+      },
+      {
+        "date": "2008–2009",
+        "event": "Taylor joins Yahoo corp dev during restructuring era"
+      },
+      {
+        "date": "2010s",
+        "event": "Taylor leads corp dev at Zynga during hyper-growth social gaming M&A"
+      },
+      {
+        "date": "2013",
+        "event": "Taylor joins Adobe as VP Corp Dev, Strategy & Partnerships"
+      },
+      {
+        "date": "2009",
+        "event": "Adobe acquires Omniture — major marketing-cloud adjacency bet"
+      },
+      {
+        "date": "Ongoing",
+        "event": "Adobe completes ~4–10 deals/year; integration reports for 2 years post-close"
+      },
+      {
+        "date": "2016-08-22",
+        "event": "Acquired records special interview on M&A process with Taylor Barada"
+      },
+      {
+        "date": "2016",
+        "event": "Instagram Stories launches — hosts discuss as follow-up to prior Facebook/Snap episodes"
+      },
+      {
+        "date": "Ongoing",
+        "event": "Taylor cites Mark Suster lines-not-dots and Profit from the Core adjacency framework"
+      },
+      {
+        "date": "Ongoing",
+        "event": "Adobe walks away from $1B+ deals lacking culture fit"
+      }
+    ]
+  }
+}

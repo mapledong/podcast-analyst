@@ -1,0 +1,115 @@
+{
+  "episode_id": "ep463",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 463,
+    "title": "Building the Operating System for the Dollar and Silicon Valley Heresy",
+    "guest": "William Hockey",
+    "guest_role": "Founder, Column; Co-founder, Plaid",
+    "date": "2026-03-17",
+    "duration_minutes": 70,
+    "youtube_url": "https://www.youtube.com/watch?v=hFIvttHf0oo",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hFIvttHf0oo",
+      "colossus": "https://colossus.com/episode/playing-a-different-game/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "Fintech",
+    "Dollar System",
+    "Founder Ownership"
+  ],
+  "conclusion": "Hockey argues for less fashionable founder capitalism: own the risk, study the boring niche, build profitable infrastructure, and ignore VC when it does not fit. Column is a bank plus software company; the deeper lesson is matching capital structure to company shape.",
+  "background": "William Hockey co-founded Plaid and then built Column, a software company that owns a regulated bank. Column provides the backend payments, deposits, credit, card, Fed/TCH/Swift, and dollar rails for customers like Built, Wise, Ramp, Brex, and Mercury. Hockey says 90%+ of revenue is software/API economics, not traditional banking spread. He self-funded Column in a stressful way: pledging over $1B of stock to borrow $70M at about SOFR+10% and 5% LTV to buy the bank, then surviving multiple margin calls while the business became profitable. The episode ranges from emerging markets dollarization to employee liquidity, AI in banks, sanctions, and why boring problems are where founders can create value.",
+  "important_facts": [
+    "Column bought a regulated bank for $70M and now powers payments, deposits, credit, card issuing, and Fed/TCH/card-network/Swift connections for fintechs including Built, Wise, Ramp, Brex, and Mercury. Built cards and rent payments run on Column account/routing infrastructure. Hockey says about 75% of global trade remains dollar-denominated and sanctions are often used before missiles.",
+    "Hockey says Column makes 90%+ of money from software, charges per API call, passes most bank-side economics to customers, and buys back employee shares annually using 25% of earnings. Plaid's planned ~$5B Visa sale was blocked by DOJ in 2020 before Hockey left to start Column; VC money can behave like heroin, forcing narrative pivots while lowering founder personal risk.",
+    "He pledged over $1B of stock to borrow $70M, bought the bank for $70M, paid SOFR+10% at about 5% LTV, was margin called 3 times, and almost went bankrupt multiple times before the business became profitable. Column is now profitable, 100% employee-owned with annual liquidity via 25% of earnings buybacks, expanding US and global dollar infrastructure for customers worldwide."
+  ],
+  "mental_model": {
+    "name": "Capital Structure Should Match Company Shape",
+    "components": "Owning a bank creates a regulatory and product moat for fintech infrastructure. Column is a software company that owns a bank, exposes primitives and APIs, and controls the dollar rails behind customers like Built, Wise, Ramp, Brex, and Mercury. That lets software companies touch money without stitching together legacy bank partners and vendors. VC can create false safety and shallow founders; Hockey says VC money can behave like heroin, forcing annual narrative pivots while lowering the founder's real personal risk even as early employees make huge life trade-offs.",
+    "application": "Hockey argues for less fashionable founder capitalism: own the risk, study the boring niche, build profitable infrastructure, and ignore VC when it does not fit. The dollar is both a payment network and a national-security weapon — gas from Qatar to Switzerland and China-Russia oil still clear in dollars despite geopolitical tension. Large banks with distribution and headcount-heavy operations may be major AI beneficiaries as software automates legacy workflows. Circle is a liquid proxy for stablecoin dollar rails, but Hockey is wary of moving financial power outside banks when 75% of global trade still clears in dollars."
+  },
+  "key_insights": [
+    {
+      "view": "Owning a bank creates a regulatory and product moat for fintech infrastructure.",
+      "question": "What is Column?",
+      "answer": "It is a software company that owns a bank, exposes primitives and APIs, and controls the dollar rails behind customers like Built, Wise, Ramp, Brex, and Mercury. That lets software companies touch money without stitching together legacy bank partners and vendors."
+    },
+    {
+      "view": "VC can create false safety and shallow founders.",
+      "question": "Why avoid the normal venture path?",
+      "answer": "Hockey says VC money can behave like heroin: useful but addictive. It can force annual narrative pivots to AI or stablecoins and lower the founder's real personal risk while early employees still make huge life trade-offs."
+    },
+    {
+      "view": "The dollar is both a payment network and a national-security weapon.",
+      "question": "Why does the global dollar matter?",
+      "answer": "Gas from Qatar to Switzerland, China-Russia oil, and most global trade still clear in dollars. Hockey says about 75% of global trade remains dollar-denominated and sanctions are often used before missiles."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Column",
+      "direction": "Long",
+      "confidence": "High",
+      "thesis": "Owning a bank charter plus modern APIs gives Column direct control of payments, deposits, cards, credit, Fed/TCH/Swift rails, and global dollar access."
+    },
+    {
+      "ticker": "JPM",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Hockey expects large, well-run banks with distribution and headcount-heavy operations to be major AI beneficiaries as software automates legacy banking workflows."
+    },
+    {
+      "ticker": "CRCL",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Circle is a liquid proxy for stablecoin dollar rails; Hockey is wary of moving financial power outside banks, but 75% dollar-denominated trade keeps global dollar access strategically valuable."
+    }
+  ],
+  "golden_quotes": [
+    "Hockey's simplest description of Column: 'We are a software company that also owns a bank.'",
+    "On capital structure, he warns founders that 'VC money's kind of like heroin' because it can distort the company.",
+    "His founder philosophy is personal ownership over narrative chasing: 'Compounding on yourself is probably the best investment to make.'"
+  ],
+  "chronology": {
+    "subject": "Column and William Hockey",
+    "events": [
+      {
+        "date": "2012",
+        "event": "Hockey starts Plaid with the standard Silicon Valley venture playbook"
+      },
+      {
+        "date": "2020",
+        "event": "Plaid's planned ~$5B Visa sale is blocked by DOJ; Hockey leaves to start Column"
+      },
+      {
+        "date": "early 2020s",
+        "event": "Column buys a regulated bank for about $70M and spends years building before revenue focus"
+      },
+      {
+        "date": "2020s",
+        "event": "Hockey funds company with debt against private stock and survives multiple margin calls"
+      },
+      {
+        "date": "2026",
+        "event": "Column is profitable, employee-owned with annual liquidity, and expanding US and global dollar infrastructure"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10 | patched v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

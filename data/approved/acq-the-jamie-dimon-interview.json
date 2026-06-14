@@ -1,0 +1,134 @@
+{
+  "episode_id": "acq-the-jamie-dimon-interview",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 200,
+    "title": "The Jamie Dimon Interview",
+    "guest": "The Jamie Dimon Interview",
+    "guest_role": "Season 17 · Episode 3",
+    "date": "2025-07-16",
+    "duration_minutes": 68,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://www.acquired.fm/episodes/the-jamie-dimon-interview",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "review_notes": "Manual GPT Acquired batch v5.1 — episodes 491-500 | optimized v5.4",
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Fortress Balance Sheet",
+    "Risk Culture",
+    "JPM"
+  ],
+  "conclusion": "Jamie Dimon tells Acquired's Chase Center audience how he built JPMorgan Chase into a ~$800B fortress after being fired from Citigroup in 1998 — the heir-apparent discarded, restarting at troubled $30B market-cap Bank One in Chicago. He invested $60M of personal capital (half his net worth), fixed risk culture and a 21-person board, then merged into JPMorgan (2004) where Bank One shareholders received 42%. The fortress balance sheet — conservative accounting, excess capital, planning for four-sigma disasters — enabled Bear Stearns and Washington Mutual rescues in 2008 and First Republic in 2023. Dimon cites risk discipline, internal incentive realignment, and diversified businesses feeding each other as separation drivers; a 15-point efficiency ratio advantage compounds reinvestment. At 68 minutes, the interview compresses twenty years into live conversation rather than archival deep dive.",
+  "background": "Recorded live at Chase Center with ~6,000 attendees during Summer 2025, Ben and David walk Dimon from his 1998 Citigroup firing through Bank One turnaround, the 2004 JPMorgan merger, 2006 risk pullback before the crisis, Bear Stearns and WaMu acquisitions, and 2023 First Republic rescue. Dimon emphasizes risk culture above all: plan for worst-case scenarios, maintain fortress balance sheet with excess capital, and align internal incentives so division heads don't bet the firm. He raised $11B equity during the 2008 crisis when markets trusted JPMorgan alone. Efficiency ratio advantage (~15 cents more profit per dollar vs. competitors) compounds over decades.",
+  "important_facts": [
+    "Dimon fired from Citigroup (1998) after 13 years building the Sandy Weill conglomerate model; became CEO of Bank One ($30B market cap vs. Citi's ~$200B), investing $60M personal capital — roughly half his net worth — upon taking the job.",
+    "Bank One–JPMorgan merger (2004): Bank One shareholders received 42% of combined company — 'merger of equals' that effectively imported Dimon's culture into JPMorgan. He became chairman and CEO of combined firm by 2006.",
+    "2006: Dimon pulled JPMorgan back on risk while Wall Street accelerated — same incentives, different behavior. Bear Stearns rescue (2008) cost ~$15–20B all-in; WaMu acquisition proved profitable. Raised $11B equity at crisis bottom when only JPMorgan could.",
+    "Fortress balance sheet strategy: conservative accounting, excess capital reserves, planning for four-sigma events as inevitable not theoretical. Dimon asks if private credit (~$1T+) resembles pre-2008 shadow banking risks.",
+    "JPMorgan market cap ~$800B when recorded; efficiency ratio ~15 points better than competitors — 'for every dollar you make, you keep 15 cents more as profit' — enabling reinvestment compounding. First Republic acquired 2023 applying 2008 lessons."
+  ],
+  "mental_model": {
+    "name": "Fortress Balance Sheet Discipline",
+    "components": "Dimon's core principle: the worst case will happen, so build capital and culture to survive it. Conservative accounting, excess reserves, and saying no to near-the-line risk bets — even when competitors earn higher short-term returns. Internal incentives aligned so business heads don't implicitly bet the firm. Diversified businesses (consumer, investment bank, payments, asset management) feed each other. Reputation from 2008 enables opportunistic acquisitions (WaMu, First Republic).",
+    "application": "For financial institutions, short-term ROE sacrifices buy survival optionality worth more in crises. Dimon's Bank One playbook — fix board governance, risk culture, then merge from strength — applies to any turnaround where culture precedes strategy. Efficiency ratio advantages compound when reinvested across cycles."
+  },
+  "competitive_advantage": "JPMorgan's moat combines scale, diversification, and reputation earned in 2008. Fortress balance sheet enabled acquisitions when peers failed — WaMu deposits, Bear Stearns assets, First Republic — at prices only JPMorgan could finance. ~$800B market cap reflects crisis-era trust premium. Dimon's risk culture imported from Bank One: 21-person board trimmed, auto-loan and trading limits enforced, compensation structures penalizing blow-ups. Same Wall Street incentives (2006) produced different behavior. Diversified revenue streams — consumer, corporate banking, trading, payments (~$18B annual revenue per Acquired's Reinvent interview), asset management — reduce single-business dependency. Efficiency ratio advantage (~15 points) funds technology and talent reinvestment. Weaknesses: regulatory scrutiny of too-big-to-fail scale; political visibility (Dimon floated for policy roles); private credit shadow banking concerns; and key-man dependency after 20 years. Competitors copied fortress rhetoric but not always practice. Payments franchise (~$18B annual revenue per Acquired's Reinvent interview with Max Neukirchen) illustrates technology businesses embedded inside banking — a diversification dimension peers lack. Chase Center live interview with ~6,000 attendees underscored reputational capital no competitor could replicate during the 2008 or 2023 regional banking crises.",
+  "key_insights": [
+    {
+      "view": "Getting fired was the inflection point.",
+      "question": "Why did Dimon join Bank One?",
+      "answer": "Fired from Citigroup (1998) despite being heir-apparent to Sandy Weill's conglomerate. Passed on glamorous NYC options for troubled Chicago Bank One ($30B vs. Citi $200B). Invested $60M personal — half net worth — aligning incentives. Fixed 21-person board and risk culture before JPMorgan merger imported the playbook."
+    },
+    {
+      "view": "Same incentives, different culture in 2006.",
+      "question": "Why didn't JPMorgan blow up?",
+      "answer": "Dimon pulled risk back in 2006 while peers accelerated — same bonus structures, different internal limits. Auto-loan comp changes and trading desk culture imported from Bank One. He had same information and incentives as other CEOs but behaved differently because culture enforced don't-blow-up discipline."
+    },
+    {
+      "view": "Fortress balance sheet buys crisis optionality.",
+      "question": "Why could only JPMorgan rescue Bear and WaMu?",
+      "answer": "Excess capital and conservative accounting meant JPMorgan could raise $11B equity at crisis bottom. Bear cost ~$15–20B all-in but bought reputation worth more. WaMu proved profitable. 2023 First Republic applied same playbook. Competitors couldn't move because they lacked capital and trust."
+    },
+    {
+      "view": "Efficiency ratio compounds silently.",
+      "question": "Why is JPMorgan worth ~$800B?",
+      "answer": "For every revenue dollar, JPMorgan keeps ~15 cents more profit than competitors — not from one secret but operational discipline across divisions. That gap reinvested in technology, talent, and acquisitions compounds over decades. Dimon declined to reveal all secrets on stage."
+    },
+    {
+      "view": "Private credit may be the next risk.",
+      "question": "What worries Dimon today?",
+      "answer": "Dimon flagged private credit (~$1T+) as potentially problematic — shadow banking echoes pre-2008. Also regulatory/political cycles every four years create uncertainty. But fortress balance sheet philosophy unchanged: plan for worst case, maintain excess capital, survive to acquire when others fail."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "JPM",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Fortress balance sheet and crisis-acquired scale produce ~15-point efficiency ratio advantage compounding reinvestment — ~$800B market cap reflects durable trust premium, though key-man and regulatory risks persist."
+    }
+  ],
+  "golden_quotes": [
+    "\"How did he do it? Banks fail. Financial firms often have spectacular blowups\" — Ben opening the Chase Center interview frame.",
+    "\"I invested half my net worth in this company\" — Dimon on putting $60M into Bank One stock upon becoming CEO.",
+    "\"For every dollar that you make compared to your competitors, you get to keep 15 cents more of that dollar as profit\" — Ben on JPMorgan's efficiency ratio advantage."
+  ],
+  "chronology": {
+    "subject": "Jamie Dimon · JPMorgan Chase",
+    "events": [
+      {
+        "date": "1985–98",
+        "event": "Dimon builds Citigroup conglomerate model with Sandy Weill"
+      },
+      {
+        "date": "1998",
+        "event": "Fired from Citigroup; passes on Amazon CEO exploration"
+      },
+      {
+        "date": "2000",
+        "event": "Becomes Bank One CEO; invests $60M personal capital"
+      },
+      {
+        "date": "2004",
+        "event": "Bank One merges with JPMorgan; Bank One shareholders get 42%"
+      },
+      {
+        "date": "2006",
+        "event": "Dimon chairman/CEO; pulls firm back on risk pre-crisis"
+      },
+      {
+        "date": "Mar 2008",
+        "event": "Acquires Bear Stearns in weekend rescue (~$15–20B all-in cost)"
+      },
+      {
+        "date": "Sep 2008",
+        "event": "Acquires Washington Mutual; raises $11B equity at crisis bottom"
+      },
+      {
+        "date": "2023",
+        "event": "Acquires First Republic after regional banking crisis"
+      },
+      {
+        "date": "2010s",
+        "event": "JPMorgan passes Bank of America and Citigroup in market cap through cycle reinvestment"
+      },
+      {
+        "date": "2025",
+        "event": "Live Acquired interview at Chase Center; JPMorgan ~$800B market cap"
+      }
+    ]
+  }
+}

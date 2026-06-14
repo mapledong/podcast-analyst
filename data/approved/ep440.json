@@ -1,0 +1,119 @@
+{
+  "episode_id": "ep440",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 440,
+    "title": "Building Insight Partners",
+    "guest": "Jeff Horing",
+    "guest_role": "",
+    "date": "2025-09-23",
+    "duration_minutes": 75,
+    "youtube_url": "https://www.youtube.com/watch?v=g4zzkuFyI18",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=g4zzkuFyI18",
+      "colossus": "https://joincolossus.com/episode/jeff-horing-building-insight-partners/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Growth Equity",
+    "Software",
+    "Insight Partners"
+  ],
+  "conclusion": "Horing explains Insight as a machine built around one belief: great software companies can compound for a long time when sourcing, capital, operating help, and pattern recognition all aim at the same market. He grounds that in concrete economics and scale, from 1995 specialization through today's roughly $12 billion marginal fund context. The edge is still a repeatable software-investing system, not one heroic deal. The close of the discussion emphasizes operating truth over narrative: \"I'm a big fan of the value prop. I want\" It remains anchored in scale math and outcomes: \"would you set a fund 100 billion or.",
+  "background": "Horing co-founded Insight Partners in 1995 and helped build it into one of the defining software growth-equity firms. The episode covers sourcing, cold outreach, software margins, subscription models, ARR scale, board work, fund sizing, AI, and how Insight has changed as private software markets grew from niche to enormous. The conversation is data-rich because it ties firm design to market structure. Insight built specialized sourcing, a large operating group, and a culture focused on software long before growth equity became crowded. He also discusses how market structure changed after the 2016 Vision Fund era and why fund size alone is not edge. His framing is that the firm keeps winning when domain knowledge, relationship data, and operating support improve together as scale rises. A recurring subtheme is that insight quality compounds with time in market: long-tenured teams can interpret new software cycles faster because they have seen similar adoption, pricing, and distribution patterns before.",
+  "important_facts": [
+    "Insight Partners was founded in 1995, and Horing argues the software focus worked because recurring revenue, high gross margins, and low marginal distribution costs let winners compound for decades instead of single product cycles. He notes that this structure kept working across multiple market regimes, from early private software markets to today's larger growth rounds, because recurring contracts and renewal behavior gave better visibility than many cyclical sectors.",
+    "Horing gives a concrete magnitude example from software M&A: EMC reportedly spent about $650 million for VMware and later sold around $60 billion of value, which captures why owning software optionality can matter far more than initial check size. The example is used to show outcome asymmetry: one enduring software asset can return multiples of an entire early fund, which is why Insight spends heavily on identifying compounding products before they become obvious.",
+    "Scale changed Insight's toolkit over time: Patrick references the industry shift to 10+ billion and 20 billion funds, Horing says Insight's current marginal fund is about $12 billion, and the firm pairs that capital with a repeatable sourcing-and-operations machine. He ties this to organization design, saying bigger funds only help if paired with specialist teams, repeat founder relationships, and operating resources that can materially improve go-to-market and product execution after investment."
+  ],
+  "mental_model": {
+    "name": "Specialized Scale Advantage",
+    "components": "Market focus, proprietary sourcing, software pattern recognition, capital flexibility, operating support, and long-term relationships with founders before a financing event. Horing also links this to explicit scale choices, including today's marginal fund around $12 billion and prior debates around 10+ and 20 billion fund formats. In his framing, software investing maturity progresses from pattern collection to institutional pattern application, and scale only matters when it raises decision quality.",
+    "application": "Insight's model works when a firm narrows its domain enough to build real expertise, then scales sourcing and support so that size improves information flow rather than diluting judgment. His practical test is whether larger pools of capital produce better software selection and support, not just larger ownership stakes. He ties execution to founder/customer reality: \"I'm a big fan of the value prop. I want\""
+  },
+  "key_insights": [
+    {
+      "view": "Growth equity can be an information business before it is a capital business.",
+      "question": "Why did sourcing matter so much to Insight?",
+      "answer": "By calling and tracking software companies long before they needed money, Insight created relationship and market data that competitors could not easily buy at the moment of a deal. He describes years of outbound work before financing events as the compounding dataset that improves pricing and founder trust when an actual round starts. He states: \"just the markets and the growth and the\" He also gives a concrete magnitude: \"if I added 10 million of new business\""
+    },
+    {
+      "view": "Software was attractive because the business model improved as it scaled.",
+      "question": "Why focus on software for decades?",
+      "answer": "Recurring revenue, high gross margins, low marginal distribution cost, and large addressable markets made good software companies unusually capable of compounding. In the interview he ties that logic to software's structural economics rather than fashion, emphasizing recurring models and long duration cash-flow profiles. He states: \">> and modeled out, right? Palo Alto pays\" He also gives a concrete magnitude: \"if I added 10 million of new business\""
+    },
+    {
+      "view": "AI changes the software market but does not eliminate the need for judgment.",
+      "question": "How should investors think about AI software?",
+      "answer": "Horing treats AI as both opportunity and disruption. The investor still has to ask whether the product has durable distribution, workflow ownership, data advantage, and real customer ROI. He treats AI as another platform shift where distribution and workflow control matter more than short-lived model novelty, so underwriting still centers on durability tests. He states: \"just the markets and the growth and the\" He also gives a concrete magnitude: \"that are in the top 20 market cap\""
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Insight Partners",
+      "direction": "Long",
+      "confidence": "High",
+      "thesis": "Insight Partners is the direct primary-market target: a scaled software growth platform with sourcing, operating resources, capital flexibility, and three decades of pattern recognition in recurring-revenue software."
+    },
+    {
+      "ticker": "Private:Vertical software growth equity",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "The episode reinforces the durable appeal of software companies with recurring revenue, workflow ownership, and efficient growth. This is executable as a primary-market growth-equity strategy in vertical and application software."
+    },
+    {
+      "ticker": "IGV",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "IGV is a liquid proxy for public software valuations and AI disruption, both of which affect the private opportunity set Horing describes. It is less direct than primary software growth exposure but executable in public markets."
+    }
+  ],
+  "golden_quotes": [
+    "Horing's simplest explanation of Insight is focus: the firm decided early that it was a software investor and built around that specialization.",
+    "He emphasizes that sourcing is a big part of the business because Insight wanted to know software companies years before they raised capital.",
+    "The core underwriting belief is that great software companies can compound for a very long time when recurring revenue, margins, and market size line up."
+  ],
+  "chronology": {
+    "subject": "Insight Partners",
+    "events": [
+      {
+        "date": "1995",
+        "event": "Jeff Horing co-founded Insight Partners with a focus on software and internet companies"
+      },
+      {
+        "date": "Late 1990s",
+        "event": "Firm built early specialization in software during the first internet cycle"
+      },
+      {
+        "date": "2000s",
+        "event": "Insight expanded sourcing and operating support as recurring-revenue software markets matured"
+      },
+      {
+        "date": "2010s",
+        "event": "Growth equity became more competitive and software valuations rose, increasing the value of Insight's specialization and relationships"
+      },
+      {
+        "date": "2020s",
+        "event": "Firm operated at much larger fund sizes while adapting to cloud, AI, and changing exit markets"
+      },
+      {
+        "date": "2025",
+        "event": "Horing reflects on Insight's three-decade software-investing system"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT batch v4.7 | rebalanced v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.7",
+    "transcript_source": "youtube",
+    "status": "approved",
+    "expanded_by": "agent-v4.9",
+    "rebalanced_v410": true
+  }
+}

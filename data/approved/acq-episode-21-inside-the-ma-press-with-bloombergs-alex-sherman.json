@@ -1,0 +1,135 @@
+{
+  "episode_id": "acq-episode-21-inside-the-ma-press-with-bloombergs-alex-sherman",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 12,
+    "title": "Inside The Ma Press",
+    "guest": "Bloombergs Alex Sherman",
+    "guest_role": "Acquired · Episode 21",
+    "date": "",
+    "duration_minutes": 120,
+    "youtube_url": "",
+    "links": {
+      "youtube": "",
+      "acquired": "https://www.acquired.fm/episodes/episode-21-inside-the-ma-press-with-bloombergs-alex-sherman",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "Bloomberg",
+    "M&A Press",
+    "Terminals"
+  ],
+  "conclusion": "Acquired's meta-episode with Bloomberg's Alex Sherman explains why deal coverage looks the way it does: terminals (~$25,000/year) monetize speed and accuracy for traders, not pageviews — so 'people familiar with the matter' encodes sourcing discipline, redheaded headlines move markets in seconds, and retrospective 'did it work' stories rarely run because post-close analysis is not actionable. Sherman describes Bloomberg's Chinese-wall separation between terminals and newsroom, preference for both-sides sourcing on deals, and why splashy rumors (Apple–McLaren) get killed while verified Verizon–Yahoo threads publish. For founders, the playbook is relationships before you need them; for listeners, Acquired itself occupies the story-driven retrospective gap mainstream M&A press skips.",
+  "background": "Episode 21 breaks Acquired's acquisition format to interview Alex Sherman (Bloomberg Deal of the Week; NY HQ since 2008 intern). David opens with Bloomberg LP history: 1981 founding, Merrill Lynch's 1983 $30 million for 30% (later repurchased 2008), terminal business as Wall Street's OS long before smartphones. Conversation covers incentive alignment (truth over hype), coded bylines, algorithmic data feeds on red headlines, Friday 'take out the trash' dump timing, and why Instagram follow-ups (500K advertisers) still make news but post-merger grades do not. Hot takes include Disney–Twitter rumor (Sherman broke dual-side talks), Ford–Chariot vs GM–Cruise, and media business-model contrasts (WSJ paywall vs terminal subsidy). Episode abandons acquisition grading for press mechanics; David's WSJ stint informs paywall vs terminal contrast. Follow-ups cover Instagram advertiser growth, Amazon $800 share price, Yahoo breach material-adverse clause risk, and Kara Swisher/Recode without redhead distribution. Acquired listener base framed as trade-publication niche enjoying story-driven retrospectives Snapchat episode proved. Tech themes: messaging-as-OS in Asia vs U.S., Twitter paywall/network-effect paradox, Bloomberg dual-revenue model vs ad CPM press. Follow-ups: Instagram 500K advertisers, Amazon $800, Yahoo breach material-adverse risk, Ford Chariot vs GM Cruise. Carve-outs include Phil Knight Shoe Dog. Episode structure intentionally abandons acquisition grading rubric.",
+  "important_facts": [
+    "Bloomberg Terminal subscriptions cost on the order of ~$25,000 per year — core revenue engine subsidizing newsroom operations.",
+    "Merrill Lynch invested $30 million for 30% of Bloomberg in 1983; Bloomberg repurchased the stake after Bank of America acquired Merrill in 2008.",
+    "Instagram reported 500,000+ active advertisers — up from 200,000 in February — in follow-up segment citing recent announcement.",
+    "Amazon share price referenced at ~$800 in follow-up (2016 recording) — Seattle economic spillover context.",
+    "Ford acquired Chariot (San Francisco shuttle subscription ~$100/month) — contrasted with GM's Cruise autonomous bet."
+  ],
+  "mental_model": {
+    "name": "Terminal-Subsidized Truth",
+    "components": "When customers pay five figures annually for milliseconds of advantage, newsroom incentives favor precision and dual confirmation — opposite of ad-CPM media chasing clicks. 'People familiar' signals sourcing tier; red headline triggers data feeds and trading algorithms instantly. Incentive alignment beats editorial policy: when customers punish false positives harder than missing a rumor, accuracy rises.",
+    "application": "Read deal leaks through incentive lens: terminal-driven outlets underplay unverified splash; ad-driven outlets overplay. For corporate comms, Friday dumps and conflicting mega-deals hide smaller stories. Founders should cultivate reporters before fundraising peaks; bury small deals on heavy-news Fridays; read sourcing codes before trading on leaks."
+  },
+  "competitive_advantage": "Bloomberg's moat is terminal network effects — chat, trading, analytics on proprietary hardware — making journalism a retention feature rather than profit center. Breaking M&A moves terminal value in seconds (Sherman: 15 minutes is 'an eternity'). Chinese walls between news and terminals preserve credibility with paying users. Weakness vs creator ecosystems: individual journalists (Kara Swisher) lack redhead distribution unless bundled; social platforms resist paywalls because network effects break when sources leave. Acquired competes on narrative depth where Bloomberg optimizes timeliness. Terminal economics fund journalists who can refuse stories — negative selection against clickbait. Dual-source 'people familiar' norm reduces single-sided spin; competitors decode bylines for leak attribution (Yahoo–Verizon). Data feeds on red headlines monetize milliseconds — Sherman notes hedge funds pay $25K/year back in seconds on M&A alpha. Weakness: post-close analysis underproduced; podcast/longread formats (Acquired) capture drama without moving markets. Social platforms struggle to charge without killing network effects — Bloomberg model (expensive professional tier, free consumer site) is hard to replicate for Twitter/Facebook. Recode/Vox acquisition cited as cautionary tale for star journalists without terminal infrastructure — distribution moat beats personal brand alone. Acquired occupies retrospective niche Sherman acknowledges: story quality without market-moving latency. For founders, relationship capital with beat reporters compounds; one-off pitch emails underperform when no trusted sourcing history exists.",
+  "key_insights": [
+    {
+      "view": "Post-close M&A analysis is a market failure.",
+      "question": "Why no 'did it work' pieces?",
+      "answer": "News dollars follow actionable moments — announce, break, close — not vegetables. Trade publications could fill gap; Acquired's listener base proves appetite for retrospective stories when drama exists (Snapchat spurned Facebook). Sherman's terminal-subscriber lens explains why Bloomberg under-weights retrospective grades Acquired specializes in — and why founders misunderstand reporter incentives."
+    },
+    {
+      "view": "Coded language is insider API.",
+      "question": "What does 'people familiar' mean?",
+      "answer": "Signals sourced conversation, not document scrape; competitors parse bylines to infer which side leaked. Yahoo–Verizon coverage became case study."
+    },
+    {
+      "view": "Bloomberg kills wolf-cry rumors.",
+      "question": "Why skip Apple–McLaren?",
+      "answer": "Terminal brand punishes false positives; customers pay for accuracy. Incentive to downplay rivals' hype if own reporting stays conservative."
+    },
+    {
+      "view": "Friday is the rug-sweep day.",
+      "question": "When to hide small M&A?",
+      "answer": "Companies bury announcements ahead of mega-deals (Verizon week) — journalists know pattern; founders should expect lower scrutiny Fridays, not invisibility."
+    },
+    {
+      "view": "Stories beat news for podcasts.",
+      "question": "Why Acquired's Snapchat episode endures?",
+      "answer": "Drama and counterfactual narrative (Facebook owning Snapchat) attract non-M&A listeners; Sherman agrees anniversary features could work in text — validates Acquired's story-first format."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "LVMUY",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Terminal-model durability underpins Bloomberg LP; episode informs how private terminal peers might price news vs data bundles."
+    }
+  ],
+  "golden_quotes": [
+    "\"15 minutes is an eternity\" — David on algorithmic trading reaction time vs publishing speed.",
+    "\"Your incentives are aligned with the truth\" — David summarizing terminal subscriber model.",
+    "\"People, Ben. People. Not person.\" — Ben correcting dual-source Disney–Twitter reporting crediting Sherman."
+  ],
+  "chronology": {
+    "subject": "Bloomberg · Media & M&A Coverage",
+    "events": [
+      {
+        "date": "1981",
+        "event": "Michael Bloomberg founds Innovative Market Systems"
+      },
+      {
+        "date": "1983",
+        "event": "Merrill Lynch invests $30M for 30% stake"
+      },
+      {
+        "date": "2008",
+        "event": "Alex Sherman joins Bloomberg as intern"
+      },
+      {
+        "date": "2008",
+        "event": "Bloomberg buys Merrill's stake post-financial crisis"
+      },
+      {
+        "date": "2012",
+        "event": "Facebook IPO coverage era referenced"
+      },
+      {
+        "date": "2016",
+        "event": "Instagram 500K advertisers milestone cited"
+      },
+      {
+        "date": "2016",
+        "event": "Disney–Twitter talks reported by Sherman"
+      },
+      {
+        "date": "2016",
+        "event": "Ford buys Chariot; GM bought Cruise earlier"
+      },
+      {
+        "date": "2016",
+        "event": "Yahoo breach surfaces during Verizon deal scrutiny"
+      },
+      {
+        "date": "2016",
+        "event": "Acquired Android episode approaches Snapchat download popularity"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT Acquired batch ep19-25 — v5.1-acquired; meta press episode | optimized v5.4"
+}

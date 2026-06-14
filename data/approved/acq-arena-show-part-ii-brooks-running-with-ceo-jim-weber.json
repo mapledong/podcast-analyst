@@ -1,0 +1,135 @@
+{
+  "episode_id": "acq-arena-show-part-ii-brooks-running-with-ceo-jim-weber",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 151,
+    "title": "Arena Show Part II: Brooks Running",
+    "guest": "CEO Jim Weber",
+    "guest_role": "Season 10 · Episode 8",
+    "date": "2022-05-15",
+    "duration_minutes": 71,
+    "youtube_url": "",
+    "links": {
+      "youtube": "",
+      "acquired": "https://www.acquired.fm/episodes/arena-show-part-ii-brooks-running-with-ceo-jim-weber",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Running Footwear",
+    "Brand Focus",
+    "BRK.B"
+  ],
+  "conclusion": "Jim Weber turned Brooks Running from a failing multi-sport shoe maker into a pure running brand generating ~$1.3B revenue with ~50% annual growth for years — owned by Berkshire Hathaway since Warren Buffett's direct call in 2006. Whitney's $7M rescue (2001) was Brooks' last outside capital; cash flows to Omaha thereafter. Weber shed ~$160M Big 5 Sporting Goods revenue (one-sixth of sales) to focus on serious runners, counter-positioning Nike's victory narrative with \"performance but not serious.\" Adrenaline GTS 4 breakthrough, pandemic-era demand for solo outdoor running, and digital data via Strava partnerships define moat. Weber survived cancer while scaling the business. For investors, Brooks proves niche focus plus Berkshire patience beats generalist athletic apparel — a physical-product compounder hidden inside Buffett's portfolio.",
+  "background": "Season 10 Arena Show Part II in Seattle (PitchBook-presented) features CEO Jim Weber live after a morning community run. Weber published \"Running With Purpose\" (hosts read advance copy) narrating Brooks' turnaround. Founded ~1914 as bath-shoe maker, Brooks nearly died through football/baseball diversification until Weber arrived ~2001–02 under private equity owner Russell Athletic (later Fruit of the Loom/Berkshire). Story covers intentional revenue collapse exiting big-box barbecue shoes, fourth CEO turnaround, Russell/Fruit ownership, Buffett phone call acquiring Brooks outright, marathon-participation growth tailwind, pandemic rebound when competitors shut factories, ~$130 ASP × 2.6 pairs/year loyalist math, Strava/digital running ecosystem, and Weber's cancer perspective on leadership.",
+  "important_facts": [
+    "Whitney & Co. invested approximately $7 million in Brooks around 2001 — the last outside capital; since then cash is sent to Omaha (Berkshire), not raised externally.",
+    "Weber intentionally walked away from roughly $160 million in Big 5 Sporting Goods revenue (~one-sixth of company sales) to shed non-running product lines.",
+    "Brooks reached approximately $1.3 billion in revenue with ~50% annual growth in the period discussed before pandemic scaling.",
+    "Average selling price per pair is about $130; loyal runners buy roughly 2.6 pairs per year — unit economics disclosed on stage.",
+    "Warren Buffett personally called Jim Weber in 2006 to acquire Brooks after missing an earlier voicemail — Brooks became direct Berkshire subsidiary."
+  ],
+  "mental_model": {
+    "name": "Focus the Factory on One Customer",
+    "components": "Weber treated Brooks as a factory serving one athlete — the frequent runner — not a general footwear conglomerate. Shedding revenue that misfit (baseball, football, big-box $20 shoes) freed product, channel, and brand coherence. Counter-positioned Nike (victory/serious performance) with inclusive performance-for-yourself positioning. Berkshire ownership removed quarterly fundraising pressure — last PE capital 2001, then cash to Omaha. Pandemic: single-category running gear enabled faster factory restart than diversified apparel peers.",
+    "application": "In mature categories, narrowing SKU and channel focus can raise growth (paradoxical shrink). Evaluate whether each revenue line shares the same customer job-to-be-done; if not, exit even at painful scale. Long-duration private capital (Buffett) enables multi-year brand rebuilds public markets punish."
+  },
+  "competitive_advantage": "Brooks moat is runner-specific product engineering (Adrenaline GTS franchise), community brand (performance-not-serious), and channel alignment with run specialty stores versus big-box race-to-bottom. Scale in running niche yields R&D amortized across loyal repeat purchasers (2.6 pairs/year). Digital partnerships (Strava, Runkeeper, MapMyRun data) inform product without owning full consumer app stack like Nike. Berkshire ownership provides permanent capital and no exit clock — Weber could sacrifice $160M revenue for positioning. Counter-positioning versus Nike: Brooks celebrates personal goals, not podium victory — hard for Nike to copy without diluting brand. Weaknesses: fashion risk low but category cyclicality exists; heavy dependence on running participation trends (boosted in pandemic). Digital experience fragmented — question whether Brooks must build consumer app versus partner. Berkshire bureaucracy minimal but strategic decisions require Omaha alignment. Post-Weber succession will test whether running-only focus persists without founder-CEO. Strava/Runkeeper data partnerships provide insight but Nike and HOKA compete aggressively in performance running share.",
+  "key_insights": [
+    {
+      "view": "Revenue cuts can be strategic, not failure.",
+      "question": "Why walk away from $160M?",
+      "answer": "Big 5 wanted $20 barbecue shoes, not $100 performance runners — channel misaligned with serious runner focus. Weber accepted revenue cliff as fourth CEO bet; team bought in via transparency. Analogous to semiconductor focus versus diversified consumer electronics."
+    },
+    {
+      "view": "Berkshire call changed ownership trajectory.",
+      "question": "How did Buffett get involved?",
+      "answer": "After Russell → Fruit of the Loom chain, Weber missed Warren's first voicemail (Lehman-crisis parallel). Buffett insisted on buying Brooks; ~$160–170M revenue at time, profitable growth. Direct Berkshire subsidiary status removed double-layer Fruit/Russell friction."
+    },
+    {
+      "view": "Pandemic favored single-sport focus.",
+      "question": "Why restart factories early?",
+      "answer": "March 2020: Weber saw running explode as gyms closed; Brooks' running-only SKU mix meant confidence to flip production back on while diversified apparel makers faced dead inventory across categories."
+    },
+    {
+      "view": "Brand is performance without elitism.",
+      "question": "How differ from Nike?",
+      "answer": "Nike's name means victory; Brooks targets runners who will never win Seattle Marathon but care about motion control and enjoyment. Clarifies product and marketing — serious engineering, non-serious identity."
+    },
+    {
+      "view": "Health crisis reframes leadership time.",
+      "question": "How did cancer affect Weber?",
+      "answer": "Weber battled cancer while CEO — shifted perspective on daily leadership and life balance; hosts close on human note despite his preference to end on business metrics."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "BRK.B",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Brooks (~$1.3B revenue, high growth, capital-light after 2001) exemplifies Berkshire consumer subsidiaries that compound quietly — relevant when analyzing non-insurance operating earnings mix."
+    }
+  ],
+  "golden_quotes": [
+    "\"You send cash to Omaha, not the other way around.\" — Jim Weber on Brooks' capital structure after Whitney's $7M investment.",
+    "\"Performance, but it is not serious.\" — Weber defining Brooks brand versus victory-oriented competitors.",
+    "\"We walked away from $160 million of revenue intentionally.\" — On exiting Big 5 channel to focus on runners."
+  ],
+  "chronology": {
+    "subject": "Brooks Running",
+    "events": [
+      {
+        "date": "1914",
+        "event": "Brooks founded; decades as diversified athletic footwear (bath shoes, baseball, football)"
+      },
+      {
+        "date": "2001",
+        "event": "Whitney invests ~$7M; Jim Weber becomes CEO (~fourth CEO in turnaround)"
+      },
+      {
+        "date": "2002–06",
+        "event": "Weber sheds non-running lines; loses Big 5 (~$160M revenue); Adrenaline GTS 4 hits; profitability returns"
+      },
+      {
+        "date": "2006",
+        "event": "Warren Buffett acquires Brooks directly after phone call; ends Fruit/Russell subsidiary status"
+      },
+      {
+        "date": "2010s",
+        "event": "Brooks scales toward $1B+ revenue; marathon participation and specialty channel expand nationally"
+      },
+      {
+        "date": "2019",
+        "event": "Running participation hits multi-decade highs pre-pandemic; Adrenaline franchise refreshes"
+      },
+      {
+        "date": "Mar 2020",
+        "event": "Pandemic boosts running participation; Brooks restarts production early versus diversified peers"
+      },
+      {
+        "date": "2022",
+        "event": "Weber publishes \"Running With Purpose\"; Arena Show live interview in Seattle"
+      },
+      {
+        "date": "2022-05-15",
+        "event": "Acquired Season 10 Episode 8 Arena Show Part II published"
+      },
+      {
+        "date": "2022-05",
+        "event": "Seattle Arena Show with ~1,000 attendees; morning community run with Jim Weber"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT Acquired batch — v5.1-acquired; live Arena Show interview | optimized v5.4",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  }
+}

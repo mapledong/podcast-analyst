@@ -1,0 +1,135 @@
+{
+  "episode_id": "acq-canlis",
+  "podcast": "Acquired",
+  "host": "Ben Gilbert & David Rosenthal",
+  "metadata": {
+    "episode_number": 92,
+    "title": "Adapting Episode 1: Canlis",
+    "guest": "Adapting Episode 1: Canlis",
+    "guest_role": "Season 6 · Episode 4",
+    "date": "2020-03-20",
+    "duration_minutes": 49,
+    "youtube_url": "",
+    "links": {
+      "youtube": "",
+      "acquired": "https://www.acquired.fm/episodes/canlis",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/acquired/id1050462261",
+      "spotify": "https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Canlis Restaurant",
+    "COVID Adaptation",
+    "Fine Dining Pivot"
+  ],
+  "conclusion": "When COVID shut Seattle fine dining, Mark Canlis converted 70-year-old Canlis Restaurant in ~2 weeks from white-tablecloth institution (~115 staff, dinner-only, ~$200+ tickets) into three concepts: Canlis Community College (breakfast delivery), bagel shed drive-through lunch, and dinner CSA/delivery — decisive before peers tried delivery. Family history: grandfather Peter served Pearl Harbor-era Hawaii USO, building post-war Honolulu Canlis before Seattle flagship. Episode launches Acquired's Adapting series — leadership under existential demand shock, not tech M&A. Playbook: protect people first, communicate plainly, repurpose brand trust into new formats (Tock ticketing, Amazon pool for luau precedent). No classic investment angle; case study in organizational courage and speed when revenue model vanishes overnight.",
+  "background": "Recorded March 2020 as Acquired paused normal episodes for Adapting — stories of leaders responding to COVID. Mark Canlis walks through three-generation history (Hawaii military/USO roots, Seattle fine dining evolution) and the leadership meeting where fine dining ended. Details: average ticket by concept, sold-out bagels by 8:37 AM, Tock platform adaptation, delivery logistics for any restaurant, prior experiments (Shake Shack pop-up, Hawaiian luau with Amazon hot tub). SVB sponsor praised for instant support of format change.",
+  "important_facts": [
+    "Canlis employs roughly 115 people for dinner-only fine dining (~$200+ average ticket) — entire model discarded within ~2 weeks of COVID planning.",
+    "Three replacement concepts serve dayparts: breakfast delivery (Canlis Community College), bagel-shed drive-through lunch, dinner delivery/CSA — replacing ~$200+ fine-dining tickets.",
+    "Grandfather Peter Canlis started post-Pearl Harbor USO food service in Honolulu before Seattle restaurant; ~70 years family-operated by 2020.",
+    "Mark Canlis pivoted earlier and more severely than most Seattle restaurants — ~2 weeks from COVID planning to launch inspired Acquired's Adapting series.",
+    "Prior experiments included parking-lot Shake Shack pop-up (pre-Shake Shack brand) and Hawaiian luau with 2nd-story Amazon-purchased hot tub on Canlis deck."
+  ],
+  "mental_model": {
+    "name": "Burn the Playbook, Keep the Brand",
+    "components": "When demand for core product goes to zero overnight, legacy prestige is asset (trust, staff talent, kitchen capability) not liability. Speed beats incremental delivery tweaks — Canlis went three-format pivot vs single takeout menu. Protect team narrative first; concepts can be whimsical (bagel shed, community college branding) if authentic to values. Technology (Tock) enables format swap faster than building stack from scratch.",
+    "application": "Hospitality and experience businesses facing demand destruction should assume zero revenue from old format for months — design staffing and concepts for survival plus community service, not margin-matched fine dining. Communicate plainly ('we got this'). Prior pop-up experiments (luau, Shake Shack) were training for radical reuse."
+  },
+  "competitive_advantage": "Canlis brand: seven decades Seattle fine-dining institution — trust lets customers try bagels and delivery from a name they associate with special occasions. Kitchen talent and Mark's leadership communication differentiate from generic takeout. Weaknesses: high fixed-cost legacy (115 staff) without fine-dining revenue; pivot tickets lower; COVID duration uncertain. Fine-dining brand could dilute if pivots feel gimmicky — mitigated by community-first framing. No traditional moat — local restaurant, not scalable tech. Advantage is reputational speed: first-mover decisiveness in Seattle market. Canlis prior experiments — Shake Shack parking pop-up, Hawaiian luau with Amazon hot tub — trained organization for format swaps before COVID forced existential pivot. Tock reservation infrastructure reused for bagel shed ticketing enabled 2-week turnaround. Mark's communication ('we got this') modeled leadership product as much as food. 115-staff dinner-only model could not incremental-delivery tweak — required three daypart concepts. Community-first framing preserved brand while abandoning $200+ tickets.",
+  "key_insights": [
+    {
+      "view": "Decisive beats incremental in shock.",
+      "question": "Why three concepts not delivery-only?",
+      "answer": "Mark recognized game changed in leadership meeting — protect people, abandon fine dining entirely. Breakfast/lunch/dinner splits utilize staff and dayparts; bagel shed sold out by 8:37 AM. Peers added delivery slowly; Canlis went severe early — inspired Acquired's Adapting pivot."
+    },
+    {
+      "view": "Brand trust transfers across formats.",
+      "question": "Will fine-dining guests buy bagels?",
+      "answer": "70-year reputation plus Mark's transparent language ('we got this') lets Canlis sell $-scale lunch and CSA dinner — prestige becomes permission to serve community, not just celebrations. Prior luau/Shake Shack experiments proved parking-lot format flexibility."
+    },
+    {
+      "view": "Technology enables rapid format swap.",
+      "question": "How implement in two weeks?",
+      "answer": "Existing Tock reservation/ticketing adapted for new products; delivery ops built from scratch but kitchen already world-class. Lesson for restaurateurs nationally: platform plus staff skill beats starting delivery cold without brand."
+    },
+    {
+      "view": "Family history trained adaptability.",
+      "question": "Why Canlis specifically?",
+      "answer": "Peter Canlis built from USO/post-Pearl Harbor chaos in Hawaii — entrepreneurial survival in Mark's DNA. Three generations fine-dining evolution (Mark talks on industry history) meant change was cultural, not one-off stunt."
+    },
+    {
+      "view": "Leadership communication is product.",
+      "question": "What inspired hosts?",
+      "answer": "Mark's language on website and interviews — severe, hopeful, community-first — modeled how to speak when revenue model dies. Adapting series exists because this moment felt 'decisive, severe, extreme' from outside vs slow peer reactions."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "TOCK",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Private restaurant platform (Tock) enabled Canlis format pivot — indirect case for hospitality SaaS resilience when operators must re-skin revenue models quickly; not a public equity call."
+    }
+  ],
+  "golden_quotes": [
+    "\"We got this.\" — Mark Canlis, recurring Canlis COVID-era language cited by hosts as inspiring plain-spoken leadership.",
+    "\"Unfortunately, bagels are sold out as of 8:37 AM.\" — Canlis website message, signal of demand for bagel-shed pivot.",
+    "\"The world doesn't need Acquired right now. People need stories of great leaders responding.\" — Ben Gilbert, launching Adapting series with Canlis as first guest."
+  ],
+  "chronology": {
+    "subject": "Canlis Restaurant & COVID Pivot",
+    "events": [
+      {
+        "date": "1940s",
+        "event": "Peter Canlis serves USO after Pearl Harbor in Hawaii"
+      },
+      {
+        "date": "1950s",
+        "event": "Canlis restaurant established in Seattle fine-dining tradition"
+      },
+      {
+        "date": "~2010s",
+        "event": "Parking-lot Shake Shack pop-up and Hawaiian luau experiments"
+      },
+      {
+        "date": "2020-03",
+        "event": "COVID shutdown; leadership meeting abandons fine dining"
+      },
+      {
+        "date": "2020-03",
+        "event": "Launches three concepts within ~2 weeks planning"
+      },
+      {
+        "date": "2020-03",
+        "event": "Bagel shed sells out by 8:37 AM; Tock powers ticketing"
+      },
+      {
+        "date": "2020-03-20",
+        "event": "Acquired Adapting Episode 1 with Mark Canlis airs"
+      },
+      {
+        "date": "2010s",
+        "event": "Canlis parking-lot Shake Shack pop-up and Hawaiian luau experiments"
+      },
+      {
+        "date": "2020-03",
+        "event": "Canlis Community College breakfast delivery launches"
+      },
+      {
+        "date": "2020-03",
+        "event": "Dinner CSA/delivery replaces white-tablecloth service"
+      }
+    ]
+  },
+  "review_notes": "Manual GPT Acquired batch — v5.1-acquired; Adapting / restaurant COVID pivot | optimized v5.4",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v5.1-acquired",
+    "transcript_source": "acquired.fm",
+    "status": "approved",
+    "template_version": "5.1-acquired"
+  }
+}
