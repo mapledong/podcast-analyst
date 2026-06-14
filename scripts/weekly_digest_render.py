@@ -72,6 +72,10 @@ def load_weekly_items(*, days: int = 7, end: date | None = None) -> tuple[list[d
                 "title": meta.get("title", "") or eid,
                 "guest": meta.get("guest", ""),
                 "guest_role": meta.get("guest_role", ""),
+                "guest_line": _format_guest_affiliation(
+                    meta.get("guest", "") or "",
+                    meta.get("guest_role", "") or "",
+                ),
                 "date": ep_date.isoformat(),
                 "date_display": ep_date.strftime("%b %d, %Y"),
                 "conclusion": (data.get("conclusion") or "").strip(),
@@ -102,6 +106,34 @@ def _esc(text: str) -> str:
     return html.escape(text or "")
 
 
+def _format_guest_affiliation(guest: str, guest_role: str) -> str:
+    """Guest name plus institution / title from metadata.guest_role."""
+    guest = (guest or "").strip()
+    role = (guest_role or "").strip()
+    if not guest:
+        return role
+    if not role:
+        return guest
+
+    # ILTB-style: "Founder, Whale Rock Capital Management"
+    if "·" not in role and "," in role:
+        return f"{guest} · {role}"
+
+    parts = [p.strip() for p in role.split("·")]
+    parts = [p for p in parts if p]
+    if parts and parts[0].lower() == "biography":
+        parts = parts[1:]
+    parts = [p for p in parts if not p.lower().startswith("episode")]
+    if not parts:
+        return guest
+    if len(parts) == 1:
+        return f"{guest} · {parts[0]}"
+    title, org = parts[0], parts[1]
+    if any(k in org.lower() for k in ("biography", "episode")):
+        return f"{guest} · {title}"
+    return f"{guest} · {title}, {org}"
+
+
 def _dir_badge(direction: str) -> str:
     d = direction if direction in DIR_STYLES else "Watch"
     color, bg = DIR_STYLES.get(d, DIR_STYLES["Watch"])
@@ -123,21 +155,28 @@ def render_html(
     base = site_url.rstrip("/")
     range_label = f"{start.strftime('%Y-%m-%d')} — {end.strftime('%Y-%m-%d')}"
     podcasts = sorted({i["podcast"] for i in items})
+    podcast_pills = " ".join(
+        f'<span style="display:inline-block;font-size:11px;font-weight:600;color:{PODCAST_ACCENT.get(p, "#1d1d1f")};'
+        f'background:{PODCAST_ACCENT.get(p, "#1d1d1f")}18;padding:3px 10px;border-radius:999px;margin:0 6px 6px 0;">'
+        f"{_esc(p)}</span>"
+        for p in podcasts
+    )
 
     toc_rows = []
     for idx, item in enumerate(items, start=1):
         link = f"{base}/podcast/{item['podcast_slug']}/{item['id']}" if base else "#"
+        guest_line = item.get("guest_line") or item.get("guest") or ""
         toc_rows.append(
             f"""
             <tr>
-              <td style="padding:12px 0;border-bottom:1px solid rgba(0,0,0,0.06);vertical-align:top;width:28px;color:#86868b;font-size:13px;">{idx}</td>
-              <td style="padding:12px 0;border-bottom:1px solid rgba(0,0,0,0.06);vertical-align:top;">
-                <div style="margin-bottom:4px;">
+              <td style="padding:14px 0;border-bottom:1px solid rgba(0,0,0,0.06);vertical-align:top;width:28px;color:#86868b;font-size:13px;font-weight:600;">{idx}</td>
+              <td style="padding:14px 0;border-bottom:1px solid rgba(0,0,0,0.06);vertical-align:top;">
+                <div style="margin-bottom:6px;">
                   <span style="display:inline-block;font-size:11px;font-weight:600;color:{item['accent']};background:{item['accent']}18;padding:2px 8px;border-radius:999px;">{_esc(item['podcast'])}</span>
                   <span style="font-size:12px;color:#86868b;margin-left:8px;">{item['date_display']}</span>
                 </div>
-                <a href="{_esc(link)}" style="color:#1d1d1f;font-size:15px;font-weight:600;text-decoration:none;">{_esc(item['title'])}</a>
-                {f'<div style="font-size:13px;color:#86868b;margin-top:4px;">{_esc(item["guest"])}</div>' if item.get('guest') else ''}
+                <a href="{_esc(link)}" style="color:#1d1d1f;font-size:15px;font-weight:600;text-decoration:none;line-height:1.35;">{_esc(item['title'])}</a>
+                {f'<div style="font-size:13px;color:#424245;margin-top:6px;line-height:1.45;">{_esc(guest_line)}</div>' if guest_line else ''}
               </td>
             </tr>"""
         )
@@ -173,7 +212,7 @@ def render_html(
                 <div>
                   <div style="font-size:12px;font-weight:600;color:{item['accent']};margin-bottom:6px;">#{idx} · {_esc(item['podcast'])} · {item['date_display']}</div>
                   <h2 style="margin:0;font-size:20px;font-weight:700;line-height:1.25;color:#1d1d1f;">{_esc(item['title'])}</h2>
-                  {f'<div style="margin-top:6px;font-size:14px;color:#86868b;">{_esc(item["guest"])}{(" · " + _esc(item["guest_role"])) if item.get("guest_role") else ""}</div>' if item.get('guest') else ''}
+                  {f'<div style="margin-top:8px;font-size:14px;color:#424245;line-height:1.45;">{_esc(item.get("guest_line") or item.get("guest", ""))}</div>' if item.get('guest') or item.get('guest_line') else ''}
                 </div>
               </div>
               <div style="margin-top:16px;padding:16px 18px;background:#f5f5f7;border-radius:12px;border-left:4px solid {item['accent']};">
@@ -214,15 +253,16 @@ def render_html(
       <div style="font-size:14px;color:#86868b;">Episode dates {range_label}</div>
     </div>
     {trial_banner}
-    <div style="background:#ffffff;border-radius:18px;border:1px solid rgba(0,0,0,0.08);padding:20px 24px;margin-bottom:24px;box-shadow:0 1px 3px rgba(0,0,0,0.06);">
-      <div style="font-size:24px;font-weight:700;margin-bottom:4px;">{len(items)}</div>
-      <div style="font-size:14px;color:#86868b;margin-bottom:16px;">episodes this week · {len(podcasts)} podcast{'s' if len(podcasts) != 1 else ''}</div>
-      {f'<div style="font-size:13px;color:#424245;">{" · ".join(_esc(p) for p in podcasts)}</div>' if podcasts else ''}
-      {f'<div style="margin-top:16px;"><a href="{_esc(base)}" style="font-size:14px;font-weight:600;color:#0066cc;text-decoration:none;">Browse library →</a></div>' if base else ''}
-    </div>
-
-    <div style="margin-bottom:12px;font-size:11px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:#86868b;">This Week</div>
-    <div style="background:#ffffff;border-radius:18px;border:1px solid rgba(0,0,0,0.08);padding:8px 24px 4px;margin-bottom:32px;">
+    <div style="background:#ffffff;border-radius:18px;border:1px solid rgba(0,0,0,0.08);padding:24px 24px 8px;margin-bottom:32px;box-shadow:0 1px 3px rgba(0,0,0,0.06),0 4px 16px rgba(0,0,0,0.04);">
+      <div style="display:flex;align-items:flex-end;justify-content:space-between;gap:16px;margin-bottom:16px;flex-wrap:wrap;">
+        <div>
+          <div style="font-size:11px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:#86868b;margin-bottom:6px;">This Week</div>
+          <div style="font-size:22px;font-weight:700;color:#1d1d1f;line-height:1.2;">{len(items)} episode{'s' if len(items) != 1 else ''}</div>
+          <div style="font-size:13px;color:#86868b;margin-top:4px;">{range_label}</div>
+        </div>
+        {f'<a href="{_esc(base)}" style="font-size:13px;font-weight:600;color:#0066cc;text-decoration:none;white-space:nowrap;">Browse library →</a>' if base else ''}
+      </div>
+      {f'<div style="margin-bottom:18px;">{podcast_pills}</div>' if podcast_pills else ''}
       <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse;">
         {''.join(toc_rows) if toc_rows else f'<tr><td style="padding:20px 0;color:#86868b;">{empty}</td></tr>'}
       </table>
@@ -265,8 +305,9 @@ def render_plain(
     lines.append("=== INDEX ===")
     for idx, item in enumerate(items, start=1):
         lines.append(f"{idx}. [{item['date']}] {item['podcast']} — {item['title']}")
-        if item.get("guest"):
-            lines.append(f"   {item['guest']}")
+        guest_line = item.get("guest_line") or item.get("guest")
+        if guest_line:
+            lines.append(f"   {guest_line}")
     lines.append("")
     lines.append("=== DETAILS ===")
     for idx, item in enumerate(items, start=1):
