@@ -128,6 +128,14 @@ def _html(text: str) -> str:
 
 
 def send_email(subject: str, body: str, *, to_addr: str) -> None:
+    missing = [k for k in ("SMTP_HOST", "SMTP_USER", "SMTP_PASSWORD") if not os.environ.get(k)]
+    if missing:
+        raise SystemExit(
+            "Missing SMTP config: "
+            + ", ".join(missing)
+            + ". Add GitHub secrets (SMTP_HOST, SMTP_USER, SMTP_PASSWORD, SMTP_FROM) "
+            "or create a local .env — see docs/automation.md."
+        )
     host = os.environ["SMTP_HOST"]
     port = int(os.environ.get("SMTP_PORT") or "587")
     user = os.environ["SMTP_USER"]
