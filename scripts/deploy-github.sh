@@ -125,6 +125,18 @@ configure_remote() {
   fi
 }
 
+align_git_with_gh_auth() {
+  local gh_bin="$1"
+  "$gh_bin" auth setup-git --hostname github.com >/dev/null 2>&1 || true
+  local protocol
+  protocol="$("$gh_bin" config get git_protocol -h github.com 2>/dev/null || echo ssh)"
+  if [[ "$protocol" == "https" && "$USE_HTTPS" != "1" ]]; then
+    info "gh authenticated with HTTPS; using HTTPS remote for push"
+    USE_HTTPS=1
+    configure_remote
+  fi
+}
+
 maybe_create_repo() {
   local gh_bin="$1"
   [[ "$CREATE_REPO" == "1" ]] || return 0
@@ -133,12 +145,19 @@ maybe_create_repo() {
     return 0
   fi
   info "Creating public repo ${GITHUB_OWNER}/${GITHUB_REPO} on GitHub…"
-  "$gh_bin" repo create "${GITHUB_OWNER}/${GITHUB_REPO}" \
-    --public \
-    --source="$REPO_ROOT" \
-    --remote=origin \
-    --push=false \
+  local -a create_args=(
+    repo create "${GITHUB_OWNER}/${GITHUB_REPO}"
+    --public
+    --source="$REPO_ROOT"
+    --push=false
     --description "Podcast summary library (GitHub Pages)"
+  )
+  if git remote get-url origin >/dev/null 2>&1; then
+    info "origin already configured locally; creating repo without --remote=origin"
+  else
+    create_args+=(--remote=origin)
+  fi
+  "$gh_bin" "${create_args[@]}"
 }
 
 test_ssh_github() {
@@ -227,6 +246,7 @@ main() {
     export PATH="${LOCAL_BIN}:${HOME}/.local/bin:/opt/homebrew/bin:/usr/local/bin:${PATH}"
     info "Using gh: $gh_bin"
     if "$gh_bin" auth status >/dev/null 2>&1; then
+      align_git_with_gh_auth "$gh_bin"
       maybe_create_repo "$gh_bin"
     else
       warn "gh found but not logged in; skipping repo create (use empty repo on github.com or gh auth login)"
