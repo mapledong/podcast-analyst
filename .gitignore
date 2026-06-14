@@ -9,3 +9,10 @@ __pycache__/
 .DS_Store
 tmp/
 .local/
+
+# Local podcast audio (large); regenerate via pipeline
+data/audio_cache/
+*.mp3
+
+node_modules/
+**/node_modules/
