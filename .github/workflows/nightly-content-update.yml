@@ -21,6 +21,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
         with:
@@ -58,6 +59,7 @@ jobs:
           CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
           CURSOR_AGENT_MODEL: ${{ vars.CURSOR_AGENT_MODEL || 'auto' }}
           NIGHTLY_BATCH_SIZE: ${{ vars.NIGHTLY_BATCH_SIZE || github.event.inputs.batch_size || '8' }}
+          CURSOR_SDK_TIMEOUT: "3600"
         run: python scripts/nightly_content_update.py
       - name: Post-process and sync web
         run: |

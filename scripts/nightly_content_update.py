@@ -15,6 +15,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_BATCH = 8
+DEFAULT_SDK_TIMEOUT_S = 3600.0
 
 
 def _run(cmd: list[str]) -> str:
@@ -65,62 +66,62 @@ def _bb_founders_ready(limit: int) -> list[str]:
     return [ln.strip() for ln in proc.stdout.splitlines() if ln.strip()]
 
 
-def build_prompt(*, batch_size: int) -> str:
-    stats = json.dumps(_new_episode_stats(), indent=2)
+def build_queue(*, batch_size: int) -> list[str]:
     new_ids = _new_ready_ids(batch_size)
     remaining = max(0, batch_size - len(new_ids))
     backlog_ids = _bb_founders_ready(remaining) if remaining else []
-    # Dedupe while preserving order
     seen: set[str] = set()
     queue: list[str] = []
     for eid in new_ids + backlog_ids:
         if eid not in seen:
             seen.add(eid)
             queue.append(eid)
-    queue = queue[:batch_size]
+    return queue[:batch_size]
 
-    queue_block = "\n".join(f"- {eid}" for eid in queue) if queue else "(none — report blockers)"
 
+def build_episode_prompt(episode_id: str, *, index: int, total: int) -> str:
     return f"""
-You are running the **nightly content update** for podcast-analyst (01:00 Beijing).
+You are running the **nightly content update** for podcast-analyst (episode {index}/{total}).
 
-Goal: keep the public library current so the **Friday noon weekly digest** includes all episodes from the past 7 days.
+Write and publish **one** episode summary: `{episode_id}`
 
-Discovery and YouTube caption fetch already ran in CI. Your job is to **write and publish summaries only**.
-
-## Priority (process in order, max {batch_size} episodes tonight)
-1. **New releases** (published in last 7 days) with full transcript — highest priority
-2. **BB/Founders expand pool** transcript-ready backlog (if batch slots remain)
-
-Pending stats:
-{stats}
-
-Tonight's queue ({len(queue)} max):
-{queue_block}
-
-If the queue is empty, print stats and exit successfully.
-
-## Per episode
-1. Read full transcript in `data/transcripts/` (or fetch YouTube captions ONLY if missing — max 2 attempts, do not bulk fetch).
-2. Write `data/approved/{{episode_id}}.json` using the correct template:
+## Steps
+1. Read the full transcript in `data/transcripts/` (fetch YouTube captions only if missing — max 2 attempts).
+2. Write `data/approved/{episode_id}.json` using the correct template:
    - ILTB / Acquired: `config/template.yaml` or `config/template-acquired.yaml`
    - BB / Founders: `scripts/expand_bb_founders_agent_instructions.md` v4.10
-3. Run `python scripts/publish_approved_batch.py {{episode_id}}`
+3. Run `python scripts/publish_approved_batch.py {episode_id}`
 4. Validate with `src/validate.py`; fix until pass.
-5. US ticker symbols for public companies; no meta-phrasing.
-6. Analyst prose only: no "He states:", "He also gives a concrete magnitude:", or incomplete transcript fragments; weave numbers into complete sentences.
+5. US ticker symbols for public companies; analyst prose only (no meta-phrasing).
+
+## Prose rules
+- Complete sentences only — no incomplete transcript fragments or dangling quotes.
+- Do not use "He states:", "He also gives a concrete magnitude:", or similar template filler.
+- Weave numbers naturally into the analysis.
 
 ## Do NOT
 - Download mp3 or touch `data/audio_cache/`
-- Run Whisper unless explicitly required (avoid in nightly)
+- Run Whisper unless explicitly required
 - Bulk-fetch YouTube captions
 
-## After all episodes
-- `python scripts/normalize_summary_tickers.py --publish`
-- `node web/scripts/sync-content.mjs` from `web/`
-
-Print: episodes written, skipped IDs + blockers, final `report_new_episodes.py --stats`.
+Print: status for {episode_id}, validation outcome, blockers if any.
 """
+
+
+def _run_episode_agent(
+    prompt: str,
+    *,
+    api_key: str,
+    model: str,
+    timeout_s: float,
+) -> tuple[str, str]:
+    from cursor_sdk import CursorClient, LocalAgentOptions
+
+    client = CursorClient(api_key=api_key).with_options(timeout=timeout_s, max_retries=2)
+    with client.agents.create(model=model, local=LocalAgentOptions(cwd=str(ROOT))) as agent:
+        run = agent.send(prompt)
+        result = run.wait()
+    return result.status, (result.result or "")
 
 
 def main() -> int:
@@ -130,25 +131,49 @@ def main() -> int:
         return 2
 
     batch_size = int(os.environ.get("NIGHTLY_BATCH_SIZE", str(DEFAULT_BATCH)))
+    model = os.environ.get("CURSOR_AGENT_MODEL", "auto")
+    timeout_s = float(os.environ.get("CURSOR_SDK_TIMEOUT", str(DEFAULT_SDK_TIMEOUT_S)))
 
     try:
-        from cursor_sdk import Agent, AgentOptions, LocalAgentOptions
+        from cursor_sdk import CursorClient  # noqa: F401
     except Exception as exc:
         print(f"cursor-sdk import failed: {exc}", file=sys.stderr)
         return 2
 
-    model = os.environ.get("CURSOR_AGENT_MODEL", "auto")
-    result = Agent.prompt(
-        build_prompt(batch_size=batch_size),
-        AgentOptions(
-            api_key=api_key,
-            model=model,
-            local=LocalAgentOptions(cwd=str(ROOT)),
-        ),
-    )
-    print(f"Cursor agent status: {result.status}")
-    print(result.result or "")
-    return 0 if result.status == "completed" else 1
+    stats = json.dumps(_new_episode_stats(), indent=2)
+    queue = build_queue(batch_size=batch_size)
+    print(f"Pending stats:\n{stats}")
+    print(f"Tonight's queue ({len(queue)} max): {queue}")
+
+    if not queue:
+        print("Queue empty — nothing to summarize.")
+        return 0
+
+    failed: list[str] = []
+    for index, episode_id in enumerate(queue, start=1):
+        print(f"\n=== Episode {index}/{len(queue)}: {episode_id} ===", flush=True)
+        prompt = build_episode_prompt(episode_id, index=index, total=len(queue))
+        try:
+            status, text = _run_episode_agent(
+                prompt,
+                api_key=api_key,
+                model=model,
+                timeout_s=timeout_s,
+            )
+            print(f"Cursor agent status: {status}")
+            if text:
+                print(text)
+            if status != "completed":
+                failed.append(episode_id)
+        except Exception as exc:
+            print(f"Agent error for {episode_id}: {exc}", file=sys.stderr)
+            failed.append(episode_id)
+
+    print(f"\nFinished: {len(queue) - len(failed)}/{len(queue)} succeeded")
+    if failed:
+        print(f"Failed: {', '.join(failed)}", file=sys.stderr)
+        return 1
+    return 0
 
 
 if __name__ == "__main__":
