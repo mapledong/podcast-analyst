@@ -1,0 +1,64 @@
+{
+  "episode_id": "zj-ep145",
+  "podcast": "Zhang Xiaojun Podcast",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 145,
+    "title": "Oral History of SpaceX: Ex-Executive Hong Lide on Musk's Hiring, Mega-IPO, Space & AI",
+    "guest": "Hong Lide",
+    "guest_role": "Former SpaceX Executive",
+    "date": "2026-06-12",
+    "duration_minutes": 181,
+    "youtube_url": "https://www.youtube.com/watch?v=ABtf0yehi1I",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ABtf0yehi1I",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:SpaceX",
+    "TSLA",
+    "Space Economy"
+  ],
+  "conclusion": "placeholder",
+  "background": "placeholder",
+  "important_facts": [
+    "placeholder"
+  ],
+  "mental_model": {
+    "name": "placeholder",
+    "components": "placeholder",
+    "application": "placeholder"
+  },
+  "key_insights": [
+    {
+      "view": "placeholder",
+      "question": "placeholder",
+      "answer": "placeholder"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "TSLA",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "placeholder"
+    }
+  ],
+  "golden_quotes": [
+    "placeholder"
+  ],
+  "chronology": {
+    "subject": "Hong Lide · SpaceX",
+    "events": [
+      {
+        "date": "2026",
+        "event": "placeholder"
+      }
+    ]
+  }
+}

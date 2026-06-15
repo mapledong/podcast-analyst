@@ -110,11 +110,11 @@
 
 ## Golden Quotes
 
-> ""We Don't Sell Saddles Here" — Stewart Butterfield blog post defining Slack's category-creation GTM (referenced by hosts)."
+> "We Don't Sell Saddles Here — Stewart Butterfield blog post defining Slack's category-creation GTM (referenced by hosts)."
 
-> ""This is the anti-Microsoft consolidation" — Ben's thesis on Salesforce-Slack versus Teams bundling."
+> "This is the anti-Microsoft consolidation — Ben's thesis on Salesforce-Slack versus Teams bundling."
 
-> ""Slack has basically stopped updating the product" — Ben's pre-deal Twitter draft joke on fit with Salesforce UI cadence."
+> "Slack has basically stopped updating the product — Ben's pre-deal Twitter draft joke on fit with Salesforce UI cadence."
 
 ---
 

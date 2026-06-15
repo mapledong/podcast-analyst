@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""We've never paid so much for so little." — Michael Moritz, months after Sequoia's Google investment (quoted by Doug Leone)."
+> "We've never paid so much for so little. — Michael Moritz, months after Sequoia's Google investment (quoted by Doug Leone)."
 
-> ""Sometimes you don't want to be number one because then there's people sniping at you from behind. I'm perfectly happy to be in two." — Trip Hawkins, cited by Doug Leone on market position strategy."
+> "Sometimes you don't want to be number one because then there's people sniping at you from behind. I'm perfectly happy to be in two. — Trip Hawkins, cited by Doug Leone on market position strategy."
 
-> ""It's an organization that you're building. It's not a family." — Doug Leone, on Sequoia culture vs myth — referencing Michael Moritz's Sir Alex Ferguson book."
+> "It's an organization that you're building. It's not a family. — Doug Leone, on Sequoia culture vs myth — referencing Michael Moritz's Sir Alex Ferguson book."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""When you go through a trauma together with a group of people, you get bound together and you just want to keep working." — Stewart Butterfield on the Glitch→Slack team."
+> "When you go through a trauma together with a group of people, you get bound together and you just want to keep working. — Stewart Butterfield on the Glitch→Slack team."
 
-> ""Zoom was actually the Slack we thought we had all along." — Bear narrative comparing Slack losses to Zoom profitability."
+> "Zoom was actually the Slack we thought we had all along. — Bear narrative comparing Slack losses to Zoom profitability."
 
-> ""The 15 years slow-motion unbundling of Microsoft as the product of the suite for the enterprise." — Stewart's framing of Slack's market position."
+> "The 15 years slow-motion unbundling of Microsoft as the product of the suite for the enterprise. — Stewart's framing of Slack's market position."
 
 ---
 

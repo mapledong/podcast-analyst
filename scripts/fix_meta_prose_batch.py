@@ -13,6 +13,13 @@ APPROVED = ROOT / "data" / "approved"
 
 # Regex replacements applied to all string values in summary JSON
 REGEX_FIXES = [
+    (re.compile(r'\s*The close of the discussion emphasizes operating truth over narrative:\s*"[^"]*"'), ""),
+    (re.compile(r'\s*It remains anchored in scale math and outcomes:\s*"[^"]*"'), ""),
+    (re.compile(r'\s*He states:\s*"[^"]*"'), ""),
+    (re.compile(r'\s*He also gives a concrete magnitude:\s*"[^"]*"'), ""),
+    (re.compile(r'\s*He ties execution to founder/customer reality:\s*"[^"]*"'), ""),
+    (re.compile(r'\s*He said,\s*"[^"]*"'), ""),
+    (re.compile(r'\s+"[^"]*$'), ""),  # trailing incomplete quoted fragment
     (re.compile(r' In the transcript, he quantifies scale directly: "[^"]*"'), ""),
     (re.compile(r" In the transcript, Patel notes:.*$", re.MULTILINE), ""),
     (re.compile(r" He adds a concrete marker in the episode:.*$", re.MULTILINE), ""),
@@ -119,6 +126,51 @@ CONCLUSIONS = {
         "— Graves, Dyson, Jobs, Walton, Munger, Schulz — looked boring or stubborn for years before they looked "
         "inevitable. Money is often a proxy for meaning; the best founders do not work their whole lives to earn "
         "the right to stop doing the work they love."
+    ),
+    "ep440": (
+        "Horing frames Insight Partners as a repeatable software growth machine, not a hero-deal franchise. "
+        "Decades of specialized sourcing, operating support, and pattern recognition matter because software's "
+        "recurring economics let winners compound across cycles. The practical edge is information and execution "
+        "quality at scale — including today's roughly $12 billion marginal fund — not fund size alone."
+    ),
+    "ep441": (
+        "Diller's career shows that media leadership is taste under pressure. From ABC and Paramount through Fox "
+        "and IAC, he built institutions by trusting instinct, encouraging sharp debate, and committing hard once "
+        "a creative bet was made. The throughline for investors is judgment speed and accountability: delayed "
+        "consensus often costs more than an imperfect early call."
+    ),
+    "ep442": (
+        "Patel's frame is that frontier AI is an industrial race, not a software sprint. Chips, memory, packaging, "
+        "power, networking, and operating talent are the binding constraints; model benchmarks are only one layer. "
+        "Even single-digit efficiency gains compound across hundred-billion-dollar training and inference budgets, "
+        "which rationalizes extreme talent pricing and integrated systems winners like NVIDIA."
+    ),
+    "ep443": (
+        "Zhang positions Decagon as production software for AI customer support, not a chatbot demo. Enterprise "
+        "buyers care about integrations, escalation, observability, and staged rollout — his 5% launch pattern and "
+        "15–20% to 50–80% resolution targets make ROI legible quickly. Reliability infrastructure matters as much "
+        "as model quality."
+    ),
+    "ep444": (
+        "Wang compares China and the U.S. as two national operating systems: an engineering state that scales "
+        "physical output versus a lawyerly society that protects rights but slows construction. The investor takeaway "
+        "is domain-specific — China leads in factories, batteries, and infrastructure; America leads in software, "
+        "capital markets, and frontier labs. Map exposures by value-chain stage, not country narrative."
+    ),
+    "ep445": (
+        "Ramp's thesis is savings-as-software: start with a card wedge, prove measurable spend reduction, then expand "
+        "across finance workflows that share approvals and data. Atiyeh ties growth to customer economics while "
+        "insisting the brand promise forces product choices that reduce waste, not merely increase card volume."
+    ),
+    "ep446": (
+        "Ferrari describes Bending Spoons as a software operating system for consumer products: acquire durable brands, "
+        "centralize talent and tooling, improve monetization and product quality, and hold for decades rather than "
+        "flip on a PE clock. The 25/75 model makes execution discipline the real moat."
+    ),
+    "ep447": (
+        "Hammer argues that narrative is operating infrastructure for founders, not marketing frosting. His 80/20 rule "
+        "and three-layer story framework turn messaging into a repeatable decision tool for recruiting, sales, and "
+        "product alignment. The episode is more leadership playbook than stock map, but the method is concrete."
     ),
 }
 
@@ -301,11 +353,100 @@ OTHER_STRING_FIXES = {
     },
 }
 
+KEY_INSIGHTS_ANSWERS: dict[str, list[str]] = {
+    "ep440": [
+        "By calling and tracking software companies long before they needed money, Insight created relationship and market data competitors could not easily buy at the moment of a deal. Years of outbound work before financing events compound into better pricing and founder trust when a round actually starts.",
+        "Recurring revenue, high gross margins, low marginal distribution cost, and large addressable markets made good software companies unusually capable of compounding. Horing ties that to structural economics rather than fashion — renewal visibility beats cyclical sectors across multiple market regimes.",
+        "Horing treats AI as both opportunity and disruption. The investor still has to ask whether a product has durable distribution, workflow ownership, data advantage, and real customer ROI. Underwriting centers on durability tests, not short-lived model novelty.",
+    ],
+    "ep441": [
+        "He sees sharp disagreement as a way to reveal whether an idea has energy and whether the people around it care enough. Polite consensus produces bland entertainment. Media outcomes often come from sequence and speed: who acts early, secures distribution, and backs talent before consensus.",
+        "Diller's instinct came from watching audiences, reading material, working with writers and executives, and making enough decisions to feel when something had life. Data can inform selection, but creative leaders still need concentrated responsibility for judgment because delayed consensus can miss windows.",
+        "He could work with creative talent, understand distribution, make commercial bets, and then move from broadcast and film into internet businesses when the medium changed. His 1992 interactive thesis illustrates identifying behavior shifts before tooling is mature.",
+    ],
+    "ep442": [
+        "Both require huge upfront spending, specialized supply chains, fast iteration, and operational learning. The model is only one part of a production system where utilization and yield-like improvements matter. Paying heavily for elite researchers can be rational if a single efficiency gain removes even a few percent of waste from giant training and inference budgets.",
+        "Competitors can attack pieces of the stack, but NVIDIA combines accelerators, networking, CUDA software, developer ecosystem, and supply-chain priority. Patel compares this to semiconductor process tuning: teams test many paths, discard failures, and retain tacit know-how outsiders cannot replicate quickly.",
+        "Companies with access to cheap reliable power, grid interconnects, land, cooling, and construction expertise gain leverage. AI competition is partly a real-estate and energy problem, so durable advantage comes from integrated execution across chips, networking, software, and operating cadence.",
+    ],
+    "ep443": [
+        "Real customers ask messy questions, data lives in many systems, mistakes hurt brands, and companies need auditability, metrics, and handoff to humans. ROI conversations become straightforward when customers can compare current team cost with expected deflection gains across known ticket volumes.",
+        "Ticket volume, labor cost, response time, resolution rate, and satisfaction are measurable. If the product works, savings and service improvement are easy to show — but only if the agent pulls account context, policy rules, and back-office actions, not just polite text.",
+        "Zhang emphasizes fast shipping and talent density, but the product must still handle edge cases, customer data, enterprise integrations, and production reliability. The winning pattern is gradual trust accumulation: narrow launch, strong observability, rapid failure diagnosis, then broader traffic allocation.",
+    ],
+    "ep444": [
+        "Even with property and demographic headwinds, China can still produce ships, batteries, solar panels, EVs, and infrastructure at a scale few countries match. Wang's point is sector-level advantage: institutional design and labor depth convert policy intent into physical output faster than macro pessimism suggests. He lived in China from 2017 to 2023, giving first-hand context for how long planning horizons produce both speed and social trade-offs.",
+        "U.S. legalism slows housing, transit, and factories, but it also supports property rights, venture finance, universities, and the immigrant-powered software and AI ecosystem. Investors should map exposure by value-chain stage — fabrication and deployment versus software architecture and ecosystem control.",
+        "China leads in many hard-tech manufacturing chains; the U.S. leads in AI frontier labs, software, finance, and cultural attraction. The winner depends on which bottleneck matters in a given sector. Wang's framework avoids binary geopolitics by converting national narratives into domain-specific underwriting assumptions.",
+    ],
+    "ep445": [
+        "The card gives data and distribution, but durable value comes from controlling spend approvals, procurement, AP, travel, accounting, and financial operations. Finance teams adopt when software proves concrete dollars saved, not just better UX.",
+        "Expense review, invoice coding, policy checks, vendor analysis, and month-end close are repetitive enough for AI to help but important enough that trust, auditability, and controls matter. Integration quality determines whether automation survives production traffic.",
+        "It forces Ramp to avoid features that merely increase spend volume and to prioritize tools that make waste visible, automate lower-value work, and help finance teams say no intelligently. AI matters most where it reduces repetitive finance work while preserving controls and predictable close cadence.",
+    ],
+    "ep446": [
+        "Acquisitions give brands, users, data, and distribution; Bending Spoons then applies pricing, growth, engineering, and product discipline across assets that already matter to customers. Survival under severe early capital constraints shaped a culture that treats efficiency as strategic advantage.",
+        "The advantage comes from common standards, tools, and talent allocation. Keeping acquired companies separate would preserve the underperformance that made them available to buy in the first place.",
+        "Capital alone is not enough. The company needs people who can make difficult calls, run rigorous experiments, and operate across different products without diluting standards. The moat becomes organizational learning speed across products rather than any single brand.",
+    ],
+    "ep447": [
+        "Building the product is hard enough that framing it can feel extra. Hammer argues the narrative is already present; the work is to make it conscious and communicable. Audiences need enough shared priors before they reward originality — hence the 80/20 familiar-to-new ratio.",
+        "Most strong stories begin with something familiar and then add a small but important new angle. Too much novelty makes the audience unable to categorize what they are seeing. The three-layer model helps diagnose whether the gap is factual clarity, emotional stakes, or worldview tension.",
+        "A filmmaker stakes their whole being on one project, takes responsibility from beginning to end, and does it again after failure. CEOs need similar courage to own a specific worldview and test narrative layers the way product teams iterate on features.",
+    ],
+}
+
+MENTAL_MODEL_APPLICATION: dict[str, str] = {
+    "ep440": (
+        "Insight's model works when a firm narrows its domain enough to build real expertise, then scales sourcing and support so size improves information flow rather than diluting judgment. The practical test is whether larger pools of capital produce better software selection and support, not just larger ownership stakes."
+    ),
+    "ep441": (
+        "In media, data can inform but not substitute for taste. Diller gathers smart people, lets them fight honestly, decides, and commits hard enough that a creative idea has a chance to become a business. He prizes teams that argue quickly, decide, and ship rather than optimize for committee comfort."
+    ),
+    "ep442": (
+        "Evaluate AI companies by access to capital, compute, power, talent, and operational know-how. Model quality matters, but without reliable clusters and supply-chain priority a lab cannot stay at the frontier. Underwrite frontier labs as operators of scarce industrial systems, not only as software teams."
+    ),
+    "ep443": (
+        "For enterprise AI, evaluate whether the company has moved beyond a conversational interface into the customer's workflow. Decagon's target is a system that resolves real support cases safely — increasing deflection while preserving CSAT and deterministic fallback paths."
+    ),
+    "ep444": (
+        "Use the model to judge competition by domain. China has an edge in factories, infrastructure, EVs, batteries, drones, and construction. The U.S. has an edge in AI labs, software ecosystems, reserve currency, capital markets, universities, and immigrant talent. Separate sectors where execution speed dominates from sectors where institutional flexibility and research ecosystems dominate."
+    ),
+    "ep445": (
+        "Ramp uses spend data from cards and bills to automate more of the finance stack. AI is valuable when it makes approval flow, close process, vendor review, or policy enforcement faster and more accurate. The diligence check is whether each expansion keeps producing auditable savings, not just broader feature surface area."
+    ),
+    "ep446": (
+        "Ferrari applies the model to assets with existing brands and users but underoptimized execution. The edge is a repeatable system for running many digital products with a smaller, stronger team and shared capabilities — each acquisition should strengthen infrastructure used by the next one."
+    ),
+    "ep447": (
+        "A founder can use the model to explain a company, qualify a market, recruit a team, or sharpen product messaging. The story should start from accepted reality, reveal personal stakes, and show action against a real obstacle. Leaders can test whether messaging drives action or only sounds polished."
+    ),
+}
+
 
 def apply_regex(text: str) -> str:
     for pattern, repl in REGEX_FIXES:
         text = pattern.sub(repl, text)
     return text
+
+
+def normalize_golden_quote_text(text: str) -> str:
+    q = str(text).strip()
+    m = re.match(r'^["\'](.+?)["\'](\s*—.+)$', q, re.DOTALL)
+    if m:
+        return f"{m.group(1).strip()}{m.group(2)}"
+    m2 = re.match(r'^["\'](.+?)["\'](\s*)$', q, re.DOTALL)
+    if m2:
+        return m2.group(1).strip()
+    while len(q) >= 2:
+        if q[0] == '"' and q[-1] == '"':
+            q = q[1:-1].strip()
+            continue
+        if q[0] == "'" and q[-1] == "'":
+            q = q[1:-1].strip()
+            continue
+        break
+    return q
 
 
 def walk(obj):
@@ -362,6 +503,20 @@ def main() -> int:
                 updated["mental_model"]["application"] = value
             elif key == "mental_model.components":
                 updated["mental_model"]["components"] = value
+
+        if eid in MENTAL_MODEL_APPLICATION and updated.get("mental_model"):
+            updated["mental_model"]["application"] = MENTAL_MODEL_APPLICATION[eid]
+
+        if eid in KEY_INSIGHTS_ANSWERS:
+            for i, answer in enumerate(KEY_INSIGHTS_ANSWERS[eid]):
+                insights = updated.get("key_insights", [])
+                if i < len(insights):
+                    insights[i]["answer"] = answer
+
+        if updated.get("golden_quotes"):
+            updated["golden_quotes"] = [
+                normalize_golden_quote_text(q) for q in updated["golden_quotes"]
+            ]
 
         new_raw = json.dumps(updated, indent=2, ensure_ascii=False) + "\n"
         if new_raw != raw:

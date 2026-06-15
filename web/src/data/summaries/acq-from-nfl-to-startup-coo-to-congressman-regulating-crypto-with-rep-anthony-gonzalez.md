@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""No bill ever is pure of scope — it's Christmas trees." — Gonzalez on omnibus legislative reality."
+> "No bill ever is pure of scope — it's Christmas trees. — Gonzalez on omnibus legislative reality."
 
-> ""The great political battle of our time is populist versus institutionalist, not Republican versus Democrat." — Framing cross-party realignment."
+> "The great political battle of our time is populist versus institutionalist, not Republican versus Democrat. — Framing cross-party realignment."
 
-> ""Strength leads to strength." — On fundraising momentum in campaigns (hosts parallel to startup VC dynamics)."
+> "Strength leads to strength. — On fundraising momentum in campaigns (hosts parallel to startup VC dynamics)."
 
 ---
 

@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""You can't eat ROI multiple" — David on Android 1555X vs absolute-dollar ranking."
+> "You can't eat ROI multiple — David on Android 1555X vs absolute-dollar ranking."
 
-> ""Two-sevenths of Facebook's revenue is Instagram" — Ben at time of recording."
+> "Two-sevenths of Facebook's revenue is Instagram — Ben at time of recording."
 
-> ""Make these bets" — David playbook takeaway from Facebook acquisition era."
+> "Make these bets — David playbook takeaway from Facebook acquisition era."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""The New York Times is winning at journalism. At the same time, we are falling behind in the second critical area — the art and science of getting our journalism to readers." — 2014 Innovation Report (leaked)."
+> "The New York Times is winning at journalism. At the same time, we are falling behind in the second critical area — the art and science of getting our journalism to readers. — 2014 Innovation Report (leaked)."
 
-> ""All the news that's fit to print." — Adolph Ochs motto (1896), still on masthead and website."
+> "All the news that's fit to print. — Adolph Ochs motto (1896), still on masthead and website."
 
-> ""The yokel from Tennessee had accomplished the impossible. He had bought The New York Times using none of his own money." — On Ochs's 1896 takeover financing."
+> "The yokel from Tennessee had accomplished the impossible. He had bought The New York Times using none of his own money. — On Ochs's 1896 takeover financing."
 
 ---
 

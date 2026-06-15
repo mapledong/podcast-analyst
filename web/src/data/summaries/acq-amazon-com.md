@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""It's a charity run for the benefit of the American consumer." — Wall Street bear case Bezos reframed; Michael Mauboussin dubbed the model cashflow.com."
+> "It's a charity run for the benefit of the American consumer. — Wall Street bear case Bezos reframed; Michael Mauboussin dubbed the model cashflow.com."
 
-> ""Get big fast." — Post-Kleiner 1996 motto on company t-shirts before dot-com crash shifted to "Get Our House in Order.""
+> "Get big fast." — Post-Kleiner 1996 motto on company t-shirts before dot-com crash shifted to"
 
-> ""Third-party sellers are kicking our first-party butt." — Jeff Bezos 2018 shareholder letter (hosts cite) on marketplace exceeding 50% of sales."
+> "Third-party sellers are kicking our first-party butt. — Jeff Bezos 2018 shareholder letter (hosts cite) on marketplace exceeding 50% of sales."
 
 ---
 

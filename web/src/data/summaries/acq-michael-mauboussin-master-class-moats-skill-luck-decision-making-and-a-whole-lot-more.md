@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""When skill improves uniformly, luck becomes more important in defining outcomes." — Mauboussin on paradox of skill."
+> "When skill improves uniformly, luck becomes more important in defining outcomes. — Mauboussin on paradox of skill."
 
-> ""Base rates are the single most important thing investors ignore." — Mauboussin via Kahneman/Tversky librarian riddle."
+> "Base rates are the single most important thing investors ignore. — Mauboussin via Kahneman/Tversky librarian riddle."
 
-> ""Price is what you pay; expectations are what you get." — Rappaport framework paraphrased in episode."
+> "Price is what you pay; expectations are what you get. — Rappaport framework paraphrased in episode."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Japan's per capita income the next year in 1946 is $17" — David on post-war devastation when Sony was founded."
+> "Japan's per capita income the next year in 1946 is $17 — David on post-war devastation when Sony was founded."
 
-> ""Video game industry is a $180 billion industry compared to Hollywood's $50 billion" — Ben on PlayStation market scale."
+> "Video game industry is a $180 billion industry compared to Hollywood's $50 billion — Ben on PlayStation market scale."
 
-> ""Sony Financial Group was 63% of Sony's total operating profit" — Ben on 2014 conglomerate profit mix."
+> "Sony Financial Group was 63% of Sony's total operating profit — Ben on 2014 conglomerate profit mix."
 
 ---
 

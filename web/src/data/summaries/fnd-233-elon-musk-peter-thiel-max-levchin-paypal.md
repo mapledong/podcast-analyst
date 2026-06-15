@@ -15,7 +15,7 @@
 **Topics** PYPL · PayPal Mafia · Startup Intensity
 > ### Conclusion
 >
-> PayPal was a four-year odyssey of near failure followed by near failure — Confinity and X.com merged under siege from fraud, regulators, and dot-com collapse while a World Domination Index tracked daily users. Senra treats Jimmy Soni's book as mandatory reading on scenius: misfit founders who polished one another like rocks in a tumbler and spawned much of modern Silicon Valley. Senra: properly understood PayPal is near failure followed by near failure — four years under siege before eBay exit. World Domination Index and Memento Mori banners tracked daily users beside mortality reminder.
+> PayPal was a four-year odyssey of near failure followed by near failure — Confinity and X.com merged under siege from fraud, regulators, and dot-com collapse while a World Domination Index tracked daily users. Jimmy Soni's book as mandatory reading on scenius: misfit founders who polished one another like rocks in a tumbler and spawned much of modern Silicon Valley. Senra: properly understood PayPal is near failure followed by near failure — four years under siege before eBay exit. World Domination Index and Memento Mori banners tracked daily users beside mortality reminder.
 
 ---
 

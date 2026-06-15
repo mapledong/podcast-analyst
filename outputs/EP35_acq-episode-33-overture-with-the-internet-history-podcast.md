@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Everybody getting a good deal" — Ben on sustainable platforms (Google, Amazon) vs zero-sum Uber."
+> "Everybody getting a good deal — Ben on sustainable platforms (Google, Amazon) vs zero-sum Uber."
 
-> ""Turn lead into gold" — Brian on PPC invention feeling like alchemy."
+> "Turn lead into gold — Brian on PPC invention feeling like alchemy."
 
-> ""What happened to Yahoo?" — Paul Graham essay referenced throughout; media vs tech identity."
+> "What happened to Yahoo? — Paul Graham essay referenced throughout; media vs tech identity."
 
 ---
 

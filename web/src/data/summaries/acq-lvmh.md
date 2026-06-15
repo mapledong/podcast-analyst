@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Arnault bought Boussac for $15 million and kept Dior — everything else was sold to pay for it." — David on the 1984 transaction that seeded the LVMH empire."
+> "Arnault bought Boussac for $15 million and kept Dior — everything else was sold to pay for it. — David on the 1984 transaction that seeded the LVMH empire."
 
-> ""Luxury is not premium — people buy premium for quality; they buy luxury for desire." — Ben framing Veblen economics across the portfolio."
+> "Luxury is not premium — people buy premium for quality; they buy luxury for desire. — Ben framing Veblen economics across the portfolio."
 
-> ""Racamier verticalized Louis Vuitton before Arnault ever showed up — from $20M to $260M in seven years." — Credit to the pre-Arnault operator whose playbook LVMH scaled."
+> "Racamier verticalized Louis Vuitton before Arnault ever showed up — from $20M to $260M in seven years. — Credit to the pre-Arnault operator whose playbook LVMH scaled."
 
 ---
 

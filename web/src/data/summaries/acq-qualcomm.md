@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Hedy Lamarr invented frequency hopping in 1942 — Qualcomm turned the same idea into how your phone shares a cell tower." — Ben connecting spread spectrum history to CDMA."
+> "Hedy Lamarr invented frequency hopping in 1942 — Qualcomm turned the same idea into how your phone shares a cell tower. — Ben connecting spread spectrum history to CDMA."
 
-> ""The trade press ran a Qualcomm death watch while Jacobs was still proving CDMA could work." — David on early 1990s industry skepticism."
+> "The trade press ran a Qualcomm death watch while Jacobs was still proving CDMA could work. — David on early 1990s industry skepticism."
 
-> ""2621 percent in 1999 — the best stock in the S&P that year was a patent and modem company, not a dot-com." — On Qualcomm's bubble-era outperformance."
+> "2621 percent in 1999 — the best stock in the S&P that year was a patent and modem company, not a dot-com. — On Qualcomm's bubble-era outperformance."
 
 ---
 

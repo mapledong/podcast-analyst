@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""These are four very dangerous words: this time it's different." — Ben on Iger combining content and distribution."
+> "These are four very dangerous words: this time it's different. — Ben on Iger combining content and distribution."
 
-> ""As animation goes, so goes the company." — Walt Disney legacy mantra; Iger rebuilt animation via Pixar acquisition."
+> "As animation goes, so goes the company. — Walt Disney legacy mantra; Iger rebuilt animation via Pixar acquisition."
 
-> ""If you want to understand everything in future Marvel movies, you'll probably need a Disney Plus subscription." — Kevin Mayer on MCU/Disney+ integration strategy."
+> "If you want to understand everything in future Marvel movies, you'll probably need a Disney Plus subscription. — Kevin Mayer on MCU/Disney+ integration strategy."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Developers, developers, developers" — Ballmer echo; Palmer duct-taped DK1 at E3."
+> "Developers, developers, developers — Ballmer echo; Palmer duct-taped DK1 at E3."
 
-> ""5 years ahead of where we would have been" — Palmer on Facebook resources post-acquisition."
+> "5 years ahead of where we would have been — Palmer on Facebook resources post-acquisition."
 
-> ""Can Facebook be horizontal and vertical at once?" — hosts cite Office/iPad and iMessage traps."
+> "Can Facebook be horizontal and vertical at once? — hosts cite Office/iPad and iMessage traps."
 
 ---
 

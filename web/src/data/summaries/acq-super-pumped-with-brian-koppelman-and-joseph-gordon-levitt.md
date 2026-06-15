@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Artists' jobs are to make you feel and ask important questions but not provide answers." — Brian Koppelman on contrast with operators."
+> "Artists' jobs are to make you feel and ask important questions but not provide answers. — Brian Koppelman on contrast with operators."
 
-> ""I never in a million years would have imagined a venture capitalist as a primary character." — David Rosenthal on Bill Gurley on screen."
+> "I never in a million years would have imagined a venture capitalist as a primary character. — David Rosenthal on Bill Gurley on screen."
 
-> ""Travis willed this thing into existence when all cards were stacked against him." — Joseph Gordon-Levitt on playing Kalanick sympathetically."
+> "Travis willed this thing into existence when all cards were stacked against him. — Joseph Gordon-Levitt on playing Kalanick sympathetically."
 
 ---
 

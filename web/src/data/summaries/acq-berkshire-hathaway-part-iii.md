@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""If a business could be run by a ham sandwich, literally… he wanted to get Berkshire Hathaway to the point where it could be run by a ham sandwich, too." — Alice Schroeder (via Ben) on Buffett avoiding fast-changing tech."
+> "If a business could be run by a ham sandwich, literally… he wanted to get Berkshire Hathaway to the point where it could be run by a ham sandwich, too. — Alice Schroeder (via Ben) on Buffett avoiding fast-changing tech."
 
-> ""Greg will preserve the culture." — Charlie Munger at a shareholder meeting when Warren hesitated on succession — the look on Warren's face said everything."
+> "Greg will preserve the culture. — Charlie Munger at a shareholder meeting when Warren hesitated on succession — the look on Warren's face said everything."
 
-> ""Never bet against America." — Warren's perennial line; David's coda for this trilogy: never bet against the internet even when Warren does."
+> "Never bet against America. — Warren's perennial line; David's coda for this trilogy: never bet against the internet even when Warren does."
 
 ---
 

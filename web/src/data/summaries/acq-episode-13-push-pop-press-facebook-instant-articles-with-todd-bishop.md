@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Facebook is like a big dog in the park" — David Carr on Instant Articles scoop, quoted by hosts."
+> "Facebook is like a big dog in the park — David Carr on Instant Articles scoop, quoted by hosts."
 
-> ""Cough. Publishing. Cough." — Ben when founders said they would not continue in books."
+> "Cough. Publishing. Cough. — Ben when founders said they would not continue in books."
 
-> ""10 times faster" — Facebook Instant Articles performance claim vs mobile web."
+> "10 times faster — Facebook Instant Articles performance claim vs mobile web."
 
 ---
 

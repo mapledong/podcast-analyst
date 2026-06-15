@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""By our count… more existential challenges than any meaningful company in history" — David to Mark on nine platform waves."
+> "By our count… more existential challenges than any meaningful company in history — David to Mark on nine platform waves."
 
-> ""Those glasses… could we put Meta AI in them running on device" — Mark's Saturday highway call on Ray-Ban pivot."
+> "Those glasses… could we put Meta AI in them running on device — Mark's Saturday highway call on Ray-Ban pivot."
 
-> ""Twenty years actually isn't that long" — Mark on founder tenure at Chase Center."
+> "Twenty years actually isn't that long — Mark on founder tenure at Chase Center."
 
 ---
 

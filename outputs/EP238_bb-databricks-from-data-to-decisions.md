@@ -75,7 +75,7 @@
 
 ## Investment Ideas
 
-> **1. Private:Databricks** · 🟢 LONG · ●●○ Medium
+> **1. Databricks** · 🟢 LONG · ●●○ Medium
 >
 > WCM's December 2024 investment reflects a platform shift: $4B+ ARR, >140% net dollar expansion, ≈$1B AI revenue, and a ≈$1B lakehouse product with FCF positivity at ≈$130B valuation—Tu sees multiple ways to win whether AI hype rises or fades, including AI-native labs and enterprise RAG pipelines on the same governed data stack.
 

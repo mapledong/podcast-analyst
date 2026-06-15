@@ -98,7 +98,7 @@
 >
 > Cash-flow-positive marketplace gaining China ecommerce share (14% vs. 4% at IPO) with Tencent distribution moat; valuation sensitive to 23x revenue and counterfeiting remediation.
 
-> **2. BABA** · 🟡 WATCH · ●●○ Medium
+> **2. Alibaba (BABA)** · 🟡 WATCH · ●●○ Medium
 >
 > Alibaba lost ≈11 points of China ecommerce share primarily to Pinduoduo's tier-3/4 social model — forcing defensive ad and rural investments.
 
@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""An exemplification of a multi-dimensional space, seamlessly integrating cyberspace and the physical space" — Pinduoduo IPO prospectus quoted by Ben."
+> "An exemplification of a multi-dimensional space, seamlessly integrating cyberspace and the physical space — Pinduoduo IPO prospectus quoted by Ben."
 
-> ""Colin Huang said Pinduoduo is Toutiao meets ecommerce" — David reframing the Costco/Disneyland prospectus analogy toward ByteDance."
+> "Colin Huang said Pinduoduo is Toutiao meets ecommerce — David reframing the Costco/Disneyland prospectus analogy toward ByteDance."
 
-> ""Revenue is an effect and profit is an opinion" — Ben on why gap accounting misleads on PDD's cash-flow engine."
+> "Revenue is an effect and profit is an opinion — Ben on why gap accounting misleads on PDD's cash-flow engine."
 
 ---
 

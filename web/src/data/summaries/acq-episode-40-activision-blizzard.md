@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""You get a car. You get a car." — Oprah (mis-invoked joke in transcript); hosts compare WoW subscription scale instead."
+> "You get a car. You get a car. — Oprah (mis-invoked joke in transcript); hosts compare WoW subscription scale instead."
 
-> ""Everything linear dies, everything on-demand wins." — Barry McCarthy analogy cited in other episodes; here hosts on live-service games."
+> "Everything linear dies, everything on-demand wins. — Barry McCarthy analogy cited in other episodes; here hosts on live-service games."
 
-> ""This is literally like the Old Testament." — Ben on Blizzard's conglomerate genealogy."
+> "This is literally like the Old Testament. — Ben on Blizzard's conglomerate genealogy."
 
 ---
 

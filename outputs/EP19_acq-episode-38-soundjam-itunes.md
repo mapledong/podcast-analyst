@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Of all the MP3 software available for the Mac, SoundJam MP is the most complete." — Macworld review, quoted by hosts."
+> "Of all the MP3 software available for the Mac, SoundJam MP is the most complete. — Macworld review, quoted by hosts."
 
-> ""Wouldn't it be cool if you could visualize your music? Well, we've done it." — Steve Jobs at Macworld 2001 (visualizers existed in SoundJam first)."
+> "Wouldn't it be cool if you could visualize your music? Well, we've done it. — Steve Jobs at Macworld 2001 (visualizers existed in SoundJam first)."
 
-> ""Listeners who have been listening a long time — we started as Ben and me drinking beer and recording ourselves." — David on Acquired's early days."
+> "Listeners who have been listening a long time — we started as Ben and me drinking beer and recording ourselves. — David on Acquired's early days."
 
 ---
 

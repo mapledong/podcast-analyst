@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Start as a billionaire" — the winemaker aphorism for Bronco Wines' Fred Franzia, who made Two Buck Chuck work at $1.99."
+> "Start as a billionaire — the winemaker aphorism for Bronco Wines' Fred Franzia, who made Two Buck Chuck work at $1.99."
 
-> ""$27,000" — David on Bronco Wines buying the Charles Shaw label from bankruptcy, now 1B+ bottles sold through Trader Joe's."
+> "$27,000 — David on Bronco Wines buying the Charles Shaw label from bankruptcy, now 1B+ bottles sold through Trader Joe's."
 
-> ""Crowded stores? Great. Small parking lots? Great. Individual servings? Great" — Trader Joe's counter-positioning against family-focused grocers."
+> "Crowded stores? Great. Small parking lots? Great. Individual servings? Great — Trader Joe's counter-positioning against family-focused grocers."
 
 ---
 

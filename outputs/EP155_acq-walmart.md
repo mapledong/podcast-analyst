@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""I priced it at $1.00 and sold three times more than at $1.20 — that's the essence of discounting." — Sam Walton in Made in America (hosts read on air)."
+> "I priced it at $1.00 and sold three times more than at $1.20 — that's the essence of discounting. — Sam Walton in Made in America (hosts read on air)."
 
-> ""If you're going to compete on price, don't buy anyone else's inefficiency." — Ben summarizing Walton vendor philosophy."
+> "If you're going to compete on price, don't buy anyone else's inefficiency. — Ben summarizing Walton vendor philosophy."
 
-> ""Look at what they're doing right and steal it." — Sam's competitor-shopping ethic; hosts contrast with founders trash-talking rivals."
+> "Look at what they're doing right and steal it. — Sam's competitor-shopping ethic; hosts contrast with founders trash-talking rivals."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""The biggest media company you've never heard of." — Forbes on BAMTech, cited by hosts as the episode frame."
+> "The biggest media company you've never heard of. — Forbes on BAMTech, cited by hosts as the episode frame."
 
-> ""We knew we wanted BAMTech over the long term to be not just a vendor but also a rights holder." — Robert Bowman, on owning rights not just pipes."
+> "We knew we wanted BAMTech over the long term to be not just a vendor but also a rights holder. — Robert Bowman, on owning rights not just pipes."
 
-> ""There are two ways to make money in business: you can unbundle or you can bundle." — Jim Barksdale (via Ben), on OTT vs cable cycles."
+> "There are two ways to make money in business: you can unbundle or you can bundle. — Jim Barksdale (via Ben), on OTT vs cable cycles."
 
 ---
 

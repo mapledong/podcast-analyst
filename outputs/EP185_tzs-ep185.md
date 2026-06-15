@@ -4,7 +4,7 @@
 
 **★★★★★** · 5/5
 
-**Podcast** Investment Practical School · **Date** Jun 1, 2026 · **Duration** 78 min · **Read** ≈6 min
+**Podcast** Practical Investments · **Date** Jun 1, 2026 · **Duration** 78 min · **Read** ≈5 min
 
 **Host** Yongqing & David
 
@@ -15,36 +15,36 @@
 **Topics** TSM · ASML · 0981.HK · Semiconductor Cycle
 > ### Conclusion
 >
-> Xie's forty-year lens: Intel highest tech award 1990, co-founded SMIC 2000; Moore's Law slowing not dead; TSMC moat is service + ecosystem. Historically ≈5-year semi cycles; SMIC #2 pure foundry behind TSMC. For investors: TSM/ASML advanced choke points; 0981.HK on utilization and subsidy ROI. Xie Zhifeng co-founded SMIC around 2000 after Intel research years. He received Intel highest technical achievement award in 1990. TSMC pure-play foundry service model beats conflicted IDM fabs. Moore law continues but each node costs rise exponentially with EUV walls.
+> Across forty years — Intel's highest technology award in 1990, co-founding SMIC around 2000 — Xie Zhifeng argues Moore's Law is slowing, not dead, and that TSMC's moat is a service and ecosystem model, not node bragging rights alone. Semiconductors still obey roughly five-year cycles even with an AI tailwind; SMIC ranks second pure-play foundry globally but faces utilization and subsidy-return constraints unlike TSMC. For investors the episode reinforces a cycle-aware stance: TSMC and ASML are advanced choke points worth owning with timing discipline; SMIC demands proof on utilization and ROI, not headline node milestones.
 
 ---
 
 ## Background
 
-> SMIC co-founder Xie Zhifeng traces ≈40 years in semis: Intel highest technology award in 1990, co-founded SMIC in 2000. He explains TSMC's pure-play foundry service model, Moore's Law economic walls, and AI rewiring capex. Semiconductors historically run ≈5-year cycles; SMIC ranks #2 in pure foundry behind TSMC. Xie Zhifeng co-founded SMIC around 2000 after Intel research years. He received Intel highest technical achievement award in 1990. TSMC pure-play foundry service model beats conflicted IDM fabs. Moore law continues but each node costs rise exponentially with EUV walls. Semiconductor history shows roughly five year cycles though AI may flatten dips. SMIC ranks second in pure foundry behind TSMC in the episode framing. ASML EUV remains a near-term lithography choke point with export controls. AI chips pull advanced node demand but memory and mature nodes still cycle. China localization adds volume but duplicate capacity risks ROI in downturns. Investors should mark to cycle not to AI hype alone in semi names.
+> In a 78-minute episode SMIC co-founder Xie Zhifeng traces roughly forty years in semiconductors: Intel highest technology achievement award in 1990, co-founded Semiconductor Manufacturing International around 2000. He explains TSMC's pure-play foundry service model beating conflicted integrated device manufacturer fabs, Moore's Law economic walls as extreme ultraviolet lithography costs rise, and artificial intelligence rewiring capital expenditure. Semiconductors historically run about five-year cycles though AI may flatten downturns; SMIC ranks second in pure foundry globally behind TSMC in the episode framing. China localization adds volume but duplicate capacity risks return on investment when cycles turn down. AI chips pull advanced node demand but memory and mature nodes still cycle. SMIC ranks second in pure foundry behind TSMC in the episode framing. ASML EUV remains a near-term lithography choke point with export controls. China localization adds volume but duplicate capacity risks ROI in downturns. Investors should mark to cycle not to AI hype alone in semi names. Cycle-aware investors mark semiconductor names to utilization and free cash flow, not headline node announcements alone.
 
 ---
 
 ## Key Facts
 
-> **F1** Xie has ≈40 years in semis: Intel highest tech award 1990, co-founded SMIC (0981.HK) in 2000. Watched China scale from zero to meaningful foundry capacity — marathon, not one tech bet. Moore's Law slowing: EUV, materials, power walls raise cost per node exponentially; only TSMC-scale volume and co-development amortizes. TSMC moat = process lead + design ecosystem + reliability — Apple/Nvidia binding is a service model. Historically ≈5-year semiconductor
+> **F1** Xie has roughly forty years in semiconductors: Intel highest technology award 1990, co-founded SMIC (0981.HK) around 2000. He watched China scale from zero to meaningful foundry capacity — the industry is a marathon, not a single technology bet. Localization brings volume but duplicate capacity risks return on investment in downturns. Artificial intelligence chips pull advanced node demand but memory and mature nodes still cycle with macro.
 
-> **F2** cycles; AI chips pull advanced nodes but memory/mature nodes still cycle. SMIC ranks #2 global pure-play foundry behind TSMC; localization brings volume but advanced nodes capped. Xie Zhifeng co-founded SMIC around 2000 after Intel research years. He received Intel highest technical achievement award in 1990. TSMC pure-play foundry service model beats conflicted IDM fabs. Moore law continues but each node costs rise exponentially with EUV walls. Semiconductor history shows
+> **F2** Moore's Law slowing: extreme ultraviolet lithography, materials, and power walls raise cost per node exponentially — only TSMC-scale volume and customer co-development amortizes spend. TSMC moat equals process lead plus design ecosystem plus delivery reliability; Apple and Nvidia binding reflects a service model, not just wafer output. ASML extreme ultraviolet remains a near-term lithography choke point with export controls.
 
-> **F3** roughly five year cycles though AI may flatten dips. SMIC ranks second in pure foundry behind TSMC in the episode framing. ASML EUV remains a near-term lithography choke point with export controls. AI chips pull advanced node demand but memory and mature nodes still cycle. China localization adds volume but duplicate capacity risks ROI in downturns. Investors should mark to cycle not to AI hype alone in semi names.
+> **F3** Semiconductor history shows roughly five-year cycles; AI chips pull advanced node demand but memory and mature nodes still cycle with macro. SMIC ranks second global pure-play foundry behind TSMC; advanced nodes remain capped while mature mix drives utilization economics. Investors should mark to cycle, not artificial intelligence hype alone. Xie reminds investors that artificial intelligence lifts advanced-node utilization but memory, automotive, and industrial segments still follow macro cycles — twelve to eighteen months after capital-expenditure booms often bring inventory corrections. Marking semiconductor holdings to cycle phase rather than artificial intelligence headlines alone avoids paying peak multiples into classical oversupply.
 
 
 ---
 
-## Mental Model · *Moore Boundaries × Foundry Service Model × 5-Year Semi Cycle*
+## Mental Model · *Moore Boundaries × Foundry Service Model × Five-Year Semi Cycle*
 
 > **Components**
 >
-> Process progress continues but economics worsen — winners need scale + co-optimization. TSMC wins on making customers succeed; wafers are delivery format. ≈5-year historical cycles plus AI structural tailwind; SMIC #2 pure foundry behind TSMC. Xie Zhifeng co-founded SMIC around 2000 after Intel research years. He received Intel highest technical achievement award in 1990. TSMC pure-play foundry service model beats conflicted IDM fabs. Moore law continues but each node costs rise exponentially with EUV walls. Semiconductor history shows roughly five year cycles though AI may flatten dips. SMIC ranks second in pure foundry behind TSMC in the episode framing. ASML EUV remains a near-term lithography choke point with export controls. AI chips pull advanced node demand but memory and mature nodes still cycle. China localization adds volume but duplicate capacity risks ROI in downturns. Investors should mark to cycle not to AI hype alone in semi names.
+> Process progress continues but economics worsen — winners need scale plus customer co-optimization. TSMC wins on making customers succeed; wafers are delivery format, not the product. About five-year historical cycles plus AI structural tailwind; SMIC second pure foundry behind TSMC. Intel award 1990 and SMIC founding 2000 bracket the shift from integrated device manufacturers to foundry services.
 >
 > **Application**
 >
-> Investing lens: (1) TSM advanced + AI mix quality compounder — watch capex peaks; (2) ASML EUV monopoly, geopolitics binary; (3) 0981.HK mature vs advanced mix, utilization, subsidy ROI — loss-making nodes surface in downturns. Intel award 1990; SMIC co-founder 2000; #2 pure foundry behind TSMC; ≈5-year cycles; TSM service model; 0981.HK utilization focus; ASML export risk. Xie Zhifeng co-founded SMIC around 2000 after Intel research years. He received Intel highest technical achievement award in 1990. TSMC pure-play foundry service model beats conflicted IDM fabs. Moore law continues but each node costs rise exponentially with EUV walls. Semiconductor history shows roughly five year cycles though AI may flatten dips. SMIC ranks second in pure foundry behind TSMC in the episode framing. ASML EUV remains a near-term lithography choke point with export controls. AI chips pull advanced node demand but memory and mature nodes still cycle.
+> Taiwan Semiconductor (TSM): advanced node plus AI customer mix quality compounder — watch capital expenditure peaks and roughly five-year cycle for entry timing. ASML: extreme ultraviolet monopoly as Moore economics worsen; export controls remain binary risk. SMIC (0981.HK): mature versus advanced mix, utilization, subsidy return on investment — loss-making nodes surface first in downturns. Mark to cycle not hype — Moore slowdown makes each node costlier, amplifying swing amplitude.
 
 ---
 
@@ -53,21 +53,21 @@
 
 > **1.** TSMC wins on customer success, not node numbers alone.
 >
-> **Q** Why can't IDMs copy it?
+> **Q** Why can't integrated device manufacturers copy the model?
 >
-> **A** Intel/Samsung design and fab — customers fear IP/capacity conflict; TSMC pure play removes it. Co-development with Apple/Nvidia syncs roadmaps — decade-long stickiness. Xie's 1990 Intel award and 2000 SMIC founding mark the industry shift. Xie Zhifeng co-founded SMIC around 2000 after Intel research years. He received Intel highest technical achievement award in 1990. TSMC pure-play foundry service model beats conflicted IDM fabs. Moore law continues but each node costs rise exponentially with EUV walls. Semiconductor history shows roughly five year cycles though AI may flatten dips. SMIC ranks second in pure foundry behind TSMC in the episode framing.
+> **A** Intel and Samsung design and fab — customers fear intellectual property and capacity conflict; TSMC pure play removes it. Co-development with Apple and Nvidia syncs roadmaps — decade-long stickiness Xie witnessed from 1990 Intel research through 2000 SMIC founding. Twelve to eighteen months post-capex boom often brings inventory correction even with AI tailwind.
 
-> **2.** AI demand is structural; semi stocks stay cyclical (≈5-year cycles).
+> **2.** AI demand is structural; semiconductor stocks stay cyclical — about five-year cycles.
 >
-> **Q** How not to get swept by AI narrative?
+> **Q** How not to get swept by AI narrative alone?
 >
-> **A** AI lifts advanced utilization; memory, auto, industrial still follow macro. 12–18 months post-capex boom often brings inventory correction. Mark-to-cycle, not hype; Moore slowdown makes each node costlier, amplifying cycle swings. Xie Zhifeng co-founded SMIC around 2000 after Intel research years. He received Intel highest technical achievement award in 1990. TSMC pure-play foundry service model beats conflicted IDM fabs. Moore law continues but each node costs rise exponentially with EUV walls. Semiconductor history shows roughly five year cycles though AI may flatten dips. SMIC ranks second in pure foundry behind TSMC in the episode framing.
+> **A** AI lifts advanced utilization; memory, automotive, and industrial still follow macro. Twelve to eighteen months post-capital-expenditure boom often brings inventory correction. Mark to cycle, not hype — Moore slowdown makes each node costlier, amplifying swing amplitude.
 
-> **3.** SMIC #2 pure foundry — window and trap together.
+> **3.** SMIC second pure foundry — window and trap together.
 >
-> **Q** How to read 0981.HK?
+> **Q** How to read SMIC (0981.HK)?
 >
-> **A** Localization brings volume and policy support but advanced limits → margin unlike TSM. Duplicate capacity becomes sunk cost in downturns. Watch utilization and FCF, not headline nodes. Xie Zhifeng co-founded SMIC around 2000 after Intel research years. He received Intel highest technical achievement award in 1990. TSMC pure-play foundry service model beats conflicted IDM fabs. Moore law continues but each node costs rise exponentially with EUV walls. Semiconductor history shows roughly five year cycles though AI may flatten dips. SMIC ranks second in pure foundry behind TSMC in the episode framing.
+> **A** Localization brings volume and policy support but advanced limits yield margin structure unlike TSMC. Duplicate capacity becomes national sunk cost in downturns. Watch utilization and free cash flow, not headline node announcements alone.
 
 ---
 
@@ -75,11 +75,15 @@
 
 > **1. TSM** · 🟢 LONG · ●●○ Medium
 >
-> Advanced choke point + AI mix; Xie frames moat as service/ecosystem — watch ≈5-year cycle for timing
+> Taiwan Semiconductor (TSM): advanced-node choke point plus AI customer mix — Xie frames moat as service and ecosystem; watch ≈5-year semi cycle for entry timing
 
 > **2. ASML** · 🟢 LONG · ●●○ Medium
 >
-> EUV monopoly as Moore economics worsen; lithography spend per node rises; export controls key risk
+> ASML: extreme ultraviolet monopoly as Moore economics worsen — lithography spend per node rises; export controls remain key risk
+
+> **3. SMIC (0981.HK)** · 🟡 WATCH · ●○○ Low
+>
+> SMIC (0981.HK): second pure foundry with localization tailwind — utilization and subsidy ROI matter more than advanced node headlines
 
 ---
 
@@ -99,20 +103,20 @@
 >
 > **1990** Xie wins Intel highest technology award
 >
-> **1980s–90s** Witnesses IDM era and Asia capacity rise
+> **1980s–90s** Witnesses integrated device manufacturer era and Asia capacity rise
 >
-> **2000** Co-founds SMIC
+> **2000** Co-founds SMIC (0981.HK)
 >
 > **2010s** TSMC pure-play dominance; Moore slowdown signals
 >
-> **2023–26** AI capex boom; SMIC #2 pure foundry globally
+> **2023–26** AI capital expenditure boom; SMIC #2 pure foundry globally
 >
 
 ---
 
 ## Disclaimer
 
-- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Investment Practical School, Yongqing & David, or Xie Zhifeng. It reflects independent analyst notes for personal research and education only.
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Practical Investments, Yongqing & David, or Xie Zhifeng. It reflects independent analyst notes for personal research and education only.
 - **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
 - **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=Fu_1_oTwhhU) for full context and the guest's own words.
 - **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

@@ -77,7 +77,7 @@
 >
 > 2008 brinkmanship between SpaceX rescue and Tesla survival explains Musk capital allocation and tolerance for near-death — operator risk spans controlled entities. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook.
 
-> **2. Private:SpaceX** · 🟢 LONG · ●●○ Medium
+> **2. SpaceX** · 🟢 LONG · ●●○ Medium
 >
 > Liftoff DNA — iterative culture, vertical integration, Shotwell government sales — underpins Starship economics documented before chopstick booster catches. Senra's reading emphasizes operator lessons from the transcript and book that outlast quarterly noise — relevant when judging management culture against founding playbook.
 

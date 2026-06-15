@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Great acquisitions happen when companies are bought, not sold" — hosts on ExactTarget timing."
+> "Great acquisitions happen when companies are bought, not sold — hosts on ExactTarget timing."
 
-> ""Over twice as much in less than 3 years" — David on $294M to $654M Marketing Cloud revenue."
+> "Over twice as much in less than 3 years — David on $294M to $654M Marketing Cloud revenue."
 
-> ""Account control" — David on Salesforce pushing products through enterprise relationships."
+> "Account control — David on Salesforce pushing products through enterprise relationships."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""50 million MAU is crypto nice, not browser nice." — Ben Gilbert framing Brave scale vs Chrome."
+> "50 million MAU is crypto nice, not browser nice. — Ben Gilbert framing Brave scale vs Chrome."
 
-> ""The definition of evil shifts depending on how large the incentives are." — Brendan Eich on tracking economics."
+> "The definition of evil shifts depending on how large the incentives are. — Brendan Eich on tracking economics."
 
-> ""JavaScript was written in about 10 days." — Eich legacy enabling modern web apps Brave monetizes."
+> "JavaScript was written in about 10 days. — Eich legacy enabling modern web apps Brave monetizes."
 
 ---
 

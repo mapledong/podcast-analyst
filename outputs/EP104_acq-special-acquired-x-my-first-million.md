@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""There are a million ways to skin the cat" — David on why My First Million complements Acquired's canonical company histories."
+> "There are a million ways to skin the cat — David on why My First Million complements Acquired's canonical company histories."
 
-> ""Going and achieving a million dollar a year top-line business — lots and lots of people can do that" — Ben on capital-efficient entrepreneurship versus moonshot narratives."
+> "Going and achieving a million dollar a year top-line business — lots and lots of people can do that — Ben on capital-efficient entrepreneurship versus moonshot narratives."
 
-> ""Insurance is the best business ever. You get free money" — David teasing the season-finale insurance episode on float economics."
+> "Insurance is the best business ever. You get free money — David teasing the season-finale insurance episode on float economics."
 
 ---
 

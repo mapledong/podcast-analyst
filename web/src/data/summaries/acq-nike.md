@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Individual athletes, even more than teams, will be the heroes. Symbols more and more of what real people can't do anymore, risk and win" — Rob Strasser 1983 internal memo, predicting athlete-as-hero marketing Nike still runs."
+> "Individual athletes, even more than teams, will be the heroes. Symbols more and more of what real people can't do anymore, risk and win — Rob Strasser 1983 internal memo, predicting athlete-as-hero marketing Nike still runs."
 
-> ""Nike Inc is a growth company" — Ben citing Nike IR positioning explaining willingness to trade margin for swoosh ubiquity vs raising prices above Adidas parity."
+> "Nike Inc is a growth company — Ben citing Nike IR positioning explaining willingness to trade margin for swoosh ubiquity vs raising prices above Adidas parity."
 
-> ""Michael Jordan will make five, maybe $10 billion over his lifetime from the Jordan brand" — Ben on 2023 Jordan Brand scale (≈$6B+ revenue, ≈35% growth) dwarfing all active athlete earnings."
+> "Michael Jordan will make five, maybe $10 billion over his lifetime from the Jordan brand — Ben on 2023 Jordan Brand scale (≈$6B+ revenue, ≈35% growth) dwarfing all active athlete earnings."
 
 ---
 

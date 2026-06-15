@@ -73,7 +73,7 @@
 
 ## Investment Ideas
 
-> **1. BABA** · 🟢 LONG · ●●○ Medium
+> **1. Alibaba (BABA)** · 🟢 LONG · ●●○ Medium
 >
 > Parameswaran's framework: country-scale utility with $1.2T GMV path to $2.5T, 65%+ EBITDA margins, under-appreciated cloud and 33%-owned Ant Financial optionality, and consumer spend maturation ($400 to $2,000 over five years) — if regulatory and competitive intensity allow absolute GMV to keep compounding despite share erosion.
 

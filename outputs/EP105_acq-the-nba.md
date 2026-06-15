@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Owning an NFL or NBA franchise is the closest thing we have to royalty in America" — Ben on billionaire team ownership."
+> "Owning an NFL or NBA franchise is the closest thing we have to royalty in America — Ben on billionaire team ownership."
 
-> ""You can only begin streaming NFL games after the games are over" — David on the NFL's consumer-hostile GameDay versus NBA League Pass."
+> "You can only begin streaming NFL games after the games are over — David on the NFL's consumer-hostile GameDay versus NBA League Pass."
 
-> ""The shutdown started because the NBA gave the United States public permission to say, okay, this is serious" — Ben on March 11 COVID cancellation as societal leadership."
+> "The shutdown started because the NBA gave the United States public permission to say, okay, this is serious — Ben on March 11 COVID cancellation as societal leadership."
 
 ---
 

@@ -15,7 +15,7 @@
 **Topics** WMT · Everyday Low Price · Operational Frugality
 > ### Conclusion
 >
-> Trimble's pre-autobiography portrait shows Walton as ordinary on the surface — buy cheap, sell low, smile — with iron discipline beneath: JC Penney string lessons, Newport lease loss at 32, Bentonville restart, charter planes beating eight-hour drives, and Sol Price club visits that unlocked discount scale. Senra ties him to Bezos handouts, Patton execution, and a quarter-trillion family fortune built by relentless store walks. Charter planes and $500 IBM bets wired a quarter-trillion dynasty.
+> Trimble's pre-autobiography portrait shows Walton as ordinary on the surface — buy cheap, sell low, smile — with iron discipline beneath: JC Penney string lessons, Newport lease loss at 32, Bentonville restart, charter planes beating eight-hour drives, and Sol Price club visits that unlocked discount scale. him to Bezos handouts, Patton execution, and a quarter-trillion family fortune built by relentless store walks. Charter planes and $500 IBM bets wired a quarter-trillion dynasty.
 
 ---
 
@@ -23,7 +23,7 @@
 
 > Senra covers Vance Trimble's Sam Walton: The Inside Story of America's Richest Man — published while Walton was alive, before his own memoir. When Forbes launched its 400 list in the early 1980s reporters descended on Bentonville trying to understand who had built a $6.3 billion fortune in the shadows. Trimble opens on sixty ordinary-looking years hiding iron discipline: buy cheap, sell low, smile, serve. The episode walks Missouri depression childhood, father's motto of three words — work — JC Penney at $85 a month, James Cash Penney's dime-of-string lesson, Ben Franklin popcorn and ice cream promotions, losing Newport at 32 for a missing five-year renewal clause, Bentonville's 99-year lease with barber-shop wall knocked down, Ozark charter flights shrinking eight-hour drives to 90 minutes, Rogers 16,000-square-foot discount store at $700,000 sales, shopping-center blackjack detour that cost two years, hula-hoop financing via johnboat loads, Kmart dominance until Walton studied Sol Price in San Diego January 1983, and IBM mainframes bought for $500 wiring 36 warehouse departments.
 >
-> Trimble published while Walton still alive — less known than autobiography yet captures Forbes reporters descending on Bentonville when fortune hit $6.3 billion. Senra ties Febles chocolate 500-mile detour and seven-company investor tour to modern creator visiting competitors — same MBWA ethic.
+> Trimble published while Walton still alive — less known than autobiography yet captures Forbes reporters descending on Bentonville when fortune hit $6.3 billion. Febles chocolate 500-mile detour and seven-company investor tour to modern creator visiting competitors — same MBWA ethic.
 
 ---
 
@@ -42,7 +42,7 @@
 
 > **Components**
 >
-> Walton maximized price advantage and miles traveled while minimizing packaging string, lease ambiguity, and headquarters comfort. Paul Graham's bitterness-versus-determination frame fits: depression divorce and father's struggles did not stop an Eagle Scout quarterback from grinding. Copy Kmart, Price, and Febles chocolate store walks shamelessly — Senra notes Bezos flying 17 hours to visit retailers — while out-executing with MBWA, profit-sharing bonuses up to 25%, and Patton-like promotion stunts competitors dismissed until volume proved them.
+> Walton maximized price advantage and miles traveled while minimizing packaging string, lease ambiguity, and headquarters comfort. Paul Graham's bitterness-versus-determination frame fits: depression divorce and father's struggles did not stop an Eagle Scout quarterback from grinding. Copy Kmart, Price, and Febles chocolate store walks shamelessly — Bezos flying 17 hours to visit retailers — while out-executing with MBWA, profit-sharing bonuses up to 25%, and Patton-like promotion stunts competitors dismissed until volume proved them.
 >
 > **Application**
 >

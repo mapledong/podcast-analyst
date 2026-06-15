@@ -75,7 +75,7 @@
 
 ## Investment Ideas
 
-> **1. Private:SpaceX** · 🟢 LONG · ●●○ Medium
+> **1. SpaceX** · 🟢 LONG · ●●○ Medium
 >
 > Ward's Baillie Gifford thesis: integrated cost deflation from Falcon 9 reusability funds Starlink cash flows that underwrite Starship's path to ≈$10/kg — opening connectivity and orbital manufacturing TAMs orders of magnitude above today's launch market.
 

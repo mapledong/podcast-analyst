@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Clark was an old grandmother and was scared to death because we owed money to the banks." — Rockefeller on buying out Clark & Rockefeller partner."
+> "Clark was an old grandmother and was scared to death because we owed money to the banks. — Rockefeller on buying out Clark & Rockefeller partner."
 
-> ""Own shares of Standard Oil and your family will never go hungry." — Standard pitch per Ida Tarbell."
+> "Own shares of Standard Oil and your family will never go hungry. — Standard pitch per Ida Tarbell."
 
-> ""The story of John D. Rockefeller transports us back to a time when industrial capitalism was raw and new in America, and the rules of the game were unwritten." — Ron Chernow, Titan."
+> "The story of John D. Rockefeller transports us back to a time when industrial capitalism was raw and new in America, and the rules of the game were unwritten. — Ron Chernow, Titan."
 
 ---
 

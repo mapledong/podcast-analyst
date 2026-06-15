@@ -1061,7 +1061,7 @@ episodes:
   date: '2026-06-01'
   duration_minutes: 78
   youtube_url: https://www.youtube.com/watch?v=Fu_1_oTwhhU
-  podcast: Investment Practical School
+  podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-novo-nordisk-ozempic
   episode_number: 184
@@ -1117,7 +1117,7 @@ episodes:
   date: '2026-04-20'
   duration_minutes: 67
   youtube_url: https://www.youtube.com/watch?v=mcmrSIEJfJk
-  podcast: Investment Practical School
+  podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-nvidia-the-dawn-of-the-ai-era
   episode_number: 179
@@ -1132,11 +1132,11 @@ episodes:
   episode_number: 179
   title: 'Yongqing: Value Investing Framework, Capital Cycles & Quality Compounders'
   guest: Yongqing
-  guest_role: Co-founder, Investment Practical School & Fund Manager
+  guest_role: Co-founder, Practical Investments & Fund Manager
   date: '2026-04-13'
   duration_minutes: 64
   youtube_url: https://www.youtube.com/watch?v=uEjZzUJZOgI
-  podcast: Investment Practical School
+  podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-nike
   episode_number: 178
@@ -1482,7 +1482,7 @@ episodes:
   date: '2026-06-08'
   duration_minutes: 218
   youtube_url: https://www.youtube.com/watch?v=kBsqirnWTpI
-  podcast: Zhang Xiaojun's Business Interviews
+  podcast: Zhang Xiaojun Podcast
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-the-browser-with-brendan-eich-chief-architect-of-netscape-mozilla-and-ceo-of-brave
   episode_number: 143
@@ -1504,7 +1504,7 @@ episodes:
   date: '2026-05-28'
   duration_minutes: 86
   youtube_url: https://www.youtube.com/watch?v=rUjaLPE3mME
-  podcast: Zhang Xiaojun's Business Interviews
+  podcast: Zhang Xiaojun Podcast
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-peloton
   episode_number: 142
@@ -1550,7 +1550,7 @@ episodes:
   date: '2026-05-11'
   duration_minutes: 228
   youtube_url: https://www.youtube.com/watch?v=ttkd0t5qTD4
-  podcast: Zhang Xiaojun's Business Interviews
+  podcast: Zhang Xiaojun Podcast
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-ftx-with-sam-bankman-fried-mario-gabriele
   episode_number: 139

@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""For most of you, you have most of your net worth tied up in this company or the copycats who followed" — Ben's opening frame for why Vanguard may be Acquired's most personally relevant episode, given passive giants now own ≈24% of US equities."
+> "For most of you, you have most of your net worth tied up in this company or the copycats who followed — Ben's opening frame for why Vanguard may be Acquired's most personally relevant episode, given passive giants now own ≈24% of US equities."
 
-> ""Jack Bogle and Vanguard are responsible for a trillion dollars of wealth transfer out of the pockets of Wall Street and into the pockets of individual investors" — Ben citing The Bogle Effect's estimate of ≈$500B direct savings plus ≈$500B in industry fee cuts forced by Vanguard's pricing."
+> "Jack Bogle and Vanguard are responsible for a trillion dollars of wealth transfer out of the pockets of Wall Street and into the pockets of individual investors — Ben citing The Bogle Effect's estimate of ≈$500B direct savings plus ≈$500B in industry fee cuts forced by Vanguard's pricing."
 
-> ""I view Bogle as an undercover philanthropist — at a trillion dollars, that would make him the greatest philanthropist of all time" — Morgan Housel's framing, underscored by Bogle dying with ≈$80M while Fidelity's founding family is worth ≈$40–50B."
+> "I view Bogle as an undercover philanthropist — at a trillion dollars, that would make him the greatest philanthropist of all time — Morgan Housel's framing, underscored by Bogle dying with ≈$80M while Fidelity's founding family is worth ≈$40–50B."
 
 ---
 

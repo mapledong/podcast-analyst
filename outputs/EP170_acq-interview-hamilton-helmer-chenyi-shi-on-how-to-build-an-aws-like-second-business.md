@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Seven Powers is about defending the castle and less about is this a good idea or not?" — Ben distilling when to apply Helmer's framework vs initial product validation."
+> "Seven Powers is about defending the castle and less about is this a good idea or not? — Ben distilling when to apply Helmer's framework vs initial product validation."
 
-> ""Half of all corporate profits of the largest companies in America came from something other than their original innovation" — Chenyi's research finding that surprises Ben and David."
+> "Half of all corporate profits of the largest companies in America came from something other than their original innovation — Chenyi's research finding that surprises Ben and David."
 
-> ""This quarter was baked three years ago. I'm working on a quarter, five years from now" — David citing Bezos on timing mismatch between operations and strategic moat-building."
+> "This quarter was baked three years ago. I'm working on a quarter, five years from now — David citing Bezos on timing mismatch between operations and strategic moat-building."
 
 ---
 

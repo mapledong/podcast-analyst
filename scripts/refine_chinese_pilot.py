@@ -20,8 +20,11 @@ if str(ROOT) not in sys.path:
 if str(_SCRIPTS) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS))
 
-from refine_chinese_pilot_rest import REFINED  # noqa: E402
+from refine_chinese_pilot_bodies import REFINED as _REFINED_RAW  # noqa: E402
 from refine_expansions import apply_expansions  # noqa: E402
+from polish_bilingual_bodies import polish_refined  # noqa: E402
+
+REFINED = polish_refined(_REFINED_RAW)
 
 ZH_DIR = ROOT / "data" / "approved" / "zh"
 EN_DIR = ROOT / "data" / "approved"

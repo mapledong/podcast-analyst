@@ -29,9 +29,9 @@
 
 ## Key Facts
 
-> **F1** Senra cites Hawke's concise Standard Oil narrative and a list of roughly 100 ideas Rockefeller used; Munger called Standard Oil the greatest company ever created. Rockefeller opened letters with battle language, used coded messages, and admitted later that secrecy was too extreme — comparing himself to a general who would never send a brass band ahead of an attack.
+> **F1** Hawke's concise Standard Oil narrative and a list of roughly 100 ideas Rockefeller used; Munger called Standard Oil the greatest company ever created. Rockefeller opened letters with battle language, used coded messages, and admitted later that secrecy was too extreme — comparing himself to a general who would never send a brass band ahead of an attack.
 
-> **F2** As a teenager Rockefeller canvassed Cleveland firms six days a week with letters of introduction, revisiting every office until doors closed; he scrutinized every line item on bills before paying. He chose a refining site on both river and rail because shipping by water cost about 50% less than rail — Senra says location was the secret weapon when freight dominated unit economics.
+> **F2** As a teenager Rockefeller canvassed Cleveland firms six days a week with letters of introduction, revisiting every office until doors closed; he scrutinized every line item on bills before paying. He chose a refining site on both river and rail because shipping by water cost about 50% less than rail — location was the secret weapon when freight dominated unit economics.
 
 > **F3** During a partner breakup Rockefeller quietly lined financing, let rivals bluff at auction, then won the bidding and weeks later newspapers announced a partnership backing 25 refineries worldwide — partners who had been loud and idle were shocked. Vanderbilt, 45 years older and then America's richest man, summoned young Rockefeller to Cleveland only to hear Rockefeller refuse advice because he had tracked every number since childhood.
 
@@ -57,7 +57,7 @@
 >
 > **Q** Why did Rockefeller inspect every bill as a teenager?
 >
-> **A** Hawke shows Rockefeller believed numbers reveal reality before narrative; he admonished partners who failed to verify totals and maintained that discipline from commission-house days through Standard Oil. Senra ties the habit to Munger's praise — the company's advantage was accounting-level precision applied to transportation rebates and refining throughput.
+> **A** Hawke shows Rockefeller believed numbers reveal reality before narrative; he admonished partners who failed to verify totals and maintained that discipline from commission-house days through Standard Oil. the habit to Munger's praise — the company's advantage was accounting-level precision applied to transportation rebates and refining throughput.
 
 > **2.** Transportation is the first moat.
 >

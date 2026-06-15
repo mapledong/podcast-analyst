@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""This new world of valuations in the internet economy is something I accept." — Jerry Levin (Time Warner CEO), merger announcement."
+> "This new world of valuations in the internet economy is something I accept. — Jerry Levin (Time Warner CEO), merger announcement."
 
-> ""All you need to do is put a catalyst to Time Warner and in a short period you can alter the growth rate." — Bob Pittman, AOL."
+> "All you need to do is put a catalyst to Time Warner and in a short period you can alter the growth rate. — Bob Pittman, AOL."
 
-> ""Two anchors tied to one another are just going to sink faster." — Brian McCullough on merger logic."
+> "Two anchors tied to one another are just going to sink faster. — Brian McCullough on merger logic."
 
 ---
 

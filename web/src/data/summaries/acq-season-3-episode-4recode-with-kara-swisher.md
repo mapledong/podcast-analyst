@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""The conference pays for the journalism" — Swisher on Code Conference economics versus display ads."
+> "The conference pays for the journalism — Swisher on Code Conference economics versus display ads."
 
-> ""We didn't leave the audience — we left the corporate parent" — on spinning AllThingsD into Recode."
+> "We didn't leave the audience — we left the corporate parent — on spinning AllThingsD into Recode."
 
-> ""If Tim Cook shows up, the news writes itself" — on access journalism as event flywheel."
+> "If Tim Cook shows up, the news writes itself — on access journalism as event flywheel."
 
 ---
 

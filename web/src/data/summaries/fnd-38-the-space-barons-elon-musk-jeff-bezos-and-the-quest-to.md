@@ -31,7 +31,7 @@
 
 > **F1** Davenport opens with two vertical rocket landings less than a month apart — first stages previously ditched in the ocean; Musk and Bezos treat that as waste akin to scrapping airliners after one flight. Bezos kept Blue Origin clandestine while Musk occupied center stage with SpaceX triumphs and failures.
 
-> **F2** Around early 2003 Bezos scouted Texas property by helicopter nearly dying in a crash he later called a silly way to die; Amazon segments grew double digits while BusinessWeek and Barron's ran Amazon.toast and Amazon.bomb covers — Senra notes Amazon later exceeded a trillion-dollar market cap as Bezos became world's richest person.
+> **F2** Around early 2003 Bezos scouted Texas property by helicopter nearly dying in a crash he later called a silly way to die; Amazon segments grew double digits while BusinessWeek and Barron's ran Amazon.toast and Amazon.bomb covers — Amazon later exceeded a trillion-dollar market cap as Bezos became world's richest person.
 
 > **F3** Bezos compared the 2003 web to electricity circa 1908 — sockets not yet standardized — arguing optimism if AWS-scale platforms were still ahead; Davenport interviewed four billionaires (Musk, Bezos, Branson, Allen) but Senra omits Branson and Allen. Closing thesis: Musk and Bezos need each other because rivalry is the best rocket fuel, echoing Kennedy's race after Gagarin.
 
@@ -57,7 +57,7 @@
 >
 > **Q** Why cite Amazon.bomb today?
 >
-> **A** Senra uses Bezos's 1990s magazine ridicule versus trillion-dollar market cap as weekly proof that founders must internalize criticism without obeying it — if Bezos faced it, operators should expect external doubt while investing in long-term platforms.
+> **A** Bezos's 1990s magazine ridicule versus trillion-dollar market cap as weekly proof that founders must internalize criticism without obeying it — if Bezos faced it, operators should expect external doubt while investing in long-term platforms.
 
 > **2.** Internet still early in 2003.
 >

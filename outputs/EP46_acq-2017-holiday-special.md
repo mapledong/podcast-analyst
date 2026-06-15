@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""How wrong were we?" — Episode 51 opening premise grading Episode 29 predictions."
+> "How wrong were we? — Episode 51 opening premise grading Episode 29 predictions."
 
-> ""What is the price of Bitcoin on December 12th, 2018?" — Ben forcing a call with BTC near $17,000."
+> "What is the price of Bitcoin on December 12th, 2018? — Ben forcing a call with BTC near $17,000."
 
-> ""You think people are gonna give each other Bitcoin for Christmas?" — David on Coinbase-as-stocking-stuffer mania."
+> "You think people are gonna give each other Bitcoin for Christmas? — David on Coinbase-as-stocking-stuffer mania."
 
 ---
 

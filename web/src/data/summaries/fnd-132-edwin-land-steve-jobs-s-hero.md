@@ -33,7 +33,7 @@
 
 > **F2** Steve Jobs hailed Land as a national treasure and told reporters meeting him was like visiting a shrine; Jobs modeled careers after Land's perfectionism, marketing showmanship, and secrecy — Polaroid cameras developed in secret like later iPhones. Land was roughly 70 in the period covered yet still driving instant photography bets.
 
-> **F3** Land's Harvard Business Review stance: no group originality — creativity is individual. He told a 1972 annual meeting his fantasy was cameras as widely used as telephones; Polaroid film carried roughly 60–80% margin in the Kodak comparison Senra cites from the book's competitive passages.
+> **F3** Land's Harvard Business Review stance: no group originality — creativity is individual. He told a 1972 annual meeting his fantasy was cameras as widely used as telephones; Polaroid film carried roughly 60–80% margin in the Kodak comparison from the book's competitive passages.
 
 
 ---
@@ -75,7 +75,7 @@
 
 ## Investment Ideas
 
-> **1. Private:Polaroid** · 🟡 WATCH · ●○○ Low
+> **1. Polaroid** · 🟡 WATCH · ●○○ Low
 >
 > Polaroid's rise-and-strain arc is a case study in experience-led hardware with film-like recurring margins; no public Polaroid equity remains, but Land's SX-70 gamble informs how investors should underwrite long R&D ramps in consumer tech.
 

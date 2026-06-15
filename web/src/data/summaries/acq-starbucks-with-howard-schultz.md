@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""I exported all of my credit card transactions since 2011… I've spent $23,000 at Starbucks" — Ben opening credibility with Howard as unabashed fan."
+> "I exported all of my credit card transactions since 2011… I've spent $23,000 at Starbucks — Ben opening credibility with Howard as unabashed fan."
 
-> ""We were seven months from being insolvent" — Howard on 2008, correcting perception Starbucks was merely 'slowing'."
+> "We were seven months from being insolvent — Howard on 2008, correcting perception Starbucks was merely 'slowing'."
 
-> ""Scaling humanity is actually the answer" — playbook theme: experience and partners, not just caffeine commodity."
+> "Scaling humanity is actually the answer — playbook theme: experience and partners, not just caffeine commodity."
 
 ---
 

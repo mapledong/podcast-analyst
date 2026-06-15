@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""If you have three or even two players in a market like this, nobody's going to make any money." — Tao Jiang (cited from GGV Next Billion podcast)."
+> "If you have three or even two players in a market like this, nobody's going to make any money. — Tao Jiang (cited from GGV Next Billion podcast)."
 
-> ""So we are seeing food as the go-to-market strategy for a company that is ultimately getting into all consumer services." — Ben/David on land-and-expand."
+> "So we are seeing food as the go-to-market strategy for a company that is ultimately getting into all consumer services. — Ben/David on land-and-expand."
 
-> ""And now it's like, wow, the US is so far behind." — Ben on China leapfrogging Western local-commerce UX."
+> "And now it's like, wow, the US is so far behind. — Ben on China leapfrogging Western local-commerce UX."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""We don't write memos — you have to convince your partners in the room." — Benchmark GP on deliberate friction in investment committee."
+> "We don't write memos — you have to convince your partners in the room. — Benchmark GP on deliberate friction in investment committee."
 
-> ""No growth fund means no pretending we'll save you in the Series D — we're Series A partners." — On conflict-free follow-on policy."
+> "No growth fund means no pretending we'll save you in the Series D — we're Series A partners. — On conflict-free follow-on policy."
 
-> ""Five partners, five equal slices — that's the whole firm." — Peter Fenton summarizing structure at the dinner table."
+> "Five partners, five equal slices — that's the whole firm. — Peter Fenton summarizing structure at the dinner table."
 
 ---
 

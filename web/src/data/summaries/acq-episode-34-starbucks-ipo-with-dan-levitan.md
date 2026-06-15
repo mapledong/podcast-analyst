@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""59 out of 60 said yes" — Dan on IPO allocation demand."
+> "59 out of 60 said yes — Dan on IPO allocation demand."
 
-> ""Selling drugs to your customers" — David jokes on caffeine repeat-purchase model."
+> "Selling drugs to your customers — David jokes on caffeine repeat-purchase model."
 
-> ""Growth and exceeding customer expectations" — dual drives David cites for magical consumer companies."
+> "Growth and exceeding customer expectations — dual drives David cites for magical consumer companies."
 
 ---
 

@@ -55,6 +55,11 @@ sections:
     min_words: 40
     max_words: 100
     required: true
+    guidance: >
+      One flowing analyst paragraph that synthesizes the whole episode — thesis, evidence,
+      and investor takeaway in narrative order. Not a keyword stack, bullet list, or
+      checklist of metrics. Do not open with "In [Name]'s framing" or paste chronology
+      facts unrelated to the main investment question.
 
   - id: background
     title: "Background"
@@ -134,6 +139,8 @@ content_policy:
       - AI boilerplate ("it's worth noting", "delve", "underscores", "at its core", "serves as a testament", "in [Name]'s framing")
       - buzzword stacking (playbook, leverage, unlock, ecosystem, holistic, landscape, robust, paradigm, synergy)
       - transcript meta-junk ("Transcript line:", "This maps to", duplicated facts pasted across sections to pad word count)
+      - transcript fragment junk ("He states:", "He also gives a concrete magnitude:", "close of the discussion emphasizes operating truth", "It remains anchored in scale math and outcomes")
+      - incomplete transcript snippets pasted as quotes (mid-sentence fragments, filler words like "uh", trailing broken clauses)
       - stiff essay transitions (Moreover, Furthermore, In conclusion mid-section)
       - repetitive parallel triplets and copy-paste padding
     prefer:
@@ -141,6 +148,37 @@ content_policy:
       - short and medium sentences with varied rhythm
       - active voice; one clear idea per sentence in Key Facts
       - prose that could appear in a buy-side note or well-edited business summary
+      - numbers woven naturally into sentences — never bolted on via "He states:" / "He also gives a concrete magnitude:" templates
+    golden_quotes:
+      storage: bare_text_only
+      not: >
+        Do not wrap quotes in extra quote marks in JSON. Store the quote text only;
+        rendering adds one pair. Quotes must be complete thoughts — never mid-sentence
+        transcript fragments.
+    conclusion:
+      format: synthesized_executive_summary
+      not: >
+        Keyword stacks, disconnected fact lists, or metric checklists ("track X, Y, Z").
+        Meta-commentary about what the episode does not argue ("the episode does not
+        claim X"). The conclusion must read as one human analyst wrapping the episode —
+        main thesis, supporting evidence, and what to do or watch — in connected sentences.
+    investment_implications:
+      directional_logic: >
+        Each Long/Short/Watch must stand on its own for that ticker. Do not infer a
+        direction on company B from risks to company A (e.g. "Anker hurt by Amazon fees"
+        is an Anker sizing risk, not an AMZN Short). Only assign Short when the episode
+        supplies a bearish thesis on that equity, not merely as a hedge or channel-risk
+        proxy. Fold channel or supplier risks into the primary holding's thesis when
+        the guest does not argue the other stock's direction.
+
+  publish_policy:
+    github_pages: >
+      Push only text artifacts needed for the static site: data/approved/**,
+      outputs/**, web/src/data/**, config/episodes.yaml, and related config.
+      Never git add, commit, or push podcast audio (mp3, m4a, wav, opus, aac)
+      or data/audio_cache/ — download locally for Whisper, then discard or keep
+      gitignored. Transcripts in data/transcripts/ stay local unless explicitly
+      needed; they are gitignored by default.
 
 investment_directions:
   - Long

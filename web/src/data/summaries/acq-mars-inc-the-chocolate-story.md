@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""18% return on total assets for every division and every factory" — Forrest Mars capital rule."
+> "18% return on total assets for every division and every factory — Forrest Mars capital rule."
 
-> ""Gross sales 4% every year, and that was the plan" — Hershey index card versus Mars research."
+> "Gross sales 4% every year, and that was the plan — Hershey index card versus Mars research."
 
-> ""More output per worker than any other in the industry" — Worldly Partners on Mars vs Hershey."
+> "More output per worker than any other in the industry — Worldly Partners on Mars vs Hershey."
 
 ---
 

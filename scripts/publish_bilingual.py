@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Publish bilingual (zh + en) approved summaries."""
+"""Publish bilingual (zh + en) approved summaries.
+
+GitHub Pages deploy should include only text artifacts — never audio.
+Allowed paths: data/approved/**, outputs/**, web/src/data/**, config/episodes.yaml.
+Never commit data/audio_cache/ or *.mp3 / *.m4a (see .gitignore, config/template.yaml).
+"""
 
 from __future__ import annotations
 

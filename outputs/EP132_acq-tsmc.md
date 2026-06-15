@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""The semiconductor business is like a treadmill that speeds up all the time. If you can't keep up, you fall off." — Morris Chang."
+> "The semiconductor business is like a treadmill that speeds up all the time. If you can't keep up, you fall off. — Morris Chang."
 
-> ""We had no strength in R&D… We had almost no strength in intellectual property." — Morris on 1985 Taiwan — context for foundry bet."
+> "We had no strength in R&D… We had almost no strength in intellectual property. — Morris on 1985 Taiwan — context for foundry bet."
 
-> ""Real men have fabs." — Jerry Sanders (AMD), the worldview TSMC inverted."
+> "Real men have fabs. — Jerry Sanders (AMD), the worldview TSMC inverted."
 
 ---
 

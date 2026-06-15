@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Give me a giant market always." — Don Valentine on preferring huge markets even with imperfect CEOs."
+> "Give me a giant market always. — Don Valentine on preferring huge markets even with imperfect CEOs."
 
-> ""Questions can only be 20 words or less or I'll kill you." — Don at Stanford on Socratic VC method."
+> "Questions can only be 20 words or less or I'll kill you. — Don at Stanford on Socratic VC method."
 
-> ""We network networks." — Cisco's three-word pitch Sequoia still cites as ideal clarity."
+> "We network networks. — Cisco's three-word pitch Sequoia still cites as ideal clarity."
 
 ---
 

@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""When I say solution, I hear gross margin" — David on Nvidia's shift from component sales to integrated DGX and AI-factory systems pricing."
+> "When I say solution, I hear gross margin — David on Nvidia's shift from component sales to integrated DGX and AI-factory systems pricing."
 
-> ""The data center segment has become synonymous with how AI is going — that's a false equivalence" — Jensen (via prior research) on AI riding infrastructure built for other missions."
+> "The data center segment has become synonymous with how AI is going — that's a false equivalence — Jensen (via prior research) on AI riding infrastructure built for other missions."
 
-> ""Humans will always expand, consume more energy, and attempt to pursue more ideas" — Ben on the Moritz corollary: compute demand grows with ambition, not satiation."
+> "Humans will always expand, consume more energy, and attempt to pursue more ideas — Ben on the Moritz corollary: compute demand grows with ambition, not satiation."
 
 ---
 

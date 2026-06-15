@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""The dirty secret of Acquired and Founders is that people don't read books" — Senra on why biography podcasts expand the book market ≈100×."
+> "The dirty secret of Acquired and Founders is that people don't read books — Senra on why biography podcasts expand the book market ≈100×."
 
-> ""Two and a half NFL stadiums show up for every Acquired episode" — Ben on mental model of audience scale and craft pressure."
+> "Two and a half NFL stadiums show up for every Acquired episode — Ben on mental model of audience scale and craft pressure."
 
-> ""Nothing interesting was created by ordinary people" — Senra on cult/emotion brands needing weirdness for repeat behavior in infinite choice."
+> "Nothing interesting was created by ordinary people — Senra on cult/emotion brands needing weirdness for repeat behavior in infinite choice."
 
 ---
 

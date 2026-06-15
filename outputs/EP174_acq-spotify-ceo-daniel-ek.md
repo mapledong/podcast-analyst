@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Spotify has paid $40 billion to artists over their lifetime" — Ben's opening stat framing Ek as the figure who restored music-industry economics after Napster."
+> "Spotify has paid $40 billion to artists over their lifetime — Ben's opening stat framing Ek as the figure who restored music-industry economics after Napster."
 
-> ""Over 60% of Acquired's audience is now on Spotify, which is up from basically zero years ago" — David quantifying the platform shift in podcast distribution Acquired itself experienced."
+> "Over 60% of Acquired's audience is now on Spotify, which is up from basically zero years ago — David quantifying the platform shift in podcast distribution Acquired itself experienced."
 
-> ""I don't think it's great right now" — Ek on audiobooks at Stream On, exemplifying public honesty about product maturity before iteration."
+> "I don't think it's great right now — Ek on audiobooks at Stream On, exemplifying public honesty about product maturity before iteration."
 
 ---
 

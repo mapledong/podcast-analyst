@@ -59,6 +59,12 @@ def _rating_ok(value: Any) -> bool:
 _PROSE_SLOP_PATTERNS: list[tuple[str, re.Pattern[str]]] = [
     ("transcript meta-junk", re.compile(r"Transcript line\s*:", re.I)),
     ("transcript meta-junk", re.compile(r"This maps to\b", re.I)),
+    ("transcript fragment junk", re.compile(r"He also gives a concrete magnitude:", re.I)),
+    ("transcript fragment junk", re.compile(r"He states:\s*[\"']", re.I)),
+    ("transcript fragment junk", re.compile(r"close of the discussion emphasizes operating truth", re.I)),
+    ("transcript fragment junk", re.compile(r"It remains anchored in scale math and outcomes", re.I)),
+    ("transcript fragment junk", re.compile(r"He ties execution to founder/customer reality:\s*[\"']", re.I)),
+    ("incomplete transcript quote", re.compile(r"[\"'][A-Za-z][^\"']{0,60}\s*$")),
     ("AI boilerplate", re.compile(r"it['']s worth noting|it is worth noting", re.I)),
     ("AI boilerplate", re.compile(r"\bdelve\b", re.I)),
     ("AI boilerplate", re.compile(r"\bunderscores?\b", re.I)),
@@ -347,9 +353,36 @@ def validate_summary(data: dict[str, Any], template: dict[str, Any]) -> Validati
     for _section, message in validate_keyword_tickers(data):
         report.add("keywords", message, "warning")
 
+    _validate_golden_quotes(data, report)
     _validate_prose_style(data, template, report)
 
     return report
+
+
+def _validate_golden_quotes(data: dict[str, Any], report: ValidationReport) -> None:
+    for i, quote in enumerate(data.get("golden_quotes", [])):
+        q = str(quote).strip()
+        if not q:
+            report.add("golden_quotes", f"Quote {i + 1} is empty")
+            continue
+        if re.match(r'^["\']+', q):
+            report.add(
+                "golden_quotes",
+                f"Quote {i + 1} has leading quote marks — store bare text; template adds quotes",
+                "warning",
+            )
+        if re.match(r'^["\'].+["\']', q) and not re.match(r'^[^"\']+ — ', q):
+            report.add(
+                "golden_quotes",
+                f"Quote {i + 1} wraps spoken text in quotes — remove JSON quote marks",
+                "warning",
+            )
+        if '""' in q or "''" in q:
+            report.add(
+                "golden_quotes",
+                f"Quote {i + 1} has doubled quote marks — normalize to one pair at render",
+                "warning",
+            )
 
 
 def expansion_warnings(data: dict[str, Any], template: dict[str, Any]) -> list[ValidationIssue]:

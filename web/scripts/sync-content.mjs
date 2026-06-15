@@ -20,9 +20,9 @@ const PODCAST_SLUG = {
   Founders: "founders",
   "Business Breakdowns": "business-breakdowns",
   "张小珺商业访谈录": "zhang-xiaojun",
-  "Zhang Xiaojun's Business Interviews": "zhang-xiaojun",
+  "Zhang Xiaojun Podcast": "zhang-xiaojun",
   投资实战派: "touzi-shizhanpai",
-  "Investment Practical School": "touzi-shizhanpai",
+  "Practical Investments": "touzi-shizhanpai",
 };
 
 function readYaml(rel) {

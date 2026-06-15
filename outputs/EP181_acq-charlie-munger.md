@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""I'm not interested in being any more of a guru than I already am" — Charlie on the weight of public wisdom-seeking, even as he and Warren spent decades teaching."
+> "I'm not interested in being any more of a guru than I already am — Charlie on the weight of public wisdom-seeking, even as he and Warren spent decades teaching."
 
-> ""When you are wealthy enough to self-insure, you should" — on skipping insurance overhead; Charlie carried no auto insurance, illustrating his rationalist fringe."
+> "When you are wealthy enough to self-insure, you should — on skipping insurance overhead; Charlie carried no auto insurance, illustrating his rationalist fringe."
 
-> ""EBITDA is criminal" — Charlie's enduring scorn for Malone-era adjusted earnings, comparing it to WeWork-style community adjustments."
+> "EBITDA is criminal — Charlie's enduring scorn for Malone-era adjusted earnings, comparing it to WeWork-style community adjustments."
 
 ---
 

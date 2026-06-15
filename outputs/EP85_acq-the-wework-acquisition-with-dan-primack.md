@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""This is a tragedy… the outcome is predetermined. The actors are just caught up in forces beyond themselves." — David framing WeWork with Dan Primack."
+> "This is a tragedy… the outcome is predetermined. The actors are just caught up in forces beyond themselves. — David framing WeWork with Dan Primack."
 
-> ""What separates us though is community." — Adam Neumann's Greendesk insight — partly true, partly cover for lease arbitrage."
+> "What separates us though is community. — Adam Neumann's Greendesk insight — partly true, partly cover for lease arbitrage."
 
-> ""The crazy guy or the smart guy? The crazy guy." — Masa and Adam's closing-dinner exchange per episode reporting."
+> "The crazy guy or the smart guy? The crazy guy. — Masa and Adam's closing-dinner exchange per episode reporting."
 
 ---
 

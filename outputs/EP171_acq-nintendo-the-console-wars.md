@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""They literally walk up to Nintendo and just punch them in the mouth" — David on Kalinske's Sega of America counter-positioning against ≈95% share incumbent."
+> "They literally walk up to Nintendo and just punch them in the mouth — David on Kalinske's Sega of America counter-positioning against ≈95% share incumbent."
 
-> ""We're on offense all the time. You don't win by playing the prevent defense" — David citing Nike values sheet applied to Nintendo's Super NES backward-compatibility retreat."
+> "We're on offense all the time. You don't win by playing the prevent defense — David citing Nike values sheet applied to Nintendo's Super NES backward-compatibility retreat."
 
-> ""The DS franchise generated almost $50 billion in revenue for Nintendo" — David quantifying handheld hedge while home consoles burned."
+> "The DS franchise generated almost $50 billion in revenue for Nintendo — David quantifying handheld hedge while home consoles burned."
 
 ---
 

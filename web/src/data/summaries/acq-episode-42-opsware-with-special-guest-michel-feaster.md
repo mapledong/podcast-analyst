@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""It's like providing the electric power grid and companies can plug in." — Marc Andreessen on Loudcloud (Bezos reused for AWS)."
+> "It's like providing the electric power grid and companies can plug in. — Marc Andreessen on Loudcloud (Bezos reused for AWS)."
 
-> ""In the enterprise, it's not always the best product that wins." — Steve Jobs (via hosts) on Opsware vs BladeLogic."
+> "In the enterprise, it's not always the best product that wins. — Steve Jobs (via hosts) on Opsware vs BladeLogic."
 
-> ""Timing is everything." — David summarizing Sequoia partner study on venture outcomes."
+> "Timing is everything. — David summarizing Sequoia partner study on venture outcomes."
 
 ---
 

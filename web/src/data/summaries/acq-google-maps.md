@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""We like the web." — Larry Page at end of Where 2 pitch; Lars committed to AJAX rewrite on the spot."
+> "We like the web. — Larry Page at end of Where 2 pitch; Lars committed to AJAX rewrite on the spot."
 
-> ""It had zero users per day." — Bret Taylor on pre-Maps "Search by Location" feature."
+> "It had zero users per day. — Bret Taylor on pre-Maps "Search by Location" feature."
 
-> ""None of this would be possible without Google Maps API." — David linking mashups to Uber, Zillow, DoorDash."
+> "None of this would be possible without Google Maps API. — David linking mashups to Uber, Zillow, DoorDash."
 
 ---
 

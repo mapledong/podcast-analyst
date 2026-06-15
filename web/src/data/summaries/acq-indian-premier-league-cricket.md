@@ -94,7 +94,7 @@
 
 ## Investment Ideas
 
-> **1. Private:BCCI/IPL** · 🟡 WATCH · ●●○ Medium
+> **1. BCCI/IPL** · 🟡 WATCH · ●●○ Medium
 >
 > Central media rights (≈$6B 2023–27) and ≈$1B+ franchise values reflect India's ad-market growth; no pure-play public equity — watch Disney/Star successor and franchise-adjacent consumer brands benefiting from cricket attention monopoly.
 
@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Cricket is 93% of sports watched in India" — contextualizing BCCI's under-monetization vs American sports share."
+> "Cricket is 93% of sports watched in India — contextualizing BCCI's under-monetization vs American sports share."
 
-> ""I had already sucked that money out… I needed women and children" — Lalit Modi on why IPL needed new audiences after BCCI bilaterals consumed ad budgets."
+> "I had already sucked that money out… I needed women and children — Lalit Modi on why IPL needed new audiences after BCCI bilaterals consumed ad budgets."
 
-> ""Minimum bid is $500 million for four years" — Lalit terminating Murdoch's Star deal to re-auction broadcast rights."
+> "Minimum bid is $500 million for four years — Lalit terminating Murdoch's Star deal to re-auction broadcast rights."
 
 ---
 

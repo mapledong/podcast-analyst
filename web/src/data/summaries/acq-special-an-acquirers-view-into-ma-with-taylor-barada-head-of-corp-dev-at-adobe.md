@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""When you want money, ask for advice; when you want advice, ask for money" — Taylor on why founders should meet acquirers before a sale process."
+> "When you want money, ask for advice; when you want advice, ask for money — Taylor on why founders should meet acquirers before a sale process."
 
-> ""We don't care about winning the press release" — Taylor on value creation vs. announcement optics."
+> "We don't care about winning the press release — Taylor on value creation vs. announcement optics."
 
-> ""It's not about the deal… it's a tool" — Taylor on M&A serving strategy, not deal-making for its own sake."
+> "It's not about the deal… it's a tool — Taylor on M&A serving strategy, not deal-making for its own sake."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Qwikster will go down in business school history" — on 2011 pricing and spin-out disaster."
+> "Qwikster will go down in business school history — on 2011 pricing and spin-out disaster."
 
-> ""We committed $100 million to House of Cards without a pilot" — Sarandos data-driven originals bet."
+> "We committed $100 million to House of Cards without a pilot — Sarandos data-driven originals bet."
 
-> ""They're a media company now, not a tech company" — hosts on investor reframing by 2018."
+> "They're a media company now, not a tech company — hosts on investor reframing by 2018."
 
 ---
 

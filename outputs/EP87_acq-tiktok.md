@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""If you have the word digital in your title, then you have the right job at the wrong company." — Ben on Alex Zhu's SAP futurist role before Cicada."
+> "If you have the word digital in your title, then you have the right job at the wrong company. — Ben on Alex Zhu's SAP futurist role before Cicada."
 
-> ""They spent more than the actual acquisition in advertising dollars to make sure that all of the existing users moved over from Musical.ly." — Ben on ByteDance's post-close migration spend."
+> "They spent more than the actual acquisition in advertising dollars to make sure that all of the existing users moved over from Musical.ly. — Ben on ByteDance's post-close migration spend."
 
-> ""You're only as good as your last investment." — David extending Sequoia philosophy to TikTok creators and the For You algorithm."
+> "You're only as good as your last investment. — David extending Sequoia philosophy to TikTok creators and the For You algorithm."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Rule number one in Acquired is to assume the audience is smart." — Ben Gilbert drawing parallel to Not Boring's founder audience trust."
+> "Rule number one in Acquired is to assume the audience is smart. — Ben Gilbert drawing parallel to Not Boring's founder audience trust."
 
-> ""It's AWS for a venture firm." — David Rosenthal on AngelList enabling Not Boring Capital without traditional VC headcount."
+> "It's AWS for a venture firm. — David Rosenthal on AngelList enabling Not Boring Capital without traditional VC headcount."
 
-> ""In the long run, you get the audience you asked for." — Packy (via hosts) on crypto pivot attracting aligned shareholders/readers — CEOs of FAANG companies subscribed."
+> "In the long run, you get the audience you asked for. — Packy (via hosts) on crypto pivot attracting aligned shareholders/readers — CEOs of FAANG companies subscribed."
 
 ---
 

@@ -1,4 +1,10 @@
-import { COMPANY_ALIASES, TICKER_ALIASES } from "./company_tickers.generated";
+import {
+  CHINA_LISTINGS,
+  COMPANY_ALIASES,
+  TICKER_ALIASES,
+  type ChinaListingNames,
+} from "./company_tickers.generated";
+import type { SummaryLocale } from "./catalog";
 
 function normalizeKey(value: string): string {
   return value.trim().toLowerCase();
@@ -47,4 +53,32 @@ export function canonicalCompanyKey(value: string): string {
 
 export function companyFilterMatches(extractedValue: string, filterValue: string): boolean {
   return canonicalCompanyKey(extractedValue) === canonicalCompanyKey(filterValue);
+}
+
+function chinaListingEntry(symbol: string): ChinaListingNames | undefined {
+  return CHINA_LISTINGS[symbol] ?? CHINA_LISTINGS[symbol.toUpperCase()];
+}
+
+/** Format investment tickers for display; mirrors src/company_tickers.format_investment_ticker. */
+export function formatInvestmentTicker(
+  ticker: string,
+  locale: SummaryLocale = "en",
+  options?: { compact?: boolean },
+): string {
+  const raw = String(ticker ?? "").trim();
+  if (!raw) return raw;
+
+  const privatePrefix = raw.match(/^private:(.+)$/i);
+  if (privatePrefix) return privatePrefix[1].trim();
+  if (raw.startsWith("Basket:")) return raw;
+
+  const symbol = raw.split(/\s+/)[0];
+  const entry = chinaListingEntry(symbol);
+  if (!entry) return raw;
+
+  const name = (locale === "zh" ? entry.zh : entry.en) || entry.en || symbol;
+  if (options?.compact) return name;
+
+  if (locale === "zh") return `${name}（${symbol}）`;
+  return `${name} (${symbol})`;
 }

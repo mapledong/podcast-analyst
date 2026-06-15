@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""We are a camera company" — Snap S-1 positioning away from social-network comps."
+> "We are a camera company — Snap S-1 positioning away from social-network comps."
 
-> ""Do you trust me?" — Ben summarizing the IPO as Evan facing public markets."
+> "Do you trust me? — Ben summarizing the IPO as Evan facing public markets."
 
-> ""Selling dollars for 50 cents" — hosts on gross-margin-negative operations pre-IPO."
+> "Selling dollars for 50 cents — hosts on gross-margin-negative operations pre-IPO."
 
 ---
 

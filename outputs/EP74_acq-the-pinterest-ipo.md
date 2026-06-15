@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""The planet's largest non-social social network." — Acquired episode overview tagline."
+> "The planet's largest non-social social network. — Acquired episode overview tagline."
 
-> ""A productivity tool for planning your dreams." — Pinterest S-1 positioning cited by Ben and David."
+> "A productivity tool for planning your dreams. — Pinterest S-1 positioning cited by Ben and David."
 
-> ""The Pinterest episode is an excellent breakdown — the best I've heard to date." — Kevin Hartz quote in Acquired show notes."
+> "The Pinterest episode is an excellent breakdown — the best I've heard to date. — Kevin Hartz quote in Acquired show notes."
 
 ---
 

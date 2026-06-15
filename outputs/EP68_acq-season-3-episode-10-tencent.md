@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""WeChat is the operating system of China" — hosts on 1B+ MAU super-app scope."
+> "WeChat is the operating system of China — hosts on 1B+ MAU super-app scope."
 
-> ""Red envelopes turned chat into a bank branch" — on 2014 WeChat Pay adoption hack."
+> "Red envelopes turned chat into a bank branch — on 2014 WeChat Pay adoption hack."
 
-> ""Tencent is a venture firm with a messaging app attached" — on Snap, Tesla, Epic portfolio strategy."
+> "Tencent is a venture firm with a messaging app attached — on Snap, Tesla, Epic portfolio strategy."
 
 ---
 

@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""If we rewind 10 years before the Transformer paper, all of the following people were Google employees" — David opening the talent exodus frame."
+> "If we rewind 10 years before the Transformer paper, all of the following people were Google employees — David opening the talent exodus frame."
 
-> ""The YouTube of AI" — David's framing of DeepMind relative to Google's $550M acquisition versus ≈$500B estimated value today."
+> "The YouTube of AI — David's framing of DeepMind relative to Google's $550M acquisition versus ≈$500B estimated value today."
 
-> ""2003–2013 they launched everything you know of at Google except search; then 2013–2023 they basically didn't launch any new products until Gemini" — Ben on the product drought between golden decades."
+> "2003–2013 they launched everything you know of at Google except search; then 2013–2023 they basically didn't launch any new products until Gemini — Ben on the product drought between golden decades."
 
 ---
 

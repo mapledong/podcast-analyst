@@ -56,6 +56,27 @@ def md_safe(text: str) -> str:
     return re.sub(r"~(\$|\d)", r"≈\1", str(text))
 
 
+def normalize_golden_quote(text: str) -> str:
+    """Strip storage-layer quote wrapping so templates add a single pair."""
+    q = str(text).strip()
+    # Acquired style: "verbatim quote" — attribution
+    m = re.match(r'^["\'](.+?)["\'](\s*—.+)$', q, re.DOTALL)
+    if m:
+        return f"{m.group(1).strip()}{m.group(2)}"
+    m2 = re.match(r'^["\'](.+?)["\'](\s*)$', q, re.DOTALL)
+    if m2:
+        return m2.group(1).strip()
+    while len(q) >= 2:
+        if q[0] == '"' and q[-1] == '"':
+            q = q[1:-1].strip()
+            continue
+        if q[0] == "'" and q[-1] == "'":
+            q = q[1:-1].strip()
+            continue
+        break
+    return q
+
+
 def fix_approx_tildes(markdown: str) -> str:
     """Post-process rendered markdown for the same ~ pairing issue."""
     return md_safe(markdown)
@@ -115,6 +136,7 @@ def render_summary(
     env.filters["format_date"] = format_date
     env.filters["format_date_zh"] = format_date_zh
     env.filters["md_safe"] = md_safe
+    env.filters["golden_quote"] = normalize_golden_quote
     env.filters["format_ticker"] = lambda t: format_investment_ticker(t, locale=locale)
 
     reading_time = (

@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Would you rather own a few percent of something that is the default global way commerce is produced, or 100% of BankAmericard?" — Dee Hock framing echoed when discussing network ubiquity vs ownership (via hosts' LinkedIn/Microsoft parallel)."
+> "Would you rather own a few percent of something that is the default global way commerce is produced, or 100% of BankAmericard? — Dee Hock framing echoed when discussing network ubiquity vs ownership (via hosts' LinkedIn/Microsoft parallel)."
 
-> ""The product is really bad… but nobody will ever beat it" — David on LinkedIn's UI versus unassailable professional graph."
+> "The product is really bad… but nobody will ever beat it — David on LinkedIn's UI versus unassailable professional graph."
 
-> ""What was the cost of not doing it?" — Ben reframing $26B LinkedIn vs sum of prior Acquired deals as strategic necessity, not sticker shock alone."
+> "What was the cost of not doing it? — Ben reframing $26B LinkedIn vs sum of prior Acquired deals as strategic necessity, not sticker shock alone."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Venmo me" — hosts on Venmo becoming a verb through campus social density."
+> "Venmo me — hosts on Venmo becoming a verb through campus social density."
 
-> ""Social payments" — Kortina on transactions as lightweight communication, not banking."
+> "Social payments — Kortina on transactions as lightweight communication, not banking."
 
-> ""Live from San Francisco" — Acquired's first major live-audience format with a founder guest."
+> "Live from San Francisco — Acquired's first major live-audience format with a founder guest."
 
 ---
 

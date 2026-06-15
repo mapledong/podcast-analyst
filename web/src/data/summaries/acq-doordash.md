@@ -110,11 +110,11 @@
 
 ## Golden Quotes
 
-> ""Averages in our industry are meaningless" — Tony Xu on delivery-time distributions (quoted by David)."
+> "Averages in our industry are meaningless — Tony Xu on delivery-time distributions (quoted by David)."
 
-> ""One in six people on the Peninsula had used DoorDash" — David on 2014 suburban land-grab metrics."
+> "One in six people on the Peninsula had used DoorDash — David on 2014 suburban land-grab metrics."
 
-> ""We are a logistics company more so than a food company" — DoorDash 2013 Medium post after $2.4M seed."
+> "We are a logistics company more so than a food company — DoorDash 2013 Medium post after $2.4M seed."
 
 ---
 

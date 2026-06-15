@@ -82,9 +82,9 @@
     }
   ],
   "golden_quotes": [
-    "\"It's like providing the electric power grid and companies can plug in.\" — Marc Andreessen on Loudcloud (Bezos reused for AWS).",
-    "\"In the enterprise, it's not always the best product that wins.\" — Steve Jobs (via hosts) on Opsware vs BladeLogic.",
-    "\"Timing is everything.\" — David summarizing Sequoia partner study on venture outcomes."
+    "It's like providing the electric power grid and companies can plug in. — Marc Andreessen on Loudcloud (Bezos reused for AWS).",
+    "In the enterprise, it's not always the best product that wins. — Steve Jobs (via hosts) on Opsware vs BladeLogic.",
+    "Timing is everything. — David summarizing Sequoia partner study on venture outcomes."
   ],
   "chronology": {
     "subject": "Loudcloud / Opsware / HP",

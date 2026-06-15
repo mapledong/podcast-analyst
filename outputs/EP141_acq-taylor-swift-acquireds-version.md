@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""We don't ask you for free iPhones. Please don't ask us to provide you with our music for no compensation." — Taylor Swift to Apple Music (2015), forcing paid trials before Reputation."
+> "We don't ask you for free iPhones. Please don't ask us to provide you with our music for no compensation. — Taylor Swift to Apple Music (2015), forcing paid trials before Reputation."
 
-> ""If you love me, you'll listen to my version." — Hosts' summary of Taylor's Version branding — direct fan call-to-action against Shamrock-owned masters."
+> "If you love me, you'll listen to my version. — Hosts' summary of Taylor's Version branding — direct fan call-to-action against Shamrock-owned masters."
 
-> ""An artist is never ever, ever going to make a lot of money from streaming, like ever." — Ben Gilbert (parodying Taylor's "We Are Never Ever Getting Back Together") on per-stream economics."
+> "An artist is never ever, ever going to make a lot of money from streaming, like ever. — Ben Gilbert (parodying Taylor's "We Are Never Ever Getting Back Together") on per-stream economics."
 
 ---
 

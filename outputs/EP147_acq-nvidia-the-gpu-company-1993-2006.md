@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""If you lose my money, I'll kill you." — Don Valentine to Jensen Huang after the botched Sequoia pitch, per Acquired."
+> "If you lose my money, I'll kill you. — Don Valentine to Jensen Huang after the botched Sequoia pitch, per Acquired."
 
-> ""When technology moves this fast, if you're not reinventing yourself, you're just slowly dying… at the rate of Moore's law." — Jensen Huang (Stanford lecture), cited on AMD pivot vs Nvidia."
+> "When technology moves this fast, if you're not reinventing yourself, you're just slowly dying… at the rate of Moore's law. — Jensen Huang (Stanford lecture), cited on AMD pivot vs Nvidia."
 
-> ""My will to survive exceeds almost everybody else's will to kill me." — Jensen Huang, opening CliffsNotes of Part I."
+> "My will to survive exceeds almost everybody else's will to kill me. — Jensen Huang, opening CliffsNotes of Part I."
 
 ---
 

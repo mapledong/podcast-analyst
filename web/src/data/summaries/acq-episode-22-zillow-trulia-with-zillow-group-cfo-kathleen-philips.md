@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""What piece of marketplace information do people crave and don't have?" — Rich Barton, NYT interview, via David."
+> "What piece of marketplace information do people crave and don't have? — Rich Barton, NYT interview, via David."
 
-> ""Mr. Flint indicated that his near-term schedule would not accommodate a dinner" — SEC filing tone on opening contact, read on air."
+> "Mr. Flint indicated that his near-term schedule would not accommodate a dinner — SEC filing tone on opening contact, read on air."
 
-> ""Sami Inkinen was literally in a rowboat… across the Pacific" — during the entire negotiation, per David."
+> "Sami Inkinen was literally in a rowboat… across the Pacific — during the entire negotiation, per David."
 
 ---
 

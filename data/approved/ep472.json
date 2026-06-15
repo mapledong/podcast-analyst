@@ -75,9 +75,9 @@
     }
   ],
   "golden_quotes": [
-    "\"Rao's first-principles framing is that compute is the lifeblood of Anthropic's business.\"",
-    "\"The CFO tradeoff is existential: buy too much compute and you can go out of business; buy too little and you miss demand.\"",
-    "\"For enterprise trust, he points to the fact that Anthropic sells to nine of the Fortune 10.\""
+    "Rao's first-principles framing is that compute is the lifeblood of Anthropic's business.",
+    "The CFO tradeoff is existential: buy too much compute and you can go out of business; buy too little and you miss demand.",
+    "For enterprise trust, he points to the fact that Anthropic sells to nine of the Fortune 10."
   ],
   "chronology": {
     "subject": "Anthropic compute and revenue scaling",

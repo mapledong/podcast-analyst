@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""I'm going to bring the fire and you've got to bring the fire right back." — Don Valentine to Trip Hawkins before Sequoia investment."
+> "I'm going to bring the fire and you've got to bring the fire right back. — Don Valentine to Trip Hawkins before Sequoia investment."
 
-> ""We're about the arts but we're not the artists." — Trip on EA naming and publisher role."
+> "We're about the arts but we're not the artists. — Trip on EA naming and publisher role."
 
-> ""Madden had done $4 billion in revenue as a franchise" — Ben citing cumulative Madden economics through ≈2013."
+> "Madden had done $4 billion in revenue as a franchise — Ben citing cumulative Madden economics through ≈2013."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Your work is your resume" — Belsky on project-based portfolios versus LinkedIn profiles."
+> "Your work is your resume — Belsky on project-based portfolios versus LinkedIn profiles."
 
-> ""Adobe bought the community our subscribers lived in" — on strategic ≈$150M acquisition logic."
+> "Adobe bought the community our subscribers lived in — on strategic ≈$150M acquisition logic."
 
-> ""Appreciations are the currency of creative reputation" — on Behance Stats metrics."
+> "Appreciations are the currency of creative reputation — on Behance Stats metrics."
 
 ---
 

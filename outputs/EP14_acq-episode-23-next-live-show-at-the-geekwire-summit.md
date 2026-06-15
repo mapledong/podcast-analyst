@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""When I went to Xerox PARC in 1979… I was so blinded by the GUI I didn't find out about object-oriented programming and networking" — Jobs, quoted on the show."
+> "When I went to Xerox PARC in 1979… I was so blinded by the GUI I didn't find out about object-oriented programming and networking — Jobs, quoted on the show."
 
-> ""A $2 billion company with 4,300 people couldn't compete with six people in blue jeans" — Jobs Newsweek quote after leaving Apple."
+> "A $2 billion company with 4,300 people couldn't compete with six people in blue jeans — Jobs Newsweek quote after leaving Apple."
 
-> ""Reasons we acquired NeXT: Steve Jobs" — Gil Amelio slide, cited live at GeekWire."
+> "Reasons we acquired NeXT: Steve Jobs — Gil Amelio slide, cited live at GeekWire."
 
 ---
 

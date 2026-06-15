@@ -102,9 +102,9 @@
 
 ## Golden Quotes
 
-> ""From a backwater importer of PBX switches to the world's second largest handset manufacturer and near-undisputed leader in 5G infrastructure." — Acquired episode overview."
+> "From a backwater importer of PBX switches to the world's second largest handset manufacturer and near-undisputed leader in 5G infrastructure. — Acquired episode overview."
 
-> ""What's the story behind this global telecom giant, and what does its future portend for global tech and US-China relations?" — Ben and David's Season 5 framing question."
+> "What's the story behind this global telecom giant, and what does its future portend for global tech and US-China relations? — Ben and David's Season 5 framing question."
 
 > "Ren Zhengfei Bloomberg TV interview (May 2019) cited in show notes — defiant posture under existential U.S. supply-chain threat."
 

@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""FTX is the Enron of our time — related parties, mark-to-market fantasy, and an auditor that didn't save anyone." — Ben connecting November Enron episode to December crypto collapse."
+> "FTX is the Enron of our time — related parties, mark-to-market fantasy, and an auditor that didn't save anyone. — Ben connecting November Enron episode to December crypto collapse."
 
-> ""Taylor Swift didn't just re-record albums — she re-priced an asset class she didn't own." — On masters economics as business strategy."
+> "Taylor Swift didn't just re-record albums — she re-priced an asset class she didn't own. — On masters economics as business strategy."
 
-> ""We're building a library, not a newspaper — episodes should matter in five years." — David on Acquired production philosophy during 2022 strategy discussion."
+> "We're building a library, not a newspaper — episodes should matter in five years. — David on Acquired production philosophy during 2022 strategy discussion."
 
 ---
 

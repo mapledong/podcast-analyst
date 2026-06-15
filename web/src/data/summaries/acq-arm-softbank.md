@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""ARM doesn't make chips — it taxes every chip everyone else makes." — Hosts on licensing model."
+> "ARM doesn't make chips — it taxes every chip everyone else makes. — Hosts on licensing model."
 
-> ""Apple sold ARM stock to survive the 90s; now they pay ARM royalties on every iPhone." — David on strategic circle."
+> "Apple sold ARM stock to survive the 90s; now they pay ARM royalties on every iPhone. — David on strategic circle."
 
-> ""Thirty-two billion for the blueprint of the Vision Fund." — Ben on SoftBank acquisition logic."
+> "Thirty-two billion for the blueprint of the Vision Fund. — Ben on SoftBank acquisition logic."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""My will to survive exceeds everybody else's will to kill me." — Jensen Huang (quoted on Acquired), on NVIDIA's early existential competition."
+> "My will to survive exceeds everybody else's will to kill me. — Jensen Huang (quoted on Acquired), on NVIDIA's early existential competition."
 
-> ""Focus on what makes your beer taste better." — Jeff Bezos' Y Combinator 2008 analogy for why startups should use AWS instead of building infrastructure."
+> "Focus on what makes your beer taste better. — Jeff Bezos' Y Combinator 2008 analogy for why startups should use AWS instead of building infrastructure."
 
-> ""Don't be talent — own the business." — Advice to Oprah at Harpo launch; hosts cite as media ownership lesson."
+> "Don't be talent — own the business. — Advice to Oprah at Harpo launch; hosts cite as media ownership lesson."
 
 ---
 

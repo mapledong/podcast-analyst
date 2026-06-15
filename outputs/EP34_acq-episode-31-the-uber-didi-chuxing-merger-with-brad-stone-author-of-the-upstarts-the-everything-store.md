@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""If you can't beat 'em, join 'em" — David on Uber's China motto, crediting Brad's reporting."
+> "If you can't beat 'em, join 'em — David on Uber's China motto, crediting Brad's reporting."
 
-> ""Kids in the sandbox" — hosts on US Uber–Lyft vs China's 30-company subsidy war."
+> "Kids in the sandbox — hosts on US Uber–Lyft vs China's 30-company subsidy war."
 
-> ""You get the investors you ask for" — echo from Amazon episode; Uber attracted growth-at-all-costs capital."
+> "You get the investors you ask for — echo from Amazon episode; Uber attracted growth-at-all-costs capital."
 
 ---
 

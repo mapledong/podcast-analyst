@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""We paid a billion dollars for 13 employees and no revenue — and it was the right call." — Paraphrased host framing of Zuckerberg's mobile bet, echoed by White's operator perspective."
+> "We paid a billion dollars for 13 employees and no revenue — and it was the right call. — Paraphrased host framing of Zuckerberg's mobile bet, echoed by White's operator perspective."
 
-> ""The job was to keep Instagram feeling like Instagram while plugging into Facebook's engine." — Emily White (summarized), on post-acquisition integration."
+> "The job was to keep Instagram feeling like Instagram while plugging into Facebook's engine. — Emily White (summarized), on post-acquisition integration."
 
-> ""Stories wasn't innovation — it was insurance." — Hosts on Instagram's 2016 Snapchat response leveraging existing graph scale."
+> "Stories wasn't innovation — it was insurance. — Hosts on Instagram's 2016 Snapchat response leveraging existing graph scale."
 
 ---
 

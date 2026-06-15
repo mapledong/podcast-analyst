@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""The ride-hail duopoly" — hosts frame U.S. market consolidation after years of subsidy wars."
+> "The ride-hail duopoly — hosts frame U.S. market consolidation after years of subsidy wars."
 
-> ""Dual-class super-voting" — recurring Acquired IPO theme preserving founder control at Lyft and peers."
+> "Dual-class super-voting — recurring Acquired IPO theme preserving founder control at Lyft and peers."
 
-> ""IPO as strategic fundraising, not exit" — Ben/David on why unprofitable platforms still list."
+> "IPO as strategic fundraising, not exit — Ben/David on why unprofitable platforms still list."
 
 ---
 

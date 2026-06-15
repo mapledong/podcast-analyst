@@ -110,11 +110,11 @@
 
 ## Golden Quotes
 
-> ""Turning our place into a designer's bed and breakfast" — Joe Gebbia's famous 2007 "subletter" email to Brian, origin of Airbnb."
+> "Turning our place into a designer's bed and breakfast — Joe Gebbia's famous 2007 "subletter" email to Brian, origin of Airbnb."
 
-> ""Payments are the thing CouchSurfing was missing" — David on why monetization and trust infrastructure defined the category winner."
+> "Payments are the thing CouchSurfing was missing — David on why monetization and trust infrastructure defined the category winner."
 
-> ""13 years old — the bar mitzvah of Airbnb" — Ben on IPO timing, 2020."
+> "13 years old — the bar mitzvah of Airbnb — Ben on IPO timing, 2020."
 
 ---
 

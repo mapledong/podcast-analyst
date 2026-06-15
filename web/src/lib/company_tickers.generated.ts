@@ -76,3 +76,15 @@ export const TICKER_ALIASES: Record<string, string> = {
   "MC": "LVMUY",
   "MC.PA": "LVMUY",
 };
+
+export type ChinaListingNames = { en: string; zh: string };
+
+export const CHINA_LISTINGS: Record<string, ChinaListingNames> = {
+  "0981.HK": { en: "SMIC", zh: "中芯国际" },
+  "300866.SZ": { en: "Anker Innovations", zh: "安克创新" },
+  "9888.HK": { en: "Baidu", zh: "百度" },
+  "9992.HK": { en: "Pop Mart", zh: "泡泡玛特" },
+  "BABA": { en: "Alibaba", zh: "阿里巴巴" },
+  "TSMC": { en: "", zh: "" },
+  "XPEV": { en: "XPeng", zh: "小鹏汽车" },
+};

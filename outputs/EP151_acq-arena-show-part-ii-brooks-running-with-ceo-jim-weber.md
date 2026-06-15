@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""You send cash to Omaha, not the other way around." — Jim Weber on Brooks' capital structure after Whitney's $7M investment."
+> "You send cash to Omaha, not the other way around. — Jim Weber on Brooks' capital structure after Whitney's $7M investment."
 
-> ""Performance, but it is not serious." — Weber defining Brooks brand versus victory-oriented competitors."
+> "Performance, but it is not serious. — Weber defining Brooks brand versus victory-oriented competitors."
 
-> ""We walked away from $160 million of revenue intentionally." — On exiting Big 5 channel to focus on runners."
+> "We walked away from $160 million of revenue intentionally. — On exiting Big 5 channel to focus on runners."
 
 ---
 

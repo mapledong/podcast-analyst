@@ -57,7 +57,7 @@
 >
 > **Q** Why this archive format?
 >
-> **A** Senra says best way to understand a person is listen directly — Jobs' speeches and emails show drafting and revision. Laurene's intro argues mind was never captive to reality; archive captures arguments born from epic possibility, not polished PR. Laurene introduction: progress visible only in hindsight; gift is seeing clearly what is not there yet. Archive free on Apple Books — Senra downloaded to Kindle for reread alongside Lost Interview. Laurene: you appear blaze in sky then disappear — urgency to make wonderful things while time remains.
+> **A** best way to understand a person is listen directly — Jobs' speeches and emails show drafting and revision. Laurene's intro argues mind was never captive to reality; archive captures arguments born from epic possibility, not polished PR. Laurene introduction: progress visible only in hindsight; gift is seeing clearly what is not there yet. Archive free on Apple Books — Senra downloaded to Kindle for reread alongside Lost Interview. Laurene: you appear blaze in sky then disappear — urgency to make wonderful things while time remains.
 
 > **2.** Land's line runs through Apple.
 >

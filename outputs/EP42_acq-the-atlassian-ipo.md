@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Granddaddy of all bootstrapped tech success stories." — episode tagline on Atlassian."
+> "Granddaddy of all bootstrapped tech success stories. — episode tagline on Atlassian."
 
-> ""No sales team — sold from a website." — core PLG astonishment for 2017 listeners."
+> "No sales team — sold from a website. — core PLG astonishment for 2017 listeners."
 
-> ""If I have to pick up the phone and call your sales representative, I'm not buying your service." — engineer sentiment cited three times in one week."
+> "If I have to pick up the phone and call your sales representative, I'm not buying your service. — engineer sentiment cited three times in one week."
 
 ---
 

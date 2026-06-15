@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Selling software is the best business model of all time" — Ben/David frame; Microsoft invented the standalone software company."
+> "Selling software is the best business model of all time — Ben/David frame; Microsoft invented the standalone software company."
 
-> ""IBM was playing chess… Bill Gates was playing 3D chess" — on Project Chess irony and non-exclusive DOS rights."
+> "IBM was playing chess… Bill Gates was playing 3D chess — on Project Chess irony and non-exclusive DOS rights."
 
-> ""You want your ecosystem generating more revenue than you capture" — Bill Gates line on platform health (cited in episode playbook)."
+> "You want your ecosystem generating more revenue than you capture — Bill Gates line on platform health (cited in episode playbook)."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""I'm thinking in 300-year terms" — Masayoshi Son's vision framing for Vision Fund scale."
+> "I'm thinking in 300-year terms — Masayoshi Son's vision framing for Vision Fund scale."
 
-> ""$20 million into Alibaba became over $100 billion" — hosts on the return that defined Son's career."
+> "$20 million into Alibaba became over $100 billion — hosts on the return that defined Son's career."
 
-> ""The largest technology investment fund in history — $100 billion" — on Vision Fund size versus entire VC industry."
+> "The largest technology investment fund in history — $100 billion — on Vision Fund size versus entire VC industry."
 
 ---
 

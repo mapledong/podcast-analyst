@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""The most embarrassing thing in Acquired history was our early episode on YouTube" — David before regrading the acquisition."
+> "The most embarrassing thing in Acquired history was our early episode on YouTube — David before regrading the acquisition."
 
-> ""YouTube consumed as much bandwidth as the entire internet did in the year 2000" — 2007 report cited during acquisition analysis."
+> "YouTube consumed as much bandwidth as the entire internet did in the year 2000 — 2007 report cited during acquisition analysis."
 
-> ""Google has all the users and Microsoft has all the money" — on Workspace vs. Office revenue disparity despite user scale."
+> "Google has all the users and Microsoft has all the money — on Workspace vs. Office revenue disparity despite user scale."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""They have €25 billion in the bank" — David on IKEA cash with zero outside capital."
+> "They have €25 billion in the bank — David on IKEA cash with zero outside capital."
 
-> ""Six million krona to forty million krona in six years" — Ben on flat-pack revenue impact."
+> "Six million krona to forty million krona in six years — Ben on flat-pack revenue impact."
 
-> ""E-commerce is 26% of revenue" — Ben on 2024 channel shift."
+> "E-commerce is 26% of revenue — Ben on 2024 channel shift."
 
 ---
 

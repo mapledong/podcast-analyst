@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""If the board kicked us out and brought in a new CEO, what would he do? Get us out of memory." — Gordon Moore to Andy Grove, early 1985, Only the Paranoid Survive origin story."
+> "If the board kicked us out and brought in a new CEO, what would he do? Get us out of memory. — Gordon Moore to Andy Grove, early 1985, Only the Paranoid Survive origin story."
 
-> ""Win with the 10% rule: find AMD and Intel sockets, quote 10% below their price. If they requote, go 10% again." — Japanese competitor battle card quoted by Grove."
+> "Win with the 10% rule: find AMD and Intel sockets, quote 10% below their price. If they requote, go 10% again. — Japanese competitor battle card quoted by Grove."
 
-> ""Don't bemoan the way things were. Pour your energy into adapting to your new world." — Andy Grove, Swimming Across / Only the Paranoid Survive theme echoed for COVID listeners."
+> "Don't bemoan the way things were. Pour your energy into adapting to your new world. — Andy Grove, Swimming Across / Only the Paranoid Survive theme echoed for COVID listeners."
 
 ---
 

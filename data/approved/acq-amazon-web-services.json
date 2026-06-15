@@ -82,9 +82,9 @@
     }
   ],
   "golden_quotes": [
-    "\"The excess capacity story is a myth. It was never a matter of selling excess capacity.\" — Werner Vogels (2011), closing the most repeated misunderstanding of AWS origins.",
-    "\"I believe that AWS's market size is unconstrained.\" — Jeff Bezos, 2014 shareholder letter, when AWS was a ~$6B run-rate business; it has since grown well over 10×.",
-    "\"All teams will henceforth expose their data and functionality through service interfaces.\" — Jeff Bezos's internal API mandate (circa 2002), the organizational genesis of external AWS."
+    "The excess capacity story is a myth. It was never a matter of selling excess capacity. — Werner Vogels (2011), closing the most repeated misunderstanding of AWS origins.",
+    "I believe that AWS's market size is unconstrained. — Jeff Bezos, 2014 shareholder letter, when AWS was a ~$6B run-rate business; it has since grown well over 10×.",
+    "All teams will henceforth expose their data and functionality through service interfaces. — Jeff Bezos's internal API mandate (circa 2002), the organizational genesis of external AWS."
   ],
   "chronology": {
     "subject": "Amazon Web Services",

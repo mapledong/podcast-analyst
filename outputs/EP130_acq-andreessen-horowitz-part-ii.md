@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Literally, we introduced a new concept to the field of VC, which was called marketing." — Ben Horowitz."
+> "Literally, we introduced a new concept to the field of VC, which was called marketing. — Ben Horowitz."
 
-> ""If I were one of those guys whose company stumbles… will they be there to help me?" — Paul Holland, Foundation Capital (2009 NYT), on a16z portfolio size."
+> "If I were one of those guys whose company stumbles… will they be there to help me? — Paul Holland, Foundation Capital (2009 NYT), on a16z portfolio size."
 
-> ""We have to start a venture capital firm." — Marc Andreessen IM reply to Ben, 2009."
+> "We have to start a venture capital firm. — Marc Andreessen IM reply to Ben, 2009."
 
 ---
 

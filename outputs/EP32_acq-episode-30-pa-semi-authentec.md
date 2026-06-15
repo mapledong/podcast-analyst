@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Apple buys smaller technology companies from time to time" — standard Steve Dowling acquisition statement on AuthenTec."
+> "Apple buys smaller technology companies from time to time — standard Steve Dowling acquisition statement on AuthenTec."
 
-> ""If you're really serious about software, you need to make your own hardware" — Alan Kay, quoted via Steve Jobs."
+> "If you're really serious about software, you need to make your own hardware — Alan Kay, quoted via Steve Jobs."
 
-> ""What got you here won't get you there" — Ben on whether silicon leadership transfers to ML-services era."
+> "What got you here won't get you there — Ben on whether silicon leadership transfers to ML-services era."
 
 ---
 

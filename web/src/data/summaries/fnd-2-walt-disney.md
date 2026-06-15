@@ -15,7 +15,7 @@
 **Topics** DIS · Creative Control · Theme Parks
 > ### Conclusion
 >
-> Disney's arc is control recovered from betrayal: losing Oswald taught him to own characters and studios, Snow White proved skeptics wrong at $6.7 million in receipts, and Disneyland became the living project he refined until lung cancer ended a chain-smoking life. Senra frames him as a master of order and quality — an artisan who worked through family tragedy and labor strikes to build an empire that outlasted him.
+> Disney's arc is control recovered from betrayal: losing Oswald taught him to own characters and studios, Snow White proved skeptics wrong at $6.7 million in receipts, and Disneyland became the living project he refined until lung cancer ended a chain-smoking life. him as a master of order and quality — an artisan who worked through family tragedy and labor strikes to build an empire that outlasted him.
 
 ---
 
@@ -67,7 +67,7 @@
 >
 > **Q** What does Gabler say defined Walt as a person?
 >
-> **A** Senra cites the line that Walt was so self-absorbed he emerged only to share ideas and have them executed. Lillian hurled coffee during Snow White's production; daughters Diane and Sharon became central after polo ended following a 1935 accident. Some of his happiest days were weekend studio visits with young girls who barely knew he was Walt Disney. Amusement-park operators predicted failure before Disneyland too — Walt loved the fight. Opening week 161,000 visitors vindicated decades of obsession with a living park he never finished improving.
+> **A** the line that Walt was so self-absorbed he emerged only to share ideas and have them executed. Lillian hurled coffee during Snow White's production; daughters Diane and Sharon became central after polo ended following a 1935 accident. Some of his happiest days were weekend studio visits with young girls who barely knew he was Walt Disney. Amusement-park operators predicted failure before Disneyland too — Walt loved the fight. Opening week 161,000 visitors vindicated decades of obsession with a living park he never finished improving.
 
 ---
 

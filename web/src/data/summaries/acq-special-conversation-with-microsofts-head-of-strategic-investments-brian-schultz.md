@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Wall Street isn't evaluating Microsoft share price on how good you are as an investor." — Brian Schultz on strategic vs financial VC."
+> "Wall Street isn't evaluating Microsoft share price on how good you are as an investor. — Brian Schultz on strategic vs financial VC."
 
-> ""The Series B round was your IPO." — Brian on late-stage private markets (2016)."
+> "The Series B round was your IPO. — Brian on late-stage private markets (2016)."
 
-> ""Create an exit for the company versus just put more money in — very different." — strategic vs passive investment."
+> "Create an exit for the company versus just put more money in — very different. — strategic vs passive investment."
 
 ---
 

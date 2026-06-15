@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""It can't be turtles all the way down. There has to be a pool at the bottom." — David cold open teaser."
+> "It can't be turtles all the way down. There has to be a pool at the bottom. — David cold open teaser."
 
-> ""Coffee is a legal, addictive, unregulated psychoactive drug with cheap ingredients and premium pricing." — Daniel James on Quora, cited in episode."
+> "Coffee is a legal, addictive, unregulated psychoactive drug with cheap ingredients and premium pricing. — Daniel James on Quora, cited in episode."
 
-> ""We never wanted to go public." — Freeman/Meehan ideology vs Fidelity liquidity tension."
+> "We never wanted to go public. — Freeman/Meehan ideology vs Fidelity liquidity tension."
 
 ---
 

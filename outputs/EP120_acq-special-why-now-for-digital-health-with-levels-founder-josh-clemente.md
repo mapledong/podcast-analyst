@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""It's as if Fitbit hadn't been invented yet and you're just like, hey, are you walking right now once a day?" — Josh Clemente on pre-CGM metabolic blindness."
+> "It's as if Fitbit hadn't been invented yet and you're just like, hey, are you walking right now once a day? — Josh Clemente on pre-CGM metabolic blindness."
 
-> ""The food pyramid doesn't work." — David, after seeing personal CGM data contradict dietary assumptions."
+> "The food pyramid doesn't work. — David, after seeing personal CGM data contradict dietary assumptions."
 
-> ""Levels current iteration is the Model S, very expensive… use that to make the Model 3." — David's Tesla analogy for DTC health pricing path."
+> "Levels current iteration is the Model S, very expensive… use that to make the Model 3. — David's Tesla analogy for DTC health pricing path."
 
 ---
 

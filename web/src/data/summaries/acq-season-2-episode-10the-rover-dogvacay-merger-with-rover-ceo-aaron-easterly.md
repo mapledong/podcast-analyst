@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""We were both spending money to acquire the same sitters" — Easterly on duplicate CAC driving merger logic."
+> "We were both spending money to acquire the same sitters — Easterly on duplicate CAC driving merger logic."
 
-> ""This is a winner-take-most market" — on why #1 and #2 could not coexist profitably at scale."
+> "This is a winner-take-most market — on why #1 and #2 could not coexist profitably at scale."
 
-> ""Pets are family — trust is the product" — on insurance and vetting justifying 20% take rate."
+> "Pets are family — trust is the product — on insurance and vetting justifying 20% take rate."
 
 ---
 

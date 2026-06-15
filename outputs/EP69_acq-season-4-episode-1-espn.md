@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""They built the worldwide leader in sports on a literal dump in Bristol, Connecticut." — David on Rasmussen origin."
+> "They built the worldwide leader in sports on a literal dump in Bristol, Connecticut. — David on Rasmussen origin."
 
-> ""Nine dollars a month from ninety million homes — that's the moat." — Ben on affiliate fee economics."
+> "Nine dollars a month from ninety million homes — that's the moat. — Ben on affiliate fee economics."
 
-> ""Live sports is the last thing America watches together — and the leagues know it." — Hosts on rights inflation."
+> "Live sports is the last thing America watches together — and the leagues know it. — Hosts on rights inflation."
 
 ---
 

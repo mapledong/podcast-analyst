@@ -26,7 +26,10 @@ PROSE STYLE (non-negotiable):
 - Never use: "it's worth noting", "delve", "underscores", "at its core", "In [Name]'s framing", "Moreover/Furthermore".
 - Never stack empty buzzwords (playbook, unlock, ecosystem, holistic, landscape, robust, paradigm, synergy).
 - Never paste transcript meta-junk ("Transcript line:", "This maps to …") or duplicate the same sentence across Background, Key Facts, and Mental Model to pad length.
+- Never use boilerplate quote scaffolding: "He states:", "He also gives a concrete magnitude:", "The close of the discussion emphasizes operating truth over narrative", "It remains anchored in scale math and outcomes", "He ties execution to founder/customer reality:".
+- Never paste incomplete transcript fragments as quotes (mid-sentence clips, filler "uh", broken clauses). Weave numbers and evidence into complete analyst sentences instead.
 - Key Facts: one clear idea per sentence; reads like a note, not a template.
+- Key Insights answers: complete paragraphs in analyst voice — no repetitive templates; integrate data naturally.
 
 LENGTH BY EPISODE DURATION (counted sections only, ~200 wpm):
 - Under 90 minutes → target ~900–1100 words (~5 min read)
@@ -37,7 +40,7 @@ Expand key facts and mental model first — they carry the core takeaway. Keep b
 
 Structure:
 - episode_rating.overall: integer 1–5
-- conclusion: 40–100 words — substantive takeaway with key numbers; not a one-liner
+- conclusion: 40–100 words — one synthesized executive summary of the whole episode (thesis → evidence → investor takeaway in connected prose). NOT a keyword stack, metric checklist, disconnected fact list, or meta-commentary about what the episode does not argue. Read like a human analyst closing a research note.
 - background: max 220 words — short scene-setting only; do not duplicate facts or mental model
 - important_facts: 3 items with numbers; aim for depth (combined ~200–500 words)
 - mental_model: name + components + application (~150–420 words total; specific and applicable)
@@ -46,7 +49,10 @@ Structure:
   - Prefer directional Long or Short on specific tradable tickers (e.g. NVDA, SPOT)
   - Use Watch sparingly — only when no clear directional edge; max one Watch per episode
   - Private/non-tradable names (Private:…) may be Long/Short on the business, not Watch
+  - Each row must justify its direction for THAT ticker alone. Do not Short ticker B because company A faces channel or supplier risk from B unless the guest argues a bear case on B's equity. Fold such risks into A's thesis instead of inventing a proxy Short.
 - golden_quotes: 3 quotes — must be verbatim or near-verbatim from transcript
+  - Store bare text only (no surrounding quote marks in JSON); rendering adds one pair
+  - Each quote must be a complete thought, not a mid-sentence transcript fragment
 - keywords: 3–4 topics — industries, companies, or themes; embedded in summary for search only
   - Public companies: use standard US ticker symbols (NVDA, GOOGL, LVMUY, BRK.B) — not company names
   - Private companies: Private:Name; people and themes use plain names (not tickers)

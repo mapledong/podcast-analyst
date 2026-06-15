@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""When all was said and done, he would've only been making 10%, 15% of revenue" — David on 1990s retail vs. shareware economics Tim Sweeney rejected."
+> "When all was said and done, he would've only been making 10%, 15% of revenue — David on 1990s retail vs. shareware economics Tim Sweeney rejected."
 
-> ""Epic is saying you get the engine, live ops, distribution, and payments for a maximum fee of 12%" — on undercutting Steam and Apple by 18 points."
+> "Epic is saying you get the engine, live ops, distribution, and payments for a maximum fee of 12% — on undercutting Steam and Apple by 18 points."
 
-> ""When tech giants clash, customers lose" — Ben on Apple delisting Fortnite and breaking cross-play for users."
+> "When tech giants clash, customers lose — Ben on Apple delisting Fortnite and breaking cross-play for users."
 
 ---
 

@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""The goal is not productivity. The goal is long-term steady returns and resilience." — David Rosenthal channeling Warren/Charlie via NZS complexity paper."
+> "The goal is not productivity. The goal is long-term steady returns and resilience. — David Rosenthal channeling Warren/Charlie via NZS complexity paper."
 
-> ""It's better to be approximately right than exactly wrong." — Ben Gilbert (Buffett) applied to optionality bets with low conviction."
+> "It's better to be approximately right than exactly wrong. — Ben Gilbert (Buffett) applied to optionality bets with low conviction."
 
-> ""If you grow 20% a year for 50 years like TSMC, you will destroy every Groupon out there." — David Rosenthal on negative feedback loops versus hypergrowth."
+> "If you grow 20% a year for 50 years like TSMC, you will destroy every Groupon out there. — David Rosenthal on negative feedback loops versus hypergrowth."
 
 ---
 

@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""The first two questions are more about understanding the lay of the land. Then the third question… that's the power question." — David Rosenthal summarizing Chenyi's framework."
+> "The first two questions are more about understanding the lay of the land. Then the third question… that's the power question. — David Rosenthal summarizing Chenyi's framework."
 
-> ""Metasearch as a category enables your customers to arbitrage away your power with less friction." — Ben Gilbert on Uber API shutting his ride metasearch startup."
+> "Metasearch as a category enables your customers to arbitrage away your power with less friction. — Ben Gilbert on Uber API shutting his ride metasearch startup."
 
-> ""I have to perform a Seven Powers analysis on each of the transactors on my platform." — Ben Gilbert closing summary question to Hamilton/Chenyi."
+> "I have to perform a Seven Powers analysis on each of the transactors on my platform. — Ben Gilbert closing summary question to Hamilton/Chenyi."
 
 ---
 

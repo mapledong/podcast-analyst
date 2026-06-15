@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""One out of every four of these that you see on the road is completely empty." — Ben opening the trucking fragmentation problem Convoy targets."
+> "One out of every four of these that you see on the road is completely empty. — Ben opening the trucking fragmentation problem Convoy targets."
 
-> ""In these B2B marketplaces, it's about money… I have money. I have a job. I will get you the money as soon as possible." — David on why Convoy inverts consumer marketplace playbooks."
+> "In these B2B marketplaces, it's about money… I have money. I have a job. I will get you the money as soon as possible. — David on why Convoy inverts consumer marketplace playbooks."
 
-> ""A startup is very frequently just getting, scrapping, and biting for something that doesn't yet deserve." — Ben quoting Mike Galgon on perception versus earned trust."
+> "A startup is very frequently just getting, scrapping, and biting for something that doesn't yet deserve. — Ben quoting Mike Galgon on perception versus earned trust."
 
 ---
 

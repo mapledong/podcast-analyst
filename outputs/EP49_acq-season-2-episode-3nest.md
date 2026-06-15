@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Tony Fadell made thermostats sexy — that's not a sentence anyone said before 2011." — Hosts on design-led category creation."
+> "Tony Fadell made thermostats sexy — that's not a sentence anyone said before 2011. — Hosts on design-led category creation."
 
-> ""Three point two billion for the iPod guy's retirement project." — David on deal headline."
+> "Three point two billion for the iPod guy's retirement project. — David on deal headline."
 
-> ""Eleven million bucks per employee — and they were still burning cash." — Hosts on $3.2B for 280-person hardware team."
+> "Eleven million bucks per employee — and they were still burning cash. — Hosts on $3.2B for 280-person hardware team."
 
 ---
 

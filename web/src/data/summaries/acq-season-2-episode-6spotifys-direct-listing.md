@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Spotify saved $300 million by not doing a traditional IPO" — hosts quantifying banker fee avoidance."
+> "Spotify saved $300 million by not doing a traditional IPO — hosts quantifying banker fee avoidance."
 
-> ""This isn't an IPO — they're not raising money" — David clarifying direct listing vs primary offering."
+> "This isn't an IPO — they're not raising money — David clarifying direct listing vs primary offering."
 
-> ""The reference price was $132 — it opened at $165.90" — on day-one price discovery without underwriter discount."
+> "The reference price was $132 — it opened at $165.90 — on day-one price discovery without underwriter discount."
 
 ---
 

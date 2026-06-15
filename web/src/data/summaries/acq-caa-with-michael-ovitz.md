@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Everybody likes dinosaurs." — Michael Ovitz (via hosts) on why Jurassic Park packaging was inevitable once Crichton's manuscript existed."
+> "Everybody likes dinosaurs. — Michael Ovitz (via hosts) on why Jurassic Park packaging was inevitable once Crichton's manuscript existed."
 
-> ""These polar bears cost a lot less than Tom Cruise." — Ovitz (via hosts) on CAA's Coca-Cola campaign economics versus movie-star endorsements."
+> "These polar bears cost a lot less than Tom Cruise. — Ovitz (via hosts) on CAA's Coca-Cola campaign economics versus movie-star endorsements."
 
-> ""You took an aspect that people thought was a zero sum game and you made it a positive sum game." — David Rosenthal to Ovitz on packaging's industry-wide surplus expansion."
+> "You took an aspect that people thought was a zero sum game and you made it a positive sum game. — David Rosenthal to Ovitz on packaging's industry-wide surplus expansion."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""You get the investors you ask for" — Tom on Jeff shaping Amazon's patient shareholder base via the annual letter."
+> "You get the investors you ask for — Tom on Jeff shaping Amazon's patient shareholder base via the annual letter."
 
-> ""Day one for the internet and for Amazon" — Jeff's 1997 shareholder letter framing decades of investment."
+> "Day one for the internet and for Amazon — Jeff's 1997 shareholder letter framing decades of investment."
 
-> ""It feels unnatural to think about an alternative history" — Ben on grading an IPO with 800×+ outcome."
+> "It feels unnatural to think about an alternative history — Ben on grading an IPO with 800×+ outcome."
 
 ---
 

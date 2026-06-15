@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Do not relocate your factories" — Luxury Strategy anti-law #18 that David applies to Acquired's deliberate one-episode-per-month cadence."
+> "Do not relocate your factories — Luxury Strategy anti-law #18 that David applies to Acquired's deliberate one-episode-per-month cadence."
 
-> ""Have fun, laugh, you're good at this" — Ben's one-liner atop every episode's show notes, cited as quality mantra after Nike over-prep lesson."
+> "Have fun, laugh, you're good at this — Ben's one-liner atop every episode's show notes, cited as quality mantra after Nike over-prep lesson."
 
-> ""When you make a unique product, that is the thing people are here for" — on killing generic interview specials after years of download data screamed the same message."
+> "When you make a unique product, that is the thing people are here for — on killing generic interview specials after years of download data screamed the same message."
 
 ---
 

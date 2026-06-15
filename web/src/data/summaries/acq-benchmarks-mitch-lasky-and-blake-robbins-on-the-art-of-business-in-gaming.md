@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""There are very clear business models that guide where the water of creativity can flow" — Mitch introducing Gamecraft's core thesis inverting genius-first gaming narrative."
+> "There are very clear business models that guide where the water of creativity can flow — Mitch introducing Gamecraft's core thesis inverting genius-first gaming narrative."
 
-> ""In 2023, distribution is king" — David summarizing Mitch/Blake on Steam, consoles, and Tencent despite democratized game creation tools."
+> "In 2023, distribution is king — David summarizing Mitch/Blake on Steam, consoles, and Tencent despite democratized game creation tools."
 
-> ""Discord was a failed game company, right?" — Ben on how platform publishing rights require more than audience — origin stories matter."
+> "Discord was a failed game company, right? — Ben on how platform publishing rights require more than audience — origin stories matter."
 
 ---
 

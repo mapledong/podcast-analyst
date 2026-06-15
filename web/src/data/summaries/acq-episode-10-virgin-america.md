@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""People who love Virgin love Virgin" — Ben on brand loyalty driving M&A premium."
+> "People who love Virgin love Virgin — Ben on brand loyalty driving M&A premium."
 
-> ""Can an airline make a good purchase?" — Ben's closing question on whether any airline M&A clears strategic bar."
+> "Can an airline make a good purchase? — Ben's closing question on whether any airline M&A clears strategic bar."
 
-> ""17-year payback" — Ben on synergy timeline versus deal price."
+> "17-year payback — Ben on synergy timeline versus deal price."
 
 ---
 

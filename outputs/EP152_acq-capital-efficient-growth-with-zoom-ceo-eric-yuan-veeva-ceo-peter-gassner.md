@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""We did not dip into any of that $130 million to build the business." — Eric Yuan on Zoom's venture funding versus operating spend."
+> "We did not dip into any of that $130 million to build the business. — Eric Yuan on Zoom's venture funding versus operating spend."
 
-> ""Ask a customer if they want your product; they say no — ask what they use now and build something better." — Peter Gassner's customer development formula."
+> "Ask a customer if they want your product; they say no — ask what they use now and build something better. — Peter Gassner's customer development formula."
 
-> ""Only the paranoid survive, but don't let it consume you." — Closing sentiment from both CEOs on sustainable leadership."
+> "Only the paranoid survive, but don't let it consume you. — Closing sentiment from both CEOs on sustainable leadership."
 
 ---
 

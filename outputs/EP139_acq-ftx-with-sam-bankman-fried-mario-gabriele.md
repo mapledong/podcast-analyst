@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Imagine running Airbnb or Uber, but you don't have any humans, any cars, or any Airbnbs — pure matching of supply and demand of a purely digital asset." — Ben Gilbert summarizing exchange unit economics to SBF."
+> "Imagine running Airbnb or Uber, but you don't have any humans, any cars, or any Airbnbs — pure matching of supply and demand of a purely digital asset. — Ben Gilbert summarizing exchange unit economics to SBF."
 
-> ""I would give ourselves a C if we're the second biggest crypto exchange in the world in five years." — Sam Bankman-Fried on Acquired grading — revealing bar for "failure.""
+> "I would give ourselves a C if we're the second biggest crypto exchange in the world in five years." — Sam Bankman-Fried on Acquired grading — revealing bar for"
 
-> ""You're building a movement… you want as many people to understand as much about what you're doing as possible." — David Rosenthal on FTX transparency strategy versus arb-secrecy."
+> "You're building a movement… you want as many people to understand as much about what you're doing as possible. — David Rosenthal on FTX transparency strategy versus arb-secrecy."
 
 ---
 

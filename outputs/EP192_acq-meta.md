@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""70% of people who ever signed up were active that day" — Ben on early Facebook engagement."
+> "70% of people who ever signed up were active that day — Ben on early Facebook engagement."
 
-> ""Roman Empire at its peak was only 40% of humans" — Ben on Meta scale versus empires."
+> "Roman Empire at its peak was only 40% of humans — Ben on Meta scale versus empires."
 
-> ""Reality Labs has lost on the order of $60 billion since 2019" — David on AR/VR spend."
+> "Reality Labs has lost on the order of $60 billion since 2019 — David on AR/VR spend."
 
 ---
 

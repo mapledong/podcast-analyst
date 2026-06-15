@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Standard Oil is dead, long live Standard Oil." — David Rosenthal on 34 spin-outs still coordinating over 10:30 AM coffee at 26 Broadway."
+> "Standard Oil is dead, long live Standard Oil. — David Rosenthal on 34 spin-outs still coordinating over 10:30 AM coffee at 26 Broadway."
 
-> ""Just when I thought I was out, they pull me back in." — David (Godfather III) on Rockefeller kept titular president while trying to resign weekly."
+> "Just when I thought I was out, they pull me back in. — David (Godfather III) on Rockefeller kept titular president while trying to resign weekly."
 
-> ""Anytime somebody declares the end of something… that is the bottom of the market." — New Acquired postulate after Ben Thompson "End of the Beginning" (Jan 2020) preceded SaaS/Web3 boom."
+> "Anytime somebody declares the end of something… that is the bottom of the market. — New Acquired postulate after Ben Thompson "End of the Beginning" (Jan 2020) preceded SaaS/Web3 boom."
 
 ---
 

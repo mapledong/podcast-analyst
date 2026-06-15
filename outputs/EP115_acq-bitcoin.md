@@ -110,11 +110,11 @@
 
 ## Golden Quotes
 
-> ""Commerce on the internet has come to rely almost exclusively on financial institutions serving as trusted third parties" — Satoshi whitepaper opener quoted by hosts."
+> "Commerce on the internet has come to rely almost exclusively on financial institutions serving as trusted third parties — Satoshi whitepaper opener quoted by hosts."
 
-> ""From less than 1¢ to over $30,000 — a 3,000,000X investment return" — Ben on Bitcoin's first decade."
+> "From less than 1¢ to over $30,000 — a 3,000,000X investment return — Ben on Bitcoin's first decade."
 
-> ""Risk equals permanent capital loss" — thematic parallel to Howard Marks via lost Mt. Gox keys and irreversible on-chain transfers."
+> "Risk equals permanent capital loss — thematic parallel to Howard Marks via lost Mt. Gox keys and irreversible on-chain transfers."
 
 ---
 

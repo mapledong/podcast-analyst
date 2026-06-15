@@ -98,7 +98,7 @@
 >
 > Public pure-play on ultra-luxury scarcity: ≈14K annual units, ≈50% gross and ≈39% EBITDA margins, F1-linked brand equity, and pricing power mass OEMs cannot match. Trades at luxury multiples (≈35× P/E) with management guiding ≈5% revenue growth — a deliberate pyramid strategy rather than volume expansion.
 
-> **2. Private:Exor** · 🟡 WATCH · ●●○ Medium
+> **2. Exor** · 🟡 WATCH · ●●○ Medium
 >
 > Agnelli family holding company retains ≈49% Ferrari voting power alongside Piero Ferrari's ≈10% stake. Tracks RACE upside without pure-play exposure — the IPO thesis was Ferrari undervalued inside Fiat until spun out and repriced as luxury.
 

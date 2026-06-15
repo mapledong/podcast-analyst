@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Today we're going to talk about one that didn't happen at all" — Ben introducing Acquired's counterfactual acquisition format."
+> "Today we're going to talk about one that didn't happen at all — Ben introducing Acquired's counterfactual acquisition format."
 
-> ""127 users" — David on Snapchat's user count after first summer, inspirational persistence datapoint."
+> "127 users — David on Snapchat's user count after first summer, inspirational persistence datapoint."
 
-> ""A million dollar idea" — Reggie Brown's alleged phrase for disappearing photos (disputed in court), origin myth of ephemeral messaging."
+> "A million dollar idea — Reggie Brown's alleged phrase for disappearing photos (disputed in court), origin myth of ephemeral messaging."
 
 ---
 

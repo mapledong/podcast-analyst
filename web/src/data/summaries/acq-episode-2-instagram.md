@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Some decades nothing happens, and some weeks decades happen." — Roelof Botha / hosts, on COVID time compression after March 5 memo."
+> "Some decades nothing happens, and some weeks decades happen. — Roelof Botha / hosts, on COVID time compression after March 5 memo."
 
-> ""Who has their shorts on when the tide goes out." — Warren Buffett / Howard Marks (hosts debate attribution), on revenue quality tests in crisis."
+> "Who has their shorts on when the tide goes out. — Warren Buffett / Howard Marks (hosts debate attribution), on revenue quality tests in crisis."
 
-> ""Now is not the time to liquidate your shares." — Roelof Botha, closing message on great companies surviving black swan moments."
+> "Now is not the time to liquidate your shares. — Roelof Botha, closing message on great companies surviving black swan moments."
 
 ---
 

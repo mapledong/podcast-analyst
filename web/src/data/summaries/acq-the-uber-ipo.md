@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Uber just raised $8 billion, or approximately one half of Lyft's entire market cap in its IPO." — Ben's IPO-day intro."
+> "Uber just raised $8 billion, or approximately one half of Lyft's entire market cap in its IPO. — Ben's IPO-day intro."
 
-> ""This whole era we're in now of all these new sources of capital… was opened up really by Uber." — David on Fidelity/SoftBank private-market floodgates."
+> "This whole era we're in now of all these new sources of capital… was opened up really by Uber. — David on Fidelity/SoftBank private-market floodgates."
 
-> ""20% of the value of this company is actually a holding company." — Ben on Didi/Grab/Yandex stakes in S-1."
+> "20% of the value of this company is actually a holding company. — Ben on Didi/Grab/Yandex stakes in S-1."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""We get it wrong in the beginning and in the end" — David on venture timing, echoed in Lin's Apple sale vs. hold discussion."
+> "We get it wrong in the beginning and in the end — David on venture timing, echoed in Lin's Apple sale vs. hold discussion."
 
-> ""No one ever started a huge business in a small market" — Don Valentine framework Lin reaffirms for market-size screening."
+> "No one ever started a huge business in a small market — Don Valentine framework Lin reaffirms for market-size screening."
 
-> ""The real returns come much, much, much later" — Ben on compounding curves, citing Amazon's 21st-year profits versus its first 20."
+> "The real returns come much, much, much later — Ben on compounding curves, citing Amazon's 21st-year profits versus its first 20."
 
 ---
 

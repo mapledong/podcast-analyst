@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Dropped Skype's wiener" — Ben on shortening Skyper to Skype when the domain was taken."
+> "Dropped Skype's wiener — Ben on shortening Skyper to Skype when the domain was taken."
 
-> ""What happens in Estonia stays in Estonia!" — Niklas Zennström at the eBay management party, per press retelling."
+> "What happens in Estonia stays in Estonia! — Niklas Zennström at the eBay management party, per press retelling."
 
-> ""Third time is the charm for Skype" — Ben on Microsoft finally buying the full cap table."
+> "Third time is the charm for Skype — Ben on Microsoft finally buying the full cap table."
 
 ---
 

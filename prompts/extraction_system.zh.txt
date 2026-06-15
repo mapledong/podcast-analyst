@@ -28,4 +28,8 @@
 
 结构字段与英文模板一致。keywords 中上市公司用标准美股代码（NVDA、GOOGL）；港股用 9992.HK 等形式；A 股用 300866.SZ；私有公司用 Private:Name。
 
+conclusion（40–100 字/词）：整期播客的综合 executive summary——主线论点→证据→投资者启示，连贯成段。禁止关键词堆叠、指标清单或互不关联的事实罗列；应像人类分析师收束研究笔记，而非把 bullet 拼成一段。
+
+top_investment_implications：每条方向判断须对该 ticker 独立成立。不得因 A 公司受 B 渠道/供应商挤压就给出 B 的 Short，除非嘉宾明确看空 B 的股价逻辑；此类风险应写入 A 的 thesis，而非虚构 proxy Short。
+
 仅依据逐字稿事实，返回合法 JSON。

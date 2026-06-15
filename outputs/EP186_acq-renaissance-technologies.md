@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""We are right 50.75% of the time" — Bob Mercer on Medallion edge."
+> "We are right 50.75% of the time — Bob Mercer on Medallion edge."
 
-> ""$150–$200 billion out of Medallion over 35 years" — total cash distributed."
+> "$150–$200 billion out of Medallion over 35 years — total cash distributed."
 
-> ""This is not the Medallion fund" — institutional product disclaimer."
+> "This is not the Medallion fund — institutional product disclaimer."
 
 ---
 

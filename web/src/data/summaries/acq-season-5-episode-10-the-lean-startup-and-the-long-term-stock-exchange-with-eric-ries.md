@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Wouldn't it be great if long-term oriented companies and long-term oriented investors could get together?" — Eric Ries on LTSE's origin mid-flight."
+> "Wouldn't it be great if long-term oriented companies and long-term oriented investors could get together? — Eric Ries on LTSE's origin mid-flight."
 
-> ""Build, measure, learn" — hosts tie Eric's loop to both IMVU history and LTSE infrastructure rollout."
+> "Build, measure, learn — hosts tie Eric's loop to both IMVU history and LTSE infrastructure rollout."
 
-> ""Can LTSE help address endemic problems — excessive capital raising, stay-private-longer, dual-class founder hegemony?" — Acquired show-note framing question."
+> "Can LTSE help address endemic problems — excessive capital raising, stay-private-longer, dual-class founder hegemony? — Acquired show-note framing question."
 
 ---
 

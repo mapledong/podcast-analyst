@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Don't do stuff that doesn't make your beer taste better." — Acquired mega-theme (Bezos/AWS origin), cited while discussing specialized tech stacks for builders."
+> "Don't do stuff that doesn't make your beer taste better. — Acquired mega-theme (Bezos/AWS origin), cited while discussing specialized tech stacks for builders."
 
-> ""Being correct, non-consensus, and getting the timing right." — Acquired's three-part investment thesis applied to American Dynamism launch."
+> "Being correct, non-consensus, and getting the timing right. — Acquired's three-part investment thesis applied to American Dynamism launch."
 
-> ""Space went from deeply non-consensus in Silicon Valley to now pretty consensus." — Katherine Boyle on how deep-tech categories mature."
+> "Space went from deeply non-consensus in Silicon Valley to now pretty consensus. — Katherine Boyle on how deep-tech categories mature."
 
 ---
 

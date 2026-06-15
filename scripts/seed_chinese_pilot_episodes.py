@@ -93,7 +93,7 @@ EPISODES = {
         },
         "en": {
             "episode_id": "zj-ep140",
-            "podcast": "Zhang Xiaojun's Business Interviews",
+            "podcast": "Zhang Xiaojun Podcast",
             "host": "Zhang Xiaojun",
             "metadata": {
                 "episode_number": 140,
@@ -259,7 +259,7 @@ EPISODES = {
         },
         "en": {
             "episode_id": "zj-ep143",
-            "podcast": "Zhang Xiaojun's Business Interviews",
+            "podcast": "Zhang Xiaojun Podcast",
             "host": "Zhang Xiaojun",
             "metadata": {
                 "episode_number": 143,
@@ -431,7 +431,7 @@ EPISODES = {
         },
         "en": {
             "episode_id": "zj-ep144",
-            "podcast": "Zhang Xiaojun's Business Interviews",
+            "podcast": "Zhang Xiaojun Podcast",
             "host": "Zhang Xiaojun",
             "metadata": {
                 "episode_number": 144,
@@ -603,7 +603,7 @@ EPISODES = {
         },
         "en": {
             "episode_id": "tzs-ep180",
-            "podcast": "Investment Practical School",
+            "podcast": "Practical Investments",
             "host": "David",
             "metadata": {
                 "episode_number": 180,
@@ -776,7 +776,7 @@ EPISODES = {
         },
         "en": {
             "episode_id": "tzs-ep185",
-            "podcast": "Investment Practical School",
+            "podcast": "Practical Investments",
             "host": "Yongqing & David",
             "metadata": {
                 "episode_number": 185,
@@ -795,7 +795,7 @@ EPISODES = {
             "episode_rating": {"overall": 5},
             "keywords": ["TSM", "ASML", "0981.HK", "Semiconductor Cycle", "AI Chips"],
             "conclusion": "Xie's forty-year lens: Moore's Law isn't dead but hits physical and economic walls — leading-edge competition is TSMC-style 'service + ecosystem,' not transistor bragging rights alone. AI chip demand structurally raises capital intensity, yet semis remain deeply cyclical. Localization gives China a window and duplicate-capacity risk. For investors: TSM/ASML stay advanced-node choke points; 0981.HK judged on node mix, utilization, policy capital; cycle timing beats narrative.",
-            "background": "SMIC co-founder Xie Zhifeng joins Investment Practical School to trace global semiconductor shifts since the 1980s. He explains why TSMC's pure-play foundry beat IDM in-house fabs, real constraints below 3nm, and how AI compute rewires capex cycles. China localization is opportunity and duplicated-capacity hazard.",
+            "background": "SMIC co-founder Xie Zhifeng joins Practical Investments to trace global semiconductor shifts since the 1980s. He explains why TSMC's pure-play foundry beat IDM in-house fabs, real constraints below 3nm, and how AI compute rewires capex cycles. China localization is opportunity and duplicated-capacity hazard.",
             "important_facts": [
                 "Xie has 40+ years in semis, watching China scale from zero to meaningful foundry capacity — industry as marathon, not one tech bet.",
                 "Moore's Law slowing: EUV, materials, power walls make each node exponentially costlier; only TSMC-scale volume and co-development amortizes.",
@@ -949,13 +949,13 @@ EPISODES = {
         },
         "en": {
             "episode_id": "tzs-ep179",
-            "podcast": "Investment Practical School",
+            "podcast": "Practical Investments",
             "host": "Yongqing",
             "metadata": {
                 "episode_number": 179,
                 "title": "Yongqing: Value Investing Framework, Capital Cycles & Quality Compounders",
                 "guest": "Yongqing",
-                "guest_role": "Co-founder, Investment Practical School & Fund Manager",
+                "guest_role": "Co-founder, Practical Investments & Fund Manager",
                 "date": "2026-04-13",
                 "duration_minutes": 64,
                 "youtube_url": "https://www.youtube.com/watch?v=uEjZzUJZOgI",
@@ -1025,7 +1025,7 @@ EPISODES = {
             "chronology": {
                 "subject": "Yongqing · Value Investing & Capital Cycles",
                 "events": [
-                    {"date": "2015–20", "event": "Yongqing builds Investment Practical School; practices quality value in A/H shares"},
+                    {"date": "2015–20", "event": "Yongqing builds Practical Investments; practices quality value in A/H shares"},
                     {"date": "2021", "event": "Consumer sector capital-cycle peak; mutual-fund herding — case review"},
                     {"date": "2022–23", "event": "HK trough as compounder entry window"},
                     {"date": "2025–26", "event": "AI infra vs. IP consumer cycles diverge; framework applied to current positioning"},

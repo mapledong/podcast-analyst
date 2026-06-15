@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Sprint's spectrum is the real asset — 2.5GHz is gold for 5G" — hosts on strategic rationale beyond subscribers."
+> "Sprint's spectrum is the real asset — 2.5GHz is gold for 5G — hosts on strategic rationale beyond subscribers."
 
-> ""Legere added 40 million customers by acting unlike a telecom CEO" — on Uncarrier marketing breakthrough."
+> "Legere added 40 million customers by acting unlike a telecom CEO — on Uncarrier marketing breakthrough."
 
-> ""Every US wireless merger ends up at the DOJ" — on regulatory inevitability in spectrum oligopoly."
+> "Every US wireless merger ends up at the DOJ — on regulatory inevitability in spectrum oligopoly."
 
 ---
 

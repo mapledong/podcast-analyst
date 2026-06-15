@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""DPI, just for folks, is distributed capital to paid-in capital — don't give me more markup, give me dollars in my bank." — Ho Nam on LP reporting discipline."
+> "DPI, just for folks, is distributed capital to paid-in capital — don't give me more markup, give me dollars in my bank. — Ho Nam on LP reporting discipline."
 
-> ""Passing and missing are all in your head. That's just a construct. You can always invest." — Ho Nam, adapting Buffett's GEICO lesson to venture pacing."
+> "Passing and missing are all in your head. That's just a construct. You can always invest. — Ho Nam, adapting Buffett's GEICO lesson to venture pacing."
 
-> ""Ironically, valuation is actually not the thing to watch… people anchor directly on that valuation." — Ho Nam; Roblox went from ≈$500M private rounds to ≈$60B public."
+> "Ironically, valuation is actually not the thing to watch… people anchor directly on that valuation. — Ho Nam; Roblox went from ≈$500M private rounds to ≈$60B public."
 
 ---
 

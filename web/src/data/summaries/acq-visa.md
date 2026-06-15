@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Would you rather own a few percent of something that is the default global way commerce is produced, or 100% of BankAmericard?" — Dee Hock's framing to franchise banks (via Ben/David)."
+> "Would you rather own a few percent of something that is the default global way commerce is produced, or 100% of BankAmericard? — Dee Hock's framing to franchise banks (via Ben/David)."
 
-> ""Visa to everywhere you want to be" — brand promise born from open-loop ubiquity, not premium closed-loop exclusivity."
+> "Visa to everywhere you want to be — brand promise born from open-loop ubiquity, not premium closed-loop exclusivity."
 
-> ""The network has incredible value" — Hock on racing both sides to acceptance before competitors fragment the mark."
+> "The network has incredible value — Hock on racing both sides to acceptance before competitors fragment the mark."
 
 ---
 

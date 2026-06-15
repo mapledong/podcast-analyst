@@ -15,7 +15,7 @@
 **Topics** GE · Menlo Park · Invention Factory
 > ### Conclusion
 >
-> Edison's life is relentless resourcefulness under constraint: a headstrong boy who read from sunrise to 10 p.m., turned telegraphy into an industrial laboratory, and commercialized light, sound, and power while fighting Western Union and Wall Street. Senra ties him to Jobs, Ford, Land, and Munger — inventors who put a dent in the universe by iterating in public and refusing expert pessimism.
+> Edison's life is relentless resourcefulness under constraint: a headstrong boy who read from sunrise to 10 p.m., turned telegraphy into an industrial laboratory, and commercialized light, sound, and power while fighting Western Union and Wall Street. him to Jobs, Ford, Land, and Munger — inventors who put a dent in the universe by iterating in public and refusing expert pessimism.
 
 ---
 
@@ -55,7 +55,7 @@
 >
 > **Q** How did Edison start without formal schooling?
 >
-> **A** A station master taught him telegraphy after a childhood rescue; by 16 he was a nomadic operator sleeping in offices. He edited and printed a paper with 400 circulation at 15, then lost it after violent editorial revenge — pattern of hustle, setback, and reinvention. Senra ties Edison to Steve Jobs' dent-in-the-universe line and Munger's follow-your-curiosity drift — Edison wanted many projects at once unlike Ford's single-car focus.
+> **A** A station master taught him telegraphy after a childhood rescue; by 16 he was a nomadic operator sleeping in offices. He edited and printed a paper with 400 circulation at 15, then lost it after violent editorial revenge — pattern of hustle, setback, and reinvention. Edison to Steve Jobs' dent-in-the-universe line and Munger's follow-your-curiosity drift — Edison wanted many projects at once unlike Ford's single-car focus.
 
 > **2.** Demos move capital faster than slides.
 >

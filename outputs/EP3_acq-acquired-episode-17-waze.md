@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""You drive with friends" — Ben on Waze social navigation tagline."
+> "You drive with friends — Ben on Waze social navigation tagline."
 
-> ""This would never happen under Steve" — on Tim Cook Maps apology letter."
+> "This would never happen under Steve — on Tim Cook Maps apology letter."
 
-> ""A billion dollars is not a talent acquisition" — Ben on Waze price vs acqui-hire."
+> "A billion dollars is not a talent acquisition — Ben on Waze price vs acqui-hire."
 
 ---
 

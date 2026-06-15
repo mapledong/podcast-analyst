@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""High quality, low variance, and time" — Patrick's brand-power framework, paralleling venture capital persistence."
+> "High quality, low variance, and time — Patrick's brand-power framework, paralleling venture capital persistence."
 
-> ""The investing business is becoming the media business" — David citing Taylor Pearson and Austin Rief's exchange on VC/media convergence."
+> "The investing business is becoming the media business — David citing Taylor Pearson and Austin Rief's exchange on VC/media convergence."
 
-> ""Learning to ask the right questions and listen to the answers" — Ben citing Don Valentine on the core VC skill Patrick exercises across OSAM initiatives."
+> "Learning to ask the right questions and listen to the answers — Ben citing Don Valentine on the core VC skill Patrick exercises across OSAM initiatives."
 
 ---
 

@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Cooperation agreement" — Google/HTC avoid calling it an acquisition."
+> "Cooperation agreement — Google/HTC avoid calling it an acquisition."
 
-> ""Same people executing the playbook all over again" — David on Rick Osterloh and Motorola déjà vu."
+> "Same people executing the playbook all over again — David on Rick Osterloh and Motorola déjà vu."
 
-> ""Best Android phone ever made" — widely cited Pixel 2016 reviews motivating the team purchase."
+> "Best Android phone ever made — widely cited Pixel 2016 reviews motivating the team purchase."
 
 ---
 

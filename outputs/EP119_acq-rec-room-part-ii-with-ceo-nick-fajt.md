@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Your growth was governed by someone else's growth." — Ben, on VR headset dependence lesson for platform-risked startups."
+> "Your growth was governed by someone else's growth. — Ben, on VR headset dependence lesson for platform-risked startups."
 
-> ""If you had buried your head in the sand and gone VR, VR, VR, you would have died." — Ben's Kobayashi Maru framing for Nick's cross-platform pivot."
+> "If you had buried your head in the sand and gone VR, VR, VR, you would have died. — Ben's Kobayashi Maru framing for Nick's cross-platform pivot."
 
-> ""It's like the Rec Room Fed." — Ben, on token supply and creator monetary policy."
+> "It's like the Rec Room Fed. — Ben, on token supply and creator monetary policy."
 
 ---
 

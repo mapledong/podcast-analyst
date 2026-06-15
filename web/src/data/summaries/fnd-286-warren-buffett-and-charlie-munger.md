@@ -15,7 +15,7 @@
 **Topics** BRK.B · Inversion · Compound Interest
 > ### Conclusion
 >
-> Bevelin's dialogue distills Buffett and Munger into repeatable habits: read constantly, invert problems, avoid debt and envy, and structure life to survive inevitable mistakes. Senra treats them as the wise grandfathers he never had — Einstein's of business whose uncommon common sense beats multitasking crowds chasing yield.
+> Bevelin's dialogue distills Buffett and Munger into repeatable habits: read constantly, invert problems, avoid debt and envy, and structure life to survive inevitable mistakes. them as the wise grandfathers he never had — Einstein's of business whose uncommon common sense beats multitasking crowds chasing yield.
 
 ---
 

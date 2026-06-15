@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""A good game is easy to learn, but difficult to master" — Rahul citing Nolan Bushnell's Bushnell's Law as Superhuman's design north star."
+> "A good game is easy to learn, but difficult to master — Rahul citing Nolan Bushnell's Bushnell's Law as Superhuman's design north star."
 
-> ""Gamification feels like a low respect for your users" — David on why points-and-badges systems patronize intelligent professionals."
+> "Gamification feels like a low respect for your users — David on why points-and-badges systems patronize intelligent professionals."
 
-> ""When I hit inbox zero, I feel power, control, and tranquility" — Ben describing the emotional payoff of Superhuman's flyover reward without connecting it consciously to the city imagery."
+> "When I hit inbox zero, I feel power, control, and tranquility — Ben describing the emotional payoff of Superhuman's flyover reward without connecting it consciously to the city imagery."
 
 ---
 

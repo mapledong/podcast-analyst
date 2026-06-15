@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""$50 million for something that makes 2 million a year?" — Ben on Midroll price."
+> "$50 million for something that makes 2 million a year? — Ben on Midroll price."
 
-> ""Apple has just accidentally had this nascent, huge opportunity" — Ben on podcasting and iTunes directory."
+> "Apple has just accidentally had this nascent, huge opportunity — Ben on podcasting and iTunes directory."
 
-> ""Top 10 publishers are responsible for 40 percent of listeners" — David on power law."
+> "Top 10 publishers are responsible for 40 percent of listeners — David on power law."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""I firmly believe that I learned more about building businesses from playing Starcraft than from business books." — Tobi Lütke (tweet deleted by episode date)."
+> "I firmly believe that I learned more about building businesses from playing Starcraft than from business books. — Tobi Lütke (tweet deleted by episode date)."
 
-> ""If you assume Amazon is going to eat retail of everything that has a barcode on it… what happens to anything that doesn't?" — Tobi on Shopify's wedge."
+> "If you assume Amazon is going to eat retail of everything that has a barcode on it… what happens to anything that doesn't? — Tobi on Shopify's wedge."
 
-> ""We had to have a higher bar because we didn't have real competition." — Tobi on lacking a well-funded SaaS rival during the 2006–2009 window."
+> "We had to have a higher bar because we didn't have real competition. — Tobi on lacking a well-funded SaaS rival during the 2006–2009 window."
 
 ---
 

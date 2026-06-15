@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Screw it, let's do it" — Sir Richard Branson's line when buying SpaceShipOne IP (quoted by hosts)."
+> "Screw it, let's do it — Sir Richard Branson's line when buying SpaceShipOne IP (quoted by hosts)."
 
-> ""Space is hard" — George Whitesides refrain after 2014 fatal test and schedule slips."
+> "Space is hard — George Whitesides refrain after 2014 fatal test and schedule slips."
 
-> ""The first 90% all you have left is the second 90%" — software aphorism applied to SpaceShipTwo commercialization."
+> "The first 90% all you have left is the second 90% — software aphorism applied to SpaceShipTwo commercialization."
 
 ---
 

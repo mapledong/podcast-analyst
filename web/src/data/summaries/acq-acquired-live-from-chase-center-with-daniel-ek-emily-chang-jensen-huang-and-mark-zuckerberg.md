@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Over 400 years of Acquired listened to in the past year" — Ben/David on cumulative listening time stat."
+> "Over 400 years of Acquired listened to in the past year — Ben/David on cumulative listening time stat."
 
-> ""YouTube was about $5 billion run rate… now $35–40 billion" — Emily Chang segment update."
+> "YouTube was about $5 billion run rate… now $35–40 billion — Emily Chang segment update."
 
-> ""Being the big daddy for all sporting events in India" — Lalit Modi echo in cricket segment; live show cross-pollinates Acquired canon."
+> "Being the big daddy for all sporting events in India — Lalit Modi echo in cricket segment; live show cross-pollinates Acquired canon."
 
 ---
 

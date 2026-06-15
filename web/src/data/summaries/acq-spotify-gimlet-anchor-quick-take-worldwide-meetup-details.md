@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Spotify isn't buying podcasts — they're buying the next decade of audio margin." — Host framing of dual acquisition logic."
+> "Spotify isn't buying podcasts — they're buying the next decade of audio margin. — Host framing of dual acquisition logic."
 
-> ""Gimlet is HBO; Anchor is the creator camera in every pocket." — David on complementary targets."
+> "Gimlet is HBO; Anchor is the creator camera in every pocket. — David on complementary targets."
 
-> ""Apple has the listeners; Spotify is buying the supply chain." — Ben on platform gap exploitation."
+> "Apple has the listeners; Spotify is buying the supply chain. — Ben on platform gap exploitation."
 
 ---
 

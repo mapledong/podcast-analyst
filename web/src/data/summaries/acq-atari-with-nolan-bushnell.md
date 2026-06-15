@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""You could spend all day selling strawberries or you could do one house call for the same amount." — Nolan on TV repair vs produce as a child entrepreneur."
+> "You could spend all day selling strawberries or you could do one house call for the same amount. — Nolan on TV repair vs produce as a child entrepreneur."
 
-> ""They remind a lot of eBay when I first met them in 1997. There was something going on… you couldn't quite put your finger on it." — Bruce Dunlevie on WeWork echo; here Benchmark on intangible Atari-era magic."
+> "They remind a lot of eBay when I first met them in 1997. There was something going on… you couldn't quite put your finger on it. — Bruce Dunlevie on WeWork echo; here Benchmark on intangible Atari-era magic."
 
-> ""When Don first approached you… you were already doing $30 million in sales." — David to Nolan on Sequoia investing into cash-flow-positive Atari."
+> "When Don first approached you… you were already doing $30 million in sales. — David to Nolan on Sequoia investing into cash-flow-positive Atari."
 
 ---
 

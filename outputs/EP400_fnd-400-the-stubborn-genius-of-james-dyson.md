@@ -63,7 +63,7 @@
 >
 > **Q** What did Fry teach at the lake?
 >
-> **A** When Dyson suggested hiring a hydrodynamics specialist, Fry pointed to the lake and a Land Rover — test the plank yourself. Senra says Dyson applied the same modus operandi for decades: enthusiasm plus intelligence beat credentialed committees for original products.
+> **A** When Dyson suggested hiring a hydrodynamics specialist, Fry pointed to the lake and a Land Rover — test the plank yourself. Dyson applied the same modus operandi for decades: enthusiasm plus intelligence beat credentialed committees for original products.
 
 > **3.** Control beats early licensing.
 >
@@ -75,7 +75,7 @@
 
 ## Investment Ideas
 
-> **1. Private:Dyson** · 🟡 WATCH · ●○○ Low
+> **1. Dyson** · 🟡 WATCH · ●○○ Low
 >
 > Private Dyson illustrates premium consumer hardware built by iterative R&D and brand control rather than outsourced manufacturing — relevant for investors tracking durable family-owned product companies, not a tradable equity thesis from this episode.
 

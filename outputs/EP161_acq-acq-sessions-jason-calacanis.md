@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Podcasting is billionaire porn — people want to feel like they're in the room with the richest guys in tech." — Calacanis on aspirational access as growth engine."
+> "Podcasting is billionaire porn — people want to feel like they're in the room with the richest guys in tech. — Calacanis on aspirational access as growth engine."
 
-> ""Candy plus vegetables — you need the sugar to get them to eat the broccoli." — On balancing All-In entertainment with policy segments."
+> "Candy plus vegetables — you need the sugar to get them to eat the broccoli. — On balancing All-In entertainment with policy segments."
 
-> ""I sold Weblogs to AOL for twenty-five million and started writing twenty-five thousand dollar angel checks." — Connecting media exit to investing career origin."
+> "I sold Weblogs to AOL for twenty-five million and started writing twenty-five thousand dollar angel checks. — Connecting media exit to investing career origin."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""You get what you pay for here — no guarantee we'll be right." — David on predictions disclaimer."
+> "You get what you pay for here — no guarantee we'll be right. — David on predictions disclaimer."
 
-> ""Aggregation Theory is going to continue to be critically important in 2017." — David forecast opening."
+> "Aggregation Theory is going to continue to be critically important in 2017. — David forecast opening."
 
-> ""Technology is a lever that magnifies consequences — good or evil." — 2016 Facebook IPO callback."
+> "Technology is a lever that magnifies consequences — good or evil. — 2016 Facebook IPO callback."
 
 ---
 

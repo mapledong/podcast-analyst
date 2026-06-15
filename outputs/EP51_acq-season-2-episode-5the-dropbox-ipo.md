@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""500 million registered users, 11.5 million paying — that's the freemium math" — hosts on S-1 hero metrics."
+> "500 million registered users, 11.5 million paying — that's the freemium math — hosts on S-1 hero metrics."
 
-> ""He forgot his USB stick on the bus and built Dropbox" — canonical origin story."
+> "He forgot his USB stick on the bus and built Dropbox — canonical origin story."
 
-> ""Priced at $21 — above the range" — on IPO window confidence March 2018."
+> "Priced at $21 — above the range — on IPO window confidence March 2018."
 
 ---
 

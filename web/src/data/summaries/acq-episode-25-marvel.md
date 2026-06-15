@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Marvel is a 'mini Disney' in terms of intellectual property" — Ronald Perelman, 1989, quoted on the show."
+> "Marvel is a 'mini Disney' in terms of intellectual property — Ronald Perelman, 1989, quoted on the show."
 
-> ""Carl Icahn is true, the Fleer thing is true" — Two Truths and a Lie reveal on the cold open."
+> "Carl Icahn is true, the Fleer thing is true — Two Truths and a Lie reveal on the cold open."
 
-> ""You can't make Iron Man 3 with 13 people" — Ben contrasting Marvel production scale with Instagram's value creation."
+> "You can't make Iron Man 3 with 13 people — Ben contrasting Marvel production scale with Instagram's value creation."
 
 ---
 

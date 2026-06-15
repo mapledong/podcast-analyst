@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""So I bought my cigar butt and I tried to smoke it." — Warren Buffett on Berkshire Hathaway (1965), the franchise's origin myth."
+> "So I bought my cigar butt and I tried to smoke it. — Warren Buffett on Berkshire Hathaway (1965), the franchise's origin myth."
 
-> ""We will not go into businesses where technology, which is way over my head, is crucial to the investment decision." — 1967 Buffett Partnership letter, the rule that excluded Intel and shaped 45 years of portfolio construction."
+> "We will not go into businesses where technology, which is way over my head, is crucial to the investment decision. — 1967 Buffett Partnership letter, the rule that excluded Intel and shaped 45 years of portfolio construction."
 
-> ""Money can create more money." — Warren at age 10, the compounding insight Ben and David treat as the singular focus behind everything that follows."
+> "Money can create more money. — Warren at age 10, the compounding insight Ben and David treat as the singular focus behind everything that follows."
 
 ---
 

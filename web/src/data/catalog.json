@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T13:54:30.339Z",
+  "generatedAt": "2026-06-15T15:06:00.371Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -43,7 +43,7 @@
     },
     {
       "id": "zhang-xiaojun",
-      "name": "Zhang Xiaojun's Business Interviews",
+      "name": "Zhang Xiaojun Podcast",
       "host": "Zhang Xiaojun",
       "description": "Deep-dive Chinese tech and business interviews on AI, giants, and founders — distilled into PM-ready summaries.",
       "accent_color": "#8B2942",
@@ -53,7 +53,7 @@
     },
     {
       "id": "touzi-shizhanpai",
-      "name": "Investment Practical School",
+      "name": "Practical Investments",
       "host": "Yongqing & David",
       "description": "Buy-side value investing podcast on top companies and sector experts — distilled into PM-ready summaries.",
       "accent_color": "#1A5F4A",
@@ -1390,9 +1390,9 @@
       "guestRole": "",
       "date": "2025-11-11",
       "durationMinutes": 42,
-      "readMinutes": 5,
+      "readMinutes": 4,
       "rating": 2,
-      "conclusion": "Wolfgang Hammer treats story as operating infrastructure, not decoration. Founders need to explain what they are building, why it matters personally, and which worldview they are challenging. When those layers are clear, narrative can sharpen recruiting, sales, product choices, and leadership. The transcript's 80/20 rule and three-layer structure turn storytelling from taste into a usable management tool. The close of the discussion emphasizes operating truth over narrative: \"So you can do it for a customer, you can\" It remains anchored in scale math and outcomes: \"like maybe only 20% new and 80% familiar\"",
+      "conclusion": "Hammer argues that narrative is operating infrastructure for founders, not marketing frosting. His 80/20 rule and three-layer story framework turn messaging into a repeatable decision tool for recruiting, sales, and product alignment. The episode is more leadership playbook than stock map, but the method is concrete.",
       "youtubeUrl": "https://www.youtube.com/watch?v=b3FVwGoSPQE",
       "summaryFile": "ep447.md",
       "availableLocales": [
@@ -1437,9 +1437,9 @@
       "guestRole": "",
       "date": "2025-11-04",
       "durationMinutes": 73,
-      "readMinutes": 5,
+      "readMinutes": 4,
       "rating": 3,
-      "conclusion": "Bending Spoons is a rare consumer-software compounder built on talent density, internal tooling, and disciplined acquisitions. Luca Ferrari describes buying enduring digital products, improving pricing, product, marketing, and infrastructure, and compounding for decades rather than optimizing for one fund cycle. The 25/75 model and early capital constraints make clear that execution system quality is the true asset. The close of the discussion emphasizes operating truth over narrative: \"right, that creates a lot of value we\" It remains anchored in scale math and outcomes: \"working our ass off for 3 years on the\"",
+      "conclusion": "Ferrari describes Bending Spoons as a software operating system for consumer products: acquire durable brands, centralize talent and tooling, improve monetization and product quality, and hold for decades rather than flip on a PE clock. The 25/75 model makes execution discipline the real moat.",
       "youtubeUrl": "https://www.youtube.com/watch?v=uLSXhmRHpFU",
       "summaryFile": "ep446.md",
       "availableLocales": [
@@ -1484,9 +1484,9 @@
       "guestRole": "",
       "date": "2025-10-28",
       "durationMinutes": 79,
-      "readMinutes": 5,
+      "readMinutes": 4,
       "rating": 4,
-      "conclusion": "Ramp's core promise is that finance software should help companies spend less, not more. Karim Atiyeh explains how a card product became a finance automation platform, why Ramp obsesses over speed and savings, and where AI can compress approvals, close processes, and waste detection. The transcript's $13 billion valuation context and 24/7 policy-enforcement framing show how aggressively the company ties growth to customer economics. The close of the discussion emphasizes operating truth over narrative: \"that you have with a customer, right? It\" It remains anchored in scale math and outcomes: \"have a 24/7 live enforcement of uh your\"",
+      "conclusion": "Ramp's thesis is savings-as-software: start with a card wedge, prove measurable spend reduction, then expand across finance workflows that share approvals and data. Atiyeh ties growth to customer economics while insisting the brand promise forces product choices that reduce waste, not merely increase card volume.",
       "youtubeUrl": "https://www.youtube.com/watch?v=Rt7_Uk4yVnk",
       "summaryFile": "ep445.md",
       "availableLocales": [
@@ -1533,7 +1533,7 @@
       "durationMinutes": 80,
       "readMinutes": 5,
       "rating": 4,
-      "conclusion": "Dan Wang's frame is clean: China is an engineering state, while America is a lawyerly society. China builds physical capacity at stunning speed, often at social cost. The U.S. is slower and more litigious, but still exceptional at software, capital markets, immigration, and frontier invention. The transcript's 70 million vs 12 million labor contrast and 2017-2023 lived perspective make the comparison operational, not rhetorical. The close of the discussion emphasizes operating truth over narrative: \"business in the world and then maybe a\" It remains anchored in scale math and outcomes: \"left in 2023 when I uh returned to the\"",
+      "conclusion": "Wang compares China and the U.S. as two national operating systems: an engineering state that scales physical output versus a lawyerly society that protects rights but slows construction. The investor takeaway is domain-specific — China leads in factories, batteries, and infrastructure; America leads in software, capital markets, and frontier labs. Map exposures by value-chain stage, not country narrative.",
       "youtubeUrl": "https://www.youtube.com/watch?v=DSY68wBQ97I",
       "summaryFile": "ep444.md",
       "availableLocales": [
@@ -1578,9 +1578,9 @@
       "guestRole": "",
       "date": "2025-10-14",
       "durationMinutes": 72,
-      "readMinutes": 5,
+      "readMinutes": 4,
       "rating": 3,
-      "conclusion": "Jesse Zhang explains Decagon as an AI customer-support company that must behave less like a chatbot demo and more like production software. Support is expensive, measurable, and full of repetitive work; the hard part is reliability across integrations, escalation, observability, testing, and trust. The numeric targets he shares (15-20% to 50-80% resolution and 5% staged rollouts) show why buyers can evaluate value quickly. The close of the discussion emphasizes operating truth over narrative: \"that, you know, want to do business or\" It remains anchored in scale math and outcomes: \"on a you 10 $25 million deal and so\"",
+      "conclusion": "Zhang positions Decagon as production software for AI customer support, not a chatbot demo. Enterprise buyers care about integrations, escalation, observability, and staged rollout — his 5% launch pattern and 15–20% to 50–80% resolution targets make ROI legible quickly. Reliability infrastructure matters as much as model quality.",
       "youtubeUrl": "https://www.youtube.com/watch?v=SyfdU8_tn5Y",
       "summaryFile": "ep443.md",
       "availableLocales": [
@@ -1625,9 +1625,9 @@
       "guestRole": "",
       "date": "2025-10-07",
       "durationMinutes": 79,
-      "readMinutes": 5,
+      "readMinutes": 4,
       "rating": 5,
-      "conclusion": "Dylan Patel maps AI as a manufacturing race. The bottlenecks are chips, HBM, packaging, power, networking, cooling, capital, and operators who can run giant clusters. Frontier AI increasingly resembles semiconductor manufacturing: huge fixed costs, brutal execution, and compounding scale. His examples around 5% efficiency gains and extreme talent pricing make the economics concrete rather than abstract. The close of the discussion emphasizes operating truth over narrative: \"of how much value one can do. But my\" It remains anchored in scale math and outcomes: \"5% of my compute time training time. I\"",
+      "conclusion": "Patel's frame is that frontier AI is an industrial race, not a software sprint. Chips, memory, packaging, power, networking, and operating talent are the binding constraints; model benchmarks are only one layer. Even single-digit efficiency gains compound across hundred-billion-dollar training and inference budgets, which rationalizes extreme talent pricing and integrated systems winners like NVIDIA.",
       "youtubeUrl": "https://www.youtube.com/watch?v=neTUnGUdfq4",
       "summaryFile": "ep442.md",
       "availableLocales": [
@@ -1672,9 +1672,9 @@
       "guestRole": "",
       "date": "2025-09-30",
       "durationMinutes": 68,
-      "readMinutes": 5,
+      "readMinutes": 4,
       "rating": 3,
-      "conclusion": "Diller's career is a case study in high-conviction creative judgment. He built and led pieces of ABC, Paramount, Fox, QVC, Expedia, and IAC by trusting taste, fighting for ideas, and creating environments where talented people could argue hard without losing the plot. The transcript's age-and-era markers (19, 23, 25, and 1992) show how early and consistently he made consequential bets. The close of the discussion emphasizes operating truth over narrative: \">> I had no fear of of business situations.\" It remains anchored in scale math and outcomes: \"this AI era. You did these 150 deals.\"",
+      "conclusion": "Diller's career shows that media leadership is taste under pressure. From ABC and Paramount through Fox and IAC, he built institutions by trusting instinct, encouraging sharp debate, and committing hard once a creative bet was made. The throughline for investors is judgment speed and accountability: delayed consensus often costs more than an imperfect early call.",
       "youtubeUrl": "https://www.youtube.com/watch?v=dAKINNEVs-M",
       "summaryFile": "ep441.md",
       "availableLocales": [
@@ -1719,9 +1719,9 @@
       "guestRole": "",
       "date": "2025-09-23",
       "durationMinutes": 75,
-      "readMinutes": 5,
+      "readMinutes": 4,
       "rating": 3,
-      "conclusion": "Horing explains Insight as a machine built around one belief: great software companies can compound for a long time when sourcing, capital, operating help, and pattern recognition all aim at the same market. He grounds that in concrete economics and scale, from 1995 specialization through today's roughly $12 billion marginal fund context. The edge is still a repeatable software-investing system, not one heroic deal. The close of the discussion emphasizes operating truth over narrative: \"I'm a big fan of the value prop. I want\" It remains anchored in scale math and outcomes: \"would you set a fund 100 billion or.",
+      "conclusion": "Horing frames Insight Partners as a repeatable software growth machine, not a hero-deal franchise. Decades of specialized sourcing, operating support, and pattern recognition matter because software's recurring economics let winners compound across cycles. The practical edge is information and execution quality at scale — including today's roughly $12 billion marginal fund — not fund size alone.",
       "youtubeUrl": "https://www.youtube.com/watch?v=g4zzkuFyI18",
       "summaryFile": "ep440.md",
       "availableLocales": [
@@ -3322,7 +3322,7 @@
       "durationMinutes": 92,
       "readMinutes": 5,
       "rating": 3,
-      "conclusion": "Trimble's pre-autobiography portrait shows Walton as ordinary on the surface — buy cheap, sell low, smile — with iron discipline beneath: JC Penney string lessons, Newport lease loss at 32, Bentonville restart, charter planes beating eight-hour drives, and Sol Price club visits that unlocked discount scale. Senra ties him to Bezos handouts, Patton execution, and a quarter-trillion family fortune built by relentless store walks. Charter planes and $500 IBM bets wired a quarter-trillion dynasty.",
+      "conclusion": "Trimble's pre-autobiography portrait shows Walton as ordinary on the surface — buy cheap, sell low, smile — with iron discipline beneath: JC Penney string lessons, Newport lease loss at 32, Bentonville restart, charter planes beating eight-hour drives, and Sol Price club visits that unlocked discount scale. him to Bezos handouts, Patton execution, and a quarter-trillion family fortune built by relentless store walks. Charter planes and $500 IBM bets wired a quarter-trillion dynasty.",
       "youtubeUrl": "https://www.youtube.com/watch?v=tL71OzGcewk",
       "summaryFile": "fnd-354-sam-walton-the-inside-story-of-america-s-richest-man.md",
       "availableLocales": [
@@ -3398,7 +3398,7 @@
       "durationMinutes": 70,
       "readMinutes": 4,
       "rating": 4,
-      "conclusion": "Bevelin's dialogue distills Buffett and Munger into repeatable habits: read constantly, invert problems, avoid debt and envy, and structure life to survive inevitable mistakes. Senra treats them as the wise grandfathers he never had — Einstein's of business whose uncommon common sense beats multitasking crowds chasing yield.",
+      "conclusion": "Bevelin's dialogue distills Buffett and Munger into repeatable habits: read constantly, invert problems, avoid debt and envy, and structure life to survive inevitable mistakes. them as the wise grandfathers he never had — Einstein's of business whose uncommon common sense beats multitasking crowds chasing yield.",
       "youtubeUrl": "https://www.youtube.com/watch?v=t47NBQqlzbk",
       "summaryFile": "fnd-286-warren-buffett-and-charlie-munger.md",
       "availableLocales": [
@@ -3431,9 +3431,9 @@
       "guestRole": "SMIC Co-founder & Semiconductor Industry Veteran",
       "date": "2026-06-01",
       "durationMinutes": 78,
-      "readMinutes": 6,
+      "readMinutes": 5,
       "rating": 5,
-      "conclusion": "Xie's forty-year lens: Intel highest tech award 1990, co-founded SMIC 2000; Moore's Law slowing not dead; TSMC moat is service + ecosystem. Historically ~5-year semi cycles; SMIC #2 pure foundry behind TSMC. For investors: TSM/ASML advanced choke points; 0981.HK on utilization and subsidy ROI. Xie Zhifeng co-founded SMIC around 2000 after Intel research years. He received Intel highest technical achievement award in 1990. TSMC pure-play foundry service model beats conflicted IDM fabs. Moore law continues but each node costs rise exponentially with EUV walls.",
+      "conclusion": "Across forty years — Intel's highest technology award in 1990, co-founding SMIC around 2000 — Xie Zhifeng argues Moore's Law is slowing, not dead, and that TSMC's moat is a service and ecosystem model, not node bragging rights alone. Semiconductors still obey roughly five-year cycles even with an AI tailwind; SMIC ranks second pure-play foundry globally but faces utilization and subsidy-return constraints unlike TSMC. For investors the episode reinforces a cycle-aware stance: TSMC and ASML are advanced choke points worth owning with timing discipline; SMIC demands proof on utilization and ROI, not headline node milestones.",
       "youtubeUrl": "https://www.youtube.com/watch?v=Fu_1_oTwhhU",
       "summaryFile": "tzs-ep185.md",
       "summaryFileZh": "tzs-ep185.md",
@@ -3453,13 +3453,19 @@
           "ticker": "TSM",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Advanced choke point + AI mix; Xie frames moat as service/ecosystem — watch ~5-year cycle for timing"
+          "thesis": "Taiwan Semiconductor (TSM): advanced-node choke point plus AI customer mix — Xie frames moat as service and ecosystem; watch ~5-year semi cycle for entry timing"
         },
         {
           "ticker": "ASML",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "EUV monopoly as Moore economics worsen; lithography spend per node rises; export controls key risk"
+          "thesis": "ASML: extreme ultraviolet monopoly as Moore economics worsen — lithography spend per node rises; export controls remain key risk"
+        },
+        {
+          "ticker": "0981.HK",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "SMIC (0981.HK): second pure foundry with localization tailwind — utilization and subsidy ROI matter more than advanced node headlines"
         }
       ],
       "chronologySubject": "Xie Zhifeng · Four Decades in Semiconductors"
@@ -3599,9 +3605,9 @@
       "guestRole": "Consumer & IP Research (Guest)",
       "date": "2026-04-20",
       "durationMinutes": 67,
-      "readMinutes": 6,
+      "readMinutes": 5,
       "rating": 4,
-      "conclusion": "David hosts, Jeff guests (recorded 2026-03-31): Pop Mart 2025 revenue RMB 37.1B (+184.7%), net profit RMB 13B (+29.3%), but ~20% 2026 growth guidance ('hard brake') triggered ~30% two-day drop. Stock ~142–143 HKD, market cap below HKD 200B; episode cites Disney PE ~14x. For investors: 9992.HK — separate Labubu phenomenon from IP pipeline; high PE punishes guidance misses. Pop Mart 2025 revenue was RMB 37.1 billion up 184.7 percent year on year. Net profit was RMB 13 billion up 29.3 percent far below revenue growth.",
+      "conclusion": "Recorded March 31, 2026, David and Jeff walk through Pop Mart's narrative break: 2025 revenue RMB 37.1B (+184.7%) but net profit RMB 13B rose only 29.3%, and roughly twenty percent 2026 growth guidance felt like a hard brake — shares fell about thirty percent in two days to near 142–143 HKD, market cap below HKD 200B. The question is whether Labubu is durable IP or a fashion cycle, with Disney near fourteen times price-to-earnings as the comp. Until pipeline breadth proves out, position below traditional compounders and use scenarios, not single-point earnings.",
       "youtubeUrl": "https://www.youtube.com/watch?v=mcmrSIEJfJk",
       "summaryFile": "tzs-ep180.md",
       "summaryFileZh": "tzs-ep180.md",
@@ -3620,13 +3626,13 @@
           "ticker": "9992.HK",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Post-guide shock: ~20% 2026 growth, ~142–143 HKD, mcap <HKD 200B after ~30% two-day drop; IP pipeline breadth needed vs Disney ~14x PE anchor"
+          "thesis": "Pop Mart (9992.HK): post-guide shock at ~142–143 HKD, market cap below HKD 200B after ~30% two-day drop — ~20% 2026 growth still respectable if IP pipeline breadth sustains premium vs Disney ~14x"
         },
         {
           "ticker": "DIS",
           "direction": "Long",
           "confidence": "Low",
-          "thesis": "Episode comps POP MART to character-IP names at Disney ~14x PE; park + media flywheel caps pure toy/IP earnings power"
+          "thesis": "Disney (DIS): episode comps Pop Mart to character-IP compounders at ~14x price-to-earnings — park plus media flywheel sets ceiling on pure toy and IP earnings power"
         }
       ],
       "chronologySubject": "Pop Mart · 2025 Results & Valuation Reset"
@@ -3673,13 +3679,13 @@
       "title": "Yongqing: Value Investing Framework, Capital Cycles & Quality Compounders",
       "guest": "Yongqing",
       "displayTitle": "Yongqing",
-      "displaySubtitle": "Co-founder, Investment Practical School & Fund Manager",
-      "guestRole": "Co-founder, Investment Practical School & Fund Manager",
+      "displaySubtitle": "Co-founder, Practical Investments & Fund Manager",
+      "guestRole": "Co-founder, Practical Investments & Fund Manager",
       "date": "2026-04-13",
       "durationMinutes": 64,
-      "readMinutes": 6,
+      "readMinutes": 5,
       "rating": 4,
-      "conclusion": "Yongqing's value framework: price oscillates around intrinsic value, reassessed dynamically — lifecycle and capital cycle interact. Graham era weighted PB; quality compounders are 'friends of time.' Mutual funds de-risk on drawdowns; contrarians need independent theses. Buy ROIC > WACC at reasonable prices; trim when capital cycles overheat. Yongqing frames value as price below intrinsic value with dynamic reassessment. Graham era net asset valuation rarely fits most China listings today. Capital cycle says profit attracts capital and capital eventually kills profit.",
+      "conclusion": "Yongqing's Practical Investments framework ties Graham-era price-to-book thinking to today's quality compounders: intrinsic value moves with lifecycle, and capital cycles — not macro headlines — tell you when crowded trades will compress forward returns. Mutual funds peak weight at narrative tops and de-risk on drawdowns, which contrarians can use as timing signals if they tolerate relative underperformance. The actionable rule is buy durable return-on-invested-capital above cost of capital at reasonable prices, and trim when capital floods into a sector; thirty times price-to-earnings only works if roughly twenty-five percent ROIC sustains ten years.",
       "youtubeUrl": "https://www.youtube.com/watch?v=uEjZzUJZOgI",
       "summaryFile": "tzs-ep179.md",
       "summaryFileZh": "tzs-ep179.md",
@@ -3698,13 +3704,13 @@
           "ticker": "BRK.B",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Archetypal quality compounder and capital allocator; Yongqing's framework mirrors Buffett ROIC and cycle discipline"
+          "thesis": "Berkshire Hathaway (BRK.B): archetypal quality compounder and capital allocator — Yongqing's return-on-invested-capital and capital-cycle discipline align with Buffett framework"
         },
         {
           "ticker": "TSM",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Semi quality compounder but cycle timing matters — add on utilization dips, trim at capex peaks when funds overweight"
+          "thesis": "Taiwan Semiconductor (TSM): semi quality compounder but capital-cycle timing matters — add on utilization dips, trim when capital expenditure to revenue peaks and funds overweight"
         }
       ],
       "chronologySubject": "Yongqing · Value Investing & Capital Cycles"
@@ -6529,7 +6535,7 @@
       "durationMinutes": 113,
       "readMinutes": 5,
       "rating": 3,
-      "conclusion": "PayPal was a four-year odyssey of near failure followed by near failure — Confinity and X.com merged under siege from fraud, regulators, and dot-com collapse while a World Domination Index tracked daily users. Senra treats Jimmy Soni's book as mandatory reading on scenius: misfit founders who polished one another like rocks in a tumbler and spawned much of modern Silicon Valley. Senra: properly understood PayPal is near failure followed by near failure — four years under siege before eBay exit. World Domination Index and Memento Mori banners tracked daily users beside mortality reminder.",
+      "conclusion": "PayPal was a four-year odyssey of near failure followed by near failure — Confinity and X.com merged under siege from fraud, regulators, and dot-com collapse while a World Domination Index tracked daily users. Jimmy Soni's book as mandatory reading on scenius: misfit founders who polished one another like rocks in a tumbler and spawned much of modern Silicon Valley. Senra: properly understood PayPal is near failure followed by near failure — four years under siege before eBay exit. World Domination Index and Memento Mori banners tracked daily users beside mortality reminder.",
       "youtubeUrl": "https://www.youtube.com/watch?v=GmmuNVv4ehE",
       "summaryFile": "fnd-233-elon-musk-peter-thiel-max-levchin-paypal.md",
       "availableLocales": [
@@ -6568,9 +6574,9 @@
       "guestRole": "Founder & CEO, Anker Innovations",
       "date": "2026-06-08",
       "durationMinutes": 218,
-      "readMinutes": 8,
+      "readMinutes": 6,
       "rating": 5,
-      "conclusion": "Yang's framework: Anker at RMB 60B+ market cap plays shallow sea (categories under ~$500B TAM — power banks ~$5B, earphones ~$200–300B) vs deep sea (phones ~$500B, PCs ~$200B). +1.1–1.5pt annual gross margin lift is the compounding engine. Billion-token context can 'read' a whole company. Founded 2011, Google Founders Award. For investors: 300866.SZ on ROIC, margins, Amazon mix. Yang founded Anker in 2011 and won a Google Founders Award. Market cap exceeds sixty billion RMB at six hundred yi plus. Shallow sea targets categories under roughly five hundred billion dollars TAM.",
+      "conclusion": "Yang Meng defends disciplined category selection at scale: Anker Innovations stays in shallow-sea markets — large enough to build a number-one brand, small enough that Apple-scale rivals do not deploy full war chests — and compounds through roughly 1.1–1.5 points of annual gross margin lift rather than revenue spikes. At RMB 60B+ market cap the test is whether adjacent categories repeat return-on-capital discipline. Heavy Amazon reliance remains the main overhang: rising marketplace ads, policy shifts, and private-label competition can erode third-party margins even when Anker wins category leadership — underwrite margin path and channel mix together.",
       "youtubeUrl": "https://www.youtube.com/watch?v=kBsqirnWTpI",
       "summaryFile": "zj-ep144.md",
       "summaryFileZh": "zj-ep144.md",
@@ -6589,13 +6595,7 @@
           "ticker": "300866.SZ",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Category expansion + brand premium + ~1.1–1.5pt annual gross margin at RMB 60B+ cap; track new category hit rate and Amazon concentration"
-        },
-        {
-          "ticker": "AMZN",
-          "direction": "Short",
-          "confidence": "Medium",
-          "thesis": "Anker remains Amazon-native; platform policy, ad costs, and private-label competition directly affect 300866 margins despite shallow-sea wins"
+          "thesis": "Anker Innovations (300866.SZ): shallow-sea category leadership compounds through ~1.1–1.5pt annual gross margin at RMB 60B+ cap — track adjacent category ROIC, margin path, and Amazon revenue mix alongside platform fee and ad inflation"
         }
       ],
       "chronologySubject": "Yang Meng · Anker & Shallow-Sea Strategy"
@@ -6611,9 +6611,9 @@
       "guestRole": "Chairman & CEO, XPeng",
       "date": "2026-05-28",
       "durationMinutes": 86,
-      "readMinutes": 6,
+      "readMinutes": 5,
       "rating": 4,
-      "conclusion": "He: legacy robot stack cost a few tens of billions RMB (not hundreds), stopped ~2025 for failed generalization. IRON ~20% win rate; broad AI 15–20% of company; physical-world data RMB 1B+/year rigid cost. XPEV needs sum-of-the-parts. He stopped the legacy robot stack that cost a few tens of billions of RMB. IRON humanoid is roughly a twenty percent probability bet with massive upside. Physical-world AI data rigid costs approach one billion RMB per year or more.",
+      "conclusion": "He Xiaopeng's message is a capital-allocation reset: XPeng shut down a legacy robot stack that consumed a few tens of billions RMB (not hundreds) because it could not generalize, then concentrated bets on humanoid IRON — roughly twenty percent probability but company-changing upside. Broad AI across autonomy and robotics runs fifteen to twenty percent of the firm; physical-world data alone costs close to RMB ten billion per year, a rigid line item text models do not share. The episode demands valuing XPeng as auto core cash flow plus a costly option and a data moat only multi-scenario survivors can fund.",
       "youtubeUrl": "https://www.youtube.com/watch?v=rUjaLPE3mME",
       "summaryFile": "zj-ep143.md",
       "summaryFileZh": "zj-ep143.md",
@@ -6632,19 +6632,13 @@
           "ticker": "XPEV",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Auto core coexists with robotics/AI burn; IRON is a low-probability option — track quarterly cash flow and GX deliveries; traditional auto PE alone misprices the story"
-        },
-        {
-          "ticker": "TSLA",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Optimus is a direct comp; He's ~20% win-rate framing implies industry-wide high failure rates — Tesla robot narrative premium needs scenario analysis"
+          "thesis": "XPeng (XPEV): auto core plus 15–20% broad AI burn and ~20% IRON option — track quarterly cash flow and GX deliveries; traditional auto price-to-earnings alone misprices the story"
         },
         {
           "ticker": "NVDA",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Physical-world AI and robot training lift edge compute demand; chip layer benefits regardless of which OEM wins"
+          "thesis": "Nvidia (NVDA): physical-world AI and robot training lift edge compute demand — chip layer benefits regardless of which OEM wins the humanoid race"
         }
       ],
       "chronologySubject": "He Xiaopeng · Robotics & Autonomy Pivot"
@@ -6660,9 +6654,9 @@
       "guestRole": "Google DeepMind Researcher (formerly Anthropic)",
       "date": "2026-05-11",
       "durationMinutes": 228,
-      "readMinutes": 8,
+      "readMinutes": 7,
       "rating": 5,
-      "conclusion": "Yao's bottom line: frontier model capability is converging — OpenAI, Anthropic, and Google worry less about catching up and more about what to bet on. Reliability and product definition beat hero narratives. For investors: compute and distribution still accrue to leaders, but application-layer wins go to whoever embeds models in real workflows; China's Doubao already differentiates on voice UX. Yao stresses reliability over heroism when frontier labs converge on capability. He joined Gemini in late 2025 after Anthropic training experience. He guesses Gemini holds roughly twenty percent consumer share today.",
+      "conclusion": "After training at Anthropic and joining Google's Gemini team in late 2025, Yao Shunyu argues frontier labs no longer fear falling behind on raw capability — they fear picking the wrong product bet. Benchmark gaps among OpenAI, Anthropic, and Google have narrowed; retention now turns on workflow lock-in, distribution, and reliability, not hero narratives. He puts Gemini consumer share at roughly twenty percent and cites Doubao's voice UX as proof regional product fit can win without global IQ leadership. Investors should underwrite commercial paths — coding agents, search/Android funnels, enterprise attach — rather than leaderboard deltas.",
       "youtubeUrl": "https://www.youtube.com/watch?v=ttkd0t5qTD4",
       "summaryFile": "zj-ep140.md",
       "summaryFileZh": "zj-ep140.md",
@@ -6673,7 +6667,7 @@
       "defaultLocale": "en",
       "keywords": [
         "GOOGL",
-        "AI Labs",
+        "AI Frontier Labs",
         "Model Training"
       ],
       "investmentIdeas": [
@@ -6681,13 +6675,19 @@
           "ticker": "GOOGL",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "If Gemini 3 plus consumer features keep pulling volume, search and Android distribution amplify monetization — Yao frames Google as fighting to win the volume war back"
+          "thesis": "Alphabet (GOOGL): Gemini consumer push plus search and Android distribution — Yao frames late-2025 hiring as Google's volume war; ~20% share guess implies room if retention chains"
         },
         {
           "ticker": "Private:Anthropic",
           "direction": "Watch",
           "confidence": "Medium",
-          "thesis": "Coding/agent workflow bet is ahead, but distillation and open-source pressure rise as capabilities converge — must prove durable ARR and enterprise lock-in"
+          "thesis": "Coding and agent workflow bet leads via Claude Code, but distillation pressure rises as capabilities converge — must prove durable enterprise ARR and lock-in, not benchmark wins"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Nvidia (NVDA): multi-frontier training capex persists as model alpha compresses — chip layer benefits regardless of which product bet wins"
         }
       ],
       "chronologySubject": "Yao Shunyu · Frontier Model Training"
@@ -11492,7 +11492,7 @@
       "durationMinutes": 86,
       "readMinutes": 4,
       "rating": 3,
-      "conclusion": "Edison's life is relentless resourcefulness under constraint: a headstrong boy who read from sunrise to 10 p.m., turned telegraphy into an industrial laboratory, and commercialized light, sound, and power while fighting Western Union and Wall Street. Senra ties him to Jobs, Ford, Land, and Munger — inventors who put a dent in the universe by iterating in public and refusing expert pessimism.",
+      "conclusion": "Edison's life is relentless resourcefulness under constraint: a headstrong boy who read from sunrise to 10 p.m., turned telegraphy into an industrial laboratory, and commercialized light, sound, and power while fighting Western Union and Wall Street. him to Jobs, Ford, Land, and Munger — inventors who put a dent in the universe by iterating in public and refusing expert pessimism.",
       "youtubeUrl": "https://www.youtube.com/watch?v=KMnV7mX0EQM",
       "summaryFile": "fnd-3-the-wizard-of-menlo-park-how-thomas-edison-invented-the.md",
       "availableLocales": [
@@ -11842,7 +11842,7 @@
       "durationMinutes": 77,
       "readMinutes": 4,
       "rating": 3,
-      "conclusion": "Disney's arc is control recovered from betrayal: losing Oswald taught him to own characters and studios, Snow White proved skeptics wrong at $6.7 million in receipts, and Disneyland became the living project he refined until lung cancer ended a chain-smoking life. Senra frames him as a master of order and quality — an artisan who worked through family tragedy and labor strikes to build an empire that outlasted him.",
+      "conclusion": "Disney's arc is control recovered from betrayal: losing Oswald taught him to own characters and studios, Snow White proved skeptics wrong at $6.7 million in receipts, and Disneyland became the living project he refined until lung cancer ended a chain-smoking life. him as a master of order and quality — an artisan who worked through family tragedy and labor strikes to build an empire that outlasted him.",
       "youtubeUrl": "https://www.youtube.com/watch?v=Hc3u0bUu8eg",
       "summaryFile": "fnd-2-walt-disney.md",
       "availableLocales": [

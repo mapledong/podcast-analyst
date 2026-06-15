@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""If you don't build it, they can't come." — Jensen Huang on CUDA (paraphrased by hosts; distinct from "if you build it they will come")."
+> "If you don't build it, they can't come. — Jensen Huang on CUDA (paraphrased by hosts; distinct from "if you build it they will come")."
 
-> ""CUDA is like one of the greatest business stories of the last 10 years, 20 years." — David Rosenthal; Ben calls it among boldest bets Acquired has covered."
+> "CUDA is like one of the greatest business stories of the last 10 years, 20 years. — David Rosenthal; Ben calls it among boldest bets Acquired has covered."
 
-> ""It is entirely free… But anyone can download it… You do any of this work, you cannot deploy it on anything but NVIDIA chips." — David on CUDA economics."
+> "It is entirely free… But anyone can download it… You do any of this work, you cannot deploy it on anything but NVIDIA chips. — David on CUDA economics."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""When I see memos from Howard Marks in my mail, they're the first thing I open and read." — Warren Buffett (quoted by hosts), on Oaktree's intellectual influence."
+> "When I see memos from Howard Marks in my mail, they're the first thing I open and read. — Warren Buffett (quoted by hosts), on Oaktree's intellectual influence."
 
-> ""Risk equals permanent capital loss." — Howard Marks' recurring theme from The Most Important Thing, contrasted with venture's accepted failure rate."
+> "Risk equals permanent capital loss. — Howard Marks' recurring theme from The Most Important Thing, contrasted with venture's accepted failure rate."
 
-> ""If there's a credible trope on either side of an argument, everything comes down to judgment." — Hosts summarizing the memo's philosophical bottom line."
+> "If there's a credible trope on either side of an argument, everything comes down to judgment. — Hosts summarizing the memo's philosophical bottom line."
 
 ---
 

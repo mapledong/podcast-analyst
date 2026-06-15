@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""If I was running a business that was generating $100 of cash per year… would you buy that business from me at $340?" — Ben Gilbert framing the Coinbase pick, May 2022."
+> "If I was running a business that was generating $100 of cash per year… would you buy that business from me at $340? — Ben Gilbert framing the Coinbase pick, May 2022."
 
-> ""My current mental model of YC is like a university, a top Ivy League University… There's an endowment attached to it, which is Continuity now." — David Rosenthal on YC structure."
+> "My current mental model of YC is like a university, a top Ivy League University… There's an endowment attached to it, which is Continuity now. — David Rosenthal on YC structure."
 
-> ""PitchBook says $600 billion." — Combined market cap stat cited for YC portfolio companies at the arena show."
+> "PitchBook says $600 billion. — Combined market cap stat cited for YC portfolio companies at the arena show."
 
 ---
 

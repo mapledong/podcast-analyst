@@ -1,0 +1,64 @@
+{
+  "episode_id": "zj-ep142",
+  "podcast": "Zhang Xiaojun Podcast",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 142,
+    "title": "Yusen's VC Watch Ep.2: Harness, Next ByteDance, 2026 Opportunities & Stanley Druckenmiller",
+    "guest": "Yusen",
+    "guest_role": "Venture Capital Observer",
+    "date": "2026-05-27",
+    "duration_minutes": 139,
+    "youtube_url": "https://www.youtube.com/watch?v=XEhf371Aeso",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=XEhf371Aeso",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:Harness",
+    "ByteDance",
+    "2026 VC Themes"
+  ],
+  "conclusion": "placeholder",
+  "background": "placeholder",
+  "important_facts": [
+    "placeholder"
+  ],
+  "mental_model": {
+    "name": "placeholder",
+    "components": "placeholder",
+    "application": "placeholder"
+  },
+  "key_insights": [
+    {
+      "view": "placeholder",
+      "question": "placeholder",
+      "answer": "placeholder"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Harness",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "placeholder"
+    }
+  ],
+  "golden_quotes": [
+    "placeholder"
+  ],
+  "chronology": {
+    "subject": "Yusen",
+    "events": [
+      {
+        "date": "2026",
+        "event": "placeholder"
+      }
+    ]
+  }
+}

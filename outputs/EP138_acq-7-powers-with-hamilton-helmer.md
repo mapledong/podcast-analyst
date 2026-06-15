@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""I see this mistake all the time in Silicon Valley… everybody's like, tell me about the TAM. That's only half of the equation." — David Rosenthal introducing Helmer's framework."
+> "I see this mistake all the time in Silicon Valley… everybody's like, tell me about the TAM. That's only half of the equation. — David Rosenthal introducing Helmer's framework."
 
-> ""There is an infinite amount of product/market fit for selling dollars for 90¢." — Ben Gilbert (via Bill Gurley) connecting to counter-positioning economics."
+> "There is an infinite amount of product/market fit for selling dollars for 90¢. — Ben Gilbert (via Bill Gurley) connecting to counter-positioning economics."
 
-> ""Buy the book." — David Rosenthal closing — owns ≈100 copies; claims top Amazon review; urges listeners to read Seven Powers with bundled PDF reference card."
+> "Buy the book. — David Rosenthal closing — owns ≈100 copies; claims top Amazon review; urges listeners to read Seven Powers with bundled PDF reference card."
 
 ---
 

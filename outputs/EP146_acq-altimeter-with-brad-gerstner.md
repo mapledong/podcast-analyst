@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""I'm not competing with Sequoia." — Brad Gerstner on Altimeter's deliberate avoidance of seed-stage venture."
+> "I'm not competing with Sequoia. — Brad Gerstner on Altimeter's deliberate avoidance of seed-stage venture."
 
-> ""Snowflake was still over half of Altimeter's public position." — Ben Gilbert quantifying concentration at ≈$100B market cap."
+> "Snowflake was still over half of Altimeter's public position. — Ben Gilbert quantifying concentration at ≈$100B market cap."
 
-> ""Capitalism is the worst system except for every other." — Brad Gerstner closing on Invest America and democratic markets."
+> "Capitalism is the worst system except for every other. — Brad Gerstner closing on Invest America and democratic markets."
 
 ---
 

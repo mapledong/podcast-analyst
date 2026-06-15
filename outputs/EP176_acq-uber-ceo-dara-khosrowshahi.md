@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""In the past 12 months, they've done over $30 billion in revenue up from just $10 billion two years ago" — Ben's opening frame that Uber's scale doubled again after the governance turnaround."
+> "In the past 12 months, they've done over $30 billion in revenue up from just $10 billion two years ago — Ben's opening frame that Uber's scale doubled again after the governance turnaround."
 
-> ""It might be the only turnaround in history where it was growing incredibly fast, had $10 billion of revenue" — Ben on why Dara's Uber defies classic turnaround definitions."
+> "It might be the only turnaround in history where it was growing incredibly fast, had $10 billion of revenue — Ben on why Dara's Uber defies classic turnaround definitions."
 
-> ""Pigs get fat, hogs get slaughtered" — David citing Bill Gurley's rake thesis as Dara explains preferring mobility's lower take rate for ecosystem durability."
+> "Pigs get fat, hogs get slaughtered — David citing Bill Gurley's rake thesis as Dara explains preferring mobility's lower take rate for ecosystem durability."
 
 ---
 

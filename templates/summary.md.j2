@@ -89,7 +89,7 @@
 ## Golden Quotes
 
 {% for quote in golden_quotes %}
-> "{{ quote }}"
+> "{{ quote | golden_quote }}"
 
 {% endfor %}
 ---

@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Nobody cares what you wear on your feet — you should sell speakers" — Jimmy to Dre on the beach, founding Beats."
+> "Nobody cares what you wear on your feet — you should sell speakers — Jimmy to Dre on the beach, founding Beats."
 
-> ""Market it like Tupac or U2" — Jimmy on treating headphones like artist launches."
+> "Market it like Tupac or U2 — Jimmy on treating headphones like artist launches."
 
-> ""Largest acquisition in Apple's history by an order of magnitude" — hosts on $3B vs NeXT ≈$400M."
+> "Largest acquisition in Apple's history by an order of magnitude — hosts on $3B vs NeXT ≈$400M."
 
 ---
 

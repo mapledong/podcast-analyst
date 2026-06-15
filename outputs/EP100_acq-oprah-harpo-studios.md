@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""You get a car. You get a car." — Oprah Winfrey, Favorite Things giveaway, emblem of converting audience love into spectacle commerce."
+> "You get a car. You get a car. — Oprah Winfrey, Favorite Things giveaway, emblem of converting audience love into spectacle commerce."
 
-> ""I actually thought at that time that being thin made me better." — Oprah, reflecting on the 1988 Diet Dreams episode watched by ≈44 million people."
+> "I actually thought at that time that being thin made me better. — Oprah, reflecting on the 1988 Diet Dreams episode watched by ≈44 million people."
 
-> ""She always had to do a non-traditional thing to give herself a platform and a credential." — Ben Gilbert, on Oprah beating default white male picks at every career stage."
+> "She always had to do a non-traditional thing to give herself a platform and a credential. — Ben Gilbert, on Oprah beating default white male picks at every career stage."
 
 ---
 

@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""The most complex industry we have ever studied" — hosts on pharma dynamics."
+> "The most complex industry we have ever studied — hosts on pharma dynamics."
 
-> ""69% of revenue from Semaglutide or liraglutide" — Ben on GLP-1 mix."
+> "69% of revenue from Semaglutide or liraglutide — Ben on GLP-1 mix."
 
-> ""$120 billion endowment — 2x the Gates Foundation" — Novo Holdings scale."
+> "$120 billion endowment — 2x the Gates Foundation — Novo Holdings scale."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""That exact moment in the afternoon of May 11th, 1995 is the death of Sega" — David on Olaf Olafsson's $299 PlayStation price reveal after Kalinske's surprise Saturn launch, breaking the three-way console flywheel."
+> "That exact moment in the afternoon of May 11th, 1995 is the death of Sega — David on Olaf Olafsson's $299 PlayStation price reveal after Kalinske's surprise Saturn launch, breaking the three-way console flywheel."
 
-> ""The PlayStation basically killed Sega's arcade business and their console business" — Ben synthesizing how System 11 arcade cabinets put PlayStation silicon in arcades, collapsing Sega's ≈$7B arcade market toward ≈$2B."
+> "The PlayStation basically killed Sega's arcade business and their console business — Ben synthesizing how System 11 arcade cabinets put PlayStation silicon in arcades, collapsing Sega's ≈$7B arcade market toward ≈$2B."
 
-> ""I put Felix the Cat on the body of Mickey Mouse" — Sonic designer Naoto Ohshima on the character's thin IP origins, explaining nostalgia without Mario-grade extensibility."
+> "I put Felix the Cat on the body of Mickey Mouse — Sonic designer Naoto Ohshima on the character's thin IP origins, explaining nostalgia without Mario-grade extensibility."
 
 ---
 

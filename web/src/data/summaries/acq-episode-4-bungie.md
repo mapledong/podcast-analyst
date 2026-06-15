@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Steve Jobs called — he was not happy we took his Mac developer." — Ed Fries (paraphrased), on acquisition fallout."
+> "Steve Jobs called — he was not happy we took his Mac developer. — Ed Fries (paraphrased), on acquisition fallout."
 
-> ""We weren't buying a company — we were buying a launch title." — Hosts summarizing Xbox 2000 logic."
+> "We weren't buying a company — we were buying a launch title. — Hosts summarizing Xbox 2000 logic."
 
-> ""Halo sold the first Xbox the way Mario sold Nintendo." — David on attach-rate centrality."
+> "Halo sold the first Xbox the way Mario sold Nintendo. — David on attach-rate centrality."
 
 ---
 

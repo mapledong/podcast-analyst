@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Sonos is Switzerland for music services" — hosts on the 100+ integration strategy versus walled-garden speakers."
+> "Sonos is Switzerland for music services — hosts on the 100+ integration strategy versus walled-garden speakers."
 
-> ""Apple doesn't need to make money on HomePod" — David on why platform owners price hardware as a feature."
+> "Apple doesn't need to make money on HomePod — David on why platform owners price hardware as a feature."
 
-> ""They priced the IPO at $15 — below the range" — on banker caution entering a HomePod/Echo news cycle."
+> "They priced the IPO at $15 — below the range — on banker caution entering a HomePod/Echo news cycle."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""How did he do it? Banks fail. Financial firms often have spectacular blowups" — Ben opening the Chase Center interview frame."
+> "How did he do it? Banks fail. Financial firms often have spectacular blowups — Ben opening the Chase Center interview frame."
 
-> ""I invested half my net worth in this company" — Dimon on putting $60M into Bank One stock upon becoming CEO."
+> "I invested half my net worth in this company — Dimon on putting $60M into Bank One stock upon becoming CEO."
 
-> ""For every dollar that you make compared to your competitors, you get to keep 15 cents more of that dollar as profit" — Ben on JPMorgan's efficiency ratio advantage."
+> "For every dollar that you make compared to your competitors, you get to keep 15 cents more of that dollar as profit — Ben on JPMorgan's efficiency ratio advantage."
 
 ---
 

@@ -75,9 +75,9 @@
     }
   ],
   "golden_quotes": [
-    "\"Anthropic added in one month roughly what Palantir, Snowflake, and Databricks spent a decade building.\"",
-    "\"For AI, we are going to consume as much compute as we can; the limit is watts and wafers.\"",
-    "\"If I had to watch one thing to understand whether there is an AI bubble, it would be Taiwan Semi's capacity decisions.\""
+    "Anthropic added in one month roughly what Palantir, Snowflake, and Databricks spent a decade building.",
+    "For AI, we are going to consume as much compute as we can; the limit is watts and wafers.",
+    "If I had to watch one thing to understand whether there is an AI bubble, it would be Taiwan Semi's capacity decisions."
   ],
   "chronology": {
     "subject": "AI infrastructure and market cycles",

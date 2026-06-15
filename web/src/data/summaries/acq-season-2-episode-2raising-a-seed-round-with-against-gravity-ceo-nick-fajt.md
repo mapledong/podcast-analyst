@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""We raised when we had leverage — not when we were running out of money" — Fajt on seed process timing."
+> "We raised when we had leverage — not when we were running out of money — Fajt on seed process timing."
 
-> ""Build for the platforms that exist today, not the ones you hope exist tomorrow" — cross-platform VR strategy."
+> "Build for the platforms that exist today, not the ones you hope exist tomorrow — cross-platform VR strategy."
 
-> ""This is a community product — the game is just the excuse to hang out" — on Rec Room social design."
+> "This is a community product — the game is just the excuse to hang out — on Rec Room social design."
 
 ---
 

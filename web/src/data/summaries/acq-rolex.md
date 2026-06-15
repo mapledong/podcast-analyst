@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Rolex is 30% of the revenue in the entire Swiss watch industry" — Ben on Morgan Stanley/LuxeConsult estimates showing Rolex triples the nearest competitor."
+> "Rolex is 30% of the revenue in the entire Swiss watch industry — Ben on Morgan Stanley/LuxeConsult estimates showing Rolex triples the nearest competitor."
 
-> ""If you're a movement maker, you're like TSMC here" — David on why vertical integration of calibers is the performance moat, not case aesthetics."
+> "If you're a movement maker, you're like TSMC here — David on why vertical integration of calibers is the performance moat, not case aesthetics."
 
-> ""There are plausible scenarios all the way from $40 billion to $200 billion" — Ben on private valuation range for a company that will never trade publicly."
+> "There are plausible scenarios all the way from $40 billion to $200 billion — Ben on private valuation range for a company that will never trade publicly."
 
 ---
 

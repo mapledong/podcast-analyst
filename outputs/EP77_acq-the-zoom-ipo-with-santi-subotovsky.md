@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Your happiness is my happiness." — Eric Yuan LinkedIn philosophy cited by David."
+> "Your happiness is my happiness. — Eric Yuan LinkedIn philosophy cited by David."
 
-> ""The most successful IPO in the US of 2019." — David on Zoom's April 2019 debut."
+> "The most successful IPO in the US of 2019. — David on Zoom's April 2019 debut."
 
-> ""We did not dip into any of that $130 million to build the business." — Eric Yuan (capital-efficiency episode echo; Zoom similarly lean on VC spend)."
+> "We did not dip into any of that $130 million to build the business. — Eric Yuan (capital-efficiency episode echo; Zoom similarly lean on VC spend)."
 
 ---
 

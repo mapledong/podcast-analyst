@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""They have never lost a customer" — Ben and David on Epic's 47-year retention (one six-month exception)."
+> "They have never lost a customer — Ben and David on Epic's 47-year retention (one six-month exception)."
 
-> ""$70,000 of equity capital and $70,000 of bank debt" — total outside funding for a company doing ≈$5.7B revenue today."
+> "$70,000 of equity capital and $70,000 of bank debt — total outside funding for a company doing ≈$5.7B revenue today."
 
-> ""If somebody offered you shares in Epic at $100 billion, would you pay it?" — David's rubric; both hosts say yes for profit distributions."
+> "If somebody offered you shares in Epic at $100 billion, would you pay it? — David's rubric; both hosts say yes for profit distributions."
 
 ---
 

@@ -94,7 +94,7 @@
 
 ## Investment Ideas
 
-> **1. BABA** · 🟡 WATCH · ●○○ Low
+> **1. Alibaba (BABA)** · 🟡 WATCH · ●○○ Low
 >
 > Regulatory antitrust overhang plus multi-business conglomerate discount; CGB and commerce competition from PDD/Meituan persist — enforcement may cap self-preferencing but margins uncertain.
 
@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""When people used to refer to fast fashion, you'd look at Zara… five weeks after concept. Now we've shortened it to five days." — Ben summarizing SHEIN's cycle time (via Ying Lu)."
+> "When people used to refer to fast fashion, you'd look at Zara… five weeks after concept. Now we've shortened it to five days. — Ben summarizing SHEIN's cycle time (via Ying Lu)."
 
-> ""EVs are the new games for Chinese companies." — David, on capital flooding NIO, XPeng, Li Auto at Tesla-like multiples."
+> "EVs are the new games for Chinese companies. — David, on capital flooding NIO, XPeng, Li Auto at Tesla-like multiples."
 
-> ""Chinese entrepreneurs think we have lots of competencies… Let's do lots of things with that." — Ben, contrasting US single-wedge focus with Meituan-style expansion."
+> "Chinese entrepreneurs think we have lots of competencies… Let's do lots of things with that. — Ben, contrasting US single-wedge focus with Meituan-style expansion."
 
 ---
 

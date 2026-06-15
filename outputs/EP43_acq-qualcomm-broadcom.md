@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Largest tech acquisition of all time — $103 billion." — episode framing at recording."
+> "Largest tech acquisition of all time — $103 billion. — episode framing at recording."
 
-> ""Silicon is interesting again." — hosts on ML chip resurgence; Nvidia 10x in two years."
+> "Silicon is interesting again. — hosts on ML chip resurgence; Nvidia 10x in two years."
 
-> ""Capital intensity usually produces nightmares." — Sequoia lesson Ben puzzles over vs Graphcore $110M raise."
+> "Capital intensity usually produces nightmares. — Sequoia lesson Ben puzzles over vs Graphcore $110M raise."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""If you're not embarrassed by the first version, you've launched too late" — Reid Hoffman quote Rahul explicitly rejects for Superhuman's market."
+> "If you're not embarrassed by the first version, you've launched too late — Reid Hoffman quote Rahul explicitly rejects for Superhuman's market."
 
-> ""Very disappointed" — Sean Ellis PMF survey threshold Rahul adopted as scaling gate."
+> "Very disappointed — Sean Ellis PMF survey threshold Rahul adopted as scaling gate."
 
-> ""You can't build a big company on the back of somebody else's platform" — David on Rapportive/Gmail plugin limits."
+> "You can't build a big company on the back of somebody else's platform — David on Rapportive/Gmail plugin limits."
 
 ---
 

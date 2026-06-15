@@ -466,36 +466,5 @@ def _pad_sections(body: dict[str, Any], episode_id: str, locale: str) -> dict[st
 
 
 def apply_expansions(body: dict[str, Any], episode_id: str, locale: str) -> dict[str, Any]:
-    out = dict(body)
-    pack = PACKS.get(episode_id, {}).get(locale, {})
-    facts = list(out.get("important_facts") or [])
-    fact_append = pack.get("fact_append") or []
-    for i, extra in enumerate(fact_append):
-        if i < len(facts):
-            facts[i] = (facts[i].strip() + " " + extra).strip()
-    out["important_facts"] = facts
-
-    mm = dict(out.get("mental_model") or {})
-    if pack.get("mm_components"):
-        mm["components"] = ((mm.get("components") or "").strip() + " " + pack["mm_components"]).strip()
-    if pack.get("mm_application"):
-        mm["application"] = ((mm.get("application") or "").strip() + " " + pack["mm_application"]).strip()
-    out["mental_model"] = mm
-
-    insights = []
-    insight_append = pack.get("insight_append") or []
-    for i, item in enumerate(out.get("key_insights") or []):
-        row = dict(item)
-        if i < len(insight_append):
-            row["answer"] = (row.get("answer", "") + insight_append[i]).strip()
-        insights.append(row)
-    out["key_insights"] = insights
-
-    long_blocks = pack.get("long_insight_blocks") or []
-    if long_blocks and insights:
-        for i, block in enumerate(long_blocks):
-            if i < len(insights):
-                insights[i]["answer"] = (insights[i].get("answer", "") + " " + block).strip()
-
-    out["key_insights"] = insights
-    return _pad_sections(out, episode_id, locale)
+    """Return body unchanged — padding caused duplicate filler across sections."""
+    return dict(body)

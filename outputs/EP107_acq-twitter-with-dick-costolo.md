@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""If it were $500 million in Facebook stock back then, that would be $27 billion today" — David on the foregone Facebook acquisition offer for Twitter."
+> "If it were $500 million in Facebook stock back then, that would be $27 billion today — David on the foregone Facebook acquisition offer for Twitter."
 
-> ""On any given Sunday" — Ben reframing that once a consumer service hits escape velocity, competitors cannot match the same playing field."
+> "On any given Sunday — Ben reframing that once a consumer service hits escape velocity, competitors cannot match the same playing field."
 
-> ""Twitter is the only social platform that exposes bidirectional follows" — Ben on Twitter's unique graph visibility and its limits for ad targeting versus Facebook."
+> "Twitter is the only social platform that exposes bidirectional follows — Ben on Twitter's unique graph visibility and its limits for ad targeting versus Facebook."
 
 ---
 

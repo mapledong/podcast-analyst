@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""I love this company!" — Ballmer arena energy applied to Clippers."
+> "I love this company! — Ballmer arena energy applied to Clippers."
 
-> ""At least you're not as bad as the Clippers" — franchise as cultural punchline pre-2014."
+> "At least you're not as bad as the Clippers — franchise as cultural punchline pre-2014."
 
-> ""Six parking spaces in perpetuity" — Shelly Sterling deal terms ridiculed by hosts."
+> "Six parking spaces in perpetuity — Shelly Sterling deal terms ridiculed by hosts."
 
 ---
 

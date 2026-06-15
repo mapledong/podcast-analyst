@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Download YouTube audio and transcribe with faster-whisper (Chinese)."""
+"""Download YouTube audio and transcribe with faster-whisper (Chinese).
+
+Audio stays in data/audio_cache/ (gitignored). Do not commit or push mp3/m4a to GitHub.
+"""
 
 from __future__ import annotations
 

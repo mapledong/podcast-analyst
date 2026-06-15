@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""The American taxpayers pay Lockheed Martin around $50 billion a year" — Ben stating early that Lockheed is the federal government's largest contractor, full stop."
+> "The American taxpayers pay Lockheed Martin around $50 billion a year — Ben stating early that Lockheed is the federal government's largest contractor, full stop."
 
-> ""The night hawk flew 1% of the air missions in Desert Storm, but accounted for 40% of all damaged targets" — David on F-117 stealth impact validating Skunk Works' classified bet."
+> "The night hawk flew 1% of the air missions in Desert Storm, but accounted for 40% of all damaged targets — David on F-117 stealth impact validating Skunk Works' classified bet."
 
-> ""That guy can see the air" — Lockheed chief engineer Hall Hibbard on Kelly Johnson's intuitive aerodynamics genius."
+> "That guy can see the air — Lockheed chief engineer Hall Hibbard on Kelly Johnson's intuitive aerodynamics genius."
 
 ---
 

@@ -94,7 +94,7 @@
 
 ## Investment Ideas
 
-> **1. BABA** · 🟡 WATCH · ●●○ Medium
+> **1. Alibaba (BABA)** · 🟡 WATCH · ●●○ Medium
 >
 > Episode frames core marketplace + cloud economics pre-crackdown — monitor regulatory risk, VIE structure, and whether Singles Day ad revenue holds vs Pinduoduo/WeChat commerce shift.
 
@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Alipay wasn't a feature — it was the reason strangers could trade" — hosts on escrow trust layer."
+> "Alipay wasn't a feature — it was the reason strangers could trade — hosts on escrow trust layer."
 
-> ""Taobao was free — eBay couldn't match that without killing EachNet" — counter-positioning on listing fees."
+> "Taobao was free — eBay couldn't match that without killing EachNet — counter-positioning on listing fees."
 
-> ""Singles Day is the Super Bowl for Chinese merchants" — on 11/11 GMV festival economics."
+> "Singles Day is the Super Bowl for Chinese merchants — on 11/11 GMV festival economics."
 
 ---
 

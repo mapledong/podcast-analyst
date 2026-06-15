@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Bitcoin is a calculator, let's build a computer" — Vitalik's premise paraphrased."
+> "Bitcoin is a calculator, let's build a computer — Vitalik's premise paraphrased."
 
-> ""$150 million was 14% of all ether in existence" — DAO hack scale."
+> "$150 million was 14% of all ether in existence — DAO hack scale."
 
-> ""Roughly equivalent to a Raspberry Pi on home broadband" — 2021 throughput check."
+> "Roughly equivalent to a Raspberry Pi on home broadband — 2021 throughput check."
 
 ---
 

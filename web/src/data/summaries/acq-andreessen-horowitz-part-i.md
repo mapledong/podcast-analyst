@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""We ought to start a venture capital firm." / "I was thinking the same thing." — Ben Horowitz IM to Marc Andreessen, ≈2008."
+> "We ought to start a venture capital firm." / "I was thinking the same thing. — Ben Horowitz IM to Marc Andreessen, ≈2008."
 
-> ""When I got to the Valley in 1993/1994, I thought I had missed the whole thing." — Marc Andreessen on perpetual too-late feeling."
+> "When I got to the Valley in 1993/1994, I thought I had missed the whole thing. — Marc Andreessen on perpetual too-late feeling."
 
-> ""I guess we're not going to wait until the 5th to launch the strategy." — Ben email to Marc after premature strategy leak to press."
+> "I guess we're not going to wait until the 5th to launch the strategy. — Ben email to Marc after premature strategy leak to press."
 
 ---
 

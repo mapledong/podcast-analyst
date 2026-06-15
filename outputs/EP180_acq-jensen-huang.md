@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Otherwise, you might as well go home" — Jensen on committing fully once simulation validates a strategic bet like CUDA."
+> "Otherwise, you might as well go home — Jensen on committing fully once simulation validates a strategic bet like CUDA."
 
-> ""It's better to be approximately right than exactly wrong" — citing Buffett and Munger on Mellanox timing versus waiting for certainty."
+> "It's better to be approximately right than exactly wrong — citing Buffett and Munger on Mellanox timing versus waiting for certainty."
 
-> ""Zero-billion-dollar markets" — Jensen's phrase for investing in categories before revenue exists, if you believe the curve (AI, accelerated computing)."
+> "Zero-billion-dollar markets — Jensen's phrase for investing in categories before revenue exists, if you believe the curve (AI, accelerated computing)."
 
 ---
 

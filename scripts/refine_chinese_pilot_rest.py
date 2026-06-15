@@ -881,7 +881,7 @@ REFINED: dict[str, dict[str, dict[str, Any]]] = {
                 "subject": "Yongqing · Value Investing & Capital Cycles",
                 "events": [
                     {"date": "Graham era", "event": "PB-weighted value investing origins"},
-                    {"date": "2015–20", "event": "Yongqing builds Investment Practical School; quality value in A/H"},
+                    {"date": "2015–20", "event": "Yongqing builds Practical Investments; quality value in A/H"},
                     {"date": "2021", "event": "Consumer capital-cycle peak; mutual-fund herding"},
                     {"date": "2022–23", "event": "HK trough entries; mutual funds de-risk on drawdowns"},
                     {"date": "2025–26", "event": "AI infra vs IP consumer cycles diverge; framework applied"},

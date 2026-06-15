@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""If Google did not act, we faced a draconian future… one man, one company, one device" — Vic Gundotra at Google I/O 2010, quoted by David."
+> "If Google did not act, we faced a draconian future… one man, one company, one device — Vic Gundotra at Google I/O 2010, quoted by David."
 
-> ""Google's best deal ever" — David Lawee attribution on the acquisition."
+> "Google's best deal ever — David Lawee attribution on the acquisition."
 
-> ""Droid Does" — Verizon campaign paying Lucasfilm for every 'droid' mention."
+> "Droid Does — Verizon campaign paying Lucasfilm for every 'droid' mention."
 
 ---
 

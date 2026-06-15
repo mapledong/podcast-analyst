@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""We're about to do a four hour podcast on syrup, sugar, and water" — Ben opening on a ≈$300B company built from three ingredients."
+> "We're about to do a four hour podcast on syrup, sugar, and water — Ben opening on a ≈$300B company built from three ingredients."
 
-> ""99% of America could look at it and say that's a Coke bottle" — on the contour bottle's instant recognition achieved by the 1940s."
+> "99% of America could look at it and say that's a Coke bottle — on the contour bottle's instant recognition achieved by the 1940s."
 
-> ""Make Coca-Cola the most American thing in America" — Robert Woodruff's lieutenants on the brand's deliberate cultural positioning."
+> "Make Coca-Cola the most American thing in America — Robert Woodruff's lieutenants on the brand's deliberate cultural positioning."
 
 ---
 

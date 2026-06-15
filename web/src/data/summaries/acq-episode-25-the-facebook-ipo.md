@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Betting on HTML5 over native in mobile" — Zuckerberg at TechCrunch Disrupt 2012, cited as Facebook's biggest mistake."
+> "Betting on HTML5 over native in mobile — Zuckerberg at TechCrunch Disrupt 2012, cited as Facebook's biggest mistake."
 
-> ""Mobile is our future" — campus poster campaign during the post-IPO summer rebuild, per hosts."
+> "Mobile is our future — campus poster campaign during the post-IPO summer rebuild, per hosts."
 
-> ""A cultural touchstone" — Wikipedia's label for the Facebook IPO, quoted by Ben and David."
+> "A cultural touchstone — Wikipedia's label for the Facebook IPO, quoted by Ben and David."
 
 ---
 

@@ -231,7 +231,7 @@ Uses `scripts/overnight_bb_founders.py` (Cursor SDK) to write summaries for epis
 data/approved/**  outputs/**  web/src/data/**  config/episodes.yaml
 ```
 
-**Never** `data/audio_cache/` or `*.mp3` (also in `.gitignore`).
+**Never** push podcast audio: `data/audio_cache/`, `*.mp3`, `*.m4a`, or other audio formats (all in `.gitignore`). Download audio locally for Whisper only; publish summary JSON/markdown to GitHub Pages.
 
 Required secret: `CURSOR_API_KEY` (same as weekly update).
 

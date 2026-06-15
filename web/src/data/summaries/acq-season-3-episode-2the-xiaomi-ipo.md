@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Hardware net margin will never exceed 5%" — Lei Jun's public promise, central to the triathlon model."
+> "Hardware net margin will never exceed 5% — Lei Jun's public promise, central to the triathlon model."
 
-> ""They're not selling phones — they're shipping MIUI" — hosts reframing Xiaomi's core product."
+> "They're not selling phones — they're shipping MIUI — hosts reframing Xiaomi's core product."
 
-> ""The triathlon: hardware, internet services, and new retail" — Lei Jun's three-pillar strategy label."
+> "The triathlon: hardware, internet services, and new retail — Lei Jun's three-pillar strategy label."
 
 ---
 

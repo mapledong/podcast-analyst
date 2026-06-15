@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Testing out Bitcoin. Can someone send a couple of cents to this address?" — Kevin Rose, first Bitcoin tweet, June 2011."
+> "Testing out Bitcoin. Can someone send a couple of cents to this address? — Kevin Rose, first Bitcoin tweet, June 2011."
 
-> ""The people deepest in a thing becoming a thing aren't the people who get to name it." — Ben Gilbert on Web 2.0, no-code, and NFT labels."
+> "The people deepest in a thing becoming a thing aren't the people who get to name it. — Ben Gilbert on Web 2.0, no-code, and NFT labels."
 
-> ""Anytime there's a new paradigm… the earliest people… require a leap of faith… there's the most upside." — Kevin on believers vs. tourists."
+> "Anytime there's a new paradigm… the earliest people… require a leap of faith… there's the most upside. — Kevin on believers vs. tourists."
 
 ---
 

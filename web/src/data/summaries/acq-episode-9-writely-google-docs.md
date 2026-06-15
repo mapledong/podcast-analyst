@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""Google is an advertising company" — Ben on misaligned incentives vs Microsoft productivity focus."
+> "Google is an advertising company — Ben on misaligned incentives vs Microsoft productivity focus."
 
-> ""Focus, focus, focus" — David on the scarcest startup/big-co resource wasted on second-leg bets."
+> "Focus, focus, focus — David on the scarcest startup/big-co resource wasted on second-leg bets."
 
-> ""The wrong battleground" — hosts on fighting feature parity instead of cloud/platform economics."
+> "The wrong battleground — hosts on fighting feature parity instead of cloud/platform economics."
 
 ---
 

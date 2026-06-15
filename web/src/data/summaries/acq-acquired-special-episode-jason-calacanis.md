@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Most folks think I'm lucky. Some say I'm a complete fraud and a handful think I'm a brilliant hype man. I don't agree with any of them — I agree with all of them." — Jason Calacanis, quoted from his book."
+> "Most folks think I'm lucky. Some say I'm a complete fraud and a handful think I'm a brilliant hype man. I don't agree with any of them — I agree with all of them. — Jason Calacanis, quoted from his book."
 
-> ""When you're starting Silicon Alley Reporter, Weblogs — it's the same playbook: media as wedge into power and investing." — David Rosenthal, summarizing Jason's through-line."
+> "When you're starting Silicon Alley Reporter, Weblogs — it's the same playbook: media as wedge into power and investing. — David Rosenthal, summarizing Jason's through-line."
 
-> ""Consensus kills because you want the crazy stuff you can't predict." — Jason Calacanis, on early-stage investing vs poker asymmetric bets."
+> "Consensus kills because you want the crazy stuff you can't predict. — Jason Calacanis, on early-stage investing vs poker asymmetric bets."
 
 ---
 

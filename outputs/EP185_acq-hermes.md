@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""A company that won't sell you a handbag" — Ben on Birkin waitlist scarcity."
+> "A company that won't sell you a handbag — Ben on Birkin waitlist scarcity."
 
-> ""Raising prices 7% per year for the last 10 years" — David on Veblen discipline."
+> "Raising prices 7% per year for the last 10 years — David on Veblen discipline."
 
-> ""Bernard starts buying at below $10 billion" — Arnault's early Hermès stake."
+> "Bernard starts buying at below $10 billion — Arnault's early Hermès stake."
 
 ---
 

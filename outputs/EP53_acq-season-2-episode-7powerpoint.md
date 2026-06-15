@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""No, no, no, no, that's just a feature of Microsoft Word." — Bill Gates, before Jeff Raikes convinced him to buy Forethought."
+> "No, no, no, no, that's just a feature of Microsoft Word. — Bill Gates, before Jeff Raikes convinced him to buy Forethought."
 
-> ""Gaskins didn't build slides — he built the presentation job." — Ben on category creation."
+> "Gaskins didn't build slides — he built the presentation job. — Ben on category creation."
 
-> ""Fourteen million dollars for the way every executive communicates forever." — Hosts on acquisition ROI."
+> "Fourteen million dollars for the way every executive communicates forever. — Hosts on acquisition ROI."
 
 ---
 

@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""40% of all of Microsoft's revenue came from multi-year enterprise agreements" — David on FY2007 enterprise dominance."
+> "40% of all of Microsoft's revenue came from multi-year enterprise agreements — David on FY2007 enterprise dominance."
 
-> ""Would you want to pay $1 billion per percent of market share?" — Ben on $47B Yahoo bid math."
+> "Would you want to pay $1 billion per percent of market share? — Ben on $47B Yahoo bid math."
 
-> ""Microsoft was ordered to split up" — Ben on June 2000 Jackson remedy."
+> "Microsoft was ordered to split up — Ben on June 2000 Jackson remedy."
 
 ---
 

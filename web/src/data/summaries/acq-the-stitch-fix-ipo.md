@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Only $42 million raised to nearly $1 billion revenue." — host awe at capital efficiency."
+> "Only $42 million raised to nearly $1 billion revenue. — host awe at capital efficiency."
 
-> ""That has never happened in the history of my venture career." — Bill Gurley on Katrina's three-statement Excel at first meeting."
+> "That has never happened in the history of my venture career. — Bill Gurley on Katrina's three-statement Excel at first meeting."
 
-> ""Unfortunately the IPO was downsized — disconnect between momentum and public reception." — Ben on $15 pricing vs private hype."
+> "Unfortunately the IPO was downsized — disconnect between momentum and public reception. — Ben on $15 pricing vs private hype."
 
 ---
 

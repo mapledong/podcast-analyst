@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""This is the first unicorn to die." — Press reaction to Square's 2015 IPO pricing."
+> "This is the first unicorn to die. — Press reaction to Square's 2015 IPO pricing."
 
-> ""Either revenue had to grow, or spending had to shrink." — Barry McCarthy (different episode); here Jack on dual-CEO scrutiny."
+> "Either revenue had to grow, or spending had to shrink. — Barry McCarthy (different episode); here Jack on dual-CEO scrutiny."
 
-> ""Can you imagine the credit industry being invented today?" — Ben on 3% interchange accepted over cash."
+> "Can you imagine the credit industry being invented today? — Ben on 3% interchange accepted over cash."
 
 ---
 

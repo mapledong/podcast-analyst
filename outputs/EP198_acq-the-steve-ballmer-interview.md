@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Microsoft is the most valuable company in the world, almost $3.5 trillion — and it's an enterprise company, and that's largely thanks to you" — David opening the Ballmer interview frame."
+> "Microsoft is the most valuable company in the world, almost $3.5 trillion — and it's an enterprise company, and that's largely thanks to you — David opening the Ballmer interview frame."
 
-> ""The licensing of Microsoft DOS… is the single greatest business deal in history" — Ben on the IBM PC non-exclusive agreement that standardised DOS for clone makers."
+> "The licensing of Microsoft DOS… is the single greatest business deal in history — Ben on the IBM PC non-exclusive agreement that standardised DOS for clone makers."
 
-> ""Strategy follows structure" — Ballmer's weight-room metaphor for building enterprise muscle before IBM forced the divorce."
+> "Strategy follows structure — Ballmer's weight-room metaphor for building enterprise muscle before IBM forced the divorce."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""They tried to sell PageRank to Yahoo for $1 million and were rejected" — on the first of many Yahoo-Google near-misses."
+> "They tried to sell PageRank to Yahoo for $1 million and were rejected — on the first of many Yahoo-Google near-misses."
 
-> ""Jeff Bezos is in for $252,000" — matching Ram Shriram's $250K after asking what Ram was in for; stake potentially ≈$20B."
+> "Jeff Bezos is in for $252,000 — matching Ram Shriram's $250K after asking what Ram was in for; stake potentially ≈$20B."
 
-> ""Revenue grew from $86 million to $440 million in one year" — David on the 2002 AdWords transition that created Google's business model."
+> "Revenue grew from $86 million to $440 million in one year — David on the 2002 AdWords transition that created Google's business model."
 
 ---
 

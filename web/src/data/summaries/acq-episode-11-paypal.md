@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""PayPal was essentially an app built on top of eBay" — Peter Thiel framing cited by hosts on platform dependency."
+> "PayPal was essentially an app built on top of eBay — Peter Thiel framing cited by hosts on platform dependency."
 
-> ""You can't build a really big company on the back of somebody else's platform" — Silicon Valley aphorism both proved and broken by PayPal's arc."
+> "You can't build a really big company on the back of somebody else's platform — Silicon Valley aphorism both proved and broken by PayPal's arc."
 
-> ""Bodies buried all over the place" — Ben on failed PayPal-era payment startups that could not contain fraud."
+> "Bodies buried all over the place — Ben on failed PayPal-era payment startups that could not contain fraud."
 
 ---
 

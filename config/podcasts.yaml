@@ -35,7 +35,7 @@ podcasts:
 
   - id: zhang-xiaojun
     name: 张小珺商业访谈录
-    name_en: Zhang Xiaojun's Business Interviews
+    name_en: Zhang Xiaojun Podcast
     host: 张小珺
     host_en: Zhang Xiaojun
     description: 中国科技与商业深度访谈——AI、科技巨头与创始人一线对话，提炼为 PM 可读摘要。
@@ -48,7 +48,7 @@ podcasts:
 
   - id: touzi-shizhanpai
     name: 投资实战派
-    name_en: Investment Practical School
+    name_en: Practical Investments
     host: 永庆 & 大卫
     host_en: Yongqing & David
     description: 买方视角价值投资播客——顶流公司与产业专家实战复盘，提炼为 PM 可读摘要。

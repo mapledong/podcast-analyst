@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Podcasting is the new groceries." — Ben, opening the emergency Whole Foods episode."
+> "Podcasting is the new groceries. — Ben, opening the emergency Whole Foods episode."
 
-> ""Louis Borders who is the same Louis Borders who was cofounder and CEO of the Borders Bookstore." — David linking Webvan to books/retail history."
+> "Louis Borders who is the same Louis Borders who was cofounder and CEO of the Borders Bookstore. — David linking Webvan to books/retail history."
 
-> ""Boutique retail actually, the general valuation for that is around a quarter of your annual sales." — Ben on retail vs tech multiples."
+> "Boutique retail actually, the general valuation for that is around a quarter of your annual sales. — Ben on retail vs tech multiples."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Success has many fathers." — Alfred Lin on $1.2B stock deal attribution humor."
+> "Success has many fathers. — Alfred Lin on $1.2B stock deal attribution humor."
 
-> ""I get tingly when I see customer obsessed companies." — Jeff Bezos in employee video, cited by Alfred."
+> "I get tingly when I see customer obsessed companies. — Jeff Bezos in employee video, cited by Alfred."
 
-> ""Impressive, David. Every word of that sentence was wrong." — Alfred correcting Zappos founding myth (Nick Swinmurn, not Tony, started shoe site in 1999)."
+> "Impressive, David. Every word of that sentence was wrong. — Alfred correcting Zappos founding myth (Nick Swinmurn, not Tony, started shoe site in 1999)."
 
 ---
 

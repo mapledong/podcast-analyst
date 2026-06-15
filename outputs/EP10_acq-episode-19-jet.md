@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""At Amazon, I saw it didn't matter how you treated people… very short-term thinking" — Marc Lore, NYT, quoted by David."
+> "At Amazon, I saw it didn't matter how you treated people… very short-term thinking — Marc Lore, NYT, quoted by David."
 
-> ""There's this huge middle class… willing to trade off convenience… for price" — Lore starting Jet, per hosts."
+> "There's this huge middle class… willing to trade off convenience… for price — Lore starting Jet, per hosts."
 
-> ""Walmart is this generation's Sears" — Ben on demographic headwinds."
+> "Walmart is this generation's Sears — Ben on demographic headwinds."
 
 ---
 

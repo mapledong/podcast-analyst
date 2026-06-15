@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""If you start by saying growth at all costs, don't make any money, you're on a very specific path" — Ben on VC vs. indie optionality."
+> "If you start by saying growth at all costs, don't make any money, you're on a very specific path — Ben on VC vs. indie optionality."
 
-> ""Sell the things that have budgets" — Courtland's sales lesson: sell into existing line items, don't create budget from scratch."
+> "Sell the things that have budgets — Courtland's sales lesson: sell into existing line items, don't create budget from scratch."
 
-> ""With an Indie Hacker business, no, it's you" — David contrasting Stripe-Indie Hackers deals with Salesforce's $27.7B Slack acquisition."
+> "With an Indie Hacker business, no, it's you — David contrasting Stripe-Indie Hackers deals with Salesforce's $27.7B Slack acquisition."
 
 ---
 

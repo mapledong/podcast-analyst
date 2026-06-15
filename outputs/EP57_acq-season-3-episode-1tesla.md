@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""The most recent US automaker to reach success before Tesla was Ford and that was 111 years ago." — Ben on automotive startup rarity."
+> "The most recent US automaker to reach success before Tesla was Ford and that was 111 years ago. — Ben on automotive startup rarity."
 
-> ""You string the miracles together correctly and thread the needle exactly right and you get Tesla." — David on survival narrative."
+> "You string the miracles together correctly and thread the needle exactly right and you get Tesla. — David on survival narrative."
 
-> ""If they hit 500,000 this year, A plus." — Ben's forward-looking grade frame for 2018 delivery guidance."
+> "If they hit 500,000 this year, A plus. — Ben's forward-looking grade frame for 2018 delivery guidance."
 
 ---
 

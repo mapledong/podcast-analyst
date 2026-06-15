@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Why Acquired worked when 99% of podcasts do not" — Ben framing the meta-episode with Michael Lewis."
+> "Why Acquired worked when 99% of podcasts do not — Ben framing the meta-episode with Michael Lewis."
 
-> ""It would be profane for it to be anything other than the two of us" — David on Acquired's partnership structure."
+> "It would be profane for it to be anything other than the two of us — David on Acquired's partnership structure."
 
-> ""There's a secret hiding in plain sight like Costco" — Ben's framework for great episodes where listeners see gears turning after the show."
+> "There's a secret hiding in plain sight like Costco — Ben's framework for great episodes where listeners see gears turning after the show."
 
 ---
 

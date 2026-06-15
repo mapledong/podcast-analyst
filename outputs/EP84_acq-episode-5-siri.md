@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""You could spend all day selling strawberries or you could do one house call for the same amount." — Nolan on TV repair vs produce as a child entrepreneur."
+> "You could spend all day selling strawberries or you could do one house call for the same amount. — Nolan on TV repair vs produce as a child entrepreneur."
 
-> ""When you're already doing $30 million in sales." — David to Nolan on Sequoia investing into cash-flow-positive Atari."
+> "When you're already doing $30 million in sales. — David to Nolan on Sequoia investing into cash-flow-positive Atari."
 
-> ""The Atari logo… it's the A and the Pong paddles." — Ben on one of the most iconic brands in gaming history."
+> "The Atari logo… it's the A and the Pong paddles. — Ben on one of the most iconic brands in gaming history."
 
 ---
 

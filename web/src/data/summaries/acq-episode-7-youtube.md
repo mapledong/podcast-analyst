@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""We built Venmo because I forgot my wallet at a jazz show" — Kortina origin story."
+> "We built Venmo because I forgot my wallet at a jazz show — Kortina origin story."
 
-> ""PayPal bought the social graph it couldn't build" — hosts on ≈$800M Braintree acquisition logic."
+> "PayPal bought the social graph it couldn't build — hosts on ≈$800M Braintree acquisition logic."
 
-> ""Zelle is faster; Venmo is where your friends are" — on engagement versus settlement speed."
+> "Zelle is faster; Venmo is where your friends are — on engagement versus settlement speed."
 
 ---
 

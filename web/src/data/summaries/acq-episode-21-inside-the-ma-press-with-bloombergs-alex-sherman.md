@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""15 minutes is an eternity" — David on algorithmic trading reaction time vs publishing speed."
+> "15 minutes is an eternity — David on algorithmic trading reaction time vs publishing speed."
 
-> ""Your incentives are aligned with the truth" — David summarizing terminal subscriber model."
+> "Your incentives are aligned with the truth — David summarizing terminal subscriber model."
 
-> ""People, Ben. People. Not person." — Ben correcting dual-source Disney–Twitter reporting crediting Sherman."
+> "People, Ben. People. Not person. — Ben correcting dual-source Disney–Twitter reporting crediting Sherman."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Blockbuster made $800 million a year on late fees" — Hastings on the profit pool Netflix attacked."
+> "Blockbuster made $800 million a year on late fees — Hastings on the profit pool Netflix attacked."
 
-> ""They offered to buy us for $50 million — Blockbuster said no" — canonical incumbent rejection."
+> "They offered to buy us for $50 million — Blockbuster said no — canonical incumbent rejection."
 
-> ""Barry McCarthy is an Acquired superhero" — on CFO hire linking Netflix and Spotify episodes."
+> "Barry McCarthy is an Acquired superhero — on CFO hire linking Netflix and Spotify episodes."
 
 ---
 

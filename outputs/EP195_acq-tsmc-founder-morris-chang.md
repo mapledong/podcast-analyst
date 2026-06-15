@@ -106,11 +106,11 @@
 
 ## Golden Quotes
 
-> ""You never did a layoff" — Ben on Chang's 2009 return; rehired staff and settled NVIDIA ≈$100M without arbitration."
+> "You never did a layoff — Ben on Chang's 2009 return; rehired staff and settled NVIDIA ≈$100M without arbitration."
 
-> ""If you actually are good at all of this… the story of TSMC goes from surprising to an inevitability" — Ben on learning-curve mastery."
+> "If you actually are good at all of this… the story of TSMC goes from surprising to an inevitability — Ben on learning-curve mastery."
 
-> ""Semiconductor market grew from $26 billion to $527 billion" — tailwind since TSMC's 1987 founding."
+> "Semiconductor market grew from $26 billion to $527 billion — tailwind since TSMC's 1987 founding."
 
 ---
 

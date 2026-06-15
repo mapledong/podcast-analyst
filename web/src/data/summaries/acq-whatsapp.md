@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""It fails horribly." — Jan Koum, on first WhatsApp away-status launch before messaging pivot."
+> "It fails horribly. — Jan Koum, on first WhatsApp away-status launch before messaging pivot."
 
-> ""I sold my users' privacy to a larger benefit. I made a choice and a compromise and I live with that every day." — Brian Acton, Forbes interview after leaving Facebook."
+> "I sold my users' privacy to a larger benefit. I made a choice and a compromise and I live with that every day. — Brian Acton, Forbes interview after leaving Facebook."
 
-> ""It is time. #deletefacebook" — Brian Acton tweet, March 20, 2018, during Cambridge Analytica scandal."
+> "It is time. #deletefacebook — Brian Acton tweet, March 20, 2018, during Cambridge Analytica scandal."
 
 ---
 

@@ -102,11 +102,11 @@
 
 ## Golden Quotes
 
-> ""Gas fees were $50–$60… brutal. That's close to an all-time high." — David Rosenthal framing why Solana exists alongside Ethereum."
+> "Gas fees were $50–$60… brutal. That's close to an all-time high. — David Rosenthal framing why Solana exists alongside Ethereum."
 
-> ""You turned propagating the ledger from a real-time game to a turn-based game… you're on the clock. It's like chess." — Ben Gilbert summarizing Proof of History."
+> "You turned propagating the ledger from a real-time game to a turn-based game… you're on the clock. It's like chess. — Ben Gilbert summarizing Proof of History."
 
-> ""Solana is already past the point where you would never need anything more out of a network of humans." — David on Visa-scale TPS vs. human activity limits."
+> "Solana is already past the point where you would never need anything more out of a network of humans. — David on Visa-scale TPS vs. human activity limits."
 
 ---
 

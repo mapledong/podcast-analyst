@@ -108,6 +108,7 @@ If the queue is empty, print stats and exit successfully.
 3. Run `python scripts/publish_approved_batch.py {{episode_id}}`
 4. Validate with `src/validate.py`; fix until pass.
 5. US ticker symbols for public companies; no meta-phrasing.
+6. Analyst prose only: no "He states:", "He also gives a concrete magnitude:", or incomplete transcript fragments; weave numbers into complete sentences.
 
 ## Do NOT
 - Download mp3 or touch `data/audio_cache/`
