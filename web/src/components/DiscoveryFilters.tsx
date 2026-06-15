@@ -43,8 +43,9 @@ export default function DiscoveryFilters({
       {topCompanies.length > 0 && (
         <div className="discovery-section">
           <h3 className="discovery-label">Companies</h3>
-          <div className="filter-chips filter-chips--inline">
-            {topCompanies.map((term) => (
+          <div className="filter-chips-scroll">
+            <div className="filter-chips filter-chips--inline">
+              {topCompanies.map((term) => (
               <button
                 key={term.label}
                 type="button"
@@ -55,6 +56,7 @@ export default function DiscoveryFilters({
                 <span className="chip-count">{term.count}</span>
               </button>
             ))}
+            </div>
           </div>
         </div>
       )}

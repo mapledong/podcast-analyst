@@ -69,9 +69,11 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: 100%;
   max-width: calc(var(--max) + 3rem);
   margin: 0 auto;
-  padding-right: 1rem;
+  padding-right: max(1rem, env(safe-area-inset-right));
+  padding-left: env(safe-area-inset-left);
 }
 
 [data-theme="dark"] .site-header {
@@ -114,11 +116,16 @@ img {
   max-width: var(--max);
   margin: 0 auto;
   padding: 2rem 1.5rem 4rem;
+  padding-left: max(1.5rem, env(safe-area-inset-left));
+  padding-right: max(1.5rem, env(safe-area-inset-right));
 }
 
 .site-footer {
   border-top: 1px solid var(--border);
   padding: 1.25rem 1.5rem;
+  padding-bottom: max(1.25rem, env(safe-area-inset-bottom));
+  padding-left: max(1.5rem, env(safe-area-inset-left));
+  padding-right: max(1.5rem, env(safe-area-inset-right));
   text-align: center;
 }
 
@@ -668,12 +675,12 @@ img {
 
 .locale-btn:hover {
   color: var(--text);
-  background: var(--surface-elevated);
+  background: var(--bg-elevated);
 }
 
 .locale-btn.active {
   color: var(--accent, var(--text));
-  background: var(--surface-elevated);
+  background: var(--bg-elevated);
 }
 
 .episode-header h1 {
@@ -1026,6 +1033,33 @@ img {
   margin-bottom: 0;
 }
 
+.filter-chips-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  margin: 0 calc(-1 * max(1rem, env(safe-area-inset-left)));
+  padding: 0.15rem max(1rem, env(safe-area-inset-left)) 0.35rem;
+}
+
+.filter-chips-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.filter-chips-scroll .filter-chips--inline {
+  flex-wrap: nowrap;
+  width: max-content;
+  max-width: none;
+  padding-right: 0.5rem;
+}
+
+.chip,
+.theme-toggle,
+.locale-btn,
+.text-button,
+.search-input {
+  touch-action: manipulation;
+}
+
 .chip {
   font: inherit;
   font-size: 0.78rem;
@@ -1257,17 +1291,101 @@ img {
     --space-block: 1.25rem;
   }
 
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  .site-header {
+    max-width: none;
+    margin: 0;
+    padding-top: env(safe-area-inset-top);
+  }
+
+  .brand {
+    padding: 0.85rem 0 0.85rem max(1rem, env(safe-area-inset-left));
+    min-width: 0;
+  }
+
+  .brand strong {
+    font-size: 0.875rem;
+  }
+
+  .brand small {
+    font-size: 0.7rem;
+  }
+
+  .theme-toggle {
+    width: 2.75rem;
+    height: 2.75rem;
+    margin-right: 0.25rem;
+    flex-shrink: 0;
+  }
+
   .site-main {
     padding: 1.25rem 1rem 3rem;
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
+
+  .hero h1 {
+    font-size: clamp(1.65rem, 7vw, 2rem);
+    line-height: 1.12;
+  }
+
+  .hero-lede {
+    font-size: 1rem;
+    line-height: 1.55;
   }
 
   .home-page .global-search {
     gap: var(--space-block);
   }
 
+  .search-input {
+    font-size: 16px;
+    min-height: 44px;
+    padding: 0.7rem 1rem;
+    width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+  }
+
+  .search-input--wide {
+    width: 100%;
+  }
+
+  .chip {
+    min-height: 40px;
+    padding: 0.5rem 0.9rem;
+    flex-shrink: 0;
+  }
+
+  .locale-btn {
+    min-height: 36px;
+    padding: 0.4rem 0.75rem;
+    font-size: 0.8rem;
+  }
+
+  .list-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.75rem;
+  }
+
+  .list-toolbar .search-input {
+    width: 100%;
+  }
+
   .home-page .podcast-grid {
     margin-top: calc(var(--space-section) - 0.25rem);
     padding-top: calc(var(--space-block) - 0.25rem);
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .podcast-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
   }
 
   .podcast-header {
@@ -1284,11 +1402,146 @@ img {
     margin-right: auto;
   }
 
+  .episode-header {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.25rem;
+  }
+
+  .episode-header-meta {
+    flex-wrap: wrap;
+    gap: 0.65rem 0.85rem;
+  }
+
+  .locale-toggle {
+    margin-left: auto;
+  }
+
+  .episode-header h1 {
+    font-size: clamp(1.5rem, 6vw, 1.85rem);
+    line-height: 1.15;
+  }
+
+  .episode-subtitle {
+    font-size: 1rem;
+    line-height: 1.45;
+  }
+
+  .episode-header-stats {
+    gap: 0.5rem 1rem;
+    font-size: 0.8rem;
+  }
+
   .summary-panel {
     padding: 1.25rem 1rem;
+    border-radius: var(--radius);
+  }
+
+  .summary-prose {
+    font-size: 0.975rem;
+    line-height: 1.62;
   }
 
   .episode-grid {
     grid-template-columns: 1fr;
+  }
+
+  .episode-card {
+    padding: 1rem;
+  }
+
+  .episode-card-meta {
+    gap: 0.35rem 0.75rem;
+    font-size: 0.75rem;
+  }
+
+  .search-result-row {
+    grid-template-columns: 48px 1fr;
+    gap: 0.75rem;
+    padding: 0.85rem 1rem;
+  }
+
+  .search-result-cover {
+    width: 48px;
+    height: 48px;
+  }
+
+  .search-result-body h3 {
+    font-size: 1rem;
+    line-height: 1.3;
+  }
+
+  .search-result-top {
+    flex-wrap: wrap;
+    gap: 0.35rem;
+  }
+
+  .breadcrumbs {
+    font-size: 0.8rem;
+    overflow-x: auto;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 0.15rem;
+  }
+
+  .breadcrumbs::-webkit-scrollbar {
+    display: none;
+  }
+
+  .text-button {
+    min-height: 44px;
+    padding: 0.35rem 0.5rem;
+    margin: -0.35rem -0.5rem;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 1023px) {
+  .site-main {
+    padding: 1.75rem 1.5rem 3.5rem;
+  }
+
+  .podcast-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .episode-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .discovery-filters {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem 1.5rem;
+  }
+
+  .discovery-section:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+  }
+
+  .list-toolbar {
+    gap: 0.75rem 1.25rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .discovery-filters {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 1.5rem 2.5rem;
+    align-items: start;
+  }
+}
+
+@media (hover: none) {
+  .podcast-card:hover,
+  .episode-card:hover,
+  .search-result-row:hover {
+    transform: none;
+  }
+
+  .podcast-card:active,
+  .episode-card:active,
+  .search-result-row:active {
+    opacity: 0.92;
   }
 }
