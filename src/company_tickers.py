@@ -35,7 +35,8 @@ def load_company_tickers(config_path: Path | None = None) -> dict[str, Any]:
         str(k).strip().upper(): str(v).strip()
         for k, v in (data.get("ticker_aliases") or {}).items()
     }
-    return {"aliases": aliases, "ticker_aliases": ticker_aliases}
+    china_listings = data.get("china_listings") or {}
+    return {"aliases": aliases, "ticker_aliases": ticker_aliases, "china_listings": china_listings}
 
 
 def _resolve_ticker_alias(ticker: str, ticker_aliases: dict[str, str]) -> str:
@@ -159,3 +160,26 @@ def validate_keyword_tickers(
                 )
             )
     return warnings
+
+
+def format_investment_ticker(ticker: str, *, locale: str = "en", config_path: Path | None = None) -> str:
+    """Format tickers for display; China/HK/A-share names show as 公司（TICKER）."""
+    raw = str(ticker or "").strip()
+    if not raw:
+        return raw
+    if raw.lower().startswith("private:"):
+        label = raw.split(":", 1)[1].strip()
+        return label
+    if raw.startswith("Basket:"):
+        return raw
+
+    symbol = raw.split()[0]
+    cfg = load_company_tickers(config_path)
+    listings: dict[str, Any] = cfg.get("china_listings") or {}
+    entry = listings.get(symbol) or listings.get(symbol.upper())
+    if isinstance(entry, dict):
+        name = entry.get("zh" if locale == "zh" else "en") or entry.get("en") or symbol
+        if locale == "zh":
+            return f"{name}（{symbol}）"
+        return f"{name} ({symbol})"
+    return raw

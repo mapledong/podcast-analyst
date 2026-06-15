@@ -8,6 +8,7 @@ from typing import Any
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+from src.company_tickers import format_investment_ticker
 from src.display_titles import display_fields_from_summary
 
 
@@ -33,6 +34,17 @@ def format_date(date_str: str) -> str:
 
     try:
         return datetime.strptime(date_str[:10], "%Y-%m-%d").strftime("%b %-d, %Y")
+    except ValueError:
+        return date_str
+
+
+def format_date_zh(date_str: str) -> str:
+    """2026-06-09 → 2026年6月9日"""
+    from datetime import datetime
+
+    try:
+        dt = datetime.strptime(date_str[:10], "%Y-%m-%d")
+        return f"{dt.year}年{dt.month}月{dt.day}日"
     except ValueError:
         return date_str
 
@@ -72,10 +84,24 @@ def estimate_reading_time(data: dict[str, Any], wpm: int = 200) -> int:
     return max(1, round(len(_body_text(data).split()) / wpm))
 
 
+def _cjk_char_count(text: str) -> int:
+    return len(re.findall(r"[\u4e00-\u9fff]", text))
+
+
+def estimate_reading_time_zh(data: dict[str, Any], cpm: int = 350) -> int:
+    """Chinese summaries: ~350 characters/min for comparable read time."""
+    body = _body_text(data)
+    cjk = _cjk_char_count(body)
+    latin_words = len(re.sub(r"[\u4e00-\u9fff]", " ", body).split())
+    return max(1, round((cjk + latin_words * 2) / cpm))
+
+
 def render_summary(
     data: dict[str, Any],
     templates_dir: Path,
     template_cfg: dict[str, Any] | None = None,
+    *,
+    locale: str = "en",
 ) -> str:
     env = Environment(
         loader=FileSystemLoader(str(templates_dir)),
@@ -87,14 +113,21 @@ def render_summary(
     env.filters["confidence_bar"] = confidence_bar
     env.filters["star_rating"] = star_rating
     env.filters["format_date"] = format_date
+    env.filters["format_date_zh"] = format_date_zh
     env.filters["md_safe"] = md_safe
+    env.filters["format_ticker"] = lambda t: format_investment_ticker(t, locale=locale)
+
+    reading_time = (
+        estimate_reading_time_zh(data) if locale == "zh" else estimate_reading_time(data)
+    )
+    template_name = "summary.zh.md.j2" if locale == "zh" else "summary.md.j2"
 
     ctx = {
         **data,
         **display_fields_from_summary(data),
-        "reading_time_min": estimate_reading_time(data),
+        "reading_time_min": reading_time,
     }
-    rendered = env.get_template("summary.md.j2").render(**ctx)
+    rendered = env.get_template(template_name).render(**ctx)
     return fix_approx_tildes(rendered)
 
 

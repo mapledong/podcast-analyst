@@ -1,25 +1,52 @@
 import type { CSSProperties } from "react";
-import { useEffect, useState } from "react";
-import { Link, useParams } from "react-router-dom";
+import { useEffect, useMemo, useState } from "react";
+import { Link, useParams, useSearchParams } from "react-router-dom";
 import Breadcrumbs from "../components/Breadcrumbs";
 import MarkdownSummary from "../components/MarkdownSummary";
 import StarRating from "../components/StarRating";
-import { formatDate, getEpisode, getPodcast, loadSummaryMarkdown } from "../lib/catalog";
+import {
+  formatDate,
+  getEpisode,
+  getPodcast,
+  loadSummaryMarkdown,
+  type SummaryLocale,
+} from "../lib/catalog";
 import { episodeHeadline, episodeSubtitle } from "../lib/displayTitles";
 
 export default function EpisodePage() {
   const { podcastId = "", episodeId = "" } = useParams();
+  const [searchParams, setSearchParams] = useSearchParams();
   const podcast = getPodcast(podcastId);
   const episode = getEpisode(podcastId, episodeId);
   const [markdown, setMarkdown] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
 
+  const locales = episode?.availableLocales ?? ["en"];
+  const defaultLocale: SummaryLocale = "en";
+  const requested = searchParams.get("lang") as SummaryLocale | null;
+  const locale: SummaryLocale =
+    requested && locales.includes(requested) ? requested : defaultLocale;
+
+  const summaryFile = useMemo(() => {
+    if (!episode) return "";
+    return locale === "zh" && episode.summaryFileZh ? episode.summaryFileZh : episode.summaryFile;
+  }, [episode, locale]);
+
   useEffect(() => {
-    if (!episode) return;
-    loadSummaryMarkdown(episode.summaryFile)
+    if (!episode || !summaryFile) return;
+    setMarkdown(null);
+    setError(null);
+    loadSummaryMarkdown(summaryFile, locale)
       .then(setMarkdown)
       .catch(() => setError("Could not load summary."));
-  }, [episode]);
+  }, [episode, summaryFile, locale]);
+
+  function setLocale(next: SummaryLocale) {
+    const params = new URLSearchParams(searchParams);
+    if (next === defaultLocale) params.delete("lang");
+    else params.set("lang", next);
+    setSearchParams(params, { replace: true });
+  }
 
   if (!podcast || !episode) {
     return (
@@ -52,6 +79,28 @@ export default function EpisodePage() {
             <span className="episode-rating-wrap">
               <StarRating rating={episode.rating} />
               <span className="rating-label">{episode.rating}/5</span>
+            </span>
+          )}
+          {locales.length > 1 && (
+            <span className="locale-toggle" role="group" aria-label="Summary language">
+              {locales.includes("en") && (
+                <button
+                  type="button"
+                  className={locale === "en" ? "locale-btn active" : "locale-btn"}
+                  onClick={() => setLocale("en")}
+                >
+                  EN
+                </button>
+              )}
+              {locales.includes("zh") && (
+                <button
+                  type="button"
+                  className={locale === "zh" ? "locale-btn active" : "locale-btn"}
+                  onClick={() => setLocale("zh")}
+                >
+                  中文
+                </button>
+              )}
             </span>
           )}
         </div>

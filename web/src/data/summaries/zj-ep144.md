@@ -1,0 +1,118 @@
+# EP.144 — Yang Meng
+
+## *Founder & CEO, Anker Innovations*
+
+**★★★★★** · 5/5
+
+**Podcast** Zhang Xiaojun's Business Interviews · **Date** Jun 8, 2026 · **Duration** 218 min · **Read** ≈8 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Yang Meng · Founder & CEO, Anker Innovations
+
+**Listen** [YouTube](https://www.youtube.com/watch?v=kBsqirnWTpI) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** 300866.SZ · Shallow-Sea Strategy · AI Organization
+> ### Conclusion
+>
+> Yang's framework: Anker at RMB 60B+ market cap plays shallow sea (categories under ≈$500B TAM — power banks ≈$5B, earphones ≈$200–300B) vs deep sea (phones ≈$500B, PCs ≈$200B). +1.1–1.5pt annual gross margin lift is the compounding engine. Billion-token context can 'read' a whole company. Founded 2011, Google Founders Award. For investors: 300866.SZ on ROIC, margins, Amazon mix. Yang founded Anker in 2011 and won a Google Founders Award. Market cap exceeds sixty billion RMB at six hundred yi plus. Shallow sea targets categories under roughly five hundred billion dollars TAM.
+
+---
+
+## Background
+
+> In a three-hour talk Yang retraces Anker since founding in 2011 (Google Founders Award) to RMB 60B+ cap. Shallow-sea strategy targets categories under ≈$500B TAM — power banks ≈$5B, earphones ≈$200–300B — avoiding deep sea like phones (≈$500B) and PCs (≈$200B) where giants deploy full resources. Gross margin rises ≈1.1–1.5 points per year historically. By 2025–26 AI penetrates product and knowledge work; context windows toward a billion tokens could ingest filings, supply chain, and reviews to understand a firm. Yang founded Anker in 2011 and won a Google Founders Award. Market cap exceeds sixty billion RMB at six hundred yi plus. Shallow sea targets categories under roughly five hundred billion dollars TAM. Power bank TAM is about five billion dollars; earphones two hundred to three hundred billion. Deep sea phones are five hundred billion dollars; PCs two hundred billion. Anker avoids deep sea red oceans with full giant resource deployment. Gross margin rises roughly one point one to one point five per year historically. Margin expansion proves pricing power better than volatile revenue growth. Billion-token context can ingest filings supply chain reviews and patents. AI lowers cost of understanding a company but raises judgment premium. Amazon channel concentration remains a structural margin risk factor.
+
+---
+
+## Key Facts
+
+> **F1** Anker's market cap exceeds RMB 60B; Yang founded in 2011 and won a Google Founders Award early on. Category choice beats raw scale: shallow-sea targets often sit below ≈$500B TAM — power banks ≈$5B, earphones ≈$200–300B — big enough for a leader, small enough that not every giant shows up. At RMB 60B+ cap, shallow-sea discipline must repeat in each adjacent category — investors should score new launches on time-to-category-leader and gross-margin contribution, not hype. Deep sea means phones (≈$500B) and PCs (≈$200B) red oceans Anker avoids. Shallow sea = open competition, clear pain points, product/design can win #1. Gross margin historically lifts ≈1.1–1.5 points per year via brand, supply chain, and SKU mix. Deep-sea avoidance (phones ≈$500B, PCs ≈$200B) is strategic capital allocation —
+
+> **F2** it prevents head-on wars with Apple and PC OEMs while earphones ≈$200–300B and power banks ≈$5B offer leader economics. Yang describes AI org change: internal knowledge, feedback, and competitive intel unified in LLM workflows; context toward a billion tokens collapses the cost of understanding a company. Anker is already experimenting — leading AI adopters in consumer brands may gain decision-speed edge. Billion-token research lowers internal diligence cost — watch whether faster decisions show up in SKU velocity, lower SG&A ratio, and sustained +1.1–1.5pt margin lifts. Yang founded Anker in 2011 and won a Google Founders Award. Market cap exceeds sixty billion RMB at six hundred yi plus. Shallow sea targets categories under roughly five hundred billion dollars TAM. Power bank TAM is about five billion
+
+> **F3** dollars; earphones two hundred to three hundred billion. Deep sea phones are five hundred billion dollars; PCs two hundred billion. Anker avoids deep sea red oceans with full giant resource deployment. Gross margin rises roughly one point one to one point five per year historically. Margin expansion proves pricing power better than volatile revenue growth. Billion-token context can ingest filings supply chain reviews and patents. AI lowers cost of understanding a company but raises judgment premium. Amazon channel concentration remains a structural margin risk factor. Track new category ROIC and time-to-category-leader for adjacent expansion. Shallow sea strategy must repeat discipline at RMB sixty billion plus scale. SG&A efficiency and SKU velocity should reflect AI org experiments. Investors respect sustained margin trajectory over single-quarter revenue spikes.
+
+
+---
+
+## Mental Model · *Shallow-Sea Category × Gross-Margin Compounding × Billion-Token Research*
+
+> **Components**
+>
+> Pick markets: moderate TAM (<≈$500B), open structure, product can win #1. Run org: billion-token context turns docs into queryable knowledge. Read financials: +1.1–1.5pt annual gross margin proves brand moat more than volatile revenue. Deep sea (phones $500B, PCs $200B) for giants; shallow sea (power banks $5B, earphones $200–300B) breeds leaders. Shallow sea is repeatable if ROIC per category stays high; deep sea is a deliberate no-fly zone. Google Founders Award lineage underscores product-led DNA, not commodity scaling. Yang founded Anker in 2011 and won a Google Founders Award. Market cap exceeds sixty billion RMB at six hundred yi plus. Shallow sea targets categories under roughly five hundred billion dollars TAM. Power bank TAM is about five billion dollars; earphones two hundred to three hundred billion. Deep sea phones are five hundred billion dollars; PCs two hundred billion. Anker avoids deep sea red oceans with full giant resource deployment. Gross margin rises roughly one point one to one point five per year historically. Margin expansion proves pricing power better than volatile revenue growth. Billion-token context can ingest filings supply chain reviews and patents. AI lowers cost of understanding a company but raises judgment premium. Amazon channel concentration remains a structural margin risk factor.
+>
+> **Application**
+>
+> Investing lens: (1) 300866.SZ on new-category ROIC and margin trajectory; (2) shallow-sea vs Amazon dependence — track channel mix; (3) AI decision gains should show in SKU cycles and SG&A. At RMB 60B+ cap, execution is proven — next chapter is adjacent category hit rate. 300866.SZ: overweight margin trajectory and category ROIC; underweight single-channel revenue spikes. AMZN risk is structural — ads and policy shifts can offset shallow-sea wins. AI org gains must evidence in operating metrics within 2–3 years, not slide decks. Yang founded Anker in 2011 and won a Google Founders Award. Market cap exceeds sixty billion RMB at six hundred yi plus. Shallow sea targets categories under roughly five hundred billion dollars TAM. Power bank TAM is about five billion dollars; earphones two hundred to three hundred billion. Deep sea phones are five hundred billion dollars; PCs two hundred billion. Anker avoids deep sea red oceans with full giant resource deployment. Gross margin rises roughly one point one to one point five per year historically. Margin expansion proves pricing power better than volatile revenue growth. Billion-token context can ingest filings supply chain reviews and patents. AI lowers cost of understanding a company but raises judgment premium. Amazon channel concentration remains a structural margin risk factor.
+
+---
+
+
+## Key Insights
+
+> **1.** Great businesses hide in markets that aren't mega-sized — ≈$500B TAM is a mental ceiling.
+>
+> **Q** Why not attack phones and PCs directly?
+>
+> **A** Phones ≈$500B and PCs ≈$200B deep sea attract full giant resources; power banks ≈$5B and earphones ≈$200–300B shallow seas allow #1 in 2–3 years then adjacent moves. Brand and product execution, not pure low price. Category size ceiling ≈$500B TAM keeps giants partially absent — core to reinvestment runway. Yang founded Anker in 2011 and won a Google Founders Award. Market cap exceeds sixty billion RMB at six hundred yi plus. Shallow sea targets categories under roughly five hundred billion dollars TAM. Power bank TAM is about five billion dollars; earphones two hundred to three hundred billion. Deep sea phones are five hundred billion dollars; PCs two hundred billion. Anker avoids deep sea red oceans with full giant resource deployment. Gross margin rises roughly one point one to one point five per year historically.
+
+> **2.** Billion-token context may rewrite company-understanding economics.
+>
+> **Q** What does that mean for investors?
+>
+> **A** If models ingest filings, supply chain, reviews, and patents, research marginal cost falls — alpha shifts to questions and judgment. Yang hints Anker experiments internally; margin trajectory and SKU velocity should reflect AI-led decision speed. Billion-token context shifts research from data gathering to judgment — ask better questions. Yang founded Anker in 2011 and won a Google Founders Award. Market cap exceeds sixty billion RMB at six hundred yi plus. Shallow sea targets categories under roughly five hundred billion dollars TAM. Power bank TAM is about five billion dollars; earphones two hundred to three hundred billion. Deep sea phones are five hundred billion dollars; PCs two hundred billion. Anker avoids deep sea red oceans with full giant resource deployment. Gross margin rises roughly one point one to one point five per year historically.
+
+> **3.** +1.1–1.5pt/year gross margin is Anker's most respect-worthy metric.
+>
+> **Q** How validate shallow-sea strategy?
+>
+> **A** Revenue wobbles; sustained gross-margin expansion proves pricing power. Flattening margins or SG&A spikes may signal shallow-sea exhaustion or sprawl. At RMB 60B+ cap, margin path beats single-quarter revenue. Margin +1.1–1.5pt/year is the falsifiable test of shallow-sea execution at scale. Yang founded Anker in 2011 and won a Google Founders Award. Market cap exceeds sixty billion RMB at six hundred yi plus. Shallow sea targets categories under roughly five hundred billion dollars TAM. Power bank TAM is about five billion dollars; earphones two hundred to three hundred billion. Deep sea phones are five hundred billion dollars; PCs two hundred billion. Anker avoids deep sea red oceans with full giant resource deployment. Gross margin rises roughly one point one to one point five per year historically. Margin expansion proves pricing power better than volatile revenue growth.
+
+---
+
+## Investment Ideas
+
+> **1. Anker Innovations (300866.SZ)** · 🟢 LONG · ●●○ Medium
+>
+> Category expansion + brand premium + ≈1.1–1.5pt annual gross margin at RMB 60B+ cap; track new category hit rate and Amazon concentration
+
+> **2. AMZN** · 🔴 SHORT · ●●○ Medium
+>
+> Anker remains Amazon-native; platform policy, ad costs, and private-label competition directly affect 300866 margins despite shallow-sea wins
+
+---
+
+## Golden Quotes
+
+> "We like markets often under fifty billion dollars — big enough to breed a leader, small enough that not every giant shows up."
+
+> "After AI, understanding a company may take a billion tokens of context — that changes every management decision."
+
+> "One point of gross margin a year sounds small; compounded over ten years it's a different company."
+
+---
+
+## Chronology
+
+> *Yang Meng · Anker & Shallow-Sea Strategy*
+>
+> **2011** Yang founds Anker; Google Founders Award
+>
+> **2016–20** Multi-category expansion; shallow-sea strategy crystallizes
+>
+> **2020** Anker Innovations lists on Shenzhen exchange (300866.SZ)
+>
+> **2021–25** Gross margin +1.1–1.5pt/year; market cap crosses RMB 60B
+>
+> **2025–26** AI org transformation and billion-token research frame emerge
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun's Business Interviews, Zhang Xiaojun, or Yang Meng. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=kBsqirnWTpI) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

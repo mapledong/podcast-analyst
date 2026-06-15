@@ -1,0 +1,118 @@
+# EP.140 — Yao Shunyu
+
+## *Let Me Go a Little Crazy: Training at Anthropic & Gemini, Heroism Is Over*
+
+**★★★★★** · 5/5
+
+**Podcast** Zhang Xiaojun's Business Interviews · **Date** May 11, 2026 · **Duration** 228 min · **Read** ≈8 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Yao Shunyu · Google DeepMind Researcher (formerly Anthropic)
+
+**Listen** [YouTube](https://www.youtube.com/watch?v=ttkd0t5qTD4) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** GOOGL · AI Labs · Model Training
+> ### Conclusion
+>
+> Yao's bottom line: frontier model capability is converging — OpenAI, Anthropic, and Google worry less about catching up and more about what to bet on. Reliability and product definition beat hero narratives. For investors: compute and distribution still accrue to leaders, but application-layer wins go to whoever embeds models in real workflows; China's Doubao already differentiates on voice UX. Yao stresses reliability over heroism when frontier labs converge on capability. He joined Gemini in late 2025 after Anthropic training experience. He guesses Gemini holds roughly twenty percent consumer share today.
+
+---
+
+## Background
+
+> Zhang Xiaojun interviews Yao Shunyu after his move from Anthropic to Google DeepMind. He helped train Claude and Gemini through the 2025–26 model wave and watched the industry's anxiety shift from 'can AI do it?' to 'what should we build?' He describes frontier labs as surfers on the same wave — execution and taste matter more than myth-making. Yao stresses reliability over heroism when frontier labs converge on capability. He joined Gemini in late 2025 after Anthropic training experience. He guesses Gemini holds roughly twenty percent consumer share today. Doubao voice UX leads daily Chinese scenarios versus Gemini and Claude. Claude Code validates Anthropic's coding and agent workflow commercial bet. Dario Amodei publicly named distillers defending Anthropic model IP. OpenAI mindshare still dominates even as benchmark gaps narrow. Google must chain consumer hits before flagship models retain users. Search and Android distribution are unique GOOGL advantages if retention follows. Most users do not perceive five-point benchmark IQ differences. Speed usefulness and price drive consumer AI adoption more than leaderboard rank. Product bet clarity matters more than raw model intelligence now. Startups can make top-down workflow bets faster than aligned big companies. Training is increasingly an engineering organization and eval discipline problem.
+
+---
+
+## Key Facts
+
+> **F1** Yao says by 2025–26 the top three labs looked much closer on benchmarks; a year earlier Anthropic still feared OpenAI's reasoning lead — now the harder problem is choosing the right product bet. Investors should read convergence as compression of 'model alpha' — fewer trades hinge on which lab has +5 benchmark points. Yao's late-2025 Gemini move signals Google still treats volume as existential; his ≈20% share guess is a working estimate, not a bull case. Track Gemini app retention, enterprise attach, and search integration metrics quarterly. He notes Doubao's voice generation feels best for everyday Chinese users, while US users weight coding and deep reasoning — optimization paths diverge by audience. Doubao's voice lead is the China case study: regional data, latency, and UX beat raw IQ for daily users. Claude Code is the US case study: workflow lock-in monetizes before the next model drop. Dario
+
+> **F2** naming distillers elevates IP/data policy to a P&L line — watch legal and partnership friction. When job-hunting he talked to Anthropic, OpenAI, and DeepMind; picked Anthropic on pace, later joined GDM. He references Dario Amodei publicly calling out distillers — a sign top labs are defending data and IP loops. Reliability as scarce trait favors orgs with eval discipline and product ownership culture. Hero narratives help recruiting but do not justify capex at scale. Barbell portfolio: GOOGL distribution option, private lab workflow bets, China scene winners. Yao stresses reliability over heroism when frontier labs converge on capability. He joined Gemini in late 2025 after Anthropic training experience. He guesses Gemini holds roughly twenty percent consumer share today. Doubao voice UX leads daily Chinese scenarios versus Gemini and Claude. Claude Code validates Anthropic's coding and agent workflow commercial bet. Dario Amodei publicly named distillers defending Anthropic model IP.
+
+> **F3** OpenAI mindshare still dominates even as benchmark gaps narrow. Google must chain consumer hits before flagship models retain users. Search and Android distribution are unique GOOGL advantages if retention follows. Most users do not perceive five-point benchmark IQ differences. Speed usefulness and price drive consumer AI adoption more than leaderboard rank. Product bet clarity matters more than raw model intelligence now. Startups can make top-down workflow bets faster than aligned big companies. Training is increasingly an engineering organization and eval discipline problem. Data pipelines and product loops beat one-off research paper wins. Regional optimization can win local share without global IQ leadership. Investors should track ARR paths for coding enterprise and consumer segments. Distillation disputes may become recurring legal and partnership friction. Hero narratives help hiring but do not justify billion-dollar training capex alone. 2026 is a year of bet clarification not capability miracles for frontier labs.
+
+
+---
+
+## Mental Model · *Capability Convergence × Product Bet × Reliable Execution*
+
+> **Components**
+>
+> As benchmark gaps shrink, competition moves from raw intelligence to 'for whom, solving what.' Startups can make top-down bets (Anthropic on coding); big companies struggle to align. The scarcest trait is reliability — detail orientation and ownership — not lone-genius stories. Convergence plus reliability filter: underwrite GTM and retention, not leaderboard deltas. Late-2025 Gemini hiring is a timing marker for Google's volume war. ≈20% share guess frames upside if consumer hits chain; downside if retention stalls. Yao stresses reliability over heroism when frontier labs converge on capability. He joined Gemini in late 2025 after Anthropic training experience. He guesses Gemini holds roughly twenty percent consumer share today. Doubao voice UX leads daily Chinese scenarios versus Gemini and Claude. Claude Code validates Anthropic's coding and agent workflow commercial bet. Dario Amodei publicly named distillers defending Anthropic model IP. OpenAI mindshare still dominates even as benchmark gaps narrow. Google must chain consumer hits before flagship models retain users. Search and Android distribution are unique GOOGL advantages if retention follows. Most users do not perceive five-point benchmark IQ differences. Speed usefulness and price drive consumer AI adoption more than leaderboard rank. Product bet clarity matters more than raw model intelligence now.
+>
+> **Application**
+>
+> Investing lens: (1) leaders (GOOGL / private OpenAI / Anthropic) still capture training and inference scale; (2) regional products (ByteDance Doubao, etc.) win on voice, latency, and local UX; (3) at the app layer, judge workflow lock-in, not leaderboard scores. Most users barely perceive model IQ gaps — speed, usefulness, and price drive retention. Sizing: GOOGL as distribution compounder with AI option; Anthropic as coding/agent pure play; avoid treating any single lab as permanent winner. Monitor distillation disputes and enterprise churn. China: voice UX leaders may capture local share without winning global IQ. 2026 diligence checklist: product bet clarity, eval transparency, commercial ARR paths, not parameter counts. Yao stresses reliability over heroism when frontier labs converge on capability. He joined Gemini in late 2025 after Anthropic training experience. He guesses Gemini holds roughly twenty percent consumer share today. Doubao voice UX leads daily Chinese scenarios versus Gemini and Claude. Claude Code validates Anthropic's coding and agent workflow commercial bet. Dario Amodei publicly named distillers defending Anthropic model IP. OpenAI mindshare still dominates even as benchmark gaps narrow. Google must chain consumer hits before flagship models retain users. Search and Android distribution are unique GOOGL advantages if retention follows.
+
+---
+
+
+## Key Insights
+
+> **1.** AI has entered a phase of worrying whether problems are well-defined, not whether models can solve them.
+>
+> **Q** Where does differentiation come from after convergence?
+>
+> **A** Product bets and taste: Anthropic leaned into Claude Code; Google needs consumer hits (e.g., Nano Banana) to pull volume back before flagship models retain users. A five-point benchmark gap often goes unnoticed; 'fast, useful, cheap' does not. Model IQ gaps under five points rarely change consumer choice; speed, price, and workflow fit do. Yao stresses reliability over heroism when frontier labs converge on capability. He joined Gemini in late 2025 after Anthropic training experience. He guesses Gemini holds roughly twenty percent consumer share today. Doubao voice UX leads daily Chinese scenarios versus Gemini and Claude. Claude Code validates Anthropic's coding and agent workflow commercial bet. Dario Amodei publicly named distillers defending Anthropic model IP. OpenAI mindshare still dominates even as benchmark gaps narrow.
+
+> **2.** OpenAI's share is so high that model stumbles hurt less at the margin; Google must win the volume game.
+>
+> **Q** Why does Gemini's consumer push matter?
+>
+> **A** ChatGPT still owns mindshare. Gemini needs breakout consumer features to feed the funnel, then flagship models to hold users. For investors, search + Android distribution are Google's unique levers — but only if product hits chain together. Search plus Android are GOOGL's unique levers — but only if consumer hits chain; watch retention cohorts. Yao stresses reliability over heroism when frontier labs converge on capability. He joined Gemini in late 2025 after Anthropic training experience. He guesses Gemini holds roughly twenty percent consumer share today. Doubao voice UX leads daily Chinese scenarios versus Gemini and Claude. Claude Code validates Anthropic's coding and agent workflow commercial bet. Dario Amodei publicly named distillers defending Anthropic model IP. OpenAI mindshare still dominates even as benchmark gaps narrow.
+
+> **3.** The heroism era is over — the industry needs steady delivery, not genius mythology.
+>
+> **Q** What does that mean for teams and capital?
+>
+> **A** Training becomes an engineering and org game: data, evals, and product loops beat one-off papers. Yao quips AI 'doesn't need brains, it needs reliability' — speculative punts narrow; teams that ship commercial results command a premium. Reliability culture determines whether capex converts to revenue when capabilities flatten. Yao stresses reliability over heroism when frontier labs converge on capability. He joined Gemini in late 2025 after Anthropic training experience. He guesses Gemini holds roughly twenty percent consumer share today. Doubao voice UX leads daily Chinese scenarios versus Gemini and Claude. Claude Code validates Anthropic's coding and agent workflow commercial bet. Dario Amodei publicly named distillers defending Anthropic model IP. OpenAI mindshare still dominates even as benchmark gaps narrow. Google must chain consumer hits before flagship models retain users.
+
+---
+
+## Investment Ideas
+
+> **1. GOOGL** · 🟢 LONG · ●●○ Medium
+>
+> If Gemini 3 plus consumer features keep pulling volume, search and Android distribution amplify monetization — Yao frames Google as fighting to win the volume war back
+
+> **2. Anthropic** · 🟡 WATCH · ●●○ Medium
+>
+> Coding/agent workflow bet is ahead, but distillation and open-source pressure rise as capabilities converge — must prove durable ARR and enterprise lock-in
+
+---
+
+## Golden Quotes
+
+> "Everyone is a surfer on the same wave — it's the wave, not the surfer, that matters."
+
+> "People worry less about whether AI can do it, and more about whether the problem is well defined."
+
+> "This industry's most important trait is reliability — doing careful work and owning the outcome."
+
+---
+
+## Chronology
+
+> *Yao Shunyu · Frontier Model Training*
+>
+> **GPT-3 era** Yao enters field during Tom Brown–era scaling narrative
+>
+> **2023–24** Industry pivots to reasoning; Anthropic fears OpenAI lead
+>
+> **Mid-2025** Claude Code catalyzes coding commercialization
+>
+> **2025–26** Yao trains at Anthropic, then joins Google DeepMind
+>
+> **2026** Top-three capability perceived as converging; product definition becomes the battleground
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun's Business Interviews, Zhang Xiaojun, or Yao Shunyu. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=ttkd0t5qTD4) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

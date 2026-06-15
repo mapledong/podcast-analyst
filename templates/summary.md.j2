@@ -79,7 +79,7 @@
 ## Investment Ideas
 
 {% for clue in top_investment_implications %}
-> **{{ loop.index }}. {{ clue.ticker }}** · {{ clue.direction | direction_label }} · {{ clue.confidence | confidence_bar }}
+> **{{ loop.index }}. {{ clue.ticker | format_ticker }}** · {{ clue.direction | direction_label }} · {{ clue.confidence | confidence_bar }}
 >
 > {{ clue.thesis }}
 

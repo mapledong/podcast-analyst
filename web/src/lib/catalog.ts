@@ -36,10 +36,24 @@ const summaryModules = import.meta.glob<string>("../data/summaries/*.md", {
   eager: true,
 });
 
-export function loadSummaryMarkdown(summaryFile: string): Promise<string> {
-  const key = `../data/summaries/${summaryFile}`;
-  const content = summaryModules[key];
-  if (!content) return Promise.reject(new Error(`Summary not found: ${summaryFile}`));
+const summaryModulesZh = import.meta.glob<string>("../data/summaries/zh/*.md", {
+  query: "?raw",
+  import: "default",
+  eager: true,
+});
+
+export type SummaryLocale = "en" | "zh";
+
+export function loadSummaryMarkdown(
+  summaryFile: string,
+  locale: SummaryLocale = "en",
+): Promise<string> {
+  const key =
+    locale === "zh"
+      ? `../data/summaries/zh/${summaryFile}`
+      : `../data/summaries/${summaryFile}`;
+  const content = locale === "zh" ? summaryModulesZh[key] : summaryModules[key];
+  if (!content) return Promise.reject(new Error(`Summary not found: ${summaryFile} (${locale})`));
   return Promise.resolve(content);
 }
 

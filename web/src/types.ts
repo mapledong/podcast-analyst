@@ -34,6 +34,9 @@ export interface Episode {
   conclusion: string;
   youtubeUrl: string;
   summaryFile: string;
+  summaryFileZh?: string;
+  availableLocales?: Array<"en" | "zh">;
+  defaultLocale?: "en" | "zh";
   keywords: string[];
   investmentIdeas: InvestmentIdea[];
   chronologySubject?: string;

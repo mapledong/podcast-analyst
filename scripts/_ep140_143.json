@@ -1,0 +1,414 @@
+{
+  "zj-ep140": {
+    "zh": {
+      "episode_id": "zj-ep140",
+      "podcast": "张小珺商业访谈录",
+      "host": "张小珺",
+      "metadata": {
+        "episode_number": 140,
+        "title": "请允许我小疯一下：在 Anthropic 与 Gemini 训模型、英雄主义已过去",
+        "guest": "姚顺宇",
+        "guest_role": "Google DeepMind 研究员（前 Anthropic）",
+        "date": "2026-05-11",
+        "duration_minutes": 228,
+        "youtube_url": "https://www.youtube.com/watch?v=ttkd0t5qTD4",
+        "links": {
+          "youtube": "https://www.youtube.com/watch?v=ttkd0t5qTD4",
+          "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+          "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962"
+        }
+      },
+      "episode_rating": {
+        "overall": 5
+      },
+      "keywords": [
+        "GOOGL",
+        "AI 前沿实验室",
+        "模型训练"
+      ],
+      "conclusion": "姚顺宇的核心判断：前沿模型能力正在拉平，OpenAI、Anthropic、Google 三家不再担心「追不上」，真正的难题是「赌什么」——产品定义与执行靠谱度比英雄主义叙事更重要。对个人投资者：算力与分发仍向头部集中，但应用层机会来自把模型嵌进真实工作流；中国侧豆包等产品在语音等场景已出现差异化。",
+      "background": "张小珺对话刚从 Anthropic 转至 Google DeepMind 的姚顺宇（顺宇），从 2025–2026 年模型发布潮谈起。顺宇参与过 Claude 与 Gemini 训练，见证「推理」能力跃迁后行业心态从「能不能做到」转向「要做什么」。他描述硅谷模型圈像冲浪——大家乘同一浪，关键是谁更细、更靠谱。",
+      "important_facts": [
+        "顺宇称 2025 年前后前沿三家（OpenAI、Anthropic、Google）在基准能力上差距缩小；一年前 Anthropic 还担心追不上 OpenAI 的 reasoning，如今更焦虑的是任务定义与产品 bet。",
+        "他举例豆包语音生成体验在中国日常场景中强于 Gemini/Claude，但美国用户更在意 coding 与深度推理——产品优化路径因用户群而异。",
+        "顺宇求职时同时接触 Anthropic、OpenAI 与 Google DeepMind；最终因面试节奏选择 Anthropic，后转 GDM。他提到 Dario 曾公开点名多家公司「蒸馏」Anthropic 模型，侧面反映头部实验室对 IP 与数据闭环的防御心态。"
+      ],
+      "mental_model": {
+        "name": "能力拉平 × 产品 bet × 靠谱执行",
+        "components": "当模型基准差距收窄，竞争从「有没有智力」转向「为谁解决什么问题」。Startup 可以 top-down 下赌注（Anthropic 的 coding bet 是案例）；大公司更难统一方向。行业核心特质是靠谱：做事细、对结果负责，而非个人英雄叙事。",
+        "application": "投资映射：① 头部实验室（GOOGL/私有 OpenAI/Anthropic）仍吃训练与推理规模；② 区域产品（字节豆包等）在语音、低延迟等场景拿份额；③ 应用层看工作流嵌入深度，而非模型榜单分数。顺宇提醒普通用户对模型能力感知很弱——多数人不碰 o 系列，产品体验与留存才是商业化胜负手。"
+      },
+      "key_insights": [
+        {
+          "view": "AI 进入「担心事情是否被良好定义」的阶段，而非担心做不到。",
+          "question": "能力拉平后，差异化来自哪里？",
+          "answer": "来自产品 bet 与 insight：Anthropic 用 Claude Code 吃 coding 增量；Google 用 Nano Banana 等拉量再靠 Gemini 3 留人。模型智商差 5 个点用户未必感知，但「快、好用、便宜」感知极强。"
+        },
+        {
+          "view": "OpenAI 市占高到模型失误的边际影响变小，但 Google 必须靠产品把量打回来。",
+          "question": "为什么 Gemini 的「拉量」动作很关键？",
+          "answer": "顺宇认为 ChatGPT 心智仍强，Gemini 需要消费级爆款（如图像/轻量功能）把人留住，再用旗舰模型承接。对投资者：搜索+安卓分发是 Google 独有杠杆，但转化需要连续产品命中。"
+        },
+        {
+          "view": "「英雄主义已过去」——行业不再需要天才叙事，需要长期靠谱交付。",
+          "question": "这对团队与资本意味着什么？",
+          "answer": "训练与对齐变成工程与组织战：数据、评测、产品闭环比单点论文重要。顺宇称 AI「不太需要脑子、需要靠谱」，意指投机式押注窗口收窄，能持续交付商业结果的团队溢价上升。"
+        }
+      ],
+      "top_investment_implications": [
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Gemini 3 与消费级功能若持续拉量，搜索与安卓分发可放大模型变现；顺宇视角下 Google 正处于「把量打回来」的关键战役"
+        },
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Coding/agent 工作流 bet 领先，但面临蒸馏与开源压力；能力拉平后需证明 ARR 与 enterprise 锁定的可持续性"
+        }
+      ],
+      "golden_quotes": [
+        "每个人都是冲浪的人，本质上是一个浪，而不是你那个冲浪的人。",
+        "现在大家都不那么担心 AI 能不能做到，而是担心这件事是不是被良好定义。",
+        "这个行业最重要的特质就是靠谱，就是做事细，然后对自己做的事负责任。"
+      ],
+      "chronology": {
+        "subject": "姚顺宇 · 前沿模型训练",
+        "events": [
+          {
+            "date": "GPT-3 时代",
+            "event": "顺宇入行，见证 Tom Brown 等主导的 scaling 叙事"
+          },
+          {
+            "date": "2023–2024",
+            "event": "行业焦点转向 reasoning；Anthropic 担心追赶 OpenAI"
+          },
+          {
+            "date": "2025 中",
+            "event": "Claude Code 等产品触发 coding 商业化拐点"
+          },
+          {
+            "date": "2025–2026",
+            "event": "顺宇在 Anthropic 参与训练，后转 Google DeepMind"
+          },
+          {
+            "date": "2026",
+            "event": "三家前沿能力感知拉平，竞争重心转向产品定义与执行"
+          }
+        ]
+      }
+    },
+    "en": {
+      "episode_id": "zj-ep140",
+      "podcast": "Zhang Xiaojun's Business Interviews",
+      "host": "Zhang Xiaojun",
+      "metadata": {
+        "episode_number": 140,
+        "title": "Let Me Go a Little Crazy: Training at Anthropic & Gemini, Heroism Is Over",
+        "guest": "Yao Shunyu",
+        "guest_role": "Google DeepMind Researcher (formerly Anthropic)",
+        "date": "2026-05-11",
+        "duration_minutes": 228,
+        "youtube_url": "https://www.youtube.com/watch?v=ttkd0t5qTD4",
+        "links": {
+          "youtube": "https://www.youtube.com/watch?v=ttkd0t5qTD4",
+          "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+          "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962"
+        }
+      },
+      "episode_rating": {
+        "overall": 5
+      },
+      "keywords": [
+        "GOOGL",
+        "AI Labs",
+        "Model Training"
+      ],
+      "conclusion": "Yao's bottom line: frontier model capability is converging — OpenAI, Anthropic, and Google worry less about catching up and more about what to bet on. Reliability and product definition beat hero narratives. For investors: compute and distribution still accrue to leaders, but application-layer wins go to whoever embeds models in real workflows; China's Doubao already differentiates on voice UX.",
+      "background": "Zhang Xiaojun interviews Yao Shunyu after his move from Anthropic to Google DeepMind. He helped train Claude and Gemini through the 2025–26 model wave and watched the industry's anxiety shift from 'can AI do it?' to 'what should we build?' He describes frontier labs as surfers on the same wave — execution and taste matter more than myth-making.",
+      "important_facts": [
+        "Yao says by 2025–26 the top three labs looked much closer on benchmarks; a year earlier Anthropic still feared OpenAI's reasoning lead — now the harder problem is choosing the right product bet.",
+        "He notes Doubao's voice generation feels best for everyday Chinese users, while US users weight coding and deep reasoning — optimization paths diverge by audience.",
+        "When job-hunting he talked to Anthropic, OpenAI, and DeepMind; picked Anthropic on pace, later joined GDM. He references Dario Amodei publicly calling out distillers — a sign top labs are defending data and IP loops."
+      ],
+      "mental_model": {
+        "name": "Capability Convergence × Product Bet × Reliable Execution",
+        "components": "As benchmark gaps shrink, competition moves from raw intelligence to 'for whom, solving what.' Startups can make top-down bets (Anthropic on coding); big companies struggle to align. The scarcest trait is reliability — detail orientation and ownership — not lone-genius stories.",
+        "application": "Investing lens: (1) leaders (GOOGL / private OpenAI / Anthropic) still capture training and inference scale; (2) regional products (ByteDance Doubao, etc.) win on voice, latency, and local UX; (3) at the app layer, judge workflow lock-in, not leaderboard scores. Most users barely perceive model IQ gaps — speed, usefulness, and price drive retention."
+      },
+      "key_insights": [
+        {
+          "view": "AI has entered a phase of worrying whether problems are well-defined, not whether models can solve them.",
+          "question": "Where does differentiation come from after convergence?",
+          "answer": "Product bets and taste: Anthropic leaned into Claude Code; Google needs consumer hits (e.g., Nano Banana) to pull volume back before flagship models retain users. A five-point benchmark gap often goes unnoticed; 'fast, useful, cheap' does not."
+        },
+        {
+          "view": "OpenAI's share is so high that model stumbles hurt less at the margin; Google must win the volume game.",
+          "question": "Why does Gemini's consumer push matter?",
+          "answer": "ChatGPT still owns mindshare. Gemini needs breakout consumer features to feed the funnel, then flagship models to hold users. For investors, search + Android distribution are Google's unique levers — but only if product hits chain together."
+        },
+        {
+          "view": "The heroism era is over — the industry needs steady delivery, not genius mythology.",
+          "question": "What does that mean for teams and capital?",
+          "answer": "Training becomes an engineering and org game: data, evals, and product loops beat one-off papers. Yao quips AI 'doesn't need brains, it needs reliability' — speculative punts narrow; teams that ship commercial results command a premium."
+        }
+      ],
+      "top_investment_implications": [
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "If Gemini 3 plus consumer features keep pulling volume, search and Android distribution amplify monetization — Yao frames Google as fighting to win the volume war back"
+        },
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Coding/agent workflow bet is ahead, but distillation and open-source pressure rise as capabilities converge — must prove durable ARR and enterprise lock-in"
+        }
+      ],
+      "golden_quotes": [
+        "Everyone is a surfer on the same wave — it's the wave, not the surfer, that matters.",
+        "People worry less about whether AI can do it, and more about whether the problem is well defined.",
+        "This industry's most important trait is reliability — doing careful work and owning the outcome."
+      ],
+      "chronology": {
+        "subject": "Yao Shunyu · Frontier Model Training",
+        "events": [
+          {
+            "date": "GPT-3 era",
+            "event": "Yao enters field during Tom Brown–era scaling narrative"
+          },
+          {
+            "date": "2023–24",
+            "event": "Industry pivots to reasoning; Anthropic fears OpenAI lead"
+          },
+          {
+            "date": "Mid-2025",
+            "event": "Claude Code catalyzes coding commercialization"
+          },
+          {
+            "date": "2025–26",
+            "event": "Yao trains at Anthropic, then joins Google DeepMind"
+          },
+          {
+            "date": "2026",
+            "event": "Top-three capability perceived as converging; product definition becomes the battleground"
+          }
+        ]
+      }
+    }
+  },
+  "zj-ep143": {
+    "zh": {
+      "episode_id": "zj-ep143",
+      "podcast": "张小珺商业访谈录",
+      "host": "张小珺",
+      "metadata": {
+        "episode_number": 143,
+        "title": "何小鹏：停掉旧机器人、押注人形 IRON 与物理世界 AI",
+        "guest": "何小鹏",
+        "guest_role": "小鹏汽车董事长兼 CEO",
+        "date": "2026-05-28",
+        "duration_minutes": 86,
+        "youtube_url": "https://www.youtube.com/watch?v=rUjaLPE3mME",
+        "links": {
+          "youtube": "https://www.youtube.com/watch?v=rUjaLPE3mME",
+          "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+          "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962"
+        }
+      },
+      "episode_rating": {
+        "overall": 4
+      },
+      "keywords": [
+        "XPEV",
+        "人形机器人",
+        "自动驾驶",
+        "物理世界 AI"
+      ],
+      "conclusion": "何小鹏的核心判断：旧机器人技术栈已耗费数百亿且方向错误，必须果断止损；人形机器人 IRON 是低胜率（约 20%）但高赔率 bet，成败取决于物理世界数据闭环。物理世界 AI 数据采集成本每年可能超 10 亿人民币——这是比模型本身更硬的壁垒。L4 纯视觉捷径已证伪，GX 车型 pivot 反映产品定义比技术炫技更重要。对投资者：XPEV 估值需同时计入汽车基本盘、AI 投入 burn 与机器人期权，不宜用单一 PE 框架。",
+      "background": "张小珺对话小鹏汽车何小鹏，从 2025–2026 年机器人与智驾战略大调整谈起。小鹏曾投入大量资源于上一代机器人方案，最终选择「停掉旧栈、all-in 人形」。他坦承 IRON 项目胜率不高，但若成功将重新定义公司边界。话题延伸至 L4 自动驾驶路线反思、GX 产品 pivot，以及「物理世界 AI」为何比 LLM 更烧钱。",
+      "important_facts": [
+        "何小鹏称旧机器人技术路线累计投入达数百亿人民币量级，团队与供应链绑定深，止损决策痛苦但必要——继续投入是「沉没成本陷阱」。",
+        "人形机器人 IRON 被他定性为约 20% 胜率的高赔率 bet：硬件、运动控制、场景数据三环缺一不可，小鹏试图用汽车智驾积累迁移，但人形与车载场景差异仍大。",
+        "物理世界 AI 的数据采集与标注成本极高——他估算年投入可能超 10 亿人民币，远超纯软件 AI；这解释了为何机器人赛道最终只剩少数玩家。",
+        "L4 纯视觉/端到端「捷径」在小鹏实践中未达预期，GX 车型 pivot 是产品与市场匹配调整，而非单纯技术失败。"
+      ],
+      "mental_model": {
+        "name": "止损旧栈 × 低胜率期权 × 物理世界数据壁垒",
+        "components": "当技术路线被证伪，沉没成本不应绑架未来 capital allocation。人形机器人是典型「20% 胜率、10x 回报」期权——需独立预算与 KPI，不能与主业务 P&L 混算。物理世界 AI 的竞争本质是数据闭环：谁能在真实场景持续采集、标注、迭代，谁才有训练优势；这比模型架构更难复制。",
+        "application": "投资映射：① XPEV 汽车销量与毛利仍是估值锚，机器人/AI 投入是减项或期权 depending on 执行；② 对比 TSLA Optimus、Figure 等，小鹏有制造与供应链但缺场景密度；③ L4 赛道整体降温，投资者应下调「纯软件定义汽车」溢价，重视硬件迭代与监管节奏。"
+      },
+      "key_insights": [
+        {
+          "view": "旧机器人栈的数百亿投入是「买教训」，继续投是理性但错误的选择。",
+          "question": "为何大厂难以在技术路线错误时及时止损？",
+          "answer": "组织惯性、人才绑定与叙事压力使止损像「承认失败」。何小鹏强调 CEO 必须能承担短期舆论代价，把 capital 转投胜率更高的方向——IRON 虽仅 20% 胜率，但成功回报远超继续修补旧栈。"
+        },
+        {
+          "view": "物理世界 AI 的数据成本可能是被低估的「隐形 moat」。",
+          "question": "为何机器人 AI 比 LLM 更烧钱？",
+          "answer": "文本数据近乎免费，物理场景数据需真实设备、安全合规、长尾场景覆盖——年成本 10 亿+ 不夸张。这意味着机器人赛道天然 oligopoly：只有能持续 burn 且有多场景入口的玩家能玩。"
+        },
+        {
+          "view": "L4 捷径思维在小鹏侧已修正，GX pivot 是产品诚实。",
+          "question": "对智驾投资意味着什么？",
+          "answer": "纯视觉端到端并非万能钥匙；监管、地图、安全冗余仍约束落地节奏。投资者应降低对「202X 年 L4 大规模商用」的线性预期，更关注 L2+ 渗透率与 ASP 提升对 near-term 收入的贡献。"
+        }
+      ],
+      "top_investment_implications": [
+        {
+          "ticker": "XPEV",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "汽车基本盘与机器人/AI burn 并存；IRON 是低胜率期权，需跟踪 quarterly 现金流与 GX 交付数据，不宜仅用传统 auto PE 定价"
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Optimus 与人形赛道直接对标；何小鹏的 20% 胜率框架暗示行业普遍高失败率，Tesla 机器人叙事溢价需 scenario 分析"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "物理世界 AI 与机器人训练推高 edge 算力需求；无论哪家 OEM 胜出，芯片层受益"
+        }
+      ],
+      "golden_quotes": [
+        "旧机器人那条路，我们花了太多钱，必须停——不停才是最大的浪费。",
+        "IRON 这个项目，我自己评估胜率大概两成，但成了就是另一家公司。",
+        "物理世界的 AI，数据才是真的贵，一年十亿可能都不够。"
+      ],
+      "chronology": {
+        "subject": "何小鹏 · 机器人与智驾 pivot",
+        "events": [
+          {
+            "date": "2020–2023",
+            "event": "小鹏投入上一代机器人与 L4 智驾，累计资本开支达数百亿量级"
+          },
+          {
+            "date": "2024–2025",
+            "event": "旧机器人栈被判定方向错误，启动止损与组织调整"
+          },
+          {
+            "date": "2025–2026",
+            "event": "All-in 人形机器人 IRON；物理世界 AI 数据体系独立预算"
+          },
+          {
+            "date": "2026",
+            "event": "GX 车型 pivot 落地；L4 纯视觉捷径被内部证伪"
+          }
+        ]
+      }
+    },
+    "en": {
+      "episode_id": "zj-ep143",
+      "podcast": "Zhang Xiaojun's Business Interviews",
+      "host": "Zhang Xiaojun",
+      "metadata": {
+        "episode_number": 143,
+        "title": "He Xiaopeng: Killing the Old Robot Stack, Betting on IRON Humanoids & Physical-World AI",
+        "guest": "He Xiaopeng",
+        "guest_role": "Chairman & CEO, XPeng",
+        "date": "2026-05-28",
+        "duration_minutes": 86,
+        "youtube_url": "https://www.youtube.com/watch?v=rUjaLPE3mME",
+        "links": {
+          "youtube": "https://www.youtube.com/watch?v=rUjaLPE3mME",
+          "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+          "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962"
+        }
+      },
+      "episode_rating": {
+        "overall": 4
+      },
+      "keywords": [
+        "XPEV",
+        "Humanoid Robotics",
+        "Autonomous Driving",
+        "Physical-World AI"
+      ],
+      "conclusion": "He's bottom line: the legacy robot stack burned billions on the wrong architecture — stopping was rational, not failure. IRON humanoids are a ~20% probability, high-payoff bet hinging on physical-world data loops. Data capture alone may exceed RMB 1B/year — a harder moat than model weights. The L4 vision-only shortcut failed internally; the GX pivot shows product-market fit beats tech bragging rights. For investors: XPEV needs a sum-of-the-parts lens — auto core, AI burn, and robotics optionality — not a single auto PE multiple.",
+      "background": "Zhang Xiaojun interviews XPeng's He Xiaopeng on the 2025–26 reset in robotics and autonomy. XPeng walked away from a prior robot program after sunk costs in the tens of billions of RMB, going all-in on humanoid IRON. He frames it as low win-rate, massive upside. The conversation covers L4 autonomy regrets, the GX product pivot, and why physical-world AI is more capital-intensive than LLMs.",
+      "important_facts": [
+        "He says the old robot route consumed on the order of tens of billions of RMB; unwinding it was painful but necessary — throwing good money after bad was the real risk.",
+        "IRON is tagged at ~20% win probability: hardware, locomotion, and scenario data must click together; auto-driving experience helps but humanoid use cases differ materially.",
+        "Physical-world AI data may cost RMB 1B+ annually — far above pure software AI — explaining why robotics consolidates to a handful of well-funded players.",
+        "The L4 vision-only shortcut underperformed expectations; the GX pivot reflects honest product repositioning, not just a tech miss."
+      ],
+      "mental_model": {
+        "name": "Kill the Old Stack × Low-Probability Option × Physical-Data Moat",
+        "components": "When a tech path is disproved, sunk cost must not dictate capital allocation. Humanoids are classic 20%-win / 10x-payoff options — budget and KPIs should be separate from core auto P&L. Physical-world AI competition is a data flywheel: whoever captures, labels, and iterates in real scenes wins training advantage — harder to copy than architecture.",
+        "application": "Investing lens: (1) XPEV auto volume and gross margin remain the valuation anchor; robotics/AI spend is either drag or option value; (2) vs. TSLA Optimus and Figure, XPeng has manufacturing but lacks scenario density; (3) L4 hype should cool — weight L2+ penetration and ASP uplift for near-term revenue over linear L4 timelines."
+      },
+      "key_insights": [
+        {
+          "view": "Billions on the old robot stack bought lessons — continuing would have been the irrational choice.",
+          "question": "Why do big companies struggle to kill bad tech bets?",
+          "answer": "Org inertia, talent lock-in, and narrative pressure make stops feel like confession. He argues CEOs must absorb short-term criticism and redeploy capital — IRON's ~20% odds still beat patching a disproved stack."
+        },
+        {
+          "view": "Physical-world AI data cost is an underappreciated moat.",
+          "question": "Why is robot AI more expensive than LLMs?",
+          "answer": "Text is nearly free; physical scenes need real hardware, safety compliance, and long-tail coverage — RMB 1B+/year is plausible. Robotics naturally oligopolizes: only players with burn capacity and multi-scenario entry points survive."
+        },
+        {
+          "view": "The L4 shortcut mindset is corrected internally; GX pivot is product honesty.",
+          "question": "What does this mean for autonomy investing?",
+          "answer": "End-to-end vision isn't a skeleton key; regulation, mapping, and redundancy still gate deployment. Investors should discount linear 'L4 by 202X' narratives and focus on L2+ adoption and near-term ASP contribution."
+        }
+      ],
+      "top_investment_implications": [
+        {
+          "ticker": "XPEV",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Auto core coexists with robotics/AI burn; IRON is a low-probability option — track quarterly cash flow and GX deliveries; traditional auto PE alone misprices the story"
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Optimus is a direct comp; He's ~20% win-rate framing implies industry-wide high failure rates — Tesla robot narrative premium needs scenario analysis"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Physical-world AI and robot training lift edge compute demand; chip layer benefits regardless of which OEM wins"
+        }
+      ],
+      "golden_quotes": [
+        "We spent too much on the old robot path — stopping is the real savings.",
+        "I put IRON's win probability at roughly twenty percent — but if it works, we're a different company.",
+        "In physical-world AI, data is what's truly expensive — a billion a year may not be enough."
+      ],
+      "chronology": {
+        "subject": "He Xiaopeng · Robotics & Autonomy Pivot",
+        "events": [
+          {
+            "date": "2020–23",
+            "event": "XPeng invests heavily in prior robot stack and L4 autonomy — cumulative spend in tens of billions RMB"
+          },
+          {
+            "date": "2024–25",
+            "event": "Legacy robot direction judged wrong; stop-loss and org reset begin"
+          },
+          {
+            "date": "2025–26",
+            "event": "All-in on IRON humanoid; physical-world AI data budget ring-fenced"
+          },
+          {
+            "date": "2026",
+            "event": "GX product pivot ships; L4 vision-only shortcut disproved internally"
+          }
+        ]
+      }
+    }
+  }
+}

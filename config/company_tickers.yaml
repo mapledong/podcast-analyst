@@ -83,4 +83,26 @@ ticker_aliases:
   "MC.PA": LVMUY
   MC: LVMUY
   LVMH: LVMUY
+
+# China/HK/A-share listings: display as 公司名（TICKER） in summaries.
+# Keys are canonical tickers; zh/en are display names.
+china_listings:
+  9992.HK:
+    zh: 泡泡玛特
+    en: Pop Mart
+  0981.HK:
+    zh: 中芯国际
+    en: SMIC
+  300866.SZ:
+    zh: 安克创新
+    en: Anker Innovations
+  XPEV:
+    zh: 小鹏汽车
+    en: XPeng
+  BABA:
+    zh: 阿里巴巴
+    en: Alibaba
+  9888.HK:
+    zh: 百度
+    en: Baidu
   TSMC: TSM

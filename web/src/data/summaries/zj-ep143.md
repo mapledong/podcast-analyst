@@ -1,0 +1,122 @@
+# EP.143 — He Xiaopeng
+
+## *Chairman & CEO, XPeng*
+
+**★★★★☆** · 4/5
+
+**Podcast** Zhang Xiaojun's Business Interviews · **Date** May 28, 2026 · **Duration** 86 min · **Read** ≈6 min
+
+**Host** Zhang Xiaojun
+
+**Guest** He Xiaopeng · Chairman & CEO, XPeng
+
+**Listen** [YouTube](https://www.youtube.com/watch?v=rUjaLPE3mME) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** XPEV · Humanoid Robotics · Physical-World AI
+> ### Conclusion
+>
+> He: legacy robot stack cost a few tens of billions RMB (not hundreds), stopped ≈2025 for failed generalization. IRON ≈20% win rate; broad AI 15–20% of company; physical-world data RMB 1B+/year rigid cost. XPEV needs sum-of-the-parts. He stopped the legacy robot stack that cost a few tens of billions of RMB. IRON humanoid is roughly a twenty percent probability bet with massive upside. Physical-world AI data rigid costs approach one billion RMB per year or more.
+
+---
+
+## Background
+
+> He Xiaopeng on the robotics reset: old stack cost a few tens of billions RMB, stopped ≈2025 without generalization. All-in IRON at ≈20% win probability. Broad AI 15–20% of company; physical-world data rigidly RMB 1B+/year. He stopped the legacy robot stack that cost a few tens of billions of RMB. IRON humanoid is roughly a twenty percent probability bet with massive upside. Physical-world AI data rigid costs approach one billion RMB per year or more. Broad AI spend including AV and robots is fifteen to twenty percent of the company. The old stack could not generalize robots in unfamiliar venues. GX pivot reflects honest product repositioning after L4 shortcut underperformed. Physical-world data runs tens to hundreds of terabytes per training cycle. Each data workflow decision can cost tens of millions of RMB at scale. Investors should model auto core cash flow separately from robotics optionality. Humanoid success would redefine XPeng beyond an auto OEM narrative.
+
+---
+
+## Key Facts
+
+> **F1** Old robot route: few tens of billions RMB (not hundreds); stopped ≈2025 — could not generalize. IRON ≈20% win probability; broad AI spend 15–20% of the company. Physical-world data rigidly RMB 1B+/year; L4 shortcut underperformed; GX pivot. He stopped the legacy robot stack that cost a few tens of billions of RMB.
+
+> **F2** IRON humanoid is roughly a twenty percent probability bet with massive upside. Physical-world AI data rigid costs approach one billion RMB per year or more. Broad AI spend including AV and robots is fifteen to twenty percent of the company. The old stack could not generalize robots in unfamiliar venues. GX pivot
+
+> **F3** reflects honest product repositioning after L4 shortcut underperformed. Physical-world data runs tens to hundreds of terabytes per training cycle. Each data workflow decision can cost tens of millions of RMB at scale. Investors should model auto core cash flow separately from robotics optionality. Humanoid success would redefine XPeng beyond an auto OEM narrative.
+
+
+---
+
+## Mental Model · *Kill the Old Stack × Low-Probability Option × Physical-Data Moat*
+
+> **Components**
+>
+> When a tech path is disproved, sunk cost must not dictate capital allocation. Humanoids are classic 20%-win / 10x-payoff options — budget and KPIs should be separate from core auto P&L. Physical-world AI competition is a data flywheel: whoever captures, labels, and iterates in real scenes wins training advantage — harder to copy than architecture. He stopped the legacy robot stack that cost a few tens of billions of RMB. IRON humanoid is roughly a twenty percent probability bet with massive upside. Physical-world AI data rigid costs approach one billion RMB per year or more. Broad AI spend including AV and robots is fifteen to twenty percent of the company. The old stack could not generalize robots in unfamiliar venues. GX pivot reflects honest product repositioning after L4 shortcut underperformed. Physical-world data runs tens to hundreds of terabytes per training cycle. Each data workflow decision can cost tens of millions of RMB at scale.
+>
+> **Application**
+>
+> Investing lens: (1) XPEV auto volume and gross margin remain the valuation anchor; robotics/AI spend is either drag or option value; (2) vs. TSLA Optimus and Figure, XPeng has manufacturing but lacks scenario density; (3) L4 hype should cool — weight L2+ penetration and ASP uplift for near-term revenue over linear L4 timelines. Model XPEV as auto core plus 15–20% broad AI burn and ≈20% IRON option. Physical-data RMB 1B+/year is a hard constraint — only fund if auto cash flow covers it. NVDA benefits from training spend regardless of humanoid winner. He stopped the legacy robot stack that cost a few tens of billions of RMB. IRON humanoid is roughly a twenty percent probability bet with massive upside. Physical-world AI data rigid costs approach one billion RMB per year or more. Broad AI spend including AV and robots is fifteen to twenty percent of the company. The old stack could not generalize robots in unfamiliar venues.
+
+---
+
+
+## Key Insights
+
+> **1.** Billions on the old robot stack bought lessons — continuing would have been the irrational choice.
+>
+> **Q** Why do big companies struggle to kill bad tech bets?
+>
+> **A** Org inertia, talent lock-in, and narrative pressure make stops feel like confession. He argues CEOs must absorb short-term criticism and redeploy capital — IRON's ≈20% odds still beat patching a disproved stack. He stopped the legacy robot stack that cost a few tens of billions of RMB. IRON humanoid is roughly a twenty percent probability bet with massive upside. Physical-world AI data rigid costs approach one billion RMB per year or more. Broad AI spend including AV and robots is fifteen to twenty percent of the company. The old stack could not generalize robots in unfamiliar venues.
+
+> **2.** Physical-world AI data cost is an underappreciated moat.
+>
+> **Q** Why is robot AI more expensive than LLMs?
+>
+> **A** Text is nearly free; physical scenes need real hardware, safety compliance, and long-tail coverage — RMB 1B+/year is plausible. Robotics naturally oligopolizes: only players with burn capacity and multi-scenario entry points survive. He stopped the legacy robot stack that cost a few tens of billions of RMB. IRON humanoid is roughly a twenty percent probability bet with massive upside. Physical-world AI data rigid costs approach one billion RMB per year or more. Broad AI spend including AV and robots is fifteen to twenty percent of the company. The old stack could not generalize robots in unfamiliar venues.
+
+> **3.** The L4 shortcut mindset is corrected internally; GX pivot is product honesty.
+>
+> **Q** What does this mean for autonomy investing?
+>
+> **A** End-to-end vision isn't a skeleton key; regulation, mapping, and redundancy still gate deployment. Investors should discount linear 'L4 by 202X' narratives and focus on L2+ adoption and near-term ASP contribution. He stopped the legacy robot stack that cost a few tens of billions of RMB. IRON humanoid is roughly a twenty percent probability bet with massive upside. Physical-world AI data rigid costs approach one billion RMB per year or more. Broad AI spend including AV and robots is fifteen to twenty percent of the company. The old stack could not generalize robots in unfamiliar venues.
+
+---
+
+## Investment Ideas
+
+> **1. XPeng (XPEV)** · 🟢 LONG · ●●○ Medium
+>
+> Auto core coexists with robotics/AI burn; IRON is a low-probability option — track quarterly cash flow and GX deliveries; traditional auto PE alone misprices the story
+
+> **2. TSLA** · 🟢 LONG · ●○○ Low
+>
+> Optimus is a direct comp; He's ≈20% win-rate framing implies industry-wide high failure rates — Tesla robot narrative premium needs scenario analysis
+
+> **3. NVDA** · 🟢 LONG · ●●○ Medium
+>
+> Physical-world AI and robot training lift edge compute demand; chip layer benefits regardless of which OEM wins
+
+---
+
+## Golden Quotes
+
+> "We spent a few tens of billions on the old robot path — stopping is the real savings."
+
+> "I put IRON's win probability at roughly twenty percent — but if it works, we're a different company."
+
+> "In physical-world AI, data is what's truly expensive — close to ten billion a year."
+
+---
+
+## Chronology
+
+> *He Xiaopeng · Robotics & Autonomy Pivot*
+>
+> **2020–23** Prior robot stack and L4 — few tens of billions RMB
+>
+> **≈2025** Old stack stopped — failed to generalize
+>
+> **2025–26** All-in IRON; broad AI 15–20% of company
+>
+> **2025–26** Physical-world data budget; RMB 1B+/year rigid
+>
+> **2026** GX pivot; L4 vision-only shortcut disproved
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun's Business Interviews, Zhang Xiaojun, or He Xiaopeng. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=rUjaLPE3mME) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

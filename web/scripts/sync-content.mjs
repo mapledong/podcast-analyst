@@ -19,6 +19,10 @@ const PODCAST_SLUG = {
   Acquired: "acquired",
   Founders: "founders",
   "Business Breakdowns": "business-breakdowns",
+  "张小珺商业访谈录": "zhang-xiaojun",
+  "Zhang Xiaojun's Business Interviews": "zhang-xiaojun",
+  投资实战派: "touzi-shizhanpai",
+  "Investment Practical School": "touzi-shizhanpai",
 };
 
 function readYaml(rel) {
@@ -30,7 +34,11 @@ function readJson(rel) {
 }
 
 function estimateReadMinutes(markdown) {
+  const cjk = (markdown.match(/[\u4e00-\u9fff]/g) || []).length;
   const words = markdown.split(/\s+/).filter(Boolean).length;
+  if (cjk > words) {
+    return Math.max(1, Math.round(cjk / 350));
+  }
   return Math.max(1, Math.round(words / 200));
 }
 
@@ -116,8 +124,17 @@ const podcasts = await Promise.all(
     } else if (p.cover_url) {
       cover_url = p.cover_url;
     }
-    const { apple_podcast_id: _a, cover_remote: _r, ...rest } = p;
-    return { ...rest, cover_url, episodeCount: 0 };
+    const { apple_podcast_id: _a, cover_remote: _r, name_en: _ne, host_en: _he, description_en: _de, default_locale: _dl, locales: _loc, xiaoyuzhou_url: _xy, ...rest } = p;
+    const localized =
+      _ne != null
+        ? {
+            ...rest,
+            name: _ne,
+            host: _he ?? rest.host,
+            description: _de ?? rest.description,
+          }
+        : rest;
+    return { ...localized, cover_url, episodeCount: 0 };
   }),
 );
 
@@ -141,7 +158,16 @@ for (const epCfg of episodesConfig.episodes || []) {
   const podcastId = PODCAST_SLUG[podcastName] || podcasts[0]?.id;
 
   const summaryFile = `${id}.md`;
+  const summaryFileZh = `${id}.md`;
+  const zhSummaryPath = path.join(ROOT, "outputs", "zh", `EP${epCfg.episode_number}_${id}.md`);
+  const hasZh = fs.existsSync(zhSummaryPath);
+
   fs.writeFileSync(path.join(SUMMARIES_OUT, summaryFile), markdown);
+  if (hasZh) {
+    const zhDir = path.join(SUMMARIES_OUT, "zh");
+    fs.mkdirSync(zhDir, { recursive: true });
+    fs.writeFileSync(path.join(zhDir, summaryFileZh), fs.readFileSync(zhSummaryPath, "utf8"));
+  }
 
   const readMatch = markdown.match(/≈(\d+)\s*min/i);
   const readMinutes = readMatch ? parseInt(readMatch[1], 10) : estimateReadMinutes(markdown);
@@ -177,6 +203,9 @@ for (const epCfg of episodesConfig.episodes || []) {
     conclusion: approved.conclusion || "",
     youtubeUrl: epCfg.youtube_url || approved.metadata?.youtube_url || "",
     summaryFile,
+    summaryFileZh: hasZh ? summaryFileZh : undefined,
+    availableLocales: hasZh ? ["en", "zh"] : ["en"],
+    defaultLocale: "en",
     keywords,
     investmentIdeas,
     chronologySubject: approved.chronology?.subject || "",

@@ -75,5 +75,4 @@ export const TICKER_ALIASES: Record<string, string> = {
   "LVMH": "LVMUY",
   "MC": "LVMUY",
   "MC.PA": "LVMUY",
-  "TSMC": "TSM",
 };
