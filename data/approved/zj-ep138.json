@@ -1,0 +1,101 @@
+{
+  "episode_id": "zj-ep138",
+  "podcast": "Zhang Xiaojun Podcast",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 138,
+    "title": "3.5-Hour Interview with Luo Fuli: OpenClaw, Agent Paradigm, Post-Training, Org Flattening",
+    "guest": "Luo Fuli",
+    "guest_role": "AI Researcher",
+    "date": "2026-04-24",
+    "duration_minutes": 217,
+    "youtube_url": "https://www.youtube.com/watch?v=vG1RBqn1sG4",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vG1RBqn1sG4",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "Private:Anthropic",
+    "GOOGL",
+    "Post-Training",
+    "OpenClaw"
+  ],
+  "conclusion": "Luo Fuli, ex-Damo/DeepSeek and Xiaomi MiMo post-training lead, argues the industry has entered the post-training era — her OpenClaw moment came between 2am and 6am on first use, when an agent completed real work overnight. She flattens orgs: shared Mac Minis, group chat, no usage KPIs. GPU splits roughly 3:1:1 research/post-train/inference. Many agent frameworks exist but self-evolving agents remain TBD; post-training needs a pre-training worldview. Investors should watch Anthropic's coding post-train flywheel and GOOGL's ability to align org design with inference economics.",
+  "background": "In a 217-minute episode, Zhang Xiaojun speaks with Luo Fuli on post-training in the agent age. Luo led post-training at Damo, DeepSeek, and now Xiaomi MiMo. Her OpenClaw moment — first serious overnight agent use from 2am to 6am — mirrors others' ChatGPT moments: interaction shock, not a single paper breakthrough. She advocates flat teams: Mac Minis on desks, shared chat, deliberately no token-usage KPIs. Internal GPU allocation runs roughly 3:1:1 across research, post-training, and inference. Agent frameworks proliferate like clubs, but self-evolving agents are still unsolved. Post-training without pre-training worldview fails — base model priors set the ceiling.",
+  "important_facts": [
+    "OpenClaw moment: Luo's first transformative agent experience ran 2am–6am — autonomous overnight work, not a demo chat. She frames post-training as the binding era after pre-training scale laws plateau; ex-Damo, DeepSeek, and Xiaomi MiMo roles give her cross-China-lab view on RLHF, tool use, and coding agents.",
+    "Org design: flat structure with Mac Minis, shared group chat, no usage KPIs — avoids Goodharting token metrics while engineers dogfood agents daily. GPU budget splits ~3:1:1 research/post-train/inference — post-train share rises as agents ship. Many agent framework 'clubs' exist; self-evolving agents that improve without human loops remain TBD.",
+    "Technical stack: post-training must inherit pre-training worldview — base model knowledge and safety priors gate agent reliability. GPU ~3:1:1 research/post-train/inference split prices rising post-train spend; investors map Anthropic (Private:Anthropic Long) coding post-train depth versus GOOGL (Watch) balancing Gemini post-train with cloud inference margins."
+  ],
+  "mental_model": {
+    "name": "Post-Train Era × Flat Org × GPU 3:1:1",
+    "components": "Pre-training sets worldview; post-training sets agent behavior — era shift after scale-law diminishing returns. Flat Mac-Mini orgs dogfood agents without usage KPI distortion. GPU 3:1:1 split prices research, post-train, and inference together — post-train share rises with agent revenue. Self-evolving agents unsolved — human feedback loops still moat.",
+    "application": "Private Anthropic: Long on coding post-train flywheel and Claude Code feedback data. Alphabet (GOOGL): Watch — must fund post-train without starving inference margins; org flattening hard at scale. Agent framework startups: many clubs, few self-evolving winners — bet on data loops, not prompt wrappers."
+  },
+  "key_insights": [
+    {
+      "view": "Post-training is the era; pre-training is the foundation.",
+      "question": "What changes in Luo's framework?",
+      "answer": "Base models supply worldview and knowledge; post-training supplies agency — tool use, coding, overnight tasks. Without pre-train priors, RLHF and SFT chase shallow behaviors. GPU ~3:1:1 split reflects rising post-train spend as products ship, not just lab papers."
+    },
+    {
+      "view": "OpenClaw moment is interaction shock, like ChatGPT.",
+      "question": "Why emphasize 2am–6am first use?",
+      "answer": "Breakthrough felt in autonomous overnight work, not benchmark release — same pattern Su Yu draws for language agents. Product moments lag papers; investors should track dogfood hours and task completion, not parameter counts."
+    },
+    {
+      "view": "Self-evolving agents remain TBD amid framework clubs.",
+      "question": "Where is venture edge?",
+      "answer": "Dozens of agent frameworks resemble social clubs — orchestration without compounding learning. True self-evolution needs closed feedback loops (coding fixes, formal proofs). Until solved, post-train teams with flat orgs and real workloads win over wrapper startups."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "GOOGL",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Alphabet (GOOGL): post-training era raises GPU split toward RLHF/SFT — must align Gemini agent behavior with cloud inference economics and flat-team dogfooding"
+    },
+    {
+      "ticker": "Private:Anthropic",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Anthropic: post-training flywheel via Claude Code real-world feedback — Luo's framework validates coding agents as post-train killer app"
+    }
+  ],
+  "golden_quotes": [
+    "My OpenClaw moment was 2am to 6am — the agent worked while I slept; that is the product.",
+    "GPU split is roughly three research, one post-train, one inference — post-train grows as agents ship.",
+    "Many agent frameworks are clubs; self-evolving agents are still nobody's solved problem."
+  ],
+  "chronology": {
+    "subject": "Luo Fuli · Post-Training Era",
+    "events": [
+      {
+        "date": "2020s",
+        "event": "Luo at Damo and DeepSeek; post-training focus"
+      },
+      {
+        "date": "2025",
+        "event": "Claude Code terminal form validates harness-over-IDE thesis"
+      },
+      {
+        "date": "2025–26",
+        "event": "Joins Xiaomi MiMo; flat Mac-Mini org design"
+      },
+      {
+        "date": "2026",
+        "event": "OpenClaw overnight agent moment; records podcast"
+      },
+      {
+        "date": "2026",
+        "event": "Industry shifts GPU budget toward post-train/inference"
+      }
+    ]
+  }
+}

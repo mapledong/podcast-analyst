@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from typing import Any
 
+from refine_batch3_episodes_bodies import BATCH3_EPISODES
 from refine_new_episodes_bodies import NEW_EPISODES
 
 _REFINED_BASE: dict[str, dict[str, dict[str, Any]]] = {
@@ -717,4 +718,4 @@ _REFINED_BASE: dict[str, dict[str, dict[str, Any]]] = {
     },
 }
 
-REFINED = {**_REFINED_BASE, **NEW_EPISODES}
+REFINED = {**_REFINED_BASE, **NEW_EPISODES, **BATCH3_EPISODES}

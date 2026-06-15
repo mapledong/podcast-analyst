@@ -1,0 +1,101 @@
+{
+  "episode_id": "zj-ep137",
+  "podcast": "张小珺商业访谈录",
+  "host": "张小珺",
+  "metadata": {
+    "episode_number": 137,
+    "title": "对洪乐潼4小时访谈：AI for Math、Lean、数学天书",
+    "guest": "洪乐潼",
+    "guest_role": "AI for Math 研究者",
+    "date": "2026-04-20",
+    "duration_minutes": 264,
+    "youtube_url": "https://www.youtube.com/watch?v=bv8ghyTFF9w",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=bv8ghyTFF9w",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Action",
+    "GOOGL",
+    "AI 数学",
+    "形式化证明"
+  ],
+  "conclusion": "洪乐桐认为 AI 数学进入工业化：Action 完成 16 亿美元 A 轮，产品化 Lean 形式化证明流程——起草大纲、形式化、证明或留 sorry——将研究数学变为可验证流水线。数学是结构语言非 trivia；有界注意力优于无限上下文。2020 年 graphs-catch-and-proof 论文与 B Capital 融资信号风投信念，俄亥俄州立教授加盟。投资者应视 Action 为定理证明 Harness 标的；若形式化数学成模型能力层，Google 受益。",
+  "background": "264 分钟节目中，张小珺对话洪乐桐谈 AI 数学。其公司 Action 完成 16 亿美元 A 轮，工业化 Lean 形式化证明：研究者起草大纲、Lean 形式化陈述、完成证明或标记 sorry。她对比自由注意力（模型漫游）与有界注意力（结构化证明步骤）——数学是结构语言非计算技巧。2020 年 graphs-catch-and-proof 论文锚定技术路径。B Capital 参与融资；俄亥俄州立教授离职加盟。论点：形式验证解锁可信 AI 推理，超越数学奥林匹克 benchmark。",
+  "important_facts": [
+    "Action 16 亿美元 A 轮：洪乐桐公司完成 16 亿美元 A 轮产品化 Lean 形式化证明——流程为起草大纲→Lean 形式化→证明或留 sorry。B Capital 参投；俄亥俄州立教授离职加盟。规模信号风投视定理证明为基础设施非小众 demo。",
+    "有界 vs 自由注意力：洪乐桐主张数学 AI 需结构化证明步骤、每子目标有界注意力，非开放式上下文——数学是编码逻辑的结构语言非算术 trivia。2020 年 graphs-catch-and-proof 论文指导神经网络与形式系统接口。",
+    "可投资框架：AI 数学赢家产品化研究者可用的验证流水线，终与编程智能体交汇——与广密编程即 AGI 论点呼应。Google（GOOGL）与前沿实验室若形式推理成模型能力则受益；纯 Action 在 16 亿美元 A 轮后若 Lean Harness 护城河加深则捕获工作流。"
+  ],
+  "mental_model": {
+    "name": "形式化证明流水线 × 有界注意力 × 结构数学",
+    "components": "Lean 工作流（大纲→形式化→证明/sorry）将数学变为工厂可验证产出——信任胜过 benchmark 分数。每子目标有界注意力优于无限上下文求可靠。数学作结构语言联结代码验证与科学推理——16 亿美元 A 轮定价基础设施非奥赛奖牌。",
+    "application": "私有 Action：关注研究者与编程智能体栈中 Lean Harness 采用——16 亿美元轮抬高执行门槛。Alphabet（GOOGL）：Gemini 中形式推理可差异化科学与代码路径。勿仅按 trivia benchmark 估 AI 数学；按验证吞吐量与 sorry 率下降定价。"
+  },
+  "key_insights": [
+    {
+      "view": "形式化证明是产品，非 benchmark 数学。",
+      "question": "Action 16 亿美元轮实际买什么？",
+      "answer": "工业化 Lean 流水线——大纲、形式化、证明或 sorry——使数学机器可检。洪工作流瞄准研究级证明非奥赛噱头。验证吞吐量与 sorry 削减是 KPI；资本资助工程师-研究员团队（含前 OSU 教职员）闭环。"
+    },
+    {
+      "view": "有界注意力胜过上下文军备竞赛。",
+      "question": "洪乐桐为何强调注意力结构？",
+      "answer": "自由注意力使模型漫游；证明步骤需紧子目标范围——每项 Lean 义务有界。数学作结构语言意味可靠来自形式系统非更长 prompt。平行于编程智能体 Harness 设计：编排胜过裸 Token。"
+    },
+    {
+      "view": "AI 数学与编程 AGI 收敛。",
+      "question": "公募投资者如何连点？",
+      "answer": "定理证明与程序验证共享 Lean 类形式栈——Action 融资验证 chat 外基础设施需求。GOOGL 与前沿实验室或整合形式推理；研究者采用则 Action 捕获垂直工作流。盯 sorry 率与证明吞吐量，非 leaderboard 奖牌。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "GOOGL",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Alphabet（GOOGL）：形式化数学与验证作 Gemini 差异化——Action 16 亿美元轮信号可信推理基础设施需求"
+    },
+    {
+      "ticker": "Private:Action",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Action：16 亿美元 A 轮押 Lean 形式化证明流水线——有界注意力定理证明作 Harness 层；前 OSU 教授加盟信号研究深度"
+    }
+  ],
+  "golden_quotes": [
+    "数学是结构语言——不是 trivia，是可机器检验的逻辑。",
+    "起草大纲、Lean 形式化、然后证明或标 sorry——这就是流水线。",
+    "每个子目标的有界注意力，胜过无限上下文自由漫游。"
+  ],
+  "chronology": {
+    "subject": "洪乐桐 · AI 数学",
+    "events": [
+      {
+        "date": "2020",
+        "event": "洪发表 graphs-catch-and-proof 论文"
+      },
+      {
+        "date": "2024",
+        "event": "洪在俄亥俄州立完善自由注意力框架"
+      },
+      {
+        "date": "2024–2025",
+        "event": "Action 成立；Lean 证明工作流产品化"
+      },
+      {
+        "date": "2026",
+        "event": "Action 完成 16 亿美元 A 轮；B Capital 参投"
+      },
+      {
+        "date": "2026",
+        "event": "OSU 教授加盟 Action；录制 264 分钟播客"
+      }
+    ]
+  }
+}

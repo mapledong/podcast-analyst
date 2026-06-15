@@ -1,0 +1,101 @@
+{
+  "episode_id": "tzs-ep182",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 182,
+    "title": "Innovative Drug Post-Mortem: Valuation and BD Logic",
+    "guest": "Guest",
+    "guest_role": "Biotech Investor",
+    "date": "2026-05-04",
+    "duration_minutes": 87,
+    "youtube_url": "https://www.youtube.com/watch?v=suCMElcAOo0",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=suCMElcAOo0",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "2171.HK",
+    "NVS",
+    "Biotech",
+    "Innovation Drugs"
+  ],
+  "conclusion": "Yongqing's biotech post-mortem frames innovation drugs as time's enemy — BD premiums and herd GLP-1/ADC trades diverge from Novartis-style discipline. Patent cliffs meet sudden therapy displacement; Buffett studied pharma in 2020 and passed. Biotech fund positioning hit historic lows in Q4 while BeiGene scale (~$200B market cap) towers over smaller peers. Investors should Watch 2171.HK on capacity and payer gates and NVS on capital allocation discipline versus me-too oncology bets.",
+  "background": "In an 87-minute Practical Investments episode, Yongqing reviews biotech mistakes and sector structure. Innovative drugs fight time — clinical windows, patent cliffs, and sudden standard-of-care shifts (GLP-1 obesity, ADC waves) can erase years of BD premium overnight. He contrasts Novartis (NVS) capital discipline with herd chasing hot modalities. Buffett examined pharma in 2020 and did not buy — patent cliff fear plus displacement risk. Biotech fund positioning reached historic lows in Q4, yet BeiGene's ~$200B scale dwarfs smaller China biotech peers. CARsgen (2171.HK) sits in the cell-therapy economics Yongqing flags: science proof does not equal access scale.",
+  "important_facts": [
+    "Time as enemy: innovative drugs face patent cliffs and sudden therapy displacement — GLP-1 and ADC herds show how fast BD premiums compress when standards shift. Yongqing warns valuation without duration math is fatal; Novartis (NVS) discipline model favors staged bets over narrative herds.",
+    "Buffett 2020 pharma look-but-no-buy: patent cliff and replacement risk scared the oracle — lesson for biotech investors sizing peak-sales templates without displacement scenarios. Biotech fund positioning at historic lows in Q4 may signal contrarian entry only with duration-aware stock picking.",
+    "China scale dispersion: BeiGene ~$200B market cap versus smaller peers — 2171.HK (CARsgen) Watch on CAR-T capacity and NRDL gates per prior CAR-T sessions; scale leaders compound manufacturing and payer teams, single-asset names face step-function risk."
+  ],
+  "mental_model": {
+    "name": "Duration Risk × BD Premium × Displacement Herd",
+    "components": "Innovative drugs are long-duration options shortened by patent cliffs and standard-of-care jumps — time is the enemy. BD price does not equal value when herds rotate (GLP-1, ADC). Discipline (NVS) beats narrative sizing; Buffett's 2020 pass is the cautionary tale.",
+    "application": "Novartis (NVS): Watch capital allocation versus GLP-1/ADC herd — discipline premium in volatile biotech. CARsgen (2171.HK): Watch capacity and reimbursement, not science headlines alone. BeiGene scale as comp — smaller peers need displacement-aware modeling. Q4 historic-low biotech positioning: contrarian only with explicit duration thesis."
+  },
+  "key_insights": [
+    {
+      "view": "BD premium without duration math is a trap.",
+      "question": "Why does Yongqing call innovation drugs time's enemy?",
+      "answer": "Patent cliffs and sudden therapy shifts (GLP-1, ADC) erase years of runway — BD paid at peak narrative often loses to displacement. Novartis-style staged discipline beats herd modality trades. Model exit years, not just peak sales."
+    },
+    {
+      "view": "Buffett's 2020 pass still instructs.",
+      "question": "What should public investors learn?",
+      "answer": "Buffett studied pharma and walked — patent cliff plus replacement fear. Biotech at Q4 historic-low positioning tempts contrarians, but without displacement scenarios it is catching falling knives. Prefer platforms with manufacturing and payer scale (BeiGene ~$200B) over single-asset hope."
+    },
+    {
+      "view": "China biotech is bifurcated by scale.",
+      "question": "How to read 2171.HK here?",
+      "answer": "CARsgen sits in cell-therapy economics — efficacy proven, access constrained. BeiGene's ~$200B scale shows what winners look like; smaller names need NRDL and capacity milestones. 2171.HK Watch aligns with science-proof, economics-scale thesis from prior CAR-T sessions."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "2171.HK",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "CARsgen (2171.HK): biotech post-mortem lens — innovative drugs face time/displacement risk; CAR-T upside tied to capacity and NRDL, not BD premium alone"
+    },
+    {
+      "ticker": "NVS",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Novartis (NVS): discipline comparator versus GLP-1/ADC herd — Yongqing favors staged capital allocation over narrative modality chasing"
+    }
+  ],
+  "golden_quotes": [
+    "Innovative drugs are the enemy of time — patent cliffs and sudden displacement erase years of BD premium.",
+    "Buffett looked at pharma in 2020 and did not buy; patent cliff and replacement risk still matter.",
+    "BeiGene at two hundred billion market cap shows scale; smaller biotech needs duration math, not herd trades."
+  ],
+  "chronology": {
+    "subject": "Yongqing · Biotech Post-Mortem",
+    "events": [
+      {
+        "date": "2020",
+        "event": "Buffett examines pharma; declines to buy"
+      },
+      {
+        "date": "2024",
+        "event": "Novartis skips GLP-1 herd; discipline case study"
+      },
+      {
+        "date": "2023–25",
+        "event": "GLP-1 and ADC herds reshape BD premiums"
+      },
+      {
+        "date": "2025 Q4",
+        "event": "Biotech fund positioning hits historic lows"
+      },
+      {
+        "date": "2026",
+        "event": "Yongqing records 87-min biotech post-mortem"
+      }
+    ]
+  }
+}

@@ -30,6 +30,14 @@ ZH_DIR = ROOT / "data" / "approved" / "zh"
 EN_DIR = ROOT / "data" / "approved"
 
 EPISODE_IDS = [
+    "zj-ep136",
+    "zj-ep137",
+    "zj-ep138",
+    "zj-ep139",
+    "tzs-ep178",
+    "tzs-ep181",
+    "tzs-ep182",
+    "tzs-ep183",
     "zj-ep140",
     "zj-ep141",
     "zj-ep142",

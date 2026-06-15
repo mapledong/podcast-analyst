@@ -1111,6 +1111,16 @@ episodes:
   duration_minutes: 137
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep183
+  episode_number: 183
+  title: Cycle Thinking in Investing — Lessons from Losing Money
+  guest: Yongqing, Wu Xiaobo
+  guest_role: Practical Investments Co-founder, Financial Author
+  date: '2026-05-11'
+  duration_minutes: 120
+  youtube_url: https://www.youtube.com/watch?v=-wsUV8jbDxE
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-visa
   episode_number: 182
   title: Visa
@@ -1120,6 +1130,16 @@ episodes:
   duration_minutes: 224
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep182
+  episode_number: 182
+  title: 'Innovative Drug Post-Mortem: Valuation and BD Logic'
+  guest: Guest
+  guest_role: Biotech Investor
+  date: '2026-05-04'
+  duration_minutes: 87
+  youtube_url: https://www.youtube.com/watch?v=suCMElcAOo0
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-charlie-munger
   episode_number: 181
   title: Charlie Munger
@@ -1129,6 +1149,16 @@ episodes:
   duration_minutes: 66
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep181
+  episode_number: 181
+  title: 'Listener Q&A: Macro Shocks, Pop Mart, AI Research Workflows'
+  guest: Listeners
+  guest_role: Practical Investments Audience
+  date: '2026-04-27'
+  duration_minutes: 85
+  youtube_url: https://www.youtube.com/watch?v=D8POUUBHgoU
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-jensen-huang
   episode_number: 180
   title: NVIDIA CEO Jensen Huang
@@ -1177,6 +1207,16 @@ episodes:
   duration_minutes: 241
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep178
+  episode_number: 178
+  title: 'Decoding Designer Toys: Craft, Business, Trade-offs — Pop Mart'
+  guest: Kevin, Johnny
+  guest_role: Designer-Toy Industry Researchers
+  date: '2026-04-07'
+  duration_minutes: 142
+  youtube_url: https://www.youtube.com/watch?v=bMR2Xk9DxbM
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-porsche-with-doug-demuro
   episode_number: 177
   title: Porsche (with Doug DeMuro)
@@ -1624,6 +1664,16 @@ episodes:
   duration_minutes: 96
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep139
+  episode_number: 139
+  title: 'Agent Survey: Tech History and the OpenClaw Moment with Su Yu'
+  guest: Su Yu
+  guest_role: Agent Technology Expert
+  date: '2026-05-01'
+  duration_minutes: 138
+  youtube_url: https://www.youtube.com/watch?v=Xxz5uh0L1mE
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-7-powers-with-hamilton-helmer
   episode_number: 138
   title: 7 Powers with Hamilton Helmer
@@ -1633,6 +1683,17 @@ episodes:
   duration_minutes: 63
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep138
+  episode_number: 138
+  title: '3.5-Hour Interview with Luo Fuli: OpenClaw, Agent Paradigm, Post-Training,
+    Org Flattening'
+  guest: Luo Fuli
+  guest_role: AI Researcher
+  date: '2026-04-24'
+  duration_minutes: 217
+  youtube_url: https://www.youtube.com/watch?v=vG1RBqn1sG4
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-not-boring-with-packy-mccormick
   episode_number: 137
   title: Not Boring (with Packy McCormick)
@@ -1642,6 +1703,16 @@ episodes:
   duration_minutes: 167
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep137
+  episode_number: 137
+  title: '4-Hour Interview with Hong Letong: AI for Math, Lean, and the Math Canon'
+  guest: Hong Letong
+  guest_role: AI for Math Researcher
+  date: '2026-04-20'
+  duration_minutes: 264
+  youtube_url: https://www.youtube.com/watch?v=bv8ghyTFF9w
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-complexity-investing-semiconductors-with-nzs-capital
   episode_number: 136
   title: Complexity Investing & Semiconductors (with NZS Capital)
@@ -1651,6 +1722,17 @@ episodes:
   duration_minutes: 104
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep136
+  episode_number: 136
+  title: 'Global LLM Quarterly Ep.9: Coding as AGI Act II, Silicon Valley Big Three,
+    Models as Next OS'
+  guest: Guangmi
+  guest_role: AI Industry Observer
+  date: '2026-04-14'
+  duration_minutes: 83
+  youtube_url: https://www.youtube.com/watch?v=u1Lzp-7Ybn8
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-standard-oil-part-ii
   episode_number: 135
   title: Standard Oil Part II

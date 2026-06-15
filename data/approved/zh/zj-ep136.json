@@ -1,0 +1,107 @@
+{
+  "episode_id": "zj-ep136",
+  "podcast": "张小珺商业访谈录",
+  "host": "张小珺",
+  "metadata": {
+    "episode_number": 136,
+    "title": "全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS",
+    "guest": "广密",
+    "guest_role": "AI 行业观察者",
+    "date": "2026-04-14",
+    "duration_minutes": 83,
+    "youtube_url": "https://www.youtube.com/watch?v=u1Lzp-7Ybn8",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=u1Lzp-7Ybn8",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Anthropic",
+    "GOOGL",
+    "MSFT",
+    "编程 AGI"
+  ],
+  "conclusion": "广密将编程框定为 AGI 第二幕：Sonnet 4.5–4.6 一季度能力跃升超过 2025 全年，前沿实验室 70–80% 新代码由 AI 撰写，重度用户每日 Token 消耗数百美元。Anthropic 年化收入或在头部 100–200 万用户中超越 OpenAI；前沿双雄合计年底或达 800–1000 亿美元、次年 2000 亿+。编程难度 8–9/10 仍是最高基准，模型即操作系统、Harness 层复利。投资者应超配 Anthropic 编程飞轮，视 Google/微软为分发赌注，勿假设约 90% 知识工作自动化已定价。",
+  "background": "83 分钟 LLM 季报第 9 期中，张小珺对话广密谈编程作为 AGI 第二幕。Anthropic Sonnet 4.5 至 4.6 将一年进展压缩进一季度；研究员称 70–80% 代码现由 AI 撰写。重度用户每日 Token 数百美元。广密认为 Anthropic 年化收入或在头部 100–200 万用户中超越 OpenAI，OpenAI 加 Anthropic 合计年底或 800–1000 亿美元、次年 2000 亿+。编程难度 8–9/10，高于多数知识任务，成前沿基准。三巨头约每 100 天轮换龙头；模型成操作系统。约 90% 知识工作或可自动化，但扩散与组织重构滞后于能力。",
+  "important_facts": [
+    "Sonnet 4.5–4.6 跃升：广密称 2026 年一季度 Anthropic 编程线进展超过 2025 全年——前沿实验室 70–80% 新代码由 AI 撰写，重度用户每日 Token 数百美元。编程难度 8–9/10，是主流知识任务最高难度，亦 AGI 第二幕绑定基准。",
+    "收入竞赛：Anthropic 年化收入或在头部 100–200 万重度用户中超越 OpenAI；OpenAI 加 Anthropic 合计年底或达 800–1000 亿美元、2027 年 2000 亿+。三巨头（OpenAI、Anthropic、Google）约每 100 天轮换前沿龙头——模型成操作系统，非单一应用。",
+    "自动化上限：广密估约 90% 知识工作理论上可自动化，但组织采纳与 Harness 滞后于模型智商。按席位数估软件 TAM 者错失 Token 深度经济学；编程飞轮以真实修复信号重训模型，先捕获工作流数据者复利龙头。"
+  ],
+  "mental_model": {
+    "name": "编程难度 × 年化收入飞轮 × 模型即 OS",
+    "components": "难度 8–9/10 的编程是 AGI 基准——赢编程者赢 OS 层。头部 100–200 万用户年化收入竞赛信号真实付费意愿，非 demo 流量。约 100 天龙头轮换意味护城河在 Harness 加数据飞轮，非单次发布。约 90% 知识工作自动化是上限；仅编程智能体已落地处定价。",
+    "application": "私有 Anthropic：若编程年化收入在重度用户中超 OpenAI 且 Sonnet 节奏保持则看多——单位分析是每工程师 Token 深度。Alphabet（GOOGL）：观望——Gemini 加分发须匹配编程 Harness 深度，否则沦为 commodity OS 宿主。微软（MSFT）：观望——Copilot 分发大但编程智能体反馈或偏向纯实验室。低配忽视前沿实验室 70–80% AI 写码的叙事。"
+  },
+  "key_insights": [
+    {
+      "view": "编程是 AGI 第二幕，非垂直功能。",
+      "question": "广密为何将编程置于其他 AI 场景之上？",
+      "answer": "难度 8–9/10 使编程是最难主流知识任务——解决它意味约 90% 案头工作连锁自动化。Sonnet 4.5–4.6 一季度进展超 2025 全年；前沿实验室 70–80% AI 写码是相变非增量 Copilot。模型即 OS 意味赢家设定 API、Harness 默认与下游训练数据闭环。"
+    },
+    {
+      "view": "Anthropic 或在重度用户年化收入赛中领先。",
+      "question": "投资者如何读 OpenAI 与 Anthropic 收入？",
+      "answer": "头部 100–200 万用户驱动不成比例 Token 支出——编程重度用户每日数百美元。广密见 Anthropic 年化收入或在该 cohort 超 OpenAI，合计前沿年底 800–1000 亿、次年 2000 亿+。押注复利编程反馈数据者，非头条用户数。"
+    },
+    {
+      "view": "龙头约每 100 天轮换——护城河是飞轮。",
+      "question": "三巨头轮换是否杀死持久护城河？",
+      "answer": "基准龙头约季度互换，但编程智能体形成自我改进闭环——真实修复信号重训模型。某实验室规模化捕获工程师工作流数据后，追赶似马车追汽车。裸模型 API 商品化时模型外 Harness（沙箱、检查点）或捕获价值。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Anthropic",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Anthropic：Sonnet 4.5–4.6 跃升与前沿实验室 70–80% AI 写码——年化收入或在头部 100–200 万重度用户中超 OpenAI；编程飞轮即 AGI 第二幕"
+    },
+    {
+      "ticker": "GOOGL",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Alphabet（GOOGL）：模型即 OS 竞赛需编程 Harness 深度加安卓/云分发——约 100 天龙头轮换使执行速度关键"
+    },
+    {
+      "ticker": "MSFT",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "微软（MSFT）：Copilot 分发规模对比纯编程实验室——须将席位数转为 Token 深度飞轮，否则面临 OS 层商品化风险"
+    }
+  ],
+  "golden_quotes": [
+    "编程是 AGI 第二幕——难度 8 到 9 分，是其它一切的基准。",
+    "前沿实验室 70% 到 80% 新代码已是 AI 写的——这不是 Copilot，是替代。",
+    "三巨头大约一百天轮换一次；护城河看谁先跑通编程飞轮。"
+  ],
+  "chronology": {
+    "subject": "广密 · LLM 季报第 9 期",
+    "events": [
+      {
+        "date": "2025",
+        "event": "Sonnet 线推进；编程智能体采用上升"
+      },
+      {
+        "date": "2026 年一季度",
+        "event": "Sonnet 4.5–4.6 跃升超过 2025 全年进展"
+      },
+      {
+        "date": "2026",
+        "event": "前沿实验室 70–80% AI 写码；重度用户每日数百美元 Token"
+      },
+      {
+        "date": "2026",
+        "event": "广密录制 LLM 季报第 9 期谈编程即 AGI 第二幕"
+      },
+      {
+        "date": "2026–2027",
+        "event": "合计前沿年化收入轨迹迈向 800–1000 亿后 2000 亿+"
+      }
+    ]
+  }
+}

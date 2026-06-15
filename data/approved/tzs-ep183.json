@@ -1,0 +1,101 @@
+{
+  "episode_id": "tzs-ep183",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 183,
+    "title": "Cycle Thinking in Investing — Lessons from Losing Money",
+    "guest": "Yongqing, Wu Xiaobo",
+    "guest_role": "Practical Investments Co-founder, Financial Author",
+    "date": "2026-05-11",
+    "duration_minutes": 120,
+    "youtube_url": "https://www.youtube.com/watch?v=-wsUV8jbDxE",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=-wsUV8jbDxE",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "BRK.B",
+    "TSM",
+    "Cycle Thinking",
+    "Intrinsic Value"
+  ],
+  "conclusion": "Yongqing joins Wu Xiaobo for 120 minutes on cycle thinking — enterprise lifecycle, industry lifecycle, capital cycle, and sentiment cycle interlock. He maps four loss traps, separates intrinsic value from price, and notes mutual funds peak-weight sectors at tops. Rational valuation must pair with expected return, not narrative heat. BRK.B Long as cycle-discipline compounder; TSM Watch as capital-cycle bellwether through semiconductor capex swings.",
+  "background": "In a 120-minute cross-show episode, Practical Investments co-founder Yongqing speaks with Wu Xiaobo on cycles. Four lenses: enterprise lifecycle (founder to bureaucracy), industry lifecycle (growth to consolidation), capital cycle (funding gluts and droughts), sentiment cycle (greed/fear overshoot). Four loss traps — buying high on sentiment, holding through fundamental decay, over-levering cyclicals, confusing price with value — recur across eras. Mutual funds historically peak-weight fashionable sectors at tops. Yongqing insists rational valuation must translate to expected return math; BRK.B embodies cycle patience, TSM flags global capital-cycle swings in fabs.",
+  "important_facts": [
+    "Four cycles: enterprise, industry, capital, sentiment — Yongqing and Wu map how all four stack; mistiming one cycle layer multiplies drawdowns. Enterprise lifecycle decay (bureaucracy) often coincides with industry maturity and sentiment peaks at year 10–15 of industry S-curves.",
+    "Four loss traps: (1) sentiment-top buying, (2) holding through fundamental decay, (3) cyclical leverage, (4) price-value confusion. Mutual fund peak sector weights at tops are a measurable sentiment indicator — avoid mirroring crowd max allocation.",
+    "Valuation discipline: intrinsic value is dynamic, not a static PE label — must connect to expected return under cycle-aware scenarios (12–15% hurdle common in Yongqing's framework). BRK.B Long as patient compounder; TSM Watch on semiconductor capex and capital-cycle turns."
+  ],
+  "mental_model": {
+    "name": "Four Cycles × Four Traps × Expected Return",
+    "components": "Cycles stack — enterprise, industry, capital, sentiment — mistiming one amplifies losses. Four traps recur: heat-chasing, decay denial, cyclical leverage, price-value confusion. Mutual fund max weights signal tops. Rational valuation equals expected return under cycle scenarios, not slogan cheapness.",
+    "application": "Berkshire (BRK.B): Long — cycle patience and cash optionality when sentiment peaks. Taiwan Semi (TSM): Watch — capital-cycle bellwether; fab capex swings drive earnings variance. Trim when mutual funds peak-weight your sector; add when expected return clears hurdle with intact enterprise lifecycle."
+  },
+  "key_insights": [
+    {
+      "view": "Cycles stack; missing one layer is expensive.",
+      "question": "What is Yongqing's cycle framework?",
+      "answer": "Enterprise, industry, capital, and sentiment cycles interlock — buying at sentiment peak in a mature industry with tightening capital is the worst stack. Wu Xiaobo collaboration stresses teaching traps, not predicting dates. Map where you are on each cycle before sizing."
+    },
+    {
+      "view": "Mutual fund peak weights are contrarian signals.",
+      "question": "How to use fund positioning data?",
+      "answer": "Historic pattern: funds max-weight hot sectors at tops — measurable sentiment extremity. Pair with four loss traps checklist before adding exposure. Expected return must improve as price falls, not just narratives flip bearish."
+    },
+    {
+      "view": "Intrinsic value requires expected-return math.",
+      "question": "How differs from low-PE value labels?",
+      "answer": "Dynamic intrinsic value under cycle scenarios — cash flows, reinvestment, decay risk — must yield hurdle-beating expected return. Price cheap on PE can be value trap if enterprise lifecycle is decaying. BRK.B wins by surviving all four cycles with discipline."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "BRK.B",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Berkshire Hathaway (BRK.B): cycle-discipline compounder — Yongqing Long through enterprise/industry/capital/sentiment stacks; cash optionality at sentiment peaks"
+    },
+    {
+      "ticker": "TSM",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Taiwan Semiconductor (TSM): capital-cycle bellwether — fab capex and funding swings drive earnings; Watch for cycle turn alignment with rational expected-return entry"
+    }
+  ],
+  "golden_quotes": [
+    "Enterprise, industry, capital, sentiment — four cycles stack; mistime one and the loss compounds.",
+    "Mutual funds peak-weight the hot sector at the top — that is a measurable sentiment signal.",
+    "Rational valuation is not a low PE sticker — it is expected return after you price the cycles."
+  ],
+  "chronology": {
+    "subject": "Yongqing × Wu Xiaobo · Cycle Thinking",
+    "events": [
+      {
+        "date": "2009–20",
+        "event": "Zero-rate capital cycle; long enterprise growth phases"
+      },
+      {
+        "date": "2021",
+        "event": "Consumer herding peak; mutual funds max weight"
+      },
+      {
+        "date": "2022–24",
+        "event": "Sentiment reset; rate-driven capital cycle tightens"
+      },
+      {
+        "date": "2025–26",
+        "event": "AI sentiment cycle peaks; fund weights concentrate"
+      },
+      {
+        "date": "2026",
+        "event": "Yongqing × Wu Xiaobo 120-min cycle framework episode"
+      }
+    ]
+  }
+}

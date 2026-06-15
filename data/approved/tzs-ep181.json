@@ -1,0 +1,101 @@
+{
+  "episode_id": "tzs-ep181",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 181,
+    "title": "Listener Q&A: Macro Shocks, Pop Mart, AI Research Workflows",
+    "guest": "Listeners",
+    "guest_role": "Practical Investments Audience",
+    "date": "2026-04-27",
+    "duration_minutes": 85,
+    "youtube_url": "https://www.youtube.com/watch?v=D8POUUBHgoU",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=D8POUUBHgoU",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "9992.HK",
+    "BRK.B",
+    "Macro",
+    "Value Investing"
+  ],
+  "conclusion": "In an 85-minute listener Q&A, Yongqing balances macro/geopolitics noise with discipline: US equities annualized ~15% since 2009 — he still favors Berkshire or index for most allocators. He walks an AI-augmented research workflow — gap analysis on oil at $60, 8x PE, 12–15% expected return — while trimming Pop Mart guidance from 35% to ~20% as the stock fell ~20%; buyback near 189 HKD is a signal. AI cannot replace offline expert networks. 9992.HK Watch; BRK.B Long.",
+  "background": "In an 85-minute Practical Investments listener Q&A, Yongqing fields macro, geopolitics, and single-name questions. On US markets he notes ~15% annualized returns since 2009 and recommends Berkshire Hathaway or broad index for most investors rather than stock-picking heroics. He demos AI research workflow — structured gap analysis — using oil at $60 with ~8x PE implying 12–15% expected return if assumptions hold. On Pop Mart he cut revenue-growth guidance from 35% toward ~20% as shares dropped ~20%; management buyback around 189 HKD signals confidence. He stresses AI assists research but cannot replace offline expert networks for ground truth.",
+  "important_facts": [
+    "US equity baseline: ~15% annualized since 2009 — Yongqing advises most investors own Berkshire (BRK.B) or index funds rather than chase narratives. Macro/geopolitics headlines are noise unless they change cash-flow math.",
+    "AI research workflow: Yongqing uses gap analysis with AI tools — oil example at $60, ~8x PE, 12–15% expected return if commodity and capital-return assumptions hold. Demonstrates process, not a call — AI speeds structuring, not replaces judgment.",
+    "Pop Mart update: guidance trimmed from 35% growth toward ~20% as stock fell ~20%; buyback signal near 189 HKD. 9992.HK Watch — thesis intact if IP craft holds but multiples compress on slower guidance. AI cannot substitute expert networks for channel checks."
+  ],
+  "mental_model": {
+    "name": "Index/Berkshire Baseline × AI Gap Analysis × Expert Network",
+    "components": "15% US annualized since 2009 sets opportunity cost — beating index needs explicit edge. AI structures gap analysis faster; offline experts supply ground truth AI lacks. Single-name trims (Pop Mart guidance cut) require pre-stated reversal triggers.",
+    "application": "Berkshire (BRK.B): Long core holding when macro noise rises — capital discipline plus optionality. Pop Mart (9992.HK): Watch after guidance cut and ~20% drawdown — buyback at ~189 HKD supportive but model ~20% growth not 35%. Use AI for workflow speed, not expert-network replacement."
+  },
+  "key_insights": [
+    {
+      "view": "Most investors should index or own Berkshire.",
+      "question": "How does Yongqing frame US equities?",
+      "answer": "~15% annualized since 2009 is a high bar — stock-picking needs repeatable process edge. BRK.B bundles discipline and downside awareness. Macro/geopolitics is context, not a timing tool, unless cash flows change."
+    },
+    {
+      "view": "AI accelerates gap analysis, not field work.",
+      "question": "What is his oil example teaching?",
+      "answer": "At $60 and ~8x PE, implied return ~12–15% if assumptions hold — AI helps structure the workbook faster. Channel checks and expert networks remain irreplaceable for verifying inputs. Workflow upgrade ≠ autonomous investing."
+    },
+    {
+      "view": "Pop Mart guidance cut demands thesis refresh.",
+      "question": "Why move growth view from 35% to ~20%?",
+      "answer": "Stock ~20% drawdown plus slower outlook warrants conservative modeling — buyback near 189 HKD is management signal but not thesis alone. 9992.HK Watch until IP pipeline and same-store data confirm re-acceleration."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "9992.HK",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Pop Mart (9992.HK): Watch after guidance cut from 35% toward ~20% and ~20% stock decline — buyback near 189 HKD supportive; IP craft thesis needs refreshed growth proof"
+    },
+    {
+      "ticker": "BRK.B",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Berkshire Hathaway (BRK.B): Yongqing core holding — ~15% US annualized since 2009 makes index/Berkshire rational default amid macro noise"
+    }
+  ],
+  "golden_quotes": [
+    "Since 2009 the US market annualized about fifteen percent — for most people Berkshire or the index is enough.",
+    "AI can build the gap-analysis spreadsheet faster; it cannot replace calling the expert on the ground.",
+    "I moved Pop Mart from thirty-five percent growth toward twenty — the stock was already down twenty percent; buyback near 189 HKD is a signal, not the whole thesis."
+  ],
+  "chronology": {
+    "subject": "Yongqing · Listener Q&A 2026",
+    "events": [
+      {
+        "date": "2009–26",
+        "event": "US equities ~15% annualized; BRK.B discipline frame"
+      },
+      {
+        "date": "2025",
+        "event": "Geopolitical shocks reprice China consumer holdings"
+      },
+      {
+        "date": "2026",
+        "event": "Yongqing demos AI gap-analysis workflow (oil example)"
+      },
+      {
+        "date": "2026",
+        "event": "Pop Mart guidance cut 35%→~20%; stock ~-20%; buyback ~189 HKD"
+      },
+      {
+        "date": "2026",
+        "event": "Records 85-min listener Q&A episode"
+      }
+    ]
+  }
+}

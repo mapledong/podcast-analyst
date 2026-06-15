@@ -1,0 +1,118 @@
+# EP.139 — Su Yu
+
+## *Agent Technology Expert*
+
+**★★★☆☆** · 3/5
+
+**Podcast** Zhang Xiaojun Podcast · **Date** May 1, 2026 · **Duration** 138 min · **Read** ≈3 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Su Yu · Agent Technology Expert
+
+**Listen** [YouTube](https://www.youtube.com/watch?v=Xxz5uh0L1mE) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** NeoCognition · GOOGL · LANGUAGE · WORLD
+> ### Conclusion
+>
+> OSU professor Su Yu traces agent history from logical agents through neural agents to today's language agents — his OpenClaw moment, like ChatGPT's, is an interaction breakthrough, not a single algorithm leap. Continual learning and world models remain the bottleneck; he co-founded NeoCognition with a $40M seed to build a universal digital agent. China moves faster on the application layer; Su is a 2025 Sloan Fellow. Investors should watch NeoCognition's agent stack and GOOGL Long as distribution plus research depth compound language-agent workflows.
+
+---
+
+## Background
+
+> In a 138-minute episode, Zhang Xiaojun speaks with Su Yu, Ohio State professor and NeoCognition co-founder. He maps agent evolution: logical agents (symbolic rules) → neural agents (learned policies) → language agents (LLM orchestration). OpenClaw felt like ChatGPT moment — usability shock from overnight autonomous work, not a new architecture paper. Bottlenecks are continual learning and world models — agents forget and hallucinate without structured memory. NeoCognition raised $40M seed for a universal digital agent spanning desktop and workflows. China ships application-layer products faster; US leads base research. Su named 2025 Sloan Fellow.
+
+---
+
+## Key Facts
+
+> **F1** Agent lineage: Su Yu frames three eras — logical agents (expert systems), neural agents (deep RL), language agents (LLM tool orchestration). OpenClaw and ChatGPT moments are interaction breakthroughs — users feel agency overnight, not when papers publish. NeoCognition $40M seed targets universal digital agent across OS-level tasks.
+
+> **F2** Bottleneck: continual learning and world models — language agents lack durable memory and causal world state; without them, agents reset each session. Su argues application speed differs by region: China faster on product iteration, US on foundational research — NeoCognition's $40M seed targets the gap; investors should not conflate shipping speed with model leadership.
+
+> **F3** Su Yu credentials: OSU professor, 2025 Sloan Fellow, NeoCognition co-founder. Investable map: Private:NeoCognition Watch on world-model progress; GOOGL Long on Gemini plus Android/desktop distribution for language agents.
+
+
+---
+
+## Mental Model · *Logical → Neural → Language Agent × World Model Gap*
+
+> **Components**
+>
+> Language agents are UX breakthrough atop unfinished cognition — interaction moments precede science solutions. Continual learning and world models gate reliability beyond demo nights. China application layer speed ≠ US base-model lead — bet on who closes memory gap first.
+>
+> **Application**
+>
+> Private NeoCognition: Watch $40M seed execution on universal agent — milestone continual-learning benchmarks, not vibe demos. Alphabet (GOOGL): Long — language-agent distribution via Android, Chrome, Workspace plus DeepMind research stack. Avoid conflating OpenClaw hype with solved world models.
+
+---
+
+
+## Key Insights
+
+> **1.** OpenClaw is ChatGPT-class interaction, not architecture revolution.
+>
+> **Q** How should investors read agent moments?
+>
+> **A** Su and Luo both describe overnight-use shock — product felt, not paper proved. Capital rushes on interaction curves while continual learning lags. Underwrite harness and memory layers, not assume autonomy is solved.
+
+> **2.** World models are the binding constraint.
+>
+> **Q** What blocks universal digital agents?
+>
+> **A** Language agents orchestrate tools but lack stable world state and on-the-job learning — each session resets. NeoCognition's thesis attacks this directly; $40M seed is early option on memory architecture. Winners compound structured feedback; losers stay prompt wrappers.
+
+> **3.** China faster on apps, US on foundations — both matter.
+>
+> **Q** How to position geographically?
+>
+> **A** Su observes China iterates application layer quickly while US leads base research — neither alone wins universal agents. GOOGL bridges both via research plus distribution; NeoCognition is US pure-play on agent cognition. Track world-model milestones, not launch press alone.
+
+---
+
+## Investment Ideas
+
+> **1. NeoCognition** · 🟡 WATCH · ●●○ Medium
+>
+> NeoCognition: $40M seed universal digital agent — Su Yu targets continual learning and world-model bottlenecks; OSU professor plus 2025 Sloan Fellow pedigree
+
+> **2. GOOGL** · 🟢 LONG · ●●○ Medium
+>
+> Alphabet (GOOGL): language-agent distribution (Android, Chrome, Workspace) plus DeepMind research — Su's framework favors integrated stack over pure model APIs
+
+---
+
+## Golden Quotes
+
+> "Logical agent, neural agent, language agent — we are in the third act; the bottleneck moved to memory."
+
+> "OpenClaw felt like ChatGPT — an interaction moment, not a single paper breakthrough."
+
+> "China ships the application layer faster; solving world models is still the hard science."
+
+---
+
+## Chronology
+
+> *Su Yu · NeoCognition & Language Agents*
+>
+> **1960–90s** Logical agent era; expert systems
+>
+> **2010s** Neural agent era; deep RL peaks
+>
+> **2022–23** ChatGPT interaction moment; language agents emerge
+>
+> **2025** Su named Sloan Fellow; NeoCognition seed forms
+>
+> **2026** NeoCognition $40M seed; OpenClaw interaction wave
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Podcast, Zhang Xiaojun, or Su Yu. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=Xxz5uh0L1mE) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

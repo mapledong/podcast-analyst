@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T15:49:33.777Z",
+  "generatedAt": "2026-06-15T17:52:42.606Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -49,7 +49,7 @@
       "accent_color": "#8B2942",
       "youtube_url": "https://www.youtube.com/@xiaojunpodcast",
       "cover_url": "/covers/zhang-xiaojun.jpg",
-      "episodeCount": 6
+      "episodeCount": 10
     },
     {
       "id": "touzi-shizhanpai",
@@ -59,7 +59,7 @@
       "accent_color": "#1A5F4A",
       "youtube_url": "https://www.youtube.com/results?search_query=投资实战派",
       "cover_url": "/covers/touzi-shizhanpai.jpg",
-      "episodeCount": 6
+      "episodeCount": 10
     }
   ],
   "episodes": [
@@ -3475,7 +3475,7 @@
       "date": "2026-06-07",
       "durationMinutes": 90,
       "readMinutes": 3,
-      "rating": 3,
+      "rating": 4,
       "conclusion": "On Shen Shuaibo's show, Yongqing draws a bright line between momentum chasing and value discipline: buying because a stock rose is usually wrong unless you can name what breaks the cycle. With 2026 retail safe-haven flows into equities globally, he stays with few high-quality compounders and return asymmetry — tolerating drawdowns only when upside skew justifies them. Know the mainstream narrative, but pre-build portfolio switches; participation without a thesis is gambling.",
       "youtubeUrl": "https://www.youtube.com/watch?v=Fko6aJvRC4c",
       "summaryFile": "tzs-ep186.md",
@@ -3609,7 +3609,7 @@
       "date": "2026-05-24",
       "durationMinutes": 108,
       "readMinutes": 3,
-      "rating": 4,
+      "rating": 5,
       "conclusion": "David's CAR-T session with CARsgen CEO Li Zonghai and oncologist Qi Changsong shows efficacy is proven but economics are supply-constrained: annual output of roughly one to two thousand doses meets only a sliver of six-figure late-line demand in China — physicians, not price alone, ration scarce slots. Investors should model capacity ramps, patient-selection biomarkers, and NRDL reimbursement together; 2171.HK is a bet on manufacturing scale-up and payer access, not science headlines.",
       "youtubeUrl": "https://www.youtube.com/watch?v=YGy8A_KWWNM",
       "summaryFile": "tzs-ep184.md",
@@ -3641,6 +3641,427 @@
       "chronologySubject": "CAR-T · CARsgen & Clinical Practice"
     },
     {
+      "id": "acq-sp26-03",
+      "podcastId": "acquired",
+      "episodeNumber": 211,
+      "title": "The Communist Capitalist Who Saved Investors a Trillion Dollars",
+      "guest": "Vanguard",
+      "displayTitle": "Vanguard",
+      "displaySubtitle": "The Communist Capitalist Who Saved Investors a Trillion Dollars · Season Spring 2026 · Episode 3",
+      "guestRole": "Season Spring 2026 · Episode 3",
+      "date": "2026-05-17",
+      "durationMinutes": 228,
+      "readMinutes": 10,
+      "rating": 3,
+      "conclusion": "Most Americans already hold Vanguard products — through a 401(k), target-date fund, or broad market ETF — without paying much attention to who runs the firm. That indifference is itself the story. Bogle did not win by stock-picking; he restructured who captured fund-industry economics. Fired from Wellington in 1974 but still chairman of the fund boards, he built a mutually owned manager with no outside shareholders. Fee savings flow back to customers as lower expense ratios rather than dividends. The 1976 index fund raised only $11.3M and took years to gain traction; Vanguard now manages ~$12T at 0.07% average fees. Ben and David estimate roughly $1T shifted from Wall Street to savers. The longer-term tension: Vanguard is among the largest shareholders of corporate America, which raises governance questions the fee narrative alone does not settle.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ipiKIgdynZE",
+      "summaryFile": "acq-sp26-03.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Index Funds",
+        "Jack Bogle",
+        "Mutual Ownership"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "VTI",
+          "direction": "Long",
+          "confidence": "High",
+          "thesis": "Vanguard Total Stock Market ETF (~0.03% expense ratio) captures the episode's core idea: US equity beta at minimal cost inside a mutually owned structure where fee reductions accrue directly to holders. Reasonable default core allocation for long-horizon savers who accept market returns minus small drag."
+        },
+        {
+          "ticker": "BLK",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "BlackRock is the other passive giant — iShares leads ETFs with ~$3.3T AUM and 1,400 products versus Vanguard's narrower lineup — while Aladdin and institutional diversification create a different but equally durable moat; Salim Ramji's move from iShares to Vanguard CEO BlackRock's ETF dominance as the competitive benchmark."
+        }
+      ],
+      "chronologySubject": "Jack Bogle · Vanguard"
+    },
+    {
+      "id": "tzs-ep183",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 183,
+      "title": "Cycle Thinking in Investing — Lessons from Losing Money",
+      "guest": "Yongqing, Wu Xiaobo",
+      "displayTitle": "Yongqing, Wu Xiaobo",
+      "displaySubtitle": "Cycle Thinking in Investing — Lessons from Losing Money",
+      "guestRole": "Practical Investments Co-founder, Financial Author",
+      "date": "2026-05-11",
+      "durationMinutes": 120,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Yongqing joins Wu Xiaobo for 120 minutes on cycle thinking — enterprise lifecycle, industry lifecycle, capital cycle, and sentiment cycle interlock. He maps four loss traps, separates intrinsic value from price, and notes mutual funds peak-weight sectors at tops. Rational valuation must pair with expected return, not narrative heat. BRK.B Long as cycle-discipline compounder; TSM Watch as capital-cycle bellwether through semiconductor capex swings.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-wsUV8jbDxE",
+      "summaryFile": "tzs-ep183.md",
+      "summaryFileZh": "tzs-ep183.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "BRK.B",
+        "TSM",
+        "Cycle Thinking",
+        "Intrinsic Value"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BRK.B",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Berkshire Hathaway (BRK.B): cycle-discipline compounder — Yongqing Long through enterprise/industry/capital/sentiment stacks; cash optionality at sentiment peaks"
+        },
+        {
+          "ticker": "TSM",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Taiwan Semiconductor (TSM): capital-cycle bellwether — fab capex and funding swings drive earnings; Watch for cycle turn alignment with rational expected-return entry"
+        }
+      ],
+      "chronologySubject": "Yongqing × Wu Xiaobo · Cycle Thinking"
+    },
+    {
+      "id": "tzs-ep182",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 182,
+      "title": "Innovative Drug Post-Mortem: Valuation and BD Logic",
+      "guest": "Guest",
+      "displayTitle": "Guest",
+      "displaySubtitle": "Innovative Drug Post-Mortem: Valuation and BD Logic",
+      "guestRole": "Biotech Investor",
+      "date": "2026-05-04",
+      "durationMinutes": 87,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Yongqing's biotech post-mortem frames innovation drugs as time's enemy — BD premiums and herd GLP-1/ADC trades diverge from Novartis-style discipline. Patent cliffs meet sudden therapy displacement; Buffett studied pharma in 2020 and passed. Biotech fund positioning hit historic lows in Q4 while BeiGene scale (~$200B market cap) towers over smaller peers. Investors should Watch 2171.HK on capacity and payer gates and NVS on capital allocation discipline versus me-too oncology bets.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=suCMElcAOo0",
+      "summaryFile": "tzs-ep182.md",
+      "summaryFileZh": "tzs-ep182.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "2171.HK",
+        "NVS",
+        "Biotech",
+        "Innovation Drugs"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "2171.HK",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "CARsgen (2171.HK): biotech post-mortem lens — innovative drugs face time/displacement risk; CAR-T upside tied to capacity and NRDL, not BD premium alone"
+        },
+        {
+          "ticker": "NVS",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Novartis (NVS): discipline comparator versus GLP-1/ADC herd — Yongqing favors staged capital allocation over narrative modality chasing"
+        }
+      ],
+      "chronologySubject": "Yongqing · Biotech Post-Mortem"
+    },
+    {
+      "id": "bb-pricesmart-central-america-s-costco",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 244,
+      "title": "PriceSmart: Central America's Costco",
+      "guest": "PriceSmart",
+      "displayTitle": "PriceSmart",
+      "displaySubtitle": "Central America's Costco · Public · PSMT",
+      "guestRole": "Public · PSMT",
+      "date": "2026-05-01",
+      "durationMinutes": 56,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "PriceSmart exports Sol Price's membership warehouse model to Latin America and the Caribbean with ~61 clubs, ~$5.5 billion revenue, and no direct club-store competition in its markets. ~40% of EBIT comes from upfront membership fees at $45–$90 tiers, insulating earnings from FX volatility. Controlled real-estate expansion, owned distribution centers after four to five clubs per market, and Kirkland sourcing ties make this a slow but durable compounder targeting affluent emerging-market consumers.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-pricesmart-central-america-s-costco.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "PSMT",
+        "COST",
+        "Membership Retail",
+        "Latin America"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "PSMT",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "No club-store competition across 12 Latin markets, ~40% EBIT from recurring membership, ~90%+ cash conversion, and runway from ~61 to potentially 100+ clubs via Colombia/Chile densification — Sol Price operating culture and Kirkland ties support a slow compounder at ~$5B market cap."
+        },
+        {
+          "ticker": "COST",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "PriceSmart validates the membership warehouse model's exportability and still sources Kirkland product — a lens on Costco's playbook applied where COST chose not to scale, not a direct relative-value short."
+        }
+      ],
+      "chronologySubject": "PriceSmart · Sol Price"
+    },
+    {
+      "id": "tzs-ep181",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 181,
+      "title": "Listener Q&A: Macro Shocks, Pop Mart, AI Research Workflows",
+      "guest": "Listeners",
+      "displayTitle": "Listeners",
+      "displaySubtitle": "Listener Q&A: Macro Shocks, Pop Mart, AI Research Workflows",
+      "guestRole": "Practical Investments Audience",
+      "date": "2026-04-27",
+      "durationMinutes": 85,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "In an 85-minute listener Q&A, Yongqing balances macro/geopolitics noise with discipline: US equities annualized ~15% since 2009 — he still favors Berkshire or index for most allocators. He walks an AI-augmented research workflow — gap analysis on oil at $60, 8x PE, 12–15% expected return — while trimming Pop Mart guidance from 35% to ~20% as the stock fell ~20%; buyback near 189 HKD is a signal. AI cannot replace offline expert networks. 9992.HK Watch; BRK.B Long.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=D8POUUBHgoU",
+      "summaryFile": "tzs-ep181.md",
+      "summaryFileZh": "tzs-ep181.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "9992.HK",
+        "BRK.B",
+        "Macro",
+        "Value Investing"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "9992.HK",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Pop Mart (9992.HK): Watch after guidance cut from 35% toward ~20% and ~20% stock decline — buyback near 189 HKD supportive; IP craft thesis needs refreshed growth proof"
+        },
+        {
+          "ticker": "BRK.B",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Berkshire Hathaway (BRK.B): Yongqing core holding — ~15% US annualized since 2009 makes index/Berkshire rational default amid macro noise"
+        }
+      ],
+      "chronologySubject": "Yongqing · Listener Q&A 2026"
+    },
+    {
+      "id": "tzs-ep180",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 180,
+      "title": "Pop Mart: Why Did the Stock Fall After RMB 37.1B Revenue? IP, Fashion Risk & PE Debate",
+      "guest": "Jeff",
+      "displayTitle": "Jeff",
+      "displaySubtitle": "Pop Mart: Why Did the Stock Fall After RMB 37.1B Revenue? IP, Fashion Risk & PE Debate",
+      "guestRole": "Consumer & IP Research (Guest)",
+      "date": "2026-04-20",
+      "durationMinutes": 67,
+      "readMinutes": 5,
+      "rating": 4,
+      "conclusion": "Recorded March 31, 2026, David and Jeff walk through Pop Mart's narrative break: 2025 revenue RMB 37.1B (+184.7%) but net profit RMB 13B rose only 29.3%, and roughly twenty percent 2026 growth guidance felt like a hard brake — shares fell about thirty percent in two days to near 142–143 HKD, market cap below HKD 200B. The question is whether Labubu is durable IP or a fashion cycle, with Disney near fourteen times price-to-earnings as the comp. Until pipeline breadth proves out, position below traditional compounders and use scenarios, not single-point earnings.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mcmrSIEJfJk",
+      "summaryFile": "tzs-ep180.md",
+      "summaryFileZh": "tzs-ep180.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "9992.HK",
+        "IP Consumer",
+        "Valuation"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "9992.HK",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Pop Mart (9992.HK): post-guide shock at ~142–143 HKD, market cap below HKD 200B after ~30% two-day drop — ~20% 2026 growth still respectable if IP pipeline breadth sustains premium vs Disney ~14x"
+        },
+        {
+          "ticker": "DIS",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Disney (DIS): episode comps Pop Mart to character-IP compounders at ~14x price-to-earnings — park plus media flywheel sets ceiling on pure toy and IP earnings power"
+        }
+      ],
+      "chronologySubject": "Pop Mart · 2025 Results & Valuation Reset"
+    },
+    {
+      "id": "bb-givaudan-the-magic-ingredients",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 242,
+      "title": "Givaudan: The Magic Ingredients",
+      "guest": "Givaudan",
+      "displayTitle": "Givaudan",
+      "displaySubtitle": "The Magic Ingredients · Public · GVDNY",
+      "guestRole": "Public · GVDNY",
+      "date": "2026-04-17",
+      "durationMinutes": 41,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Fassnacht frames Givaudan as the pick-and-shovel leader of a defensive, innovation-driven industry: ~25% global fragrance share, ~7.5 billion Swiss francs of revenue, and sticky cash-cow formulas where flavor or scent is ~1–5% of a brand's cost but drives repurchase. Trading near 23 times free cash flow with ~4% yield, the stock embeds only ~3% FCF growth despite 5–6% organic history and no negative organic year since the 2000 IPO.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-givaudan-the-magic-ingredients.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "GVDNY",
+        "Flavors & Fragrances",
+        "Consumer Staples"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GVDNY",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Fassnacht argues defensive 5–6% organic growth, ~18% FCF margins, and formula stickiness deserve a quality premium; at ~23 times FCF with ~4% yield and dividend well covered, the market under-prices durability if new management preserves Roche-era discipline."
+        }
+      ],
+      "chronologySubject": "Givaudan"
+    },
+    {
+      "id": "tzs-ep179",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 179,
+      "title": "Yongqing: Value Investing Framework, Capital Cycles & Quality Compounders",
+      "guest": "Yongqing",
+      "displayTitle": "Yongqing",
+      "displaySubtitle": "Co-founder, Practical Investments & Fund Manager",
+      "guestRole": "Co-founder, Practical Investments & Fund Manager",
+      "date": "2026-04-13",
+      "durationMinutes": 64,
+      "readMinutes": 5,
+      "rating": 4,
+      "conclusion": "Yongqing's Practical Investments framework ties Graham-era price-to-book thinking to today's quality compounders: intrinsic value moves with lifecycle, and capital cycles — not macro headlines — tell you when crowded trades will compress forward returns. Mutual funds peak weight at narrative tops and de-risk on drawdowns, which contrarians can use as timing signals if they tolerate relative underperformance. The actionable rule is buy durable return-on-invested-capital above cost of capital at reasonable prices, and trim when capital floods into a sector; thirty times price-to-earnings only works if roughly twenty-five percent ROIC sustains ten years.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uEjZzUJZOgI",
+      "summaryFile": "tzs-ep179.md",
+      "summaryFileZh": "tzs-ep179.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Value Investing",
+        "Capital Cycle",
+        "Compounding"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BRK.B",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Berkshire Hathaway (BRK.B): archetypal quality compounder and capital allocator — Yongqing's return-on-invested-capital and capital-cycle discipline align with Buffett framework"
+        },
+        {
+          "ticker": "TSM",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Taiwan Semiconductor (TSM): semi quality compounder but capital-cycle timing matters — add on utilization dips, trim when capital expenditure to revenue peaks and funds overweight"
+        }
+      ],
+      "chronologySubject": "Yongqing · Value Investing & Capital Cycles"
+    },
+    {
+      "id": "acq-sp26-02",
+      "podcastId": "acquired",
+      "episodeNumber": 210,
+      "title": "The Prancing Horse and the Business of Desire",
+      "guest": "Ferrari",
+      "displayTitle": "Ferrari",
+      "displaySubtitle": "The Prancing Horse and the Business of Desire · Season Spring 2026 · Episode 2",
+      "guestRole": "Season Spring 2026 · Episode 2",
+      "date": "2026-04-12",
+      "durationMinutes": 239,
+      "readMinutes": 8,
+      "rating": 3,
+      "conclusion": "Ferrari produces roughly 14,000 cars per year while mass manufacturers sell comparable volume in hours, yet the company trades at luxury multiples and ranks among the world's most recognized brands. Ben and David treat it as a scarcity-and-desire business more than a conventional automaker. Enzo built the Scuderia and brand mythology decades before scaling road-car sales at age 50. Luca di Montezemolo reversed Fiat's volume push, imported Hermès-style wait lists and delivery rituals, and benefited from Schumacher's five-year F1 run. Marchionne's 2015 IPO repriced Ferrari as a standalone luxury asset rather than a Fiat division. Today the average selling price is ~$500,000, gross margins ~50%, and 81% of new cars go to existing owners. The F1 team has shifted from a net marketing cost toward a profit center under Liberty, but the operating logic is consistent: constrain supply, sustain global desire, and price accordingly.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JVO8roYiNXM",
+      "summaryFile": "acq-sp26-02.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Luxury Scarcity",
+        "Formula 1",
+        "Enzo Ferrari"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "RACE",
+          "direction": "Long",
+          "confidence": "High",
+          "thesis": "Public pure-play on ultra-luxury scarcity: ~14K annual units, ~50% gross and ~39% EBITDA margins, F1-linked brand equity, and pricing power mass OEMs cannot match. Trades at luxury multiples (~35× P/E) with management guiding ~5% revenue growth — a deliberate pyramid strategy rather than volume expansion."
+        },
+        {
+          "ticker": "Private:Exor",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Agnelli family holding company retains ~49% Ferrari voting power alongside Piero Ferrari's ~10% stake. Tracks RACE upside without pure-play exposure — the IPO thesis was Ferrari undervalued inside Fiat until spun out and repriced as luxury."
+        }
+      ],
+      "chronologySubject": "Enzo Ferrari · Ferrari"
+    },
+    {
+      "id": "tzs-ep178",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 178,
+      "title": "Decoding Designer Toys: Craft, Business, Trade-offs — Pop Mart",
+      "guest": "Kevin, Johnny",
+      "displayTitle": "Kevin, Johnny",
+      "displaySubtitle": "Decoding Designer Toys: Craft, Business, Trade-offs — Pop Mart",
+      "guestRole": "Designer-Toy Industry Researchers",
+      "date": "2026-04-07",
+      "durationMinutes": 142,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Kevin Mingliang, a culture-founder who serves Bilibili and Pop Mart IPs including DIMOO and SKULLPANDA, explains why craft discipline separates Pop Mart from pure fashion: manufacturing quality, IP pipeline depth, and founder-led culture trade off against scale economics. Pop Mart must defend collectible craft while scaling blind-box distribution — not become a apparel label. For investors, 9992.HK is a long-watch on IP monetization quality and supply-chain control; DIS Watch as global IP comparator for franchise durability.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bMR2Xk9DxbM",
+      "summaryFile": "tzs-ep178.md",
+      "summaryFileZh": "tzs-ep178.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "9992.HK",
+        "DIS",
+        "Pop Mart",
+        "IP Craft"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "9992.HK",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Pop Mart (9992.HK): watch craft-led IP (DIMOO, SKULLPANDA) and manufacturing QC for long-term compounders — differentiate from pure fashion; Kevin frames culture-founder pipeline as moat"
+        },
+        {
+          "ticker": "DIS",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Disney (DIS): global IP franchise comparator — Pop Mart must build decades-long character equity; DIS illustrates media-park flywheel Pop Mart lacks but aspires toward"
+        }
+      ],
+      "chronologySubject": "Kevin · Pop Mart Craft"
+    },
+    {
       "id": "zj-ep145",
       "podcastId": "zhang-xiaojun",
       "episodeNumber": 145,
@@ -3652,7 +4073,7 @@
       "date": "2026-06-12",
       "durationMinutes": 181,
       "readMinutes": 4,
-      "rating": 3,
+      "rating": 4,
       "conclusion": "Former SpaceX executive Hong Lide separates 2026's capital frenzy from engineering continuity: IPO and xAI chatter is new for allocators, but Mars planning and Starship iteration began after the first Falcon success in 2012–13. SpaceX's edge is manufacturing culture and vertical integration across thousands of components — not slide-deck synergy. Tesla remains the liquid Musk-industrial proxy; pure-play space names need Starship cadence, per-kilogram cost, and Starlink cash flow before mega-IPO scarcity pricing.",
       "youtubeUrl": "https://www.youtube.com/watch?v=ABtf0yehi1I",
       "summaryFile": "zj-ep145.md",
@@ -3738,7 +4159,7 @@
       "date": "2026-05-28",
       "durationMinutes": 86,
       "readMinutes": 5,
-      "rating": 4,
+      "rating": 5,
       "conclusion": "He Xiaopeng's message is a capital-allocation reset: XPeng shut down a legacy robot stack that consumed a few tens of billions RMB (not hundreds) because it could not generalize, then concentrated bets on humanoid IRON — roughly twenty percent probability but company-changing upside. Broad AI across autonomy and robotics runs fifteen to twenty percent of the firm; physical-world data alone costs close to RMB ten billion per year, a rigid line item text models do not share. The episode demands valuing XPeng as auto core cash flow plus a costly option and a data moat only multi-scenario survivors can fund.",
       "youtubeUrl": "https://www.youtube.com/watch?v=rUjaLPE3mME",
       "summaryFile": "zj-ep143.md",
@@ -3830,7 +4251,7 @@
       "date": "2026-05-18",
       "durationMinutes": 84,
       "readMinutes": 5,
-      "rating": 3,
+      "rating": 4,
       "conclusion": "Lightspeed partner Freda argues the AI investment frame must shift from token volume to tokens-per-task efficiency — raw burn can rise while waste is real, and CFOs who fund coding tools on usage spikes misread productivity. Organizations are still bolting AI onto steam-engine workflows; electrification took decades because factories had to be redesigned, and relay-baton product teams must become small autonomous squads. For investors: underwrite outcome-based pricing and workflow lock-in (coding agents, harness layers), not headline token charts; META and GOOGL capex stays rational only if task efficiency and org redesign follow.",
       "youtubeUrl": "https://www.youtube.com/watch?v=MjTfhm5N8x8",
       "summaryFile": "zj-ep141.md",
@@ -3867,47 +4288,6 @@
         }
       ],
       "chronologySubject": "Freda · Token Economics & AI Org Design"
-    },
-    {
-      "id": "acq-sp26-03",
-      "podcastId": "acquired",
-      "episodeNumber": 211,
-      "title": "The Communist Capitalist Who Saved Investors a Trillion Dollars",
-      "guest": "Vanguard",
-      "displayTitle": "Vanguard",
-      "displaySubtitle": "The Communist Capitalist Who Saved Investors a Trillion Dollars · Season Spring 2026 · Episode 3",
-      "guestRole": "Season Spring 2026 · Episode 3",
-      "date": "2026-05-17",
-      "durationMinutes": 228,
-      "readMinutes": 10,
-      "rating": 3,
-      "conclusion": "Most Americans already hold Vanguard products — through a 401(k), target-date fund, or broad market ETF — without paying much attention to who runs the firm. That indifference is itself the story. Bogle did not win by stock-picking; he restructured who captured fund-industry economics. Fired from Wellington in 1974 but still chairman of the fund boards, he built a mutually owned manager with no outside shareholders. Fee savings flow back to customers as lower expense ratios rather than dividends. The 1976 index fund raised only $11.3M and took years to gain traction; Vanguard now manages ~$12T at 0.07% average fees. Ben and David estimate roughly $1T shifted from Wall Street to savers. The longer-term tension: Vanguard is among the largest shareholders of corporate America, which raises governance questions the fee narrative alone does not settle.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ipiKIgdynZE",
-      "summaryFile": "acq-sp26-03.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Index Funds",
-        "Jack Bogle",
-        "Mutual Ownership"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "VTI",
-          "direction": "Long",
-          "confidence": "High",
-          "thesis": "Vanguard Total Stock Market ETF (~0.03% expense ratio) captures the episode's core idea: US equity beta at minimal cost inside a mutually owned structure where fee reductions accrue directly to holders. Reasonable default core allocation for long-horizon savers who accept market returns minus small drag."
-        },
-        {
-          "ticker": "BLK",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "BlackRock is the other passive giant — iShares leads ETFs with ~$3.3T AUM and 1,400 products versus Vanguard's narrower lineup — while Aladdin and institutional diversification create a different but equally durable moat; Salim Ramji's move from iShares to Vanguard CEO BlackRock's ETF dominance as the competitive benchmark."
-        }
-      ],
-      "chronologySubject": "Jack Bogle · Vanguard"
     },
     {
       "id": "zj-ep140",
@@ -3959,208 +4339,186 @@
       "chronologySubject": "Yao Shunyu · Frontier Model Training"
     },
     {
-      "id": "bb-pricesmart-central-america-s-costco",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 244,
-      "title": "PriceSmart: Central America's Costco",
-      "guest": "PriceSmart",
-      "displayTitle": "PriceSmart",
-      "displaySubtitle": "Central America's Costco · Public · PSMT",
-      "guestRole": "Public · PSMT",
+      "id": "zj-ep139",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 139,
+      "title": "Agent Survey: Tech History and the OpenClaw Moment with Su Yu",
+      "guest": "Su Yu",
+      "displayTitle": "Su Yu",
+      "displaySubtitle": "Agent Technology Expert",
+      "guestRole": "Agent Technology Expert",
       "date": "2026-05-01",
-      "durationMinutes": 56,
-      "readMinutes": 5,
+      "durationMinutes": 138,
+      "readMinutes": 3,
       "rating": 3,
-      "conclusion": "PriceSmart exports Sol Price's membership warehouse model to Latin America and the Caribbean with ~61 clubs, ~$5.5 billion revenue, and no direct club-store competition in its markets. ~40% of EBIT comes from upfront membership fees at $45–$90 tiers, insulating earnings from FX volatility. Controlled real-estate expansion, owned distribution centers after four to five clubs per market, and Kirkland sourcing ties make this a slow but durable compounder targeting affluent emerging-market consumers.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-pricesmart-central-america-s-costco.md",
+      "conclusion": "OSU professor Su Yu traces agent history from logical agents through neural agents to today's language agents — his OpenClaw moment, like ChatGPT's, is an interaction breakthrough, not a single algorithm leap. Continual learning and world models remain the bottleneck; he co-founded NeoCognition with a $40M seed to build a universal digital agent. China moves faster on the application layer; Su is a 2025 Sloan Fellow. Investors should watch NeoCognition's agent stack and GOOGL Long as distribution plus research depth compound language-agent workflows.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Xxz5uh0L1mE",
+      "summaryFile": "zj-ep139.md",
+      "summaryFileZh": "zj-ep139.md",
       "availableLocales": [
-        "en"
+        "en",
+        "zh"
       ],
       "defaultLocale": "en",
       "keywords": [
-        "PSMT",
-        "COST",
-        "Membership Retail",
-        "Latin America"
+        "Private:NeoCognition",
+        "GOOGL",
+        "Language Agent",
+        "World Model"
       ],
       "investmentIdeas": [
         {
-          "ticker": "PSMT",
-          "direction": "Long",
+          "ticker": "Private:NeoCognition",
+          "direction": "Watch",
           "confidence": "Medium",
-          "thesis": "No club-store competition across 12 Latin markets, ~40% EBIT from recurring membership, ~90%+ cash conversion, and runway from ~61 to potentially 100+ clubs via Colombia/Chile densification — Sol Price operating culture and Kirkland ties support a slow compounder at ~$5B market cap."
+          "thesis": "NeoCognition: $40M seed universal digital agent — Su Yu targets continual learning and world-model bottlenecks; OSU professor plus 2025 Sloan Fellow pedigree"
         },
         {
-          "ticker": "COST",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "PriceSmart validates the membership warehouse model's exportability and still sources Kirkland product — a lens on Costco's playbook applied where COST chose not to scale, not a direct relative-value short."
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Alphabet (GOOGL): language-agent distribution (Android, Chrome, Workspace) plus DeepMind research — Su's framework favors integrated stack over pure model APIs"
         }
       ],
-      "chronologySubject": "PriceSmart · Sol Price"
+      "chronologySubject": "Su Yu · NeoCognition & Language Agents"
     },
     {
-      "id": "tzs-ep180",
-      "podcastId": "touzi-shizhanpai",
-      "episodeNumber": 180,
-      "title": "Pop Mart: Why Did the Stock Fall After RMB 37.1B Revenue? IP, Fashion Risk & PE Debate",
-      "guest": "Jeff",
-      "displayTitle": "Jeff",
-      "displaySubtitle": "Pop Mart: Why Did the Stock Fall After RMB 37.1B Revenue? IP, Fashion Risk & PE Debate",
-      "guestRole": "Consumer & IP Research (Guest)",
+      "id": "zj-ep138",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 138,
+      "title": "3.5-Hour Interview with Luo Fuli: OpenClaw, Agent Paradigm, Post-Training, Org Flattening",
+      "guest": "Luo Fuli",
+      "displayTitle": "Luo Fuli",
+      "displaySubtitle": "AI Researcher",
+      "guestRole": "AI Researcher",
+      "date": "2026-04-24",
+      "durationMinutes": 217,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Luo Fuli, ex-Damo/DeepSeek and Xiaomi MiMo post-training lead, argues the industry has entered the post-training era — her OpenClaw moment came between 2am and 6am on first use, when an agent completed real work overnight. She flattens orgs: shared Mac Minis, group chat, no usage KPIs. GPU splits roughly 3:1:1 research/post-train/inference. Many agent frameworks exist but self-evolving agents remain TBD; post-training needs a pre-training worldview. Investors should watch Anthropic's coding post-train flywheel and GOOGL's ability to align org design with inference economics.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vG1RBqn1sG4",
+      "summaryFile": "zj-ep138.md",
+      "summaryFileZh": "zj-ep138.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Anthropic",
+        "GOOGL",
+        "Post-Training",
+        "OpenClaw"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GOOGL",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Alphabet (GOOGL): post-training era raises GPU split toward RLHF/SFT — must align Gemini agent behavior with cloud inference economics and flat-team dogfooding"
+        },
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Anthropic: post-training flywheel via Claude Code real-world feedback — Luo's framework validates coding agents as post-train killer app"
+        }
+      ],
+      "chronologySubject": "Luo Fuli · Post-Training Era"
+    },
+    {
+      "id": "zj-ep137",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 137,
+      "title": "4-Hour Interview with Hong Letong: AI for Math, Lean, and the Math Canon",
+      "guest": "Hong Letong",
+      "displayTitle": "Hong Letong",
+      "displaySubtitle": "AI for Math Researcher",
+      "guestRole": "AI for Math Researcher",
       "date": "2026-04-20",
-      "durationMinutes": 67,
-      "readMinutes": 5,
+      "durationMinutes": 264,
+      "readMinutes": 3,
       "rating": 3,
-      "conclusion": "Recorded March 31, 2026, David and Jeff walk through Pop Mart's narrative break: 2025 revenue RMB 37.1B (+184.7%) but net profit RMB 13B rose only 29.3%, and roughly twenty percent 2026 growth guidance felt like a hard brake — shares fell about thirty percent in two days to near 142–143 HKD, market cap below HKD 200B. The question is whether Labubu is durable IP or a fashion cycle, with Disney near fourteen times price-to-earnings as the comp. Until pipeline breadth proves out, position below traditional compounders and use scenarios, not single-point earnings.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=mcmrSIEJfJk",
-      "summaryFile": "tzs-ep180.md",
-      "summaryFileZh": "tzs-ep180.md",
+      "conclusion": "Hong Letong argues AI-for-math is entering industrial scale: Action raised a $1.6B Series A to productize Lean-based formal proof — draft outline, formalize, then prove or leave sorries — turning research math into a verifiable pipeline. Math is structural language, not trivia; bounded attention beats infinite context for reliability. Her 2020 graphs-catch-and-proof paper and B Capital fundraising signal venture conviction, with an Ohio State professor joining the team. Investors should watch Action as a harness play on theorem proving; GOOGL benefits if formal math becomes a model capability layer.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bv8ghyTFF9w",
+      "summaryFile": "zj-ep137.md",
+      "summaryFileZh": "zj-ep137.md",
       "availableLocales": [
         "en",
         "zh"
       ],
       "defaultLocale": "en",
       "keywords": [
-        "9992.HK",
-        "IP Consumer",
-        "Valuation"
+        "Private:Action",
+        "GOOGL",
+        "AI Math",
+        "Formal Proof"
       ],
       "investmentIdeas": [
         {
-          "ticker": "9992.HK",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Pop Mart (9992.HK): post-guide shock at ~142–143 HKD, market cap below HKD 200B after ~30% two-day drop — ~20% 2026 growth still respectable if IP pipeline breadth sustains premium vs Disney ~14x"
-        },
-        {
-          "ticker": "DIS",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Disney (DIS): episode comps Pop Mart to character-IP compounders at ~14x price-to-earnings — park plus media flywheel sets ceiling on pure toy and IP earnings power"
-        }
-      ],
-      "chronologySubject": "Pop Mart · 2025 Results & Valuation Reset"
-    },
-    {
-      "id": "bb-givaudan-the-magic-ingredients",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 242,
-      "title": "Givaudan: The Magic Ingredients",
-      "guest": "Givaudan",
-      "displayTitle": "Givaudan",
-      "displaySubtitle": "The Magic Ingredients · Public · GVDNY",
-      "guestRole": "Public · GVDNY",
-      "date": "2026-04-17",
-      "durationMinutes": 41,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Fassnacht frames Givaudan as the pick-and-shovel leader of a defensive, innovation-driven industry: ~25% global fragrance share, ~7.5 billion Swiss francs of revenue, and sticky cash-cow formulas where flavor or scent is ~1–5% of a brand's cost but drives repurchase. Trading near 23 times free cash flow with ~4% yield, the stock embeds only ~3% FCF growth despite 5–6% organic history and no negative organic year since the 2000 IPO.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-givaudan-the-magic-ingredients.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "GVDNY",
-        "Flavors & Fragrances",
-        "Consumer Staples"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "GVDNY",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Fassnacht argues defensive 5–6% organic growth, ~18% FCF margins, and formula stickiness deserve a quality premium; at ~23 times FCF with ~4% yield and dividend well covered, the market under-prices durability if new management preserves Roche-era discipline."
-        }
-      ],
-      "chronologySubject": "Givaudan"
-    },
-    {
-      "id": "tzs-ep179",
-      "podcastId": "touzi-shizhanpai",
-      "episodeNumber": 179,
-      "title": "Yongqing: Value Investing Framework, Capital Cycles & Quality Compounders",
-      "guest": "Yongqing",
-      "displayTitle": "Yongqing",
-      "displaySubtitle": "Co-founder, Practical Investments & Fund Manager",
-      "guestRole": "Co-founder, Practical Investments & Fund Manager",
-      "date": "2026-04-13",
-      "durationMinutes": 64,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Yongqing's Practical Investments framework ties Graham-era price-to-book thinking to today's quality compounders: intrinsic value moves with lifecycle, and capital cycles — not macro headlines — tell you when crowded trades will compress forward returns. Mutual funds peak weight at narrative tops and de-risk on drawdowns, which contrarians can use as timing signals if they tolerate relative underperformance. The actionable rule is buy durable return-on-invested-capital above cost of capital at reasonable prices, and trim when capital floods into a sector; thirty times price-to-earnings only works if roughly twenty-five percent ROIC sustains ten years.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=uEjZzUJZOgI",
-      "summaryFile": "tzs-ep179.md",
-      "summaryFileZh": "tzs-ep179.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Value Investing",
-        "Capital Cycle",
-        "Compounding"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "BRK.B",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Berkshire Hathaway (BRK.B): archetypal quality compounder and capital allocator — Yongqing's return-on-invested-capital and capital-cycle discipline align with Buffett framework"
-        },
-        {
-          "ticker": "TSM",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Taiwan Semiconductor (TSM): semi quality compounder but capital-cycle timing matters — add on utilization dips, trim when capital expenditure to revenue peaks and funds overweight"
-        }
-      ],
-      "chronologySubject": "Yongqing · Value Investing & Capital Cycles"
-    },
-    {
-      "id": "acq-sp26-02",
-      "podcastId": "acquired",
-      "episodeNumber": 210,
-      "title": "The Prancing Horse and the Business of Desire",
-      "guest": "Ferrari",
-      "displayTitle": "Ferrari",
-      "displaySubtitle": "The Prancing Horse and the Business of Desire · Season Spring 2026 · Episode 2",
-      "guestRole": "Season Spring 2026 · Episode 2",
-      "date": "2026-04-12",
-      "durationMinutes": 239,
-      "readMinutes": 8,
-      "rating": 3,
-      "conclusion": "Ferrari produces roughly 14,000 cars per year while mass manufacturers sell comparable volume in hours, yet the company trades at luxury multiples and ranks among the world's most recognized brands. Ben and David treat it as a scarcity-and-desire business more than a conventional automaker. Enzo built the Scuderia and brand mythology decades before scaling road-car sales at age 50. Luca di Montezemolo reversed Fiat's volume push, imported Hermès-style wait lists and delivery rituals, and benefited from Schumacher's five-year F1 run. Marchionne's 2015 IPO repriced Ferrari as a standalone luxury asset rather than a Fiat division. Today the average selling price is ~$500,000, gross margins ~50%, and 81% of new cars go to existing owners. The F1 team has shifted from a net marketing cost toward a profit center under Liberty, but the operating logic is consistent: constrain supply, sustain global desire, and price accordingly.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=JVO8roYiNXM",
-      "summaryFile": "acq-sp26-02.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Luxury Scarcity",
-        "Formula 1",
-        "Enzo Ferrari"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "RACE",
-          "direction": "Long",
-          "confidence": "High",
-          "thesis": "Public pure-play on ultra-luxury scarcity: ~14K annual units, ~50% gross and ~39% EBITDA margins, F1-linked brand equity, and pricing power mass OEMs cannot match. Trades at luxury multiples (~35× P/E) with management guiding ~5% revenue growth — a deliberate pyramid strategy rather than volume expansion."
-        },
-        {
-          "ticker": "Private:Exor",
+          "ticker": "GOOGL",
           "direction": "Watch",
           "confidence": "Medium",
-          "thesis": "Agnelli family holding company retains ~49% Ferrari voting power alongside Piero Ferrari's ~10% stake. Tracks RACE upside without pure-play exposure — the IPO thesis was Ferrari undervalued inside Fiat until spun out and repriced as luxury."
+          "thesis": "Alphabet (GOOGL): formal math and verification as Gemini differentiator — Action's $1.6B raise signals infrastructure demand for trustworthy reasoning"
+        },
+        {
+          "ticker": "Private:Action",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Action: $1.6B Series A on Lean formal-proof pipeline — bounded-attention theorem proving as harness layer; ex-OSU professor hire signals research depth"
         }
       ],
-      "chronologySubject": "Enzo Ferrari · Ferrari"
+      "chronologySubject": "Hong Letong · AI for Math"
+    },
+    {
+      "id": "zj-ep136",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 136,
+      "title": "Global LLM Quarterly Ep.9: Coding as AGI Act II, Silicon Valley Big Three, Models as Next OS",
+      "guest": "Guangmi",
+      "displayTitle": "Guangmi",
+      "displaySubtitle": "Global LLM Quarterly Ep.9: Coding as AGI Act II, Silicon Valley Big Three, Models as Next OS",
+      "guestRole": "AI Industry Observer",
+      "date": "2026-04-14",
+      "durationMinutes": 83,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Guangmi frames coding as AGI Act II: Sonnet 4.5–4.6 delivered more Q1 capability than all of 2025, with frontier labs seeing 70–80% of new code AI-written and power users burning hundreds of dollars daily in tokens. Anthropic ARR may overtake OpenAI among the top one to two million users; combined frontier ARR could hit $80–100B by year-end and $200B+ next year. Coding remains difficulty 8–9/10 — the hardest real-world task — so models-as-OS and harness layers compound. Investors should overweight Anthropic's coding flywheel and treat GOOGL/MSFT as distribution bets, not assume ~90% knowledge-work automation is priced in.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=u1Lzp-7Ybn8",
+      "summaryFile": "zj-ep136.md",
+      "summaryFileZh": "zj-ep136.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Anthropic",
+        "GOOGL",
+        "MSFT",
+        "Coding AGI"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Anthropic: Sonnet 4.5–4.6 leap and 70–80% AI-written code at frontier labs — ARR may exceed OpenAI among top 1–2M power users; coding flywheel is AGI Act II"
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Alphabet (GOOGL): models-as-OS race requires coding harness depth plus Android/Cloud distribution — ~100-day leadership rotation means execution speed matters"
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Microsoft (MSFT): Copilot distribution scale versus pure-play coding labs — must convert seat count to token-depth flywheels or risk OS-layer commoditization"
+        }
+      ],
+      "chronologySubject": "Guangmi · LLM Quarterly Ep.9"
     },
     {
       "id": "acq-sp26-01",
