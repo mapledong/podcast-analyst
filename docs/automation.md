@@ -97,11 +97,12 @@ Workflow: `.github/workflows/nightly-content-update.yml`
 Pipeline each night:
 
 1. **Discover** new episodes — ILTB, Acquired, BB/Founders RSS (`discover_*.py`)
-2. **YouTube captions** — small batch (2/podcast, rate-limited)
-3. **Summarize** up to **8** episodes (default `NIGHTLY_BATCH_SIZE`):
+2. **Summarize** up to **8** episodes (default `NIGHTLY_BATCH_SIZE`):
    - Priority: **new releases** (past 7 days) with full transcript
    - Then: BB/Founders expand-pool backlog (`resolve_curated_bb_founders.py --ready`)
-4. **Publish** — validate, sync web, commit + push → GitHub Pages deploy
+3. **Publish** — validate, sync web, commit + push → GitHub Pages deploy
+
+YouTube captions are handled separately by `youtube-captions.yml` (4× daily, slow batch).
 
 This keeps the **Friday 12:00 weekly digest** fed with the past week's episode dates.
 

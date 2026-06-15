@@ -47,13 +47,7 @@ jobs:
           python scripts/discover_colossus_podcasts.py --founders-youtube
         env:
           PYTHONPATH: ${{ github.workspace }}
-      - name: Fetch YouTube captions (small batch)
-        env:
-          YOUTUBE_CAPTION_BATCH_SIZE: "2"
-          YOUTUBE_CAPTION_DELAY: "90"
-        run: |
-          python scripts/fetch_founders_youtube.py --transcripts || true
-          python scripts/fetch_curated_youtube.py --transcripts || true
+      # YouTube captions are fetched by youtube-captions.yml (4× daily, slow batch).
       - name: Report pending new episodes
         run: |
           python scripts/report_new_episodes.py --stats
