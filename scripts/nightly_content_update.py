@@ -109,18 +109,20 @@ Print: status for {episode_id}, validation outcome, blockers if any.
 
 
 def _run_episode_agent(
+    client,
     prompt: str,
     *,
     api_key: str,
     model: str,
-    timeout_s: float,
 ) -> tuple[str, str]:
-    from cursor_sdk import CursorClient, LocalAgentOptions
+    from cursor_sdk import LocalAgentOptions
 
-    client = CursorClient(api_key=api_key).with_options(timeout=timeout_s, max_retries=2)
-    with client.agents.create(model=model, local=LocalAgentOptions(cwd=str(ROOT))) as agent:
-        run = agent.send(prompt)
-        result = run.wait()
+    with client.agents.create(
+        model=model,
+        api_key=api_key,
+        local=LocalAgentOptions(cwd=str(ROOT)),
+    ) as agent:
+        result = agent.send(prompt).wait()
     return result.status, (result.result or "")
 
 
@@ -135,7 +137,7 @@ def main() -> int:
     timeout_s = float(os.environ.get("CURSOR_SDK_TIMEOUT", str(DEFAULT_SDK_TIMEOUT_S)))
 
     try:
-        from cursor_sdk import CursorClient  # noqa: F401
+        from cursor_sdk import CursorClient  # noqa: F401 — verify import
     except Exception as exc:
         print(f"cursor-sdk import failed: {exc}", file=sys.stderr)
         return 2
@@ -150,24 +152,26 @@ def main() -> int:
         return 0
 
     failed: list[str] = []
-    for index, episode_id in enumerate(queue, start=1):
-        print(f"\n=== Episode {index}/{len(queue)}: {episode_id} ===", flush=True)
-        prompt = build_episode_prompt(episode_id, index=index, total=len(queue))
-        try:
-            status, text = _run_episode_agent(
-                prompt,
-                api_key=api_key,
-                model=model,
-                timeout_s=timeout_s,
-            )
-            print(f"Cursor agent status: {status}")
-            if text:
-                print(text)
-            if status != "completed":
+    with CursorClient.launch_bridge(workspace=str(ROOT)) as client:
+        client = client.with_options(timeout=timeout_s, max_retries=2)
+        for index, episode_id in enumerate(queue, start=1):
+            print(f"\n=== Episode {index}/{len(queue)}: {episode_id} ===", flush=True)
+            prompt = build_episode_prompt(episode_id, index=index, total=len(queue))
+            try:
+                status, text = _run_episode_agent(
+                    client,
+                    prompt,
+                    api_key=api_key,
+                    model=model,
+                )
+                print(f"Cursor agent status: {status}")
+                if text:
+                    print(text)
+                if status != "completed":
+                    failed.append(episode_id)
+            except Exception as exc:
+                print(f"Agent error for {episode_id}: {exc}", file=sys.stderr)
                 failed.append(episode_id)
-        except Exception as exc:
-            print(f"Agent error for {episode_id}: {exc}", file=sys.stderr)
-            failed.append(episode_id)
 
     print(f"\nFinished: {len(queue) - len(failed)}/{len(queue)} succeeded")
     if failed:
