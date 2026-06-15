@@ -4,7 +4,7 @@
 
 **★★★★★** · 5/5
 
-**Podcast** Practical Investments · **Date** Jun 7, 2026 · **Duration** 90 min · **Read** ≈5 min
+**Podcast** Practical Investments · **Date** Jun 7, 2026 · **Duration** 90 min · **Read** ≈3 min
 
 **Host** Yongqing & David
 
@@ -15,13 +15,13 @@
 **Topics** Value Investing · Market Divergence · Position Sizing
 > ### Conclusion
 >
-> On Shen Shuaibo's show, Yongqing draws a sharp line between momentum chasing and value guarding principal: buying because a stock rose is usually wrong — edge comes from expected return asymmetry after deep work, not positive feedback loops. With 2026 sector extremes and youth piling into equities globally, he sticks to minority high-quality compounders and warns circle-of-competence is fuzzy even for veterans (Meta, Nvidia revivals). Practical takeaway: know the mainstream narrative but pre-build psychological and portfolio switches for either path — participation without thesis is gambling. Maintain scenario portfolios and reversal checklists before chasing 2026 sector heat.
+> On Shen Shuaibo's show, Yongqing draws a bright line between momentum chasing and value discipline: buying because a stock rose is usually wrong unless you can name what breaks the cycle. With 2026 retail safe-haven flows into equities globally, he stays with few high-quality compounders and return asymmetry — tolerating drawdowns only when upside skew justifies them. Know the mainstream narrative, but pre-build portfolio switches; participation without a thesis is gambling.
 
 ---
 
 ## Background
 
-> In a 90-minute cross-podcast episode, Shen Shuaibo hosts Practical Investments co-founder Yongqing on why secondary markets became a 'safe haven' — Korea, China, and US youth chasing stocks while physical business feels hard. Yongqing defines value as price below moving intrinsic value, not low PE labels (Moutai debates). He contrasts buying for fundamentals versus buying because prices rose — the latter hides unknown reversal triggers. Circle of competence is slippery: investors who followed Meta or Nvidia bears got surprised when narratives flipped. New-issue liquidity can amplify short-term moves independent of long-term cash flows. Core strategy remains few high-quality names with return asymmetry (prefer 50% down / 2x up over 50% down / 50% up). Shen cites Korea, China, US youth chasing stocks as safe haven while operating business hard. Yongqing focuses few quality compounders with asymmetry. New issues move on thin float. Meta and Nvidia revivals surprised static competence-circle views. Shen Shuaibo hosts Yongqing on global retail equity safe-haven flows — Korean youth, Chinese retail, US AI momentum while operating businesses struggle. Yongqing defines value as price below moving intrinsic value, not low-PE labels. Buying after rallies without naming reversal triggers is trend trap; prefer return asymmetry (50% drawdown tolerable if 2x upside). Circle of competence is fuzzy — Meta and Nvidia revivals surprised veterans. New listings move on thin float and short-term volume. Practical Investments stays with few high-quality compounders; prepare psychological and portfolio switches for 2026 sector extremes. Episode recorded June 2026 amid extreme sector rotation.
+> In a 90-minute cross-podcast episode, Shen Shuaibo hosts Practical Investments co-founder Yongqing on why equities became a retail safe haven — youth in Korea, China, and the US chase stocks while operating businesses struggle. Yongqing defines value as price below moving intrinsic value, not low PE labels. He contrasts fundamental buys with buying after rallies — the latter hides unknown reversal triggers. Circle of competence is slippery: Meta and Nvidia revivals surprised veterans. Core strategy remains few high-quality names with return asymmetry.
 
 ---
 
@@ -33,20 +33,6 @@
 
 > **F3** Circle-of-competence humility: even long Meta/Nvidia trackers misread revival corners — information was always there, amplification lagged. New listings need less float to move prices; short-term volume metrics dominate weeks, fundamentals dominate years. Yongqing reiterates content is research sharing, not investment advice.
 
-> **F4** Prepare portfolio switches for 2026 extremes — participation without thesis is gambling.
-
-> **F5** Yongqing: if you cannot name what breaks the upcycle, you are riding liquidity — acceptable drawdowns must match psychology, not spreadsheet bravery.
-
-> **F6** 2026 sector splits require scenario portfolios — chase AI or sit out only after explicit reversal checklist; missing rally hurts less than permanent capital loss.
-
-> **F7** BRK.B archetype fits when retail chases narratives elsewhere — capital discipline and asymmetry over heat.
-
-> **F8** Yongqing closes: know the mainstream narrative but pre-build portfolio switches — independent thesis beats consensus comfort when cycles turn.
-
-> **F9** Shen and Yongqing agree 2026 sector extremes require pre-commitment: missing a rally hurts less than permanent capital loss from trend trades without exit rules.
-
-> **F10** Cross-podcast format with Shen brings retail-flow perspective Yongqing's show normally avoids — useful contrarian temperature check.
-
 
 ---
 
@@ -54,7 +40,7 @@
 
 > **Components**
 >
-> Price below dynamic intrinsic value defines value; heat defines risk. Asymmetry beats accuracy — size positions for drawdown tolerance and upside skew. Retail safe-haven flows can extend narratives beyond fundamentals until reversal catalysts appear. Shen Shuaibo hosts Yongqing on global retail equity safe-haven flows — Korean youth, Chinese retail, US AI momentum while operating businesses struggle. Yongqing defines value as price below moving in
+> Price below dynamic intrinsic value defines value; heat defines risk. Asymmetry beats accuracy — size positions for drawdown tolerance and upside skew. Retail safe-haven flows can extend narratives beyond fundamentals until reversal catalysts appear.
 >
 > **Application**
 >
@@ -69,25 +55,19 @@
 >
 > **Q** How does Yongqing separate value from chase?
 >
-> **A** Fundamental buys need expected return math and reversal awareness — if you cannot name what ends the upcycle, you are riding liquidity. Acceptable drawdowns must match psychological reality, not spreadsheet bravery. Value investors can hold growth names if price-discipline and asymmetry work. Use quarterly falsifiable milestones, not headlines alone.
+> **A** Fundamental buys need expected return math and reversal awareness — if you cannot name what ends the upcycle, you are riding liquidity. Acceptable drawdowns must match psychological reality, not spreadsheet bravery. Value investors can hold growth names if price-discipline and asymmetry work.
 
 > **2.** 2026 extremes demand pre-commitment, not prediction.
 >
 > **Q** Chase AI or sit out?
 >
-> **A** Know the mainstream story but prepare portfolio and mind for either extension or snapback — Shen's audience skews tactical; Yongqing skews few-quality-names. Missing a rally hurts less than permanent capital loss from trend trades without exit rules. Use quarterly falsifiable milestones, not headlines alone.
+> **A** Know the mainstream story but prepare portfolio and mind for either extension or snapback — Shen's audience skews tactical; Yongqing skews few-quality-names. Missing a rally hurts less than permanent capital loss from trend trades without exit rules.
 
 > **3.** Competence circles move without notice.
 >
 > **Q** What surprised Yongqing lately?
 >
-> **A** Meta and Nvidia narratives revived after widespread obituaries — proof that edge decays when consensus hardens. Investors should track corner data before it hits headlines and accept periodic humbling; independent thesis beats borrowed slogans. Use quarterly falsifiable milestones, not headlines alone.
-
-> **4.** Retail safe-haven flows can extend narratives beyond fundamentals.
->
-> **Q** What is Yongqing's practical rule for 2026 extremes?
->
-> **A** Pre-build portfolio and psychological switches for either momentum extension or snapback — participation without a reversal checklist is gambling. Few quality compounders with asymmetry beat chasing heat.
+> **A** Meta and Nvidia narratives revived after widespread obituaries — proof that edge decays when consensus hardens. Investors should track corner data before it hits headlines and accept periodic humbling; independent thesis beats borrowed slogans.
 
 ---
 

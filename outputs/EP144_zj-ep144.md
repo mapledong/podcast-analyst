@@ -12,7 +12,7 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=kBsqirnWTpI) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**Topics** 300866.SZ · Shallow-Sea Strategy · AI Organization
+**Topics** Anker Innovations (300866.SZ) · Shallow-Sea Strategy · AI Organization
 > ### Conclusion
 >
 > Yang Meng defends disciplined category selection at scale: Anker Innovations stays in shallow-sea markets — large enough to build a number-one brand, small enough that Apple-scale rivals do not deploy full war chests — and compounds through roughly 1.1–1.5 points of annual gross margin lift rather than revenue spikes. At RMB 60B+ market cap the test is whether adjacent categories repeat return-on-capital discipline. Heavy Amazon reliance remains the main overhang: rising marketplace ads, policy shifts, and private-label competition can erode third-party margins even when Anker wins category leadership — underwrite margin path and channel mix together.

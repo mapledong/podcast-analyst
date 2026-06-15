@@ -12,7 +12,7 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=mcmrSIEJfJk) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**Topics** 9992.HK · IP Consumer · Valuation
+**Topics** Pop Mart (9992.HK) · IP Consumer · Valuation
 > ### Conclusion
 >
 > Recorded March 31, 2026, David and Jeff walk through Pop Mart's narrative break: 2025 revenue RMB 37.1B (+184.7%) but net profit RMB 13B rose only 29.3%, and roughly twenty percent 2026 growth guidance felt like a hard brake — shares fell about thirty percent in two days to near 142–143 HKD, market cap below HKD 200B. The question is whether Labubu is durable IP or a fashion cycle, with Disney near fourteen times price-to-earnings as the comp. Until pipeline breadth proves out, position below traditional compounders and use scenarios, not single-point earnings.

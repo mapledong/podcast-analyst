@@ -5,6 +5,9 @@
 # ticker_aliases: alternate tickers (foreign listings, share classes) → canonical ticker
 #
 # Display preference: primary US ticker (e.g. LVMH/MC.PA → LVMUY ADR, not Paris listing).
+# ADR rule: if a company has a liquid US ADR, always use the ADR ticker (BABA, BIDU, XPEV)
+# in keywords and investment_implications — not HK codes (9988.HK) and not china_listings name pills.
+# china_listings is only for HK/A-share names without a US ADR (e.g. 9992.HK, 2171.HK).
 
 aliases:
   # Mega-cap US
@@ -33,6 +36,7 @@ aliases:
   adobe: ADBE
   airbnb: ABNB
   alibaba: BABA
+  baidu: BIDU
   broadcom: AVGO
   coinbase: COIN
   doordash: DASH
@@ -75,6 +79,8 @@ aliases:
   ferrari: RACE
   lvmh: LVMUY
   "louis vuitton": LVMUY
+  carsgen: 2171.HK
+  科济药业: 2171.HK
 
 ticker_aliases:
   GOOG: GOOGL
@@ -83,9 +89,17 @@ ticker_aliases:
   "MC.PA": LVMUY
   MC: LVMUY
   LVMH: LVMUY
+  # HK listings → US ADR (canonical for JSON keywords and investment tickers)
+  "9988.HK": BABA
+  "9888.HK": BIDU
+  "9868.HK": XPEV
+  "9618.HK": JD
+  "1024.HK": NTES
+  "0700.HK": TCEHY
 
-# China/HK/A-share listings: display as 公司名（TICKER） in summaries.
-# Keys are canonical tickers; zh/en are display names.
+# China/HK/A-share listings without a US ADR: display as 公司名（TICKER） in zh prose;
+# card pills show English company name by default (CARsgen, Pop Mart). US ADRs (BABA, XPEV)
+# stay as ticker symbols everywhere — see ticker_aliases, not this section.
 china_listings:
   9992.HK:
     zh: 泡泡玛特
@@ -96,13 +110,6 @@ china_listings:
   300866.SZ:
     zh: 安克创新
     en: Anker Innovations
-  XPEV:
-    zh: 小鹏汽车
-    en: XPeng
-  BABA:
-    zh: 阿里巴巴
-    en: Alibaba
-  9888.HK:
-    zh: 百度
-    en: Baidu
-  TSMC: TSM
+  2171.HK:
+    zh: 科济药业
+    en: CARsgen

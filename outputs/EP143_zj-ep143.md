@@ -12,7 +12,7 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=rUjaLPE3mME) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**Topics** XPEV · Humanoid Robotics · Physical-World AI
+**Topics** XPEV · HUMANOID · PHYSICAL-WORLD
 > ### Conclusion
 >
 > He Xiaopeng's message is a capital-allocation reset: XPeng shut down a legacy robot stack that consumed a few tens of billions RMB (not hundreds) because it could not generalize, then concentrated bets on humanoid IRON — roughly twenty percent probability but company-changing upside. Broad AI across autonomy and robotics runs fifteen to twenty percent of the firm; physical-world data alone costs close to RMB ten billion per year, a rigid line item text models do not share. The episode demands valuing XPeng as auto core cash flow plus a costly option and a data moat only multi-scenario survivors can fund.
@@ -73,7 +73,7 @@
 
 ## Investment Ideas
 
-> **1. XPeng (XPEV)** · 🟢 LONG · ●●○ Medium
+> **1. XPEV** · 🟢 LONG · ●●○ Medium
 >
 > XPeng (XPEV): auto core plus 15–20% broad AI burn and ≈20% IRON option — track quarterly cash flow and GX deliveries; traditional auto price-to-earnings alone misprices the story
 

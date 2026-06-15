@@ -21,7 +21,7 @@
 
 {% endif %}
 
-**主题** {% for kw in keywords %}{{ kw }}{% if not loop.last %} · {% endif %}{% endfor %}
+**主题** {% for kw in keywords %}{{ kw | format_ticker }}{% if not loop.last %} · {% endif %}{% endfor %}
 
 > ### 结论
 >

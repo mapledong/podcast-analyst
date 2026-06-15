@@ -12,7 +12,7 @@
 
 **收听** [YouTube](https://www.youtube.com/watch?v=Fu_1_oTwhhU) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** TSM · ASML · 0981.HK · 半导体周期
+**主题** TSM · ASML · 中芯国际（0981.HK） · 半导体周期
 > ### 结论
 >
 > 谢志峰以约 40 年产业经历（1990 年 Intel 最高技术奖、2000 年联合创立中芯国际）说明：摩尔定律放缓但未死，台积电的护城河是服务与生态，而非单纯制程数字。半导体仍遵循约 5 年周期，人工智能只是改变斜率；中芯纯代工全球第二，但产能利用率与政策补贴回报约束不同于台积电。对投资者：台积电与 ASML 是先进制程关键瓶颈，宜周期择时持有；中芯须看利用率与投入资本回报率，而非节点宣传本身。

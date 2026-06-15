@@ -162,6 +162,95 @@ def validate_keyword_tickers(
     return warnings
 
 
+_CHINA_TICKER_RE = re.compile(r"^\d+\.(HK|SZ|SH)$", re.I)
+
+
+def is_china_listing_symbol(symbol: str, *, config_path: Path | None = None) -> bool:
+    """True if symbol is a HK/A-share style ticker (must be in china_listings)."""
+    sym = symbol.strip().split()[0].upper()
+    cfg = load_company_tickers(config_path)
+    listings: dict[str, Any] = cfg.get("china_listings") or {}
+    if sym in listings or sym in {k.upper() for k in listings}:
+        return True
+    return bool(_CHINA_TICKER_RE.match(sym))
+
+
+def validate_adr_canonical_tickers(
+    data: dict[str, Any], *, config_path: Path | None = None
+) -> list[tuple[str, str]]:
+    """Return errors when HK listing codes are used instead of US ADR tickers."""
+    issues: list[tuple[str, str]] = []
+    cfg = load_company_tickers(config_path)
+    ticker_aliases: dict[str, str] = cfg["ticker_aliases"]
+
+    def check(section: str, label: str, sym: str) -> None:
+        raw = sym.strip().split()[0]
+        if not raw or raw.lower().startswith("private:") or raw.startswith("Basket:"):
+            return
+        upper = raw.upper()
+        adr = ticker_aliases.get(upper)
+        if not adr or adr.upper() == upper:
+            return
+        if not _CHINA_TICKER_RE.match(upper):
+            return
+        issues.append(
+            (
+                section,
+                f"{label} “{raw}” should use US ADR ticker {adr} (not HK listing code)",
+            )
+        )
+
+    for i, kw in enumerate(data.get("keywords") or []):
+        check("keywords", f"Keyword {i + 1}", str(kw))
+
+    for i, clue in enumerate(data.get("top_investment_implications") or []):
+        check("top_investment_implications", f"Investment idea {i + 1}", str(clue.get("ticker") or ""))
+
+    return issues
+
+
+def validate_china_listing_tickers(
+    data: dict[str, Any], *, config_path: Path | None = None
+) -> list[tuple[str, str]]:
+    """Return errors for HK/A-share tickers missing from config/company_tickers.yaml china_listings."""
+    issues: list[tuple[str, str]] = []
+    cfg = load_company_tickers(config_path)
+    listings: dict[str, Any] = cfg.get("china_listings") or {}
+    listing_keys = {k.upper() for k in listings}
+    ticker_aliases: dict[str, str] = cfg["ticker_aliases"]
+
+    for i, kw in enumerate(data.get("keywords") or []):
+        sym = str(kw).strip().split()[0]
+        adr = ticker_aliases.get(sym.upper())
+        if adr and adr.upper() != sym.upper() and _CHINA_TICKER_RE.match(sym.upper()):
+            continue  # caught by validate_adr_canonical_tickers
+        if is_china_listing_symbol(sym, config_path=config_path) and sym.upper() not in listing_keys:
+            issues.append(
+                (
+                    "keywords",
+                    f"Keyword {i + 1} “{sym}” is a China/HK listing — add zh/en names to "
+                    f"config/company_tickers.yaml china_listings before publishing",
+                )
+            )
+
+    for i, clue in enumerate(data.get("top_investment_implications") or []):
+        sym = str(clue.get("ticker") or "").strip().split()[0]
+        if not sym or sym.lower().startswith("private:"):
+            continue
+        adr = ticker_aliases.get(sym.upper())
+        if adr and adr.upper() != sym.upper() and _CHINA_TICKER_RE.match(sym.upper()):
+            continue
+        if is_china_listing_symbol(sym, config_path=config_path) and sym.upper() not in listing_keys:
+            issues.append(
+                (
+                    "top_investment_implications",
+                    f"Investment idea {i + 1} ticker “{sym}” is a China/HK listing — add to "
+                    f"config/company_tickers.yaml china_listings (card pills show company name, not raw ticker)",
+                )
+            )
+    return issues
+
+
 def format_investment_ticker(ticker: str, *, locale: str = "en", config_path: Path | None = None) -> str:
     """Format tickers for display; China/HK/A-share names show as 公司（TICKER）."""
     raw = str(ticker or "").strip()
@@ -175,6 +264,7 @@ def format_investment_ticker(ticker: str, *, locale: str = "en", config_path: Pa
 
     symbol = raw.split()[0]
     cfg = load_company_tickers(config_path)
+    symbol = _resolve_ticker_alias(symbol, cfg["ticker_aliases"])
     listings: dict[str, Any] = cfg.get("china_listings") or {}
     entry = listings.get(symbol) or listings.get(symbol.upper())
     if isinstance(entry, dict):
@@ -182,4 +272,4 @@ def format_investment_ticker(ticker: str, *, locale: str = "en", config_path: Pa
         if locale == "zh":
             return f"{name}（{symbol}）"
         return f"{name} ({symbol})"
-    return raw
+    return symbol

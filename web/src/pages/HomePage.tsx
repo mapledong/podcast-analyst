@@ -1,6 +1,6 @@
 import type { CSSProperties } from "react";
 import { useMemo, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 import DiscoveryFilters from "../components/DiscoveryFilters";
 import InvestmentIdeasPreview from "../components/InvestmentIdeasPreview";
 import PodcastCard from "../components/PodcastCard";
@@ -9,8 +9,10 @@ import { compareEpisodes, data, formatDate, getPodcast } from "../lib/catalog";
 import { episodeHeadline, episodeSubtitle } from "../lib/displayTitles";
 import { applyEpisodeFilters, hasActiveFilters } from "../lib/filters";
 import { assetUrl } from "../lib/assets";
+import { summaryDisplayLocale } from "../lib/summaryLocale";
 
 export default function HomePage() {
+  const [searchParams] = useSearchParams();
   const totalSummaries = data.episodes.length;
   const [query, setQuery] = useState("");
   const [rating, setRating] = useState<number | null>(null);
@@ -94,7 +96,11 @@ export default function HomePage() {
                         <p className="episode-title">{episodeSubtitle(ep)}</p>
                       )}
                       {ep.conclusion && <p className="episode-hook">{ep.conclusion}</p>}
-                      <InvestmentIdeasPreview ideas={ep.investmentIdeas} variant="minimal" />
+                      <InvestmentIdeasPreview
+                        ideas={ep.investmentIdeas}
+                        variant="minimal"
+                        locale={summaryDisplayLocale(searchParams)}
+                      />
                       <div className="episode-card-meta">
                         <span>{formatDate(ep.date)}</span>
                         <span>≈{ep.readMinutes} min read</span>

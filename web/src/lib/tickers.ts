@@ -72,9 +72,9 @@ export function formatInvestmentTicker(
   if (privatePrefix) return privatePrefix[1].trim();
   if (raw.startsWith("Basket:")) return raw;
 
-  const symbol = raw.split(/\s+/)[0];
+  const symbol = resolveTickerAlias(raw.split(/\s+/)[0]);
   const entry = chinaListingEntry(symbol);
-  if (!entry) return raw;
+  if (!entry) return symbol;
 
   const name = (locale === "zh" ? entry.zh : entry.en) || entry.en || symbol;
   if (options?.compact) return name;

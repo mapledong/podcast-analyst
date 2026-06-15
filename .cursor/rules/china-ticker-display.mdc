@@ -1,0 +1,27 @@
+---
+description: China/HK/A-share and US ADR ticker display rules
+globs:
+  - config/company_tickers.yaml
+  - data/approved/**/*.json
+  - web/src/lib/tickers.ts
+  - web/src/components/InvestmentIdeasPreview.tsx
+  - web/src/components/EpisodeCard.tsx
+---
+
+# Company ticker display
+
+## US ADRs (BABA, BIDU, XPEV, …)
+
+1. **JSON storage** — use the US ADR ticker in `keywords` and `top_investment_implications[].ticker` (e.g. `BABA`, not `9988.HK`, not `Alibaba`).
+2. **HK → ADR** — map foreign listing codes in `ticker_aliases` (e.g. `9988.HK: BABA`). Run `node web/scripts/generate-tickers.mjs` after edits.
+3. **Site display** — card pills show the **ADR ticker symbol** (e.g. `BABA`), not company name. Do **not** add ADRs to `china_listings`.
+4. **Validation** — `validate_adr_canonical_tickers()` fails publish if HK codes are used where an ADR exists.
+
+## HK/A-share without US ADR (9992.HK, 2171.HK, 300866.SZ)
+
+1. **Register** — add `zh` and `en` names under `china_listings` in `config/company_tickers.yaml`.
+2. **JSON storage** — keep the HK/A-share ticker (e.g. `"2171.HK"`). In zh thesis prose use `公司名（TICKER）`.
+3. **Site display** — card pills show **English company name** by default (e.g. CARsgen); `?lang=zh` for Chinese names.
+4. **Validation** — `validate_china_listing_tickers()` fails publish if ticker is missing from `china_listings`.
+
+Never ship a new China listing ticker without its `china_listings` entry. Never use HK listing codes when a US ADR exists.

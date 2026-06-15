@@ -12,7 +12,7 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=Fu_1_oTwhhU) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**Topics** TSM · ASML · 0981.HK · Semiconductor Cycle
+**Topics** TSM · ASML · SMIC (0981.HK) · Semiconductor Cycle
 > ### Conclusion
 >
 > Across forty years — Intel's highest technology award in 1990, co-founding SMIC around 2000 — Xie Zhifeng argues Moore's Law is slowing, not dead, and that TSMC's moat is a service and ecosystem model, not node bragging rights alone. Semiconductors still obey roughly five-year cycles even with an AI tailwind; SMIC ranks second pure-play foundry globally but faces utilization and subsidy-return constraints unlike TSMC. For investors the episode reinforces a cycle-aware stance: TSMC and ASML are advanced choke points worth owning with timing discipline; SMIC demands proof on utilization and ROI, not headline node milestones.

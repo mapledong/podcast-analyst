@@ -11,7 +11,7 @@ from typing import Any
 
 import yaml
 
-from src.company_tickers import validate_keyword_tickers
+from src.company_tickers import validate_adr_canonical_tickers, validate_china_listing_tickers, validate_keyword_tickers
 from src.duration import duration_tier, tier_limit
 
 
@@ -352,6 +352,12 @@ def validate_summary(data: dict[str, Any], template: dict[str, Any]) -> Validati
 
     for _section, message in validate_keyword_tickers(data):
         report.add("keywords", message, "warning")
+
+    for section, message in validate_adr_canonical_tickers(data):
+        report.add(section, message)
+
+    for section, message in validate_china_listing_tickers(data):
+        report.add(section, message)
 
     _validate_golden_quotes(data, report)
     _validate_prose_style(data, template, report)

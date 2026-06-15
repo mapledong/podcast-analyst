@@ -21,7 +21,7 @@
 
 {% endif %}
 
-**Topics** {% for kw in keywords %}{{ kw }}{% if not loop.last %} · {% endif %}{% endfor %}
+**Topics** {% for kw in keywords %}{{ kw | format_ticker }}{% if not loop.last %} · {% endif %}{% endfor %}
 
 > ### Conclusion
 >

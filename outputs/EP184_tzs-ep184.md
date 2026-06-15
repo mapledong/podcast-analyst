@@ -4,7 +4,7 @@
 
 **★★★★★** · 5/5
 
-**Podcast** Practical Investments · **Date** May 24, 2026 · **Duration** 108 min · **Read** ≈5 min
+**Podcast** Practical Investments · **Date** May 24, 2026 · **Duration** 108 min · **Read** ≈3 min
 
 **Host** Yongqing & David
 
@@ -12,16 +12,16 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=YGy8A_KWWNM) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**Topics** 2171.HK · CAR-T · Innovative Drugs
+**Topics** CARsgen (2171.HK) · CAR-T · Innovative Drugs
 > ### Conclusion
 >
-> David's CAR-T deep-dive with CARsgen CEO Li Zonghai and Peking University cancer physician Qi Changsong shows the therapy works but economics are brutal: annual production of roughly one to two thousand doses meets only a sliver of late-stage patient demand estimated at one hundred to fifty thousand per year in China — scarcity, not price alone, ration care. Investors must model capacity ramps, patient selection biomarkers, and insurance negotiation together; 2171.HK is a call on manufacturing scale-up and reimbursement path, not science headline alone.
+> David's CAR-T session with CARsgen CEO Li Zonghai and oncologist Qi Changsong shows efficacy is proven but economics are supply-constrained: annual output of roughly one to two thousand doses meets only a sliver of six-figure late-line demand in China — physicians, not price alone, ration scarce slots. Investors should model capacity ramps, patient-selection biomarkers, and NRDL reimbursement together; 2171.HK is a bet on manufacturing scale-up and payer access, not science headlines.
 
 ---
 
 ## Background
 
-> In a 108-minute Practical Investments episode, David launches an innovative-therapies series pairing scientists and clinicians. CARsgen founder Li Zonghai and lymphoma expert Qi Changsong explain CAR-T mechanics, indication selection, and real-world triage. Capacity constraints dominate: even successful late-line lymphoma programs can produce only about one to two thousand patient doses annually versus six-figure eligible populations — supply-demand imbalance forces physicians to pick highest-benefit patients (performance status, tumor burden, antigen expression on BCMA/GPRC5D and related targets). High price is one rationing lever among many. Insurance and national negotiation remain gating for mass access; physician judgment on response predictors becomes the allocation mechanism until capacity and payment catch up. Li built CARsgen from academic CAR-T; Qi triages at Peking University Cancer Hospital. CAR-T is factory medicine — batch failure rates and cycle time matter. Solid-tumor CAR adds GMP burden. Do not extrapolate US peak sales without China NRDL path. David opens an innovative-therapies series pairing pipeline builders with treating physicians. Li Zonghai explains CARsgen origins; Qi Changsong details lymphoma triage at Peking University Cancer Hospital. Annual dose capacity near one to two thousand versus six-figure late-line patient pools forces physician rationing — performance status, tumor burden, BCMA/GPRC5D expression guide selection. High list price is one lever among scarcity. NRDL negotiation is the demand switch — personal pay cannot scale six-figure therapies nationally. Solid-tumor CAR expansion raises GMP complexity; track batch success, cycle time, and activated hospital centers quarterly.
+> In a 108-minute Practical Investments episode, David opens an innovative-therapies series pairing scientists and clinicians. Li and Qi explain CAR-T mechanics, indication selection, and real-world triage. Capacity dominates: successful late-line lymphoma programs produce only about one to two thousand doses annually versus six-figure eligible populations — supply imbalance forces physicians to pick highest-benefit patients by performance status, tumor burden, and antigen expression. Insurance and national negotiation remain gates for mass access.
 
 ---
 
@@ -33,18 +33,6 @@
 
 > **F3** Commercial path for CARsgen (2171.HK): overseas partnerships and China launch progress, yet universal coverage requires NRDL-style negotiation — personal out-of-pocket cannot sustain six-figure therapies at scale. Investors should track batch success rates, cycle time per patient, hospital center count, and reimbursement milestones more than pipeline press releases.
 
-> **F4** Track doses shipped per quarter, hospital center activations, and NRDL milestones.
-
-> **F5** CAR-T is factory medicine: remission rates mean little if batches fail or cycle time stalls — manufacturing science equals clinical science for investors.
-
-> **F6** Qi emphasizes immune exhaustion and rapid progression as negative predictors — physicians screen for patients most likely to benefit from scarce slots.
-
-> **F7** 2171.HK upside couples capacity doubles with reimbursement — watch doses shipped and NRDL dialogue, not press-release targets alone.
-
-> **F8** Li signals active NRDL push — investors should milestone reimbursement dialogue alongside clinical readouts each quarter.
-
-> **F9** David plans more scientist-physician series episodes — each will pair pipeline truth with clinical allocation reality for cell and gene therapies.
-
 
 ---
 
@@ -52,7 +40,7 @@
 
 > **Components**
 >
-> Efficacy can be real while access remains elite — CAR-T is factory medicine with hard throughput caps. Physician triage replaces market clearing until capacity 10–100x. Reimbursement unlocks TAM; without it, revenue stays niche premium. David opens an innovative-therapies series pairing pipeline builders with treating physicians. Li Zonghai explains CARsgen origins; Qi Changsong details lymphoma triage at Peking University Cancer Hos
+> Efficacy can be real while access remains elite — CAR-T is factory medicine with hard throughput caps. Physician triage replaces market clearing until capacity 10–100x. Reimbursement unlocks TAM; without it, revenue stays niche premium.
 >
 > **Application**
 >
@@ -67,31 +55,25 @@
 >
 > **Q** Why do doctors, not markets, allocate doses?
 >
-> **A** When annual output is ≈1–2k versus six-figure need, oncologists screen for patients most likely to benefit — performance status, antigen density, disease tempo. High price is secondary to empty slots. Until automation and slot expansion arrive, revenue scales with batches, not epidemiology slides. Use quarterly falsifiable milestones, not headlines alone.
+> **A** When annual output is ≈1–2k versus six-figure need, oncologists screen for patients most likely to benefit — performance status, antigen density, disease tempo. High price is secondary to empty slots. Until automation and slot expansion arrive, revenue scales with batches, not epidemiology slides.
 
 > **2.** Insurance negotiation is the demand switch.
 >
 > **Q** What moves 2171.HK beyond niche?
 >
-> **A** Personal pay sustains early adopters; mass China access needs national reimbursement and hospital pathway standardization. Li signals active push on coverage — investors should milestone NRDL dialogue, not just clinical readouts. Failed reimbursement keeps CAR-T a luxury good regardless of remission rates. Use quarterly falsifiable milestones, not headlines alone.
+> **A** Personal pay sustains early adopters; mass China access needs national reimbursement and hospital pathway standardization. Li signals active push on coverage — investors should milestone NRDL dialogue, not just clinical readouts. Failed reimbursement keeps CAR-T a luxury good regardless of remission rates.
 
 > **3.** Next-gen targets widen science but tighten ops.
 >
 > **Q** How to read pipeline expansion?
 >
-> **A** BCMA, GPRC5D, and solid-tumor attempts increase addressable biology but each adds GMP complexity. Scale leaders compound on shared manufacturing platforms; single-asset biotech faces step-function capex per indication. Track cycle time and failure rates per batch, not target count alone. Use quarterly falsifiable milestones, not headlines alone.
-
-> **4.** CAR-T TAM is capped by batches until automation arrives.
->
-> **Q** What is the investor falsifiable test for 2171.HK?
->
-> **A** Quarterly doses shipped, manufacturing yield, hospital centers activated, and NRDL milestones — remission press alone is insufficient when slots remain in four digits annually.
+> **A** BCMA, GPRC5D, and solid-tumor attempts increase addressable biology but each adds GMP complexity. Scale leaders compound on shared manufacturing platforms; single-asset biotech faces step-function capex per indication. Track cycle time and failure rates per batch, not target count alone.
 
 ---
 
 ## Investment Ideas
 
-> **1. 2171.HK** · 🟡 WATCH · ●●○ Medium
+> **1. CARsgen (2171.HK)** · 🟡 WATCH · ●●○ Medium
 >
 > CARsgen (2171.HK): CAR-T efficacy proven but ≈1–2k annual dose cap vs massive patient pool — upside tied to capacity ramp and NRDL reimbursement, not science alone
 

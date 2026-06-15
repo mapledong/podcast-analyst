@@ -144,8 +144,8 @@ NEW_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
     "zj-ep142": {
         "en": {
             "keywords": ["Private:Harness", "ByteDance", "2026 VC Themes"],
-            "conclusion": "Yusen, a China Fund VC observer, reframes 2026 after his cautious AI-return call drew pushback: being wrong early is normal when frontier markets move fast, but the investable edge is shifting outside raw models to Harness layers, sandboxes, and persistent agent computers. He argues the next ByteDance is unlikely to beat ByteDance inside its distribution game — opportunity sits in niches incumbents ignore and in hardware-heavy China supply chains. For public-market investors the episode is a private-market signal: model APIs commoditize; durable value accrues to orchestration, feedback data loops, and application shapes ByteDance cannot easily copy.",
-            "background": "In a 139-minute second installment of Yusen's VC Watch, Zhang Xiaojun revisits Yusen's January 2026 caution on AI equity returns — NVIDIA-led rallies made the call look early wrong, which Yusen accepts as occupational hazard for pre-seed thinking. He traces the narrative from O1 to DeepSeek scares and back to US hyperscaler strength. Harness (agent orchestration outside the model) grows more important in 2026 even if frontier models remain critical: sandboxes, persistent AI computers, and task checkpoints let weak models complete long jobs. Coding flywheels feed models with high-quality feedback — Claude Code is the cited example. Debate on the next ByteDance: beating ByteDance on its turf is hard; opportunities lie in entertainment, tools, and regions outside its ad network. Application founders still have room if they avoid head-on platform wars.",
+            "conclusion": "Yusen, a China Fund VC observer, reframes 2026 after his cautious AI-return call drew early pushback — normal when frontier curves steepen. His investable thesis is not raw models but the Harness layer: sandboxes, checkpoints, and feedback loops that let weaker models finish long tasks. Beating ByteDance inside ByteDance's distribution game remains unlikely; edge sits in orthogonal niches and China hardware supply chains. Public investors should read this as a private-market map — API margins compress while orchestration and workflow data compound.",
+            "background": "In a 139-minute VC Watch episode, Zhang Xiaojun revisits Yusen's January 2026 caution on AI equity returns — NVIDIA-led rallies made the call look early wrong, which he accepts as occupational hazard. He traces O1, DeepSeek scares, and US hyperscaler strength. Harness — orchestration outside the model — matters more in 2026: sandboxes, persistent agent computers, and task checkpoints unlock long jobs. Coding flywheels retrain models via real fix signals (Claude Code). The next-ByteDance debate: beating ByteDance on its turf is hard; opportunities lie in entertainment, tools, and hardware niches incumbents undervalue.",
             "important_facts": [
                 "Yusen expected 2026 AI equity digestion in late 2025; NVDA and AI names rallied sharply instead — he treats 'face slapping' as normal for early VC when adoption outruns financialization scares. O1 and DeepSeek episodes showed narrative whipsaws; underlying spend and coding-agent adoption continued. Lesson: separate trading narratives from infrastructure build cycles.",
                 "Harness layer thesis: models alone are insufficient for long-horizon tasks — orchestration, sandbox browsers, persistent VMs, and periodic model checkpoints (Harness-style) unlock reliability. Value stacks outside the model API: OpenAI, Anthropic, and startups all build harnesses; context must be user-supplied through products, not dropped from the sky. Coding agents create feedback data loops that retrain models — Anthropic's Claude Code path versus ChatGPT's exam-trained base.",
@@ -211,8 +211,8 @@ NEW_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
         },
         "zh": {
             "keywords": ["Private:Harness", "字节跳动", "2026 创投"],
-            "conclusion": "中国基金创投观察者雨森在 AI 回报谨慎判断遭遇打脸后重构 2026 框架：早期看错是常态，但可投资边际正从裸模型转向 Harness 层、沙箱与持久智能体计算机。他认为下一个字节很难在字节分发规则内击败字节——机会在巨头忽视的细分与中国硬件供应链。对二级市场投资者：这是私募信号——模型 API commoditize；持久价值归于编排、反馈数据闭环与字节难以复制的应用形态。",
-            "background": "139 分钟节目中，张小珺回访雨森 2026 年 1 月对 AI 股票回报的谨慎判断——英伟达引领反弹使观点显得过早错误，雨森视之为早期投资的职业风险。他梳理从 O1 到 DeepSeek 再回美国超大规模叙事的路径。Harness（模型外智能体编排）在 2026 年更重要：沙箱、持久 AI 电脑与任务检查点让较弱模型完成长任务。编程飞轮以高质量反馈重训模型——以 Claude Code 为例。下一字节之争：在字节主场难赢；机会在娱乐、工具与其广告网络外区域。应用创业者避开正面平台战仍有空间。",
+            "conclusion": "雨森在中国基金创投观察中重构 2026 框架：对 AI 回报的谨慎判断遭遇早期打脸是前沿曲线陡峭时的常态。可投资主线不在裸模型，而在 Harness 层——沙箱、检查点与反馈闭环让较弱模型完成长任务。在字节分发规则内极难击败字节；边际在巨头忽视的正交细分与中国硬件供应链。二级市场投资者应将其读作私募地图——API 毛利压缩，编排与工作流数据复利。",
+            "background": "139 分钟创投观察节目中，张小珺回访雨森 2026 年 1 月对 AI 股票回报的谨慎判断——英伟达引领反弹使观点显得过早错误，雨森视之为职业风险。他梳理 O1、DeepSeek 冲击与美国超大规模叙事。Harness（模型外编排）在 2026 年更重要：沙箱、持久智能体电脑与任务检查点解锁长任务。编程飞轮以真实修复信号重训模型（Claude Code）。下一字节之争：在字节主场难赢；机会在娱乐、工具与巨头低估的硬件细分。",
             "important_facts": [
                 "雨森 2025 年末预期 2026 年 AI 股权消化；英伟达等强势反弹——他将「打脸」视为前沿市场快时的常态。O1 与 DeepSeek 叙事剧烈摆动；底层开支与编程智能体采用持续。教训：区分交易叙事与基础设施建设周期。",
                 "Harness 层论点：仅靠模型不足以完成长程任务——编排、沙箱浏览器、持久虚拟机与定期检查点（Harness 式）解锁可靠性。价值堆叠在模型 API 外：OpenAI、Anthropic 与创业公司均建 Harness；上下文须由用户经产品供给。编程智能体形成反馈数据闭环重训模型——Anthropic Claude Code 路径对比 ChatGPT 考试训练基座。",
@@ -280,8 +280,8 @@ NEW_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
     "zj-ep145": {
         "en": {
             "keywords": ["Private:SpaceX", "TSLA", "Space Economy"],
-            "conclusion": "Former SpaceX manufacturing executive Hong Lide frames 2026 as capital's ChatGPT moment for space — IPO chatter and xAI integration amplify imagination — but engineering timelines were set a decade ago: Mars teams formed after the first Falcon success, and Starship iterations began while flying the prior generation. Musk's hiring philosophy tolerates public speculation because roadmap lines, not quarterly OKRs, bind the firm. For investors: SpaceX optionality is manufacturing culture plus vertical integration, not hype alone; Tesla remains the public liquid proxy, while pure-play space names need proof on cadence, cost-per-kilogram, and Starlink cash flow before mega-IPO pricing.",
-            "background": "In a 181-minute oral history, Zhang Xiaojun speaks with Hong Lide, who joined SpaceX in 2002 and left around 2009 managing seven departments and three thousand-plus rocket components. Now a Los Angeles early-stage VC (Eris Fund) investing physical AI and space, he walks through SpaceX's master plan lineage, manufacturing obsession (GEP Mini Cooper team analogy), and why running out of fuel exactly at your driveway is the rocket precision metaphor. 2026 may bring the largest IPO in history as SpaceX absorbs xAI narratives, yet Hong stresses space development is continuous — Mars planning started in 2012–13 after first launch success. Musk's X posts often preview ideas discussed internally years earlier. China aerospace competition is watched closely but US vertical integration and ruthless cost culture remain differentiated.",
+            "conclusion": "Former SpaceX executive Hong Lide separates 2026's capital frenzy from engineering continuity: IPO and xAI chatter is new for allocators, but Mars planning and Starship iteration began after the first Falcon success in 2012–13. SpaceX's edge is manufacturing culture and vertical integration across thousands of components — not slide-deck synergy. Tesla remains the liquid Musk-industrial proxy; pure-play space names need Starship cadence, per-kilogram cost, and Starlink cash flow before mega-IPO scarcity pricing.",
+            "background": "In a 181-minute oral history, Zhang Xiaojun speaks with Hong Lide, who joined SpaceX in 2002 and left around 2009 managing seven departments and three thousand-plus rocket components. Now a Los Angeles VC (Eris Fund) investing physical AI and space, he walks through manufacturing obsession (BMW Mini Cooper GEP analogy) and the rocket precision metaphor — fuel should deplete exactly as you reach home. 2026 may bring the largest IPO as SpaceX absorbs xAI narratives, yet Hong stresses space development is continuous — Mars planning started in 2012–13 after first launch success. Musk's public posts often preview ideas discussed internally years earlier.",
             "important_facts": [
                 "Hong joined SpaceX in 2002, departed ~2009 leading seven departments covering three thousand-plus rocket parts — lived through Falcon 1 era into early Starship thinking. Manufacturing culture: compare SpaceX to BMW Mini Cooper GEP team — relentless process refinement, not PowerPoint engineering. Precision anecdote: rocket fuel should deplete exactly as you reach home — drives tolerance stack and testing discipline.",
                 "Roadmap philosophy: SpaceX had a multi-step master plan like Tesla's; Mars group existed once first rocket flew even when vehicle could not reach Mars yet — next-gen design starts while current gen flies. Public Musk tweets often recycle internal decade-old threads; 2026 IPO/xAI merger is capital inflection (ChatGPT moment for space) more than engineering discontinuity. Starlink, Starship, and satellite internet were long-planned lines, not reaction to 2025 hype.",
@@ -347,8 +347,8 @@ NEW_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
         },
         "zh": {
             "keywords": ["Private:SpaceX", "TSLA", "太空经济"],
-            "conclusion": "SpaceX 前制造高管洪力德将 2026 框为资本的「太空 ChatGPT 时刻」——IPO 传闻与 xAI 整合放大想象——但工程时间线十年前已设定：首次 Falcon 成功后即成立火星小组，飞当前代同时迭代 Starship。马斯克用人哲学容忍公开猜测，因路线图线条而非季度 OKR 约束公司。对投资者：SpaceX 期权价值在制造文化加垂直整合，非炒作 alone；特斯拉仍是上市流动性代理，纯太空标的须证明节奏、每公斤成本与 Starlink 现金流后方可 mega-IPO 定价。",
-            "background": "181 分钟口述史中，张小珺对话洪力德——2002 年加入 SpaceX，约 2009 年离开，曾管七个部门、三千余火箭零部件。现居洛杉矶早期 VC（Eris Fund），投资实体 AI 与太空。他回顾 SpaceX 大计划脉络、制造执念（宝马 Mini Cooper GEP 团队类比），以及「到家门口刚好没油」的火箭精度隐喻。2026 年或现史上最大 IPO，SpaceX 吸纳 xAI 叙事，但洪强调太空发展是连续的——2012–13 年首次发射成功后即规划火星。马斯克 X 上发言常预示多年前内部讨论。中国航天竞争受密切关注，但美国垂直整合与成本文化仍分化。",
+            "conclusion": "SpaceX 前高管洪力德区分 2026 年资本狂热与工程连续性：IPO 与 xAI 传闻对配置者是新的，但火星规划与 Starship 迭代在 2012–13 年首次 Falcon 成功后已开始。SpaceX 的边际在制造文化与数千零部件的垂直整合——非 slide 协同。特斯拉仍是马斯克工业体系的上市流动性代理；纯太空标的须证明 Starship 节奏、每公斤成本与 Starlink 现金流，方可接受 mega-IPO 稀缺定价。",
+            "background": "181 分钟口述史中，张小珺对话洪力德——2002 年加入 SpaceX，约 2009 年离开，曾管七个部门、三千余火箭零部件。现居洛杉矶 VC（Eris Fund），投资实体 AI 与太空。他回顾制造执念（宝马 Mini Cooper GEP 类比）与「到家门口刚好没油」的火箭精度隐喻。2026 年或现史上最大 IPO，SpaceX 吸纳 xAI 叙事，但洪强调太空发展是连续的——2012–13 年首次发射成功后即规划火星。马斯克公开发言常预示多年前内部讨论。",
             "important_facts": [
                 "洪力德 2002 年加入 SpaceX，约 2009 年离开，领导七个部门、覆盖三千余零部件——经历 Falcon 1 至早期 Starship 思维。制造文化：类比宝马 Mini Cooper GEP 团队——持续工艺精进，非 PPT 工程。精度轶事：火箭燃料应在到家门口时刚好耗尽——驱动公差栈与测试纪律。",
                 "路线图哲学：SpaceX 有多步大计划，类似特斯拉；首次火箭飞行后即设火星小组，即便当时运载器无法抵达火星——飞当前代同时设计下一代。马斯克公开推文常复述内部十年线；2026 IPO/xAI 合并是资本拐点（太空 ChatGPT 时刻）多于工程断层。Starlink、Starship 与卫星互联网是长期规划线，非 2025  hype 反应。",
@@ -416,8 +416,8 @@ NEW_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
     "tzs-ep184": {
         "en": {
             "keywords": ["2171.HK", "CAR-T", "Innovative Drugs"],
-            "conclusion": "David's CAR-T deep-dive with CARsgen CEO Li Zonghai and Peking University cancer physician Qi Changsong shows the therapy works but economics are brutal: annual production of roughly one to two thousand doses meets only a sliver of late-stage patient demand estimated at one hundred to fifty thousand per year in China — scarcity, not price alone, ration care. Investors must model capacity ramps, patient selection biomarkers, and insurance negotiation together; 2171.HK is a call on manufacturing scale-up and reimbursement path, not science headline alone.",
-            "background": "In a 108-minute Practical Investments episode, David launches an innovative-therapies series pairing scientists and clinicians. CARsgen founder Li Zonghai and lymphoma expert Qi Changsong explain CAR-T mechanics, indication selection, and real-world triage. Capacity constraints dominate: even successful late-line lymphoma programs can produce only about one to two thousand patient doses annually versus six-figure eligible populations — supply-demand imbalance forces physicians to pick highest-benefit patients (performance status, tumor burden, antigen expression on BCMA/GPRC5D and related targets). High price is one rationing lever among many. Insurance and national negotiation remain gating for mass access; physician judgment on response predictors becomes the allocation mechanism until capacity and payment catch up.",
+            "conclusion": "David's CAR-T session with CARsgen CEO Li Zonghai and oncologist Qi Changsong shows efficacy is proven but economics are supply-constrained: annual output of roughly one to two thousand doses meets only a sliver of six-figure late-line demand in China — physicians, not price alone, ration scarce slots. Investors should model capacity ramps, patient-selection biomarkers, and NRDL reimbursement together; 2171.HK is a bet on manufacturing scale-up and payer access, not science headlines.",
+            "background": "In a 108-minute Practical Investments episode, David opens an innovative-therapies series pairing scientists and clinicians. Li and Qi explain CAR-T mechanics, indication selection, and real-world triage. Capacity dominates: successful late-line lymphoma programs produce only about one to two thousand doses annually versus six-figure eligible populations — supply imbalance forces physicians to pick highest-benefit patients by performance status, tumor burden, and antigen expression. Insurance and national negotiation remain gates for mass access.",
             "important_facts": [
                 "CAR-T production scale: Li frames current annual output near one to two thousand doses per program — far below late-line lymphoma/myeloma patient pools (conservative six-figure incidence in China). Scarcity rationing precedes price debates — clinicians prioritize fit patients with better performance status, lower tumor burden, and strong target antigen expression.",
                 "Clinical selection signals: bulky disease, rapid progression, and exhausted immune systems reduce CAR-T benefit — Qi details biomarkers and prior-line response patterns guiding enrollment. Multispecific and next-gen CAR constructs (BCMA, GPRC5D pathways cited) aim to widen eligible populations but manufacturing complexity rises with each indication.",
@@ -476,8 +476,8 @@ NEW_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
         },
         "zh": {
             "keywords": ["2171.HK", "CAR-T", "创新药"],
-            "conclusion": "大卫与科济药业 CEO 李宗海、北大肿瘤专家齐长松的 CAR-T 深谈显示：疗法有效但经济学残酷——年产约一千至二千剂仅覆盖极少数晚期患者，而中国每年保守估计有十万至十五万需求人群——稀缺性而非价格 alone 配置治疗。投资者须将产能爬坡、患者筛选生物标志物与医保谈判一并建模；科济药业（2171.HK）是对制造规模化与报销路径的赌注，非仅科学头条。",
-            "background": "108 分钟投资实战派节目中，大卫启动创新疗法系列，科学家加临床医生对谈。李宗海与齐长松解释 CAR-T 机制、适应症选择与真实世界分诊。产能约束主导：即便成功的晚期淋巴瘤项目年产仅约一千至二千患者剂量，对比六位数适用人群——供需失衡迫使医生挑选获益最高患者（体能状态、肿瘤负荷、BCMA/GPRC5D 等靶点表达）。高价只是多种配给杠杆之一。医保与国家谈判仍是大规模可及性门槛；在产能与支付跟上前，医生对疗效预测的判断即分配机制。",
+            "conclusion": "大卫与科济药业 CEO 李宗海、肿瘤专家齐长松的 CAR-T 深谈显示：疗效已证但经济学受产能约束——年产约一千至二千剂仅覆盖极少数六位数晚期需求，由医生而非价格 alone 配置稀缺位次。投资者须将产能爬坡、患者筛选生物标志物与 NRDL 报销一并建模；科济药业（2171.HK）是对制造规模化与支付可及的赌注，非仅科学头条。",
+            "background": "108 分钟投资实战派节目中，大卫启动创新疗法系列，科学家与临床医生对谈。李、齐解释 CAR-T 机制、适应症选择与真实世界分诊。产能主导：成功晚期淋巴瘤项目年产仅约一千至二千剂，对比六位数适用人群——供需失衡迫使医生按体能状态、肿瘤负荷与抗原表达筛选最高获益患者。医保与国家谈判仍是大规模可及性门槛。",
             "important_facts": [
                 "CAR-T 生产规模：李框定当前单项目年产约一千至二千剂——远低于晚期淋巴瘤/骨髓瘤患者池（中国保守六位数 incidence）。稀缺配给先于价格辩论——临床优先体能好、肿瘤负荷低、靶点抗原表达强者。",
                 "临床筛选信号：巨块型疾病、快速进展与免疫系统衰竭降低 CAR-T 获益——齐详述生物标志物与既往线疗效模式指导入组。多特异与下一代 CAR（BCMA、GPRC5D 等）旨在扩大人群但每增一适应症 GMP 复杂度上升。",
@@ -538,8 +538,8 @@ NEW_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
     "tzs-ep186": {
         "en": {
             "keywords": ["Value Investing", "Market Divergence", "Position Sizing"],
-            "conclusion": "On Shen Shuaibo's show, Yongqing draws a sharp line between momentum chasing and value guarding principal: buying because a stock rose is usually wrong — edge comes from expected return asymmetry after deep work, not positive feedback loops. With 2026 sector extremes and youth piling into equities globally, he sticks to minority high-quality compounders and warns circle-of-competence is fuzzy even for veterans (Meta, Nvidia revivals). Practical takeaway: know the mainstream narrative but pre-build psychological and portfolio switches for either path — participation without thesis is gambling.",
-            "background": "In a 90-minute cross-podcast episode, Shen Shuaibo hosts Practical Investments co-founder Yongqing on why secondary markets became a 'safe haven' — Korea, China, and US youth chasing stocks while physical business feels hard. Yongqing defines value as price below moving intrinsic value, not low PE labels (Moutai debates). He contrasts buying for fundamentals versus buying because prices rose — the latter hides unknown reversal triggers. Circle of competence is slippery: investors who followed Meta or Nvidia bears got surprised when narratives flipped. New-issue liquidity can amplify short-term moves independent of long-term cash flows. Core strategy remains few high-quality names with return asymmetry (prefer 50% down / 2x up over 50% down / 50% up).",
+            "conclusion": "On Shen Shuaibo's show, Yongqing draws a bright line between momentum chasing and value discipline: buying because a stock rose is usually wrong unless you can name what breaks the cycle. With 2026 retail safe-haven flows into equities globally, he stays with few high-quality compounders and return asymmetry — tolerating drawdowns only when upside skew justifies them. Know the mainstream narrative, but pre-build portfolio switches; participation without a thesis is gambling.",
+            "background": "In a 90-minute cross-podcast episode, Shen Shuaibo hosts Practical Investments co-founder Yongqing on why equities became a retail safe haven — youth in Korea, China, and the US chase stocks while operating businesses struggle. Yongqing defines value as price below moving intrinsic value, not low PE labels. He contrasts fundamental buys with buying after rallies — the latter hides unknown reversal triggers. Circle of competence is slippery: Meta and Nvidia revivals surprised veterans. Core strategy remains few high-quality names with return asymmetry.",
             "important_facts": [
                 "Safe-haven equity flows: Shen cites global youth treating stocks as destiny-changing bets (Korea meme stocks, US AI mania, China retail surge) while operating businesses struggle — Yongqing warns this is narrative and liquidity, not automatic quality.",
                 "Value vs momentum mistake: buying after rallies without reversal triggers is trend-following trap; rational hold requires knowing what breaks the positive loop. Yongqing prefers setups with 50% drawdown tolerable if upside doubles versus shallow bounce profiles — return asymmetry over heat.",
@@ -597,8 +597,8 @@ NEW_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
         },
         "zh": {
             "keywords": ["价值投资", "市场分化", "仓位管理"],
-            "conclusion": "沈帅波节目中，永庆划清追行情与守本金的界限：因上涨而买入通常错误——边际来自深度研究后的预期回报不对称，非正反馈循环。2026 年板块极致分化、全球年轻人涌入股市，他仍坚持少数高质量复利公司，并警告能力圈即使老手也模糊（Meta、英伟达复苏）。实操：知悉主流叙事，但为任一路径预先构建心理与组合开关——无投资论点的参与即赌博。",
-            "background": "90 分钟跨播客节目，沈帅波对话投资实战派联合创始人永庆，讨论二级市场何以成「避风港」——韩中美年轻人追逐股票而实体生意难做。永庆定义价值为价格低于动态内在价值，非低市盈率标签（茅台之争）。他对比因基本面买入与因价格上涨买入——后者隐藏未知反转触发器。能力圈滑移：跟随 Meta 或英伟达看空者在其叙事翻转时措手不及。新股流动性可放大短期走势，独立于长期现金流。核心策略仍是少数高质标的、回报不对称（偏好跌 50% 涨 2 倍优于跌 50% 涨 50%）。",
+            "conclusion": "沈帅波节目中，永庆划清追行情与守本金的界限：因上涨而买入通常错误，除非能说出何者打破周期。2026 年全球散户将股票作避风港，他仍坚持少数高质量复利公司与回报不对称——仅在向上偏度 justify 时承受回撤。知悉主流叙事，但预先构建组合开关；无投资论点的参与即赌博。",
+            "background": "90 分钟跨播客节目中，沈帅波对话投资实战派联合创始人永庆，讨论股市何以成散户避风港——韩中美年轻人追逐股票而实体生意难做。永庆定义价值为价格低于动态内在价值，非低市盈率标签。他对比基本面买入与涨价后买入——后者隐藏未知反转触发器。能力圈模糊：Meta 与英伟达复苏令老手意外。核心策略仍是少数高质标的与回报不对称。",
             "important_facts": [
                 "股票避风港资金流：沈引全球年轻人将股票作改命赌注（韩国 meme 股、美国 AI 狂热、中国散户 surge）而经营生意艰难——永庆警告这是叙事与流动性，非自动质量。",
                 "价值 vs 动量错误：无反转触发器的反弹后买入是趋势陷阱；理性持有须知何者打破正循环。永庆偏好可承受跌 50% 且上行翻倍 setup，胜过浅反弹——不对称优于热度。",
@@ -658,8 +658,8 @@ NEW_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
     "tzs-ep187": {
         "en": {
             "keywords": ["AI Careers", "Human Capital", "BABA"],
-            "conclusion": "Jiang Xun — twenty years in data across Alibaba, Ping An Good Doctor, and startups — argues irreplaceability in the AI era is not heroic genius but structured judgment plus clean data loops: agents can beat humans once goals and datasets are explicit, yet most professionals never formalize how they decide. Leaving a resource-rich big org to build anew, he embodies the bet that diffusing AI rewards people who codify expertise. For investors the link is indirect but real: platforms that own structured workflow data (enterprise software, clouds) compound; pure labor arbitrage without captured process data gets commoditized.",
-            "background": "In a 93-minute episode David hosts Jiang Xun on becoming irreplaceable amid AI. Jiang studied nuclear engineering, spent 2008–2019 at Alibaba building early data platforms (including post-Olympic data stack), led data at Ping An Good Doctor, then founded a healthcare-data venture (~RMB 80M raised over four years) before a recent high-profile exit from a large organization to restart. He maps career arcs: gold-medal student mindset — beat peers by a margin, not miles — applied to data science and medical AI. Thesis: if you give an agent clean data and a precise trading or clinical objective, it should outperform humans; blockage is messy human reasoning and non-standardized financial/clinical records (dozens of vendors to reconcile). Irreplaceability means capturing tacit workflow and staying one step ahead on structured learning, not resisting tools.",
+            "conclusion": "Data veteran Jiang Xun argues irreplaceability in the AI era is structured judgment plus clean data loops, not resisting tools — agents beat humans once objectives and datasets are explicit, yet most professionals never write down how they decide. His path from Alibaba and Ping An Good Doctor to restarting at mid-career embodies betting on rising industry curves. For investors the link is indirect: platforms that capture structured workflow data compound; pure labor without process capture gets commoditized.",
+            "background": "In a 93-minute episode David hosts Jiang Xun on becoming irreplaceable amid AI. Jiang spent 2008–2019 at Alibaba building data platforms, led data at Ping An Good Doctor, then founded a healthcare-data venture (~RMB 80M raised over four years) before leaving a large org to restart. Thesis: agents with clean data and precise objectives should outperform humans; blockage is messy reasoning and fragmented records (~twenty vendors to replicate one analyst stack). Irreplaceability means codifying tacit workflow, not resisting tools.",
             "important_facts": [
                 "Jiang's path: Alibaba 2008–2019 data infrastructure era; built Ping An Good Doctor data stack 2014 onward; founded healthcare analytics company raising ~RMB 80M over four years — left mature org recently to pursue next venture despite age and comfort, citing need to stay on rising industry curves.",
                 "Irreplaceability framework: agents need explicit objectives (hold period, risk tolerance, clinical endpoints) and clean datasets — humans fail at articulating their own decision trees. Financial data requires ~20 vendor feeds to replicate an analyst stack; clinical data equally fragmented. Winners codify tacit steps into machine-readable pipelines.",
@@ -718,8 +718,8 @@ NEW_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
         },
         "zh": {
             "keywords": ["AI 职业", "不可替代性", "人力资本"],
-            "conclusion": "拥有阿里、平安好医生与创业经历的姜讯认为，AI 时代不可替代性非英雄式天赋，而是结构化判断加干净数据闭环：目标与数据集明确后智能体可胜人类，但多数从业者从未形式化自己的决策。离开资源充裕的大组织重新创业，体现他押注 AI 扩散奖励能编码专长的人。对投资者关联间接但真实：拥有结构化工作流数据的平台（企业软件、云）复利；无过程数据捕获的纯劳动力套利被 commoditize。",
-            "background": "93 分钟节目中，大卫对话姜讯谈 AI 时代如何不可替代。姜讯学核工程，2008–2019 年在阿里建设早期数据平台（含奥运后数据栈），曾任平安好医生数据负责人，后创办医疗数据公司（四年融资约八千万元人民币），近期从大型组织高调离开重启。他映射职业路径：金牌学生心态——比同伴略领先一步而非遥遥领先——用于数据科学与医疗 AI。论点：给智能体干净数据与精确交易或临床目标，其应 outperform 人类；阻塞在于混乱的人类推理与非标准化财务/临床记录（需对接数十家供应商）。不可替代意味着捕获隐性工作流并在结构化学习上领先一步，非抵制工具。",
+            "conclusion": "数据老兵姜讯认为，AI 时代不可替代性是结构化判断加干净数据闭环，非抵制工具——目标与数据集明确后智能体可胜人类，但多数从业者从未写下自己的决策方式。他从阿里、平安好医生到中年重启的路径，体现押注上升行业曲线。对投资者关联间接：捕获结构化工作流数据的平台复利；无过程数据捕获的纯劳动被 commoditize。",
+            "background": "93 分钟节目中，大卫对话姜讯谈 AI 时代如何不可替代。姜讯 2008–2019 年在阿里建设数据平台，曾任平安好医生数据负责人，后创办医疗数据公司（四年融资约八千万元），近期离开大型组织重启。论点：干净数据与精确目标下智能体应 outperform 人类；阻塞在于混乱推理与碎片化记录（约二十家供应商复制一个分析师栈）。不可替代意味着编码隐性工作流，非抵制工具。",
             "important_facts": [
                 "姜讯路径：阿里 2008–2019 数据基础设施时代；2014 年起建设平安好医生数据栈；创办医疗 analytics 公司四年融资约八千万元——近期离开成熟组织追下一程，称须留在上升行业曲线。",
                 "不可替代框架：智能体需明确目标（持有期、风险承受、临床终点）与干净数据集——人类不善于阐明自己的决策树。财务数据需约 20 家供应商 feed 复制分析师栈；临床数据同样碎片化。赢家将隐性步骤编码为机器可读管线。",
@@ -778,278 +778,3 @@ NEW_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
         },
     },
 }
-
-# Transcript-grounded word-count expansions for duration tiers
-for _eid, _bg_en, _bg_zh, _fact_en, _fact_zh in [
-    ("zj-ep142",
-        " Yusen details OpenAI versus Anthropic coding subsidies, Manus sandbox browsers, and why context must be user-fed through products. Investors flew to Shanghai seeking the next ByteDance while Byte alumni spin ventures — yet beating ByteDance inside its ad game remains structurally hard. Hardware and edge AI in China may surprise if application layers fragment. World-model debates recur: abundant coding capacity creates new surfaces faster than incumbents absorb — but GDP diffusion lags.",
-        " 雨森详述编程补贴、Manus 沙箱浏览器与上下文须经产品供给。投资人赴上海找下一字节——在字节广告游戏内击败字节仍难。中国硬件与边缘 AI 或成 2026 意外。充裕编程产能创造新表面快于巨头吸收——向 GDP 扩散仍滞后。",
-        "Yusen argues early VC 'face slapping' signals fast S-curves — separate trading narratives from harness-layer build cycles.",
-        "雨森认为早期 VC「打脸」信号 S 曲线陡峭——区分交易叙事与 Harness 层建设周期。",
-    ),
-    ("zj-ep145",
-        " Hong compares manufacturing to BMW Mini Cooper GEP refinement. Mars teams formed after first Falcon success though vehicle could not reach Mars. xAI-Grok data moat inside Musk ecosystem debated; cultural fit with hardware teams uncertain. 2026 LP inbound treats space as capital ChatGPT moment. Musk tweets often preview decade-old internal threads. Hong managed seven departments and three thousand-plus components. China cadence rises; reuse economics trail SpaceX. Starlink FCF and Starship cadence are pre-IPO falsifiable tests.",
-        " 洪力德类比宝马 GEP 制造精进。首次 Falcon 成功后设火星小组。xAI-Grok 数据护城河与硬件团队文化契合存疑。2026 LP 将太空视作资本 ChatGPT 时刻。马斯克推文常预示十年内部线。洪管七部门三千余零部件。中国节奏上升；复用经济学落后 SpaceX。Starlink 自由现金流与 Starship 节奏是 IPO 前可证伪测试。",
-        "Eris Fund bets physical AI with ex-Tesla Shanghai executive; ITAR gates US peers.",
-        "Eris Fund 与特斯拉上海前高管押注实体 AI；ITAR 约束美国同行。",
-    ),
-    ("tzs-ep184",
-        " Li built CARsgen from academic CAR-T; Qi triages at Peking University Cancer Hospital. CAR-T is factory medicine — batch failure rates and cycle time matter. Solid-tumor CAR adds GMP burden. Do not extrapolate US peak sales without China NRDL path.",
-        " 李从学术 CAR-T 创立科济；齐在北大肿瘤医院分诊。CAR-T 是工厂医学——批次失败率与周期重要。实体瘤 CAR 增 GMP 负担。无中国 NRDL 路径勿外推美国峰值销售。",
-        "Track doses shipped per quarter, hospital center activations, and NRDL milestones.",
-        "跟踪每季度发货剂量、医院中心激活与 NRDL 里程碑。",
-    ),
-    ("tzs-ep186",
-        " Shen cites Korea, China, US youth chasing stocks as safe haven while operating business hard. Yongqing focuses few quality compounders with asymmetry. New issues move on thin float. Meta and Nvidia revivals surprised static competence-circle views.",
-        " 沈引韩中美年轻人追逐股票为避风港。永庆聚焦少数高质量不对称标的。新股薄流通盘可撬动价格。Meta 与英伟达复苏令静态能力圈观意外。",
-        "Prepare portfolio switches for 2026 extremes — participation without thesis is gambling.",
-        "为 2026 极端分化预备组合开关——无论点参与即赌博。",
-    ),
-    ("tzs-ep187",
-        " Jiang left large org for rising curves over golden handcuffs. Alibaba 2008–2019 data platforms; Ping An Good Doctor; healthcare venture ~RMB 80M raised. Twenty financial vendors mirror one analyst stack. Historical displacements slower but similarly scary — AI faster, breadth uncertain.",
-        " 姜讯离开大组织追上升曲线。阿里 2008–2019 数据平台；平安好医生；医疗公司融资约八千万。二十家财务供应商镜像一个分析师栈。历史置换更慢同样可怕——AI 更快、广度未定。",
-        "Codify tacit workflow into agent-ready data — irreplaceability is structured judgment, not resisting tools.",
-        "将隐性工作流编码为智能体可用数据——不可替代是结构化判断，非抵制工具。",
-    ),
-]:
-    NEW_EPISODES[_eid]["en"]["background"] += _bg_en
-    NEW_EPISODES[_eid]["zh"]["background"] += _bg_zh
-    NEW_EPISODES[_eid]["en"]["important_facts"].append(_fact_en)
-    NEW_EPISODES[_eid]["zh"]["important_facts"].append(_fact_zh)
-    for _ins in NEW_EPISODES[_eid]["en"]["key_insights"]:
-        _ins["answer"] += " Use quarterly falsifiable milestones, not headlines alone."
-    for _ins in NEW_EPISODES[_eid]["zh"]["key_insights"]:
-        _ins["answer"] += " 用季度可证伪里程碑，非头条 alone。"
-
-# Second-pass expansions for 90–180+ min tiers
-_EXTRA: dict[str, tuple[str, str, list[str], list[str]]] = {
-    "zj-ep142": (
-        "Yusen walks through Manus cooperating with YouTube on sandbox browsing — models need environments to act, not just chat windows. He contrasts ChatGPT as a product wrapping instruct models versus APIs alone. Coding agent data loops (Claude Code) retrain models with real-world fix signals unlike exam benchmarks. Investors hunting next ByteDance in Shanghai should note EU apps lack China distribution; opportunities may be tools, entertainment, or hardware instead. World-model versus next-token framing is secondary to harness and sandbox layers capturing task completion.",
-        "雨森梳理 Manus 与 YouTube 合作沙箱浏览——模型需要行动环境非仅聊天窗。他对比 ChatGPT 将 instruct 模型包装为产品与裸 API。编程智能体数据闭环（Claude Code）以真实修复信号重训模型，不同于考试基准。上海寻找下一字节的投资者应注意海外应用缺中国分发；机会或在工具、娱乐或硬件。世界模型与下一 token 框架次于 Harness 与沙箱层捕获任务完成度。",
-        [
-            "OpenAI, Anthropic, Google, and startups all invest outside-model orchestration — periodic checkpoints, tool routing, and sandbox VMs are 2026 pricing battlegrounds.",
-            "ByteDance moat is ad network plus content flywheel — Yusen argues orthogonal categories (Qtime-like entertainment, dev tools) beat head-on clones.",
-            "If coding capacity becomes abundant, surface area for new products expands — but GDP diffusion and employment contracts adjust slowly; hardware supply chain in China may capture value if apps fragment.",
-        ],
-        [
-            "OpenAI、Anthropic、Google 与创业公司均投资模型外编排——定期检查点、工具路由与沙箱虚拟机是 2026 定价战场。",
-            "字节护城河是广告网络加内容飞轮——雨森认为正交品类（Qtime 式娱乐、开发工具）胜过正面克隆。",
-            "若编程产能充裕，新产品表面扩大——但 GDP 扩散与就业契约调整缓慢；若应用碎片化中国硬件供应链或捕获价值。",
-        ],
-    ),
-    "zj-ep145": (
-        "Hong Lide recounts joining SpaceX in 2002 when Falcon programs were unproven, leaving around 2009 after scaling seven manufacturing departments. He compares Elon Musk's tolerance for public roadmap speculation with internal decade-long planning lines — Mars working groups existed once a single Falcon reached orbit even when payloads could not reach Mars. Manufacturing culture mirrors BMW Mini Cooper GEP teams: continuous process refinement, not aerospace bureaucracy. Rocket precision metaphor: fuel should deplete exactly as you arrive home — drives tolerance stacks across thousands of components. 2026 SpaceX-xAI narrative creates LP inbound frenzy; Hong co-founded Eris Fund with ex-Tesla Shanghai leadership betting physical AI and space supply chain. Starlink broadband cash generation and Starship flight cadence remain falsifiable economics pre-IPO — xAI Grok data advantages inside Musk ecosystem do not replace kg-to-orbit cost curves. China launch activity accelerates but full reuse and vertical integration economics still trail Hawthorne culture. RKLB and peers ride capital tide without SpaceX full-stack moat.",
-        "洪力德回顾 2002 年加入未经验证的 Falcon 项目，约 2009 年离开前扩展七个制造部门。他将马斯克对公开路线图猜测的容忍与内部十年规划线对比——单次 Falcon 入轨后即设火星工作组即便载荷无法抵达火星。制造文化类比宝马 Mini Cooper GEP 团队：持续工艺精进，非航天官僚。火箭精度隐喻：燃料应在到家门口时刚好耗尽——驱动数千零部件公差栈。2026 SpaceX-xAI 叙事引发 LP inbound 狂热；洪与特斯拉上海前高管共创 Eris Fund 押注实体 AI 与太空供应链。Starlink 宽带现金产生与 Starship 飞行节奏仍是 IPO 前可证伪经济学——马斯克生态内 xAI Grok 数据优势不替代每公斤轨道成本曲线。中国发射活动加速但全复用与垂直整合经济学仍落后霍桑文化。RKLB 等同行乘资本浪潮但无 SpaceX 全栈护城河。",
-        [
-            "SpaceX master plan lineage parallels Tesla: stepwise lines executed across generations — Starship design began while Falcon flew; capital markets only now price the outer steps.",
-            "Musk hiring: departments scaled by component count and test cycles; public tweets often preview internal debates from Hong's era — culture accepts chaos if roadmap line is clear.",
-            "xAI integration risk: Grok data moat versus hardware-team culture — many AI hires differ from rocket builders; investors should not conflate slide-deck synergy with manufacturing discipline.",
-            "Pre-IPO checklist: Starship flights per quarter, Starlink free cash flow trend, cost per kilogram to orbit — not xAI narrative alone.",
-        ],
-        [
-            "SpaceX 大计划脉络平行特斯拉：跨代执行分步线条——Falcon 飞行时 Starship 设计已开始；资本市场现今才为外层步骤定价。",
-            "马斯克用人：部门按零部件数与测试周期扩展；公开推文常预示洪时代内部辩论——路线图清晰则容忍混乱。",
-            "xAI 整合风险：Grok 数据护城河对硬件团队文化——许多 AI 招聘不同于火箭制造者；投资者勿将 slide 协同与制造纪律混为一谈。",
-            "IPO 前清单：每季度 Starship 飞行、Starlink 自由现金流趋势、每公斤轨道成本——非 xAI 叙事 alone。",
-        ],
-    ),
-    "tzs-ep184": (
-        "David opens an innovative-therapies series pairing pipeline builders with treating physicians. Li Zonghai explains CARsgen origins; Qi Changsong details lymphoma triage at Peking University Cancer Hospital. Annual dose capacity near one to two thousand versus six-figure late-line patient pools forces physician rationing — performance status, tumor burden, BCMA/GPRC5D expression guide selection. High list price is one lever among scarcity. NRDL negotiation is the demand switch — personal pay cannot scale six-figure therapies nationally. Solid-tumor CAR expansion raises GMP complexity; track batch success, cycle time, and activated hospital centers quarterly.",
-        "大卫开启创新疗法系列，配对管线建设者与治疗医生。李宗海解释科济起源；齐长松详述北大肿瘤医院淋巴瘤分诊。年产约一千至二千剂对比六位数晚期患者池迫使医生配给——体能状态、肿瘤负荷、BCMA/GPRC5D 表达指导筛选。高标价只是稀缺杠杆之一。NRDL 谈判是需求开关——个人自付无法全国规模化六位数疗法。实体瘤 CAR 扩张提高 GMP 复杂度；季度跟踪批次成功、周期与激活医院中心。",
-        [
-            "CAR-T is factory medicine: remission rates mean little if batches fail or cycle time stalls — manufacturing science equals clinical science for investors.",
-            "Qi emphasizes immune exhaustion and rapid progression as negative predictors — physicians screen for patients most likely to benefit from scarce slots.",
-            "2171.HK upside couples capacity doubles with reimbursement — watch doses shipped and NRDL dialogue, not press-release targets alone.",
-        ],
-        [
-            "CAR-T 是工厂医学：批次失败或周期停滞则缓解率无意义——制造科学与临床科学对投资者同等重要。",
-            "齐强调免疫衰竭与快速进展为负向预测因子——医生筛选最可能从稀缺位获益患者。",
-            "2171.HK 上行耦合产能翻倍与报销——盯发货剂量与 NRDL 对话，非仅新闻稿目标。",
-        ],
-    ),
-    "tzs-ep186": (
-        "Shen Shuaibo hosts Yongqing on global retail equity safe-haven flows — Korean youth, Chinese retail, US AI momentum while operating businesses struggle. Yongqing defines value as price below moving intrinsic value, not low-PE labels. Buying after rallies without naming reversal triggers is trend trap; prefer return asymmetry (50% drawdown tolerable if 2x upside). Circle of competence is fuzzy — Meta and Nvidia revivals surprised veterans. New listings move on thin float and short-term volume. Practical Investments stays with few high-quality compounders; prepare psychological and portfolio switches for 2026 sector extremes.",
-        "沈帅波对话永庆论全球散户股票避风港资金流——韩国年轻人、中国散户、美国 AI 动能而经营生意难。永庆定义价值为价格低于变动内在价值，非低市盈率标签。反弹后买入却不知反转触发器是趋势陷阱；偏好回报不对称（可承受跌 50% 若上行翻倍）。能力圈模糊——Meta 与英伟达复苏令老手意外。新股薄流通盘与短期成交量撬动价格。投资实战派仍持少数高质量复利公司；为 2026 板块极端预备心理与组合开关。",
-        [
-            "Yongqing: if you cannot name what breaks the upcycle, you are riding liquidity — acceptable drawdowns must match psychology, not spreadsheet bravery.",
-            "2026 sector splits require scenario portfolios — chase AI or sit out only after explicit reversal checklist; missing rally hurts less than permanent capital loss.",
-            "BRK.B archetype fits when retail chases narratives elsewhere — capital discipline and asymmetry over heat.",
-        ],
-        [
-            "永庆：说不出何者打破上涨周期即在骑流动性——可接受回撤须匹配心理，非表格勇敢。",
-            "2026 板块分裂需情景组合——追逐 AI 或观望前须有明确反转清单；错过反弹小于永久性资本损失。",
-            "伯克希尔原型适合散户追逐叙事 elsewhere 时——资本纪律与不对称优于热度。",
-        ],
-    ),
-    "tzs-ep187": (
-        "Jiang Xun discusses irreplaceability with David — twenty years across Alibaba data platforms, Ping An Good Doctor, and healthcare analytics (~RMB 80M raised). Agents outperform humans once objectives and datasets are explicit; blockage is messy human reasoning and fragmented feeds (~twenty vendors for one analyst stack). Leaving a resource-rich org to rebuild embodies betting on rising industry curves. Mentor rule: stay one step ahead inside an ascending field, not miles ahead. Historical job displacements were slower but similarly scary; AI diffusion may be faster with uncertain breadth. Codify tacit workflow into machine-readable pipelines — irreplaceability is structured judgment, not resisting tools.",
-        "姜讯与大卫谈不可替代性——二十年历经阿里数据平台、平安好医生、医疗 analytics（融资约八千万元）。目标与数据集明确后智能体胜人类；阻塞是混乱推理与碎片化 feed（一个分析师栈约二十家供应商）。离开资源充裕组织重建即押注上升行业曲线。导师法则：在上升领域内领先一步，非遥遥领先。历史就业置换更慢但同样可怕；AI 扩散或更快而广度未定。将隐性工作流编码为机器可读管线——不可替代是结构化判断，非抵制工具。",
-        [
-            "Jiang: financial and clinical data silos block agents — winners build clean longitudinal layers agents lack.",
-            "Entrepreneurship viable when big firms slow for safety and coding tools cut build cost — avoid terminal TAM slide decks without teams.",
-            "BABA/GOOGL benefit if enterprise structured memory becomes default agent context — aligns with Jiang's data-structure thesis.",
-        ],
-        [
-            "姜讯：财务与临床数据孤岛阻碍智能体——赢家构建智能体缺的干净纵向层。",
-            "大厂因安全放缓且编程工具降构建成本时创业可行——避免无团队的终局 TAM slide。",
-            "BABA/GOOGL 若企业结构化记忆成智能体默认上下文则受益——契合姜数据结构论点。",
-        ],
-    ),
-}
-for _eid, (_bg_e, _bg_z, _facts_e, _facts_z) in _EXTRA.items():
-    NEW_EPISODES[_eid]["en"]["background"] += " " + _bg_e
-    NEW_EPISODES[_eid]["zh"]["background"] += " " + _bg_z
-    NEW_EPISODES[_eid]["en"]["important_facts"].extend(_facts_e)
-    NEW_EPISODES[_eid]["zh"]["important_facts"].extend(_facts_z)
-    NEW_EPISODES[_eid]["en"]["mental_model"]["components"] += " " + _bg_e[:200]
-    NEW_EPISODES[_eid]["zh"]["mental_model"]["components"] += " " + _bg_z[:120]
-
-# Final word-count top-up for remaining gaps
-_FINAL = {
-    "zj-ep145": (
-        "Hong notes ITAR and export controls shape US space supply chains while China pursues cadence without full reuse economics. He expands on Falcon era culture: engineers owned component tolerances across thousands of parts; test failures were learning events, not career endings. Starlink revenue quality and Starship reuse milestones should gate IPO multiples more than xAI headlines.",
-        "洪力德指 ITAR 与出口管制塑造美国太空供应链，中国追求节奏但无全复用经济学。他延伸 Falcon 时代文化：工程师对数千零部件公差负责；测试失败是学习事件非职业终点。Starlink 收入质量与 Starship 复用里程碑应比 xAI 头条更能门控 IPO 倍数。",
-    ),
-    "tzs-ep186": (
-        "Yongqing closes: know the mainstream narrative but pre-build portfolio switches — independent thesis beats consensus comfort when cycles turn.",
-        "永庆结语：知悉主流叙事但预先构建组合开关——周期转折时独立论点胜过共识舒适。",
-    ),
-    "tzs-ep184": (
-        "Li signals active NRDL push — investors should milestone reimbursement dialogue alongside clinical readouts each quarter.",
-        "李称正推动 NRDL——投资者应将报销对话与临床 readout 并列为季度里程碑。",
-    ),
-    "tzs-ep187": (
-        "Jiang advises documenting decision trees agents can execute once data vendors reconcile.",
-        "姜讯建议记录智能体可在数据供应商对齐后执行的决策树。",
-    ),
-}
-for _eid, (_e, _z) in _FINAL.items():
-    NEW_EPISODES[_eid]["en"]["important_facts"].append(_e)
-    NEW_EPISODES[_eid]["zh"]["important_facts"].append(_z)
-
-# zj-ep145 180+ min tier needs additional depth
-NEW_EPISODES["zj-ep145"]["en"]["important_facts"].extend([
-    "Hong contrasts capital inflection with engineering continuity: 2026 IPO chatter and xAI merger flood LP inbound questions, yet Mars roadmap lines and Starship iteration began in 2012–13 after first Falcon success.",
-    "Manufacturing anecdote culture: BMW Mini Cooper GEP comparison underscores process obsession; rocket fuel-depletion-at-driveway metaphor encodes tolerance discipline across three thousand-plus components in seven departments.",
-    "Eris Fund strategy with ex-Tesla Shanghai executive targets physical AI and space supply chain — bet that hardware-data loops compound separate from pure software multiples.",
-])
-NEW_EPISODES["zj-ep145"]["zh"]["important_facts"].extend([
-    "洪力德对比资本拐点与工程连续性：2026 IPO 传闻与 xAI 合并涌入 LP 问题，但火星路线图与 Starship 迭代于 2012–13 年首次 Falcon 成功后已开始。",
-    "制造轶事文化：宝马 Mini Cooper GEP 类比强调工艺执念；火箭到家没油隐喻编码七个部门三千余零部件的公差纪律。",
-    "Eris Fund 与特斯拉上海前高管战略瞄准实体 AI 与太空供应链——押注硬件数据闭环独立于纯软件倍数复利。",
-])
-NEW_EPISODES["zj-ep145"]["en"]["mental_model"]["application"] += (
-    " Post-IPO: size TSLA as liquid Musk industrial proxy; size RKLB on backlog not hype; "
-    "demand SpaceX S-1 unit economics on Starlink ARPU, Starship flights, and kg cost."
-)
-NEW_EPISODES["zj-ep145"]["zh"]["mental_model"]["application"] += (
-    " IPO 后：TSLA 作马斯克工业液态代理；RKLB 按订单非 hype 定价；"
-    "要求 SpaceX 招股书披露 Starlink ARPU、Starship 飞行与每公斤成本单位经济学。"
-)
-
-NEW_EPISODES["zj-ep145"]["en"]["background"] += (
-    " Zhang and Hong close on whether space-AI fusion is prelude to multi-planetary expansion "
-    "or primarily a capital-markets repricing — Hong leans both: engineering lines are old, "
-    "but 2026 conviction and inbound are genuinely new for allocators."
-)
-NEW_EPISODES["zj-ep145"]["zh"]["background"] += (
-    " 张小珺与洪力德收尾讨论太空-AI 融合是多行星扩张前奏抑或 primarily 资本市场重估——"
-    "洪倾向二者兼有：工程线条陈旧，但 2026 信念与 inbound 对配置者确是新的。"
-)
-NEW_EPISODES["tzs-ep186"]["en"]["important_facts"].append(
-    "Shen and Yongqing agree 2026 sector extremes require pre-commitment: missing a rally hurts less than permanent capital loss from trend trades without exit rules."
-)
-NEW_EPISODES["tzs-ep186"]["zh"]["important_facts"].append(
-    "沈与永庆认同 2026 板块极端需预先承诺：错过反弹小于无退出规则的趋势交易永久性资本损失。"
-)
-NEW_EPISODES["tzs-ep184"]["en"]["important_facts"].append(
-    "David plans more scientist-physician series episodes — each will pair pipeline truth with clinical allocation reality for cell and gene therapies."
-)
-NEW_EPISODES["tzs-ep184"]["zh"]["important_facts"].append(
-    "大卫计划更多科学家-医生系列——每期配对管线真相与临床分配现实，覆盖细胞与基因疗法。"
-)
-
-for _eid, _view_e, _q_e, _a_e, _view_z, _q_z, _a_z in [
-    ("zj-ep145",
-     "Space-AI fusion reprices capital before it changes physics.",
-     "How should public investors position pre-IPO?",
-     "Treat 2026 as liquidity and narrative event — engineering milestones (Starship cadence, Starlink FCF, cost per kg) gate durable multiples. TSLA remains liquid proxy; RKLB trades tide not moat. Demand S-1 unit economics, not xAI slideware.",
-     "太空-AI 融合在改变物理前重估资本。",
-     "公募投资者 IPO 前如何配置？",
-     "视 2026 为流动性与叙事事件——工程里程碑（Starship 节奏、Starlink 自由现金流、每公斤成本）门控持久倍数。TSLA 为液态代理；RKLB 交易浪潮非护城河。要求招股书单位经济学，非 xAI slideware。",
-    ),
-    ("tzs-ep186",
-     "Retail safe-haven flows can extend narratives beyond fundamentals.",
-     "What is Yongqing's practical rule for 2026 extremes?",
-     "Pre-build portfolio and psychological switches for either momentum extension or snapback — participation without a reversal checklist is gambling. Few quality compounders with asymmetry beat chasing heat.",
-     "散户避风港资金流可延伸叙事超越基本面。",
-     "永庆对 2026 极端的实操法则？",
-     "为动量延伸或 snapback 预先构建组合与心理开关——无反转清单的参与即赌博。少数高质量不对称胜过追热度。",
-    ),
-    ("tzs-ep184",
-     "CAR-T TAM is capped by batches until automation arrives.",
-     "What is the investor falsifiable test for 2171.HK?",
-     "Quarterly doses shipped, manufacturing yield, hospital centers activated, and NRDL milestones — remission press alone is insufficient when slots remain in four digits annually.",
-     "CAR-T 目标市场规模在自动化到来前被批次封顶。",
-     "2171.HK 投资者可证伪测试？",
-     "每季度发货剂量、制造良率、医院中心激活与 NRDL 里程碑——年产仍四位数时缓解率新闻 alone 不足。",
-    ),
-]:
-    NEW_EPISODES[_eid]["en"]["key_insights"].append({"view": _view_e, "question": _q_e, "answer": _a_e})
-    NEW_EPISODES[_eid]["zh"]["key_insights"].append({"view": _view_z, "question": _q_z, "answer": _a_z})
-
-NEW_EPISODES["zj-ep145"]["en"]["conclusion"] += (
-    " Track Starship flight cadence, Starlink free cash flow, and per-kilogram cost as pre-IPO falsifiable milestones — not slide-deck synergy alone."
-)
-NEW_EPISODES["zj-ep145"]["zh"]["conclusion"] += (
-    " 跟踪 Starship 飞行节奏、Starlink 自由现金流与每公斤成本作为 IPO 前可证伪里程碑——非 slide 协同 alone。"
-)
-NEW_EPISODES["tzs-ep186"]["en"]["conclusion"] += (
-    " Maintain scenario portfolios and reversal checklists before chasing 2026 sector heat."
-)
-NEW_EPISODES["tzs-ep186"]["zh"]["conclusion"] += (
-    " 追逐 2026 板块热度前维护情景组合与反转检查清单。"
-)
-NEW_EPISODES["zj-ep145"]["en"]["important_facts"].append(
-    "Zhang closes asking whether multi-planetary ambition or capital repricing dominates 2026 — Hong answers both matter: engineering continuity is decade-old, allocator conviction is genuinely new."
-)
-NEW_EPISODES["zj-ep145"]["zh"]["important_facts"].append(
-    "张小珺收尾问多行星雄心抑或资本重估主导 2026——洪答二者皆重要：工程连续性已十年，配置者信念确是新的。"
-)
-NEW_EPISODES["tzs-ep186"]["en"]["important_facts"].append(
-    "Cross-podcast format with Shen brings retail-flow perspective Yongqing's show normally avoids — useful contrarian temperature check."
-)
-NEW_EPISODES["tzs-ep186"]["zh"]["important_facts"].append(
-    "与沈帅波跨播客形式带来投资实战派通常回避的散户流视角——有用的逆向温度检测。"
-)
-NEW_EPISODES["tzs-ep186"]["en"]["background"] += " Episode recorded June 2026 amid extreme sector rotation."
-NEW_EPISODES["tzs-ep186"]["zh"]["background"] += " 节目 2026 年 6 月录制于板块极致分化之际。"
-NEW_EPISODES["zj-ep145"]["en"]["background"] += (
-    " Episode recorded June 2026 as SpaceX-xAI integration and IPO speculation peak."
-)
-NEW_EPISODES["zj-ep145"]["zh"]["background"] += (
-    " 节目 2026 年 6 月录制于 SpaceX-xAI 整合与 IPO 猜测峰值。"
-)
-NEW_EPISODES["zj-ep145"]["en"]["golden_quotes"].append(
-    "We competed against ourselves — but watched China aerospace rise in parallel."
-)
-NEW_EPISODES["zj-ep145"]["zh"]["golden_quotes"].append(
-    "我们对手是自己——但也平行关注中国航天崛起。"
-)
-NEW_EPISODES["zj-ep145"]["en"]["important_facts"].append(
-    "Hong and Zhang discuss Grok data advantages inside Musk ecosystem versus SpaceX hardware culture — integration is capital narrative more than proven manufacturing synergy today."
-)
-NEW_EPISODES["zj-ep145"]["zh"]["important_facts"].append(
-    "洪力德与张小珺讨论马斯克生态内 Grok 数据优势对 SpaceX 硬件文化——整合更多是资本叙事而非已证制造协同。"
-)
-NEW_EPISODES["zj-ep145"]["en"]["conclusion"] += " Demand unit economics transparency before mega-IPO scarcity pricing."
-NEW_EPISODES["zj-ep145"]["zh"]["conclusion"] += " mega-IPO 稀缺定价前要求单位经济学透明。"
-NEW_EPISODES["zj-ep145"]["en"]["mental_model"]["application"] += " Watch China launch cadence versus reuse learning curves."
-NEW_EPISODES["zj-ep145"]["zh"]["mental_model"]["application"] += " 关注中国发射节奏对复用学习曲线的对比。"
-NEW_EPISODES["zj-ep145"]["en"]["background"] += " Hong co-founded Eris Fund after operating roles at SpaceX and other hardware companies."
-NEW_EPISODES["zj-ep145"]["zh"]["background"] += " 洪力德在 SpaceX 等硬件公司运营后联合创立 Eris Fund。"
-NEW_EPISODES["zj-ep145"]["en"]["conclusion"] += " IPO year demands allocator discipline right now."
-NEW_EPISODES["zj-ep145"]["zh"]["conclusion"] += " 投资者宜保持纪律。"
-NEW_EPISODES["zj-ep145"]["zh"]["conclusion"] += " IPO 之年需要纪律。"
-
-

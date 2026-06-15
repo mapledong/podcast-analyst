@@ -11,10 +11,12 @@ export const COMPANY_ALIASES: Record<string, string> = {
   "amazon web services": "AMZN",
   "amazon.com": "AMZN",
   "apple": "AAPL",
+  "baidu": "BIDU",
   "berkshire": "BRK.B",
   "berkshire hathaway": "BRK.B",
   "block": "SQ",
   "broadcom": "AVGO",
+  "carsgen": "2171.HK",
   "cloudflare": "NET",
   "coinbase": "COIN",
   "costco": "COST",
@@ -66,9 +68,16 @@ export const COMPANY_ALIASES: Record<string, string> = {
   "warner bros": "WBD",
   "warner bros discovery": "WBD",
   "zoom": "ZM",
+  "科济药业": "2171.HK",
 };
 
 export const TICKER_ALIASES: Record<string, string> = {
+  "0700.HK": "TCEHY",
+  "1024.HK": "NTES",
+  "9618.HK": "JD",
+  "9868.HK": "XPEV",
+  "9888.HK": "BIDU",
+  "9988.HK": "BABA",
   "BRK-A": "BRK.B",
   "BRK.A": "BRK.B",
   "GOOG": "GOOGL",
@@ -81,10 +90,7 @@ export type ChinaListingNames = { en: string; zh: string };
 
 export const CHINA_LISTINGS: Record<string, ChinaListingNames> = {
   "0981.HK": { en: "SMIC", zh: "中芯国际" },
+  "2171.HK": { en: "CARsgen", zh: "科济药业" },
   "300866.SZ": { en: "Anker Innovations", zh: "安克创新" },
-  "9888.HK": { en: "Baidu", zh: "百度" },
   "9992.HK": { en: "Pop Mart", zh: "泡泡玛特" },
-  "BABA": { en: "Alibaba", zh: "阿里巴巴" },
-  "TSMC": { en: "", zh: "" },
-  "XPEV": { en: "XPeng", zh: "小鹏汽车" },
 };

@@ -4,7 +4,7 @@
 
 **★★★★★** · 5/5
 
-**Podcast** Practical Investments · **Date** Jun 15, 2026 · **Duration** 93 min · **Read** ≈5 min
+**Podcast** Practical Investments · **Date** Jun 15, 2026 · **Duration** 93 min · **Read** ≈3 min
 
 **Host** Yongqing & David
 
@@ -12,16 +12,16 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=4VuTBcjEI9g) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**Topics** AI Careers · Human Capital · BABA
+**Topics** AI · HUMAN · BABA
 > ### Conclusion
 >
-> Jiang Xun — twenty years in data across Alibaba, Ping An Good Doctor, and startups — argues irreplaceability in the AI era is not heroic genius but structured judgment plus clean data loops: agents can beat humans once goals and datasets are explicit, yet most professionals never formalize how they decide. Leaving a resource-rich big org to build anew, he embodies the bet that diffusing AI rewards people who codify expertise. For investors the link is indirect but real: platforms that own structured workflow data (enterprise software, clouds) compound; pure labor arbitrage without captured process data gets commoditized.
+> Data veteran Jiang Xun argues irreplaceability in the AI era is structured judgment plus clean data loops, not resisting tools — agents beat humans once objectives and datasets are explicit, yet most professionals never write down how they decide. His path from Alibaba and Ping An Good Doctor to restarting at mid-career embodies betting on rising industry curves. For investors the link is indirect: platforms that capture structured workflow data compound; pure labor without process capture gets commoditized.
 
 ---
 
 ## Background
 
-> In a 93-minute episode David hosts Jiang Xun on becoming irreplaceable amid AI. Jiang studied nuclear engineering, spent 2008–2019 at Alibaba building early data platforms (including post-Olympic data stack), led data at Ping An Good Doctor, then founded a healthcare-data venture (~RMB 80M raised over four years) before a recent high-profile exit from a large organization to restart. He maps career arcs: gold-medal student mindset — beat peers by a margin, not miles — applied to data science and medical AI. Thesis: if you give an agent clean data and a precise trading or clinical objective, it should outperform humans; blockage is messy human reasoning and non-standardized financial/clinical records (dozens of vendors to reconcile). Irreplaceability means capturing tacit workflow and staying one step ahead on structured learning, not resisting tools. Jiang left large org for rising curves over golden handcuffs. Alibaba 2008–2019 data platforms; Ping An Good Doctor; healthcare venture ~RMB 80M raised. Twenty financial vendors mirror one analyst stack. Historical displacements slower but similarly scary — AI faster, breadth uncertain. Jiang Xun discusses irreplaceability with David — twenty years across Alibaba data platforms, Ping An Good Doctor, and healthcare analytics (~RMB 80M raised). Agents outperform humans once objectives and datasets are explicit; blockage is messy human reasoning and fragmented feeds (~twenty vendors for one analyst stack). Leaving a resource-rich org to rebuild embodies betting on rising industry curves. Mentor rule: stay one step ahead inside an ascending field, not miles ahead. Historical job displacements were slower but similarly scary; AI diffusion may be faster with uncertain breadth. Codify tacit workflow into machine-readable pipelines — irreplaceability is structured judgment, not resisting tools.
+> In a 93-minute episode David hosts Jiang Xun on becoming irreplaceable amid AI. Jiang spent 2008–2019 at Alibaba building data platforms, led data at Ping An Good Doctor, then founded a healthcare-data venture (~RMB 80M raised over four years) before leaving a large org to restart. Thesis: agents with clean data and precise objectives should outperform humans; blockage is messy reasoning and fragmented records (~twenty vendors to replicate one analyst stack). Irreplaceability means codifying tacit workflow, not resisting tools.
 
 ---
 
@@ -33,16 +33,6 @@
 
 > **F3** AI career advice: diffusion faster than prior industrial revolutions but breadth uncertain — historical analogies (weavers, telephone operators, agriculture share shifts) caution against both panic and complacency. Short term anxiety rational; long term productivity bullish. Entrepreneurship viable when big firms slow on safety — coding tools lower build cost — but avoid terminal TAM fantasies; execute with prepared teams.
 
-> **F4** Codify tacit workflow into agent-ready data — irreplaceability is structured judgment, not resisting tools.
-
-> **F5** Jiang: financial and clinical data silos block agents — winners build clean longitudinal layers agents lack.
-
-> **F6** Entrepreneurship viable when big firms slow for safety and coding tools cut build cost — avoid terminal TAM slide decks without teams.
-
-> **F7** BABA/GOOGL benefit if enterprise structured memory becomes default agent context — aligns with Jiang's data-structure thesis.
-
-> **F8** Jiang advises documenting decision trees agents can execute once data vendors reconcile.
-
 
 ---
 
@@ -50,7 +40,7 @@
 
 > **Components**
 >
-> Irreplaceable = formalized decision rules + proprietary structured feedback — not hiding from models. Big-org comfort traps tacit knowledge; startups force codification. Platforms capturing workflow data compound; raw labor without data capture deflates. Jiang Xun discusses irreplaceability with David — twenty years across Alibaba data platforms, Ping An Good Doctor, and healthcare analytics (~RMB 80M raised). Agents outperform humans once objectives
+> Irreplaceable = formalized decision rules + proprietary structured feedback — not hiding from models. Big-org comfort traps tacit knowledge; startups force codification. Platforms capturing workflow data compound; raw labor without data capture deflates.
 >
 > **Application**
 >
@@ -65,25 +55,25 @@
 >
 > **Q** What blocks AI investing or clinical agents today?
 >
-> **A** Not model IQ — messy objectives and fragmented feeds. Jiang needs ≈20 financial data vendors to mirror his stack; clinicians face similar silos. Irreplaceability is building and curating the clean layer agents lack, then iterating one step ahead. Use quarterly falsifiable milestones, not headlines alone.
+> **A** Not model IQ — messy objectives and fragmented feeds. Jiang needs ≈20 financial data vendors to mirror his stack; clinicians face similar silos. Irreplaceability is building and curating the clean layer agents lack, then iterating one step ahead.
 
 > **2.** Leaving big tech can be rational at peak resources.
 >
 > **Q** Why exit a comfortable org now?
 >
-> **A** Jiang left Ping An and later a large org because rising curves beat golden handcuffs — mentor advice: if industry rises, being slightly ahead inside it beats status. AI rewards builders who restart while diffusion window open; age matters less than codified learning speed. Use quarterly falsifiable milestones, not headlines alone.
+> **A** Jiang left Ping An and later a large org because rising curves beat golden handcuffs — mentor advice: if industry rises, being slightly ahead inside it beats status. AI rewards builders who restart while diffusion window open; age matters less than codified learning speed.
 
 > **3.** Anxiety is warranted short term; structure beats resistance.
 >
 > **Q** How should professionals respond?
 >
-> **A** Historical displacements were slower but similarly scary — speed now higher, breadth debatable. Don't ignore tools; document how you decide, feed agents clean context, specialize where structured data moats exist. Entrepreneurship cheaper with coding agents but still needs disciplined teams, not slide-deck TAM dreams. Use quarterly falsifiable milestones, not headlines alone.
+> **A** Historical displacements were slower but similarly scary — speed now higher, breadth debatable. Don't ignore tools; document how you decide, feed agents clean context, specialize where structured data moats exist. Entrepreneurship cheaper with coding agents but still needs disciplined teams, not slide-deck TAM dreams.
 
 ---
 
 ## Investment Ideas
 
-> **1. Alibaba (BABA)** · 🟡 WATCH · ●○○ Low
+> **1. BABA** · 🟡 WATCH · ●○○ Low
 >
 > Alibaba (BABA): Jiang's formative data-platform era — enterprise structured data moats matter for agent era; cloud/data assets valuable if productized for AI workflows
 

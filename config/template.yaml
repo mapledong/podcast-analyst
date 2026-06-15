@@ -48,7 +48,11 @@ sections:
       Use standard US ticker symbols (e.g. NVDA, GOOGL, LVMUY) for publicly traded
       companies. Reserve company names for private entities (Private:Name), people,
       themes, or industries (e.g. Semiconductors, Capital Allocation). Do not mix a
-      company name and its ticker as separate keywords.
+      company name and its ticker as separate keywords. China/HK/A-share listings
+      (e.g. 2171.HK, 300866.SZ) must be registered in config/company_tickers.yaml
+      china_listings with zh and en display names — site cards show company name,
+      not raw ticker. US ADRs (BABA, BIDU, XPEV) use the ADR ticker in JSON and
+      on site cards — never HK codes like 9988.HK; map HK→ADR in ticker_aliases.
 
   - id: conclusion
     title: "Conclusion"
@@ -170,6 +174,12 @@ content_policy:
         supplies a bearish thesis on that equity, not merely as a hedge or channel-risk
         proxy. Fold channel or supplier risks into the primary holding's thesis when
         the guest does not argue the other stock's direction.
+      china_listings: >
+        HK/A-share tickers (NNNN.HK, NNNNNN.SZ) without a US ADR require china_listings
+        entries in config/company_tickers.yaml. In zh thesis text use 公司名（TICKER）;
+        site cards show English company name by default (Chinese with ?lang=zh).
+        US ADRs (BABA not 9988.HK, BIDU not 9888.HK) stay as ADR ticker symbols on
+        cards and in JSON — add HK→ADR in ticker_aliases, do not put ADRs in china_listings.
 
   publish_policy:
     github_pages: >
