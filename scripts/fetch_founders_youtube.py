@@ -454,6 +454,7 @@ def fetch_founders_transcripts(
     batch_size: int = DEFAULT_BATCH_SIZE,
     process_all: bool = False,
     unapproved_only: bool = True,
+    episode_ids: set[str] | None = None,
 ) -> tuple[int, int, int]:
     """Fetch YouTube transcripts for curated Founders episodes via yt-dlp auto-subs."""
     rows = resolve_curated()["Founders"]
@@ -461,6 +462,8 @@ def fetch_founders_transcripts(
     queue: list[dict] = []
 
     for ep in rows:
+        if episode_ids is not None and ep["id"] not in episode_ids:
+            continue
         if unapproved_only and ep.get("approved"):
             skip += 1
             continue
@@ -552,14 +555,21 @@ def main() -> None:
         default=DEFAULT_TRANSCRIPT_DELAY,
         help=f"Seconds between transcript fetches (default: {DEFAULT_TRANSCRIPT_DELAY:.0f})",
     )
+    parser.add_argument(
+        "ids",
+        nargs="*",
+        help="Optional episode IDs to fetch (default: full pending queue)",
+    )
     args = parser.parse_args()
 
     if args.transcripts:
         reject_bulk_unless_forced(bulk_flag=args.all, flag_name="--all")
+        id_filter = set(args.ids) if args.ids else None
         ok, skip, fail = fetch_founders_transcripts(
             delay=args.delay,
             batch_size=args.batch_size,
             process_all=args.all,
+            episode_ids=id_filter,
         )
         print(f"\nTranscripts: fetched {ok}, skipped {skip}, failed {fail}")
         return

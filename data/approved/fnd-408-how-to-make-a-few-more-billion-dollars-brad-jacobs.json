@@ -1,0 +1,109 @@
+{
+  "episode_id": "fnd-408-how-to-make-a-few-more-billion-dollars-brad-jacobs",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 408,
+    "title": "How to Make a Few MORE Billion Dollars: Brad Jacobs",
+    "guest": "Brad Jacobs",
+    "guest_role": "Biography · Episode 408",
+    "date": "2025-12-29",
+    "duration_minutes": 43,
+    "youtube_url": "https://www.youtube.com/watch?v=2c4LWQpuw9s",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/408-how-to-make-a-few-more-billion-dollars-brad-jacobs",
+      "youtube": "https://www.youtube.com/watch?v=2c4LWQpuw9s"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "XPO",
+    "GXO",
+    "Roll-Up Strategy"
+  ],
+  "conclusion": "Jacobs built eight billion-dollar companies, raised ~$50 billion, integrates before close with same-day town halls for 3,600 people, and keeps org charts to one page. TM since 16 and Ellis REBT manage perfectionism; Apollo Ohno flagged him as a rare positively fueled founder. XPO/GXO investors track roll-up speed, 1–3x EBITDA leverage, and post-merger flattening.",
+  "background": "Senra reads Jacobs' follow-up after episode 335 — Jacobs made 'a few more billion' in two years. The book answers questions the first skipped: capital raising across public markets, family offices, pensions, hedge funds, and debt; mastering integration with same-day town halls; and mental models from Albert Ellis REBT, CBT, DBT, and mindfulness.\n\nJacobs started companies from zero to 150,000 employees, prefers public markets for non-dilutive access, and notes QXO shareholders found him via Senra's podcast ($750M from John Kugan). He flattens orgs to nine layers, eliminates 'manages managers' roles, and assigns integration line items with owners and dates. Stress is constant — he works seven days and would work an eighth.\n\nJacobs quotes Don Valentine on storytelling via Collateral; QXO profile drew $750 million from John Kugan after Senra episode. He targets 1–3x EBITDA debt, warns hedge funds lack patience, and assigns integration thousands of line items with owners and firm dates — fish-rots-at-head COO Wayan Hicks lens on acquired leaders.\n\nJacobs works seven days, would add eighth; Kelleher stress quote parallels his comfort with anxiety. Integration assigns thousands of line items with owners and dates; fish rots at head on acquired CEOs.",
+  "important_facts": [
+    "Jacobs built eight separate billion-dollar companies over ~46 years as CEO; raised ~$50 billion total across M&A and organic growth — family offices, pensions, public equity, and debt at target 1–3x EBITDA leverage.",
+    "Integration playbook: negotiate unrestricted pre-close access; Beacon Buildings deal closed with Zoom town hall inviting 3,600 people within three hours of press release — majority attended; rip band-aid vs slow legacy branding. QXO drew $750M after Senra podcast; John Kugan endorsement became capital event.",
+    "Org design rule: charts must fit one page with minimal dotted lines; empty seat less damaging than wrong hire; quarterly employee surveys distill three questions — what's well, needs fixing, how improve company. TM twice daily since 16; Ellis REBT flexible preferences; Apollo Ohno noted positive fuel rarity."
+  ],
+  "mental_model": {
+    "name": "Positive Roll-Up Machine",
+    "components": "Think extraordinarily big day one; rearrange inner monologue via meditation and REBT; raise from aligned long-term capital; integrate fast with dashboards everyone reads; flatten hierarchy; assign integration owners with dates. Public markets keep management sharp every 90 days.",
+    "application": "XPO/GXO serial acquirers win when town halls and org clarity beat synergy slides. Jacobs' Ellis reframe — prefer excellence but accept error — sustains serial CEO stamina. Watch leverage at 1–3x and post-merger culture absorption. GXO spin benefits from same flatten-to-nine-layers doctrine; public scrutiny every 90 days is feature not bug for Jacobs' capital access."
+  },
+  "key_insights": [
+    {
+      "view": "Capital source shapes freedom.",
+      "question": "Why does Jacobs favor public markets?",
+      "answer": "Non-dilutive access without board seats or coupons; quarterly earnings discipline; retail and index investors as marketing. Family offices offer operator wisdom; pension money is sticky; hedge funds flip — he warns on misalignment. Pension and index money sticky; hedge funds flip — match investor to horizon."
+    },
+    {
+      "view": "Integration speed beats elegance.",
+      "question": "When does M&A integration start?",
+      "answer": "Before close with unrestricted access — town halls within hours, Q&A not lectures, intelligence dashboards for all levels. Band-aid rip on legacy tech and branding; lingering under old structures limits upside."
+    },
+    {
+      "view": "Mindset is operational infrastructure.",
+      "question": "How does Jacobs handle perfectionism?",
+      "answer": "TM since 16, twice-daily meditation, Ellis REBT demanding flexible preferences not musts — 'Okay, how upset were you?' Apollo Ohno noted Jacobs as rare positively fueled founder among eight billion-dollar outcomes. Meditation and REBT are CEO infrastructure for eight billion-dollar cycles."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "XPO",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Jacobs' $50B capital markets fluency and same-day integration playbook underpin XPO roll-up economics — watch leverage discipline and talent retention post-deal."
+    },
+    {
+      "ticker": "GXO",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "GXO inherits warehouse logistics spin-out quality — Jacobs' org-chart austerity and dashboard transparency are the operating lens, not a fresh long thesis from this episode alone."
+    }
+  ],
+  "golden_quotes": [
+    "Eight separate billion-dollar companies — Jacobs as the positively fueled founder Apollo Ohno couldn't believe existed.",
+    "Raised ~$50 billion — public markets for discipline, pensions for sticky capital, debt at 1–3x EBITDA for sleep-at-night leverage.",
+    "An empty seat is less damaging than the wrong hire — org charts must fit one clean page."
+  ],
+  "chronology": {
+    "subject": "Brad Jacobs",
+    "events": [
+      {
+        "date": "Age 16",
+        "event": "Begins transcendental meditation practice."
+      },
+      {
+        "date": "~1980s–2020s",
+        "event": "Builds eight billion-dollar companies across industries."
+      },
+      {
+        "date": "Episode 335",
+        "event": "First book How to Make a Few Billion Dollars covered."
+      },
+      {
+        "date": "2023–2025",
+        "event": "QXO raises after Senra podcast exposure; John Kugan invests $750M."
+      },
+      {
+        "date": "2025",
+        "event": "Sequel More Billion Dollars published; Beacon integration case study."
+      }
+    ]
+  }
+}

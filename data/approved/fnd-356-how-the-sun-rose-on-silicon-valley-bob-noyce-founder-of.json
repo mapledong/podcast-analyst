@@ -1,0 +1,115 @@
+{
+  "episode_id": "fnd-356-how-the-sun-rose-on-silicon-valley-bob-noyce-founder-of",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 356,
+    "title": "How The Sun Rose On Silicon Valley: Bob Noyce (Founder of Intel)",
+    "guest": "Bob Noyce",
+    "guest_role": "Biography · Episode 356",
+    "date": "2024-07-12",
+    "duration_minutes": 58,
+    "youtube_url": "https://www.youtube.com/watch?v=QNP0QqLThyI",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/356-how-the-sun-rose-on-silicon-valley-bob-noyce-founder-of",
+      "youtube": "https://www.youtube.com/watch?v=QNP0QqLThyI"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "INTC",
+    "Semiconductors",
+    "Venture Capital"
+  ],
+  "conclusion": "Tom Wolfe's 1983 Esquire piece on Bob Noyce explains Silicon Valley as engineered, not accidental — transistor luck at Grinnell College, the Traitorous Eight leaving Shockley's paranoid lab, Fairchild's $3 million backing, and Intel's flat, stock-option culture that minted microprocessors. Noyce exercised Fairchild options worth ~$250,000 (~$2.6 million inflation-adjusted) on a $122,000 salary, then built Intel with Gordon Moore and Andy Grove — 1103 memory chips, $3,000 clean rooms, and no executive walls. Grove's A–F grading and Noyce's halo made talent stay. INTC's origin story is permission to quit bad bosses, finance rebels, and keep frontier spirit as companies scale.",
+  "background": "Senra reads Tom Wolfe's 'The Tinkerings of Robert Noyce' — a standalone Esquire profile of Intel's co-founder and Silicon Valley godfather. The chip revolution was engineered by a small band; Noyce stood foremost. A Grinnell physics professor's newspaper clip on Bell Labs transistors — requested on a whim — redirected Noyce from pig-stealing delinquent to inventor.\n\nHe joined Shockley's Mountain View lab in 1956, fled with seven others in 1957 after lie-detector paranoia, and Fairchild Camera invested $3 million. Noyce co-invented the integrated circuit; Moore and he left to start Intel in 1968 when Fairchild raided talent. Intel's open offices, stock options, and Grove's brutal performance culture became the template Jobs cited as his model.\n\nWolfe compares 1950s Santa Clara to 1900s Detroit — founders with religious mission for rapid improvement. Fairchild's Hogan raid lured Intel's platoon; Noyce measured wealth in units shipped, not stock tips. Jobs called Noyce his model inventor-rebel.",
+  "important_facts": [
+    "Grinnell professor Grant Gale clipped a 1948 newspaper transistor story; Noyce was one of 18 students in one of the world's first solid-state courses — a chance request that Wolfe ties to Paul Graham's 'make yourself a big target for luck.' Noyce's halo made 24-year-olds feel fully engaged in meetings — cultural asset as valuable as the 1103 chip.",
+    "Noyce and seven colleagues — the Traitorous Eight — left Shockley Semiconductor in 1957; Fairchild Camera's Sherman Fairchild invested $3 million, and Noyce later exercised options worth ~$250,000 on a $122,000 salary (~$2.6 million today).",
+    "Intel's 1103 chip (1970) held 4,000 bits; clean rooms cost ~$3,000 versus $42 elsewhere; Noyce eliminated executive walls, and Andy Grove graded managers A through F — superior performers exceeded requirements, failures faced pressure."
+  ],
+  "mental_model": {
+    "name": "Traitorous Eight Flywheel",
+    "components": "Bad bosses (Shockley's envy and lie detectors) repel A-players. Arthur Rock finances rebels. Equity and flat hierarchy keep them. Noyce's halo effect — soft voice, total engagement — makes teams believe. Grove adds measurement so freedom doesn't decay into mediocrity.",
+    "application": "INTC's cultural DNA was opt-in rebellion plus economic alignment. Startups should expect Fairchild-style raids; public semis must preserve iteration speed as fabs cost billions. Noyce's lesson: leave toxic genius, bring the team, and design offices without walls before designing chips. INTC today must preserve equity culture as fabs cost billions — Noyce's leave-bad-boss playbook still recruits founders who refuse Shockley-style paranoia."
+  },
+  "key_insights": [
+    {
+      "view": "Luck is engineered by curiosity.",
+      "question": "How did a small-town newspaper clip change history?",
+      "answer": "Professor Gale read about Bell Labs transistors, ordered two for Grinnell, and taught 18 students solid-state physics. Noyce — nearly expelled for stealing a pig — became star pupil. Senra cites Paul Graham: read newspapers, ask questions, make yourself a target for fortune."
+    },
+    {
+      "view": "Shockley proves toxic genius destroys labs.",
+      "question": "Why did eight engineers quit Shockley?",
+      "answer": "Shockley suspected sabotage, demanded lie-detector tests, and played Russian roulette with a misfiring revolver. The Traitorous Eight secured Arthur Rock and Fairchild's $3 million. Wolfe frames Shockley as regression from his Nobel-winning mother achievement."
+    },
+    {
+      "view": "Flat culture and equity beat hierarchy.",
+      "question": "What made Intel's culture stick?",
+      "answer": "No walled executive offices, metal desks for all, stock options learned at Fairchild, Grove's A–F ratings, and Noyce's halo — employees felt fully engaged. Intel chose backward memory markets then microprocessors under Ted Hoff while Fairchild raided staff."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "INTC",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Noyce-Moore-Grove template — rebel talent, equity alignment, flat ops — is INTC's historical moat; today's challenge is whether frontier culture survives as fabs and foundry competition commoditize the Grove measurement era."
+    }
+  ],
+  "golden_quotes": [
+    "Shockley put one bullet in a revolver and pulled the trigger at his team — the Traitorous Eight left for Fairchild's $3 million.",
+    "Noyce exercised ~$250,000 in Fairchild options while earning $122,000 — equity culture started here.",
+    "Andy Grove: A players exceed requirements; F players fail — measure up or leave."
+  ],
+  "chronology": {
+    "subject": "Bob Noyce · Intel",
+    "events": [
+      {
+        "date": "1948",
+        "event": "Grinnell gets transistors; Noyce studies solid-state electronics."
+      },
+      {
+        "date": "1956",
+        "event": "Noyce joins Shockley Semiconductor in Mountain View."
+      },
+      {
+        "date": "1957",
+        "event": "Traitorous Eight leave; Fairchild invests $3 million."
+      },
+      {
+        "date": "1959",
+        "event": "Noyce co-invents integrated circuit at Fairchild."
+      },
+      {
+        "date": "1968",
+        "event": "Noyce and Moore found Intel after Fairchild talent raids."
+      },
+      {
+        "date": "1970",
+        "event": "Intel 1103 4,000-bit memory chip ships."
+      },
+      {
+        "date": "1971",
+        "event": "Intel 4004 microprocessor under Ted Hoff."
+      },
+      {
+        "date": "1990",
+        "event": "Noyce dies at 62 of a heart attack."
+      }
+    ]
+  }
+}

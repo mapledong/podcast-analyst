@@ -1,0 +1,115 @@
+{
+  "episode_id": "fnd-402-thomas-peterffy-the-80-billion-founder-who-automates-ev",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 402,
+    "title": "Thomas Peterffy: The $80 Billion Founder Who Automates Everything",
+    "guest": "Thomas Peterffy",
+    "guest_role": "Biography · Episode 402",
+    "date": "2025-10-05",
+    "duration_minutes": 31,
+    "youtube_url": "https://www.youtube.com/watch?v=Q5WIv9vGKpA",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/402-thomas-peterffy-the-80-billion-founder-who-automates-everything",
+      "youtube": "https://www.youtube.com/watch?v=Q5WIv9vGKpA"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "IBKR",
+    "Market Structure",
+    "Automation"
+  ],
+  "conclusion": "Peterffy automated his way from 1944 Budapest bombing to IBKR — $3.7 billion profit on $5.2 billion 2024 revenue, ~71% margins, oscilloscope hacks, 1983 handheld quotes, Dutch auction IPO saving ~$80 million in fees. He refused ~$900 million Goldman bids. At 81 he still watches live quotes. IBKR compounds on automation plus Costco-style low fees.",
+  "background": "Senra profiles Colossus writer Dom Cook's Thomas Peterffy piece — an 81-year-old worth ~$80 billion who built Interactive Brokers from $120 in capital. Budapest wartime scrappage (dragging bathtubs for steel at 70% bomb damage) taught trade. In 1965 he landed in New York, automated $65/week drafting with the Programma 101, then followed Hungarian Janos Aranyi into finance.\n\nDr. Henry Jarecki at Mocatta Metals taught commodities automation; Peterffy left in 1977 with $200,000, bought an NYSE seat for $36,000, and wore computer-printed quotes in pockets. Knee injuries led to oscilloscope hacking, 1983 handheld traders, Nasdaq keyboard spiders, and 1987 fully automated trading. IPO May 2007 retained 80%; Dutch auction saved ~$80 million versus bank fees.\n\nCook's profile opens at Peterffy's $108 million Aspen home — Peterffy expected Zoom, baffled by London flight. Childhood gum arbitrage and bathtub steel scrapping in 70% bomb-damaged Budapest preceded Programma 101 automation. Trading Places anecdote: $10,000 bet hired Melvin Van Peebles on NYSE floor.",
+  "important_facts": [
+    "Interactive Brokers generated $3.7 billion profit on $5.2 billion 2024 revenue (~71% margin) — Peterffy at 81 worth ~$80 billion from $120 starting capital and six decades automating every step. Left Jarecki 1977 with $200k; NYSE seat $36k; knee injury forced oscilloscope Quotron decoding era.",
+    "1977: left Jarecki with $200,000, bought NYSE seat for $36,000; 1983 invented handheld quote boxes before iPad; 1987 achieved fully automated trading with 16 errors — Nasdaq later banned his keyboard-tapping mechanical spider until rule changes. 2017 market-making shutdown after 40 years; ~$4.7 trillion client assets, ~3,000 staff mostly engineers.",
+    "Goldman Sachs offered up to ~$900 million; Peterffy held out for $3 billion, then IPO'd 2007 via Dutch auction saving ~$80 million in fees; shut 40-year market-making in 2017 while serving ~$4.7 trillion client assets with ~3,000 employees. Timber Hill hired six tall women floor specialists noticed; Peterffy colored-digit psychedelic room in 1987 before fully automated trading."
+  ],
+  "mental_model": {
+    "name": "Automate Every Arbitrary Rule",
+    "components": "When floors ban computers, build oscilloscope decoders and mechanical fingers. When partners cap ambition, leave with savings and buy a seat. Low fees like Costco — charge less, win flow, reinvest in engineers. Hard common sense beats storytelling.",
+    "application": "IBKR wins on cost structure automation incumbents can't culturally copy. Peterffy's pattern: see inefficient pit, code around rule, scale electronic. Investors watch rate sensitivity and whether AI execution widens margin further. IBKR ~$4.7 trillion client assets on ~3,000 staff — mostly engineers — show automation scaling; rate cycles test whether margins hold above 70%."
+  },
+  "key_insights": [
+    {
+      "view": "Exchanges are puzzles, not mysticism.",
+      "question": "How did Peterffy beat floor traders?",
+      "answer": "He decoded Quotron pulses with an oscilloscope, hired tall women traders floor specialists noticed, built 1983 handheld quote devices, and wired mechanical spiders to type on banned keyboards — automating while humans vacationed per 1971 Barron's profile."
+    },
+    {
+      "view": "Partnerships expire when ambition caps.",
+      "question": "Why leave Mocatta Metals?",
+      "answer": "Jarecki refused options expansion; Peterffy watched seven years, then exited 1977 with $200,000. Successful people remove growth impediments — he bought an NYSE seat for $36,000 and folded quote printouts into pockets. Keyboard spider and oscilloscope were hacks until exchange rules changed — route around bans."
+    },
+    {
+      "view": "Low price is the strategy.",
+      "question": "What links IBKR to Costco?",
+      "answer": "Peterffy charges less than rivals who stopped competing on price; Dutch auction IPO avoided ~$80 million banker fees. At 81 he checks live quotes during interviews — automation ethos never retired. Dutch auction saved ~$80M fees; Costco-style low price is moat when rivals stop competing."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "IBKR",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "71% margins on $5.2B revenue reflect decades of automation and low-fee scale — Peterffy's pure brokerage focus after exiting market-making preserves IBKR's cost advantage."
+    }
+  ],
+  "golden_quotes": [
+    "On Wall Street I feel like Alice in Wonderland — nothing makes sense until you automate it.",
+    "Goldman offered $900 million; he wanted $3 billion — then Dutch auction IPO saved $80 million in fees.",
+    "It's common sense — hard common sense — Peterffy on the secret of IBKR."
+  ],
+  "chronology": {
+    "subject": "Thomas Peterffy · Interactive Brokers",
+    "events": [
+      {
+        "date": "1944",
+        "event": "Born during Soviet bombing of Budapest."
+      },
+      {
+        "date": "1965-12-12",
+        "event": "Immigrates to New York; works highway drafting."
+      },
+      {
+        "date": "1971",
+        "event": "Automates drafting; joins Aranyi on Wall Street."
+      },
+      {
+        "date": "1977",
+        "event": "Leaves with $200k; buys NYSE seat for $36k."
+      },
+      {
+        "date": "1983",
+        "event": "Invents handheld floor quote computers."
+      },
+      {
+        "date": "1987",
+        "event": "Fully automated trading with 16 errors."
+      },
+      {
+        "date": "2007",
+        "event": "IPO via Dutch auction; retains 80%."
+      },
+      {
+        "date": "2017",
+        "event": "Shuts market-making; pure brokerage focus."
+      }
+    ]
+  }
+}

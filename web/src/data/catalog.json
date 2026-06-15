@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T17:52:42.606Z",
+  "generatedAt": "2026-06-15T21:10:26.338Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -29,7 +29,7 @@
       "accent_color": "#2D5016",
       "youtube_url": "https://www.youtube.com/@founderspodcast1",
       "cover_url": "/covers/founders.jpg",
-      "episodeCount": 30
+      "episodeCount": 40
     },
     {
       "id": "business-breakdowns",
@@ -2754,6 +2754,82 @@
       "chronologySubject": "Lone Pine investing process"
     },
     {
+      "id": "fnd-414-how-spacex-works",
+      "podcastId": "founders",
+      "episodeNumber": 414,
+      "title": "How SpaceX Works",
+      "guest": "SpaceX",
+      "displayTitle": "SpaceX",
+      "displaySubtitle": "Biography · Episode 414",
+      "guestRole": "Biography · Episode 414",
+      "date": "2026-03-08",
+      "durationMinutes": 41,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "Olson's atoms-cheap, process-pricey thesis: rocket materials ~2% of price versus ~30% for cars — vertical integration, Falcon standardization, and reuse captured the rest. 2025 orbit mass beat all nations combined; Starlink 9,000+ satellites; Flight 4 saved SpaceX in 2008 before NASA's $1.6 billion cargo deal. Private:SpaceX compounds launch cost decline into constellation optionality.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=owZ6xh_gOdY",
+      "summaryFile": "fnd-414-how-spacex-works.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:SpaceX",
+        "Aerospace",
+        "Vertical Integration"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:SpaceX",
+          "direction": "Long",
+          "confidence": "High",
+          "thesis": "Launch cadence, reuse, and vertical integration compound cost lead — Starlink monetizes the flywheel; 2025 mass-to-orbit share shows moat widening versus legacy primes."
+        }
+      ],
+      "chronologySubject": "SpaceX"
+    },
+    {
+      "id": "fnd-408-how-to-make-a-few-more-billion-dollars-brad-jacobs",
+      "podcastId": "founders",
+      "episodeNumber": 408,
+      "title": "How to Make a Few MORE Billion Dollars: Brad Jacobs",
+      "guest": "Brad Jacobs",
+      "displayTitle": "Brad Jacobs",
+      "displaySubtitle": "Biography · Episode 408",
+      "guestRole": "Biography · Episode 408",
+      "date": "2025-12-29",
+      "durationMinutes": 43,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Jacobs built eight billion-dollar companies, raised ~$50 billion, integrates before close with same-day town halls for 3,600 people, and keeps org charts to one page. TM since 16 and Ellis REBT manage perfectionism; Apollo Ohno flagged him as a rare positively fueled founder. XPO/GXO investors track roll-up speed, 1–3x EBITDA leverage, and post-merger flattening.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2c4LWQpuw9s",
+      "summaryFile": "fnd-408-how-to-make-a-few-more-billion-dollars-brad-jacobs.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "XPO",
+        "GXO",
+        "Roll-Up Strategy"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "XPO",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Jacobs' $50B capital markets fluency and same-day integration playbook underpin XPO roll-up economics — watch leverage discipline and talent retention post-deal."
+        },
+        {
+          "ticker": "GXO",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "GXO inherits warehouse logistics spin-out quality — Jacobs' org-chart austerity and dashboard transparency are the operating lens, not a fresh long thesis from this episode alone."
+        }
+      ],
+      "chronologySubject": "Brad Jacobs"
+    },
+    {
       "id": "fnd-405-how-rockefeller-worked",
       "podcastId": "founders",
       "episodeNumber": 405,
@@ -2877,6 +2953,76 @@
       "chronologySubject": "Jared Kushner business and government career"
     },
     {
+      "id": "fnd-403-how-jensen-works",
+      "podcastId": "founders",
+      "episodeNumber": 403,
+      "title": "How Jensen Works",
+      "guest": "Jensen Huang",
+      "displayTitle": "Jensen Huang",
+      "displaySubtitle": "How Jensen Works",
+      "guestRole": "Biography · Episode 403",
+      "date": "2025-10-20",
+      "durationMinutes": 55,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Jensen runs Nvidia flat — ~60 direct reports, whiteboard meetings, public criticism, speed-of-light benchmarks. NV1 taught focus; $1M Ecos emulator saved Riva 128 with ~6 months cash; CUDA cut gross margin ~45% to ~35% before AI demand compounded. ~29,000 employees today. NVDA's edge is margin-tolerant platform bets plus brutal accountability culture.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3pY0KWwVAV4",
+      "summaryFile": "fnd-403-how-jensen-works.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NVDA",
+        "CUDA",
+        "Semiconductor Design"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "CUDA switching costs and Jensen's flat, fast culture explain durable GPU platform economics — willingness to sacrifice margin and outwork rivals compounds even as cycles turn."
+        }
+      ],
+      "chronologySubject": "Jensen Huang · Nvidia"
+    },
+    {
+      "id": "fnd-402-thomas-peterffy-the-80-billion-founder-who-automates-ev",
+      "podcastId": "founders",
+      "episodeNumber": 402,
+      "title": "Thomas Peterffy: The $80 Billion Founder Who Automates Everything",
+      "guest": "Thomas Peterffy",
+      "displayTitle": "Thomas Peterffy",
+      "displaySubtitle": "Biography · Episode 402",
+      "guestRole": "Biography · Episode 402",
+      "date": "2025-10-05",
+      "durationMinutes": 31,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Peterffy automated his way from 1944 Budapest bombing to IBKR — $3.7 billion profit on $5.2 billion 2024 revenue, ~71% margins, oscilloscope hacks, 1983 handheld quotes, Dutch auction IPO saving ~$80 million in fees. He refused ~$900 million Goldman bids. At 81 he still watches live quotes. IBKR compounds on automation plus Costco-style low fees.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Q5WIv9vGKpA",
+      "summaryFile": "fnd-402-thomas-peterffy-the-80-billion-founder-who-automates-ev.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "IBKR",
+        "Market Structure",
+        "Automation"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "IBKR",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "71% margins on $5.2B revenue reflect decades of automation and low-fee scale — Peterffy's pure brokerage focus after exiting market-making preserves IBKR's cost advantage."
+        }
+      ],
+      "chronologySubject": "Thomas Peterffy · Interactive Brokers"
+    },
+    {
       "id": "fnd-401-how-bill-gates-works",
       "podcastId": "founders",
       "episodeNumber": 401,
@@ -2951,6 +3097,47 @@
         }
       ],
       "chronologySubject": "James Dyson · Against the Odds"
+    },
+    {
+      "id": "fnd-399-how-elon-works",
+      "podcastId": "founders",
+      "episodeNumber": 399,
+      "title": "How Elon Works",
+      "guest": "Elon Musk",
+      "displayTitle": "Elon Musk",
+      "displaySubtitle": "How Elon Works",
+      "guestRole": "Biography · Episode 399",
+      "date": "2025-08-25",
+      "durationMinutes": 93,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "Isaacson's Musk biography yields 79 recurring principles — delete/simplify, engineers-not-managers, showmanship from Zip2's fake server rack, $37 million exit at 27, and first-principles costing ($120k actuator to ~$3.9k). Musk rejects work-life balance and reinvests winnings into missions he frames as inevitable. TSLA and Private:SpaceX are bets on simplification, vertical integration, and impossible deadlines.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=aStHTTPxlis",
+      "summaryFile": "fnd-399-how-elon-works.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "TSLA",
+        "Private:SpaceX",
+        "First Principles"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "TSLA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Musk's delete-first ops and engineer-led org explain TSLA iteration speed — watch whether principle survives scale without talent burnout."
+        },
+        {
+          "ticker": "Private:SpaceX",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Same first-principles costing and vertical integration that cut actuator quotes from $120k to $3.9k underpin SpaceX flywheel — Starlink optional upside from launch cost collapse."
+        }
+      ],
+      "chronologySubject": "Elon Musk"
     },
     {
       "id": "fnd-398-steve-jobs-in-his-own-words-make-something-wonderful",
@@ -3033,6 +3220,76 @@
         }
       ],
       "chronologySubject": "Enzo Ferrari"
+    },
+    {
+      "id": "fnd-394-an-orphan-who-built-an-empire-leonardo-del-vecchio-and",
+      "podcastId": "founders",
+      "episodeNumber": 394,
+      "title": "An Orphan Who Built An Empire: Leonardo Del Vecchio and The Founding of Luxottica",
+      "guest": "Leonardo Del Vecchio",
+      "displayTitle": "Leonardo Del Vecchio",
+      "displaySubtitle": "Biography · Episode 394",
+      "guestRole": "Biography · Episode 394",
+      "date": "2025-07-13",
+      "durationMinutes": 67,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Del Vecchio rose from an orphanage to Luxottica — 400,000 pairs daily, 180–230 steps per frame, Ray-Ban revived to ~$2 billion sales, and a $1.4 billion 1995 US Shoe raid five times his firm's size to own LensCrafters retail. Essilor merger closed lenses. ESLOY's moat is owning alloy, brand, factory, and shelf; DTC challengers fight integrated scale.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bijdxv0lG7w",
+      "summaryFile": "fnd-394-an-orphan-who-built-an-empire-leonardo-del-vecchio-and.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "ESLOY",
+        "Vertical Integration",
+        "Eyewear"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "ESLOY",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Del Vecchio's integrated stack — 400k pairs/day, 230 steps, owned retail — is ESLOY's durable moat; Essilor merger closed lenses; watch whether DTC brands erode mall capture rates."
+        }
+      ],
+      "chronologySubject": "Leonardo Del Vecchio · Luxottica"
+    },
+    {
+      "id": "fnd-392-michele-ferrero-and-his-40-billion-privately-owned-choc",
+      "podcastId": "founders",
+      "episodeNumber": 392,
+      "title": "Michele Ferrero and His $40 Billion Privately Owned Chocolate Empire",
+      "guest": "Michele Ferrero",
+      "displayTitle": "Michele Ferrero",
+      "displaySubtitle": "Biography · Episode 392",
+      "guestRole": "Biography · Episode 392",
+      "date": "2025-06-23",
+      "durationMinutes": 54,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Ferrero built a 100% family, zero-debt empire by serving imaginary customer Mrs. Valeria — tens of thousands of experiments, ~$20 billion revenue, Nutella at ~50% below rivals yet willingly paid. Vertical integration spans hazelnut orchards to custom roasters across 20 factories in 160 countries. No shareholders enabled decade-long secrecy. Private:Ferrero shows quality, control, and reinvestment beat publicity.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ksDrpn7yNEo",
+      "summaryFile": "fnd-392-michele-ferrero-and-his-40-billion-privately-owned-choc.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Ferrero",
+        "Consumer Staples",
+        "Vertical Integration"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Ferrero",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Ferrero's zero-debt, 70% spread share, and orchard-to-shelf integration are the benchmark private consumer compounder — useful lens for Hershey/Nestlé margin pressure even without a public float."
+        }
+      ],
+      "chronologySubject": "Michele Ferrero · Ferrero"
     },
     {
       "id": "fnd-388-jeff-bezos-s-shareholder-letters-all-of-them",
@@ -3269,6 +3526,41 @@
       "chronologySubject": "Sam Zell · Equity Office · Tribune Media"
     },
     {
+      "id": "fnd-356-how-the-sun-rose-on-silicon-valley-bob-noyce-founder-of",
+      "podcastId": "founders",
+      "episodeNumber": 356,
+      "title": "How The Sun Rose On Silicon Valley: Bob Noyce (Founder of Intel)",
+      "guest": "Bob Noyce",
+      "displayTitle": "Bob Noyce",
+      "displaySubtitle": "Biography · Episode 356",
+      "guestRole": "Biography · Episode 356",
+      "date": "2024-07-12",
+      "durationMinutes": 58,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Tom Wolfe's 1983 Esquire piece on Bob Noyce explains Silicon Valley as engineered, not accidental — transistor luck at Grinnell College, the Traitorous Eight leaving Shockley's paranoid lab, Fairchild's $3 million backing, and Intel's flat, stock-option culture that minted microprocessors. Noyce exercised Fairchild options worth ~$250,000 (~$2.6 million inflation-adjusted) on a $122,000 salary, then built Intel with Gordon Moore and Andy Grove — 1103 memory chips, $3,000 clean rooms, and no executive walls. Grove's A–F grading and Noyce's halo made talent stay. INTC's origin story is permission to quit bad bosses, finance rebels, and keep frontier spirit as companies scale.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=QNP0QqLThyI",
+      "summaryFile": "fnd-356-how-the-sun-rose-on-silicon-valley-bob-noyce-founder-of.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "INTC",
+        "Semiconductors",
+        "Venture Capital"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "INTC",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Noyce-Moore-Grove template — rebel talent, equity alignment, flat ops — is INTC's historical moat; today's challenge is whether frontier culture survives as fabs and foundry competition commoditize the Grove measurement era."
+        }
+      ],
+      "chronologySubject": "Bob Noyce · Intel"
+    },
+    {
       "id": "fnd-355-rare-bernard-arnault-interview",
       "podcastId": "founders",
       "episodeNumber": 355,
@@ -3343,6 +3635,76 @@
         }
       ],
       "chronologySubject": "Sam Walton · Vance Trimble"
+    },
+    {
+      "id": "fnd-347-how-walt-disney-built-his-greatest-creation-disneyland",
+      "podcastId": "founders",
+      "episodeNumber": 347,
+      "title": "How Walt Disney Built His Greatest Creation: Disneyland",
+      "guest": "Walt Disney",
+      "displayTitle": "Walt Disney",
+      "displaySubtitle": "Biography · Episode 347",
+      "guestRole": "Biography · Episode 347",
+      "date": "2024-04-29",
+      "durationMinutes": 77,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Snow's Disney's Land frames Disneyland as Walt's contrarian bet — 240 Anaheim acres, life-insurance financing, $17 million final cost versus ~$8 million plan, July 1955 opening chaos, and 800 million visitors since. ABC's live special reached 54% of Americans; the weekly TV show marketed an unborn park. Roy, bankers, and Lilly said no. DIS investors see physical IP experiences compounding when founders refuse to repeat past hits.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wfwyk1TK1Aw",
+      "summaryFile": "fnd-347-how-walt-disney-built-his-greatest-creation-disneyland.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "DIS",
+        "Theme Parks",
+        "Capital Allocation"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "DIS",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Disneyland proves DIS experiential IP can be financed creatively and survive botched launches if character worlds are compelling — parks remain the physical moat on Mickey/Snow White libraries when film cycles wobble."
+        }
+      ],
+      "chronologySubject": "Walt Disney · Disneyland"
+    },
+    {
+      "id": "fnd-310-walt-disney-and-picasso",
+      "podcastId": "founders",
+      "episodeNumber": 310,
+      "title": "Walt Disney and Picasso",
+      "guest": "Walt Disney and Pablo Picasso",
+      "displayTitle": "Walt Disney and Pablo Picasso",
+      "displaySubtitle": "Walt Disney and Picasso",
+      "guestRole": "Biography · Episode 310",
+      "date": "2023-07-04",
+      "durationMinutes": 51,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Johnson pairs Picasso and Disney as dominant 20th-century visual innovators — Picasso with 33,343 works and market savvy, Disney with lovability and pace from Steamboat Willie to 800,000 Mickey letters by 1933. Disney's Snow White reels cost ~$113,000 versus rivals' ~$2,500 caps; his home-video library later ran to hundreds of millions. Picasso's genius lacked redeeming character. For DIS, enduring IP plus iteration in sound, color, and merch beats shock art.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9_QO_zYjvro",
+      "summaryFile": "fnd-310-walt-disney-and-picasso.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "DIS",
+        "Creative Entrepreneurship",
+        "Brand Building"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "DIS",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Johnson and Senra frame Disney as the durable brand builder — anthropomorphic IP, sound/color firsts, and a home-video library worth hundreds of millions — versus Picasso's non-repeatable shock. DIS moat is love plus re-monetizable storytelling, not one-off artistic novelty."
+        }
+      ],
+      "chronologySubject": "Walt Disney · Pablo Picasso"
     },
     {
       "id": "fnd-304-sol-price-the-founder-who-taught-jim-sinegal-sam-walton",
@@ -9689,7 +10051,7 @@
           "thesis": "Epic's antitrust crusade and developer-account ban threat test App Store 30% policy; Unreal Engine dependency gives Epic leverage Apple cannot ignore without harming its own developer ecosystem."
         },
         {
-          "ticker": "0700.HK",
+          "ticker": "TCEHY",
           "direction": "Watch",
           "confidence": "Medium",
           "thesis": "Tencent's 40% Epic stake and 2018 $15B valuation mark another multi-billion winner in Tencent's king-maker portfolio alongside Pinduoduo and Meituan."
@@ -10991,7 +11353,7 @@
       ],
       "investmentIdeas": [
         {
-          "ticker": "0700.HK",
+          "ticker": "TCEHY",
           "direction": "Watch",
           "confidence": "Medium",
           "thesis": "Super-app + gaming cash flow + portfolio NAV — monitor regulatory gaming/content approvals, WeChat payment share versus Alipay, and mark-to-market on listed stakes (Snap, Tesla)."

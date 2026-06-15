@@ -525,6 +525,24 @@ episodes:
   duration_minutes: 88
   youtube_url: https://www.youtube.com/watch?v=WHYr_CeiGOM
   podcast: Invest Like the Best
+- id: fnd-414-how-spacex-works
+  episode_number: 414
+  title: How SpaceX Works
+  guest: SpaceX
+  guest_role: Biography · Episode 414
+  date: '2026-03-08'
+  duration_minutes: 41
+  youtube_url: https://www.youtube.com/watch?v=owZ6xh_gOdY
+  podcast: Founders
+- id: fnd-408-how-to-make-a-few-more-billion-dollars-brad-jacobs
+  episode_number: 408
+  title: 'How to Make a Few MORE Billion Dollars: Brad Jacobs'
+  guest: Brad Jacobs
+  guest_role: Biography · Episode 408
+  date: '2025-12-29'
+  duration_minutes: 43
+  youtube_url: https://www.youtube.com/watch?v=2c4LWQpuw9s
+  podcast: Founders
 - id: fnd-405-how-rockefeller-worked
   episode_number: 405
   title: How Rockefeller Worked
@@ -552,6 +570,24 @@ episodes:
   duration_minutes: 175
   youtube_url: https://www.youtube.com/watch?v=EagrRPukYdc
   podcast: Invest Like the Best
+- id: fnd-403-how-jensen-works
+  episode_number: 403
+  title: How Jensen Works
+  guest: Jensen Huang
+  guest_role: Biography · Episode 403
+  date: '2025-10-20'
+  duration_minutes: 55
+  youtube_url: https://www.youtube.com/watch?v=3pY0KWwVAV4
+  podcast: Founders
+- id: fnd-402-thomas-peterffy-the-80-billion-founder-who-automates-ev
+  episode_number: 402
+  title: 'Thomas Peterffy: The $80 Billion Founder Who Automates Everything'
+  guest: Thomas Peterffy
+  guest_role: Biography · Episode 402
+  date: '2025-10-05'
+  duration_minutes: 31
+  youtube_url: https://www.youtube.com/watch?v=Q5WIv9vGKpA
+  podcast: Founders
 - id: fnd-401-how-bill-gates-works
   episode_number: 401
   title: How Bill Gates Works
@@ -570,6 +606,15 @@ episodes:
   duration_minutes: 73
   youtube_url: https://www.youtube.com/watch?v=hagy0fhiPpY
   podcast: Founders
+- id: fnd-399-how-elon-works
+  episode_number: 399
+  title: How Elon Works
+  guest: Elon Musk
+  guest_role: Biography · Episode 399
+  date: '2025-08-25'
+  duration_minutes: 93
+  youtube_url: https://www.youtube.com/watch?v=aStHTTPxlis
+  podcast: Founders
 - id: fnd-398-steve-jobs-in-his-own-words-make-something-wonderful
   episode_number: 398
   title: Steve Jobs In His Own Words (Make Something Wonderful)
@@ -587,6 +632,25 @@ episodes:
   date: '2025-07-30'
   duration_minutes: 57
   youtube_url: https://www.youtube.com/watch?v=-quUT9uGApo
+  podcast: Founders
+- id: fnd-394-an-orphan-who-built-an-empire-leonardo-del-vecchio-and
+  episode_number: 394
+  title: 'An Orphan Who Built An Empire: Leonardo Del Vecchio and The Founding of
+    Luxottica'
+  guest: Leonardo Del Vecchio
+  guest_role: Biography · Episode 394
+  date: '2025-07-13'
+  duration_minutes: 67
+  youtube_url: https://www.youtube.com/watch?v=bijdxv0lG7w
+  podcast: Founders
+- id: fnd-392-michele-ferrero-and-his-40-billion-privately-owned-choc
+  episode_number: 392
+  title: Michele Ferrero and His $40 Billion Privately Owned Chocolate Empire
+  guest: Michele Ferrero
+  guest_role: Biography · Episode 392
+  date: '2025-06-23'
+  duration_minutes: 54
+  youtube_url: https://www.youtube.com/watch?v=ksDrpn7yNEo
   podcast: Founders
 - id: fnd-388-jeff-bezos-s-shareholder-letters-all-of-them
   episode_number: 388
@@ -643,6 +707,15 @@ episodes:
   duration_minutes: 50
   youtube_url: https://www.youtube.com/watch?v=vU3JqUt8Hhc
   podcast: Founders
+- id: fnd-356-how-the-sun-rose-on-silicon-valley-bob-noyce-founder-of
+  episode_number: 356
+  title: 'How The Sun Rose On Silicon Valley: Bob Noyce (Founder of Intel)'
+  guest: Bob Noyce
+  guest_role: Biography · Episode 356
+  date: '2024-07-12'
+  duration_minutes: 58
+  youtube_url: https://www.youtube.com/watch?v=QNP0QqLThyI
+  podcast: Founders
 - id: fnd-355-rare-bernard-arnault-interview
   episode_number: 355
   title: Rare Bernard Arnault Interview
@@ -660,6 +733,24 @@ episodes:
   date: '2024-06-29'
   duration_minutes: 92
   youtube_url: https://www.youtube.com/watch?v=tL71OzGcewk
+  podcast: Founders
+- id: fnd-347-how-walt-disney-built-his-greatest-creation-disneyland
+  episode_number: 347
+  title: 'How Walt Disney Built His Greatest Creation: Disneyland'
+  guest: Walt Disney
+  guest_role: Biography · Episode 347
+  date: '2024-04-29'
+  duration_minutes: 77
+  youtube_url: https://www.youtube.com/watch?v=Wfwyk1TK1Aw
+  podcast: Founders
+- id: fnd-310-walt-disney-and-picasso
+  episode_number: 310
+  title: Walt Disney and Picasso
+  guest: Walt Disney and Pablo Picasso
+  guest_role: Biography · Episode 310
+  date: '2023-07-04'
+  duration_minutes: 51
+  youtube_url: https://www.youtube.com/watch?v=9_QO_zYjvro
   podcast: Founders
 - id: fnd-304-sol-price-the-founder-who-taught-jim-sinegal-sam-walton
   episode_number: 304

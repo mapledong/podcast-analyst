@@ -1,0 +1,103 @@
+{
+  "episode_id": "fnd-347-how-walt-disney-built-his-greatest-creation-disneyland",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 347,
+    "title": "How Walt Disney Built His Greatest Creation: Disneyland",
+    "guest": "Walt Disney",
+    "guest_role": "Biography · Episode 347",
+    "date": "2024-04-29",
+    "duration_minutes": 77,
+    "youtube_url": "https://www.youtube.com/watch?v=Wfwyk1TK1Aw",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/347-how-walt-disney-built-his-greatest-creation-disneyland",
+      "youtube": "https://www.youtube.com/watch?v=Wfwyk1TK1Aw"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "DIS",
+    "Theme Parks",
+    "Capital Allocation"
+  ],
+  "conclusion": "Snow's Disney's Land frames Disneyland as Walt's contrarian bet — 240 Anaheim acres, life-insurance financing, $17 million final cost versus ~$8 million plan, July 1955 opening chaos, and 800 million visitors since. ABC's live special reached 54% of Americans; the weekly TV show marketed an unborn park. Roy, bankers, and Lilly said no. DIS investors see physical IP experiences compounding when founders refuse to repeat past hits.",
+  "background": "Senra rereads Richard Snow's Disney's Land after an 800-page Walt biography, focusing on the park Walt called his greatest creation. In the early 1950s Walt stood on 240 Anaheim acres imagining a steam-powered fantasy guests could visit for days; Roy, bankers, and his wife Lilly warned of ruin. Amusement parks were despised businesses.\n\nWalt sold his life insurance, summer home, and borrowed aggressively. He assembled engineers, animators, a retired admiral, and landscapers under a one-year deadline. Opening day July 17, 1955 was chaotic — forged tickets, broken rides, a heat wave — yet curiosity never faded. ABC partnered as main sponsor; 54% of Americans watched the live broadcast. Walt was 53, overweight, smoking, yet physically set the company's pace while producing a weekly TV show that was essentially a giant ad for the unborn park.\n\nWalt was 53 at launch — overweight, smoking, yet arriving at 4 a.m. while colleagues saw a tired businessman converting to accountant. He partnered ABC as distant third network versus CBS/NBC, trading future programming for sponsorship when amusement parks were disreputable. Journalists asked why a park; Walt answered he must solve inspiring problems. The Improvement mantra ran company-wide while he hawked life insurance and summer homes. Snow notes 800 million visitors since — disaster press on day one did not kill curiosity.",
+  "important_facts": [
+    "Walt financed Disneyland against his life insurance and personal assets on 240 Anaheim acres; projected cost was ~$8 million, final spend ~$17 million (~$160 million today) while he was still cash-strapped from films. Walt's contrarian ABC deal came when CBS and NBC were larger networks and parks were seen as dangerous — 54% of Americans still watched the live opening special.",
+    "ABC sponsored the July 17, 1955 opening broadcast watched by 54% of Americans — Walt traded future television programming for capital when CBS and NBC were larger and amusement parks were considered disreputable.",
+    "Opening day was a press disaster (forged tickets, failed attractions) yet more than 800 million visitors have since visited; Walt opened at 4 a.m. on launch day while the company ran the Improvement mantra across every function. He produced a weekly TV show that was essentially a giant advertisement for an unborn park — Ogilvy logic: entertain to hold attention before asking for money. Final spend ~$17 million versus ~$8 million plan while Walt remained personally broke — capital creativity mattered more than balance-sheet comfort."
+  ],
+  "mental_model": {
+    "name": "Contrarian Physical Bet on IP",
+    "components": "Walt refused to become a tired businessman at 53 — he bet the company on a despised category. He paired capital creativity (insurance, ABC barter) with showmanship (live TV inauguration) and obsessive on-site pacing. External doubt was universal; internal commitment was total. Snow ties Walt to Kobe Bryant's classroom discipline and Elon Musk's why-build interview — external doubt is constant when internal commitment is total.",
+    "application": "DIS parks and experiences revenue hinges on renewing physical bets without cannibalizing film IP. Walt's ABC deal mirrors modern flywheel marketing — content funds place, place feeds content. Founders attempting hardware or venues should expect $8M estimates to become $17M and plan media partnerships early. DIS parks revenue today still follows Walt's pattern: media funds place, place feeds media. Founders attempting venues should budget 2x projected spend and sell a show before selling tickets. DIS experiential segment still monetizes IP Walt proved could fund itself through television before turnstiles spun."
+  },
+  "key_insights": [
+    {
+      "view": "Everyone said no — that was the signal.",
+      "question": "Who opposed Disneyland and why?",
+      "answer": "Roy, bankers, and Lilly warned of financial ruin; amusement parks were low-status. Walt answered critics with insurance-policy financing and ABC programming swaps — contrarian when CBS/NBC dwarfed ABC. Senra compares to Elon Musk explaining SpaceX and Tesla as inspiring problem-solving, not rational ROI slides. Roy and Lilly were not alone — bankers and industry peers all asked why a park; Walt's insurance-policy stake was personal recourse ordinary CEOs avoid."
+    },
+    {
+      "view": "Television was the fundraising product.",
+      "question": "How did Walt pay for the park while broke?",
+      "answer": "He sold summer homes, hawked insurance, and struck an ABC deal trading future TV programming for sponsorship cash. The weekly Disneyland show was literally advertising for an unborn park — Ogilvy's entertain-to-sell logic before launch. ABC as third-place network made the deal contrarian; Walt traded programming rights for cash when larger networks passed."
+    },
+    {
+      "view": "Opening disasters don't kill product-market fit.",
+      "question": "What happened July 17, 1955?",
+      "answer": "Forged tickets, broken rides, and brutal heat produced disastrous press, yet crowds kept coming — 800 million visitors since. Walt's 4 a.m. start and Improvement mantra sustained iteration while skeptics watched the live ABC special. David Ogilvy's empty-church metaphor: advertising must entertain; Walt's Disneyland series watered ground for eight highest-rated episodes before gates opened."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "DIS",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Disneyland proves DIS experiential IP can be financed creatively and survive botched launches if character worlds are compelling — parks remain the physical moat on Mickey/Snow White libraries when film cycles wobble."
+    }
+  ],
+  "golden_quotes": [
+    "You can't top pigs with pigs — Walt refused to repeat past animation successes and blazed a new trail at 53.",
+    "Projected $8 million, final $17 million — Walt built Disneyland while broke, not while wealthy.",
+    "54% of Americans watched the ABC opening — the park was marketed as television before it was concrete."
+  ],
+  "chronology": {
+    "subject": "Walt Disney · Disneyland",
+    "events": [
+      {
+        "date": "Early 1950s",
+        "event": "Walt imagines park on 240 Anaheim acres; Roy, bankers, and Lilly oppose."
+      },
+      {
+        "date": "1954",
+        "event": "ABC partnership and Disneyland TV show fund construction; Improvement mantra runs company-wide."
+      },
+      {
+        "date": "1955",
+        "event": "Walt sells insurance policies and summer home; final cost reaches ~$17 million."
+      },
+      {
+        "date": "1955-07-17",
+        "event": "Opening day chaos — forged tickets, heat — yet crowds persist; ABC covers live."
+      },
+      {
+        "date": "Post-1955",
+        "event": "Park iteration continues; 800+ million cumulative visitors per Snow."
+      }
+    ]
+  }
+}
