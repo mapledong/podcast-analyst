@@ -205,7 +205,7 @@ Next steps (GitHub Pages + automation)
    - SMTP_*          (weekly email digest; see docs/automation.md)
 
 5. Optional repo variable:
-   - CURSOR_AGENT_MODEL=gpt-5.5-medium
+   - CURSOR_AGENT_MODEL=auto  (or composer-2.5)
 
 Docs: docs/automation.md
 ----------------------------------------------------------------------

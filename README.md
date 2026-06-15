@@ -198,7 +198,7 @@ Optional repository variable:
 
 | Variable | Default | Purpose |
 |---|---|---|
-| `CURSOR_AGENT_MODEL` | `gpt-5.5-medium` | Cursor model used for weekly summary generation |
+| `CURSOR_AGENT_MODEL` | `auto` | Cursor model for agent workflows (`auto`, `composer-2.5`, etc.) |
 
 The weekly update workflow intentionally uses the Cursor SDK rather than the repo's OpenAI extraction scripts, so it does not require `OPENAI_API_KEY`. If you prefer OpenAI-based extraction later, add `OPENAI_API_KEY` and switch the workflow command to the existing batch scripts.
 

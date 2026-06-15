@@ -137,8 +137,10 @@ CURSOR_API_KEY
 Optional repository variable:
 
 ```text
-CURSOR_AGENT_MODEL=gpt-5.5-medium
+CURSOR_AGENT_MODEL=auto
 ```
+
+Use `auto` (server picks model; lower cost) or `composer-2.5` (faster, predictable). Override via repo variable if needed.
 
 ## Weekly Friday Email (template v1)
 

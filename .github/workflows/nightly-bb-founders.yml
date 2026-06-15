@@ -43,7 +43,7 @@ jobs:
       - name: Run overnight BB/Founders agent
         env:
           CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
-          CURSOR_AGENT_MODEL: ${{ vars.CURSOR_AGENT_MODEL || 'gpt-5.5-medium' }}
+          CURSOR_AGENT_MODEL: ${{ vars.CURSOR_AGENT_MODEL || 'auto' }}
           NIGHTLY_BATCH_SIZE: ${{ github.event.inputs.batch_size || vars.NIGHTLY_BATCH_SIZE || '10' }}
           TARGET_PER_PODCAST: ${{ vars.TARGET_PER_PODCAST || '80' }}
         run: python scripts/overnight_bb_founders.py

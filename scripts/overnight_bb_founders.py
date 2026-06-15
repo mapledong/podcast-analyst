@@ -100,7 +100,7 @@ def main() -> int:
         print(f"cursor-sdk import failed: {exc}", file=sys.stderr)
         return 2
 
-    model = os.environ.get("CURSOR_AGENT_MODEL", "gpt-5.5-medium")
+    model = os.environ.get("CURSOR_AGENT_MODEL", "auto")
     prompt = build_prompt(batch_size=batch_size)
 
     result = Agent.prompt(

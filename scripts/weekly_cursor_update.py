@@ -66,7 +66,7 @@ def main() -> int:
         print(f"cursor-sdk is not installed or failed to import: {exc}", file=sys.stderr)
         return 2
 
-    model = os.environ.get("CURSOR_AGENT_MODEL", "gpt-5.5-medium")
+    model = os.environ.get("CURSOR_AGENT_MODEL", "auto")
 
     result = Agent.prompt(
         WEEKLY_UPDATE_PROMPT,

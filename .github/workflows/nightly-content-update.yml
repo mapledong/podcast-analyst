@@ -56,7 +56,7 @@ jobs:
       - name: Run nightly summary agent
         env:
           CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
-          CURSOR_AGENT_MODEL: ${{ vars.CURSOR_AGENT_MODEL || 'gpt-5.5-medium' }}
+          CURSOR_AGENT_MODEL: ${{ vars.CURSOR_AGENT_MODEL || 'auto' }}
           NIGHTLY_BATCH_SIZE: ${{ github.event.inputs.batch_size || vars.NIGHTLY_BATCH_SIZE || '8' }}
         run: python scripts/nightly_content_update.py
       - name: Post-process and sync web

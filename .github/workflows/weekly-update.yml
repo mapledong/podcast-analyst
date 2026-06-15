@@ -36,7 +36,7 @@ jobs:
       - name: Run weekly Cursor update
         env:
           CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
-          CURSOR_AGENT_MODEL: ${{ vars.CURSOR_AGENT_MODEL || 'gpt-5.5-medium' }}
+          CURSOR_AGENT_MODEL: ${{ vars.CURSOR_AGENT_MODEL || 'auto' }}
         run: python scripts/weekly_cursor_update.py
       - name: Normalize tickers and sync web
         run: |
