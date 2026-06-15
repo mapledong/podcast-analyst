@@ -2,7 +2,7 @@
 
 ## *In the AI Era, How Do We Become Irreplaceable?*
 
-**★★★★★** · 5/5
+**★★★☆☆** · 3/5
 
 **Podcast** Practical Investments · **Date** Jun 15, 2026 · **Duration** 93 min · **Read** ≈3 min
 

@@ -2,7 +2,7 @@
 
 ## *Lightspeed Venture Partners 合伙人*
 
-**★★★★★** · 5/5
+**★★★☆☆** · 3/5
 
 **播客** 张小珺商业访谈录 · **日期** 2026年5月18日 · **时长** 84 分钟 · **阅读** ≈5 分钟
 
@@ -12,7 +12,7 @@
 
 **收听** [YouTube](https://www.youtube.com/watch?v=MjTfhm5N8x8) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** META · GOOGL · Token 经济学 · AI 组织变革
+**主题** META · GOOGL · TOKEN · AI
 > ### 结论
 >
 > 光速创投合伙人 Freda 认为 AI 投资框架须从 Token 总量转向单任务 Token 效率——消耗可继续上升但浪费真实存在，CFO 按 Cursor 用量激增追加预算可能误判生产力。组织仍在把 AI 塞进蒸汽机式工作流；电气化曾耗时数十年因工厂须重新设计，接力棒式产品团队应变为小型自治分队。对投资者：押注按效果付费与工作流锁定（编程智能体、Harness 层），非 Token 图表头条；Meta 与 Google 资本开支仅当任务效率与组织重构跟进时才合理。

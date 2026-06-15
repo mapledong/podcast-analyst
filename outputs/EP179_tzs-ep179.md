@@ -2,7 +2,7 @@
 
 ## *Co-founder, Practical Investments & Fund Manager*
 
-**★★★★☆** · 4/5
+**★★★☆☆** · 3/5
 
 **Podcast** Practical Investments · **Date** Apr 13, 2026 · **Duration** 64 min · **Read** ≈5 min
 
@@ -12,7 +12,7 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=uEjZzUJZOgI) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**Topics** Value Investing · Capital Cycle · Compounding
+**Topics** VALUE · CAPITAL · COMPOUNDING
 > ### Conclusion
 >
 > Yongqing's Practical Investments framework ties Graham-era price-to-book thinking to today's quality compounders: intrinsic value moves with lifecycle, and capital cycles — not macro headlines — tell you when crowded trades will compress forward returns. Mutual funds peak weight at narrative tops and de-risk on drawdowns, which contrarians can use as timing signals if they tolerate relative underperformance. The actionable rule is buy durable return-on-invested-capital above cost of capital at reasonable prices, and trim when capital floods into a sector; thirty times price-to-earnings only works if roughly twenty-five percent ROIC sustains ten years.

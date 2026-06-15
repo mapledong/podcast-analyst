@@ -72,3 +72,7 @@ if __name__ == "__main__":
                 encoding="utf-8",
             )
         print(f"wrote {eid}")
+
+    import subprocess
+
+    subprocess.run([sys.executable, str(_SCRIPTS / "apply_chinese_podcast_ratings.py")], check=True)

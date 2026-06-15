@@ -2,7 +2,7 @@
 
 ## *Divergent Markets: Chase Momentum or Guard Principal with Value?*
 
-**★★★★★** · 5/5
+**★★★☆☆** · 3/5
 
 **Podcast** Practical Investments · **Date** Jun 7, 2026 · **Duration** 90 min · **Read** ≈3 min
 
@@ -12,7 +12,7 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=Fko6aJvRC4c) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**Topics** Value Investing · Market Divergence · Position Sizing
+**Topics** VALUE · MARKET · POSITION
 > ### Conclusion
 >
 > On Shen Shuaibo's show, Yongqing draws a bright line between momentum chasing and value discipline: buying because a stock rose is usually wrong unless you can name what breaks the cycle. With 2026 retail safe-haven flows into equities globally, he stays with few high-quality compounders and return asymmetry — tolerating drawdowns only when upside skew justifies them. Know the mainstream narrative, but pre-build portfolio switches; participation without a thesis is gambling.

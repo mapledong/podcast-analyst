@@ -2,7 +2,7 @@
 
 ## *Former SpaceX Executive*
 
-**★★★★★** · 5/5
+**★★★☆☆** · 3/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** Jun 12, 2026 · **Duration** 181 min · **Read** ≈4 min
 
@@ -12,7 +12,7 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=ABtf0yehi1I) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**Topics** SpaceX · TSLA · Space Economy
+**Topics** SpaceX · TSLA · SPACE
 > ### Conclusion
 >
 > Former SpaceX executive Hong Lide separates 2026's capital frenzy from engineering continuity: IPO and xAI chatter is new for allocators, but Mars planning and Starship iteration began after the first Falcon success in 2012–13. SpaceX's edge is manufacturing culture and vertical integration across thousands of components — not slide-deck synergy. Tesla remains the liquid Musk-industrial proxy; pure-play space names need Starship cadence, per-kilogram cost, and Starlink cash flow before mega-IPO scarcity pricing.

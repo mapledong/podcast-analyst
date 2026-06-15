@@ -12,7 +12,7 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=ttkd0t5qTD4) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**Topics** GOOGL · AI Frontier Labs · Model Training
+**Topics** GOOGL · AI · MODEL
 > ### Conclusion
 >
 > After training at Anthropic and joining Google's Gemini team in late 2025, Yao Shunyu argues frontier labs no longer fear falling behind on raw capability — they fear picking the wrong product bet. Benchmark gaps among OpenAI, Anthropic, and Google have narrowed; retention now turns on workflow lock-in, distribution, and reliability, not hero narratives. He puts Gemini consumer share at roughly twenty percent and cites Doubao's voice UX as proof regional product fit can win without global IQ leadership. Investors should underwrite commercial paths — coding agents, search/Android funnels, enterprise attach — rather than leaderboard deltas.

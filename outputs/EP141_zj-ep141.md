@@ -2,7 +2,7 @@
 
 ## *Partner, Lightspeed Venture Partners*
 
-**★★★★★** · 5/5
+**★★★☆☆** · 3/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** May 18, 2026 · **Duration** 84 min · **Read** ≈5 min
 
@@ -12,7 +12,7 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=MjTfhm5N8x8) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**Topics** META · GOOGL · Token Economics · AI Org Design
+**Topics** META · GOOGL · TOKEN · AI
 > ### Conclusion
 >
 > Lightspeed partner Freda argues the AI investment frame must shift from token volume to tokens-per-task efficiency — raw burn can rise while waste is real, and CFOs who fund coding tools on usage spikes misread productivity. Organizations are still bolting AI onto steam-engine workflows; electrification took decades because factories had to be redesigned, and relay-baton product teams must become small autonomous squads. For investors: underwrite outcome-based pricing and workflow lock-in (coding agents, harness layers), not headline token charts; META and GOOGL capex stays rational only if task efficiency and org redesign follow.

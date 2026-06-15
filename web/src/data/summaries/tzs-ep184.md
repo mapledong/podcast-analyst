@@ -2,7 +2,7 @@
 
 ## *Curing Cancer? CAR-T Cell Therapy — Science and Business*
 
-**★★★★★** · 5/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** May 24, 2026 · **Duration** 108 min · **Read** ≈3 min
 
@@ -12,7 +12,7 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=YGy8A_KWWNM) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**Topics** CARsgen (2171.HK) · CAR-T · Innovative Drugs
+**Topics** CARsgen (2171.HK) · CAR-T · INNOVATIVE
 > ### Conclusion
 >
 > David's CAR-T session with CARsgen CEO Li Zonghai and oncologist Qi Changsong shows efficacy is proven but economics are supply-constrained: annual output of roughly one to two thousand doses meets only a sliver of six-figure late-line demand in China — physicians, not price alone, ration scarce slots. Investors should model capacity ramps, patient-selection biomarkers, and NRDL reimbursement together; 2171.HK is a bet on manufacturing scale-up and payer access, not science headlines.

@@ -217,3 +217,6 @@ rating_distribution:
   guidance: >
     Most episodes earn 3★. Reserve 4★ for unusually strong insight; 5★ for landmark
     reference episodes only. Caps are enforced per podcast (~20% at 5★, ~30% at 4★).
+    Chinese podcasts: curated targets in config/chinese_episode_ratings.yaml; run
+    scripts/apply_chinese_podcast_ratings.py after seed/refine (also called from
+    refine_chinese_pilot.py).

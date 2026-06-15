@@ -2,7 +2,7 @@
 
 ## *Venture Capital Observer*
 
-**★★★★★** · 5/5
+**★★★☆☆** · 3/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** May 27, 2026 · **Duration** 139 min · **Read** ≈4 min
 
@@ -12,7 +12,7 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=XEhf371Aeso) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**Topics** Harness · ByteDance · 2026 VC Themes
+**Topics** Harness · BYTEDANCE · 2026
 > ### Conclusion
 >
 > Yusen, a China Fund VC observer, reframes 2026 after his cautious AI-return call drew early pushback — normal when frontier curves steepen. His investable thesis is not raw models but the Harness layer: sandboxes, checkpoints, and feedback loops that let weaker models finish long tasks. Beating ByteDance inside ByteDance's distribution game remains unlikely; edge sits in orthogonal niches and China hardware supply chains. Public investors should read this as a private-market map — API margins compress while orchestration and workflow data compound.

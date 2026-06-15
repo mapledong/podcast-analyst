@@ -12,7 +12,7 @@
 
 **收听** [YouTube](https://www.youtube.com/watch?v=ttkd0t5qTD4) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** GOOGL · AI 前沿实验室 · 模型训练
+**主题** GOOGL · AI · 模型训练
 > ### 结论
 >
 > 姚顺宇在 Anthropic 参与训练、2025 年末加入 Google Gemini 团队后判断：前沿实验室的焦虑已从「模型够不够强」转为「该押哪条产品路线」。OpenAI、Anthropic、Google 在公开基准上差距收窄，差异化转向工作流锁定、分发渠道与执行纪律——他称之为「靠谱」，而非英雄叙事。顺宇估计 Gemini 消费端市占约两成（工作假设），并以豆包语音体验说明区域产品适配可赢而不必全球智能第一。对投资者：应跟踪编程智能体、搜索与安卓漏斗、企业端绑定的商业化路径，而非榜单分差本身。
