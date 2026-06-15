@@ -23,9 +23,9 @@ export default function DiscoveryFilters({
 
   return (
     <section className="discovery-filters" aria-label="Discovery filters">
-      <div className="discovery-section">
+      <div className="discovery-section discovery-section--rating">
         <h3 className="discovery-label">Star rating</h3>
-        <div className="filter-chips filter-chips--inline">
+        <div className="filter-chips filter-chips--inline filter-chips--rating">
           {[5, 4, 3, 2, 1].map((stars) => (
             <button
               key={stars}
@@ -41,10 +41,9 @@ export default function DiscoveryFilters({
       </div>
 
       {topCompanies.length > 0 && (
-        <div className="discovery-section">
+        <div className="discovery-section discovery-section--companies">
           <h3 className="discovery-label">Companies</h3>
-          <div className="filter-chips-scroll">
-            <div className="filter-chips filter-chips--inline">
+          <div className="filter-chips filter-chips--inline filter-chips--companies">
               {topCompanies.map((term) => (
               <button
                 key={term.label}
@@ -56,7 +55,6 @@ export default function DiscoveryFilters({
                 <span className="chip-count">{term.count}</span>
               </button>
             ))}
-            </div>
           </div>
         </div>
       )}
