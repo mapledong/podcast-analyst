@@ -31,11 +31,17 @@ EN_DIR = ROOT / "data" / "approved"
 
 EPISODE_IDS = [
     "zj-ep140",
+    "zj-ep141",
+    "zj-ep142",
     "zj-ep143",
     "zj-ep144",
-    "tzs-ep180",
-    "tzs-ep185",
+    "zj-ep145",
     "tzs-ep179",
+    "tzs-ep180",
+    "tzs-ep184",
+    "tzs-ep185",
+    "tzs-ep186",
+    "tzs-ep187",
 ]
 
 

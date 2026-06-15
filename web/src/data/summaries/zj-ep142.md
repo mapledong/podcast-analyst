@@ -1,0 +1,130 @@
+# EP.142 — Yusen
+
+## *Venture Capital Observer*
+
+**★★★★★** · 5/5
+
+**Podcast** Zhang Xiaojun Podcast · **Date** May 27, 2026 · **Duration** 139 min · **Read** ≈5 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Yusen · Venture Capital Observer
+
+**Listen** [YouTube](https://www.youtube.com/watch?v=XEhf371Aeso) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** Private:Harness · ByteDance · 2026 VC Themes
+> ### Conclusion
+>
+> Yusen, a China Fund VC observer, reframes 2026 after his cautious AI-return call drew pushback: being wrong early is normal when frontier markets move fast, but the investable edge is shifting outside raw models to Harness layers, sandboxes, and persistent agent computers. He argues the next ByteDance is unlikely to beat ByteDance inside its distribution game — opportunity sits in niches incumbents ignore and in hardware-heavy China supply chains. For public-market investors the episode is a private-market signal: model APIs commoditize; durable value accrues to orchestration, feedback data loops, and application shapes ByteDance cannot easily copy.
+
+---
+
+## Background
+
+> In a 139-minute second installment of Yusen's VC Watch, Zhang Xiaojun revisits Yusen's January 2026 caution on AI equity returns — NVIDIA-led rallies made the call look early wrong, which Yusen accepts as occupational hazard for pre-seed thinking. He traces the narrative from O1 to DeepSeek scares and back to US hyperscaler strength. Harness (agent orchestration outside the model) grows more important in 2026 even if frontier models remain critical: sandboxes, persistent AI computers, and task checkpoints let weak models complete long jobs. Coding flywheels feed models with high-quality feedback — Claude Code is the cited example. Debate on the next ByteDance: beating ByteDance on its turf is hard; opportunities lie in entertainment, tools, and regions outside its ad network. Application founders still have room if they avoid head-on platform wars. Yusen details OpenAI versus Anthropic coding subsidies, Manus sandbox browsers, and why context must be user-fed through products. Investors flew to Shanghai seeking the next ByteDance while Byte alumni spin ventures — yet beating ByteDance inside its ad game remains structurally hard. Hardware and edge AI in China may surprise if application layers fragment. World-model debates recur: abundant coding capacity creates new surfaces faster than incumbents absorb — but GDP diffusion lags. Yusen walks through Manus cooperating with YouTube on sandbox browsing — models need environments to act, not just chat windows. He contrasts ChatGPT as a product wrapping instruct models versus APIs alone. Coding agent data loops (Claude Code) retrain models with real-world fix signals unlike exam benchmarks. Investors hunting next ByteDance in Shanghai should note EU apps lack China distribution; opportunities may be tools, entertainment, or hardware instead. World-model versus next-token framing is secondary to harness and sandbox layers capturing task completion.
+
+---
+
+## Key Facts
+
+> **F1** Yusen expected 2026 AI equity digestion in late 2025; NVDA and AI names rallied sharply instead — he treats 'face slapping' as normal for early VC when adoption outruns financialization scares. O1 and DeepSeek episodes showed narrative whipsaws; underlying spend and coding-agent adoption continued. Lesson: separate trading narratives from infrastructure build cycles.
+
+> **F2** Harness layer thesis: models alone are insufficient for long-horizon tasks — orchestration, sandbox browsers, persistent VMs, and periodic model checkpoints (Harness-style) unlock reliability. Value stacks outside the model API: OpenAI, Anthropic, and startups all build harnesses; context must be user-supplied through products, not dropped from the sky. Coding agents create feedback data loops that retrain models — Anthropic's Claude Code path versus ChatGPT's exam-trained base.
+
+> **F3** Next ByteDance debate: Yusen doubts a clone wins inside ByteDance's ad and content rules; investors still hunt 'next ZJ' but EU/US apps lack ByteDance's China distribution. Opportunities — entertainment, tools, Qtime-like formats, hardware in China — favor startups incumbents undervalue. If coding capacity becomes abundant, product surface area explodes; long diffusion lags mean jobs and social contracts will shift before productivity statistics catch up.
+
+> **F4** Yusen argues early VC 'face slapping' signals fast S-curves — separate trading narratives from harness-layer build cycles.
+
+> **F5** OpenAI, Anthropic, Google, and startups all invest outside-model orchestration — periodic checkpoints, tool routing, and sandbox VMs are 2026 pricing battlegrounds.
+
+> **F6** ByteDance moat is ad network plus content flywheel — Yusen argues orthogonal categories (Qtime-like entertainment, dev tools) beat head-on clones.
+
+> **F7** If coding capacity becomes abundant, surface area for new products expands — but GDP diffusion and employment contracts adjust slowly; hardware supply chain in China may capture value if apps fragment.
+
+
+---
+
+## Mental Model · *Model × Harness × Distribution Moat*
+
+> **Components**
+>
+> Frontier models necessary but not sufficient — harness, sandbox, and feedback loops own task completion. ByteDance-style distribution moats block head-on clones; edge is orthogonal niches and hardware supply chains. Early VC calls will look wrong when S-curves steepen — underwrite layers, not quarterly narratives. Yusen walks through Manus cooperating with YouTube on sandbox browsing — models need environments to act, not just chat windows. He contrasts ChatGPT as a product wrapping instruct models versus APIs
+>
+> **Application**
+>
+> Private Harness/orchestration names: watch for data flywheel proof in coding and ops. Public mega-caps (GOOGL, META): model plus harness plus distribution wins; API margin alone compresses. China hardware and edge AI benefit if application layer fragments. Avoid sizing 'next ByteDance' on ad-network logic — hunt categories platforms ignore.
+
+---
+
+
+## Key Insights
+
+> **1.** 2026 belongs to Harness even if models still matter.
+>
+> **Q** Where does Yusen see venture edge?
+>
+> **A** Long tasks need orchestration — sandboxes, persistent computers, checkpoints — not bigger context windows alone. Harness collects the feedback that retrains models (coding fixes, failed steps). Investors should map stack layers: model commodity risk rises; harness and workflow data moats deepen. Use quarterly falsifiable milestones, not headlines alone.
+
+> **2.** The next ByteDance is not ByteDance 2.0.
+>
+> **Q** What did Yusen learn from the debate?
+>
+> **A** Beating ByteDance inside its game requires its distribution and ad stack — unlikely for newcomers. Funds still fly to Shanghai seeking clones; better hunts are orthogonal entertainment/tools and overseas niches. Application founders should do what giants won't fund, not replicate feeds. Use quarterly falsifiable milestones, not headlines alone.
+
+> **3.** Being early wrong beats being late right in frontier VC.
+>
+> **Q** How to read his 2026 caution now?
+>
+> **A** Public AI rallied on capex and coding agents while his call flagged financialization risk — both can coexist. Early investors must publish views before consensus; frequent 'face slaps' signal fast-moving markets with abundant deal flow. Public investors: don't trade his timing call; extract structural harness and hardware themes. Use quarterly falsifiable milestones, not headlines alone.
+
+---
+
+## Investment Ideas
+
+> **1. Harness** · 🟡 WATCH · ●●○ Medium
+>
+> Harness/orchestration layer — Yusen frames 2026 edge outside raw models; task checkpoints and sandbox compute become pricing power if coding agents scale
+
+> **2. GOOGL** · 🟢 LONG · ●●○ Medium
+>
+> Alphabet (GOOGL): model plus harness plus YouTube/Android distribution — coding feedback loops compound; API alone is not the moat
+
+> **3. META** · 🟡 WATCH · ●○○ Low
+>
+> Meta (META): agent sandboxes and Llama ecosystem bets align with harness thesis — execution on long-horizon tasks determines ROI on AI capex
+
+---
+
+## Golden Quotes
+
+> "Getting slapped in public is normal for early investors — it often means the industry is moving fast."
+
+> "The harness outside the model is where 2026 venture edge is forming."
+
+> "You will not beat ByteDance inside ByteDance's game — look where they are structurally absent."
+
+---
+
+## Chronology
+
+> *Yusen · VC Watch 2026*
+>
+> **2025-11** Yusen warns on 2026 AI equity returns; cites O1 cycle
+>
+> **2026-01** DeepSeek scare; US AI names volatile then rebound
+>
+> **2026 Q1** Coding-agent adoption accelerates; harness stacks proliferate
+>
+> **2026-05** Records VC Watch ep.2; revisits call after rally
+>
+> **2026** Investor tours hunt 'next ByteDance' amid harness shift
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Podcast, Zhang Xiaojun, or Yusen. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=XEhf371Aeso) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

@@ -4,7 +4,9 @@ from __future__ import annotations
 
 from typing import Any
 
-REFINED: dict[str, dict[str, dict[str, Any]]] = {
+from refine_new_episodes_bodies import NEW_EPISODES
+
+_REFINED_BASE: dict[str, dict[str, dict[str, Any]]] = {
     "zj-ep140": {
         "en": {
             "keywords": ['GOOGL', 'AI Frontier Labs', 'Model Training'],
@@ -714,3 +716,5 @@ REFINED: dict[str, dict[str, dict[str, Any]]] = {
         },
     },
 }
+
+REFINED = {**_REFINED_BASE, **NEW_EPISODES}

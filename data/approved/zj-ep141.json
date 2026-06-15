@@ -20,45 +20,87 @@
     "overall": 5
   },
   "keywords": [
-    "GOOGL",
     "META",
+    "GOOGL",
     "Token Economics",
     "AI Org Design"
   ],
-  "conclusion": "placeholder",
-  "background": "placeholder",
+  "conclusion": "Lightspeed partner Freda argues the AI investment frame must shift from token volume to tokens-per-task efficiency — raw burn can rise while waste is real, and CFOs who fund coding tools on usage spikes misread productivity. Organizations are still bolting AI onto steam-engine workflows; electrification took decades because factories had to be redesigned, and relay-baton product teams must become small autonomous squads. For investors: underwrite outcome-based pricing and workflow lock-in (coding agents, harness layers), not headline token charts; META and GOOGL capex stays rational only if task efficiency and org redesign follow.",
+  "background": "In an 84-minute second installment of Freda's Investment Notes, Zhang Xiaojun speaks with Lightspeed partner Freda on tokenmaxing, organizational redesign, and human connection in an anxious AI age. Freda invests across OpenAI, Anthropic, ByteDance, Snowflake, and Robinhood from Silicon Valley. She explains tokens per task — the same job can cost tens of times more tokens across models, including hidden reasoning tokens — and why Cursor can burn more tokens without better outcomes. Meta's reported tens-of-billions AI spend and Citrini's viral coding-cost report frame industry tokenmaxing, yet she expects usage to keep rising even as pricing shifts from per-token to per-outcome (Crescendo-style customer service). Coding agents may trigger a self-improving loop that consolidates leadership; Claude versus GPT competition is closer than narratives suggest. Historical parallels — forty years from light bulbs to productivity gains, PC paradox until ERP redesign — suggest AI today is the 'motor stuffed into the steam-engine slot' phase.",
   "important_facts": [
-    "placeholder"
+    "Freda defines token economics around tokens per task, not raw volume: identical coding jobs can differ by orders of magnitude in token burn across models, including hidden reasoning tokens and tool loops. More tokens is not better — CFOs funding Cursor credits on usage spikes may confuse adoption with efficiency. Industry tokenmaxing is real (Meta AI spend, Citrini report on coding costs) yet total token demand can still rise as models improve; pricing will gradually shift from per-token to per-outcome where measurable (customer service resolution rates).",
+    "Organizational redesign is the binding constraint: steam-engine factories bolted electric motors into old layouts for years before assembly lines unlocked gains; Freda places AI today in that phase — everyone embeds AI in existing relay-baton workflows (PRD → design → dev → QA → GTM) but bottlenecks just move. Future shape: three-to-five-person squads with embedded skills and decision rights, not layered handoffs. Dario's compute versus economy adoption gap means revenue lags capability — studying org design is studying when AI becomes income.",
+    "Coding-agent race may end open leadership rotation: better AI training next-gen AI (racer self-improving loop) could make catch-up impossible once past a threshold — OpenAI, Anthropic, Google (Corey leading coding), and Meta all reorganized around coding in 2025–26. Claude versus GPT pricing subsidies signal near-parity; investors who sized software TAM at ~$100/user/month were wildly wrong as single-vendor AI revenue already exceeds that. Freda closes on loneliness in the Bay Area — human connection matters when agents handle cognition; long-term bullish on productivity but diffusion speed and breadth remain uncertain versus prior industrial revolutions."
   ],
   "mental_model": {
-    "name": "placeholder",
-    "components": "placeholder",
-    "application": "placeholder"
+    "name": "Tokens per Task × Org Redesign × Coding Flywheel",
+    "components": "Token charts deceive without task normalization — efficiency is outcome per token, not gross burn. Adoption lag follows org shape, not model IQ: motors in steam slots until workflows re-architect. Coding agents add a self-improving loop that may freeze leadership once data flywheels compound — harness and sandbox layers outside raw models capture durable value.",
+    "application": "Meta (META): AI capex rational if paired with coding productivity and outcome pricing — watch tokens per resolved task, not seat growth alone. Alphabet (GOOGL): coding org bet under Corey is distribution plus model — retention via workflow. Nvidia (NVDA): benefits from token growth and training loops regardless of which coding winner emerges. Underweight pure token-volume narratives; overweight harness, sandbox, and outcome-priced verticals. Size consumer AI names for org-redesign optionality, not plug-in copilots."
   },
   "key_insights": [
     {
-      "view": "placeholder",
-      "question": "placeholder",
-      "answer": "placeholder"
+      "view": "Tokenmaxing and rising token demand can both be true.",
+      "question": "How should investors read token burn?",
+      "answer": "Separate waste from structural demand: tokens per task is the unit of analysis — Cursor burning more per question is inefficiency, not proof of value. Outcome-based pricing (Crescendo customer service) aligns vendor and customer incentives. Early investors who modeled ~$100/month software TAM missed that AI spend per enterprise already dwarfs that — revise sizing on task depth, not seat count."
+    },
+    {
+      "view": "AI today is the electric motor in a steam-engine factory.",
+      "question": "Why productivity lags despite model capability?",
+      "answer": "Electrification took twenty to forty years after motors existed; PC productivity jumped only after ERP and supply-chain redesign in the 1990s. Companies still run relay-baton product orgs — AI shortens dev, so QA becomes bottleneck, then PRD, then GTM. Until squads re-form end-to-end, economy adoption (Dario's term) trails compute progress — org research is timing research."
+    },
+    {
+      "view": "Coding agents may end the rotating frontier-leader narrative.",
+      "question": "What changes if AI trains AI?",
+      "answer": "Engineer productivity gains from coding agents accelerated from ~15% to much higher within months; model release cadence shifted to monthly. Self-improving loops mean laggards face carriage-versus-car dynamics — close early while gaps are fuzzy, irrelevant once stable automation arrives. Claude-GPT price wars signal parity; bet on workflow data flywheels (Claude Code feedback), not single benchmark releases."
     }
   ],
   "top_investment_implications": [
     {
-      "ticker": "GOOGL",
+      "ticker": "META",
       "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Meta (META): massive AI/token spend only justified if coding agents convert to outcome efficiency — Freda frames tokenmaxing as real; track whether internal coding ROI and pricing model shift follow capex"
+    },
+    {
+      "ticker": "GOOGL",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Alphabet (GOOGL): coding-led reorg under Corey plus Gemini distribution — self-improving coding loop is strategic; tokens per task discipline determines whether capex compounds"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
       "confidence": "Low",
-      "thesis": "placeholder"
+      "thesis": "Nvidia (NVDA): token demand and AI-training-AI loops sustain compute spend even as per-task efficiency improves — chip layer wins regardless of application winner"
     }
   ],
   "golden_quotes": [
-    "placeholder"
+    "Tokens per task — not token volume — is the metric that matters; the same job can differ by tens of times.",
+    "We are bolting the electric motor into the steam-engine slot; the assembly line has not been invented yet.",
+    "Once coding agents close the self-improving loop, catching up may look like horses chasing cars."
   ],
   "chronology": {
-    "subject": "Freda",
+    "subject": "Freda · Token Economics & AI Org Design",
     "events": [
       {
+        "date": "2024–25",
+        "event": "Token pricing dominates; investors size AI on volume"
+      },
+      {
+        "date": "2025",
+        "event": "Citrini report flags coding tokenmaxing; Meta AI capex surges"
+      },
+      {
+        "date": "Early 2026",
+        "event": "Coding-agent productivity jumps; monthly model releases"
+      },
+      {
+        "date": "2026-05",
+        "event": "Freda records Investment Notes ep.2 on org redesign"
+      },
+      {
         "date": "2026",
-        "event": "placeholder"
+        "event": "Shift toward outcome-based pricing in verticals like customer service"
       }
     ]
   }

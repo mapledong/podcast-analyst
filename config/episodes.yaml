@@ -1034,6 +1034,16 @@ episodes:
   duration_minutes: 263
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep187
+  episode_number: 187
+  title: In the AI Era, How Do We Become Irreplaceable?
+  guest: Jiang Xun
+  guest_role: AI & Career Development Expert
+  date: '2026-06-15'
+  duration_minutes: 93
+  youtube_url: https://www.youtube.com/watch?v=4VuTBcjEI9g
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-renaissance-technologies
   episode_number: 186
   title: Renaissance Technologies
@@ -1043,6 +1053,16 @@ episodes:
   duration_minutes: 188
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep186
+  episode_number: 186
+  title: 'Divergent Markets: Chase Momentum or Guard Principal with Value?'
+  guest: Yongqing, Shen Shuaibo
+  guest_role: Practical Investments Co-founder, Consumer Observer
+  date: '2026-06-07'
+  duration_minutes: 90
+  youtube_url: https://www.youtube.com/watch?v=Fko6aJvRC4c
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-hermes
   episode_number: 185
   title: Hermès
@@ -1072,6 +1092,16 @@ episodes:
   duration_minutes: 223
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep184
+  episode_number: 184
+  title: Curing Cancer? CAR-T Cell Therapy — Science and Business
+  guest: Li Zonghai, Qi Changsong
+  guest_role: CARsgen CEO, Clinical Expert
+  date: '2026-05-24'
+  duration_minutes: 108
+  youtube_url: https://www.youtube.com/watch?v=YGy8A_KWWNM
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-holiday-special-2023
   episode_number: 183
   title: Holiday Special 2023
@@ -1464,6 +1494,17 @@ episodes:
   duration_minutes: 183
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep145
+  episode_number: 145
+  title: 'Oral History of SpaceX: Ex-Executive Hong Lide on Musk''s Hiring, Mega-IPO,
+    Space & AI'
+  guest: Hong Lide
+  guest_role: Former SpaceX Executive
+  date: '2026-06-12'
+  duration_minutes: 181
+  youtube_url: https://www.youtube.com/watch?v=ABtf0yehi1I
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-super-pumped-with-brian-koppelman-and-joseph-gordon-levitt
   episode_number: 144
   title: Super Pumped (with Brian Koppelman and Joseph Gordon-Levitt)
@@ -1515,6 +1556,17 @@ episodes:
   duration_minutes: 139
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep142
+  episode_number: 142
+  title: 'Yusen''s VC Watch Ep.2: Harness, Next ByteDance, 2026 Opportunities & Stanley
+    Druckenmiller'
+  guest: Yusen
+  guest_role: Venture Capital Observer
+  date: '2026-05-27'
+  duration_minutes: 139
+  youtube_url: https://www.youtube.com/watch?v=XEhf371Aeso
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-taylor-swift-acquireds-version
   episode_number: 141
   title: Taylor Swift (Acquired's Version)
@@ -1524,6 +1576,17 @@ episodes:
   duration_minutes: 158
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep141
+  episode_number: 141
+  title: 'Freda''s Investment Notes Ep.2: Tokenmaxxing, Motors in Steam Engines, Relay
+    to Basketball'
+  guest: Freda
+  guest_role: Partner, Lightspeed Venture Partners
+  date: '2026-05-18'
+  duration_minutes: 84
+  youtube_url: https://www.youtube.com/watch?v=MjTfhm5N8x8
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-caa-with-michael-ovitz
   episode_number: 140
   title: CAA (with Michael Ovitz)
