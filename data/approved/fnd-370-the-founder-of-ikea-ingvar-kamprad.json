@@ -1,0 +1,103 @@
+{
+  "episode_id": "fnd-370-the-founder-of-ikea-ingvar-kamprad",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 370,
+    "title": "The Founder of IKEA: Ingvar Kamprad",
+    "guest": "The Founder of IKEA",
+    "guest_role": "Biography · Episode 370",
+    "date": "2024-11-12",
+    "duration_minutes": 65,
+    "youtube_url": "https://www.youtube.com/watch?v=c9Crn_o5DW0",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/370-the-founder-of-ikea-ingvar-kamprad",
+      "youtube": "https://www.youtube.com/watch?v=c9Crn_o5DW0"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "Manual high-quality company batch v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "Private:IKEA",
+    "Cost Leadership",
+    "Retail Systems"
+  ],
+  "conclusion": "Ingvar Kamprad's IKEA is cost leadership turned into culture: flat-pack logistics, self-service stores, frugal headquarters, and a founder who made low prices the mission rather than a promotion. The investment lesson is that true low-cost models require every choice — design, shipping, store layout, and behavior — to reinforce the price promise.",
+  "background": "Senra reads Kamprad as a founder who embedded frugality into the operating system. IKEA did not win merely by selling cheaper furniture; it redesigned furniture around shipping, customer assembly, warehouse retailing, catalog demand, and repeatable store formats. The founder's personal thrift matters because it signaled what the company would protect. Like other Founders episodes on cost control, the IKEA story shows that cost advantage is cultural before it is financial.",
+  "important_facts": [
+    "IKEA's flat-pack model lowered shipping and storage costs by making furniture easier to transport and letting customers handle final assembly. That design decision changed the economics of bulky furniture retail, not just the look of the product.",
+    "Kamprad built self-service stores and catalogs around a simple promise: good design at prices ordinary people could afford. The company traded some customer labor for lower prices, broader selection, and scalable store economics across markets.",
+    "The founder's personal frugality reinforced company behavior. Senra treats this as a recurring founder pattern: when cost discipline comes from the person at the center, employees understand that low cost is not a temporary initiative but the identity of the business."
+  ],
+  "mental_model": {
+    "name": "Missionary Cost Leadership",
+    "components": "IKEA makes low price a design constraint. Product engineering, packaging, logistics, store layout, and customer participation all serve the same goal. Frugality is not austerity for its own sake; it is the mechanism that makes design available to millions of households.",
+    "application": "Investors should distinguish discounting from structural low cost. Discounting sacrifices margin; IKEA-style systems redesign cost out of the product. The model applies to retailers, airlines, brokers, and software companies that use system design to permanently lower customer prices."
+  },
+  "key_insights": [
+    {
+      "view": "Low price has to be engineered.",
+      "question": "Why is flat-pack so important?",
+      "answer": "It reduces shipping, storage, damage, and handling costs. The customer sees a cheaper table; the business sees a redesigned cost structure."
+    },
+    {
+      "view": "Customer labor can create value.",
+      "question": "Why make customers assemble furniture?",
+      "answer": "Because the trade-off lets IKEA lower price and expand selection. The customer accepts work when the savings and design feel worth it."
+    },
+    {
+      "view": "Founder behavior sets cost culture.",
+      "question": "Why does Kamprad's thrift matter?",
+      "answer": "Employees believe cost discipline when the founder lives it. If the leader treats frugality as identity, the organization is less likely to spend away the advantage during good times."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:IKEA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "IKEA's private structure and system-level cost advantage make it one of the clearest examples of durable retail cost leadership: design, logistics, and culture reinforce the low-price promise."
+    }
+  ],
+  "golden_quotes": [
+    "IKEA's low price is engineered into the furniture before the customer ever sees a tag.",
+    "Flat-pack is a business-model innovation disguised as packaging.",
+    "Kamprad made frugality the mission, not a quarterly cost program."
+  ],
+  "chronology": {
+    "subject": "Ingvar Kamprad · IKEA",
+    "events": [
+      {
+        "date": "1943",
+        "event": "Kamprad founds IKEA in Sweden."
+      },
+      {
+        "date": "1950s",
+        "event": "IKEA develops furniture retailing around catalogs, low prices, and flat-pack logic."
+      },
+      {
+        "date": "1960s",
+        "event": "Large-format stores and self-service economics help scale the model."
+      },
+      {
+        "date": "Late 20th century",
+        "event": "IKEA expands internationally while preserving the low-cost operating culture."
+      },
+      {
+        "date": "2024",
+        "event": "Senra reads Kamprad as a founder of system-level frugality."
+      }
+    ]
+  }
+}

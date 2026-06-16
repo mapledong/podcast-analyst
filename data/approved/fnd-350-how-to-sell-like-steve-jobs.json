@@ -1,0 +1,103 @@
+{
+  "episode_id": "fnd-350-how-to-sell-like-steve-jobs",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 350,
+    "title": "How To Sell Like Steve Jobs",
+    "guest": "How To Sell Like Steve Jobs",
+    "guest_role": "Biography · Episode 350",
+    "date": "2024-05-27",
+    "duration_minutes": 47,
+    "youtube_url": "https://www.youtube.com/watch?v=k72aCBm7Jpk",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/350-how-to-sell-like-steve-jobs",
+      "youtube": "https://www.youtube.com/watch?v=k72aCBm7Jpk"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "Manual high-quality company batch v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "AAPL",
+    "Founder Sales",
+    "Product Storytelling"
+  ],
+  "conclusion": "Selling like Steve Jobs means translating product work into customer meaning. The episode is less about charisma than clarity: know the product, simplify the message, dramatize the benefit, and make the buyer feel the future before competitors can reduce the comparison to features and price.",
+  "background": "Senra studies Jobs as a salesman, not only as a product leader. The episode connects presentation, taste, narrative, and conviction. Jobs did not sell by listing every technical detail; he framed products around what they let people do. That required ruthless editing, deep product knowledge, and emotional timing. For Apple, selling was not a separate function after engineering; it was part of product design because the story shaped how customers understood the device.",
+  "important_facts": [
+    "Jobs's sales style depended on simplification. He removed clutter from the message the same way he removed clutter from products, making the most important customer benefit easy to remember and repeat after a launch or demo.",
+    "The episode emphasizes that Jobs sold from conviction, not detached pitch technique. He could dramatize a product because he believed the device changed what users could create, hear, carry, or publish. That belief made the sales message feel like product truth rather than marketing copy.",
+    "Apple's launch culture turned storytelling into distribution. A clear keynote, memorable phrase, and live demonstration could align press, employees, developers, and customers around the same product meaning before the broader market had used the device."
+  ],
+  "mental_model": {
+    "name": "Sell The Meaning, Not The Spec Sheet",
+    "components": "Jobs's sales loop starts with product taste, then strips the message to the emotional and functional job. The pitch dramatizes a before-and-after world. Technical detail is used only when it strengthens the story; otherwise it is cut like any other product complexity.",
+    "application": "For investors, the question is whether a consumer technology company can make customers understand why a product matters. Specs commoditize quickly. Companies with narrative discipline can create adoption moments that make ecosystems and developer attention easier to mobilize."
+  },
+  "key_insights": [
+    {
+      "view": "Sales begins in product design.",
+      "question": "Why was Jobs credible as a salesman?",
+      "answer": "Because he was close to the product decisions. The story was not layered on at the end; it reflected what Apple chose to build, simplify, and emphasize."
+    },
+    {
+      "view": "Clarity beats completeness.",
+      "question": "Why not list every feature?",
+      "answer": "Customers remember the point, not the inventory. Jobs chose the few benefits that made the product feel inevitable and let the rest support the narrative."
+    },
+    {
+      "view": "Demos make the future tangible.",
+      "question": "What makes a Jobs launch work?",
+      "answer": "The audience sees a new behavior become simple in real time. That emotional moment can create demand faster than a rational feature comparison."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "AAPL",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Apple's launch discipline remains part of its demand-generation advantage. The risk is that mature categories make meaning harder to dramatize, forcing Apple to prove new use cases rather than rely on inherited Jobs-era narrative power."
+    }
+  ],
+  "golden_quotes": [
+    "Jobs sold the meaning of the product, not the inventory of features.",
+    "The keynote was product design expressed as narrative.",
+    "A great demo lets the customer feel the future before comparing specs."
+  ],
+  "chronology": {
+    "subject": "Steve Jobs · Apple Sales",
+    "events": [
+      {
+        "date": "1984",
+        "event": "The Macintosh launch shows Jobs using narrative and demonstration to define a product category."
+      },
+      {
+        "date": "1997",
+        "event": "Jobs returns to Apple and simplifies the product line and message."
+      },
+      {
+        "date": "2001",
+        "event": "iPod launch turns a technical music player into '1,000 songs in your pocket'."
+      },
+      {
+        "date": "2007",
+        "event": "iPhone launch demonstrates a new computing behavior in one keynote."
+      },
+      {
+        "date": "2024",
+        "event": "Senra studies Jobs's sales method as founder craft."
+      }
+    ]
+  }
+}

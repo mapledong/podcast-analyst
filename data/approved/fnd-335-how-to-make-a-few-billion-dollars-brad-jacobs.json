@@ -1,0 +1,103 @@
+{
+  "episode_id": "fnd-335-how-to-make-a-few-billion-dollars-brad-jacobs",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 335,
+    "title": "How To Make A Few Billion Dollars: Brad Jacobs",
+    "guest": "How To Make A Few Billion Dollars",
+    "guest_role": "Biography · Episode 335",
+    "date": "2024-01-23",
+    "duration_minutes": 72,
+    "youtube_url": "https://www.youtube.com/watch?v=-GlgArhTGbQ",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/335-how-to-make-a-few-billion-dollars-brad-jacobs",
+      "youtube": "https://www.youtube.com/watch?v=-GlgArhTGbQ"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "Manual high-quality company batch v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "XPO",
+    "Brad Jacobs",
+    "Serial Acquirers"
+  ],
+  "conclusion": "This earlier Brad Jacobs episode gives the fuller personal playbook behind the serial-acquirer pattern: study a market deeply, act before confidence feels comfortable, and build systems that make boldness repeatable. The same founder shows up again later because the model is unusually teachable for investors studying roll-ups and platform creation.",
+  "background": "Senra reads How To Make A Few Billion Dollars as a founder manual from Brad Jacobs. Compared with EP373, this episode focuses more directly on Jacobs's advice: choose huge fragmented markets, hire A players, use checklists and dashboards, move with urgency, and avoid conventional limits. Jacobs built and scaled several companies by combining intense personal ambition with a repeatable acquisition-and-integration framework. The episode is practical enough to function as an operator checklist.",
+  "important_facts": [
+    "Jacobs's core market filter is size plus fragmentation. He wants industries where consolidation can create purchasing power, better systems, and stronger service while still leaving enough acquisition targets to compound for years.",
+    "The episode emphasizes preparation before action: build target lists, study the industry, recruit high-caliber managers, and know the metrics that define success. Jacobs's confidence comes from process, not mere appetite for risk.",
+    "Across United Waste, United Rentals, XPO, and later ventures, Jacobs repeats the same pattern in different industries. That repetition is the fact investors should notice: the founder's transferable skill is platform building, not expertise in one product category."
+  ],
+  "mental_model": {
+    "name": "Repeatable Boldness",
+    "components": "Jacobs combines ambition with a process that lets ambition survive reality. The target market must be large and fragmented; the team must be excellent; the dashboard must reveal problems quickly; capital allocation must be disciplined enough that each acquisition strengthens the platform.",
+    "application": "For investors, this is a checklist for serial acquirers: large runway, founder ownership, integration metrics, acquisition sourcing, and cultural intensity. Without those ingredients, a roll-up is just leverage plus hope."
+  },
+  "key_insights": [
+    {
+      "view": "Boldness needs a system.",
+      "question": "What keeps Jacobs from being reckless?",
+      "answer": "He studies markets, hires operators, and tracks numbers relentlessly. The ambition is large, but the process breaks it into underwritable steps."
+    },
+    {
+      "view": "The best markets have many targets.",
+      "question": "Why does fragmentation matter?",
+      "answer": "It gives the platform room to buy, integrate, and improve small operators for years. If the market is already consolidated, the playbook loses its raw material."
+    },
+    {
+      "view": "Founder energy is not optional.",
+      "question": "Why is Jacobs himself central?",
+      "answer": "The model creates constant complexity. Without a founder who pushes urgency and talent standards, the organization can become a slow conglomerate instead of a compounding platform."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "XPO",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "XPO remains a useful public case for Jacobs's platform-building logic, but investors should underwrite present segment economics separately from the founder's broader serial-acquirer record."
+    }
+  ],
+  "golden_quotes": [
+    "Jacobs's edge is repeatable boldness: huge ambition disciplined by process.",
+    "A fragmented market is raw material for a platform builder.",
+    "Without integration discipline, a roll-up is leverage plus hope."
+  ],
+  "chronology": {
+    "subject": "Brad Jacobs · Platform Building",
+    "events": [
+      {
+        "date": "1990s",
+        "event": "Jacobs applies consolidation logic to United Waste and United Rentals."
+      },
+      {
+        "date": "2011",
+        "event": "Jacobs invests in and leads XPO Logistics."
+      },
+      {
+        "date": "2010s",
+        "event": "XPO scales through acquisitions and operational systems."
+      },
+      {
+        "date": "2023",
+        "event": "Jacobs publishes How To Make A Few Billion Dollars."
+      },
+      {
+        "date": "2024",
+        "event": "Senra reads the book as a practical founder playbook."
+      }
+    ]
+  }
+}

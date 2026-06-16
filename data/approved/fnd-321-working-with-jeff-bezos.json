@@ -1,0 +1,103 @@
+{
+  "episode_id": "fnd-321-working-with-jeff-bezos",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 321,
+    "title": "Working with Jeff Bezos",
+    "guest": "Working with Jeff Bezos",
+    "guest_role": "Biography · Episode 321",
+    "date": "2023-09-21",
+    "duration_minutes": 57,
+    "youtube_url": "https://www.youtube.com/watch?v=DUAQxt_rtiY",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/321-working-with-jeff-bezos",
+      "youtube": "https://www.youtube.com/watch?v=DUAQxt_rtiY"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "Manual high-quality company batch v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "AMZN",
+    "Jeff Bezos",
+    "Operating Cadence"
+  ],
+  "conclusion": "Working with Jeff Bezos shows Amazon's culture from the operator's side: high standards, written thinking, customer obsession, and direct pressure from a founder who notices weak logic. The lesson is that Amazon's mechanisms are not slogans; they are daily behaviors that force decisions to become clearer before resources are committed.",
+  "background": "Senra uses an account of working with Bezos to make Amazon's famous principles concrete. The episode is about what it feels like inside a high-standard founder company: written narratives, intense meetings, customer-first questions, and leaders expected to think from first principles. Bezos's edge is partly conceptual and partly managerial. He builds mechanisms that prevent fuzzy thinking from surviving because the document, metric, or customer question exposes it.",
+  "important_facts": [
+    "Amazon's written culture appears as an operating mechanism, not a stylistic preference. Narratives force teams to lay out assumptions, customer logic, trade-offs, and metrics before debate begins, reducing the ability to hide weak thinking behind slides.",
+    "The episode emphasizes Bezos's unusually high standards in meetings. Operators working with him had to be prepared for direct questions about customers, economics, and logic. The pressure was uncomfortable but aligned the organization around clarity.",
+    "Customer obsession shows up as a repeated decision filter. Instead of asking what competitors are doing or what internal teams prefer, Bezos pushes people back to the customer's problem and the mechanism Amazon can build to solve it repeatedly."
+  ],
+  "mental_model": {
+    "name": "Mechanisms That Expose Fuzzy Thinking",
+    "components": "Bezos's culture uses documents, customer questions, and metrics to make assumptions visible. The founder does not rely on inspiration alone; he creates a meeting format where weak logic is harder to hide. High standards become a repeatable process.",
+    "application": "For investors, Amazon's advantage is partly institutional: narratives, APIs, metrics, and customer-backward planning can survive beyond a single founder if leadership keeps using them seriously. The risk is ritualization — keeping the forms after the intellectual pressure fades."
+  },
+  "key_insights": [
+    {
+      "view": "Writing clarifies thinking.",
+      "question": "Why does Amazon prefer narratives?",
+      "answer": "A written memo forces the team to state logic, evidence, and customer impact. Slides can conceal gaps; prose makes them easier to debate."
+    },
+    {
+      "view": "High standards feel uncomfortable.",
+      "question": "What is it like working with Bezos?",
+      "answer": "The episode suggests direct pressure and demanding questions. The discomfort is part of the mechanism: weak reasoning is exposed before the company spends heavily."
+    },
+    {
+      "view": "Customer obsession is a decision filter.",
+      "question": "How does Bezos simplify debates?",
+      "answer": "He pulls decisions back to the customer's problem. That does not answer every question, but it prevents internal preference from becoming strategy."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "AMZN",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Amazon's internal mechanisms support a long-term moat if they remain intellectually alive: written narratives, customer-backward planning, and high standards can keep large-company complexity from overwhelming invention."
+    }
+  ],
+  "golden_quotes": [
+    "Amazon's documents are mechanisms for exposing fuzzy thinking.",
+    "Customer obsession is useful because it turns abstract debates into a testable decision filter.",
+    "High standards are not a poster on the wall; they are what meetings feel like."
+  ],
+  "chronology": {
+    "subject": "Jeff Bezos · Amazon Operating Culture",
+    "events": [
+      {
+        "date": "1994",
+        "event": "Bezos founds Amazon."
+      },
+      {
+        "date": "1997",
+        "event": "The first shareholder letter defines high standards and long-term thinking."
+      },
+      {
+        "date": "2000s",
+        "event": "Narratives, customer-backward documents, and internal mechanisms become central to Amazon culture."
+      },
+      {
+        "date": "2010s",
+        "event": "Amazon scales across retail, AWS, Prime, devices, logistics, and advertising."
+      },
+      {
+        "date": "2023",
+        "event": "Senra studies what working with Bezos reveals about the culture."
+      }
+    ]
+  }
+}

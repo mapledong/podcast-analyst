@@ -1,0 +1,103 @@
+{
+  "episode_id": "fnd-361-est-e-lauder",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 361,
+    "title": "Estée Lauder",
+    "guest": "Estée Lauder",
+    "guest_role": "Biography · Episode 361",
+    "date": "2024-08-18",
+    "duration_minutes": 58,
+    "youtube_url": "https://www.youtube.com/watch?v=PLWjOO_1SSU",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/361-est-e-lauder",
+      "youtube": "https://www.youtube.com/watch?v=PLWjOO_1SSU"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "Manual high-quality company batch v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "EL",
+    "Brand Building",
+    "Founder Sales"
+  ],
+  "conclusion": "Estee Lauder is founder-led brand building at street level: samples, counters, relentless selling, and personal standards turned a beauty product line into a global prestige platform. The investor lesson is that luxury and beauty moats often begin as founder behavior — teaching, demonstrating, and converting customers one interaction at a time.",
+  "background": "Senra reads Estee Lauder as a sales founder rather than a passive brand icon. The story is about department-store counters, demonstrations, gifts-with-purchase, training, and the ability to make customers feel personally seen. Lauder understood that beauty products are bought through trust and aspiration, not just formula chemistry. The company that became Estée Lauder Companies kept scaling that founder method through brands, counters, and international expansion.",
+  "important_facts": [
+    "Lauder built demand through direct selling, demonstrations, and sampling. The famous gift-with-purchase tactic worked because beauty customers needed to try products and feel special before they trusted a routine enough to repeat it.",
+    "Department-store counters were not just distribution; they were theaters for education and conversion. Lauder trained salespeople to communicate aspiration and personal attention, turning a product into a relationship that could support premium pricing.",
+    "The public company later became a portfolio of prestige beauty brands, but Senra's focus is the founder method: hustle, standards, and customer intimacy. That origin matters because beauty brands can fade quickly if they lose the selling ritual that made them trusted."
+  ],
+  "mental_model": {
+    "name": "Sampling Converts Trust",
+    "components": "Beauty is an experience good: the customer must believe the product works for her. Lauder lowers trial friction with samples, raises aspiration through counters and presentation, and reinforces repeat purchase through personal attention. Selling is education plus status transfer.",
+    "application": "For beauty investors, watch whether brand portfolios still create discovery and trust or merely buy shelf space. EL's long-term advantage depends on replenishment, prestige positioning, and counter-level execution, especially as social commerce changes how customers sample products."
+  },
+  "key_insights": [
+    {
+      "view": "Sampling is a business model tool.",
+      "question": "Why did gifts with purchase matter?",
+      "answer": "They reduced trial risk and made customers feel rewarded. In beauty, a small sample can create a habit that turns into years of repeat purchases."
+    },
+    {
+      "view": "Counters are conversion systems.",
+      "question": "Why focus on department-store selling?",
+      "answer": "The counter lets salespeople demonstrate, teach, and personalize. Lauder understood that beauty customers buy confidence as much as cream."
+    },
+    {
+      "view": "Founder standards must scale.",
+      "question": "What is the risk as beauty companies grow?",
+      "answer": "A portfolio can lose the founder's selling intensity. If discovery becomes generic and promotions replace trust, premium brands start behaving like ordinary consumer goods."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "EL",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Estée Lauder's founder story supports the long-term prestige-beauty moat, but current underwriting should test whether the company can recreate sampling, discovery, and trust in a post-department-store, China-sensitive market."
+    }
+  ],
+  "golden_quotes": [
+    "Lauder did not wait for brand awareness; she created it one demonstration at a time.",
+    "A beauty counter is a conversion system, not just a point of sale.",
+    "The sample lowers risk, but the founder's standards create trust."
+  ],
+  "chronology": {
+    "subject": "Estee Lauder · Estée Lauder Companies",
+    "events": [
+      {
+        "date": "1940s",
+        "event": "Estee Lauder begins building the company around direct selling and beauty demonstrations."
+      },
+      {
+        "date": "1950s",
+        "event": "Department-store counters and sampling tactics expand the brand."
+      },
+      {
+        "date": "1960s-1980s",
+        "event": "The company broadens its prestige beauty presence and international reach."
+      },
+      {
+        "date": "1995",
+        "event": "Estée Lauder Companies goes public."
+      },
+      {
+        "date": "2024",
+        "event": "Senra studies Lauder as a founder-sales case."
+      }
+    ]
+  }
+}

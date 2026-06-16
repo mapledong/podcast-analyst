@@ -742,6 +742,24 @@ episodes:
   duration_minutes: 54
   youtube_url: https://www.youtube.com/watch?v=ksDrpn7yNEo
   podcast: Founders
+- id: fnd-391-jimmy-iovine
+  episode_number: 391
+  title: Jimmy Iovine
+  guest: Jimmy Iovine
+  guest_role: Biography · Episode 391
+  date: '2025-06-13'
+  duration_minutes: 57
+  youtube_url: https://www.youtube.com/watch?v=spK59Aj-sj4
+  podcast: Founders
+- id: fnd-390-rare-steve-jobs-interview
+  episode_number: 390
+  title: Rare Steve Jobs Interview
+  guest: Rare Steve Jobs Interview
+  guest_role: Biography · Episode 390
+  date: '2025-06-04'
+  duration_minutes: 40
+  youtube_url: https://www.youtube.com/watch?v=yY1Llgq1VbY
+  podcast: Founders
 - id: fnd-388-jeff-bezos-s-shareholder-letters-all-of-them
   episode_number: 388
   title: 'Jeff Bezos''s Shareholder Letters: All of Them!'
@@ -760,6 +778,24 @@ episodes:
   duration_minutes: 71
   youtube_url: https://www.youtube.com/watch?v=ynlY9rIb7O8
   podcast: Founders
+- id: fnd-385-michael-dell
+  episode_number: 385
+  title: Michael Dell
+  guest: Michael Dell
+  guest_role: Biography · Episode 385
+  date: '2025-04-14'
+  duration_minutes: 108
+  youtube_url: https://www.youtube.com/watch?v=69j-tgjjZ8M
+  podcast: Founders
+- id: fnd-384-ken-griffin-founder-of-citadel-and-citadel-securities
+  episode_number: 384
+  title: 'Ken Griffin: Founder of Citadel and Citadel Securities'
+  guest: Ken Griffin
+  guest_role: Biography · Episode 384
+  date: '2025-04-01'
+  duration_minutes: 66
+  youtube_url: https://www.youtube.com/watch?v=DuYpQSMV44E
+  podcast: Founders
 - id: fnd-382-who-is-michael-ovitz-the-rise-and-fall-and-rise-of-the
   episode_number: 382
   title: 'Who Is Michael Ovitz?: The Rise and Fall (and Rise) of the Most Powerful
@@ -770,6 +806,15 @@ episodes:
   duration_minutes: 91
   youtube_url: https://www.youtube.com/watch?v=UplmZ1GgHcA
   podcast: Founders
+- id: fnd-378-the-last-oil-baron-leon-hess
+  episode_number: 378
+  title: 'The Last Oil Baron: Leon Hess'
+  guest: The Last Oil Baron
+  guest_role: Biography · Episode 378
+  date: '2025-02-10'
+  duration_minutes: 53
+  youtube_url: https://www.youtube.com/watch?v=rDAbo1Gqujg
+  podcast: Founders
 - id: fnd-376-jensen-huang-founder-of-nvidia
   episode_number: 376
   title: 'Jensen Huang: Founder of Nvidia'
@@ -778,6 +823,42 @@ episodes:
   date: '2025-01-13'
   duration_minutes: 100
   youtube_url: https://www.youtube.com/watch?v=Sywq2Ua4GXw
+  podcast: Founders
+- id: fnd-374-rare-jeff-bezos-interview
+  episode_number: 374
+  title: Rare Jeff Bezos Interview
+  guest: Rare Jeff Bezos Interview
+  guest_role: Biography · Episode 374
+  date: '2024-12-15'
+  duration_minutes: 36
+  youtube_url: https://www.youtube.com/watch?v=qTLehviusSs
+  podcast: Founders
+- id: fnd-373-breakfast-with-brad-jacobs-how-to-make-a-few-billion-do
+  episode_number: 373
+  title: Breakfast with Brad Jacobs + How To Make A Few Billion Dollars
+  guest: Breakfast with Brad Jacobs + How To Make A Few Billion Dollars
+  guest_role: Biography · Episode 373
+  date: '2024-12-06'
+  duration_minutes: 93
+  youtube_url: https://www.youtube.com/watch?v=txzX11Zf_ZA
+  podcast: Founders
+- id: fnd-372-amancio-ortega-the-genius-behind-the-inditex-group
+  episode_number: 372
+  title: 'Amancio Ortega: The Genius Behind the Inditex Group'
+  guest: Amancio Ortega
+  guest_role: Biography · Episode 372
+  date: '2024-11-29'
+  duration_minutes: 49
+  youtube_url: https://www.youtube.com/watch?v=6XYIo7-Scb8
+  podcast: Founders
+- id: fnd-370-the-founder-of-ikea-ingvar-kamprad
+  episode_number: 370
+  title: 'The Founder of IKEA: Ingvar Kamprad'
+  guest: The Founder of IKEA
+  guest_role: Biography · Episode 370
+  date: '2024-11-12'
+  duration_minutes: 65
+  youtube_url: https://www.youtube.com/watch?v=c9Crn_o5DW0
   podcast: Founders
 - id: fnd-369-elon-musk-and-the-early-days-of-spacex
   episode_number: 369
@@ -788,6 +869,15 @@ episodes:
   duration_minutes: 63
   youtube_url: https://www.youtube.com/watch?v=2hSdEkDe87s
   podcast: Founders
+- id: fnd-368-rockefeller-s-autobiography
+  episode_number: 368
+  title: Rockefeller's Autobiography
+  guest: Rockefeller's Autobiography
+  guest_role: Biography · Episode 368
+  date: '2024-10-15'
+  duration_minutes: 55
+  youtube_url: https://www.youtube.com/watch?v=seMvuxRct1Q
+  podcast: Founders
 - id: fnd-367-inside-the-contrarian-mind-of-sam-zell
   episode_number: 367
   title: Inside the Contrarian Mind of Sam Zell
@@ -796,6 +886,43 @@ episodes:
   date: '2024-10-08'
   duration_minutes: 50
   youtube_url: https://www.youtube.com/watch?v=vU3JqUt8Hhc
+  podcast: Founders
+- id: fnd-365-nick-sleep-s-letters-the-full-collection-of-the-nomad-i
+  episode_number: 365
+  title: 'Nick Sleep''s Letters: The Full Collection of the Nomad Investment Partnership
+    Letters to Partners'
+  guest: Nick Sleep's Letters
+  guest_role: Biography · Episode 365
+  date: '2024-09-16'
+  duration_minutes: 55
+  youtube_url: https://www.youtube.com/watch?v=4Y3-86dXpg4
+  podcast: Founders
+- id: fnd-363-li-lu-and-charlie-munger-and-warren-buffett
+  episode_number: 363
+  title: Li Lu and Charlie Munger and Warren Buffett
+  guest: Li Lu and Charlie Munger and Warren Buffett
+  guest_role: Biography · Episode 363
+  date: '2024-09-06'
+  duration_minutes: 84
+  youtube_url: https://www.youtube.com/watch?v=8TnhiapOfpE
+  podcast: Founders
+- id: fnd-361-est-e-lauder
+  episode_number: 361
+  title: Estée Lauder
+  guest: Estée Lauder
+  guest_role: Biography · Episode 361
+  date: '2024-08-18'
+  duration_minutes: 58
+  youtube_url: https://www.youtube.com/watch?v=PLWjOO_1SSU
+  podcast: Founders
+- id: fnd-360-robert-kierlin-founder-of-fastenal
+  episode_number: 360
+  title: 'Robert Kierlin: Founder of Fastenal'
+  guest: Robert Kierlin
+  guest_role: Biography · Episode 360
+  date: '2024-08-12'
+  duration_minutes: 56
+  youtube_url: https://www.youtube.com/watch?v=FDuAfkR6bck
   podcast: Founders
 - id: fnd-356-how-the-sun-rose-on-silicon-valley-bob-noyce-founder-of
   episode_number: 356
@@ -824,6 +951,24 @@ episodes:
   duration_minutes: 92
   youtube_url: https://www.youtube.com/watch?v=tL71OzGcewk
   podcast: Founders
+- id: fnd-350-how-to-sell-like-steve-jobs
+  episode_number: 350
+  title: How To Sell Like Steve Jobs
+  guest: How To Sell Like Steve Jobs
+  guest_role: Biography · Episode 350
+  date: '2024-05-27'
+  duration_minutes: 47
+  youtube_url: https://www.youtube.com/watch?v=k72aCBm7Jpk
+  podcast: Founders
+- id: fnd-349-how-steve-jobs-kept-things-simple
+  episode_number: 349
+  title: How Steve Jobs Kept Things Simple
+  guest: How Steve Jobs Kept Things Simple
+  guest_role: Biography · Episode 349
+  date: '2024-05-20'
+  duration_minutes: 52
+  youtube_url: https://www.youtube.com/watch?v=Mf8MZ8Iy8sE
+  podcast: Founders
 - id: fnd-347-how-walt-disney-built-his-greatest-creation-disneyland
   episode_number: 347
   title: 'How Walt Disney Built His Greatest Creation: Disneyland'
@@ -832,6 +977,33 @@ episodes:
   date: '2024-04-29'
   duration_minutes: 77
   youtube_url: https://www.youtube.com/watch?v=Wfwyk1TK1Aw
+  podcast: Founders
+- id: fnd-335-how-to-make-a-few-billion-dollars-brad-jacobs
+  episode_number: 335
+  title: 'How To Make A Few Billion Dollars: Brad Jacobs'
+  guest: How To Make A Few Billion Dollars
+  guest_role: Biography · Episode 335
+  date: '2024-01-23'
+  duration_minutes: 72
+  youtube_url: https://www.youtube.com/watch?v=-GlgArhTGbQ
+  podcast: Founders
+- id: fnd-329-charlie-munger-the-new-poor-charlie-s-almanack
+  episode_number: 329
+  title: Charlie Munger (the NEW Poor Charlie's Almanack)
+  guest: Charlie Munger (the NEW Poor Charlie's Almanack)
+  guest_role: Biography · Episode 329
+  date: '2023-12-05'
+  duration_minutes: 114
+  youtube_url: https://www.youtube.com/watch?v=e2YgnLewpN4
+  podcast: Founders
+- id: fnd-321-working-with-jeff-bezos
+  episode_number: 321
+  title: Working with Jeff Bezos
+  guest: Working with Jeff Bezos
+  guest_role: Biography · Episode 321
+  date: '2023-09-21'
+  duration_minutes: 57
+  youtube_url: https://www.youtube.com/watch?v=DUAQxt_rtiY
   podcast: Founders
 - id: fnd-310-walt-disney-and-picasso
   episode_number: 310
@@ -861,6 +1033,15 @@ episodes:
   date: '2023-01-16'
   duration_minutes: 70
   youtube_url: https://www.youtube.com/watch?v=t47NBQqlzbk
+  podcast: Founders
+- id: fnd-282-jeff-bezos-shareholder-letters
+  episode_number: 282
+  title: Jeff Bezos Shareholder Letters
+  guest: Jeff Bezos Shareholder Letters
+  guest_role: Biography · Episode 282
+  date: '2022-12-19'
+  duration_minutes: 70
+  youtube_url: https://www.youtube.com/watch?v=zt9e6vVBdP4
   podcast: Founders
 - id: bb-toast-sticky-saas
   episode_number: 247

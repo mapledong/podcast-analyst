@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T13:32:17.230Z",
+  "generatedAt": "2026-06-16T15:50:53.370Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -29,7 +29,7 @@
       "accent_color": "#2D5016",
       "youtube_url": "https://www.youtube.com/@founderspodcast1",
       "cover_url": "/covers/founders.jpg",
-      "episodeCount": 50
+      "episodeCount": 70
     },
     {
       "id": "business-breakdowns",
@@ -3648,6 +3648,77 @@
       "chronologySubject": "Michele Ferrero · Ferrero"
     },
     {
+      "id": "fnd-391-jimmy-iovine",
+      "podcastId": "founders",
+      "episodeNumber": 391,
+      "title": "Jimmy Iovine",
+      "guest": "Jimmy Iovine",
+      "displayTitle": "Jimmy Iovine",
+      "displaySubtitle": "Biography · Episode 391",
+      "guestRole": "Biography · Episode 391",
+      "date": "2025-06-13",
+      "durationMinutes": 57,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Jimmy Iovine is a talent-density case study: from 20-year-old studio insecurity to Interscope, Beats, and a multi-billion-dollar Apple exit, the pattern is the same as Jobs and Bezos — find A+ collaborators, protect taste, and keep moving between creative and technological shifts before the old business breaks.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=spK59Aj-sj4",
+      "summaryFile": "fnd-391-jimmy-iovine.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Interscope",
+        "Private:Beats",
+        "AAPL",
+        "Talent Density"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AAPL",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "The Beats acquisition shows Apple's willingness to buy cultural distribution and taste when internal product logic needs help. It is not a core Apple thesis by itself, but it explains why services, devices, and creator ecosystems can reinforce one another when Apple acquires rare talent."
+        }
+      ],
+      "chronologySubject": "Jimmy Iovine · Interscope · Beats"
+    },
+    {
+      "id": "fnd-390-rare-steve-jobs-interview",
+      "podcastId": "founders",
+      "episodeNumber": 390,
+      "title": "Rare Steve Jobs Interview",
+      "guest": "Rare Steve Jobs Interview",
+      "displayTitle": "Rare Steve Jobs Interview",
+      "displaySubtitle": "Biography · Episode 390",
+      "guestRole": "Biography · Episode 390",
+      "date": "2025-06-04",
+      "durationMinutes": 40,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "The rare Jobs interview compresses Apple's management philosophy into a hiring rule: in software and creative technology, the difference between average and great people can be 50-to-1 or 100-to-1. Jobs's answer is not process theater; it is to recruit extraordinary people, keep teams small, and let taste shape the product before bureaucracy does.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yY1Llgq1VbY",
+      "summaryFile": "fnd-390-rare-steve-jobs-interview.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AAPL",
+        "Talent Density",
+        "Product Taste"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AAPL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Apple's long-term moat rests partly on concentrated product judgment: hardware, software, retail, and services work best when elite teams make integrated decisions. The episode is a reminder that Apple's risk is not only competition, but dilution of talent density as scale rises."
+        }
+      ],
+      "chronologySubject": "Steve Jobs · Apple"
+    },
+    {
       "id": "fnd-388-jeff-bezos-s-shareholder-letters-all-of-them",
       "podcastId": "founders",
       "episodeNumber": 388,
@@ -3718,6 +3789,90 @@
       "chronologySubject": "Akio Morita · Ibuka · Sony · Made in Japan"
     },
     {
+      "id": "fnd-385-michael-dell",
+      "podcastId": "founders",
+      "episodeNumber": 385,
+      "title": "Michael Dell",
+      "guest": "Michael Dell",
+      "displayTitle": "Michael Dell",
+      "displaySubtitle": "Biography · Episode 385",
+      "guestRole": "Biography · Episode 385",
+      "date": "2025-04-14",
+      "durationMinutes": 108,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Michael Dell's story is a founder-control and capital-allocation case: a dorm-room PC company hit a public-market dead end, went private in 2013, bought EMC for $67 billion, and reemerged as an infrastructure platform. The durable lesson is that founders sometimes need ownership structure, not just strategy, to make unpopular multi-year transitions.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=69j-tgjjZ8M",
+      "summaryFile": "fnd-385-michael-dell.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "DELL",
+        "VMW",
+        "Capital Allocation",
+        "Founder Control"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "DELL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Dell's founder-control history supports the bull case that DELL is more than a cyclical PC name; infrastructure, enterprise relationships, and disciplined capital allocation can matter more than the old category label."
+        },
+        {
+          "ticker": "VMW",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "The EMC/VMware structure shows how control assets can reshape strategic options, though VMware is now part of Broadcom and no longer a standalone public thesis."
+        }
+      ],
+      "chronologySubject": "Michael Dell · Dell Technologies"
+    },
+    {
+      "id": "fnd-384-ken-griffin-founder-of-citadel-and-citadel-securities",
+      "podcastId": "founders",
+      "episodeNumber": 384,
+      "title": "Ken Griffin: Founder of Citadel and Citadel Securities",
+      "guest": "Ken Griffin",
+      "displayTitle": "Ken Griffin",
+      "displaySubtitle": "Biography · Episode 384",
+      "guestRole": "Biography · Episode 384",
+      "date": "2025-04-01",
+      "durationMinutes": 66,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Ken Griffin's Citadel story is about information advantage built legally, aggressively, and repeatedly: recruit everywhere, reverse engineer markets, manage risk daily, and reinvest profits into people and systems. The episode's strongest investing lesson is that in finance, process is the product and culture determines whether leverage compounds or kills you.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DuYpQSMV44E",
+      "summaryFile": "fnd-384-ken-griffin-founder-of-citadel-and-citadel-securities.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Citadel",
+        "Private:Citadel Securities",
+        "Risk Management",
+        "Talent Density"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Citadel",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Citadel's durable edge appears to be a repeatable learning and risk-management system, not one strategy vintage. Private ownership lets Griffin reinvest in talent and systems without public-market disclosure pressure."
+        },
+        {
+          "ticker": "Private:Citadel Securities",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Citadel Securities benefits when market complexity, flow scale, and technology intensity reward the best-capitalized market makers, though regulatory scrutiny is the key watch item."
+        }
+      ],
+      "chronologySubject": "Ken Griffin · Citadel"
+    },
+    {
       "id": "fnd-382-who-is-michael-ovitz-the-rise-and-fall-and-rise-of-the",
       "podcastId": "founders",
       "episodeNumber": 382,
@@ -3757,6 +3912,41 @@
         }
       ],
       "chronologySubject": "Michael Ovitz · CAA · Disney"
+    },
+    {
+      "id": "fnd-378-the-last-oil-baron-leon-hess",
+      "podcastId": "founders",
+      "episodeNumber": 378,
+      "title": "The Last Oil Baron: Leon Hess",
+      "guest": "The Last Oil Baron",
+      "displayTitle": "The Last Oil Baron",
+      "displaySubtitle": "Biography · Episode 378",
+      "guestRole": "Biography · Episode 378",
+      "date": "2025-02-10",
+      "durationMinutes": 53,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Leon Hess is an old-economy founder lesson in cost control, asset ownership, and operating memory. Senra's key point is simple but durable: commodity prices and profits are cyclical, but cost savings are permanent. Hess could recite station margins because he understood that in energy retail, small unit economics decide survival.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rDAbo1Gqujg",
+      "summaryFile": "fnd-378-the-last-oil-baron-leon-hess.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "HES",
+        "Energy",
+        "Cost Control"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "HES",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Hess's founder culture highlights the value of cost discipline and asset knowledge in energy, though modern HES valuation is dominated by reserves, Guyana exposure, and corporate transaction dynamics rather than Leon Hess's original retail model."
+        }
+      ],
+      "chronologySubject": "Leon Hess · Hess Corporation"
     },
     {
       "id": "fnd-376-jensen-huang-founder-of-nvidia",
@@ -3800,6 +3990,148 @@
       "chronologySubject": "Jensen Huang · Nvidia"
     },
     {
+      "id": "fnd-374-rare-jeff-bezos-interview",
+      "podcastId": "founders",
+      "episodeNumber": 374,
+      "title": "Rare Jeff Bezos Interview",
+      "guest": "Rare Jeff Bezos Interview",
+      "displayTitle": "Rare Jeff Bezos Interview",
+      "displaySubtitle": "Biography · Episode 374",
+      "guestRole": "Biography · Episode 374",
+      "date": "2024-12-15",
+      "durationMinutes": 36,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "The rare Bezos interview is a compact operating memo: build around long-term customer value, recruit exceptional people, and accept that outsiders will misunderstand experiments before they work. The value for investors is not nostalgia for early Amazon; it is a reminder that AMZN's best businesses came from compounding mechanisms that looked unreasonable at the start.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qTLehviusSs",
+      "summaryFile": "fnd-374-rare-jeff-bezos-interview.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AMZN",
+        "Founder Mental Models",
+        "Customer Obsession"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AMZN",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "The interview reinforces Amazon's core investor lens: customer obsession, high standards, and patience can create businesses that look uneconomic before scale. The risk is that later management keeps the slogans but loses the mechanism discipline."
+        }
+      ],
+      "chronologySubject": "Jeff Bezos · Amazon"
+    },
+    {
+      "id": "fnd-373-breakfast-with-brad-jacobs-how-to-make-a-few-billion-do",
+      "podcastId": "founders",
+      "episodeNumber": 373,
+      "title": "Breakfast with Brad Jacobs + How To Make A Few Billion Dollars",
+      "guest": "Breakfast with Brad Jacobs + How To Make A Few Billion Dollars",
+      "displayTitle": "Breakfast with Brad Jacobs + How To Make A Few Billion Dollars",
+      "displaySubtitle": "Biography · Episode 373",
+      "guestRole": "Biography · Episode 373",
+      "date": "2024-12-06",
+      "durationMinutes": 93,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Brad Jacobs is the serial-acquirer archetype: pick fragmented industries, buy relentlessly, integrate with discipline, and keep personal intensity high enough to repeat the game. The episode's investor value is the pattern recognition — Jacobs turns chaos into scale platforms when incentives, M&A process, and operating dashboards line up.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=txzX11Zf_ZA",
+      "summaryFile": "fnd-373-breakfast-with-brad-jacobs-how-to-make-a-few-billion-do.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "XPO",
+        "Brad Jacobs",
+        "Serial Acquirers",
+        "Capital Allocation"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "XPO",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "XPO remains the public reference point for Jacobs-style logistics consolidation and spin-off value creation, though current underwriting should separate the remaining company's fundamentals from Jacobs's historical halo."
+        }
+      ],
+      "chronologySubject": "Brad Jacobs · XPO"
+    },
+    {
+      "id": "fnd-372-amancio-ortega-the-genius-behind-the-inditex-group",
+      "podcastId": "founders",
+      "episodeNumber": 372,
+      "title": "Amancio Ortega: The Genius Behind the Inditex Group",
+      "guest": "Amancio Ortega",
+      "displayTitle": "Amancio Ortega",
+      "displaySubtitle": "Biography · Episode 372",
+      "guestRole": "Biography · Episode 372",
+      "date": "2024-11-29",
+      "durationMinutes": 49,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Amancio Ortega's Inditex story is a speed-and-feedback machine: own the link between store demand, design, production, and logistics tightly enough that Zara can refresh fashion faster than competitors. The lesson is not cheap clothing; it is that vertical integration can be a customer-sensing advantage when the whole system is built around speed.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6XYIo7-Scb8",
+      "summaryFile": "fnd-372-amancio-ortega-the-genius-behind-the-inditex-group.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "IDEXY",
+        "Zara",
+        "Vertical Integration",
+        "Fast Fashion"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "IDEXY",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Inditex's durable advantage is the operating loop behind Zara: fast feedback, controlled logistics, and markdown discipline. The bull case holds while speed and store productivity offset fashion cyclicality and online competition."
+        }
+      ],
+      "chronologySubject": "Amancio Ortega · Inditex · Zara"
+    },
+    {
+      "id": "fnd-370-the-founder-of-ikea-ingvar-kamprad",
+      "podcastId": "founders",
+      "episodeNumber": 370,
+      "title": "The Founder of IKEA: Ingvar Kamprad",
+      "guest": "The Founder of IKEA",
+      "displayTitle": "The Founder of IKEA",
+      "displaySubtitle": "Biography · Episode 370",
+      "guestRole": "Biography · Episode 370",
+      "date": "2024-11-12",
+      "durationMinutes": 65,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "Ingvar Kamprad's IKEA is cost leadership turned into culture: flat-pack logistics, self-service stores, frugal headquarters, and a founder who made low prices the mission rather than a promotion. The investment lesson is that true low-cost models require every choice — design, shipping, store layout, and behavior — to reinforce the price promise.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=c9Crn_o5DW0",
+      "summaryFile": "fnd-370-the-founder-of-ikea-ingvar-kamprad.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:IKEA",
+        "Cost Leadership",
+        "Retail Systems"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:IKEA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "IKEA's private structure and system-level cost advantage make it one of the clearest examples of durable retail cost leadership: design, logistics, and culture reinforce the low-price promise."
+        }
+      ],
+      "chronologySubject": "Ingvar Kamprad · IKEA"
+    },
+    {
       "id": "fnd-369-elon-musk-and-the-early-days-of-spacex",
       "podcastId": "founders",
       "episodeNumber": 369,
@@ -3841,6 +4173,42 @@
       "chronologySubject": "SpaceX · Falcon 1 · Eric Berger · Liftoff"
     },
     {
+      "id": "fnd-368-rockefeller-s-autobiography",
+      "podcastId": "founders",
+      "episodeNumber": 368,
+      "title": "Rockefeller's Autobiography",
+      "guest": "Rockefeller's Autobiography",
+      "displayTitle": "Rockefeller's Autobiography",
+      "displaySubtitle": "Biography · Episode 368",
+      "guestRole": "Biography · Episode 368",
+      "date": "2024-10-15",
+      "durationMinutes": 55,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Rockefeller's autobiography is the original scale-economy playbook: know costs better than rivals, reinvest patiently, choose partners carefully, and let discipline compound for decades. Senra's point is not to admire monopoly power uncritically; it is to study how obsessive cost accounting and capital allocation turned a volatile commodity market into an industrial machine.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=seMvuxRct1Q",
+      "summaryFile": "fnd-368-rockefeller-s-autobiography.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Standard Oil",
+        "Capital Allocation",
+        "Cost Control",
+        "Scale Economies"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Standard Oil",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Standard Oil no longer exists as a public company, but Rockefeller's cost and scale logic remains the template for evaluating commodity processors, logistics networks, and other businesses where basis-point improvements compound over volume."
+        }
+      ],
+      "chronologySubject": "John D. Rockefeller · Standard Oil"
+    },
+    {
       "id": "fnd-367-inside-the-contrarian-mind-of-sam-zell",
       "podcastId": "founders",
       "episodeNumber": 367,
@@ -3880,6 +4248,160 @@
         }
       ],
       "chronologySubject": "Sam Zell · Equity Office · Tribune Media"
+    },
+    {
+      "id": "fnd-365-nick-sleep-s-letters-the-full-collection-of-the-nomad-i",
+      "podcastId": "founders",
+      "episodeNumber": 365,
+      "title": "Nick Sleep's Letters: The Full Collection of the Nomad Investment Partnership Letters to Partners",
+      "guest": "Nick Sleep's Letters",
+      "displayTitle": "Nick Sleep's Letters",
+      "displaySubtitle": "Biography · Episode 365",
+      "guestRole": "Biography · Episode 365",
+      "date": "2024-09-16",
+      "durationMinutes": 55,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Nick Sleep's letters are a masterclass in patient ownership: find businesses that share scale benefits with customers, hold them through misunderstanding, and let management culture compound. The best idea is destination analysis — underwrite where the business model is going, not the noisy path of annual multiples.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4Y3-86dXpg4",
+      "summaryFile": "fnd-365-nick-sleep-s-letters-the-full-collection-of-the-nomad-i.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "BRK.B",
+        "COST",
+        "AMZN",
+        "Long-Term Investing"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "COST",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Costco is the purest public example of scale economies shared: membership loyalty, low prices, and disciplined merchandising compound when management avoids over-earning."
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Amazon fits Sleep's model when efficiency is reinvested into customer value, Prime convenience, selection, and lower friction rather than only reported margin."
+        }
+      ],
+      "chronologySubject": "Nick Sleep · Nomad Investment Partnership"
+    },
+    {
+      "id": "fnd-363-li-lu-and-charlie-munger-and-warren-buffett",
+      "podcastId": "founders",
+      "episodeNumber": 363,
+      "title": "Li Lu and Charlie Munger and Warren Buffett",
+      "guest": "Li Lu and Charlie Munger and Warren Buffett",
+      "displayTitle": "Li Lu and Charlie Munger and Warren Buffett",
+      "displaySubtitle": "Biography · Episode 363",
+      "guestRole": "Biography · Episode 363",
+      "date": "2024-09-06",
+      "durationMinutes": 84,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Li Lu, Munger, and Buffett form a chain of temperament-based investing: study relentlessly, avoid ruin, find rare compounders, and let trusted relationships compound too. The episode is strongest as a mental model for judgment — Li Lu's career shows how intellectual honesty, patience, and concentrated conviction can travel across countries and markets.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8TnhiapOfpE",
+      "summaryFile": "fnd-363-li-lu-and-charlie-munger-and-warren-buffett.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "BRK.B",
+        "BYDDF",
+        "Value Investing",
+        "China"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BYDDF",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "BYD remains the public expression of Li Lu and Munger's China-manufacturing insight, but current valuation must weigh EV competition, policy, and margins rather than relying on historical endorsement alone."
+        },
+        {
+          "ticker": "BRK.B",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Berkshire's culture is visible in the episode: patient capital, trusted relationships, and judgment over activity. The implication is cultural rather than a near-term catalyst."
+        }
+      ],
+      "chronologySubject": "Li Lu · Charlie Munger · Warren Buffett"
+    },
+    {
+      "id": "fnd-361-est-e-lauder",
+      "podcastId": "founders",
+      "episodeNumber": 361,
+      "title": "Estée Lauder",
+      "guest": "Estée Lauder",
+      "displayTitle": "Estée Lauder",
+      "displaySubtitle": "Biography · Episode 361",
+      "guestRole": "Biography · Episode 361",
+      "date": "2024-08-18",
+      "durationMinutes": 58,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "Estee Lauder is founder-led brand building at street level: samples, counters, relentless selling, and personal standards turned a beauty product line into a global prestige platform. The investor lesson is that luxury and beauty moats often begin as founder behavior — teaching, demonstrating, and converting customers one interaction at a time.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=PLWjOO_1SSU",
+      "summaryFile": "fnd-361-est-e-lauder.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "EL",
+        "Brand Building",
+        "Founder Sales"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "EL",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Estée Lauder's founder story supports the long-term prestige-beauty moat, but current underwriting should test whether the company can recreate sampling, discovery, and trust in a post-department-store, China-sensitive market."
+        }
+      ],
+      "chronologySubject": "Estee Lauder · Estée Lauder Companies"
+    },
+    {
+      "id": "fnd-360-robert-kierlin-founder-of-fastenal",
+      "podcastId": "founders",
+      "episodeNumber": 360,
+      "title": "Robert Kierlin: Founder of Fastenal",
+      "guest": "Robert Kierlin",
+      "displayTitle": "Robert Kierlin",
+      "displaySubtitle": "Biography · Episode 360",
+      "guestRole": "Biography · Episode 360",
+      "date": "2024-08-12",
+      "durationMinutes": 56,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "Robert Kierlin's Fastenal story is a quiet compounder lesson: sell boring products, serve local customers obsessively, decentralize responsibility, and let culture do the scaling. The episode is valuable because it shows how a distributor can earn durable returns without glamour when branch economics, trust, and operator discipline reinforce each other.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FDuAfkR6bck",
+      "summaryFile": "fnd-360-robert-kierlin-founder-of-fastenal.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "FAST",
+        "Founder-Led Culture",
+        "Decentralization"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "FAST",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Fastenal's founder model supports a quality-compounder thesis: local service, inventory systems, vending, and onsite relationships can sustain returns in a category that appears commoditized."
+        }
+      ],
+      "chronologySubject": "Robert Kierlin · Fastenal"
     },
     {
       "id": "fnd-356-how-the-sun-rose-on-silicon-valley-bob-noyce-founder-of",
@@ -3993,6 +4515,76 @@
       "chronologySubject": "Sam Walton · Vance Trimble"
     },
     {
+      "id": "fnd-350-how-to-sell-like-steve-jobs",
+      "podcastId": "founders",
+      "episodeNumber": 350,
+      "title": "How To Sell Like Steve Jobs",
+      "guest": "How To Sell Like Steve Jobs",
+      "displayTitle": "How To Sell Like Steve Jobs",
+      "displaySubtitle": "Biography · Episode 350",
+      "guestRole": "Biography · Episode 350",
+      "date": "2024-05-27",
+      "durationMinutes": 47,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "Selling like Steve Jobs means translating product work into customer meaning. The episode is less about charisma than clarity: know the product, simplify the message, dramatize the benefit, and make the buyer feel the future before competitors can reduce the comparison to features and price.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=k72aCBm7Jpk",
+      "summaryFile": "fnd-350-how-to-sell-like-steve-jobs.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AAPL",
+        "Founder Sales",
+        "Product Storytelling"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AAPL",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Apple's launch discipline remains part of its demand-generation advantage. The risk is that mature categories make meaning harder to dramatize, forcing Apple to prove new use cases rather than rely on inherited Jobs-era narrative power."
+        }
+      ],
+      "chronologySubject": "Steve Jobs · Apple Sales"
+    },
+    {
+      "id": "fnd-349-how-steve-jobs-kept-things-simple",
+      "podcastId": "founders",
+      "episodeNumber": 349,
+      "title": "How Steve Jobs Kept Things Simple",
+      "guest": "How Steve Jobs Kept Things Simple",
+      "displayTitle": "How Steve Jobs Kept Things Simple",
+      "displaySubtitle": "Biography · Episode 349",
+      "guestRole": "Biography · Episode 349",
+      "date": "2024-05-20",
+      "durationMinutes": 52,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Jobs's simplicity was not minimalism as taste; it was a management weapon. By reducing product lines, messages, features, and decisions to the essential, Apple made quality and accountability easier to see. The episode's lesson for investors is that focus can be a moat when it lets a company say no before complexity destroys execution.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Mf8MZ8Iy8sE",
+      "summaryFile": "fnd-349-how-steve-jobs-kept-things-simple.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AAPL",
+        "Simplicity",
+        "Product Focus"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AAPL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Apple's enduring advantage includes portfolio discipline and integrated decision-making. The simplicity lens is bullish when new products feel coherent, but investors should watch for service, device, or AI sprawl that weakens focus."
+        }
+      ],
+      "chronologySubject": "Steve Jobs · Apple Simplicity"
+    },
+    {
       "id": "fnd-347-how-walt-disney-built-his-greatest-creation-disneyland",
       "podcastId": "founders",
       "episodeNumber": 347,
@@ -4026,6 +4618,112 @@
         }
       ],
       "chronologySubject": "Walt Disney · Disneyland"
+    },
+    {
+      "id": "fnd-335-how-to-make-a-few-billion-dollars-brad-jacobs",
+      "podcastId": "founders",
+      "episodeNumber": 335,
+      "title": "How To Make A Few Billion Dollars: Brad Jacobs",
+      "guest": "How To Make A Few Billion Dollars",
+      "displayTitle": "How To Make A Few Billion Dollars",
+      "displaySubtitle": "Biography · Episode 335",
+      "guestRole": "Biography · Episode 335",
+      "date": "2024-01-23",
+      "durationMinutes": 72,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "This earlier Brad Jacobs episode gives the fuller personal playbook behind the serial-acquirer pattern: study a market deeply, act before confidence feels comfortable, and build systems that make boldness repeatable. The same founder shows up again later because the model is unusually teachable for investors studying roll-ups and platform creation.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-GlgArhTGbQ",
+      "summaryFile": "fnd-335-how-to-make-a-few-billion-dollars-brad-jacobs.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "XPO",
+        "Brad Jacobs",
+        "Serial Acquirers"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "XPO",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "XPO remains a useful public case for Jacobs's platform-building logic, but investors should underwrite present segment economics separately from the founder's broader serial-acquirer record."
+        }
+      ],
+      "chronologySubject": "Brad Jacobs · Platform Building"
+    },
+    {
+      "id": "fnd-329-charlie-munger-the-new-poor-charlie-s-almanack",
+      "podcastId": "founders",
+      "episodeNumber": 329,
+      "title": "Charlie Munger (the NEW Poor Charlie's Almanack)",
+      "guest": "Charlie Munger (the NEW Poor Charlie's Almanack)",
+      "displayTitle": "Charlie Munger (the NEW Poor Charlie's Almanack)",
+      "displaySubtitle": "Biography · Episode 329",
+      "guestRole": "Biography · Episode 329",
+      "date": "2023-12-05",
+      "durationMinutes": 114,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "The new Poor Charlie's Almanack episode is a concentrated Munger operating system: invert, avoid stupidity, use multidisciplinary models, and protect reputation and incentives. For investors, its value is not a single stock idea; it is a way to reduce decision error over decades, which is exactly how Berkshire's culture compounded.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=e2YgnLewpN4",
+      "summaryFile": "fnd-329-charlie-munger-the-new-poor-charlie-s-almanack.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "BRK.B",
+        "Charlie Munger",
+        "Mental Models",
+        "Capital Allocation"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BRK.B",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Berkshire remains the public company most directly shaped by Munger's judgment system: patient capital, decentralized trust, and avoidance of leverage. The key question is how much of that culture persists after Buffett and Munger."
+        }
+      ],
+      "chronologySubject": "Charlie Munger · Poor Charlie's Almanack"
+    },
+    {
+      "id": "fnd-321-working-with-jeff-bezos",
+      "podcastId": "founders",
+      "episodeNumber": 321,
+      "title": "Working with Jeff Bezos",
+      "guest": "Working with Jeff Bezos",
+      "displayTitle": "Working with Jeff Bezos",
+      "displaySubtitle": "Biography · Episode 321",
+      "guestRole": "Biography · Episode 321",
+      "date": "2023-09-21",
+      "durationMinutes": 57,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "Working with Jeff Bezos shows Amazon's culture from the operator's side: high standards, written thinking, customer obsession, and direct pressure from a founder who notices weak logic. The lesson is that Amazon's mechanisms are not slogans; they are daily behaviors that force decisions to become clearer before resources are committed.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DUAQxt_rtiY",
+      "summaryFile": "fnd-321-working-with-jeff-bezos.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AMZN",
+        "Jeff Bezos",
+        "Operating Cadence"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AMZN",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Amazon's internal mechanisms support a long-term moat if they remain intellectually alive: written narratives, customer-backward planning, and high standards can keep large-company complexity from overwhelming invention."
+        }
+      ],
+      "chronologySubject": "Jeff Bezos · Amazon Operating Culture"
     },
     {
       "id": "fnd-310-walt-disney-and-picasso",
@@ -4137,6 +4835,42 @@
         }
       ],
       "chronologySubject": "Warren Buffett · Charlie Munger · Peter Bevelin"
+    },
+    {
+      "id": "fnd-282-jeff-bezos-shareholder-letters",
+      "podcastId": "founders",
+      "episodeNumber": 282,
+      "title": "Jeff Bezos Shareholder Letters",
+      "guest": "Jeff Bezos Shareholder Letters",
+      "displayTitle": "Jeff Bezos Shareholder Letters",
+      "displaySubtitle": "Biography · Episode 282",
+      "guestRole": "Biography · Episode 282",
+      "date": "2022-12-19",
+      "durationMinutes": 70,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Bezos's shareholder letters are one of the best public-company operating manuals ever written: Day 1, customer obsession, high hiring bars, free cash flow, and willingness to be misunderstood. The episode turns AMZN from a ticker into a set of mechanisms investors can still use to judge whether the company is compounding or merely getting larger.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zt9e6vVBdP4",
+      "summaryFile": "fnd-282-jeff-bezos-shareholder-letters.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AMZN",
+        "Shareholder Letters",
+        "Customer Obsession",
+        "Capital Allocation"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AMZN",
+          "direction": "Long",
+          "confidence": "High",
+          "thesis": "The letters remain the strongest AMZN long-term framework: customer obsession, high standards, reinvestment, and cash-flow discipline explain why retail, AWS, ads, and logistics can compound beyond near-term margin snapshots."
+        }
+      ],
+      "chronologySubject": "Jeff Bezos · Amazon Shareholder Letters"
     },
     {
       "id": "tzs-ep187",

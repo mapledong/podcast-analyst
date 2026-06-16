@@ -1,0 +1,103 @@
+{
+  "episode_id": "fnd-360-robert-kierlin-founder-of-fastenal",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 360,
+    "title": "Robert Kierlin: Founder of Fastenal",
+    "guest": "Robert Kierlin",
+    "guest_role": "Biography · Episode 360",
+    "date": "2024-08-12",
+    "duration_minutes": 56,
+    "youtube_url": "https://www.youtube.com/watch?v=FDuAfkR6bck",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/360-robert-kierlin-founder-of-fastenal",
+      "youtube": "https://www.youtube.com/watch?v=FDuAfkR6bck"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "Manual high-quality company batch v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "FAST",
+    "Founder-Led Culture",
+    "Decentralization"
+  ],
+  "conclusion": "Robert Kierlin's Fastenal story is a quiet compounder lesson: sell boring products, serve local customers obsessively, decentralize responsibility, and let culture do the scaling. The episode is valuable because it shows how a distributor can earn durable returns without glamour when branch economics, trust, and operator discipline reinforce each other.",
+  "background": "Senra reads Kierlin as a founder of an unglamorous but exceptional business. Fastenal began with the idea of making fasteners easier to buy, then expanded through branches, vending, inventory management, and local service. The company sells small parts that can stop a customer's operation if unavailable. That makes reliability, proximity, and trust more important than the product's apparent simplicity. Kierlin's culture favored frugality, decentralization, and long-term thinking.",
+  "important_facts": [
+    "Fastenal's original category — fasteners and industrial supplies — looks boring, but stockouts can be costly for customers. The business earns relevance by being close to the customer and solving availability, replenishment, and reliability problems before they shut down work.",
+    "Kierlin built a branch-based culture that pushed responsibility near the customer. Decentralization mattered because local teams could understand local accounts, respond quickly, and build trust around service rather than compete only on price.",
+    "The public company later added vending, onsite inventory, and broader industrial distribution capabilities. Senra treats those moves as consistent with the founder logic: embed deeper in the customer's workflow and make small parts easier to manage at scale."
+  ],
+  "mental_model": {
+    "name": "Boring Parts, Critical Availability",
+    "components": "Fastenal's model turns low-glamour SKUs into high-trust service. The product may be cheap, but the cost of not having it can be high. Branch density, local accountability, and inventory systems make the distributor part of the customer's operating rhythm.",
+    "application": "For distribution investors, the test is whether the company reduces customer friction enough to avoid pure price competition. FAST's moat is strongest when it owns replenishment data, local relationships, and service reliability; weakest when customers treat the catalog as interchangeable."
+  },
+  "key_insights": [
+    {
+      "view": "Boring can be beautiful.",
+      "question": "Why is Fastenal a Founders episode?",
+      "answer": "Because boring products can create exceptional economics when availability matters. Kierlin found value where glamour investors would not look."
+    },
+    {
+      "view": "Local trust scales through culture.",
+      "question": "Why decentralize branches?",
+      "answer": "Industrial customers have local needs. Giving branch teams responsibility lets the company build relationships and respond faster than a distant centralized distributor."
+    },
+    {
+      "view": "Embed in workflow, not just procurement.",
+      "question": "What do vending and onsite inventory add?",
+      "answer": "They move Fastenal closer to the customer's operations. The deeper the distributor sits in replenishment, the harder it is to replace on price alone."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "FAST",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Fastenal's founder model supports a quality-compounder thesis: local service, inventory systems, vending, and onsite relationships can sustain returns in a category that appears commoditized."
+    }
+  ],
+  "golden_quotes": [
+    "Fastenal sells boring parts that become urgent the moment a customer does not have them.",
+    "Branch culture turns distribution from a catalog into a relationship.",
+    "The moat is not the bolt; it is reliable availability at the customer's point of need."
+  ],
+  "chronology": {
+    "subject": "Robert Kierlin · Fastenal",
+    "events": [
+      {
+        "date": "1967",
+        "event": "Fastenal is founded in Winona, Minnesota."
+      },
+      {
+        "date": "1970s-1980s",
+        "event": "The company expands branch distribution around fasteners and industrial supplies."
+      },
+      {
+        "date": "1987",
+        "event": "Fastenal goes public."
+      },
+      {
+        "date": "2000s-2010s",
+        "event": "Vending and onsite programs deepen customer workflow integration."
+      },
+      {
+        "date": "2024",
+        "event": "Senra reads Kierlin as a quiet founder-compounder case."
+      }
+    ]
+  }
+}

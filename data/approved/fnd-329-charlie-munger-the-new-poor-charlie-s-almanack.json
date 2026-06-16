@@ -1,0 +1,108 @@
+{
+  "episode_id": "fnd-329-charlie-munger-the-new-poor-charlie-s-almanack",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 329,
+    "title": "Charlie Munger (the NEW Poor Charlie's Almanack)",
+    "guest": "Charlie Munger (the NEW Poor Charlie's Almanack)",
+    "guest_role": "Biography · Episode 329",
+    "date": "2023-12-05",
+    "duration_minutes": 114,
+    "youtube_url": "https://www.youtube.com/watch?v=e2YgnLewpN4",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/329-charlie-munger-the-new-poor-charlie-s-almanack",
+      "youtube": "https://www.youtube.com/watch?v=e2YgnLewpN4"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "review_notes": "Manual high-quality company batch v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "BRK.B",
+    "Charlie Munger",
+    "Mental Models",
+    "Capital Allocation"
+  ],
+  "conclusion": "The new Poor Charlie's Almanack episode is a concentrated Munger operating system: invert, avoid stupidity, use multidisciplinary models, and protect reputation and incentives. For investors, its value is not a single stock idea; it is a way to reduce decision error over decades, which is exactly how Berkshire's culture compounded.",
+  "background": "Senra reads the updated Poor Charlie's Almanack after Munger's death made the lessons feel even more permanent. The episode covers Munger's mental models, inversion, incentives, worldly wisdom, trust, and the discipline to avoid obvious stupidity. Munger's genius was not speed or constant activity; it was building a latticework of models that helped him say no to bad decisions and yes to rare great ones. Senra treats the book as one of the core texts for founder and investor judgment.",
+  "important_facts": [
+    "Munger's central method is multidisciplinary: collect the big ideas from psychology, economics, engineering, biology, math, and history, then use them together. The goal is not trivia but better judgment when real incentives and uncertainty collide.",
+    "Inversion appears repeatedly: instead of asking only how to succeed, ask how to fail and avoid those behaviors. For Munger, avoiding stupidity, leverage, bad incentives, and reputation damage is not secondary; it is the foundation that lets compounding continue.",
+    "The Berkshire connection is cultural. Buffett and Munger built around patience, trust, decentralized managers, and rare big decisions. Senra emphasizes that Munger's advice is useful because it shaped actual capital allocation over decades, not because it sounds clever."
+  ],
+  "mental_model": {
+    "name": "Avoid Stupidity, Then Compound",
+    "components": "Munger's model starts with error reduction. Use a latticework of mental models, invert problems, respect incentives, avoid envy and leverage, and protect reputation. After removing common ways to fail, patience and concentrated action on rare opportunities become possible.",
+    "application": "For investors, Munger is a process benchmark. Before buying a company, test incentives, leverage, management honesty, competitive advantage, and psychological traps. The best investments often come from doing fewer things with fewer errors rather than predicting more variables."
+  },
+  "key_insights": [
+    {
+      "view": "Inversion is a practical tool.",
+      "question": "Why ask how to fail?",
+      "answer": "Because many disasters are predictable. If leverage, bad partners, incentives, or ego can kill the outcome, removing them improves the odds before brilliance is required."
+    },
+    {
+      "view": "Models need to be multidisciplinary.",
+      "question": "Why not specialize narrowly?",
+      "answer": "Business problems include incentives, psychology, scale, competition, and math. One discipline creates blind spots; a latticework gives the investor more ways to see reality."
+    },
+    {
+      "view": "Reputation is an economic asset.",
+      "question": "Why does Munger talk so much about trust?",
+      "answer": "Trust lowers friction, attracts better people, and protects the ability to act. Berkshire's decentralized model works because reputation and incentives substitute for bureaucracy."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "BRK.B",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Berkshire remains the public company most directly shaped by Munger's judgment system: patient capital, decentralized trust, and avoidance of leverage. The key question is how much of that culture persists after Buffett and Munger."
+    }
+  ],
+  "golden_quotes": [
+    "Invert, always invert: many hard problems become easier when you first remove obvious ways to fail.",
+    "A latticework of models is useful because reality does not arrive labeled by academic department.",
+    "Avoiding stupidity is not modest advice; it is the foundation for decades of compounding."
+  ],
+  "chronology": {
+    "subject": "Charlie Munger · Poor Charlie's Almanack",
+    "events": [
+      {
+        "date": "1924",
+        "event": "Charlie Munger is born."
+      },
+      {
+        "date": "1950s-1960s",
+        "event": "Munger develops legal, business, and investing experience before joining Buffett's orbit."
+      },
+      {
+        "date": "1978",
+        "event": "Munger becomes Berkshire Hathaway vice chairman."
+      },
+      {
+        "date": "2005",
+        "event": "Poor Charlie's Almanack collects Munger speeches and mental models."
+      },
+      {
+        "date": "2023",
+        "event": "Munger dies at age 99; the updated Almanack renews attention to his system."
+      },
+      {
+        "date": "2023",
+        "event": "Senra reads the new edition as a core judgment manual."
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "episode_id": "fnd-368-rockefeller-s-autobiography",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 368,
+    "title": "Rockefeller's Autobiography",
+    "guest": "Rockefeller's Autobiography",
+    "guest_role": "Biography · Episode 368",
+    "date": "2024-10-15",
+    "duration_minutes": 55,
+    "youtube_url": "https://www.youtube.com/watch?v=seMvuxRct1Q",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/368-rockefeller-s-autobiography",
+      "youtube": "https://www.youtube.com/watch?v=seMvuxRct1Q"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "review_notes": "Manual high-quality company batch v4.10",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "Private:Standard Oil",
+    "Capital Allocation",
+    "Cost Control",
+    "Scale Economies"
+  ],
+  "conclusion": "Rockefeller's autobiography is the original scale-economy playbook: know costs better than rivals, reinvest patiently, choose partners carefully, and let discipline compound for decades. Senra's point is not to admire monopoly power uncritically; it is to study how obsessive cost accounting and capital allocation turned a volatile commodity market into an industrial machine.",
+  "background": "Senra revisits Rockefeller in his own words, emphasizing thrift, focus, partnership standards, and the habit of tracking details. The episode fits with Carnegie and Hess: profits and prices move, but costs can be studied and improved. Rockefeller's Standard Oil was built in a chaotic early oil market where transportation, refining yields, financing, and trust mattered. The autobiography turns the myth into operating principles: avoid speculation, know the numbers, compound savings, and pick associates who strengthen the system.",
+  "important_facts": [
+    "Rockefeller entered the oil business when the industry was volatile, fragmented, and prone to waste. His advantage came from refining economics, transportation terms, reinvestment, and a willingness to study small cost differences that competitors ignored during boom periods.",
+    "Senra emphasizes Rockefeller's repeated lessons on thrift and accounting. The founder's early bookkeeping habit mattered because it trained him to see cost, credit, and cash flow as daily facts rather than vague outcomes. That discipline scaled into Standard Oil's industrial organization.",
+    "Standard Oil's power came from cumulative advantages: better purchasing, lower waste, stronger logistics, financing discipline, and managers selected for reliability. The episode treats these as operating lessons while acknowledging that the resulting monopoly became one of the defining antitrust cases in American business history."
+  ],
+  "mental_model": {
+    "name": "Compound Every Basis Point Of Cost",
+    "components": "Rockefeller's model begins with exact accounting and ends with system power. Each small saving in refining, transport, purchasing, and capital cost becomes larger when applied across volume. The founder's job is to build a machine where every operational improvement repeats thousands of times.",
+    "application": "Investors should look for companies that can reinvest cost advantages into scale, service, or price. The caution is governance: the same compounding machine that creates value can invite regulatory backlash if market power outruns social permission."
+  },
+  "key_insights": [
+    {
+      "view": "Accounting is strategic.",
+      "question": "Why does Senra care about Rockefeller's bookkeeping?",
+      "answer": "Because it trained Rockefeller to see the business through cash, cost, credit, and waste. The numbers were not after-the-fact reporting; they were how he made decisions."
+    },
+    {
+      "view": "Scale multiplies small savings.",
+      "question": "How did Standard Oil turn cost discipline into power?",
+      "answer": "A tiny refining or transport advantage matters more when volume is huge. Rockefeller compounded small operational edges until they became structural advantages."
+    },
+    {
+      "view": "Partner selection is capital allocation.",
+      "question": "What role did people play in the machine?",
+      "answer": "Rockefeller chose associates for reliability, judgment, and discipline. In a volatile market, a poor partner could destroy credit and reputation faster than a bad price move."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Standard Oil",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Standard Oil no longer exists as a public company, but Rockefeller's cost and scale logic remains the template for evaluating commodity processors, logistics networks, and other businesses where basis-point improvements compound over volume."
+    }
+  ],
+  "golden_quotes": [
+    "Rockefeller turned bookkeeping into an operating weapon.",
+    "In a commodity market, the durable advantage is often the cost line everyone else rounds away.",
+    "Small savings become strategy when volume lets them repeat thousands of times."
+  ],
+  "chronology": {
+    "subject": "John D. Rockefeller · Standard Oil",
+    "events": [
+      {
+        "date": "1839",
+        "event": "John D. Rockefeller is born."
+      },
+      {
+        "date": "1850s",
+        "event": "Rockefeller begins work as a bookkeeper and develops detailed accounting habits."
+      },
+      {
+        "date": "1860s",
+        "event": "He enters oil refining as the petroleum industry expands."
+      },
+      {
+        "date": "1870",
+        "event": "Standard Oil is formed."
+      },
+      {
+        "date": "1911",
+        "event": "Standard Oil is broken up under U.S. antitrust law."
+      },
+      {
+        "date": "2024",
+        "event": "Senra revisits Rockefeller's autobiography for operating lessons."
+      }
+    ]
+  }
+}
