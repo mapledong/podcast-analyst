@@ -12,7 +12,7 @@
 
 **Listen** [YouTube](https://www.youtube.com/watch?v=KR4aulvfQto) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**Topics** Kweichow Moutai (600519.SZ) · PDD · MOUTAI · CHANNEL
+**Topics** Kweichow Moutai (600519.SZ) · PDD · CHANNEL
 > ### Conclusion
 >
 > Baijiu veteran Du Jiuge, recorded Jan 11 2026, walks Moutai channel reform — flattening tiers, digital traceability, and fighting fake supply — while PDD alcohol subsidies distort online pricing. Kweichow Moutai (600519.SZ) Watch on批价 stability; PDD Watch on subsidy-driven volume versus brand damage to premium liquor.

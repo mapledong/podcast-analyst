@@ -2,7 +2,7 @@
 
 ## *Former SpaceX Executive*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** Jun 12, 2026 · **Duration** 181 min · **Read** ≈4 min
 

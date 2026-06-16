@@ -2,7 +2,7 @@
 
 ## *Pop Mart: Why Did the Stock Fall After RMB 37.1B Revenue? IP, Fashion Risk & PE Debate*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** Apr 20, 2026 · **Duration** 67 min · **Read** ≈5 min
 

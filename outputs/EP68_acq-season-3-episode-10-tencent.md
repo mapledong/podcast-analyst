@@ -12,7 +12,7 @@
 
 **Listen**  · [Acquired](https://www.acquired.fm/episodes/season-3-episode-10-tencent) · [Apple](https://podcasts.apple.com/podcast/acquired/id1050462261) · [Spotify](https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx)
 
-**Topics** WeChat Super-App · China Gaming · Portfolio Investing
+**Topics** WECHAT · CHINA · PORTFOLIO
 > ### Conclusion
 >
 > Ben and David close Season 3's China series with Tencent — Pony Ma's 1998 Shenzhen team evolving from pager software to QQ (900M+ peak PC IM users), WeChat (1B+ MAU super-app), and the world's largest gaming business via Riot (League of Legends), Epic (Fortnite), and domestic titles. Tencent's investment portfolio — Snap (≈12%), Tesla (≈5%), Spotify, and hundreds of stakes — makes it a shadow venture firm atop social distribution. 2018 market cap ranked among global top 10 (≈$400B+ era). The episode frames Tencent as consumer OS in China: messaging, payments, gaming, and cloud in one conglomerate — with regulatory gaming-approval pauses and BAT rivalry as permanent overhang.
@@ -94,7 +94,7 @@
 
 ## Investment Ideas
 
-> **1. 0700.HK** · 🟡 WATCH · ●●○ Medium
+> **1. TCEHY** · 🟡 WATCH · ●●○ Medium
 >
 > Super-app + gaming cash flow + portfolio NAV — monitor regulatory gaming/content approvals, WeChat payment share versus Alipay, and mark-to-market on listed stakes (Snap, Tesla).
 

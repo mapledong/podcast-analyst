@@ -1,0 +1,107 @@
+{
+  "episode_id": "bb-kaspi-kz-the-kazakh-super-app",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 204,
+    "title": "Kaspi.kz: The Kazakh Super-App",
+    "guest": "Kaspi.kz",
+    "guest_role": "Public · KSPI",
+    "date": "2025-01-22",
+    "duration_minutes": 55,
+    "youtube_url": "https://www.youtube.com/watch?v=wDtXE7lowH8",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "acquired": "https://joincolossus.com/episode/kaspi-kz-the-kazakh-super-app/",
+      "youtube": "https://www.youtube.com/watch?v=wDtXE7lowH8"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "KSPI",
+    "Kazakhstan Fintech",
+    "Super App"
+  ],
+  "conclusion": "Kaspi shows how a focused product team can digitize an entire country faster than incumbents. With roughly 14 million monthly users in a 20 million population market, the company still has runway in services and retail, and now adds a Turkish growth option through Hepsiburada. The key to underwriting KSPI is whether product quality and trust remain the first KPI as complexity increases.",
+  "background": "Matt Reustle interviews Kaspi co-founder and CEO Mikhail Lomtadze on how a crisis-era Kazakh bank became a full super-app platform. Kaspi combines payments, ecommerce, fintech, travel, grocery, and government services in one login. Lomtadze frames the operating philosophy as extreme simplification: launch the minimum useful feature, refine from customer feedback, and kill products that fail to improve users' lives. The conversation links Kazakhstan's digital policy push with Kaspi's product execution and details why management sees quality, not growth-at-any-cost, as the core moat.",
+  "important_facts": [
+    "Kaspi operates in a country of about 20 million people with over 14 million monthly active users and roughly 67% daily engagement among MAUs. Management cites approximately $80 billion in payment volumes, around $10 billion marketplace GMV, and about $20 billion in financing volumes, while targeting net income above $2 billion with ~25% growth.",
+    "Cashless penetration in Kazakhstan rose from roughly 10–15% around 2016 to about 90% today. Kaspi's closed-loop payment network, QR payments, and P2P transfer rails were central to this shift, and management emphasizes lower-cost acceptance versus traditional card rails for merchants.",
+    "Kaspi announced an agreement to acquire a 65% stake in Turkish marketplace Hepsiburada, expanding addressable population from ~20 million to over 100 million. The target market in Turkey is materially larger, and Kaspi intends to apply its service expansion playbook around merchant tools, payments, and user experience improvements."
+  ],
+  "mental_model": {
+    "name": "Quality-Led Super-App Compounding",
+    "components": "Start with one high-frequency utility, then layer adjacent products only when each one improves user outcomes and earns strong NPS. Keep product teams accountable to user recommendations rather than pure financial KPIs. Use one account and one interface to reduce friction and raise cross-service adoption.",
+    "application": "For KSPI, the question is not whether the app can add another feature; it is whether each new vertical keeps engagement and trust high enough to strengthen the full ecosystem. Investors should track MAU depth, product-level satisfaction, and expansion economics in Turkey as proof that Kaspi's process travels beyond Kazakhstan."
+  },
+  "key_insights": [
+    {
+      "view": "Kaspi built behavior, not just software.",
+      "question": "Why is its super-app model resilient?",
+      "answer": "The company spent years turning daily payments and utility use into default behavior. When one app handles transfers, bills, shopping, and services, user time and trust become difficult for single-purpose challengers to displace."
+    },
+    {
+      "view": "Extreme simplification can be a growth strategy.",
+      "question": "How does Kaspi scale products quickly?",
+      "answer": "Management launches a minimal feature set first, then iterates with call-backed customer feedback. That lowers launch complexity, keeps support requirements manageable, and speeds adoption."
+    },
+    {
+      "view": "Government integration deepens utility.",
+      "question": "What role do public services play in moat creation?",
+      "answer": "Kaspi's app became a channel for licenses, registrations, and tax flows, adding non-discretionary use cases. This makes the app less cyclical than pure commerce platforms and increases daily relevance."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "KSPI",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Kaspi pairs high engagement in a still-underpenetrated services market with disciplined product iteration and attractive profitability. If Turkish expansion executes without eroding quality metrics, earnings power can compound beyond the Kazakhstan base."
+    }
+  ],
+  "golden_quotes": [
+    "Our mission is to improve people's lives by developing world-class mobile services.",
+    "If net promoter score is negative, we either drastically change the product or kill it.",
+    "A 20 million market means we cannot afford unhappy users."
+  ],
+  "chronology": {
+    "subject": "Kaspi.kz",
+    "events": [
+      {
+        "date": "2007",
+        "event": "Lomtadze and partners step into a traditional Kazakh bank after crisis conditions."
+      },
+      {
+        "date": "2010s",
+        "event": "Payments platform scales and helps cashless adoption accelerate."
+      },
+      {
+        "date": "2014+",
+        "event": "Marketplace expansion begins, later adding travel and merchant tools."
+      },
+      {
+        "date": "2020",
+        "event": "Company lists in London amid rapid super-app adoption."
+      },
+      {
+        "date": "2024",
+        "event": "Kaspi lists on Nasdaq, expanding global investor access."
+      },
+      {
+        "date": "2025",
+        "event": "Agreement announced to buy 65% of Hepsiburada in Turkey."
+      }
+    ]
+  }
+}

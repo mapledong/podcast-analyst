@@ -2,7 +2,7 @@
 
 ## *Partner, Lightspeed Venture Partners*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** May 18, 2026 · **Duration** 84 min · **Read** ≈5 min
 

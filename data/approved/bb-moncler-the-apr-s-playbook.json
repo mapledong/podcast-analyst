@@ -1,0 +1,107 @@
+{
+  "episode_id": "bb-moncler-the-apr-s-playbook",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 218,
+    "title": "Moncler: The Après Playbook",
+    "guest": "Moncler",
+    "guest_role": "Private · Moncler",
+    "date": "2025-05-30",
+    "duration_minutes": 59,
+    "youtube_url": "https://www.youtube.com/watch?v=7falKgxDbOc",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "acquired": "https://joincolossus.com/episode/moncler-the-apres-playbook/",
+      "youtube": "https://www.youtube.com/watch?v=7falKgxDbOc"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "Private:Moncler",
+    "Luxury Outerwear",
+    "Brand Compounding"
+  ],
+  "conclusion": "Moncler demonstrates how disciplined brand stewardship can convert a niche outerwear heritage into a global luxury growth platform. The business combines technical credibility, fashion relevance, and tight distribution control to protect pricing power. The investment debate centers on whether management can keep brand heat high while scaling Stone Island and broader category expansion.",
+  "background": "Matt Reustle and Baillie Gifford's Chris Davies revisit Moncler's journey from mountain equipment roots to modern luxury icon under Remo Ruffini. The discussion explores the brand's three-pillar architecture (core collection, Grenoble, and Genius), the strategic role of scarcity, and why customer experience execution matters as much as product craftsmanship. It also examines Stone Island as a second growth engine with room for direct-to-consumer and geographic expansion.",
+  "important_facts": [
+    "Moncler Group generated around €3.1 billion in revenue, with Moncler the dominant contributor and Stone Island still a smaller but growing share. Over long periods, the company has compounded top-line and earnings at attractive rates while maintaining strong luxury-level profitability.",
+    "Direct-to-consumer penetration is high in Moncler and rising in Stone Island from lower historical levels. This channel shift supports better control of brand presentation, pricing, and customer data feedback loops.",
+    "Stone Island was acquired at roughly €1.15 billion enterprise value and has since expanded materially in scale, with progress in Asia and DTC mix. Management sees a long runway from geographic expansion and category development."
+  ],
+  "mental_model": {
+    "name": "Scarcity-Led Luxury Operating System",
+    "components": "Protect brand equity through selective distribution, premium experience, and disciplined inventory management. Reinforce relevance with controlled innovation cycles like designer collaborations while preserving core product identity. Use DTC scale to improve customer intimacy and pricing confidence.",
+    "application": "For Moncler, monitor full-price sell-through, DTC mix, and execution in Stone Island international expansion. The model works when growth is guided by brand strength rather than volume maximization."
+  },
+  "key_insights": [
+    {
+      "view": "Brand identity can be both technical and aspirational.",
+      "question": "Why has Moncler sustained premium pricing?",
+      "answer": "Its mountaineering heritage anchors product authenticity while modern design and marketing keep cultural relevance high across luxury consumer segments."
+    },
+    {
+      "view": "DTC is strategic, not just margin accretive.",
+      "question": "What does channel mix change unlock?",
+      "answer": "Greater control over distribution lets Moncler shape experience, test demand, and protect scarcity, which are central to long-term luxury economics."
+    },
+    {
+      "view": "Stone Island is platform optionality.",
+      "question": "Why does this acquisition matter beyond size?",
+      "answer": "It broadens demographic reach and provides a second brand engine that can replicate parts of Moncler's playbook over time."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Moncler",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Moncler remains a high-quality luxury operator with durable brand economics and meaningful optionality from Stone Island scaling. Execution risk exists, but governance and operating discipline are clear strengths."
+    }
+  ],
+  "golden_quotes": [
+    "Never compromise and never get bored so we don't bore others.",
+    "Inventory discipline is an investment in the brand.",
+    "Moncler moved from the slopes to the streets without losing identity."
+  ],
+  "chronology": {
+    "subject": "Moncler",
+    "events": [
+      {
+        "date": "1952",
+        "event": "Moncler founded near Grenoble with mountain-focused product roots."
+      },
+      {
+        "date": "1968",
+        "event": "Technical credibility reinforced through Olympic-era visibility."
+      },
+      {
+        "date": "1980s",
+        "event": "Brand enters fashion culture through Italian urban adoption."
+      },
+      {
+        "date": "2003-2013",
+        "event": "Remo Ruffini acquires and transforms Moncler; IPO follows."
+      },
+      {
+        "date": "2018",
+        "event": "Genius collaboration platform launches to sustain creative velocity."
+      },
+      {
+        "date": "2020-2025",
+        "event": "Stone Island acquired and integrated with expanding global footprint."
+      }
+    ]
+  }
+}

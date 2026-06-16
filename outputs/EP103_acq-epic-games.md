@@ -12,7 +12,7 @@
 
 **Listen**  · [Acquired](https://www.acquired.fm/episodes/epic-games) · [Apple](https://podcasts.apple.com/podcast/acquired/id1050462261) · [Spotify](https://open.spotify.com/show/2HI3KdjtJnr3E8B4W8Y0Yx)
 
-**Topics** Unreal Engine · App Store War · Fortnite
+**Topics** UNREAL · APP · FORTNITE
 > ### Conclusion
 >
 > Epic Games is Tim Sweeney's 30-year crusade against software rent-seekers — from ZZT shareware (keeping 100% vs. retail's 10–15%) through Unreal Engine licensing, Tencent's 40% stake ($330M, 2012), and Fortnite Battle Royale's 10M players in two weeks (September 2017). Epic's 2018 metrics: $5.6B revenue, $3B profit at $15B Tencent valuation (5x EBITDA). The Epic Games Store undercuts Steam's 30% with 12% (engine royalty included). August 2020: Epic provoked Apple/Google by enabling direct V-Bucks payments, got Fortnite delisted, and released a 1984-parody video calling Tim Cook the villain. Tim's vision: lower take rates, cross-platform metaverse infrastructure — Fortnite as hangout (Travis Scott 14M attendees), Unreal for Hollywood. Powers: switching costs on Unreal (≈$1.5B engine revenue), network effects in cross-platform play.
@@ -98,7 +98,7 @@
 >
 > Epic's antitrust crusade and developer-account ban threat test App Store 30% policy; Unreal Engine dependency gives Epic leverage Apple cannot ignore without harming its own developer ecosystem.
 
-> **2. 0700.HK** · 🟡 WATCH · ●●○ Medium
+> **2. TCEHY** · 🟡 WATCH · ●●○ Medium
 >
 > Tencent's 40% Epic stake and 2018 $15B valuation mark another multi-billion winner in Tencent's king-maker portfolio alongside Pinduoduo and Meituan.
 

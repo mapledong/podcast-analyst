@@ -1,0 +1,107 @@
+{
+  "episode_id": "bb-goosehead-insuring-coverage",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 212,
+    "title": "Goosehead: Insuring Coverage",
+    "guest": "Goosehead",
+    "guest_role": "Public · GSHD",
+    "date": "2025-04-09",
+    "duration_minutes": 69,
+    "youtube_url": "https://www.youtube.com/watch?v=dL9XOw6Sk04",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "acquired": "https://joincolossus.com/episode/goosehead-insuring-coverage/",
+      "youtube": "https://www.youtube.com/watch?v=dL9XOw6Sk04"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "GSHD",
+    "Independent Insurance",
+    "Agent Productivity"
+  ],
+  "conclusion": "Goosehead built a structurally different personal-lines brokerage by separating sales from service and using referral-driven distribution instead of heavy consumer ad spend. In a difficult housing and insurance cycle, the company reset costs and improved producer productivity rather than stalling growth. GSHD's long-term outcome depends on maintaining agent quality while scaling partner channels and technology-led workflows.",
+  "background": "Matt Reustle and Jeff Colette analyze Goosehead's rise from a founder-led insurance agency into a national independent personal-lines distributor. The discussion highlights how lender and realtor referrals, centralized service teams, and proprietary quoting tools changed unit economics for agents. It also covers the 2022-2024 reset period, where management culled underperforming capacity, tightened recruiting standards, and rebuilt operating leverage in a tougher market.",
+  "important_facts": [
+    "Goosehead wrote approximately $3.8 billion of total written premium in 2024, growing roughly 29% year over year, while still representing under 1% share of the broader personal-lines market. In Texas, its core market, share in the home-purchase channel was discussed near the high-teens level.",
+    "The company operates with around 2,500 producers across corporate and franchise channels, including roughly 2,100 franchise producers. Management emphasized productivity gains, with franchise producer productivity up sharply in 2024 after system-wide quality improvements.",
+    "During the 2022-2024 adjustment, corporate producer count and franchise count were rationalized, while EBITDA margins improved materially toward the low-30% range. The business also continued developing enterprise partnerships that feed higher-quality inbound insurance demand."
+  ],
+  "mental_model": {
+    "name": "Referral Engine With Centralized Service",
+    "components": "Acquire demand through loan officers and realtors at low customer-acquisition cost, let sales agents focus on closing, and centralize service operations for retention and consistency. Pair broad carrier access with workflow technology to improve quote speed and conversion. Scale through franchise economics where incremental growth carries high operating leverage.",
+    "application": "For GSHD, monitor producer quality, referral-partner depth, and retention quality rather than raw headcount alone. If productivity and partner economics stay strong, growth can remain durable even with housing turnover volatility."
+  },
+  "key_insights": [
+    {
+      "view": "Distribution design is the moat.",
+      "question": "Why did Goosehead grow despite macro pressure?",
+      "answer": "Its referral model brings high-intent customers during mortgage workflows, lowering acquisition costs and supporting conversion even when overall transaction volumes are weak."
+    },
+    {
+      "view": "Agent quality beats agent quantity.",
+      "question": "What changed after 2022?",
+      "answer": "Management shifted from broad recruiting to performance-focused capacity, improving unit productivity and margin trajectory across both corporate and franchise channels."
+    },
+    {
+      "view": "Service separation improves economics.",
+      "question": "Why split sales and service functions?",
+      "answer": "Sales agents maximize production while centralized service teams handle policy support and renewals. That specialization raises efficiency and retention quality over time."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "GSHD",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Goosehead's referral-led model and franchise operating leverage can compound as insurance markets normalize and enterprise channels scale. Execution on producer quality and retention remains the key variable."
+    }
+  ],
+  "golden_quotes": [
+    "The company built a business around old houses and new referrals.",
+    "Productivity, not raw agent count, drives the economics.",
+    "Referral partnerships are shared outcomes, not paid lead arbitrage."
+  ],
+  "chronology": {
+    "subject": "Goosehead Insurance",
+    "events": [
+      {
+        "date": "2003",
+        "event": "Company founded by Mark and Robyn Jones after identifying friction in home-closing insurance workflows."
+      },
+      {
+        "date": "2012",
+        "event": "Franchise model launched to expand distribution with lower incremental capital."
+      },
+      {
+        "date": "2018",
+        "event": "Public listing increases capital access and brand awareness."
+      },
+      {
+        "date": "2022",
+        "event": "Housing downturn and hard insurance market prompt strategic reset."
+      },
+      {
+        "date": "2023-2024",
+        "event": "Productivity-led recovery lifts margins and enterprise channel momentum."
+      },
+      {
+        "date": "2025+",
+        "event": "Management scales staffing programs and embedded distribution partnerships."
+      }
+    ]
+  }
+}

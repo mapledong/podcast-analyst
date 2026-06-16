@@ -2,7 +2,7 @@
 
 ## *Chairman & CEO, XPeng*
 
-**★★★★☆** · 4/5
+**★★★★★** · 5/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** May 28, 2026 · **Duration** 86 min · **Read** ≈5 min
 

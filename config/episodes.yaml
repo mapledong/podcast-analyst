@@ -970,6 +970,69 @@ episodes:
   duration_minutes: 73
   youtube_url: ''
   podcast: Business Breakdowns
+- id: bb-compass-real-estate-revolution
+  episode_number: 226
+  title: 'Compass: Real Estate Revolution'
+  guest: Compass
+  guest_role: Public · COMP
+  date: '2025-08-13'
+  duration_minutes: 62
+  youtube_url: https://www.youtube.com/watch?v=T7zvk9VzxM4
+  podcast: Business Breakdowns
+- id: bb-agilent-back-to-the-lab
+  episode_number: 223
+  title: 'Agilent: Back To The Lab'
+  guest: Agilent
+  guest_role: Public · A
+  date: '2025-07-16'
+  duration_minutes: 41
+  youtube_url: https://www.youtube.com/watch?v=m8p5hGQljOQ
+  podcast: Business Breakdowns
+- id: bb-eqt-returns-at-scale
+  episode_number: 220
+  title: 'EQT: Returns at Scale'
+  guest: EQT
+  guest_role: Private · EQT (Stockholm-listed PE firm)
+  date: '2025-06-18'
+  duration_minutes: 78
+  youtube_url: https://www.youtube.com/watch?v=Rpd0bWv3BP4
+  podcast: Business Breakdowns
+- id: bb-moncler-the-apr-s-playbook
+  episode_number: 218
+  title: 'Moncler: The Après Playbook'
+  guest: Moncler
+  guest_role: Private · Moncler
+  date: '2025-05-30'
+  duration_minutes: 59
+  youtube_url: https://www.youtube.com/watch?v=7falKgxDbOc
+  podcast: Business Breakdowns
+- id: bb-interactive-brokers-margin-masters
+  episode_number: 216
+  title: 'Interactive Brokers: Margin Masters'
+  guest: Interactive Brokers
+  guest_role: Public · IBKR
+  date: '2025-05-09'
+  duration_minutes: 45
+  youtube_url: https://www.youtube.com/watch?v=xNHPgKQCiBI
+  podcast: Business Breakdowns
+- id: bb-chemed-empire-of-care
+  episode_number: 215
+  title: 'Chemed: Empire of Care'
+  guest: Chemed
+  guest_role: Public · CHE
+  date: '2025-05-01'
+  duration_minutes: 45
+  youtube_url: https://www.youtube.com/watch?v=rnq6k3eswHQ
+  podcast: Business Breakdowns
+- id: bb-goosehead-insuring-coverage
+  episode_number: 212
+  title: 'Goosehead: Insuring Coverage'
+  guest: Goosehead
+  guest_role: Public · GSHD
+  date: '2025-04-09'
+  duration_minutes: 69
+  youtube_url: https://www.youtube.com/watch?v=dL9XOw6Sk04
+  podcast: Business Breakdowns
 - id: acq-sp26-03
   episode_number: 211
   title: The Communist Capitalist Who Saved Investors a Trillion Dollars
@@ -988,6 +1051,15 @@ episodes:
   duration_minutes: 239
   youtube_url: https://www.youtube.com/watch?v=JVO8roYiNXM
   podcast: Acquired
+- id: bb-essilorluxottica-sight-to-behold
+  episode_number: 210
+  title: 'EssilorLuxottica: Sight To Behold'
+  guest: EssilorLuxottica
+  guest_role: Public · ESLOY
+  date: '2025-03-26'
+  duration_minutes: 44
+  youtube_url: https://www.youtube.com/watch?v=8ODea4SXwF4
+  podcast: Business Breakdowns
 - id: acq-sp26-01
   episode_number: 209
   title: From Bankrupt Teams to A Global Sports Empire
@@ -1006,6 +1078,15 @@ episodes:
   duration_minutes: 257
   youtube_url: ''
   podcast: Acquired
+- id: bb-apollo-connoisseurs-of-complexity
+  episode_number: 208
+  title: 'Apollo: Connoisseurs of Complexity'
+  guest: Apollo
+  guest_role: Public · APO
+  date: '2025-03-14'
+  duration_minutes: 73
+  youtube_url: https://www.youtube.com/watch?v=Q5xa7XveU5g
+  podcast: Business Breakdowns
 - id: acq-rolex
   episode_number: 207
   title: Rolex
@@ -1042,6 +1123,15 @@ episodes:
   duration_minutes: 241
   youtube_url: ''
   podcast: Acquired
+- id: bb-kaspi-kz-the-kazakh-super-app
+  episode_number: 204
+  title: 'Kaspi.kz: The Kazakh Super-App'
+  guest: Kaspi.kz
+  guest_role: Public · KSPI
+  date: '2025-01-22'
+  duration_minutes: 55
+  youtube_url: https://www.youtube.com/watch?v=wDtXE7lowH8
+  podcast: Business Breakdowns
 - id: acq-trader-joes
   episode_number: 203
   title: Trader Joe’s
@@ -1527,7 +1617,6 @@ episodes:
   duration_minutes: 141
   youtube_url: https://www.youtube.com/watch?v=KR4aulvfQto
   podcast: Practical Investments
-  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-holiday-special-2022
   episode_number: 166
   title: Holiday Special 2022

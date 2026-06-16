@@ -1,0 +1,107 @@
+{
+  "episode_id": "bb-agilent-back-to-the-lab",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 223,
+    "title": "Agilent: Back To The Lab",
+    "guest": "Agilent",
+    "guest_role": "Public · A",
+    "date": "2025-07-16",
+    "duration_minutes": 41,
+    "youtube_url": "https://www.youtube.com/watch?v=m8p5hGQljOQ",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "acquired": "https://joincolossus.com/episode/agilent-back-to-the-lab/",
+      "youtube": "https://www.youtube.com/watch?v=m8p5hGQljOQ"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "A",
+    "Life Science Tools",
+    "Chromatography"
+  ],
+  "conclusion": "Agilent is a high-quality tools company whose recurring consumables and service economics are often underappreciated versus headline instrument sales cyclicality. The model benefits from mission-critical use cases, regulatory stickiness, and disciplined niche focus. The long-term case in A depends on steady installed-base growth, service attach expansion, and execution in high-value adjacent modalities.",
+  "background": "Matt Reustle and Troy Asset Management's Mark Davies break down Agilent as a core laboratory workflow provider rooted in HP's instrumentation history. The discussion explains chromatography and adjacent testing workflows, why replacement and compliance cycles create sticky demand, and how recurring revenue from consumables and service supports resilience. It also covers newer growth areas in nucleic-acid-related manufacturing support where Agilent has invested heavily in capacity.",
+  "important_facts": [
+    "Agilent serves approximately 285,000 labs across 110 countries, with broad exposure across pharma, chemicals/materials, diagnostics, and food/environmental testing. This mix helps dampen single-end-market volatility.",
+    "Roughly one-third of revenue comes from instruments and two-thirds from recurring consumables, services, and software. Consumables and service carry stronger margins and represent the economic backbone of long-term operating leverage.",
+    "A key adjacent growth area has expanded from a small base to several hundred million dollars in revenue, supported by cumulative facility investments and customer demand tied to nucleic-acid and advanced-bioprocess workflows."
+  ],
+  "mental_model": {
+    "name": "Installed-Base Recurrence Engine",
+    "components": "Place critical instruments in regulated workflows, then earn recurring economics from consumables replacement, servicing, and software support over long asset lives. Use niche leadership in selected modalities to defend share and pricing discipline. Reinvest in adjacent capabilities that leverage existing customer and technical relationships.",
+    "application": "For Agilent, focus on service attach rates, installed-base growth, and high-margin recurrence quality rather than near-term instrument order volatility alone."
+  },
+  "key_insights": [
+    {
+      "view": "The recurring layer matters most.",
+      "question": "Why can Agilent outperform despite cyclical capex swings?",
+      "answer": "Consumables and service revenues tied to regulatory and quality-control workflows provide steadier economics than one-time instrument placements."
+    },
+    {
+      "view": "Niche leadership is defensible.",
+      "question": "What protects Agilent's position in key categories?",
+      "answer": "Technical depth, service infrastructure, and compliance-sensitive customer workflows make switching costly and favor established, trusted providers."
+    },
+    {
+      "view": "Adjacency expansion can be high quality.",
+      "question": "Why was recent capacity investment important?",
+      "answer": "Management backed an internally aligned capability where customer demand was clear, creating a new growth pillar without abandoning core competence."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "A",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Agilent combines durable recurring economics with selective growth adjacency, supporting attractive long-run free cash flow quality. Cyclical noise in instruments should be manageable if service and consumables momentum holds."
+    }
+  ],
+  "golden_quotes": [
+    "Do not underestimate the quality of a boring business.",
+    "Selling picks and shovels can outperform the miners.",
+    "Recurring service and consumables are the compounding core."
+  ],
+  "chronology": {
+    "subject": "Agilent Technologies",
+    "events": [
+      {
+        "date": "1938",
+        "event": "HP founded, establishing instrumentation roots that later inform Agilent."
+      },
+      {
+        "date": "1965",
+        "event": "HP acquires F&M Scientific, strengthening chromatography capability."
+      },
+      {
+        "date": "1999",
+        "event": "Agilent spun out from HP as focused test-and-measurement platform."
+      },
+      {
+        "date": "2014",
+        "event": "Keysight separation refocuses Agilent on life sciences and diagnostics."
+      },
+      {
+        "date": "2018-2024",
+        "event": "Capacity investments expand nucleic-acid solutions business."
+      },
+      {
+        "date": "2025+",
+        "event": "Management emphasizes recurring revenue growth and attach-rate execution."
+      }
+    ]
+  }
+}

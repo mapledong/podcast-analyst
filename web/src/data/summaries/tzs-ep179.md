@@ -2,7 +2,7 @@
 
 ## *Co-founder, Practical Investments & Fund Manager*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** Apr 13, 2026 · **Duration** 64 min · **Read** ≈5 min
 

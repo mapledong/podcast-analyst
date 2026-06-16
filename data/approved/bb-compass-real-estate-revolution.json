@@ -1,0 +1,107 @@
+{
+  "episode_id": "bb-compass-real-estate-revolution",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 226,
+    "title": "Compass: Real Estate Revolution",
+    "guest": "Compass",
+    "guest_role": "Public · COMP",
+    "date": "2025-08-13",
+    "duration_minutes": 62,
+    "youtube_url": "https://www.youtube.com/watch?v=T7zvk9VzxM4",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "acquired": "https://joincolossus.com/episode/compass-real-estate-revolution/",
+      "youtube": "https://www.youtube.com/watch?v=T7zvk9VzxM4"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "COMP",
+    "Residential Brokerage",
+    "Real Estate Technology"
+  ],
+  "conclusion": "Compass is attempting to turn a historically fragmented, low-moat brokerage structure into a scaled software-enabled network business. Its progress since the 2022 housing reset shows improving cost discipline, rising free cash flow, and continued share gains. COMP's upside depends on sustaining agent-quality growth while converting platform advantages into stronger local market concentration.",
+  "background": "Matt Reustle and Jeff Colette revisit Compass as the largest US residential brokerage by transaction volume, focusing on whether its technology-led model is now proving durable. The episode examines founder-era growth tactics, post-2022 restructuring, and the current strategy built around integrated workflow software, top-agent density, and listing process control. It also addresses market structure debates around MLS, portals, and pre-marketing flexibility.",
+  "important_facts": [
+    "Compass has roughly 6% national share by transaction volume, around 21,000 principal agents, and near-40,000 total agents. Revenue in the current run-rate context is near the high single-digit billions, with free cash flow turning meaningfully positive after prior reset actions.",
+    "Management reduced operating cost run-rate substantially from prior peak levels while keeping meaningful annual technology investment, preserving product development during a trough housing cycle instead of fully cutting growth muscle.",
+    "In key markets, Compass is targeting much higher local concentration and has used both organic recruiting and selective M&A to accelerate share gains. Recent acquisitions include premium and franchise-adjacent channels that broaden distribution optionality."
+  ],
+  "mental_model": {
+    "name": "Agent Network Effects + Software Operating Leverage",
+    "components": "Attract high-producing agents with integrated workflow and marketing tools, then use local density to increase referral loops and listing access. Keep fixed platform costs relatively stable while gross profit scales through agent productivity and mix. Expand through selective acquisitions where platform integration can improve operating economics.",
+    "application": "For COMP, monitor local market-share trajectories, principal-agent retention, and incremental margin on new gross profit. If software and density effects hold, economics can improve faster than headline housing turnover implies."
+  },
+  "key_insights": [
+    {
+      "view": "Density drives defensibility.",
+      "question": "Why does local share matter more than national share?",
+      "answer": "Residential brokerage remains local by nature; concentrated local networks improve agent referrals, listing conversion, and recruiting credibility more than diffuse national presence alone."
+    },
+    {
+      "view": "Cost reset changed the narrative.",
+      "question": "What shifted after the housing downturn?",
+      "answer": "Compass moved from incentive-heavy growth toward disciplined operating execution, proving stronger free cash flow potential while still investing in core technology."
+    },
+    {
+      "view": "Listings are strategic inventory.",
+      "question": "Why is listing process control a major battleground?",
+      "answer": "Inventory access determines lead flow and agent productivity. Compass views phased listing strategies as a way to optimize seller outcomes and reinforce platform relevance."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "COMP",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Compass has transitioned from pure growth spend to a more durable operating model with improving free cash flow and continued local share capture. Execution and market-cycle timing remain risks, but platform economics are stronger than in prior cycles."
+    }
+  ],
+  "golden_quotes": [
+    "Inventory is power in residential brokerage.",
+    "The downturn forced discipline that improved the model.",
+    "Compass aims to compete on capability, not split alone."
+  ],
+  "chronology": {
+    "subject": "Compass",
+    "events": [
+      {
+        "date": "2012",
+        "event": "Compass founded with technology-first vision for residential brokerage."
+      },
+      {
+        "date": "2017-2021",
+        "event": "Rapid expansion and agent acquisition scale national footprint."
+      },
+      {
+        "date": "2022",
+        "event": "Housing downturn prompts major cost and incentive reset."
+      },
+      {
+        "date": "2023-2024",
+        "event": "Business reaches stronger free cash flow profile with ongoing tech investment."
+      },
+      {
+        "date": "2025",
+        "event": "Christie's International Real Estate acquisition adds franchise and premium channels."
+      },
+      {
+        "date": "2026+",
+        "event": "Company targets deeper local share concentration and platform-led growth."
+      }
+    ]
+  }
+}

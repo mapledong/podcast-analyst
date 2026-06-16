@@ -1,0 +1,107 @@
+{
+  "episode_id": "bb-eqt-returns-at-scale",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 220,
+    "title": "EQT: Returns at Scale",
+    "guest": "EQT",
+    "guest_role": "Private · EQT (Stockholm-listed PE firm)",
+    "date": "2025-06-18",
+    "duration_minutes": 78,
+    "youtube_url": "https://www.youtube.com/watch?v=Rpd0bWv3BP4",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "acquired": "https://joincolossus.com/episode/eqt-returns-at-scale/",
+      "youtube": "https://www.youtube.com/watch?v=Rpd0bWv3BP4"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "Private:EQT",
+    "Private Markets",
+    "Local with Locals"
+  ],
+  "conclusion": "EQT pairs institutional process with founder-like adaptability, using local execution and thematic conviction to sustain high returns at scale. The firm's challenge is continuing top-tier performance as flagship funds grow and exits remain cycle-dependent. If cultural cohesion and sourcing advantages persist, EQT can keep compounding both assets and carry generation.",
+  "background": "Matt Reustle and Sean Barrett examine EQT's evolution from Wallenberg-backed Nordic roots into a global alternatives platform with private equity, infrastructure, real estate, and Asia capabilities. The conversation emphasizes EQT's operating model: local teams, governance-heavy value creation, and digital tools that accelerate sourcing and bolt-on execution. It also highlights the firm's ability to innovate in exit pathways and fundraising channels as private markets mature.",
+  "important_facts": [
+    "EQT manages roughly €270 billion in total AUM and around €140 billion in fee-paying AUM, with private equity still a large base and infrastructure/real estate now major contributors. The platform has grown materially since listing and strategic acquisitions.",
+    "Historically, EQT reports strong fund outcomes, with gross MOIC and net IRR metrics near top-quartile levels across core strategies over long periods. This performance underpins fundraising momentum and LP retention.",
+    "The firm raised about €75 billion in the prior cycle and targets roughly €100 billion in the next, supported by flagship step-ups, sovereign channel depth, and expanding private-wealth vehicles."
+  ],
+  "mental_model": {
+    "name": "Thematic Ownership at Local Scale",
+    "components": "Source deals through local teams with deep regional context, then apply repeatable governance and digital value-creation playbooks to accelerate growth. Concentrate in structurally expanding sectors where active ownership can improve strategic trajectory. Innovate in exit and capital-formation channels to avoid dependence on one liquidity path.",
+    "application": "For EQT, watch fundraising conversion, DPI progression, and team-retention indicators. Sustained returns require both deal quality and organizational continuity as platform complexity rises."
+  },
+  "key_insights": [
+    {
+      "view": "Local sourcing improves global scale.",
+      "question": "Why does EQT emphasize local offices?",
+      "answer": "Regional teams can access proprietary context and relationships, improving both origination quality and execution speed versus centralized-only models."
+    },
+    {
+      "view": "Governance is a value-creation tool.",
+      "question": "How does EQT operationalize active ownership?",
+      "answer": "Board and management frameworks, plus digital support systems, create repeatable post-deal operating improvements rather than purely financial engineering."
+    },
+    {
+      "view": "Exit innovation matters in slower markets.",
+      "question": "How does EQT maintain realization flexibility?",
+      "answer": "Beyond traditional IPOs and strategic sales, EQT has expanded secondary and continuation pathways to manage holding periods and realize value more selectively."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:EQT",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "EQT's culture, process discipline, and thematic positioning support continued scale-up in private markets. Near-term carry can be cyclical, but long-run platform value should grow with sustained LP trust."
+    }
+  ],
+  "golden_quotes": [
+    "Performance gatherers, not asset gatherers.",
+    "Local with locals is a process, not a slogan.",
+    "Investing your own way can be the edge."
+  ],
+  "chronology": {
+    "subject": "EQT",
+    "events": [
+      {
+        "date": "1994",
+        "event": "EQT founded with Wallenberg support and first Nordic-focused fund."
+      },
+      {
+        "date": "Late 1990s",
+        "event": "International office expansion establishes local-with-locals model."
+      },
+      {
+        "date": "2019",
+        "event": "Public listing accelerates platform visibility and scaling."
+      },
+      {
+        "date": "2021-2022",
+        "event": "Real estate and Asia platform acquisitions broaden strategy set."
+      },
+      {
+        "date": "2021-2023",
+        "event": "~€75 billion fundraising cycle marks major platform step-up."
+      },
+      {
+        "date": "2024-2026",
+        "event": "Private-wealth products and flagship raises target next growth leg."
+      }
+    ]
+  }
+}

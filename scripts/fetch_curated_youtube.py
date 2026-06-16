@@ -109,6 +109,7 @@ def fetch_youtube_transcripts(
     delay: float = DEFAULT_TRANSCRIPT_DELAY,
     batch_size: int = DEFAULT_BATCH_SIZE,
     process_all: bool = False,
+    episode_ids: set[str] | None = None,
 ) -> tuple[int, int, int]:
     rows = resolve_curated()
     ok = skip = fail = 0
@@ -117,6 +118,8 @@ def fetch_youtube_transcripts(
 
     for eps in rows.values():
         for ep in eps:
+            if episode_ids is not None and ep["id"] not in episode_ids:
+                continue
             yt = ep.get("youtube_url") or ""
             if not yt:
                 skip += 1
@@ -210,6 +213,11 @@ def main() -> None:
         default=DEFAULT_TRANSCRIPT_DELAY,
         help=f"Seconds between transcript fetches (default: {DEFAULT_TRANSCRIPT_DELAY:.0f})",
     )
+    parser.add_argument(
+        "ids",
+        nargs="*",
+        help="Optional episode IDs to fetch (default: full pending queue)",
+    )
     args = parser.parse_args()
 
     if not any((args.urls, args.transcripts, args.all)):
@@ -221,10 +229,12 @@ def main() -> None:
 
     if args.transcripts or args.all:
         reject_bulk_unless_forced(bulk_flag=args.full_queue, flag_name="--full-queue")
+        id_filter = set(args.ids) if args.ids else None
         ok, skip, fail = fetch_youtube_transcripts(
             delay=args.transcript_delay,
             batch_size=args.batch_size,
             process_all=args.full_queue,
+            episode_ids=id_filter,
         )
         print(f"\nTranscripts: fetched {ok}, skipped {skip}, failed {fail}")
 
