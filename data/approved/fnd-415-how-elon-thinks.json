@@ -1,0 +1,113 @@
+{
+  "episode_id": "fnd-415-how-elon-thinks",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 415,
+    "title": "How Elon Thinks",
+    "guest": "Elon Musk",
+    "guest_role": "Biography · Episode 415",
+    "date": "2026-03-24",
+    "duration_minutes": 51,
+    "youtube_url": "https://www.youtube.com/watch?v=nqiuSshC9GA",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/415-how-elon-thinks",
+      "youtube": "https://www.youtube.com/watch?v=nqiuSshC9GA"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "TSLA",
+    "Private:SpaceX",
+    "First Principles"
+  ],
+  "conclusion": "Jorgenson's Book of Elon distills decades of interviews into first-principles thinking, delete/simplify engineering, and mission-first endurance. Battery packs priced at $600/kWh versus ~$80 in London Metal Exchange materials; Falcon 1 Flight 4 saved SpaceX before NASA's $1.6 billion cargo deal. TSLA and Private:SpaceX compound when founders question requirements, integrate vertically, and treat physics as the only honest judge.",
+  "background": "Senra reads Eric Jorgenson's The Book of Elon — thousands of hours compiling Musk's own words. Musk frames legacy as accuracy plus doing right for future consciousness; success is useful work multiplied by people helped. He rejects starting companies for money — ask what should exist, then make it happen even if cash is lost.\n\nCore themes repeat across Zip2, PayPal, Tesla, and SpaceX: first-principles reasoning over analogy, idiot-index costing, five-step engineering (question requirements, delete, simplify, accelerate, automate — in that order), front-line leadership, and maniacal urgency. Musk cites Isadore Sharp's 'Excellence is the capacity for pain' and warns startup years are hell — adrenaline mode burns 20-somethings who skip smelling roses.\n\nMusk reads encyclopedias as a kid and treats engineering as magic — Clarke's sufficiently advanced technology line. He separates design from manufacturing physically so stove-hot mistakes pull designers immediately. Recruiting filters attitude over skill; acronyms banned as communication tax. SR-71 speed-as-defense and burn-rate triage frame daily priority — $100k/day at Tesla means half-hour delays cost eight figures.",
+  "important_facts": [
+    "Musk applies first principles to batteries: industry assumed $600/kWh packs when cobalt, nickel, aluminum, and steel bought on the London Metal Exchange cost ~$80/kWh in materials — the gap is process waste, not physics. Musk cites Sun Tzu and military history: engineering wins wars; discontinuities like lasers from space beat maneuvering at Caesar-era pace.",
+    "SpaceX vendor quoted a $120,000 actuator; in-house build cost ~$3,900 — the idiot index. Three Falcon 1 failures 2006–2008 left one September 2008 cash attempt; Flight 4 success won NASA's $1.6 billion cargo contract six months later.",
+    "Tesla Model 3 Gigafactory delete rampage removed turntables and handoffs; Musk's five-step algorithm forbids automating before deleting — he once tore out robots after wrongly accelerating broken processes. Burn rate framed as $100,000/day — a half-hour delay at 2 billion/week revenue costs ~$100 million."
+  ],
+  "mental_model": {
+    "name": "First Principles Delete Loop",
+    "components": "Reason from physics, not analogy. Assign every requirement an owner; delete unowned specs. Separate engineering from management so designers feel pain. Attack the constraint; pressure and necessity fuel creativity. Development prototypes may explode; crewed operations stay conservative.",
+    "application": "TSLA margins improve when BOM lines disappear and factories own the stack — battery, pack, electronics, drivetrain vertically integrated to escape supplier tiers. Private:SpaceX's 2% materials insight mirrors Tesla casting bets. Investors track whether simplification culture survives scale without talent burnout. Gigafactory five-step reversals — automate-then-delete mistakes tore out robots. Attack-the-constraint on Tesla casting: six suppliers said die-cast impossible; Musk asked if physics forbids it."
+  },
+  "key_insights": [
+    {
+      "view": "Analogy hides waste; physics exposes it.",
+      "question": "How did Musk reframe battery economics?",
+      "answer": "Analysts copied past $600/kWh assumptions. Musk priced raw materials on the London Metal Exchange (~$80/kWh) and asked why clever assembly couldn't close the gap — same first-principles move as rocket actuator costing from $120k to $3.9k."
+    },
+    {
+      "view": "Delete before automate — always.",
+      "question": "What is Musk's five-step engineering algorithm?",
+      "answer": "Question requirements, delete, simplify, optimize, accelerate, then automate — reversing the order is digging faster. SpaceX email demanded 'ultra hardcore simplification'; Model 3 production removed unnecessary turntables after mistakenly automating first."
+    },
+    {
+      "view": "Mission intensity has a human price.",
+      "question": "Why aren't there more Musks?",
+      "answer": "Musk warns years of torture, rage-in-the-skull drive, and burning candles at both ends with a flamethrower — adrenaline survival mode hurts 20-somethings who never stop to smell roses. Perseverance comes because Mars and consciousness expansion feel simply important."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "TSLA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Delete-first ops and vertical integration explain iteration speed on batteries and manufacturing — watch delegation risk as Musk splits time across five entities."
+    },
+    {
+      "ticker": "Private:SpaceX",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Same first-principles costing and integration that saved Flight 4 underpin launch cadence and Starlink optionality — physics as judge, not wishful thinking."
+    }
+  ],
+  "golden_quotes": [
+    "Excellence is the capacity for pain — Musk cites Four Seasons founder Isadore Sharp on enduring startup hell.",
+    "Battery materials ~$80/kWh on the exchange versus $600/kWh packs — first principles expose process markup, not impossibility.",
+    "Delete, simplify, then automate — Musk tore robots out after accelerating processes that should not have existed."
+  ],
+  "chronology": {
+    "subject": "Elon Musk",
+    "events": [
+      {
+        "date": "1990s",
+        "event": "Zip2 and x.com era; fake server rack and PayPal merger."
+      },
+      {
+        "date": "2002",
+        "event": "SpaceX founded; Mars mission, rockets as financing vehicle."
+      },
+      {
+        "date": "2006–2008",
+        "event": "Three Falcon 1 failures; Flight 4 succeeds September 2008."
+      },
+      {
+        "date": "2008",
+        "event": "NASA $1.6 billion cargo contract six months after Flight 4."
+      },
+      {
+        "date": "2004+",
+        "event": "Tesla join; Gigafactory delete rampage and vertical integration."
+      },
+      {
+        "date": "2020s",
+        "event": "Jorgenson compiles Book of Elon from decades of primary sources."
+      }
+    ]
+  }
+}

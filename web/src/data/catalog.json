@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T21:10:26.338Z",
+  "generatedAt": "2026-06-16T00:37:38.276Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -29,7 +29,7 @@
       "accent_color": "#2D5016",
       "youtube_url": "https://www.youtube.com/@founderspodcast1",
       "cover_url": "/covers/founders.jpg",
-      "episodeCount": 40
+      "episodeCount": 50
     },
     {
       "id": "business-breakdowns",
@@ -2666,6 +2666,41 @@
       "chronologySubject": "Phil Knight · Nike · Shoe Dog"
     },
     {
+      "id": "fnd-417-arnold-schwarzenegger",
+      "podcastId": "founders",
+      "episodeNumber": 417,
+      "title": "Arnold Schwarzenegger",
+      "guest": "Arnold Schwarzenegger",
+      "displayTitle": "Arnold Schwarzenegger",
+      "displaySubtitle": "Biography · Episode 417",
+      "guestRole": "Biography · Episode 417",
+      "date": "2026-04-19",
+      "durationMinutes": 43,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Arnold's 1977 Education of a Bodybuilder — written at 30 — maps bodybuilding discipline onto Hollywood and business: visualization, six workouts weekly, and pain-as-progress. Mr. Universe at 20 after military jail for AWOL; mail-order empire and concentration beat rivals. Same principles he later applied to movies, politics, and Raising Cane's-style fanatical operator Todd Graves.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-dh-QNlX12k",
+      "summaryFile": "fnd-417-arnold-schwarzenegger.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Schwarzenegger",
+        "Brand Building",
+        "Mental Toughness"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Schwarzenegger",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Arnold's operator playbook — visualization, measurement, publicity loops — is the lens for personal-brand businesses even without a tradable equity; Raising Cane's Todd Graves mirrors the fanatical daily routine."
+        }
+      ],
+      "chronologySubject": "Arnold Schwarzenegger"
+    },
+    {
       "id": "fnd-416-demis-hassabis",
       "podcastId": "founders",
       "episodeNumber": 416,
@@ -2705,6 +2740,47 @@
         }
       ],
       "chronologySubject": "Demis Hassabis · DeepMind · Infinity Machine"
+    },
+    {
+      "id": "fnd-415-how-elon-thinks",
+      "podcastId": "founders",
+      "episodeNumber": 415,
+      "title": "How Elon Thinks",
+      "guest": "Elon Musk",
+      "displayTitle": "Elon Musk",
+      "displaySubtitle": "How Elon Thinks",
+      "guestRole": "Biography · Episode 415",
+      "date": "2026-03-24",
+      "durationMinutes": 51,
+      "readMinutes": 4,
+      "rating": 5,
+      "conclusion": "Jorgenson's Book of Elon distills decades of interviews into first-principles thinking, delete/simplify engineering, and mission-first endurance. Battery packs priced at $600/kWh versus ~$80 in London Metal Exchange materials; Falcon 1 Flight 4 saved SpaceX before NASA's $1.6 billion cargo deal. TSLA and Private:SpaceX compound when founders question requirements, integrate vertically, and treat physics as the only honest judge.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=nqiuSshC9GA",
+      "summaryFile": "fnd-415-how-elon-thinks.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "TSLA",
+        "Private:SpaceX",
+        "First Principles"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "TSLA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Delete-first ops and vertical integration explain iteration speed on batteries and manufacturing — watch delegation risk as Musk splits time across five entities."
+        },
+        {
+          "ticker": "Private:SpaceX",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Same first-principles costing and integration that saved Flight 4 underpin launch cadence and Starlink optionality — physics as judge, not wishful thinking."
+        }
+      ],
+      "chronologySubject": "Elon Musk"
     },
     {
       "id": "ep414",
@@ -2789,6 +2865,181 @@
       "chronologySubject": "SpaceX"
     },
     {
+      "id": "fnd-413-how-to-run-down-a-dream",
+      "podcastId": "founders",
+      "episodeNumber": 413,
+      "title": "How To Run Down A Dream",
+      "guest": "Sam Hinkie",
+      "displayTitle": "Sam Hinkie",
+      "displaySubtitle": "How To Run Down A Dream",
+      "guestRole": "Biography · Episode 413",
+      "date": "2026-03-03",
+      "durationMinutes": 31,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Gurley's Running Down a Dream profiles Sam Hinkie — valedictorian to Bain to Rockets GM at 27 on an inflatable mattress, then 76ers rebuild and 87 Capital VC. Gurley buckets Bobby Knight, Dylan, and Danny Meyer as dream-chasers: deep interest, craft obsession, mentors, peers, and go-giver service. Pick passion over status; information is freely available.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=eSZ4Xep1sJU",
+      "summaryFile": "fnd-413-how-to-run-down-a-dream.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:87Capital",
+        "Career Design",
+        "Analytics"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:87Capital",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Hinkie's 87 Capital applies bond-trader risk framing to venture — underwriting dreamers who run down passions with analytics discipline; no public float but useful lens for sports-tech and decision-science founders."
+        }
+      ],
+      "chronologySubject": "Sam Hinkie · Bill Gurley"
+    },
+    {
+      "id": "fnd-412-how-roger-federer-works",
+      "podcastId": "founders",
+      "episodeNumber": 412,
+      "title": "How Roger Federer Works",
+      "guest": "Roger Federer",
+      "displayTitle": "Roger Federer",
+      "displaySubtitle": "Biography · Episode 412",
+      "guestRole": "Biography · Episode 412",
+      "date": "2026-02-19",
+      "durationMinutes": 48,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Clare's The Master plus Federer's Dartmouth address: 1,526 matches, ~80% wins, but only ~54% of points won — champions move on fast. Psychologist Christian Marcoli rebuilt emotional control; Bowerman's stress-recover-improve loop and 2018 Uniqlo $300M deal show brand outlasting Nike athlete era. NKE parallels athlete-equity craft; Federer's longevity is systematic recovery plus present-moment focus.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=g2-duG1-Jxc",
+      "summaryFile": "fnd-412-how-roger-federer-works.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NKE",
+        "Mental Performance",
+        "Longevity"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NKE",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Federer-Nike era personalized sponsorship suites; post-Nike Uniqlo/On deal shows athlete equity outlasting pure endorsement — NKE benefits when athlete brands compound without scandal volatility."
+        }
+      ],
+      "chronologySubject": "Roger Federer"
+    },
+    {
+      "id": "fnd-411-tortured-into-greatness-the-life-of-andre-agassi",
+      "podcastId": "founders",
+      "episodeNumber": 411,
+      "title": "Tortured Into Greatness: The Life of Andre Agassi",
+      "guest": "Andre Agassi",
+      "displayTitle": "Andre Agassi",
+      "displaySubtitle": "Biography · Episode 411",
+      "guestRole": "Biography · Episode 411",
+      "date": "2026-02-04",
+      "durationMinutes": 61,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Agassi's Open begins at 2006 US Open — hates tennis, cortisone shots, 869 match wins built under Mike Agassi's 2,500 daily balls. Gil Reyes and Brad Gilbert's 'win with what you have' reboot; 82-week No. 1 Sampras rivalry. Differentiation (mullet, Oakley) monetized accidentally; 1999 French Open rebirth after rock bottom. NKE stock and Oakley deals show rebel brand economics.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=d_Bv59Rxo6w",
+      "summaryFile": "fnd-411-tortured-into-greatness-the-life-of-andre-agassi.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NKE",
+        "Mental Performance",
+        "Brand Differentiation"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NKE",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Agassi-Nike era plus accidental Oakley amplification shows athlete rebel brands move product when differentiation is authentic — useful when evaluating NKE athlete portfolio risk/reward."
+        }
+      ],
+      "chronologySubject": "Andre Agassi"
+    },
+    {
+      "id": "fnd-410-excellent-advice-for-living",
+      "podcastId": "founders",
+      "episodeNumber": 410,
+      "title": "Excellent Advice for Living",
+      "guest": "Kevin Kelly",
+      "displayTitle": "Kevin Kelly",
+      "displaySubtitle": "Excellent Advice for Living",
+      "guestRole": "Biography · Episode 410",
+      "date": "2026-01-25",
+      "durationMinutes": 37,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Kelly's Excellent Advice for Living — 450 aphorisms from birthday batches starting at 68 — compresses Rockefeller ropes, Munger incentives, Bezos customer obsession, and Rubin redo logic. Enthusiasm worth 25 IQ points; habits beat inspiration; infinite games over finite wins. BRK.B lens via Buffett/Munger quotes Kelly channels; separate creating from improving.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RUKafK3xCfY",
+      "summaryFile": "fnd-410-excellent-advice-for-living.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "BRK.B",
+        "Habit Formation",
+        "Long-Term Thinking"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BRK.B",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Kelly channels Buffett/Munger on incentives, ropes, and infinite games — BRK culture of frugality except passions and candor mirrors the aphorisms' durable-business lens."
+        }
+      ],
+      "chronologySubject": "Kevin Kelly"
+    },
+    {
+      "id": "fnd-409-the-creative-genius-of-rick-rubin",
+      "podcastId": "founders",
+      "episodeNumber": 409,
+      "title": "The Creative Genius of Rick Rubin",
+      "guest": "Rick Rubin",
+      "displayTitle": "Rick Rubin",
+      "displaySubtitle": "Biography · Episode 409",
+      "guestRole": "Biography · Episode 409",
+      "date": "2026-01-08",
+      "durationMinutes": 43,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Rubin's The Creative Act — 78 areas of thought — pairs Wooden's sock discipline with Napoleon on neglected threads. Submerge in masterpieces; action produces information; self-doubt is not doubt in the song. Seminal works, patience, and rule-breaking differentiate — Bezos ferocious on details, Ford on money as service byproduct. WMG and labels benefit when producers protect craft from overanalysis.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wYi4emYR89I",
+      "summaryFile": "fnd-409-the-creative-genius-of-rick-rubin.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "WMG",
+        "Creative Process",
+        "Differentiation"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "WMG",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Rubin's producer economics — patience, differentiation, service-first — mirror durable catalog value; labels win when craft protected from overanalysis and artists avoid success-sabotage cycles."
+        }
+      ],
+      "chronologySubject": "Rick Rubin"
+    },
+    {
       "id": "fnd-408-how-to-make-a-few-more-billion-dollars-brad-jacobs",
       "podcastId": "founders",
       "episodeNumber": 408,
@@ -2828,6 +3079,76 @@
         }
       ],
       "chronologySubject": "Brad Jacobs"
+    },
+    {
+      "id": "fnd-407-bruce-springsteen-repairs-the-hole-in-himself",
+      "podcastId": "founders",
+      "episodeNumber": 407,
+      "title": "Bruce Springsteen Repairs the Hole in Himself",
+      "guest": "Bruce Springsteen",
+      "displayTitle": "Bruce Springsteen",
+      "displaySubtitle": "Biography · Episode 407",
+      "guestRole": "Biography · Episode 407",
+      "date": "2025-12-14",
+      "durationMinutes": 72,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Born to Run memoir — ~600 pages handwritten twice — maps Bruce's relentless ethic, benevolent E Street dictatorship, and depression repair. Elvis 1956 earthquake, Born to Run 1975, Columbia flop then arena fill, 3,000+ shows, 150M+ records. Iovine taught work ethic; customer trust compounds decades touring. SONY/music majors lens: authenticity and endurance beat flash supernovas. SONY/catalog lens: authenticity and 3,000-show endurance beat flash supernova economics.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=YRctPFgRb8U",
+      "summaryFile": "fnd-407-bruce-springsteen-repairs-the-hole-in-himself.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "SONY",
+        "Creative Endurance",
+        "Brand Trust"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "SONY",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Springsteen catalog on Columbia/Sony lineage shows long-horizon music economics — touring and trust compound when authenticity replaces flash; useful lens for major-label durable cash flows."
+        }
+      ],
+      "chronologySubject": "Bruce Springsteen"
+    },
+    {
+      "id": "fnd-406-christian-von-koenigsegg",
+      "podcastId": "founders",
+      "episodeNumber": 406,
+      "title": "Christian von Koenigsegg",
+      "guest": "Christian von Koenigsegg",
+      "displayTitle": "Christian von Koenigsegg",
+      "displaySubtitle": "Biography · Episode 406",
+      "guestRole": "Biography · Episode 406",
+      "date": "2025-12-03",
+      "durationMinutes": 45,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Von Koenigsegg founded at 22 in 1994 with no auto background — CC8S took eight years; Paris 2002 reveal after grants, father bridge loan, and pen-trading in post-Soviet Baltics. ~600 staff, thousand parts in-house, Guinness speed records, 287 mph. Private:Koenigsegg compounds vertical integration, 'challenges not problems,' and autotelic craft like Dyson.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=03IcWhHFNMM",
+      "summaryFile": "fnd-406-christian-von-koenigsegg.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Koenigsegg",
+        "Vertical Integration",
+        "Hypercar Engineering"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Koenigsegg",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Vertically integrated hypercar with Guinness speed proof and sight-unseen marketing — compounding craft moat without public float; Tesla IPO stake shows public-market learning appetite."
+        }
+      ],
+      "chronologySubject": "Christian von Koenigsegg"
     },
     {
       "id": "fnd-405-how-rockefeller-worked",
@@ -3179,6 +3500,41 @@
         }
       ],
       "chronologySubject": "Steve Jobs · Make Something Wonderful archive"
+    },
+    {
+      "id": "fnd-397-jiro-ono-simplicity-is-the-ultimate-advantage",
+      "podcastId": "founders",
+      "episodeNumber": 397,
+      "title": "Jiro Ono: Simplicity Is The Ultimate Advantage",
+      "guest": "Jiro Ono",
+      "displayTitle": "Jiro Ono",
+      "displaySubtitle": "Biography · Episode 397",
+      "guestRole": "Biography · Episode 397",
+      "date": "2025-08-04",
+      "durationMinutes": 41,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Jiro Dreams of Sushi — 75 years same job, 10-seat subway counter, three Michelin stars at 82 after decades invisible fame. Ultimate simplicity: $400/person (~$25/minute), tuna-only vendors, 40-minute octopus massage, 200 rejected egg iterations. Private:Jiro shows shokunin kaizen beats scale — differentiation via subtraction like Dyson and Disney detail checks.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=x2Rj0sgjDSw",
+      "summaryFile": "fnd-397-jiro-ono-simplicity-is-the-ultimate-advantage.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Jiro",
+        "Kaizen",
+        "Operational Excellence"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Jiro",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Shokunin model — price per minute, zero scale compromise, supplier specialization — is benchmark for private luxury craft; Raising Cane's one-menu focus and LVMH detail culture rhyme."
+        }
+      ],
+      "chronologySubject": "Jiro Ono"
     },
     {
       "id": "fnd-396-the-obsession-of-enzo-ferrari",
@@ -4422,465 +4778,6 @@
         }
       ],
       "chronologySubject": "Kevin · Pop Mart Craft"
-    },
-    {
-      "id": "zj-ep145",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 145,
-      "title": "Oral History of SpaceX: Ex-Executive Hong Lide on Musk's Hiring, Mega-IPO, Space & AI",
-      "guest": "Hong Lide",
-      "displayTitle": "Hong Lide",
-      "displaySubtitle": "Former SpaceX Executive",
-      "guestRole": "Former SpaceX Executive",
-      "date": "2026-06-12",
-      "durationMinutes": 181,
-      "readMinutes": 4,
-      "rating": 4,
-      "conclusion": "Former SpaceX executive Hong Lide separates 2026's capital frenzy from engineering continuity: IPO and xAI chatter is new for allocators, but Mars planning and Starship iteration began after the first Falcon success in 2012–13. SpaceX's edge is manufacturing culture and vertical integration across thousands of components — not slide-deck synergy. Tesla remains the liquid Musk-industrial proxy; pure-play space names need Starship cadence, per-kilogram cost, and Starlink cash flow before mega-IPO scarcity pricing.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ABtf0yehi1I",
-      "summaryFile": "zj-ep145.md",
-      "summaryFileZh": "zj-ep145.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Private:SpaceX",
-        "TSLA",
-        "Space Economy"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "TSLA",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Tesla (TSLA): liquid proxy for Musk manufacturing ecosystem — SpaceX IPO narrative may re-rate industrial optionality or distract from auto core; track execution cadence"
-        },
-        {
-          "ticker": "Private:SpaceX",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "SpaceX: 2026 mega-IPO reprises optionality — Hong stresses decade-old roadmap lines; underwrite Starship cadence and Starlink cash flow, not xAI slideware alone"
-        },
-        {
-          "ticker": "RKLB",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Rocket Lab (RKLB): benefits from space capital inflection but lacks SpaceX full-stack moat — backlog quality and launch cadence vs hype-driven multiples"
-        }
-      ],
-      "chronologySubject": "Hong Lide · SpaceX Oral History"
-    },
-    {
-      "id": "zj-ep144",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 144,
-      "title": "Yang Meng: Anker's Shallow-Sea Strategy, AI Org Revolution & Billion-Token Company Understanding",
-      "guest": "Yang Meng",
-      "displayTitle": "Yang Meng",
-      "displaySubtitle": "Founder & CEO, Anker Innovations",
-      "guestRole": "Founder & CEO, Anker Innovations",
-      "date": "2026-06-08",
-      "durationMinutes": 218,
-      "readMinutes": 6,
-      "rating": 3,
-      "conclusion": "Yang Meng defends disciplined category selection at scale: Anker Innovations stays in shallow-sea markets — large enough to build a number-one brand, small enough that Apple-scale rivals do not deploy full war chests — and compounds through roughly 1.1–1.5 points of annual gross margin lift rather than revenue spikes. At RMB 60B+ market cap the test is whether adjacent categories repeat return-on-capital discipline. Heavy Amazon reliance remains the main overhang: rising marketplace ads, policy shifts, and private-label competition can erode third-party margins even when Anker wins category leadership — underwrite margin path and channel mix together.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=kBsqirnWTpI",
-      "summaryFile": "zj-ep144.md",
-      "summaryFileZh": "zj-ep144.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "300866.SZ",
-        "Shallow-Sea Strategy",
-        "AI Organization"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "300866.SZ",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Anker Innovations (300866.SZ): shallow-sea category leadership compounds through ~1.1–1.5pt annual gross margin at RMB 60B+ cap — track adjacent category ROIC, margin path, and Amazon revenue mix alongside platform fee and ad inflation"
-        }
-      ],
-      "chronologySubject": "Yang Meng · Anker & Shallow-Sea Strategy"
-    },
-    {
-      "id": "zj-ep143",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 143,
-      "title": "He Xiaopeng: Killing the Old Robot Stack, Betting on IRON Humanoids & Physical-World AI",
-      "guest": "He Xiaopeng",
-      "displayTitle": "He Xiaopeng",
-      "displaySubtitle": "Chairman & CEO, XPeng",
-      "guestRole": "Chairman & CEO, XPeng",
-      "date": "2026-05-28",
-      "durationMinutes": 86,
-      "readMinutes": 5,
-      "rating": 5,
-      "conclusion": "He Xiaopeng's message is a capital-allocation reset: XPeng shut down a legacy robot stack that consumed a few tens of billions RMB (not hundreds) because it could not generalize, then concentrated bets on humanoid IRON — roughly twenty percent probability but company-changing upside. Broad AI across autonomy and robotics runs fifteen to twenty percent of the firm; physical-world data alone costs close to RMB ten billion per year, a rigid line item text models do not share. The episode demands valuing XPeng as auto core cash flow plus a costly option and a data moat only multi-scenario survivors can fund.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=rUjaLPE3mME",
-      "summaryFile": "zj-ep143.md",
-      "summaryFileZh": "zj-ep143.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "XPEV",
-        "Humanoid Robotics",
-        "Physical-World AI"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "XPEV",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "XPeng (XPEV): auto core plus 15–20% broad AI burn and ~20% IRON option — track quarterly cash flow and GX deliveries; traditional auto price-to-earnings alone misprices the story"
-        },
-        {
-          "ticker": "NVDA",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Nvidia (NVDA): physical-world AI and robot training lift edge compute demand — chip layer benefits regardless of which OEM wins the humanoid race"
-        }
-      ],
-      "chronologySubject": "He Xiaopeng · Robotics & Autonomy Pivot"
-    },
-    {
-      "id": "zj-ep142",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 142,
-      "title": "Yusen's VC Watch Ep.2: Harness, Next ByteDance, 2026 Opportunities & Stanley Druckenmiller",
-      "guest": "Yusen",
-      "displayTitle": "Yusen",
-      "displaySubtitle": "Venture Capital Observer",
-      "guestRole": "Venture Capital Observer",
-      "date": "2026-05-27",
-      "durationMinutes": 139,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Yusen, a China Fund VC observer, reframes 2026 after his cautious AI-return call drew early pushback — normal when frontier curves steepen. His investable thesis is not raw models but the Harness layer: sandboxes, checkpoints, and feedback loops that let weaker models finish long tasks. Beating ByteDance inside ByteDance's distribution game remains unlikely; edge sits in orthogonal niches and China hardware supply chains. Public investors should read this as a private-market map — API margins compress while orchestration and workflow data compound.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=XEhf371Aeso",
-      "summaryFile": "zj-ep142.md",
-      "summaryFileZh": "zj-ep142.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Private:Harness",
-        "ByteDance",
-        "2026 VC Themes"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "Private:Harness",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Harness/orchestration layer — Yusen frames 2026 edge outside raw models; task checkpoints and sandbox compute become pricing power if coding agents scale"
-        },
-        {
-          "ticker": "GOOGL",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Alphabet (GOOGL): model plus harness plus YouTube/Android distribution — coding feedback loops compound; API alone is not the moat"
-        },
-        {
-          "ticker": "META",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Meta (META): agent sandboxes and Llama ecosystem bets align with harness thesis — execution on long-horizon tasks determines ROI on AI capex"
-        }
-      ],
-      "chronologySubject": "Yusen · VC Watch 2026"
-    },
-    {
-      "id": "zj-ep141",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 141,
-      "title": "Freda's Investment Notes Ep.2: Tokenmaxxing, Motors in Steam Engines, Relay to Basketball",
-      "guest": "Freda",
-      "displayTitle": "Freda",
-      "displaySubtitle": "Partner, Lightspeed Venture Partners",
-      "guestRole": "Partner, Lightspeed Venture Partners",
-      "date": "2026-05-18",
-      "durationMinutes": 84,
-      "readMinutes": 5,
-      "rating": 4,
-      "conclusion": "Lightspeed partner Freda argues the AI investment frame must shift from token volume to tokens-per-task efficiency — raw burn can rise while waste is real, and CFOs who fund coding tools on usage spikes misread productivity. Organizations are still bolting AI onto steam-engine workflows; electrification took decades because factories had to be redesigned, and relay-baton product teams must become small autonomous squads. For investors: underwrite outcome-based pricing and workflow lock-in (coding agents, harness layers), not headline token charts; META and GOOGL capex stays rational only if task efficiency and org redesign follow.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=MjTfhm5N8x8",
-      "summaryFile": "zj-ep141.md",
-      "summaryFileZh": "zj-ep141.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "META",
-        "GOOGL",
-        "Token Economics",
-        "AI Org Design"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "META",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Meta (META): massive AI/token spend only justified if coding agents convert to outcome efficiency — Freda frames tokenmaxing as real; track whether internal coding ROI and pricing model shift follow capex"
-        },
-        {
-          "ticker": "GOOGL",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Alphabet (GOOGL): coding-led reorg under Corey plus Gemini distribution — self-improving coding loop is strategic; tokens per task discipline determines whether capex compounds"
-        },
-        {
-          "ticker": "NVDA",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Nvidia (NVDA): token demand and AI-training-AI loops sustain compute spend even as per-task efficiency improves — chip layer wins regardless of application winner"
-        }
-      ],
-      "chronologySubject": "Freda · Token Economics & AI Org Design"
-    },
-    {
-      "id": "zj-ep140",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 140,
-      "title": "Let Me Go a Little Crazy: Training at Anthropic & Gemini, Heroism Is Over",
-      "guest": "Yao Shunyu",
-      "displayTitle": "Yao Shunyu",
-      "displaySubtitle": "Let Me Go a Little Crazy: Training at Anthropic & Gemini, Heroism Is Over",
-      "guestRole": "Google DeepMind Researcher (formerly Anthropic)",
-      "date": "2026-05-11",
-      "durationMinutes": 228,
-      "readMinutes": 7,
-      "rating": 5,
-      "conclusion": "After training at Anthropic and joining Google's Gemini team in late 2025, Yao Shunyu argues frontier labs no longer fear falling behind on raw capability — they fear picking the wrong product bet. Benchmark gaps among OpenAI, Anthropic, and Google have narrowed; retention now turns on workflow lock-in, distribution, and reliability, not hero narratives. He puts Gemini consumer share at roughly twenty percent and cites Doubao's voice UX as proof regional product fit can win without global IQ leadership. Investors should underwrite commercial paths — coding agents, search/Android funnels, enterprise attach — rather than leaderboard deltas.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ttkd0t5qTD4",
-      "summaryFile": "zj-ep140.md",
-      "summaryFileZh": "zj-ep140.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "GOOGL",
-        "AI Frontier Labs",
-        "Model Training"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "GOOGL",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Alphabet (GOOGL): Gemini consumer push plus search and Android distribution — Yao frames late-2025 hiring as Google's volume war; ~20% share guess implies room if retention chains"
-        },
-        {
-          "ticker": "Private:Anthropic",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Coding and agent workflow bet leads via Claude Code, but distillation pressure rises as capabilities converge — must prove durable enterprise ARR and lock-in, not benchmark wins"
-        },
-        {
-          "ticker": "NVDA",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Nvidia (NVDA): multi-frontier training capex persists as model alpha compresses — chip layer benefits regardless of which product bet wins"
-        }
-      ],
-      "chronologySubject": "Yao Shunyu · Frontier Model Training"
-    },
-    {
-      "id": "zj-ep139",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 139,
-      "title": "Agent Survey: Tech History and the OpenClaw Moment with Su Yu",
-      "guest": "Su Yu",
-      "displayTitle": "Su Yu",
-      "displaySubtitle": "Agent Technology Expert",
-      "guestRole": "Agent Technology Expert",
-      "date": "2026-05-01",
-      "durationMinutes": 138,
-      "readMinutes": 3,
-      "rating": 3,
-      "conclusion": "OSU professor Su Yu traces agent history from logical agents through neural agents to today's language agents — his OpenClaw moment, like ChatGPT's, is an interaction breakthrough, not a single algorithm leap. Continual learning and world models remain the bottleneck; he co-founded NeoCognition with a $40M seed to build a universal digital agent. China moves faster on the application layer; Su is a 2025 Sloan Fellow. Investors should watch NeoCognition's agent stack and GOOGL Long as distribution plus research depth compound language-agent workflows.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=Xxz5uh0L1mE",
-      "summaryFile": "zj-ep139.md",
-      "summaryFileZh": "zj-ep139.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Private:NeoCognition",
-        "GOOGL",
-        "Language Agent",
-        "World Model"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "Private:NeoCognition",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "NeoCognition: $40M seed universal digital agent — Su Yu targets continual learning and world-model bottlenecks; OSU professor plus 2025 Sloan Fellow pedigree"
-        },
-        {
-          "ticker": "GOOGL",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Alphabet (GOOGL): language-agent distribution (Android, Chrome, Workspace) plus DeepMind research — Su's framework favors integrated stack over pure model APIs"
-        }
-      ],
-      "chronologySubject": "Su Yu · NeoCognition & Language Agents"
-    },
-    {
-      "id": "zj-ep138",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 138,
-      "title": "3.5-Hour Interview with Luo Fuli: OpenClaw, Agent Paradigm, Post-Training, Org Flattening",
-      "guest": "Luo Fuli",
-      "displayTitle": "Luo Fuli",
-      "displaySubtitle": "AI Researcher",
-      "guestRole": "AI Researcher",
-      "date": "2026-04-24",
-      "durationMinutes": 217,
-      "readMinutes": 3,
-      "rating": 4,
-      "conclusion": "Luo Fuli, ex-Damo/DeepSeek and Xiaomi MiMo post-training lead, argues the industry has entered the post-training era — her OpenClaw moment came between 2am and 6am on first use, when an agent completed real work overnight. She flattens orgs: shared Mac Minis, group chat, no usage KPIs. GPU splits roughly 3:1:1 research/post-train/inference. Many agent frameworks exist but self-evolving agents remain TBD; post-training needs a pre-training worldview. Investors should watch Anthropic's coding post-train flywheel and GOOGL's ability to align org design with inference economics.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=vG1RBqn1sG4",
-      "summaryFile": "zj-ep138.md",
-      "summaryFileZh": "zj-ep138.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Private:Anthropic",
-        "GOOGL",
-        "Post-Training",
-        "OpenClaw"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "GOOGL",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Alphabet (GOOGL): post-training era raises GPU split toward RLHF/SFT — must align Gemini agent behavior with cloud inference economics and flat-team dogfooding"
-        },
-        {
-          "ticker": "Private:Anthropic",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Anthropic: post-training flywheel via Claude Code real-world feedback — Luo's framework validates coding agents as post-train killer app"
-        }
-      ],
-      "chronologySubject": "Luo Fuli · Post-Training Era"
-    },
-    {
-      "id": "zj-ep137",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 137,
-      "title": "4-Hour Interview with Hong Letong: AI for Math, Lean, and the Math Canon",
-      "guest": "Hong Letong",
-      "displayTitle": "Hong Letong",
-      "displaySubtitle": "AI for Math Researcher",
-      "guestRole": "AI for Math Researcher",
-      "date": "2026-04-20",
-      "durationMinutes": 264,
-      "readMinutes": 3,
-      "rating": 3,
-      "conclusion": "Hong Letong argues AI-for-math is entering industrial scale: Action raised a $1.6B Series A to productize Lean-based formal proof — draft outline, formalize, then prove or leave sorries — turning research math into a verifiable pipeline. Math is structural language, not trivia; bounded attention beats infinite context for reliability. Her 2020 graphs-catch-and-proof paper and B Capital fundraising signal venture conviction, with an Ohio State professor joining the team. Investors should watch Action as a harness play on theorem proving; GOOGL benefits if formal math becomes a model capability layer.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=bv8ghyTFF9w",
-      "summaryFile": "zj-ep137.md",
-      "summaryFileZh": "zj-ep137.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Private:Action",
-        "GOOGL",
-        "AI Math",
-        "Formal Proof"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "GOOGL",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Alphabet (GOOGL): formal math and verification as Gemini differentiator — Action's $1.6B raise signals infrastructure demand for trustworthy reasoning"
-        },
-        {
-          "ticker": "Private:Action",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Action: $1.6B Series A on Lean formal-proof pipeline — bounded-attention theorem proving as harness layer; ex-OSU professor hire signals research depth"
-        }
-      ],
-      "chronologySubject": "Hong Letong · AI for Math"
-    },
-    {
-      "id": "zj-ep136",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 136,
-      "title": "Global LLM Quarterly Ep.9: Coding as AGI Act II, Silicon Valley Big Three, Models as Next OS",
-      "guest": "Guangmi",
-      "displayTitle": "Guangmi",
-      "displaySubtitle": "Global LLM Quarterly Ep.9: Coding as AGI Act II, Silicon Valley Big Three, Models as Next OS",
-      "guestRole": "AI Industry Observer",
-      "date": "2026-04-14",
-      "durationMinutes": 83,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Guangmi frames coding as AGI Act II: Sonnet 4.5–4.6 delivered more Q1 capability than all of 2025, with frontier labs seeing 70–80% of new code AI-written and power users burning hundreds of dollars daily in tokens. Anthropic ARR may overtake OpenAI among the top one to two million users; combined frontier ARR could hit $80–100B by year-end and $200B+ next year. Coding remains difficulty 8–9/10 — the hardest real-world task — so models-as-OS and harness layers compound. Investors should overweight Anthropic's coding flywheel and treat GOOGL/MSFT as distribution bets, not assume ~90% knowledge-work automation is priced in.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=u1Lzp-7Ybn8",
-      "summaryFile": "zj-ep136.md",
-      "summaryFileZh": "zj-ep136.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Private:Anthropic",
-        "GOOGL",
-        "MSFT",
-        "Coding AGI"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "Private:Anthropic",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Anthropic: Sonnet 4.5–4.6 leap and 70–80% AI-written code at frontier labs — ARR may exceed OpenAI among top 1–2M power users; coding flywheel is AGI Act II"
-        },
-        {
-          "ticker": "GOOGL",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Alphabet (GOOGL): models-as-OS race requires coding harness depth plus Android/Cloud distribution — ~100-day leadership rotation means execution speed matters"
-        },
-        {
-          "ticker": "MSFT",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Microsoft (MSFT): Copilot distribution scale versus pure-play coding labs — must convert seat count to token-depth flywheels or risk OS-layer commoditization"
-        }
-      ],
-      "chronologySubject": "Guangmi · LLM Quarterly Ep.9"
     },
     {
       "id": "acq-sp26-01",
@@ -6281,42 +6178,6 @@
       "chronologySubject": "Acquired · 2023 milestones"
     },
     {
-      "id": "bb-ferrari-magic-from-maranello",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 140,
-      "title": "Ferrari: Magic from Maranello",
-      "guest": "Ferrari",
-      "displayTitle": "Ferrari",
-      "displaySubtitle": "Magic from Maranello · Public · RACE",
-      "guestRole": "Public · RACE",
-      "date": "2023-12-13",
-      "durationMinutes": 60,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Lum argues Ferrari is a luxury company miscategorized as an automaker: ~13,000 units against an 80-million-car industry, mid-high-20s EBIT margins, and a collector pyramid where two-thirds of new cars go to existing owners. The investment case is lifetime-value expansion — customization, limited editions like the 599-unit SP3 Daytona at $2M-plus, and a younger hybrid cohort via the 296 — not volume growth. Combinatorial brand, artisan manufacturing, and client gatekeeping create an edge no single-factor peer replicates.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-ferrari-magic-from-maranello.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "RACE",
-        "Luxury Goods",
-        "Formula One",
-        "Scarcity Economics"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "RACE",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Lum's framework: luxury margins on ~13,000 units, debt paid down post-2015 IPO, collector LTV expansion via customization and limited editions, global wealth creating new cohorts (40% of 296 buyers under 40), and Exor-aligned long-term brand stewardship — compounding slowly without volume inflection."
-        }
-      ],
-      "chronologySubject": "Ferrari"
-    },
-    {
       "id": "acq-visa",
       "podcastId": "acquired",
       "episodeNumber": 182,
@@ -6590,48 +6451,6 @@
         }
       ],
       "chronologySubject": "Dara Khosrowshahi · Uber"
-    },
-    {
-      "id": "bb-paypal-a-digital-money-marketplace",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 113,
-      "title": "PayPal: A Digital Money Marketplace",
-      "guest": "PayPal",
-      "displayTitle": "PayPal",
-      "displaySubtitle": "A Digital Money Marketplace · Public · PYPL",
-      "guestRole": "Public · PYPL",
-      "date": "2023-05-31",
-      "durationMinutes": 66,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Turner frames PayPal as a chameleon payments marketplace — direct relationships with 435 million users and merchants on both sides, fraud detection built since the Levchin era, and Braintree scaling mobile TPV to $400 billion. The bull case rests on engagement (51 transactions per active user, up from 21 at the 2015 spin) and operating leverage after Elliott-driven cost discipline; risks are falling take rates, Apple NFC lockout, leadership churn post-Schulman, and $13 billion of mixed M&A outcomes.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-paypal-a-digital-money-marketplace.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "PYPL",
-        "AAPL",
-        "Digital Payments",
-        "Network Effects"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "PYPL",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Turner's bull case: 435M-user two-sided network, fraud-driven approval rates, $5B FCF funding buybacks, and engagement recovery (51 vs. 21 annual transactions) with mid-20s incremental margins once super-app costs unwind — trading below COVID euphoria despite e-commerce-linked revenue growth and Braintree at $400B TPV growing 40%-plus."
-        },
-        {
-          "ticker": "AAPL",
-          "direction": "Short",
-          "confidence": "Low",
-          "thesis": "Apple Pay's NFC near-field lockout blocks PayPal at physical point-of-sale while PayPal leads desktop and e-commerce checkout (83% vs. 48% of top-475 merchants); EU antitrust may force openness, but today Apple captures incremental wallet transactions PayPal cannot reach on iOS."
-        }
-      ],
-      "chronologySubject": "PayPal"
     },
     {
       "id": "acq-lockheed-martin",
@@ -6932,42 +6751,6 @@
       "chronologySubject": "Nintendo (Origins through NES peak)"
     },
     {
-      "id": "bb-the-walt-disney-company-an-entertainment-empire",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 101,
-      "title": "The Walt Disney Company: An Entertainment Empire",
-      "guest": "The Walt Disney Company",
-      "displayTitle": "The Walt Disney Company",
-      "displaySubtitle": "An Entertainment Empire · Public · DIS",
-      "guestRole": "Public · DIS",
-      "date": "2023-03-15",
-      "durationMinutes": 49,
-      "readMinutes": 4,
-      "rating": 4,
-      "conclusion": "Disney is a century-old storytelling machine monetized through parks, cable affiliate fees, and licensing flywheels — but the next decade hinges on whether management can rebuild cable-like economics in streaming without starving the creative engine that feeds every other segment.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-the-walt-disney-company-an-entertainment-empire.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "DIS",
-        "Streaming",
-        "Theme Parks",
-        "Media IP"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "DIS",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Weiss sees more opportunity than risk if Disney commits to profitable Disney+ at ~200M households × $15/month (~$36B revenue, ~$14B EBITDA, ~$250B EV for streaming alone) while parks and Marvel/IP compound. Medium confidence reflects innovator's-dilemma risk as cable profits decline and activists cap streaming investment."
-        }
-      ],
-      "chronologySubject": "The Walt Disney Company"
-    },
-    {
       "id": "acq-lvmh",
       "podcastId": "acquired",
       "episodeNumber": 167,
@@ -7007,41 +6790,6 @@
         }
       ],
       "chronologySubject": "LVMH · Bernard Arnault"
-    },
-    {
-      "id": "bb-constellation-software-principled-profitable-permanent",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 97,
-      "title": "Constellation Software: Principled, Profitable, Permanent",
-      "guest": "Constellation Software",
-      "displayTitle": "Constellation Software",
-      "displaySubtitle": "Principled, Profitable, Permanent · Public · CSU",
-      "guestRole": "Public · CSU",
-      "date": "2023-02-16",
-      "durationMinutes": 60,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Cerrone positions Constellation as a decentralized compounder of essential vertical market software: ~$6.5 billion of revenue, ~70% recurring, ~20% ROIC, and 100-plus small deals a year at 20–30% hurdle rates — all under Mark Leonard's zero-dilution compensation ethic. Organic growth near 4% looks modest beside SaaS peers, but clean ~20% free cash flow margins and proprietary acquisition data explain why per-share compounding since the 2006 IPO reached ~130×.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-constellation-software-principled-profitable-permanent.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "CSU",
-        "Vertical Market Software",
-        "Serial Acquisitions"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "CSU",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Allspring has held since 2014 on a three-legged stool — durable ~20% ROIC VMS, skilled capital allocation, and massive reinvestment runway — with ~$6.5 billion revenue, ~70% recurring mix, ~20% clean FCF margins, and a proven 100-deal-per-year engine; Cerrone expects mid-teens-plus per-share compounding if FCF keeps redeploying at ~20% returns even as absolute deal size rises."
-        }
-      ],
-      "chronologySubject": "Constellation Software"
     },
     {
       "id": "acq-holiday-special-2022",
@@ -7118,42 +6866,6 @@
         }
       ],
       "chronologySubject": "Stratechery · Ben Thompson"
-    },
-    {
-      "id": "bb-netflix-the-original",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 86,
-      "title": "Netflix: The Original",
-      "guest": "Netflix",
-      "displayTitle": "Netflix",
-      "displaySubtitle": "The Original · Public · NFLX",
-      "guestRole": "Public · NFLX",
-      "date": "2022-11-30",
-      "durationMinutes": 56,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Netflix is no longer just a subscriber-growth story; it is becoming a global entertainment software business where fixed content spend can turn scale into free cash flow. The thesis rests on product reliability, broad catalog depth, 100 million password-sharing households, and an ad tier that can widen access without diluting revenue per user.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-netflix-the-original.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "NFLX",
-        "Streaming",
-        "Original Content",
-        "Advertising"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "NFLX",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Weiss sees a path from about $30 billion of revenue and $1 billion of free cash flow to roughly $40 billion of revenue, $12 billion of operating profit, and $20 per share of earnings if content spend stays near $17-18 billion and ads/password conversion add revenue."
-        }
-      ],
-      "chronologySubject": "Netflix"
     },
     {
       "id": "acq-enron",
@@ -7259,42 +6971,6 @@
         }
       ],
       "chronologySubject": "Benchmark Capital (current partnership)"
-    },
-    {
-      "id": "bb-intuit-an-operating-system-for-small-businesses",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 77,
-      "title": "Intuit: An Operating System for Small Businesses",
-      "guest": "Intuit",
-      "displayTitle": "Intuit",
-      "displaySubtitle": "An Operating System for Small Businesses · Public · INTU",
-      "guestRole": "Public · INTU",
-      "date": "2022-10-05",
-      "durationMinutes": 53,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Intuit is a durable self-service software compounder built on consumer empathy, tax complexity, and small-business workflow standards. QuickBooks' 90% U.S. category share, TurboTax's 30% filing share, Credit Karma's 40 million monthly users, and Mailchimp's earlier customer touchpoint give Intuit multiple ways to digitize unavoidable financial work.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-intuit-an-operating-system-for-small-businesses.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "INTU",
-        "QuickBooks",
-        "TurboTax",
-        "Small Business Software"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "INTU",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Intuit combines 80% gross margins, about 21% GAAP operating margins, 25% cash operating margins excluding acquisition amortization, low digital penetration in tax and small business, and higher-value products like TurboTax Live and QuickBooks Advanced that can lift ARPU while reducing churn."
-        }
-      ],
-      "chronologySubject": "Intuit"
     },
     {
       "id": "acq-acq-sessions-jason-calacanis",
@@ -7406,41 +7082,6 @@
         }
       ],
       "chronologySubject": "Amazon Web Services"
-    },
-    {
-      "id": "bb-crowdstrike-cyber-saas",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 72,
-      "title": "CrowdStrike: Cyber SaaS",
-      "guest": "Roniel Desai",
-      "displayTitle": "CrowdStrike",
-      "displaySubtitle": "Roniel Desai · Senior Public Market Investor, Enterprise Software · Cyber SaaS",
-      "guestRole": "Senior Public Market Investor, Enterprise Software",
-      "date": "2022-09-01",
-      "durationMinutes": 60,
-      "readMinutes": 5,
-      "rating": 4,
-      "conclusion": "Desai frames CrowdStrike as the casino-security model for cloud-era IT: lightweight agents feeding a cross-customer threat graph that legacy McAfee firewalls cannot replicate. At ~$45 billion enterprise value, 61% ARR growth on $1.9 billion, and 70% of million-dollar customers on seven modules, the platform flywheel is real — but Microsoft bundling and closed XDR stacks from Palo Alto remain the threats that cap terminal optimism.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-crowdstrike-cyber-saas.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "CRWD",
-        "Endpoint Security",
-        "Threat Graph"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "CRWD",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Desai sees a rare growth compounder — 61% ARR growth at $1.9 billion scale, expanding TAM, channel flywheel, and platform module attach — but Microsoft Office E5 bundling and closed XDR platforms from Microsoft and Palo Alto are credible threats; valuation near $45 billion already prices flawless platform execution."
-        }
-      ],
-      "chronologySubject": "CrowdStrike"
     },
     {
       "id": "acq-howard-marks-andrew-marks-something-of-value",
@@ -7593,48 +7234,6 @@
         }
       ],
       "chronologySubject": "Walmart"
-    },
-    {
-      "id": "bb-berkshire-hathaway-the-incomparable-compounder",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 63,
-      "title": "Berkshire Hathaway: The Incomparable Compounder",
-      "guest": "Berkshire Hathaway",
-      "displayTitle": "Berkshire Hathaway",
-      "displaySubtitle": "The Incomparable Compounder · Public · BRK.B",
-      "guestRole": "Public · BRK.B",
-      "date": "2022-06-29",
-      "durationMinutes": 74,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Berkshire's lesson is not simply what Buffett bought; it is how he built a balance sheet that could keep buying without ever needing outside capital. Roughly $150 billion of float, massive surplus, no stock compensation, retained earnings, and fortress culture make Berkshire an aircraft carrier that can compound at adequate rates long after Buffett.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-berkshire-hathaway-the-incomparable-compounder.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "BRK.B",
-        "Insurance Float",
-        "Capital Allocation",
-        "Conglomerates"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "BRK.B",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Bloomstran owns Berkshire as a top position because roughly $50 billion of economic earnings, conservative leverage, $150 billion of float, and reinvestment at 10-12% make the stock more attractive than the S&P 500 when purchased below intrinsic value."
-        },
-        {
-          "ticker": "AAPL",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Apple illustrates Buffett's durability filter: bought around 12 times earnings, it shifted from tech risk to consumer-product ecosystem moat, with users unlikely to leave the architecture once phone, tablet, notebook, and services are connected."
-        }
-      ],
-      "chronologySubject": "Berkshire Hathaway"
     },
     {
       "id": "acq-the-playbook-lessons-from-200-company-stories",
@@ -7865,47 +7464,6 @@
       "chronologySubject": "Nvidia (CUDA & ML era)"
     },
     {
-      "id": "bb-block-square-cash-app-and-economic-access",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 53,
-      "title": "Block: Square, Cash App, and Economic Access",
-      "guest": "Block",
-      "displayTitle": "Block",
-      "displaySubtitle": "Square, Cash App, and Economic Access · Public · SQ",
-      "guestRole": "Public · SQ",
-      "date": "2022-04-06",
-      "durationMinutes": 66,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Corlett frames Block as two scaled financial ecosystems—Square for merchants and Cash App for consumers—unified by economic access, trust-first onboarding, and a roadmap to closed-loop transactions. Afterpay adds merchant discovery and in-network volume; the bull case is sustained product velocity and two-sided network effects, while trust erosion or regulatory drag are the main risks.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-block-square-cash-app-and-economic-access.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "SQ",
-        "PYPL",
-        "Payments"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "SQ",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Corlett's bull case rests on two $2B+ gross-profit ecosystems compounding through product attach, closed-loop payments that triple net take on in-network volume, and Afterpay-driven merchant discovery—against a financial-services TAM still littered with legacy UX, with culture and trust as the main execution risks."
-        },
-        {
-          "ticker": "PYPL",
-          "direction": "Short",
-          "confidence": "Low",
-          "thesis": "PayPal retains a durable moat, but Cash App has overtaken Venmo in P2P user growth with far lower CAC (~$10 vs. hundreds for banks) and stronger Gen Z brand penetration while Venmo pivots to monetizing existing users."
-        }
-      ],
-      "chronologySubject": "Block (Square)"
-    },
-    {
       "id": "acq-platforms-and-power-with-hamilton-helmer-and-chenyi-shi",
       "podcastId": "acquired",
       "episodeNumber": 148,
@@ -8023,41 +7581,6 @@
       "chronologySubject": "Altimeter Capital"
     },
     {
-      "id": "acq-sony",
-      "podcastId": "acquired",
-      "episodeNumber": 145,
-      "title": "SONY",
-      "guest": "SONY",
-      "displayTitle": "SONY",
-      "displaySubtitle": "Season 10 · Episode 3",
-      "guestRole": "Season 10 · Episode 3",
-      "date": "2022-03-07",
-      "durationMinutes": 183,
-      "readMinutes": 7,
-      "rating": 5,
-      "conclusion": "Sony is the conglomerate Steve Jobs idolized — from 1945 Tokyo rubble (per-capita income ~$17 in 1946) through transistor radio TR-63 (1.5M units at $25), Walkman, PlayStation, and today's $100B+ empire spanning games, music, film, and imaging. Morita rejected Bulova OEM branding ('sell Sony or nothing') — defining direct-to-consumer identity. Ibuka's engineer haven became second-largest Japanese market cap; Morita called 'engine that pulled the Japanese economy.' Episode traces Betamax loss, PS2 recovery, Spider-Man/Hollywood pivot, and Aibo robots — lesson: vertical integration across content and hardware creates durable but unwieldy power when each division must fund R&D independently.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-sony.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "SONY",
-        "Akio Morita",
-        "Conglomerate Strategy"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "SONY",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Sum-of-parts debate: PlayStation (~30% revenue, ~50% profits), music (>$2B annual cash flow), Spider-Man (95% box office), imaging (~half sensor market). Conglomerate discount persists despite PS5 cycle and MCU deal economics."
-        }
-      ],
-      "chronologySubject": "Sony Corporation"
-    },
-    {
       "id": "fnd-233-elon-musk-peter-thiel-max-levchin-paypal",
       "podcastId": "founders",
       "episodeNumber": 233,
@@ -8097,6 +7620,839 @@
         }
       ],
       "chronologySubject": "PayPal · Jimmy Soni · The Founders"
+    },
+    {
+      "id": "zj-ep145",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 145,
+      "title": "Oral History of SpaceX: Ex-Executive Hong Lide on Musk's Hiring, Mega-IPO, Space & AI",
+      "guest": "Hong Lide",
+      "displayTitle": "Hong Lide",
+      "displaySubtitle": "Former SpaceX Executive",
+      "guestRole": "Former SpaceX Executive",
+      "date": "2026-06-12",
+      "durationMinutes": 181,
+      "readMinutes": 4,
+      "rating": 4,
+      "conclusion": "Former SpaceX executive Hong Lide separates 2026's capital frenzy from engineering continuity: IPO and xAI chatter is new for allocators, but Mars planning and Starship iteration began after the first Falcon success in 2012–13. SpaceX's edge is manufacturing culture and vertical integration across thousands of components — not slide-deck synergy. Tesla remains the liquid Musk-industrial proxy; pure-play space names need Starship cadence, per-kilogram cost, and Starlink cash flow before mega-IPO scarcity pricing.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ABtf0yehi1I",
+      "summaryFile": "zj-ep145.md",
+      "summaryFileZh": "zj-ep145.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:SpaceX",
+        "TSLA",
+        "Space Economy"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "TSLA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Tesla (TSLA): liquid proxy for Musk manufacturing ecosystem — SpaceX IPO narrative may re-rate industrial optionality or distract from auto core; track execution cadence"
+        },
+        {
+          "ticker": "Private:SpaceX",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "SpaceX: 2026 mega-IPO reprises optionality — Hong stresses decade-old roadmap lines; underwrite Starship cadence and Starlink cash flow, not xAI slideware alone"
+        },
+        {
+          "ticker": "RKLB",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Rocket Lab (RKLB): benefits from space capital inflection but lacks SpaceX full-stack moat — backlog quality and launch cadence vs hype-driven multiples"
+        }
+      ],
+      "chronologySubject": "Hong Lide · SpaceX Oral History"
+    },
+    {
+      "id": "zj-ep144",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 144,
+      "title": "Yang Meng: Anker's Shallow-Sea Strategy, AI Org Revolution & Billion-Token Company Understanding",
+      "guest": "Yang Meng",
+      "displayTitle": "Yang Meng",
+      "displaySubtitle": "Founder & CEO, Anker Innovations",
+      "guestRole": "Founder & CEO, Anker Innovations",
+      "date": "2026-06-08",
+      "durationMinutes": 218,
+      "readMinutes": 6,
+      "rating": 3,
+      "conclusion": "Yang Meng defends disciplined category selection at scale: Anker Innovations stays in shallow-sea markets — large enough to build a number-one brand, small enough that Apple-scale rivals do not deploy full war chests — and compounds through roughly 1.1–1.5 points of annual gross margin lift rather than revenue spikes. At RMB 60B+ market cap the test is whether adjacent categories repeat return-on-capital discipline. Heavy Amazon reliance remains the main overhang: rising marketplace ads, policy shifts, and private-label competition can erode third-party margins even when Anker wins category leadership — underwrite margin path and channel mix together.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=kBsqirnWTpI",
+      "summaryFile": "zj-ep144.md",
+      "summaryFileZh": "zj-ep144.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "300866.SZ",
+        "Shallow-Sea Strategy",
+        "AI Organization"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "300866.SZ",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Anker Innovations (300866.SZ): shallow-sea category leadership compounds through ~1.1–1.5pt annual gross margin at RMB 60B+ cap — track adjacent category ROIC, margin path, and Amazon revenue mix alongside platform fee and ad inflation"
+        }
+      ],
+      "chronologySubject": "Yang Meng · Anker & Shallow-Sea Strategy"
+    },
+    {
+      "id": "zj-ep143",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 143,
+      "title": "He Xiaopeng: Killing the Old Robot Stack, Betting on IRON Humanoids & Physical-World AI",
+      "guest": "He Xiaopeng",
+      "displayTitle": "He Xiaopeng",
+      "displaySubtitle": "Chairman & CEO, XPeng",
+      "guestRole": "Chairman & CEO, XPeng",
+      "date": "2026-05-28",
+      "durationMinutes": 86,
+      "readMinutes": 5,
+      "rating": 5,
+      "conclusion": "He Xiaopeng's message is a capital-allocation reset: XPeng shut down a legacy robot stack that consumed a few tens of billions RMB (not hundreds) because it could not generalize, then concentrated bets on humanoid IRON — roughly twenty percent probability but company-changing upside. Broad AI across autonomy and robotics runs fifteen to twenty percent of the firm; physical-world data alone costs close to RMB ten billion per year, a rigid line item text models do not share. The episode demands valuing XPeng as auto core cash flow plus a costly option and a data moat only multi-scenario survivors can fund.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=rUjaLPE3mME",
+      "summaryFile": "zj-ep143.md",
+      "summaryFileZh": "zj-ep143.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "XPEV",
+        "Humanoid Robotics",
+        "Physical-World AI"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "XPEV",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "XPeng (XPEV): auto core plus 15–20% broad AI burn and ~20% IRON option — track quarterly cash flow and GX deliveries; traditional auto price-to-earnings alone misprices the story"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Nvidia (NVDA): physical-world AI and robot training lift edge compute demand — chip layer benefits regardless of which OEM wins the humanoid race"
+        }
+      ],
+      "chronologySubject": "He Xiaopeng · Robotics & Autonomy Pivot"
+    },
+    {
+      "id": "zj-ep142",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 142,
+      "title": "Yusen's VC Watch Ep.2: Harness, Next ByteDance, 2026 Opportunities & Stanley Druckenmiller",
+      "guest": "Yusen",
+      "displayTitle": "Yusen",
+      "displaySubtitle": "Venture Capital Observer",
+      "guestRole": "Venture Capital Observer",
+      "date": "2026-05-27",
+      "durationMinutes": 139,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Yusen, a China Fund VC observer, reframes 2026 after his cautious AI-return call drew early pushback — normal when frontier curves steepen. His investable thesis is not raw models but the Harness layer: sandboxes, checkpoints, and feedback loops that let weaker models finish long tasks. Beating ByteDance inside ByteDance's distribution game remains unlikely; edge sits in orthogonal niches and China hardware supply chains. Public investors should read this as a private-market map — API margins compress while orchestration and workflow data compound.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XEhf371Aeso",
+      "summaryFile": "zj-ep142.md",
+      "summaryFileZh": "zj-ep142.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Harness",
+        "ByteDance",
+        "2026 VC Themes"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Harness",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Harness/orchestration layer — Yusen frames 2026 edge outside raw models; task checkpoints and sandbox compute become pricing power if coding agents scale"
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Alphabet (GOOGL): model plus harness plus YouTube/Android distribution — coding feedback loops compound; API alone is not the moat"
+        },
+        {
+          "ticker": "META",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Meta (META): agent sandboxes and Llama ecosystem bets align with harness thesis — execution on long-horizon tasks determines ROI on AI capex"
+        }
+      ],
+      "chronologySubject": "Yusen · VC Watch 2026"
+    },
+    {
+      "id": "zj-ep141",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 141,
+      "title": "Freda's Investment Notes Ep.2: Tokenmaxxing, Motors in Steam Engines, Relay to Basketball",
+      "guest": "Freda",
+      "displayTitle": "Freda",
+      "displaySubtitle": "Partner, Lightspeed Venture Partners",
+      "guestRole": "Partner, Lightspeed Venture Partners",
+      "date": "2026-05-18",
+      "durationMinutes": 84,
+      "readMinutes": 5,
+      "rating": 4,
+      "conclusion": "Lightspeed partner Freda argues the AI investment frame must shift from token volume to tokens-per-task efficiency — raw burn can rise while waste is real, and CFOs who fund coding tools on usage spikes misread productivity. Organizations are still bolting AI onto steam-engine workflows; electrification took decades because factories had to be redesigned, and relay-baton product teams must become small autonomous squads. For investors: underwrite outcome-based pricing and workflow lock-in (coding agents, harness layers), not headline token charts; META and GOOGL capex stays rational only if task efficiency and org redesign follow.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=MjTfhm5N8x8",
+      "summaryFile": "zj-ep141.md",
+      "summaryFileZh": "zj-ep141.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "META",
+        "GOOGL",
+        "Token Economics",
+        "AI Org Design"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "META",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Meta (META): massive AI/token spend only justified if coding agents convert to outcome efficiency — Freda frames tokenmaxing as real; track whether internal coding ROI and pricing model shift follow capex"
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Alphabet (GOOGL): coding-led reorg under Corey plus Gemini distribution — self-improving coding loop is strategic; tokens per task discipline determines whether capex compounds"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Nvidia (NVDA): token demand and AI-training-AI loops sustain compute spend even as per-task efficiency improves — chip layer wins regardless of application winner"
+        }
+      ],
+      "chronologySubject": "Freda · Token Economics & AI Org Design"
+    },
+    {
+      "id": "zj-ep140",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 140,
+      "title": "Let Me Go a Little Crazy: Training at Anthropic & Gemini, Heroism Is Over",
+      "guest": "Yao Shunyu",
+      "displayTitle": "Yao Shunyu",
+      "displaySubtitle": "Let Me Go a Little Crazy: Training at Anthropic & Gemini, Heroism Is Over",
+      "guestRole": "Google DeepMind Researcher (formerly Anthropic)",
+      "date": "2026-05-11",
+      "durationMinutes": 228,
+      "readMinutes": 7,
+      "rating": 5,
+      "conclusion": "After training at Anthropic and joining Google's Gemini team in late 2025, Yao Shunyu argues frontier labs no longer fear falling behind on raw capability — they fear picking the wrong product bet. Benchmark gaps among OpenAI, Anthropic, and Google have narrowed; retention now turns on workflow lock-in, distribution, and reliability, not hero narratives. He puts Gemini consumer share at roughly twenty percent and cites Doubao's voice UX as proof regional product fit can win without global IQ leadership. Investors should underwrite commercial paths — coding agents, search/Android funnels, enterprise attach — rather than leaderboard deltas.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ttkd0t5qTD4",
+      "summaryFile": "zj-ep140.md",
+      "summaryFileZh": "zj-ep140.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "GOOGL",
+        "AI Frontier Labs",
+        "Model Training"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Alphabet (GOOGL): Gemini consumer push plus search and Android distribution — Yao frames late-2025 hiring as Google's volume war; ~20% share guess implies room if retention chains"
+        },
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Coding and agent workflow bet leads via Claude Code, but distillation pressure rises as capabilities converge — must prove durable enterprise ARR and lock-in, not benchmark wins"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Nvidia (NVDA): multi-frontier training capex persists as model alpha compresses — chip layer benefits regardless of which product bet wins"
+        }
+      ],
+      "chronologySubject": "Yao Shunyu · Frontier Model Training"
+    },
+    {
+      "id": "zj-ep139",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 139,
+      "title": "Agent Survey: Tech History and the OpenClaw Moment with Su Yu",
+      "guest": "Su Yu",
+      "displayTitle": "Su Yu",
+      "displaySubtitle": "Agent Technology Expert",
+      "guestRole": "Agent Technology Expert",
+      "date": "2026-05-01",
+      "durationMinutes": 138,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "OSU professor Su Yu traces agent history from logical agents through neural agents to today's language agents — his OpenClaw moment, like ChatGPT's, is an interaction breakthrough, not a single algorithm leap. Continual learning and world models remain the bottleneck; he co-founded NeoCognition with a $40M seed to build a universal digital agent. China moves faster on the application layer; Su is a 2025 Sloan Fellow. Investors should watch NeoCognition's agent stack and GOOGL Long as distribution plus research depth compound language-agent workflows.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Xxz5uh0L1mE",
+      "summaryFile": "zj-ep139.md",
+      "summaryFileZh": "zj-ep139.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:NeoCognition",
+        "GOOGL",
+        "Language Agent",
+        "World Model"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:NeoCognition",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "NeoCognition: $40M seed universal digital agent — Su Yu targets continual learning and world-model bottlenecks; OSU professor plus 2025 Sloan Fellow pedigree"
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Alphabet (GOOGL): language-agent distribution (Android, Chrome, Workspace) plus DeepMind research — Su's framework favors integrated stack over pure model APIs"
+        }
+      ],
+      "chronologySubject": "Su Yu · NeoCognition & Language Agents"
+    },
+    {
+      "id": "zj-ep138",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 138,
+      "title": "3.5-Hour Interview with Luo Fuli: OpenClaw, Agent Paradigm, Post-Training, Org Flattening",
+      "guest": "Luo Fuli",
+      "displayTitle": "Luo Fuli",
+      "displaySubtitle": "AI Researcher",
+      "guestRole": "AI Researcher",
+      "date": "2026-04-24",
+      "durationMinutes": 217,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Luo Fuli, ex-Damo/DeepSeek and Xiaomi MiMo post-training lead, argues the industry has entered the post-training era — her OpenClaw moment came between 2am and 6am on first use, when an agent completed real work overnight. She flattens orgs: shared Mac Minis, group chat, no usage KPIs. GPU splits roughly 3:1:1 research/post-train/inference. Many agent frameworks exist but self-evolving agents remain TBD; post-training needs a pre-training worldview. Investors should watch Anthropic's coding post-train flywheel and GOOGL's ability to align org design with inference economics.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=vG1RBqn1sG4",
+      "summaryFile": "zj-ep138.md",
+      "summaryFileZh": "zj-ep138.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Anthropic",
+        "GOOGL",
+        "Post-Training",
+        "OpenClaw"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GOOGL",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Alphabet (GOOGL): post-training era raises GPU split toward RLHF/SFT — must align Gemini agent behavior with cloud inference economics and flat-team dogfooding"
+        },
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Anthropic: post-training flywheel via Claude Code real-world feedback — Luo's framework validates coding agents as post-train killer app"
+        }
+      ],
+      "chronologySubject": "Luo Fuli · Post-Training Era"
+    },
+    {
+      "id": "zj-ep137",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 137,
+      "title": "4-Hour Interview with Hong Letong: AI for Math, Lean, and the Math Canon",
+      "guest": "Hong Letong",
+      "displayTitle": "Hong Letong",
+      "displaySubtitle": "AI for Math Researcher",
+      "guestRole": "AI for Math Researcher",
+      "date": "2026-04-20",
+      "durationMinutes": 264,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Hong Letong argues AI-for-math is entering industrial scale: Action raised a $1.6B Series A to productize Lean-based formal proof — draft outline, formalize, then prove or leave sorries — turning research math into a verifiable pipeline. Math is structural language, not trivia; bounded attention beats infinite context for reliability. Her 2020 graphs-catch-and-proof paper and B Capital fundraising signal venture conviction, with an Ohio State professor joining the team. Investors should watch Action as a harness play on theorem proving; GOOGL benefits if formal math becomes a model capability layer.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=bv8ghyTFF9w",
+      "summaryFile": "zj-ep137.md",
+      "summaryFileZh": "zj-ep137.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Action",
+        "GOOGL",
+        "AI Math",
+        "Formal Proof"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GOOGL",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Alphabet (GOOGL): formal math and verification as Gemini differentiator — Action's $1.6B raise signals infrastructure demand for trustworthy reasoning"
+        },
+        {
+          "ticker": "Private:Action",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Action: $1.6B Series A on Lean formal-proof pipeline — bounded-attention theorem proving as harness layer; ex-OSU professor hire signals research depth"
+        }
+      ],
+      "chronologySubject": "Hong Letong · AI for Math"
+    },
+    {
+      "id": "zj-ep136",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 136,
+      "title": "Global LLM Quarterly Ep.9: Coding as AGI Act II, Silicon Valley Big Three, Models as Next OS",
+      "guest": "Guangmi",
+      "displayTitle": "Guangmi",
+      "displaySubtitle": "Global LLM Quarterly Ep.9: Coding as AGI Act II, Silicon Valley Big Three, Models as Next OS",
+      "guestRole": "AI Industry Observer",
+      "date": "2026-04-14",
+      "durationMinutes": 83,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Guangmi frames coding as AGI Act II: Sonnet 4.5–4.6 delivered more Q1 capability than all of 2025, with frontier labs seeing 70–80% of new code AI-written and power users burning hundreds of dollars daily in tokens. Anthropic ARR may overtake OpenAI among the top one to two million users; combined frontier ARR could hit $80–100B by year-end and $200B+ next year. Coding remains difficulty 8–9/10 — the hardest real-world task — so models-as-OS and harness layers compound. Investors should overweight Anthropic's coding flywheel and treat GOOGL/MSFT as distribution bets, not assume ~90% knowledge-work automation is priced in.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=u1Lzp-7Ybn8",
+      "summaryFile": "zj-ep136.md",
+      "summaryFileZh": "zj-ep136.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Anthropic",
+        "GOOGL",
+        "MSFT",
+        "Coding AGI"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Anthropic: Sonnet 4.5–4.6 leap and 70–80% AI-written code at frontier labs — ARR may exceed OpenAI among top 1–2M power users; coding flywheel is AGI Act II"
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Alphabet (GOOGL): models-as-OS race requires coding harness depth plus Android/Cloud distribution — ~100-day leadership rotation means execution speed matters"
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Microsoft (MSFT): Copilot distribution scale versus pure-play coding labs — must convert seat count to token-depth flywheels or risk OS-layer commoditization"
+        }
+      ],
+      "chronologySubject": "Guangmi · LLM Quarterly Ep.9"
+    },
+    {
+      "id": "bb-ferrari-magic-from-maranello",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 140,
+      "title": "Ferrari: Magic from Maranello",
+      "guest": "Ferrari",
+      "displayTitle": "Ferrari",
+      "displaySubtitle": "Magic from Maranello · Public · RACE",
+      "guestRole": "Public · RACE",
+      "date": "2023-12-13",
+      "durationMinutes": 60,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Lum argues Ferrari is a luxury company miscategorized as an automaker: ~13,000 units against an 80-million-car industry, mid-high-20s EBIT margins, and a collector pyramid where two-thirds of new cars go to existing owners. The investment case is lifetime-value expansion — customization, limited editions like the 599-unit SP3 Daytona at $2M-plus, and a younger hybrid cohort via the 296 — not volume growth. Combinatorial brand, artisan manufacturing, and client gatekeeping create an edge no single-factor peer replicates.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-ferrari-magic-from-maranello.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "RACE",
+        "Luxury Goods",
+        "Formula One",
+        "Scarcity Economics"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "RACE",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Lum's framework: luxury margins on ~13,000 units, debt paid down post-2015 IPO, collector LTV expansion via customization and limited editions, global wealth creating new cohorts (40% of 296 buyers under 40), and Exor-aligned long-term brand stewardship — compounding slowly without volume inflection."
+        }
+      ],
+      "chronologySubject": "Ferrari"
+    },
+    {
+      "id": "bb-paypal-a-digital-money-marketplace",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 113,
+      "title": "PayPal: A Digital Money Marketplace",
+      "guest": "PayPal",
+      "displayTitle": "PayPal",
+      "displaySubtitle": "A Digital Money Marketplace · Public · PYPL",
+      "guestRole": "Public · PYPL",
+      "date": "2023-05-31",
+      "durationMinutes": 66,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Turner frames PayPal as a chameleon payments marketplace — direct relationships with 435 million users and merchants on both sides, fraud detection built since the Levchin era, and Braintree scaling mobile TPV to $400 billion. The bull case rests on engagement (51 transactions per active user, up from 21 at the 2015 spin) and operating leverage after Elliott-driven cost discipline; risks are falling take rates, Apple NFC lockout, leadership churn post-Schulman, and $13 billion of mixed M&A outcomes.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-paypal-a-digital-money-marketplace.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "PYPL",
+        "AAPL",
+        "Digital Payments",
+        "Network Effects"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "PYPL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Turner's bull case: 435M-user two-sided network, fraud-driven approval rates, $5B FCF funding buybacks, and engagement recovery (51 vs. 21 annual transactions) with mid-20s incremental margins once super-app costs unwind — trading below COVID euphoria despite e-commerce-linked revenue growth and Braintree at $400B TPV growing 40%-plus."
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "Apple Pay's NFC near-field lockout blocks PayPal at physical point-of-sale while PayPal leads desktop and e-commerce checkout (83% vs. 48% of top-475 merchants); EU antitrust may force openness, but today Apple captures incremental wallet transactions PayPal cannot reach on iOS."
+        }
+      ],
+      "chronologySubject": "PayPal"
+    },
+    {
+      "id": "bb-the-walt-disney-company-an-entertainment-empire",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 101,
+      "title": "The Walt Disney Company: An Entertainment Empire",
+      "guest": "The Walt Disney Company",
+      "displayTitle": "The Walt Disney Company",
+      "displaySubtitle": "An Entertainment Empire · Public · DIS",
+      "guestRole": "Public · DIS",
+      "date": "2023-03-15",
+      "durationMinutes": 49,
+      "readMinutes": 4,
+      "rating": 4,
+      "conclusion": "Disney is a century-old storytelling machine monetized through parks, cable affiliate fees, and licensing flywheels — but the next decade hinges on whether management can rebuild cable-like economics in streaming without starving the creative engine that feeds every other segment.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-the-walt-disney-company-an-entertainment-empire.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "DIS",
+        "Streaming",
+        "Theme Parks",
+        "Media IP"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "DIS",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Weiss sees more opportunity than risk if Disney commits to profitable Disney+ at ~200M households × $15/month (~$36B revenue, ~$14B EBITDA, ~$250B EV for streaming alone) while parks and Marvel/IP compound. Medium confidence reflects innovator's-dilemma risk as cable profits decline and activists cap streaming investment."
+        }
+      ],
+      "chronologySubject": "The Walt Disney Company"
+    },
+    {
+      "id": "bb-constellation-software-principled-profitable-permanent",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 97,
+      "title": "Constellation Software: Principled, Profitable, Permanent",
+      "guest": "Constellation Software",
+      "displayTitle": "Constellation Software",
+      "displaySubtitle": "Principled, Profitable, Permanent · Public · CSU",
+      "guestRole": "Public · CSU",
+      "date": "2023-02-16",
+      "durationMinutes": 60,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Cerrone positions Constellation as a decentralized compounder of essential vertical market software: ~$6.5 billion of revenue, ~70% recurring, ~20% ROIC, and 100-plus small deals a year at 20–30% hurdle rates — all under Mark Leonard's zero-dilution compensation ethic. Organic growth near 4% looks modest beside SaaS peers, but clean ~20% free cash flow margins and proprietary acquisition data explain why per-share compounding since the 2006 IPO reached ~130×.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-constellation-software-principled-profitable-permanent.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "CSU",
+        "Vertical Market Software",
+        "Serial Acquisitions"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "CSU",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Allspring has held since 2014 on a three-legged stool — durable ~20% ROIC VMS, skilled capital allocation, and massive reinvestment runway — with ~$6.5 billion revenue, ~70% recurring mix, ~20% clean FCF margins, and a proven 100-deal-per-year engine; Cerrone expects mid-teens-plus per-share compounding if FCF keeps redeploying at ~20% returns even as absolute deal size rises."
+        }
+      ],
+      "chronologySubject": "Constellation Software"
+    },
+    {
+      "id": "bb-netflix-the-original",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 86,
+      "title": "Netflix: The Original",
+      "guest": "Netflix",
+      "displayTitle": "Netflix",
+      "displaySubtitle": "The Original · Public · NFLX",
+      "guestRole": "Public · NFLX",
+      "date": "2022-11-30",
+      "durationMinutes": 56,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Netflix is no longer just a subscriber-growth story; it is becoming a global entertainment software business where fixed content spend can turn scale into free cash flow. The thesis rests on product reliability, broad catalog depth, 100 million password-sharing households, and an ad tier that can widen access without diluting revenue per user.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-netflix-the-original.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NFLX",
+        "Streaming",
+        "Original Content",
+        "Advertising"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NFLX",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Weiss sees a path from about $30 billion of revenue and $1 billion of free cash flow to roughly $40 billion of revenue, $12 billion of operating profit, and $20 per share of earnings if content spend stays near $17-18 billion and ads/password conversion add revenue."
+        }
+      ],
+      "chronologySubject": "Netflix"
+    },
+    {
+      "id": "bb-intuit-an-operating-system-for-small-businesses",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 77,
+      "title": "Intuit: An Operating System for Small Businesses",
+      "guest": "Intuit",
+      "displayTitle": "Intuit",
+      "displaySubtitle": "An Operating System for Small Businesses · Public · INTU",
+      "guestRole": "Public · INTU",
+      "date": "2022-10-05",
+      "durationMinutes": 53,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Intuit is a durable self-service software compounder built on consumer empathy, tax complexity, and small-business workflow standards. QuickBooks' 90% U.S. category share, TurboTax's 30% filing share, Credit Karma's 40 million monthly users, and Mailchimp's earlier customer touchpoint give Intuit multiple ways to digitize unavoidable financial work.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-intuit-an-operating-system-for-small-businesses.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "INTU",
+        "QuickBooks",
+        "TurboTax",
+        "Small Business Software"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "INTU",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Intuit combines 80% gross margins, about 21% GAAP operating margins, 25% cash operating margins excluding acquisition amortization, low digital penetration in tax and small business, and higher-value products like TurboTax Live and QuickBooks Advanced that can lift ARPU while reducing churn."
+        }
+      ],
+      "chronologySubject": "Intuit"
+    },
+    {
+      "id": "bb-crowdstrike-cyber-saas",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 72,
+      "title": "CrowdStrike: Cyber SaaS",
+      "guest": "Roniel Desai",
+      "displayTitle": "CrowdStrike",
+      "displaySubtitle": "Roniel Desai · Senior Public Market Investor, Enterprise Software · Cyber SaaS",
+      "guestRole": "Senior Public Market Investor, Enterprise Software",
+      "date": "2022-09-01",
+      "durationMinutes": 60,
+      "readMinutes": 5,
+      "rating": 4,
+      "conclusion": "Desai frames CrowdStrike as the casino-security model for cloud-era IT: lightweight agents feeding a cross-customer threat graph that legacy McAfee firewalls cannot replicate. At ~$45 billion enterprise value, 61% ARR growth on $1.9 billion, and 70% of million-dollar customers on seven modules, the platform flywheel is real — but Microsoft bundling and closed XDR stacks from Palo Alto remain the threats that cap terminal optimism.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-crowdstrike-cyber-saas.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "CRWD",
+        "Endpoint Security",
+        "Threat Graph"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "CRWD",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Desai sees a rare growth compounder — 61% ARR growth at $1.9 billion scale, expanding TAM, channel flywheel, and platform module attach — but Microsoft Office E5 bundling and closed XDR platforms from Microsoft and Palo Alto are credible threats; valuation near $45 billion already prices flawless platform execution."
+        }
+      ],
+      "chronologySubject": "CrowdStrike"
+    },
+    {
+      "id": "bb-berkshire-hathaway-the-incomparable-compounder",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 63,
+      "title": "Berkshire Hathaway: The Incomparable Compounder",
+      "guest": "Berkshire Hathaway",
+      "displayTitle": "Berkshire Hathaway",
+      "displaySubtitle": "The Incomparable Compounder · Public · BRK.B",
+      "guestRole": "Public · BRK.B",
+      "date": "2022-06-29",
+      "durationMinutes": 74,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Berkshire's lesson is not simply what Buffett bought; it is how he built a balance sheet that could keep buying without ever needing outside capital. Roughly $150 billion of float, massive surplus, no stock compensation, retained earnings, and fortress culture make Berkshire an aircraft carrier that can compound at adequate rates long after Buffett.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-berkshire-hathaway-the-incomparable-compounder.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "BRK.B",
+        "Insurance Float",
+        "Capital Allocation",
+        "Conglomerates"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BRK.B",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Bloomstran owns Berkshire as a top position because roughly $50 billion of economic earnings, conservative leverage, $150 billion of float, and reinvestment at 10-12% make the stock more attractive than the S&P 500 when purchased below intrinsic value."
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Apple illustrates Buffett's durability filter: bought around 12 times earnings, it shifted from tech risk to consumer-product ecosystem moat, with users unlikely to leave the architecture once phone, tablet, notebook, and services are connected."
+        }
+      ],
+      "chronologySubject": "Berkshire Hathaway"
+    },
+    {
+      "id": "bb-block-square-cash-app-and-economic-access",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 53,
+      "title": "Block: Square, Cash App, and Economic Access",
+      "guest": "Block",
+      "displayTitle": "Block",
+      "displaySubtitle": "Square, Cash App, and Economic Access · Public · SQ",
+      "guestRole": "Public · SQ",
+      "date": "2022-04-06",
+      "durationMinutes": 66,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Corlett frames Block as two scaled financial ecosystems—Square for merchants and Cash App for consumers—unified by economic access, trust-first onboarding, and a roadmap to closed-loop transactions. Afterpay adds merchant discovery and in-network volume; the bull case is sustained product velocity and two-sided network effects, while trust erosion or regulatory drag are the main risks.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-block-square-cash-app-and-economic-access.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "SQ",
+        "PYPL",
+        "Payments"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "SQ",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Corlett's bull case rests on two $2B+ gross-profit ecosystems compounding through product attach, closed-loop payments that triple net take on in-network volume, and Afterpay-driven merchant discovery—against a financial-services TAM still littered with legacy UX, with culture and trust as the main execution risks."
+        },
+        {
+          "ticker": "PYPL",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "PayPal retains a durable moat, but Cash App has overtaken Venmo in P2P user growth with far lower CAC (~$10 vs. hundreds for banks) and stronger Gen Z brand penetration while Venmo pivots to monetizing existing users."
+        }
+      ],
+      "chronologySubject": "Block (Square)"
+    },
+    {
+      "id": "acq-sony",
+      "podcastId": "acquired",
+      "episodeNumber": 145,
+      "title": "SONY",
+      "guest": "SONY",
+      "displayTitle": "SONY",
+      "displaySubtitle": "Season 10 · Episode 3",
+      "guestRole": "Season 10 · Episode 3",
+      "date": "2022-03-07",
+      "durationMinutes": 183,
+      "readMinutes": 7,
+      "rating": 5,
+      "conclusion": "Sony is the conglomerate Steve Jobs idolized — from 1945 Tokyo rubble (per-capita income ~$17 in 1946) through transistor radio TR-63 (1.5M units at $25), Walkman, PlayStation, and today's $100B+ empire spanning games, music, film, and imaging. Morita rejected Bulova OEM branding ('sell Sony or nothing') — defining direct-to-consumer identity. Ibuka's engineer haven became second-largest Japanese market cap; Morita called 'engine that pulled the Japanese economy.' Episode traces Betamax loss, PS2 recovery, Spider-Man/Hollywood pivot, and Aibo robots — lesson: vertical integration across content and hardware creates durable but unwieldy power when each division must fund R&D independently.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-sony.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "SONY",
+        "Akio Morita",
+        "Conglomerate Strategy"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "SONY",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Sum-of-parts debate: PlayStation (~30% revenue, ~50% profits), music (>$2B annual cash flow), Spider-Man (95% box office), imaging (~half sensor market). Conglomerate discount persists despite PS5 cycle and MCU deal economics."
+        }
+      ],
+      "chronologySubject": "Sony Corporation"
     },
     {
       "id": "acq-super-pumped-with-brian-koppelman-and-joseph-gordon-levitt",

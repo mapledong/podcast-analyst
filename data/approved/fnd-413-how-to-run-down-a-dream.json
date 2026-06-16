@@ -1,0 +1,107 @@
+{
+  "episode_id": "fnd-413-how-to-run-down-a-dream",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 413,
+    "title": "How To Run Down A Dream",
+    "guest": "Sam Hinkie",
+    "guest_role": "Biography · Episode 413",
+    "date": "2026-03-03",
+    "duration_minutes": 31,
+    "youtube_url": "https://www.youtube.com/watch?v=eSZ4Xep1sJU",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/413-how-to-run-down-a-dream",
+      "youtube": "https://www.youtube.com/watch?v=eSZ4Xep1sJU"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "Private:87Capital",
+    "Career Design",
+    "Analytics"
+  ],
+  "conclusion": "Gurley's Running Down a Dream profiles Sam Hinkie — valedictorian to Bain to Rockets GM at 27 on an inflatable mattress, then 76ers rebuild and 87 Capital VC. Gurley buckets Bobby Knight, Dylan, and Danny Meyer as dream-chasers: deep interest, craft obsession, mentors, peers, and go-giver service. Pick passion over status; information is freely available.",
+  "background": "Senra reads Bill Gurley's Running Down a Dream — expanded from a 2018 MBA talk profiling Sam Hinkie and legendary operators. Hinkie grew up in Marlow, Oklahoma (population under 5,000), valedictorian, Bain hire, then quit for sports analytics after Moneyball and Theo Epstein's 2002 Red Sox.\n\nHe emailed every NFL team offering unpaid work, road-showed five teams over spring break while classmates hit Aruba, and slept on an inflatable mattress in Houston at 27 as Rockets special assistant. Les Alexander and Daryl Morey shared bond-trader philosophy; Hinkie later joined 76ers at 35. Gurley extracts five strains: deep interest, win-by-preparing, hone craft, develop mentors, embrace peer network — plus go-giver generosity.\n\nGurley profiles Knight's 902 wins and Pete Newell clinic stack — 74 plays diagrammed on hotel floor. Meyer burned savings to $25k negative net worth studying 14 barbecue pork variations across North Carolina. Dylan hitchhiked 1,200 miles on $10; sold 100 million records after studying every folk album nine months.",
+  "important_facts": [
+    "Hinkie interned at Ernst & Young on sports-team valuations, joined Bain as first Oklahoma hire, quit ~18 months in after mentors laughed at 'Sports GM' — then read Moneyball in days and chased analytics full time.",
+    "Spring break road show: visited five NFL teams while classmates vacationed; Houston Texans internship lasted eight weeks, then stuck — flying Palo Alto to Houston repeatedly. At 27 he became Rockets special assistant, sleeping on an inflatable mattress working 6 a.m. to midnight.",
+    "2020: launched 87 Capital VC — name from Robert Caro's Means of Ascent: Lyndon Johnson won a 1948 Senate race by 87 votes. Gurley profiles Knight (902 victories), Dylan ($10 and 1,200 miles to NYC), Meyer (quit law school, $12,000 negative net worth opening Union Square Cafe). Hinkie 76ers tenure media-covered; post-exit teaches Stanford with two ears one mouth rule; 87 Capital backs dreamers stopped learning."
+  ],
+  "mental_model": {
+    "name": "Run Down the Dream",
+    "components": "Pick a deep interest — not status careers that burn out. Prepare to win (Knight sat next to coaches at luncheons). Hone craft obsessively (Dylan studied every folk album nine months). Collect mentors (Burritos with Parag Marathe). Build peer network with zero-sum-free sharing. Give credit and gifts — go-giver service compounds.",
+    "application": "Founders choosing markets should ask Gurley's filter: immense passion plus use-it-or-lose-it life. Hinkie's unpaid NFL pitches mirror Dylan's hitchhike — information is free; execution differentiates. Hire aptitude and attitude; skills train later (Kelly maxim echoed). Zero excuse for ignorance — Gurley: news is free, collect information peers swipe from bedrock. Surround yourself with people you want to find; Bezos hiring bar single most important element."
+  },
+  "key_insights": [
+    {
+      "view": "Status careers fake; passion shows.",
+      "question": "Why quit Bain for sports?",
+      "answer": "When mentors asked 'if you could do anything,' Hinkie said Sports GM — they laughed. Moneyball plus Theo Epstein becoming youngest GM at 28 proved analytics disruption real. He quit lucrative consulting to chase a dream parents thought crazy."
+    },
+    {
+      "view": "Earn influence before earning title.",
+      "question": "How did Hinkie enter the NFL?",
+      "answer": "Emailed and mailed every franchise offering unpaid intern work on salary-cap analytics; spring break road show hit five teams in one week. Texans eight-week stint became multi-year foothold via relentless value-add without burdening staff."
+    },
+    {
+      "view": "Generosity is networking that scales.",
+      "question": "What is Gurley's go-giver principle?",
+      "answer": "Celebrate peers, share non-proprietary knowledge, send gifts and letters — Knight passed Pete Newell's clinics to Coach K. Trading smart beats hoarding; worry about failing to advance, not failing to share."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:87Capital",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Hinkie's 87 Capital applies bond-trader risk framing to venture — underwriting dreamers who run down passions with analytics discipline; no public float but useful lens for sports-tech and decision-science founders."
+    }
+  ],
+  "golden_quotes": [
+    "Life is a use-it-or-lose-it proposition — Gurley on immense passion over status careers.",
+    "Two ears, one mouth — use in proportion — Hinkie's advice to students after the 76ers journey.",
+    "87 votes — Means of Ascent margin that names Hinkie's venture firm."
+  ],
+  "chronology": {
+    "subject": "Sam Hinkie · Bill Gurley",
+    "events": [
+      {
+        "date": "2000s",
+        "event": "Bain Capital; Ernst & Young sports valuation exposure."
+      },
+      {
+        "date": "2002",
+        "event": "Moneyball published; Epstein named Red Sox GM at 28."
+      },
+      {
+        "date": "Mid-2000s",
+        "event": "NFL road show; Rockets inflatable-mattress years."
+      },
+      {
+        "date": "2013",
+        "event": "Named 76ers GM at 35."
+      },
+      {
+        "date": "2018",
+        "event": "Gurley MBA talk on running down a dream."
+      },
+      {
+        "date": "2020",
+        "event": "Launches 87 Capital venture firm."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "episode_id": "fnd-412-how-roger-federer-works",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 412,
+    "title": "How Roger Federer Works",
+    "guest": "Roger Federer",
+    "guest_role": "Biography · Episode 412",
+    "date": "2026-02-19",
+    "duration_minutes": 48,
+    "youtube_url": "https://www.youtube.com/watch?v=g2-duG1-Jxc",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/412-how-roger-federer-works",
+      "youtube": "https://www.youtube.com/watch?v=g2-duG1-Jxc"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "NKE",
+    "Mental Performance",
+    "Longevity"
+  ],
+  "conclusion": "Clare's The Master plus Federer's Dartmouth address: 1,526 matches, ~80% wins, but only ~54% of points won — champions move on fast. Psychologist Christian Marcoli rebuilt emotional control; Bowerman's stress-recover-improve loop and 2018 Uniqlo $300M deal show brand outlasting Nike athlete era. NKE parallels athlete-equity craft; Federer's longevity is systematic recovery plus present-moment focus.",
+  "background": "Senra reads Christopher Clare's The Master — a performance-focused Federer biography — alongside his Dartmouth commencement. Young Federer threw rackets; opponents said he would lead for two hours then fade. Peter Carter, Pierre Paganini, and Mirka Vavrinec formed a decade-long team emphasizing recovery equal to training.\n\nAt 19 Federer beat Sampras at Wimbledon 2001; by 21 he addressed racket-throwing as career-defining image risk. Marcoli collaboration from age ~22 built emotional bubble — flames converted to slow fuel. Post-retirement: 2013 Forbes estimated $71M income; 2018 Uniqlo $300M decade deal plus On shoe stake in Zurich.\n\nFederer skipped formal schooling at 16 for pro tour; dentist switched for positivity. Lucille Ball mentored Arnold parallel — say yes, act accordingly. Larry Ellison loved winning but corrected: 'No, I love to fight.' Nadal pre-match sprints versus Federer coffee-shop calm — same respect, different combustion.",
+  "important_facts": [
+    "Federer's Dartmouth math: 1,526 career matches, ~80% match wins, but only ~54% of points won — even the greatest lose nearly every second point; dwelling on errors wastes energy opponents also feel.",
+    "Teenage Federer had heart rate ~30 beats above normal in pressure moments, leading to racket abuse; psychologist Christian Marcoli from age ~22 taught systematic emotion management — calm exterior, boiling interior converted to fuel. Carter cerebral coaching from Australian journeyman at Basel; stagnation equals regression per team belief.",
+    "2013 Forbes listed Federer world's highest-paid athlete at ~$71M; 2018 Uniqlo 10-year apparel deal ~$300M with On Running shoe investment — personalized sponsor suite meetings, not rushed CEO handoffs. Burnout avoided via minimum practice, protected nights, therapy with Paul Annacone; Rick Rubin Creative Act cited for decompression."
+  ],
+  "mental_model": {
+    "name": "Point-by-Point Recovery",
+    "components": "Effortlessness is myth — meticulous planning and self-doubt backstage. Bowerman: stress, recover, improve — skipping rest equals injury. Trust talent but engineer support (Carter, Paganini, Marcoli). Compete present-moment; fear projects future shots not yet taken. Longevity via minimum burnout practice and protected family time.",
+    "application": "Operators mirroring Federer build seamless trust webs — Charlie Munger's deserved-trust idea applied to coaches and spouses. NKE and Uniqlo bets reward athletes who protect brand composure; founders should treat emotional regulation as trainable infrastructure, not personality."
+  },
+  "key_insights": [
+    {
+      "view": "Winning matches ≠ winning points.",
+      "question": "What is Federer's 54% lesson?",
+      "answer": "Even world No. 1 wins barely half of points — champions teach themselves to move on after double faults. Negative energy is wasted; opponents suffer self-doubt too. Relentless adaptation beats perfectionism on last shot. Roller coaster truth: natural to doubt after loss — force smile, move on, become master at overcoming hard moments."
+    },
+    {
+      "view": "Recovery is half the program.",
+      "question": "How did Paganini change Federer at 17?",
+      "answer": "Bowerman via Paganini: stress-recover-improve — rest is mechanism for work, not laziness. Teen Federer learned intelligent restraint after willed overtraining; fresh head equals fresh body for a 70-year career horizon."
+    },
+    {
+      "view": "Brand composure is moat.",
+      "question": "Why did Federer fix racket-throwing at 21?",
+      "answer": "2001 Sampras win brought fame; he realized TV tantrums risked career-defining image. Marcoli built bubble — outside calm, inside fire channeled to fuel. Olympic gold at 19 with 43rd ATP title showed discipline business rewards."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NKE",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Federer-Nike era personalized sponsorship suites; post-Nike Uniqlo/On deal shows athlete equity outlasting pure endorsement — NKE benefits when athlete brands compound without scandal volatility."
+    }
+  ],
+  "golden_quotes": [
+    "Only 54% of points won across 1,526 matches — champions move on immediately.",
+    "Stress, recover, improve — Bowerman's loop Federer learned at 17.",
+    "I found that person on this planet — Federer at 21 after fixing tantrums and winning Wimbledon again."
+  ],
+  "chronology": {
+    "subject": "Roger Federer",
+    "events": [
+      {
+        "date": "Age 8–14",
+        "event": "Junior racket abuse; boarding school at 14."
+      },
+      {
+        "date": "Age 17",
+        "event": "Paganini fitness; Marcoli psychology begins."
+      },
+      {
+        "date": "2001",
+        "event": "Wimbledon beats Sampras; fame accelerates."
+      },
+      {
+        "date": "Age 21",
+        "event": "Addresses tantrums; wins 21st title."
+      },
+      {
+        "date": "2013",
+        "event": "Forbes ~$71M highest-paid athlete."
+      },
+      {
+        "date": "2018",
+        "event": "Uniqlo $300M deal; On shoe investment."
+      }
+    ]
+  }
+}

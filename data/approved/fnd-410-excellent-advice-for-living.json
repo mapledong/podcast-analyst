@@ -1,0 +1,103 @@
+{
+  "episode_id": "fnd-410-excellent-advice-for-living",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 410,
+    "title": "Excellent Advice for Living",
+    "guest": "Kevin Kelly",
+    "guest_role": "Biography · Episode 410",
+    "date": "2026-01-25",
+    "duration_minutes": 37,
+    "youtube_url": "https://www.youtube.com/watch?v=RUKafK3xCfY",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/410-excellent-advice-for-living",
+      "youtube": "https://www.youtube.com/watch?v=RUKafK3xCfY"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "BRK.B",
+    "Habit Formation",
+    "Long-Term Thinking"
+  ],
+  "conclusion": "Kelly's Excellent Advice for Living — 450 aphorisms from birthday batches starting at 68 — compresses Rockefeller ropes, Munger incentives, Bezos customer obsession, and Rubin redo logic. Enthusiasm worth 25 IQ points; habits beat inspiration; infinite games over finite wins. BRK.B lens via Buffett/Munger quotes Kelly channels; separate creating from improving.",
+  "background": "Senra reads Kevin Kelly's Excellent Advice for Living — discovered via Instagram, read in one sitting. Kelly wrote 68 bits on his 68th birthday, continued yearly to ~450 tweetable seeds expandable into essays. Sources span Buffett, Munger, Rick Rubin, Ed Catmull, Bezos, and Rockefeller.\n\nThemes: enthusiasm and listening as superpowers; deadlines weed mediocrity; forgiveness as self-gift; measure life with your own ruler; habit ropes spun daily; hire aptitude over skills; 5% cohort power of incentives; infinite games versus finite wins; frugal except on passions.\n\nKelly compresses lessons into tweetable seeds — Munger on hatred poisoning hater, Bezos on frugality except passions, Rubin redo secret. Rule of three in conversation; Kobe removed self-negotiation from training. Finite life shrinking — highest leverage is who you spend time with; courtesy costs nothing, consistency beats intensity.\n\nJohn Mackey 5,000th store age 75; Kelly on imagination potent force. Rule of seven research sources; experience overrated for hiring aptitude. Writing grateful possible therapy; calm contagious like panic.",
+  "important_facts": [
+    "Kelly began at 68 with 68 advice bits on his birthday, continued annually to ~450 compact aphorisms — each a seed for a longer essay, compressed from decades reading founders and thinkers.",
+    "Bezos customer obsession and Munger incentive worship recur: top 5% cohort power of incentives underestimated; competing obsesses inward, customer focus pushes invention — Kelly ties to Rockefeller habit ropes spun daily until too thick to break. Dell and Dyson infinite-game rulers; collecting displayed teaches like Buffett shareholder letters.",
+    "Catmull/Ford maternity-ward rule: separate creating from improving — editor must not kill creator; Kelly cites Ogilvy headline worth 80 cents of the dollar and rule of seven sources before believing a fact. Separate creating improving — editor killing creator same pass destroys originality per Catmull Ford maternity ward."
+  ],
+  "mental_model": {
+    "name": "Infinite Game Habits",
+    "components": "Enthusiasm equals +25 IQ; listening is superpower. Deadlines force decisions — Nolan's creative accelerator. Build habit ropes daily; good habits hard to start, bad easy. Play infinite games with your own ruler; compound small steady gains. Separate create pass from edit pass.",
+    "application": "Operators should install Kelly's rule-of-three in conversations and remove self-negotiation on hard tasks (Kobe never debated summer workouts). BRK.B shareholders benefit when managers frugal except on passions and obsess over incentives aligning behavior. Pros are pros at recovering from mistakes; assume busy on email, try twice. Greatness incompatible with optimizing short term — schedule Sabbaths and aimless walks."
+  },
+  "key_insights": [
+    {
+      "view": "Habits beat inspiration.",
+      "question": "What is Rockefeller's rope metaphor?",
+      "answer": "Kelly: spin rope daily until too thick to break — habit beats inspiration for workouts and operations. Become person who never misses workout rather than chasing mood. Munger and Buffett autobiographies show infinite-game rulers."
+    },
+    {
+      "view": "Create and edit separately.",
+      "question": "Why protect newborn ideas?",
+      "answer": "Catmull and Ford treat new work like maternity ward — editor killing creator on same pass destroys originality. Kelly separates invent/select and sketch/inspect phases; Ogilvy fought for headline time because 80 cents of dollar live there."
+    },
+    {
+      "view": "Customer beats competitor obsession.",
+      "question": "How does Kelly echo Bezos?",
+      "answer": "Obsessing competitors is inward; customer focus pushes proactive invention and durable moats. Kelly also: assume busy when emailing, try twice, then stop — high-agency people introduce themselves because everyone is shy."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "BRK.B",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Kelly channels Buffett/Munger on incentives, ropes, and infinite games — BRK culture of frugality except passions and candor mirrors the aphorisms' durable-business lens."
+    }
+  ],
+  "golden_quotes": [
+    "Enthusiasm is worth 25 IQ points — Kelly's opening maxim.",
+    "Spin the rope every day until too thick to break — Rockefeller via Kelly on habits.",
+    "Finite games are played to win; infinite games are played to keep playing."
+  ],
+  "chronology": {
+    "subject": "Kevin Kelly",
+    "events": [
+      {
+        "date": "Age 68",
+        "event": "First 68 birthday advice bits to family."
+      },
+      {
+        "date": "Annual",
+        "event": "Birthday batches continue yearly toward ~450 aphorisms."
+      },
+      {
+        "date": "2020s",
+        "event": "Excellent Advice for Living published."
+      },
+      {
+        "date": "2020s",
+        "event": "Senra discovers book via Instagram; reads in one sitting."
+      },
+      {
+        "date": "Ongoing",
+        "event": "Aphorisms tie to Catmull, Rubin, Bezos, Munger, Rockefeller."
+      }
+    ]
+  }
+}

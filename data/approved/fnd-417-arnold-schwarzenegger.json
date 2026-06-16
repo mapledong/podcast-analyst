@@ -1,0 +1,107 @@
+{
+  "episode_id": "fnd-417-arnold-schwarzenegger",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 417,
+    "title": "Arnold Schwarzenegger",
+    "guest": "Arnold Schwarzenegger",
+    "guest_role": "Biography · Episode 417",
+    "date": "2026-04-19",
+    "duration_minutes": 43,
+    "youtube_url": "https://www.youtube.com/watch?v=-dh-QNlX12k",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/417-arnold-schwarzenegger",
+      "youtube": "https://www.youtube.com/watch?v=-dh-QNlX12k"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "Private:Schwarzenegger",
+    "Brand Building",
+    "Mental Toughness"
+  ],
+  "conclusion": "Arnold's 1977 Education of a Bodybuilder — written at 30 — maps bodybuilding discipline onto Hollywood and business: visualization, six workouts weekly, and pain-as-progress. Mr. Universe at 20 after military jail for AWOL; mail-order empire and concentration beat rivals. Same principles he later applied to movies, politics, and Raising Cane's-style fanatical operator Todd Graves.",
+  "background": "Senra reads Arnold Schwarzenegger's Education of a Bodybuilder, written at 30 in 1977 — a rare early blueprint like young Elon sketching SpaceX decades ahead. At 15 Arnold chose bodybuilding over team sports because only individual recognition satisfied him. Reg Park's Hercules photo became fixed ideal; he trained six days weekly when peers managed two or three.\n\nFather called him sick in the head; Arnold replied he would be the best-built man in the world, then go to America and act. Military AWOL for Junior Mr. Europe led to seven days on a cold stone bench — trophy worth it. Losses became data: secret sauce was concentration on standard exercises with higher reps, not novelty.\n\nSenra ties Arnold's 1977 book to young Elon sketching SpaceX and Bernard Arnault laying LVMH plans in his 40s — early blueprints ridiculed then vindicated. Gladiator forest squats: 250 reps, thighs like balloons. Todd Graves Raising Cane's mirrors fanatical routine — lived in apartment above first store, bedspread unchanged decades later.",
+  "important_facts": [
+    "At 15 Arnold rode 8 miles to the gym; after first leg day he fell off his bike — soreness proved progress. He escalated to six workouts weekly when most trained two or three; father baffled, Arnold answered: 'I will be the best-built man in the world.'",
+    "AWOL during army basic training for Junior Mr. Europe — caught climbing the wall, seven days military jail on a cold stone bench with almost no food; won the trophy anyway and doubled training to four hours twice daily. Reg Park Hercules photo fixed ideal; Arnold pasted magazine photos on walls, trained below-zero without heat as teenager.",
+    "After a third-place loss he photographed winners, analyzed weaknesses, and fixed them with concentration on basics — next contest he placed second, peers ecstatic; Arnold saw only the gap to first. Mail-order courses, seminars, and gym membership grew 70 to 200 members using contest publicity."
+  ],
+  "mental_model": {
+    "name": "Visualize Then Outwork",
+    "components": "Fix a hero image (Reg Park), paste photos on walls, and train through pain because soreness signals growth. Eliminate distractions — even parents — when emotions threaten focus. Measure calves and arms monthly; self-talk until destiny feels inevitable. Apply sport discipline to every new arena.",
+    "application": "Founders entering new fields should transplant proven routines rather than reinvent motivation. Arnold's three-part formula — self-confidence, positive attitude, honest vision — scaled from Austria's ~20 bodybuilders to global brand. Concentration beats exotic programs; visualization without measurement is fantasy."
+  },
+  "key_insights": [
+    {
+      "view": "Pain is feedback, not punishment.",
+      "question": "Why did Arnold keep training when he could barely comb his hair?",
+      "answer": "First leg day left him too weak to ride home — muscles stiff, whole body buzzing. Mother asked why; Arnold learned soreness meant growth. He chose an unpopular sport precisely because total energy devotion was possible."
+    },
+    {
+      "view": "Losses require honest autopsy.",
+      "question": "What changed after placing third?",
+      "answer": "He photographed winners, identified who beat him, and dropped novelty exercises for concentrated basics with higher repetitions — secret was concentration on painful shortcomings, not new machines. Carl Jung psychology with training partner: your body cannot change overnight — clear goals and someone behind you saying one more rep."
+    },
+    {
+      "view": "Discipline transfers across careers.",
+      "question": "How did bodybuilding become a business blueprint?",
+      "answer": "Arnold writes the stuff of bodybuilding applies everywhere — mail-order courses, posing trunks, seminars across 15 countries, and gym membership growth from 70 to 200 using contest showmanship. Same visualization that built calves built Hollywood."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Schwarzenegger",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Arnold's operator playbook — visualization, measurement, publicity loops — is the lens for personal-brand businesses even without a tradable equity; Raising Cane's Todd Graves mirrors the fanatical daily routine."
+    }
+  ],
+  "golden_quotes": [
+    "I will be the best-built man in the world — teenage Arnold to a baffled father.",
+    "The secret is concentration — minutes spent painfully focused on shortcomings, not exotic exercises.",
+    "The stuff of bodybuilding applies everywhere — Arnold's bridge from sport to movies and business empire."
+  ],
+  "chronology": {
+    "subject": "Arnold Schwarzenegger",
+    "events": [
+      {
+        "date": "Age 15",
+        "event": "Chooses bodybuilding; Reg Park photo becomes fixed ideal."
+      },
+      {
+        "date": "Teens",
+        "event": "Six workouts weekly; 8-mile bike rides to gym."
+      },
+      {
+        "date": "Age 18",
+        "event": "Army service; AWOL for Junior Mr. Europe; seven days jail."
+      },
+      {
+        "date": "Age 20",
+        "event": "Wins Mr. Universe; doubles training to four hours twice daily."
+      },
+      {
+        "date": "1977",
+        "event": "Publishes Education of a Bodybuilder at age 30."
+      },
+      {
+        "date": "1970s–80s",
+        "event": "America, acting, mail-order empire, Mr. Olympia dominance."
+      }
+    ]
+  }
+}

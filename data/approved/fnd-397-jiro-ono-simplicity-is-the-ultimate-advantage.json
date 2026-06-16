@@ -1,0 +1,107 @@
+{
+  "episode_id": "fnd-397-jiro-ono-simplicity-is-the-ultimate-advantage",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 397,
+    "title": "Jiro Ono: Simplicity Is The Ultimate Advantage",
+    "guest": "Jiro Ono",
+    "guest_role": "Biography · Episode 397",
+    "date": "2025-08-04",
+    "duration_minutes": 41,
+    "youtube_url": "https://www.youtube.com/watch?v=x2Rj0sgjDSw",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "founders": "https://www.founderspodcast.com/episodes/397-jiro-ono-simplicity-is-the-ultimate-advantage",
+      "youtube": "https://www.youtube.com/watch?v=x2Rj0sgjDSw"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10",
+    "rebalanced_v410": true
+  },
+  "keywords": [
+    "Private:Jiro",
+    "Kaizen",
+    "Operational Excellence"
+  ],
+  "conclusion": "Jiro Dreams of Sushi — 75 years same job, 10-seat subway counter, three Michelin stars at 82 after decades invisible fame. Ultimate simplicity: $400/person (~$25/minute), tuna-only vendors, 40-minute octopus massage, 200 rejected egg iterations. Private:Jiro shows shokunin kaizen beats scale — differentiation via subtraction like Dyson and Disney detail checks.",
+  "background": "Senra transcribed the Jiro documentary — Jiro Ono at 85 in film, 75 years same occupation. Shokunin craftsman: moral duty to perfect craft for society, not ego. Ten-seat Tokyo subway station restaurant; reservations mandatory; no appetizers — sushi only.\n\nKaizen daily routine: same train seat, dislikes holidays. Apprentices start at 19 — hot towels burn hands before touching fish; 200 egg iterations. Rice dealer with pressure-cooker rivals; octopus massaged 40–50 minutes. Three stars at 82; younger son two stars at mirror restaurant.\n\nSenra transcribed full documentary; Jiro dreams sushi ideas nightly. Shokunin moral duty serve society; kaizen daily train seat. MrBeast headquarters visit parallels obsessive thumbnails — one person one job. Todd Graves one-menu focus rhymes; Michelin inspectors astonished restroom outside premises.\n\nYounger son two-star mirror restaurant; eldest apprenticing since 19. Zamuri award ceremony parallels — dedication to craft over social recognition. Octopus vendor picky customers only; anti-establishment rebel buys all or nothing.",
+  "important_facts": [
+    "Jiro: 75 years same job; 10-seat counter in Tokyo subway; ~$400 per person (~60,000 yen today), ~15–20 minute meal — roughly $25/minute, no appetizers, sushi only. 40–50 minute octopus massage; 200 rejected eggs; hot-towel burns before fish touch.",
+    "Apprenticeship gauntlet: hot towels burn hands before cutting fish; egg cooking requires 200 iterations until 'now you are done' — opened own shop at 39 after decades; three Michelin stars at 82. Age nine homeless bridge; failure not option; three stars at 82 after decades unknown fame.",
+    "Octopus massaged 40–50 minutes for softness; tuna vendor sells only tuna — specialists per ingredient; rice dealer uses pressure cooker water at body temperature for ideal deliciousness moment. Rice dealer pressure cooker rivals cannot imitate; body-temperature serving; plate cleared in seconds."
+  ],
+  "mental_model": {
+    "name": "Ultimate Simplicity (Shokunin)",
+    "components": "Novice spotted by too much — master uses fewest resources for intention. Kaizen: same routine daily; taste before every serve. Specialists per ingredient; anti-establishment rebel buys best, no compromise. Details are product — Disney/Main Street parity.",
+    "application": "Luxury and craft businesses win by subtraction not addition — Ferrero, Ferrari, Jiro share impatience with uncleanliness and detail checks. Private operators should reject scale that breaks routine; reservations and price filter serious customers. Arnold and Bernard Arnault detail spotting; Disney Main Street 50-foot congruity check — same detail religion across crafts."
+  },
+  "key_insights": [
+    {
+      "view": "Simplicity is competitive moat.",
+      "question": "What is ultimate simplicity?",
+      "answer": "Master chefs ask how Jiro achieves depth with such simple presentation — answer: purity via subtraction. Novice uses too many ingredients and movements; master uses minimum for intention. Tiny subway ten-seat counter beats hundreds of Tokyo rivals."
+    },
+    {
+      "view": "Routine is the product.",
+      "question": "How does Jiro treat holidays?",
+      "answer": "Dislikes holidays — wants routine back immediately. Same train seat daily; countless tastings/experiments per day. If it doesn't taste good, can't serve it — self-critical inner monologue like history's greatest entrepreneurs."
+    },
+    {
+      "view": "Apprenticeship is gauntlet.",
+      "question": "How are apprentices trained?",
+      "answer": "Hot towels burn hands before fish; years cleaning only; 200 egg iterations rejected. Jiro started at nine after homeless bridge childhood — failure not option. Specialists supply tuna-only, octopus-only; 40-minute massage exemplifies shokunin quality."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Jiro",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Shokunin model — price per minute, zero scale compromise, supplier specialization — is benchmark for private luxury craft; Raising Cane's one-menu focus and LVMH detail culture rhyme."
+    }
+  ],
+  "golden_quotes": [
+    "Ultimate simplicity leads to purity — master chefs on Jiro's depth.",
+    "If it doesn't taste good, you can't serve it — daily tasting mantra.",
+    "Once you decide your occupation, immerse and fall in love — 75 years same job."
+  ],
+  "chronology": {
+    "subject": "Jiro Ono",
+    "events": [
+      {
+        "date": "Age 9",
+        "event": "Leaves home; bridge survival; craft as lifeline."
+      },
+      {
+        "date": "Age 19",
+        "event": "Apprenticeship begins — hot towel gauntlet."
+      },
+      {
+        "date": "Age 39",
+        "event": "Opens own ten-seat restaurant."
+      },
+      {
+        "date": "Age 82",
+        "event": "Three Michelin stars awarded."
+      },
+      {
+        "date": "Film era",
+        "event": "Jiro Dreams of Sushi documentary at ~85."
+      },
+      {
+        "date": "Ongoing",
+        "event": "Younger son two-star mirror restaurant; kaizen daily."
+      }
+    ]
+  }
+}
