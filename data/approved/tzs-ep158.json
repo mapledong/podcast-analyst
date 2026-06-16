@@ -1,0 +1,95 @@
+{
+  "episode_id": "tzs-ep158",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 158,
+    "title": "NVIDIA at $5T Peak — Why I Am Bearish",
+    "guest": "David",
+    "guest_role": "Practical Investments Host",
+    "date": "2025-11-11",
+    "duration_minutes": 51,
+    "youtube_url": "https://www.youtube.com/watch?v=OSxQnF4sIz8",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=OSxQnF4sIz8",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "NVDA",
+    "Valuation",
+    "AI Capex",
+    "TSMC"
+  ],
+  "conclusion": "David, among the most explicit NVDA bears on Practical Investments, went cautious at ~$4.5T before the stock rose another ~10% to ~$5T (Nov 11 2025 special). He compares NVDA's cap to Germany's ~$5T GDP, global auto industry's ~$3.8T total market cap, and notes Q2 FY26 revenue ~$46.7B (+56% YoY) with datacenter ~80% mix — yet sees consensus 2026 revenue $210–300B as priced for perfection. TSMC CoWoS 60–70% locked by NVDA tightens supply narrative. Investors should Watch Nvidia (NVDA) for valuation risk if capex digestion slows.",
+  "background": "Nov 11 2025 special episode: host David (bearish since ~$4.5T, not $5T) and guest Sixiang dissect NVDA at ~$5T. Scale anchors: Germany GDP ~$5T, Japan ~$4.28T, global auto market cap ~$3.8T including Tesla — one chip company's cap exceeds entire auto industry. Latest quarter revenue ~$46.7B, +56% YoY; datacenter ~80% of mix. Blackwell, HBM, and TSMC CoWoS form supply tripod — NVDA locked ~60–70% of advanced packaging. Street 2026 revenue estimates cluster $210–300B; David fears unanimous high growth embeds miss risk. $68B buyback shows management confidence but does not shrink macro valuation debate.",
+  "important_facts": [
+    "$5T versus real economy: David notes NVDA ~$5T market cap rivals Germany's ~$5T GDP and exceeds global auto industry ~$3.8T total capitalization — also ~¼–⅙ of global gold stock and ~13% of US national debt scale he cites for intuition. Bear case is not short thesis — valuation discipline at civilization-scale numbers.",
+    "Fundamentals strong, expectations stronger: Q2 FY26 revenue ~$46.7B (+56% YoY); datacenter ~80%. Yet David flagged bearish view at $4.5T; stock added ~10% to $5T. Consensus 2026 revenue $210–300B (Morgan Stanley and peers lifted post GTC/OpenAI capex signals) implies little room for hyperscaler pause.",
+    "Supply lock-in: TSMC CoWoS advanced packaging ~60–70% committed to NVDA; HBM from SK hynix, Samsung, Micron similarly tight — supports near-term revenue visibility David admits for 6–12 months but argues price already reflects 2026–27 earnings power."
+  ],
+  "mental_model": {
+    "name": "$5T Scale Test × Consensus Revenue Cliff × CoWoS Lock-In",
+    "components": "Market cap versus GDP frames bubble discipline — not automatic short. Datacenter 80% mix ties NVDA to capex cycles. CoWoS/HBM lock-in gives 6–12 month visibility; valuation risk is outer-year growth deceleration.",
+    "application": "Nvidia (NVDA): Watch — trim sizing if 2026 revenue baked above $250B without hyperscaler order cuts priced. CoWoS lock-in supports tactical hold; $4.5T bear entry reminds momentum can extend 10%+ past fair-value calls."
+  },
+  "key_insights": [
+    {
+      "view": "$5T is a civilization-scale valuation event.",
+      "question": "Why compare to Germany GDP?",
+      "answer": "David uses cross-asset anchors — GDP, auto industry cap, gold — to stress one firm's weight in the global wealth pool. Comparison is mental discipline, not forecast of collapse; it forces explicit growth assumptions."
+    },
+    {
+      "view": "Bearish since $4.5T — momentum overshoots.",
+      "question": "How to read David's timing?",
+      "answer": "He clarified bearish before $5T; stock rose ~10% after $4.5T call — lesson that supply-lock narratives overpower valuation for quarters. Investors separate 6-month visibility from 3-year terminal value."
+    },
+    {
+      "view": "Unanimous $210–300B 2026 revenue is the risk.",
+      "question": "What could break the bull case?",
+      "answer": "If hyperscaler capex flattens while TSMC capacity still flows to NVDA, earnings beat but multiple compresses. David's edge case: earnings grow, stock flat/down — classic late-cycle dynamic at $5T."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Nvidia (NVDA): David bearish since ~$4.5T at ~$5T Nov 2025 — Germany GDP-scale cap versus $210–300B 2026 revenue consensus; Watch valuation if capex digestion slows despite CoWoS lock-in"
+    }
+  ],
+  "golden_quotes": [
+    "Five trillion dollars is roughly Germany's GDP — one company should make you pause.",
+    "I turned cautious at four and a half trillion; it still went up another ten percent.",
+    "Datacenter is eighty percent of revenue and everyone agrees on two hundred billion plus for twenty-twenty-six — that unanimity is the risk."
+  ],
+  "chronology": {
+    "subject": "David · NVDA $5T Bear Case",
+    "events": [
+      {
+        "date": "2025-04",
+        "event": "Tariff shock trough; NVDA recovers from ~$3.5T"
+      },
+      {
+        "date": "2025-08",
+        "event": "Q2 FY26 revenue ~$46.7B (+56% YoY) reported"
+      },
+      {
+        "date": "2025",
+        "event": "David turns cautious at ~$4.5T cap"
+      },
+      {
+        "date": "2025-11-11",
+        "event": "NVDA ~$5T; special episode with Sixiang"
+      },
+      {
+        "date": "2026",
+        "event": "Street 2026 revenue estimates $210–300B cluster"
+      }
+    ]
+  }
+}

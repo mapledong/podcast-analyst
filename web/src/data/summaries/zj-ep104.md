@@ -1,0 +1,114 @@
+# EP.104 — Zhu Mingming (Misa)
+
+## *Rokid's Zhu Mingming on Alibaba, Smart Glasses, and 11 Years in Hardware's Dark Forest*
+
+**★★★☆☆** · 3/5
+
+**Podcast** Zhang Xiaojun Podcast · **Date** May 15, 2025 · **Duration** 129 min · **Read** ≈3 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Zhu Mingming (Misa) · Rokid Founder
+
+**Listen** [YouTube](https://www.youtube.com/watch?v=qW-kgogQwJc) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** BABA · ROKID · SMART · AR
+> ### Conclusion
+>
+> Rokid founder Zhu Mingming, after Alibaba's ≈$10M acquisition and eleven years in hardware, argues smart glasses are at BlackBerry-to-iPhone inflection — form factor and AI interaction matter more than spec sheets. 2025 H1 pits startups against Meta, Apple, and Chinese giants in a land-grab. Investors should Watch Alibaba (BABA) on whether Rokid integration yields AI-glasses distribution without repeating mobile OS missteps.
+
+---
+
+## Background
+
+> Zhang Xiaojun speaks with Zhu Mingming on AR smart glasses after Alibaba invested ≈$10M to acquire Rokid assets — eleven years of hardware iteration inform his view that the category is pre-iPhone moment. BlackBerry-era glasses show notifications; iPhone-era glasses become ambient AI interfaces with cameras, audio, and on-device models. Zhu warns 2025 H1 competition intensifies as Meta Ray-Ban, Apple Vision roadmap, and Chinese internet platforms converge. Hardware veterans survive by vertical integration — optics, thermals, and supply chain — not app-layer alone.
+
+---
+
+## Key Facts
+
+> **F1** Alibaba ≈$10M Rokid deal: Zhu Mingming's Rokid brings 11 years hardware DNA into BABA's AI consumer push — small headline dollars but strategic option on glasses form factor. BABA Watch on whether Rokid becomes distribution wedge for Tongyi models versus standalone failure like prior mobile ecosystem gaps.
+
+> **F2** BlackBerry-to-iPhone stage: Zhu says current AR glasses are utility gadgets; next wave pairs lightweight frames with always-on AI — voice, vision, and contextual agents without phone pull-out. 2025 H1 giant entry (Meta, Apple supply chain, Chinese platforms) raises capex and talent war for startups.
+
+> **F3** Hardware moat: eleven-year iteration on optics weight, battery, and heat — software demos without BOM discipline fail at scale. Investors Watch BABA for AI-plus-glasses synergy; avoid valuing Rokid on metaverse hype without unit shipment and attach-rate data.
+
+
+---
+
+## Mental Model · *Glasses Inflection × 11-Year BOM × Giant H1 2025*
+
+> **Components**
+>
+> Category shift from notification accessory to AI ambient computer — BlackBerry to iPhone pattern. Hardware years compound optics and thermal moats. 2025 H1 giant land-grab raises startup mortality.
+>
+> **Application**
+>
+> Alibaba (BABA): Watch Rokid integration — AI glasses as mobile-search successor needs shipment proof, not $10M headline. Compare Meta Ray-Ban attach rates. Underweight pure software AR without eleven-year BOM scar tissue.
+
+---
+
+
+## Key Insights
+
+> **1.** Smart glasses are pre-iPhone, not post-VR.
+>
+> **Q** Why BlackBerry-to-iPhone framing?
+>
+> **A** Today's glasses mirror early smartphones — email on a small screen. Zhu bets ambient AI plus acceptable weight flips adoption. Investors should track daily active wear time, not CES demos.
+
+> **2.** Alibaba bought optionality, not category victory.
+>
+> **Q** How to read ≈$10M acquisition?
+>
+> **A** Rokid gives BABA hardware credibility and team; $10M is toe-dip sizing. Watch whether Tongyi models ship on-device on Rokid frames with retail distribution — otherwise acquisition stays acqui-hire headline.
+
+> **3.** 2025 H1 giant entry raises the bar.
+>
+> **Q** What changes with Meta and Apple pressure?
+>
+> **A** Supply chain, brand, and app ecosystems compress startup window — eleven-year hardware shops survive on BOM and manufacturing relationships. Zhu's warning: 2025 H1 is land-grab, not profit pool.
+
+---
+
+## Investment Ideas
+
+> **1. BABA** · 🟡 WATCH · ●●○ Medium
+>
+> Alibaba (BABA): ≈$10M Rokid acquisition plus Zhu's 11-year hardware — Watch AI smart-glasses distribution and on-device Tongyi attach without repeating mobile OS gaps
+
+---
+
+## Golden Quotes
+
+> "Smart glasses are BlackBerry waiting for iPhone — notifications today, ambient AI tomorrow."
+
+> "Eleven years of hardware teaches you optics and heat matter more than the demo app."
+
+> "Twenty-twenty-five first half is giants versus startups — land-grab, not margins yet."
+
+---
+
+## Chronology
+
+> *Zhu Mingming · Rokid Smart Glasses*
+>
+> **2014** Rokid founded; hardware iteration begins
+>
+> **2014–24** Eleven years optics, thermal, and BOM learning
+>
+> **2025** Alibaba ≈$10M Rokid acquisition
+>
+> **2025 H1** Giant competition — Meta, Apple ecosystem, Chinese platforms
+>
+> **2026** Zhu records podcast on glasses inflection
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Podcast, Zhang Xiaojun, or Zhu Mingming (Misa). It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=qW-kgogQwJc) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

@@ -1416,6 +1416,17 @@ episodes:
   duration_minutes: 98
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep176
+  episode_number: 176
+  title: 'Building Super IP: Pop Mart and 15 Years of China''s Art-Toy Industry |
+    Chen Grey Chan'
+  guest: Chen Grey Chan
+  guest_role: Author of Super IP Incubation Principles
+  date: '2026-01-31'
+  duration_minutes: 101
+  youtube_url: https://www.youtube.com/watch?v=lqMnWASTTvk
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-lockheed-martin
   episode_number: 175
   title: Lockheed Martin
@@ -1470,6 +1481,16 @@ episodes:
   duration_minutes: 90
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep170
+  episode_number: 170
+  title: 'Deep Dive on Apple: Jobs, Culture, and Competitive Moat | Hu Wei'
+  guest: Hu Wei
+  guest_role: Practical Investments Friend & Apple Researcher
+  date: '2026-02-02'
+  duration_minutes: 236
+  youtube_url: https://www.youtube.com/watch?v=zYdRq7lGjcE
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-sessions-david-senra-founders-podcast
   episode_number: 169
   title: 'Sessions: David Senra (Founders Podcast)'
@@ -1497,6 +1518,16 @@ episodes:
   duration_minutes: 212
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep167
+  episode_number: 167
+  title: 'Moutai and Pinduoduo: Baijiu Cycle, Channel Reform | Du Jiuge'
+  guest: Du Jiuge
+  guest_role: Former PDD Alcohol Category Lead, 15-Year Liquor E-commerce Operator
+  date: '2026-01-11'
+  duration_minutes: 141
+  youtube_url: https://www.youtube.com/watch?v=KR4aulvfQto
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-holiday-special-2022
   episode_number: 166
   title: Holiday Special 2022
@@ -1587,6 +1618,16 @@ episodes:
   duration_minutes: 90
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep158
+  episode_number: 158
+  title: NVIDIA at $5T Peak — Why I Am Bearish
+  guest: David
+  guest_role: Practical Investments Host
+  date: '2025-11-11'
+  duration_minutes: 51
+  youtube_url: https://www.youtube.com/watch?v=OSxQnF4sIz8
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-amazon-com
   episode_number: 157
   title: Amazon.com
@@ -2015,6 +2056,16 @@ episodes:
   duration_minutes: 111
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep126
+  episode_number: 126
+  title: 'BYD: World''s Strongest Manufacturer or Auto Industry''s Evergrande?'
+  guest: David
+  guest_role: Practical Investments Host
+  date: '2025-08-15'
+  duration_minutes: 93
+  youtube_url: https://www.youtube.com/watch?v=4NDIYC9mOFM
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-berkshire-hathaway-part-iii
   episode_number: 125
   title: Berkshire Hathaway Part III
@@ -2060,6 +2111,17 @@ episodes:
   duration_minutes: 191
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep121
+  episode_number: 121
+  title: DeepMind's Tan Jie on Robotics, Cross-Embodiment, World Models, Gemini Robotics
+    1.5, and Google
+  guest: Tan Jie
+  guest_role: Google DeepMind Senior Research Scientist & Robotics Tech Lead
+  date: '2025-11-28'
+  duration_minutes: 126
+  youtube_url: https://www.youtube.com/watch?v=2o281Zy5aZE
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-special-why-now-for-digital-health-with-levels-founder-josh-clemente
   episode_number: 120
   title: 'Special: "Why Now" for Digital Health (with Levels founder Josh Clemente)'
@@ -2069,6 +2131,17 @@ episodes:
   duration_minutes: 88
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep120
+  episode_number: 120
+  title: XPeng's Liu Xianming on Removing Language from VLA, Physical AI, and the
+    AI Transformation
+  guest: Liu Xianming
+  guest_role: XPeng Autonomous Driving Center Head
+  date: '2025-10-30'
+  duration_minutes: 109
+  youtube_url: ''
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-rec-room-part-ii-with-ceo-nick-fajt
   episode_number: 119
   title: Rec Room Part II (with CEO Nick Fajt)
@@ -2177,6 +2250,17 @@ episodes:
   duration_minutes: 56
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep109
+  episode_number: 109
+  title: Robot Data Famine? Xie Chen on Simulation, Synthetic Data, Meta's Scale AI
+    Deal, and Alexandr Wang
+  guest: Xie Chen
+  guest_role: Lightwheel Intelligence Founder & CEO
+  date: '2025-06-20'
+  duration_minutes: 101
+  youtube_url: https://www.youtube.com/watch?v=pWY0HVUH8GA
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-special-superhuman-part-ii-designing-software-to-feel-like-a-game-with-rahul-vohra
   episode_number: 108
   title: Superhuman Part II - Designing Software to Feel like a Game
@@ -2222,6 +2306,17 @@ episodes:
   duration_minutes: 96
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep104
+  episode_number: 104
+  title: Rokid's Zhu Mingming on Alibaba, Smart Glasses, and 11 Years in Hardware's
+    Dark Forest
+  guest: Zhu Mingming (Misa)
+  guest_role: Rokid Founder
+  date: '2025-05-15'
+  duration_minutes: 129
+  youtube_url: https://www.youtube.com/watch?v=qW-kgogQwJc
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-epic-games
   episode_number: 103
   title: Epic Games
@@ -2438,6 +2533,16 @@ episodes:
   duration_minutes: 101
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep83
+  episode_number: 83
+  title: How Jensen Huang and the $3 Trillion NVIDIA Were Built
+  guest: Wang Yajun & Translators
+  guest_role: The Nvidia Way Translators & Guests
+  date: '2024-12-10'
+  duration_minutes: 104
+  youtube_url: https://www.youtube.com/watch?v=h21t9FgGtOs
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-sequoia-capital-part-1
   episode_number: 82
   title: Sequoia Capital (Part 1)

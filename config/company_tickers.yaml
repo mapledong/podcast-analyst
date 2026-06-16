@@ -37,6 +37,11 @@ aliases:
   airbnb: ABNB
   alibaba: BABA
   baidu: BIDU
+  byd: BYDDY
+  "比亚迪": BYDDY
+  moutai: 600519.SZ
+  贵州茅台: 600519.SZ
+  kweichow moutai: 600519.SZ
   broadcom: AVGO
   coinbase: COIN
   doordash: DASH
@@ -96,6 +101,7 @@ ticker_aliases:
   "9618.HK": JD
   "1024.HK": NTES
   "0700.HK": TCEHY
+  "1211.HK": BYDDY
 
 # China/HK/A-share listings without a US ADR: display as 公司名（TICKER） in zh prose;
 # card pills show English company name by default (CARsgen, Pop Mart). US ADRs (BABA, XPEV)
@@ -113,3 +119,9 @@ china_listings:
   2171.HK:
     zh: 科济药业
     en: CARsgen
+  600519.SZ:
+    zh: 贵州茅台
+    en: Kweichow Moutai
+  1211.HK:
+    zh: 比亚迪
+    en: BYD

@@ -16,6 +16,7 @@ export const COMPANY_ALIASES: Record<string, string> = {
   "berkshire hathaway": "BRK.B",
   "block": "SQ",
   "broadcom": "AVGO",
+  "byd": "BYDDY",
   "carsgen": "2171.HK",
   "cloudflare": "NET",
   "coinbase": "COIN",
@@ -32,12 +33,14 @@ export const COMPANY_ALIASES: Record<string, string> = {
   "jp morgan": "JPM",
   "jpmorgan": "JPM",
   "jpmorgan chase": "JPM",
+  "kweichow moutai": "600519.SZ",
   "louis vuitton": "LVMUY",
   "lvmh": "LVMUY",
   "mercado libre": "MELI",
   "meta": "META",
   "microsoft": "MSFT",
   "mongodb": "MDB",
+  "moutai": "600519.SZ",
   "netflix": "NFLX",
   "nike": "NKE",
   "nvidia": "NVDA",
@@ -68,12 +71,15 @@ export const COMPANY_ALIASES: Record<string, string> = {
   "warner bros": "WBD",
   "warner bros discovery": "WBD",
   "zoom": "ZM",
+  "比亚迪": "BYDDY",
   "科济药业": "2171.HK",
+  "贵州茅台": "600519.SZ",
 };
 
 export const TICKER_ALIASES: Record<string, string> = {
   "0700.HK": "TCEHY",
   "1024.HK": "NTES",
+  "1211.HK": "BYDDY",
   "9618.HK": "JD",
   "9868.HK": "XPEV",
   "9888.HK": "BIDU",
@@ -90,7 +96,9 @@ export type ChinaListingNames = { en: string; zh: string };
 
 export const CHINA_LISTINGS: Record<string, ChinaListingNames> = {
   "0981.HK": { en: "SMIC", zh: "中芯国际" },
+  "1211.HK": { en: "BYD", zh: "比亚迪" },
   "2171.HK": { en: "CARsgen", zh: "科济药业" },
   "300866.SZ": { en: "Anker Innovations", zh: "安克创新" },
+  "600519.SZ": { en: "Kweichow Moutai", zh: "贵州茅台" },
   "9992.HK": { en: "Pop Mart", zh: "泡泡玛特" },
 };

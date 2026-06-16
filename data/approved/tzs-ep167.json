@@ -1,0 +1,101 @@
+{
+  "episode_id": "tzs-ep167",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 167,
+    "title": "Moutai and Pinduoduo: Baijiu Cycle, Channel Reform | Du Jiuge",
+    "guest": "Du Jiuge",
+    "guest_role": "Former PDD Alcohol Category Lead, 15-Year Liquor E-commerce Operator",
+    "date": "2026-01-11",
+    "duration_minutes": 141,
+    "youtube_url": "https://www.youtube.com/watch?v=KR4aulvfQto",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=KR4aulvfQto",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "600519.SZ",
+    "PDD",
+    "Moutai",
+    "Channel Reform"
+  ],
+  "conclusion": "Baijiu veteran Du Jiuge, recorded Jan 11 2026, walks Moutai channel reform — flattening tiers, digital traceability, and fighting fake supply — while PDD alcohol subsidies distort online pricing. Kweichow Moutai (600519.SZ) Watch on批价 stability; PDD Watch on subsidy-driven volume versus brand damage to premium liquor.",
+  "background": "Practical Investments hosts Du Jiuge on Moutai distribution overhaul. Channel reform targets multi-layer经销商 markup and grey-market leakage — direct digital sales and stricter allocation aim to stabilize出厂价 versus market批价 spread. PDD enters via subsidized liquor flash sales, pulling online ASP down and angering traditional channels. Jan 11 2026 episode maps 600519.SZ as pricing-power compounder if reform works; PDD as traffic play with brand externality risk.",
+  "important_facts": [
+    "Moutai channel reform: Du Jiuge details tier reduction, i茅台 digital allocation, and anti-counterfeit tracing — goal is narrow出厂价-批价 gap and stop经销商 hoarding. 600519.SZ Watch on批价 holding ~2,500–2,700 RMB band; reform failure shows as spread blowout and inventory in渠道.",
+    "PDD alcohol subsidies: platform coupons on liquor SKUs drive volume but erode premium scarcity narrative — Du flags conflict between Moutai's controlled supply and PDD's subsidy-led price wars. PDD Watch on take-rate versus brand backlash; 600519.SZ may limit official supply to e-commerce discounters.",
+    "Dual thesis: Kweichow Moutai (600519.SZ) Long/Watch hinges on channel discipline sustaining 90%+ gross margin; PDD (Watch) gains GMV from subsidies but risks regulatory and brand-owner pushback on high-end alcohol."
+  ],
+  "mental_model": {
+    "name": "Channel Reform × 批价 Stability × Subsidy Distortion",
+    "components": "Premium baijiu moat is scarcity plus tier control — reform protects批价. PDD subsidies import ecommerce price wars into luxury liquor. Digital allocation replaces opaque经销商 layers.",
+    "application": "Kweichow Moutai (600519.SZ): Watch批价 and渠道 inventory — reform success narrows spreads. PDD (PDD): Watch liquor subsidy ROI and Moutai official supply stance — volume wins can destroy partner trust."
+  },
+  "key_insights": [
+    {
+      "view": "Moutai's product is scarcity, not liquid.",
+      "question": "Why channel reform matters?",
+      "answer": "Du argues value lives in controlled allocation —经销商 layers and fakes erode trust. Digital pipes and tier cuts defend批价; without them, 600519.SZ becomes volume story with collapsing margin."
+    },
+    {
+      "view": "PDD subsidies are externality bombs.",
+      "question": "How does PDD interact with Moutai?",
+      "answer": "Coupon-led liquor sales pull ASP down platform-wide — premium brands externalize damage. Moutai may starve official supply to discounters; PDD keeps GMV but faces partner escalation."
+    },
+    {
+      "view": "批价 is the investable KPI.",
+      "question": "What should investors track?",
+      "answer": "出厂价 versus market批价 spread and渠道 inventory days — Du's reform success shows there first, before quarterly revenue. PDD liquor GMV is noise without margin attribution."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "600519.SZ",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Kweichow Moutai (600519.SZ): Du Jiuge channel reform — Watch批价 stability and digital allocation versus经销商 grey market"
+    },
+    {
+      "ticker": "PDD",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "PDD (PDD): alcohol subsidies drive GMV but risk premium-brand backlash — Watch Moutai official supply policy to e-commerce discounters"
+    }
+  ],
+  "golden_quotes": [
+    "Moutai sells scarcity — every extra经销商 layer is a tax on that story.",
+    "PDD subsidies move bottles but burn the premium narrative both sides need.",
+    "Watch the批价, not the headline revenue — channel tells truth first."
+  ],
+  "chronology": {
+    "subject": "Du Jiuge · Moutai Channel Reform",
+    "events": [
+      {
+        "date": "2021–22",
+        "event": "i茅台 digital sales launch; reform begins"
+      },
+      {
+        "date": "2023–24",
+        "event": "Tier flattening; anti-counterfeit push"
+      },
+      {
+        "date": "2025",
+        "event": "PDD liquor subsidies scale;批价 volatility"
+      },
+      {
+        "date": "2026-01-11",
+        "event": "Du Jiuge records channel reform episode"
+      },
+      {
+        "date": "2026",
+        "event": "Moutai balances e-commerce versus渠道 stability"
+      }
+    ]
+  }
+}

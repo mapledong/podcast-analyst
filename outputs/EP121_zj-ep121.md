@@ -1,0 +1,114 @@
+# EP.121 — Tan Jie
+
+## *Google DeepMind Senior Research Scientist & Robotics Tech Lead*
+
+**★★★☆☆** · 3/5
+
+**Podcast** Zhang Xiaojun Podcast · **Date** Nov 28, 2025 · **Duration** 126 min · **Read** ≈3 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Tan Jie · Google DeepMind Senior Research Scientist & Robotics Tech Lead
+
+**Listen** [YouTube](https://www.youtube.com/watch?v=2o281Zy5aZE) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** GOOGL · GEMINI · VLA · PHYSICAL
+> ### Conclusion
+>
+> Tan Jie, DeepMind robotics lead, frames Gemini Robotics 1.5 as thinking inside the VLA loop — not bolt-on language — with cross-embodiment motion transfer, fast/slow model stacks, a data pyramid, and world-model VLV targets. DeepMind's 70–80-hour weeks reflect how far physical AI lags LLMs. Investors should Watch Alphabet (GOOGL) on whether Gemini Robotics ships cross-robot generalization before auto OEMs lock in walled-garden stacks.
+
+---
+
+## Background
+
+> In a Zhang Xiaojun episode, Tan Jie details DeepMind's Gemini Robotics 1.5: vision-language-action models that reason during control, not after. Cross-embodiment motion transfer lets skills learned on one robot body port to another — the binding bottleneck for scalable deployment. Fast models handle reflex loops; slow models plan over longer horizons. A data pyramid stacks simulation, teleop, and real-world rollouts; world-model VLV aims to predict physical consequences before actuation. Tan cites 70–80-hour lab weeks — physical AI still trails text models by years. The thesis: whoever owns generalizable robot brains compounds like CUDA did for GPUs.
+
+---
+
+## Key Facts
+
+> **F1** Gemini Robotics 1.5: Tan Jie says thinking runs inside the VLA loop — perception, language intent, and motor commands co-train rather than chaining a chat model to a controller. Cross-embodiment motion transfer is the headline capability: policies trained on one hardware morphology transfer to different arms and bases, attacking the data-scarcity wall that killed prior robotics ML waves.
+
+> **F2** Architecture stack: fast/slow model pairing mirrors human reflex versus deliberation — low-latency loops for contact-rich tasks, slower planners for multi-step manipulation. Data pyramid layers sim-generated trajectories, human teleop, and fleet logs; world-model VLV predicts scene evolution to reduce real-world trial count. DeepMind culture runs 70–80-hour weeks on robotics — signal that physical AI remains pre-paradigm versus LLM scale.
+
+> **F3** Investable frame: generalizable robot brains are a platform bet like CUDA — Alphabet (GOOGL) Watch on Gemini Robotics shipping cross-embodiment transfer to production partners before Tesla, Figure, or Chinese OEMs cement proprietary stacks. Failure mode: robotics stays vertical silos; win mode: one foundation model spans warehouses, homes, and factories.
+
+
+---
+
+## Mental Model · *Thinking VLA × Cross-Embodiment Transfer × Data Pyramid*
+
+> **Components**
+>
+> VLA with in-loop reasoning beats language-then-act pipelines for contact physics. Cross-embodiment transfer turns N robots into one training fleet. Fast/slow stacks price latency versus horizon. Data pyramid plus world-model VLV reduces real-world sample hunger — the CUDA moment for physical AI.
+>
+> **Application**
+>
+> Alphabet (GOOGL): Watch Gemini Robotics 1.5 milestones — cross-embodiment demos converting to paid fleet APIs differentiate from chat-only Gemini. Auto and hardware OEMs without robot-brain stacks become GOOGL distribution. Underweight pure language-agent narratives that ignore 70–80-hour robotics grind.
+
+---
+
+
+## Key Insights
+
+> **1.** Thinking belongs inside VLA, not upstream.
+>
+> **Q** Why does Tan stress in-loop reasoning?
+>
+> **A** Bolt-on LLM planners hallucinate physics — co-trained VLA aligns language intent with torque limits and contact constraints. Gemini Robotics 1.5 targets reasoning during control, the same design shift XPeng's Liu later argues by removing Language from VLA for vehicles. In-loop thinking is the architectural consensus emerging across embodied labs.
+
+> **2.** Cross-embodiment transfer is the scaling unlock.
+>
+> **Q** What breaks robotics data economics?
+>
+> **A** Every robot body historically needed its own dataset — transfer learning across morphologies turns sparse teleop on Robot A into policy gains on Robot B. Tan frames this as DeepMind's moat attempt versus vertical OEM stacks. Investors track demo-to-fleet conversion, not single-arm benchmark videos.
+
+> **3.** Physical AI lags LLMs by a paradigm gap.
+>
+> **Q** How to read 70–80-hour weeks?
+>
+> **A** DeepMind intensity reflects world models, sim-to-real, and safety validation still unsolved at LLM cadence. Data pyramid and VLV world models are bets to compress the gap. GOOGL wins if Gemini Robotics becomes the CUDA of manipulation before capital floods vertical humanoids.
+
+---
+
+## Investment Ideas
+
+> **1. GOOGL** · 🟡 WATCH · ●●○ Medium
+>
+> Alphabet (GOOGL): Gemini Robotics 1.5 thinking-VLA plus cross-embodiment transfer — Tan Jie frames physical AI platform bet; Watch fleet deployment proof
+
+---
+
+## Golden Quotes
+
+> "Thinking has to live inside the VLA loop — you cannot plan manipulation in text and hope physics obeys."
+
+> "Cross-embodiment transfer is how one robot's data becomes every robot's skill."
+
+> "We are still in the seventy-to-eighty-hour-week era of robotics — physical AI is not LLM easy."
+
+---
+
+## Chronology
+
+> *Tan Jie · DeepMind Gemini Robotics*
+>
+> **2023–24** VLA and world-model research accelerates at DeepMind
+>
+> **2025** Fast/slow robotics stacks; data pyramid formalized
+>
+> **2025–26** Gemini Robotics 1.5 with in-loop thinking ships internally
+>
+> **2026** Tan Jie records podcast on cross-embodiment motion transfer
+>
+> **2026+** World-model VLV targets reduce real-world rollout risk
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Podcast, Zhang Xiaojun, or Tan Jie. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=2o281Zy5aZE) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

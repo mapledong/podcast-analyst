@@ -1,27 +1,29 @@
 # Curated star ratings for Chinese podcasts (config/template.yaml rating_distribution).
 # Per podcast: 5★ ≤ floor(n×20%), 4★ ≤ floor(n×30%), default 3★.
-# Lists are priority order — first IDs fill caps when library is smaller than full set.
+# n=15 per podcast after batch 4 (caps: 3×5★, 4×4★).
 
 zhang-xiaojun:
   podcast: Zhang Xiaojun Podcast
   five_star:
     - zj-ep140  # 4hr Anthropic/Gemini — landmark model-training insider
     - zj-ep143  # He Xiaopeng — major CEO + robotics strategic bet
+    - zj-ep83   # Jensen / $3T NVIDIA history — canonical NVDA narrative
   four_star:
     - zj-ep143  # He Xiaopeng — promoted to 4★ when 5★ cap full
     - zj-ep138  # Luo Fuli — agent paradigm / post-training
     - zj-ep145  # SpaceX oral history with former executive
     - zj-ep141  # Freda LP — token economics & org design
-  # all other zj-ep* episodes default to 3★
+  # batch4 zj-ep121/120/109/104 default 3★
 
 touzi-shizhanpai:
   podcast: Practical Investments
   five_star:
     - tzs-ep185  # SMIC co-founder — 40-year semiconductor arc
     - tzs-ep184  # CAR-T science + capacity economics with CEO
+    - tzs-ep170  # Apple culture & moat — 236m deep dive with PPT
   four_star:
     - tzs-ep184  # CAR-T — promoted to 4★ when 5★ cap full
     - tzs-ep179  # Yongqing framework — capital cycles anchor episode
     - tzs-ep180  # Pop Mart deep dive with Jeff
     - tzs-ep186  # Value vs momentum — clear investor discipline
-  # tzs-ep178/181/182/183/187 and zj-ep142/144/136/137/139 default to 3★
+  # batch4 tzs-ep176/167/158/126 default 3★

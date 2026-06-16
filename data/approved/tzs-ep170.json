@@ -1,0 +1,95 @@
+{
+  "episode_id": "tzs-ep170",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 170,
+    "title": "Deep Dive on Apple: Jobs, Culture, and Competitive Moat | Hu Wei",
+    "guest": "Hu Wei",
+    "guest_role": "Practical Investments Friend & Apple Researcher",
+    "date": "2026-02-02",
+    "duration_minutes": 236,
+    "youtube_url": "https://www.youtube.com/watch?v=zYdRq7lGjcE",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=zYdRq7lGjcE",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "AAPL",
+    "Apple Culture",
+    "Moat",
+    "Jobs Legacy"
+  ],
+  "conclusion": "In a 236-minute episode recorded Feb 2 2026, guest Hu Wei argues Apple's moat is Jobs-era culture — design obsession, integration, and willingness to say no — not spec races. At ~236M units and services attach, culture compounds into pricing power and ecosystem lock-in. Investors should Watch Apple (AAPL) on whether post-Jobs culture sustains innovation cadence as AI hardware shifts threaten the integration story.",
+  "background": "Practical Investments devotes 236 minutes to Apple with Hu Wei dissecting culture as competitive advantage. Jobs legacy: end-to-end control, small SKU count, industrial design as religion — culture rejects committee feature bloat. Hu maps moat to ecosystem switching costs plus brand trust, not quarterly AI benchmark wins. Feb 2 2026 recording lands as Vision and AI iPhone cycles test whether culture adapts or calcifies. Services mix and installed base ~236M active devices anchor cash-flow durability.",
+  "important_facts": [
+    "236-minute culture deep-dive: Hu Wei says Apple's edge is organizational — who says no, how teams integrate hardware-software-services, not single-product heroics. Jobs culture survives as process: review rituals, design-centric PM hierarchy, secrecy reducing leak-driven compromise.",
+    "Moat mechanics: ecosystem lock-in (iMessage, AirDrop, Watch, Services) plus brand premium — Hu argues culture protects margin better than fastest chip. ~236M unit installed base and rising services ARPU are measurable outputs of culture, not inputs.",
+    "AAPL Watch: AI iPhone and spatial computing cycles test culture adaptability — can Apple ship AI features with privacy defaults intact, or does culture become risk-averse bottleneck? Feb 2026 timing follows Vision Pro learning curve and on-device model push."
+  ],
+  "mental_model": {
+    "name": "Jobs Culture × Integration Moat × Say-No Discipline",
+    "components": "Culture outputs focus and integration — fewer SKUs, higher polish. Ecosystem lock-in converts culture into switching costs. Say-no discipline avoids commodity feature races.",
+    "application": "Apple (AAPL): Watch services attach and AI feature shipping cadence — culture moat intact if NPS and ARPU rise without SKU explosion. Trim if culture reads as bureaucracy blocking on-device AI parity."
+  },
+  "key_insights": [
+    {
+      "view": "Culture is the product moat.",
+      "question": "Why 236 minutes on culture not chips?",
+      "answer": "Hu argues Apple's durable edge is how decisions get made — integration and refusal — not annual SoC lead. Competitors copy specs; copying culture takes decades. Investors track NPS and retention, not geekbench alone."
+    },
+    {
+      "view": "Ecosystem translates culture to cash flow.",
+      "question": "How does culture hit the model?",
+      "answer": "~236M active devices monetize via Services and accessories — culture keeps users inside walled garden. Switching costs are UX consistency, not contracts."
+    },
+    {
+      "view": "AI cycle is culture stress test.",
+      "question": "Biggest 2026 risk?",
+      "answer": "If on-device AI requires openness or faster iteration, Jobs-era secrecy and say-no may lag Chinese OEM cadence. AAPL Watch on WWDC delivery versus rumor slips."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "AAPL",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Apple (AAPL): Hu Wei 236-min Jobs culture moat thesis — Watch services ARPU and on-device AI shipping as culture adaptability test"
+    }
+  ],
+  "golden_quotes": [
+    "Apple's moat is culture — who says no and how hardware meets software.",
+    "You cannot benchmark culture; you see it in retention and services attach.",
+    "Two hundred thirty-six minutes because chips change every year; culture compounds."
+  ],
+  "chronology": {
+    "subject": "Hu Wei · Apple Culture",
+    "events": [
+      {
+        "date": "1997–2011",
+        "event": "Jobs era shapes design and integration culture"
+      },
+      {
+        "date": "2014–20",
+        "event": "Services flywheel scales on installed base"
+      },
+      {
+        "date": "2023–24",
+        "event": "Vision Pro; on-device AI push begins"
+      },
+      {
+        "date": "2026-02-02",
+        "event": "Hu Wei records 236-minute Apple culture episode"
+      },
+      {
+        "date": "2026",
+        "event": "AI iPhone cycle tests culture adaptability"
+      }
+    ]
+  }
+}

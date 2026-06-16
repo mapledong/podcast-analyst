@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T00:37:38.276Z",
+  "generatedAt": "2026-06-16T11:21:36.479Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -49,7 +49,7 @@
       "accent_color": "#8B2942",
       "youtube_url": "https://www.youtube.com/@xiaojunpodcast",
       "cover_url": "/covers/zhang-xiaojun.jpg",
-      "episodeCount": 10
+      "episodeCount": 15
     },
     {
       "id": "touzi-shizhanpai",
@@ -59,7 +59,7 @@
       "accent_color": "#1A5F4A",
       "youtube_url": "https://www.youtube.com/results?search_query=投资实战派",
       "cover_url": "/covers/touzi-shizhanpai.jpg",
-      "episodeCount": 10
+      "episodeCount": 15
     }
   ],
   "episodes": [
@@ -4850,6 +4850,82 @@
       "chronologySubject": "Cloudflare"
     },
     {
+      "id": "tzs-ep176",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 176,
+      "title": "Building Super IP: Pop Mart and 15 Years of China's Art-Toy Industry | Chen Grey Chan",
+      "guest": "Chen Grey Chan",
+      "displayTitle": "Chen Grey Chan",
+      "displaySubtitle": "Author of Super IP Incubation Principles",
+      "guestRole": "Author of Super IP Incubation Principles",
+      "date": "2026-01-31",
+      "durationMinutes": 101,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "Fifteen-year Pop Mart veteran Chen Grey Chan lays out the 4S IP framework — Story, Style, Spirit, Social — as repeatable playbook behind Labubu and global blind-box scale, recorded Jan 31 2026. Craft and character depth beat trend-chasing SKUs. Investors should Watch Pop Mart (9992.HK) on whether 4S pipeline sustains overseas mix and ASP as giant licensors enter collectibles.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lqMnWASTTvk",
+      "summaryFile": "tzs-ep176.md",
+      "summaryFileZh": "tzs-ep176.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "9992.HK",
+        "Pop Mart",
+        "IP Strategy",
+        "4S Framework"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "9992.HK",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Pop Mart (9992.HK): Chen Grey Chan 4S IP framework after 15 years — Watch overseas mix and pipeline depth versus mascot volume plays"
+        }
+      ],
+      "chronologySubject": "Chen Grey Chan · Pop Mart 4S"
+    },
+    {
+      "id": "tzs-ep170",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 170,
+      "title": "Deep Dive on Apple: Jobs, Culture, and Competitive Moat | Hu Wei",
+      "guest": "Hu Wei",
+      "displayTitle": "Hu Wei",
+      "displaySubtitle": "Practical Investments Friend & Apple Researcher",
+      "guestRole": "Practical Investments Friend & Apple Researcher",
+      "date": "2026-02-02",
+      "durationMinutes": 236,
+      "readMinutes": 2,
+      "rating": 5,
+      "conclusion": "In a 236-minute episode recorded Feb 2 2026, guest Hu Wei argues Apple's moat is Jobs-era culture — design obsession, integration, and willingness to say no — not spec races. At ~236M units and services attach, culture compounds into pricing power and ecosystem lock-in. Investors should Watch Apple (AAPL) on whether post-Jobs culture sustains innovation cadence as AI hardware shifts threaten the integration story.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=zYdRq7lGjcE",
+      "summaryFile": "tzs-ep170.md",
+      "summaryFileZh": "tzs-ep170.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AAPL",
+        "Apple Culture",
+        "Moat",
+        "Jobs Legacy"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AAPL",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Apple (AAPL): Hu Wei 236-min Jobs culture moat thesis — Watch services ARPU and on-device AI shipping as culture adaptability test"
+        }
+      ],
+      "chronologySubject": "Hu Wei · Apple Culture"
+    },
+    {
       "id": "acq-the-nfl",
       "podcastId": "acquired",
       "episodeNumber": 208,
@@ -4889,6 +4965,50 @@
         }
       ],
       "chronologySubject": "National Football League"
+    },
+    {
+      "id": "tzs-ep167",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 167,
+      "title": "Moutai and Pinduoduo: Baijiu Cycle, Channel Reform | Du Jiuge",
+      "guest": "Du Jiuge",
+      "displayTitle": "Du Jiuge",
+      "displaySubtitle": "Former PDD Alcohol Category Lead, 15-Year Liquor E-commerce Operator",
+      "guestRole": "Former PDD Alcohol Category Lead, 15-Year Liquor E-commerce Operator",
+      "date": "2026-01-11",
+      "durationMinutes": 141,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "Baijiu veteran Du Jiuge, recorded Jan 11 2026, walks Moutai channel reform — flattening tiers, digital traceability, and fighting fake supply — while PDD alcohol subsidies distort online pricing. Kweichow Moutai (600519.SZ) Watch on批价 stability; PDD Watch on subsidy-driven volume versus brand damage to premium liquor.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KR4aulvfQto",
+      "summaryFile": "tzs-ep167.md",
+      "summaryFileZh": "tzs-ep167.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "600519.SZ",
+        "PDD",
+        "Moutai",
+        "Channel Reform"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "600519.SZ",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Kweichow Moutai (600519.SZ): Du Jiuge channel reform — Watch批价 stability and digital allocation versus经销商 grey market"
+        },
+        {
+          "ticker": "PDD",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "PDD (PDD): alcohol subsidies drive GMV but risk premium-brand backlash — Watch Moutai official supply policy to e-commerce discounters"
+        }
+      ],
+      "chronologySubject": "Du Jiuge · Moutai Channel Reform"
     },
     {
       "id": "bb-databricks-from-data-to-decisions",
@@ -5199,6 +5319,44 @@
         }
       ],
       "chronologySubject": "GE Aerospace"
+    },
+    {
+      "id": "tzs-ep158",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 158,
+      "title": "NVIDIA at $5T Peak — Why I Am Bearish",
+      "guest": "David",
+      "displayTitle": "David",
+      "displaySubtitle": "NVIDIA at $5T Peak — Why I Am Bearish",
+      "guestRole": "Practical Investments Host",
+      "date": "2025-11-11",
+      "durationMinutes": 51,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "David, among the most explicit NVDA bears on Practical Investments, went cautious at ~$4.5T before the stock rose another ~10% to ~$5T (Nov 11 2025 special). He compares NVDA's cap to Germany's ~$5T GDP, global auto industry's ~$3.8T total market cap, and notes Q2 FY26 revenue ~$46.7B (+56% YoY) with datacenter ~80% mix — yet sees consensus 2026 revenue $210–300B as priced for perfection. TSMC CoWoS 60–70% locked by NVDA tightens supply narrative. Investors should Watch Nvidia (NVDA) for valuation risk if capex digestion slows.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=OSxQnF4sIz8",
+      "summaryFile": "tzs-ep158.md",
+      "summaryFileZh": "tzs-ep158.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NVDA",
+        "Valuation",
+        "AI Capex",
+        "TSMC"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NVDA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Nvidia (NVDA): David bearish since ~$4.5T at ~$5T Nov 2025 — Germany GDP-scale cap versus $210–300B 2026 revenue consensus; Watch valuation if capex digestion slows despite CoWoS lock-in"
+        }
+      ],
+      "chronologySubject": "David · NVDA $5T Bear Case"
     },
     {
       "id": "bb-robinhood-mobile-first-margins-later",
@@ -7505,82 +7663,6 @@
       "chronologySubject": "Platform Power Framework (Helmer & Shi)"
     },
     {
-      "id": "acq-nvidia-the-gpu-company-1993-2006",
-      "podcastId": "acquired",
-      "episodeNumber": 147,
-      "title": "Nvidia Part I: The GPU Company (1993-2006)",
-      "guest": "Nvidia Part I: The GPU Company (1993-2006)",
-      "displayTitle": "Nvidia",
-      "displaySubtitle": "Part I: The GPU Company (1993-2006) · Season 10 · Episode 5",
-      "guestRole": "Season 10 · Episode 5",
-      "date": "2022-03-27",
-      "durationMinutes": 120,
-      "readMinutes": 6,
-      "rating": 4,
-      "conclusion": "Nvidia Part I traces Jensen Huang from 1963 Taiwan through two near-death crises: 90 funded GPU clones in 1993, then Microsoft's Direct3D triangle standard vs Nvidia's quadrilateral bet that nearly bankrupted the company in 1997. The RIVA 128 escape — $1M emulator bet, tape-out without silicon prototypes, ~100,000 units — and TSMC partnership (Jensen's letter to Morris Chang) established a six-month ship cadence Microsoft could not replicate. Programmable shaders (CG with Microsoft, GeForce 256, Xbox GPU) created developer-facing differentiation Intel integrated graphics could not absorb. By 2006 Nvidia had ~83% standalone GPU share but little Hamilton Helmer \"power\" — commodity cycles, Xbox margin extraction, and AMD-ATI acquisition looming. Sequoia's $2M at $6M post in 1993 became among history's greatest venture outcomes via Jensen's reinvention discipline, not the original graphics-card thesis.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-nvidia-the-gpu-company-1993-2006.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "GPU Computing",
-        "Semiconductor Strategy",
-        "Programmable Shaders"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "NVDA",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Part I frames origin of reinvention culture and TSMC dependency — modern NVDA power (CUDA, data center) begins Part II; historical lesson: hardware share without platform lock-in is cyclical until software moat arrives."
-        },
-        {
-          "ticker": "MSFT",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "DirectX/Xbox let Microsoft harvest GPU industry innovation without fab or six-month ship cycles — platform owners often capture more rent than component winners in early standards wars."
-        }
-      ],
-      "chronologySubject": "Nvidia (GPU era)"
-    },
-    {
-      "id": "acq-altimeter-with-brad-gerstner",
-      "podcastId": "acquired",
-      "episodeNumber": 146,
-      "title": "Altimeter (with Brad Gerstner)",
-      "guest": "Altimeter (with Brad Gerstner)",
-      "displayTitle": "Altimeter",
-      "displaySubtitle": "Brad Gerstner · Season 10 · Episode 4",
-      "guestRole": "Season 10 · Episode 4",
-      "date": "2022-03-14",
-      "durationMinutes": 113,
-      "readMinutes": 4,
-      "rating": 4,
-      "conclusion": "Altimeter pioneered the venture-plus-hedge-fund model Brad Gerstner built after selling RateSpecial to Expedia/IAC in 2007 and launching with ~$3M during the financial crisis. Snowflake — led at ~$175M valuation in 2012, IPO ~$4.4B, ~$100B market cap at episode time — remains over half of Altimeter's public book, proving lifecycle capital can hold winners through IPO. Three pillars: consumer internet (Google traffic arbitrage), cloud/SaaS (MongoDB, Snowflake), and travel (Booking/Expedia heritage). ~30 people vs Sequoia's thousands; Brad refuses to compete at seed — instead offers concentrated capital, capital-markets expertise (SPACs, direct listings), and founder-friendly secondaries. Invest America proposes every newborn receive a brokerage account — policy idea beyond pure returns.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-altimeter-with-brad-gerstner.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Crossover Investing",
-        "Altimeter Capital",
-        "SNOW"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "SNOW",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Altimeter's largest disclosed public position — lifecycle fund economics tied to Snowflake multiple; monitor cloud data warehouse growth and net retention as proxy for crossover hold thesis."
-        }
-      ],
-      "chronologySubject": "Altimeter Capital"
-    },
-    {
       "id": "fnd-233-elon-musk-peter-thiel-max-levchin-paypal",
       "podcastId": "founders",
       "episodeNumber": 233,
@@ -8081,6 +8163,240 @@
       "chronologySubject": "Guangmi · LLM Quarterly Ep.9"
     },
     {
+      "id": "tzs-ep126",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 126,
+      "title": "BYD: World's Strongest Manufacturer or Auto Industry's Evergrande?",
+      "guest": "David",
+      "displayTitle": "David",
+      "displaySubtitle": "BYD: World's Strongest Manufacturer or Auto Industry's Evergrande?",
+      "guestRole": "Practical Investments Host",
+      "date": "2025-08-15",
+      "durationMinutes": 93,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Commodity researcher Xieshui argues BYD is manufacturing-scale champion, not Evergrande — units rose from ~460k in 2019 to ~4.27M in 2024 while payables ~¥240B on ~¥780B assets (~30%) grew 6.7x versus revenue ~6x, keeping ratios stable. Payables finance working capital in asset-heavy auto, not property-style fraud. Investors should Watch BYD (BYDDY) on whether supplier terms stay industry-normal as price wars intensify.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4NDIYC9mOFM",
+      "summaryFile": "tzs-ep126.md",
+      "summaryFileZh": "tzs-ep126.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "BYDDY",
+        "EV Manufacturing",
+        "Payables",
+        "Balance Sheet"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BYDDY",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "BYD (BYDDY): Xieshui manufacturing thesis — 2019 ~460k to 2024 ~4.27M units; payables ~6.7x vs revenue ~6x not Evergrande; Watch margins and supplier terms in price war"
+        }
+      ],
+      "chronologySubject": "Xieshui · BYD Manufacturing"
+    },
+    {
+      "id": "zj-ep121",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 121,
+      "title": "DeepMind's Tan Jie on Robotics, Cross-Embodiment, World Models, Gemini Robotics 1.5, and Google",
+      "guest": "Tan Jie",
+      "displayTitle": "Tan Jie",
+      "displaySubtitle": "Google DeepMind Senior Research Scientist & Robotics Tech Lead",
+      "guestRole": "Google DeepMind Senior Research Scientist & Robotics Tech Lead",
+      "date": "2025-11-28",
+      "durationMinutes": 126,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Tan Jie, DeepMind robotics lead, frames Gemini Robotics 1.5 as thinking inside the VLA loop — not bolt-on language — with cross-embodiment motion transfer, fast/slow model stacks, a data pyramid, and world-model VLV targets. DeepMind's 70–80-hour weeks reflect how far physical AI lags LLMs. Investors should Watch Alphabet (GOOGL) on whether Gemini Robotics ships cross-robot generalization before auto OEMs lock in walled-garden stacks.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2o281Zy5aZE",
+      "summaryFile": "zj-ep121.md",
+      "summaryFileZh": "zj-ep121.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "GOOGL",
+        "Gemini Robotics",
+        "VLA",
+        "Physical AI"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GOOGL",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Alphabet (GOOGL): Gemini Robotics 1.5 thinking-VLA plus cross-embodiment transfer — Tan Jie frames physical AI platform bet; Watch fleet deployment proof"
+        }
+      ],
+      "chronologySubject": "Tan Jie · DeepMind Gemini Robotics"
+    },
+    {
+      "id": "zj-ep120",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 120,
+      "title": "XPeng's Liu Xianming on Removing Language from VLA, Physical AI, and the AI Transformation",
+      "guest": "Liu Xianming",
+      "displayTitle": "Liu Xianming",
+      "displaySubtitle": "XPeng Autonomous Driving Center Head",
+      "guestRole": "XPeng Autonomous Driving Center Head",
+      "date": "2025-10-30",
+      "durationMinutes": 109,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "XPeng AI chief Liu Xianming argues the winning vehicle stack removes Language from VLA — vision and action co-trained for physics, not chat intermediaries. October 9, 2025 leadership reshuffle signals execution focus on physical AI; he frames AI as a multiplier on manufacturing and software, not a feature slide. Investors should Watch XPeng (XPEV) on whether stripped VLA ships measurable autonomy miles before capital-intensive humanoid narratives distract the market.",
+      "youtubeUrl": "",
+      "summaryFile": "zj-ep120.md",
+      "summaryFileZh": "zj-ep120.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "XPEV",
+        "VLA",
+        "Physical AI",
+        "Autonomous Driving"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "XPEV",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "XPeng (XPEV): Liu Xianming language-free VLA plus Oct 9 2025 leadership focus on physical AI — Watch autonomy miles and software mix as multiplier proof"
+        }
+      ],
+      "chronologySubject": "Liu Xianming · XPeng Physical AI"
+    },
+    {
+      "id": "zj-ep109",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 109,
+      "title": "Robot Data Famine? Xie Chen on Simulation, Synthetic Data, Meta's Scale AI Deal, and Alexandr Wang",
+      "guest": "Xie Chen",
+      "displayTitle": "Xie Chen",
+      "displaySubtitle": "Lightwheel Intelligence Founder & CEO",
+      "guestRole": "Lightwheel Intelligence Founder & CEO",
+      "date": "2025-06-20",
+      "durationMinutes": 101,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Galbot co-founder Xie Chen argues embodied AI sits at GPT-1 stage — real robot data is ~1% of training mix; synthetic data and simulation dominate. Meta's ~$30B Scale AI bet validates labeling infrastructure, but Galbot sees real-world capture as the scarce 1%. He calls Nvidia a simulation company at core — Omniverse and Isaac compound before fleet scale. Investors should Watch Meta (META) on data-platform ROI and Nvidia (NVDA) on sim-to-real tooling monetization, not assume hardware alone wins embodied AI.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pWY0HVUH8GA",
+      "summaryFile": "zj-ep109.md",
+      "summaryFileZh": "zj-ep109.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "META",
+        "NVDA",
+        "Synthetic Data",
+        "Embodied AI"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "META",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Meta (META): ~$30B Scale AI bet validates data-factory economics for embodied era — Watch labeled throughput and robotics pipeline integration"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Nvidia (NVDA): Xie frames NV as simulation company — Omniverse/Isaac sim-to-real tooling may compound before embodied unit volumes; Watch developer lock-in"
+        }
+      ],
+      "chronologySubject": "Xie Chen · Galbot Embodied Data"
+    },
+    {
+      "id": "zj-ep104",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 104,
+      "title": "Rokid's Zhu Mingming on Alibaba, Smart Glasses, and 11 Years in Hardware's Dark Forest",
+      "guest": "Zhu Mingming (Misa)",
+      "displayTitle": "Zhu Mingming (Misa)",
+      "displaySubtitle": "Rokid's Zhu Mingming on Alibaba, Smart Glasses, and 11 Years in Hardware's Dark Forest",
+      "guestRole": "Rokid Founder",
+      "date": "2025-05-15",
+      "durationMinutes": 129,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Rokid founder Zhu Mingming, after Alibaba's ~$10M acquisition and eleven years in hardware, argues smart glasses are at BlackBerry-to-iPhone inflection — form factor and AI interaction matter more than spec sheets. 2025 H1 pits startups against Meta, Apple, and Chinese giants in a land-grab. Investors should Watch Alibaba (BABA) on whether Rokid integration yields AI-glasses distribution without repeating mobile OS missteps.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qW-kgogQwJc",
+      "summaryFile": "zj-ep104.md",
+      "summaryFileZh": "zj-ep104.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "BABA",
+        "Rokid",
+        "Smart Glasses",
+        "AR Hardware"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BABA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Alibaba (BABA): ~$10M Rokid acquisition plus Zhu's 11-year hardware — Watch AI smart-glasses distribution and on-device Tongyi attach without repeating mobile OS gaps"
+        }
+      ],
+      "chronologySubject": "Zhu Mingming · Rokid Smart Glasses"
+    },
+    {
+      "id": "zj-ep83",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 83,
+      "title": "How Jensen Huang and the $3 Trillion NVIDIA Were Built",
+      "guest": "Wang Yajun & Translators",
+      "displayTitle": "Wang Yajun & Translators",
+      "displaySubtitle": "How Jensen Huang and the $3 Trillion NVIDIA Were Built",
+      "guestRole": "The Nvidia Way Translators & Guests",
+      "date": "2024-12-10",
+      "durationMinutes": 104,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "Via The Nvidia Way, Jensen Huang's CUDA bet, 'ship the whole cow' platform strategy, $3T milestone, and whiteboard culture explain why Nvidia compounds beyond GPU cycles — software lock-in and full-stack delivery beat component vendors. Investors should Watch Nvidia (NVDA) on whether culture and platform breadth sustain pricing power as rivals attack inference silicon.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=h21t9FgGtOs",
+      "summaryFile": "zj-ep83.md",
+      "summaryFileZh": "zj-ep83.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NVDA",
+        "CUDA",
+        "Jensen Huang",
+        "The Nvidia Way"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NVDA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Nvidia (NVDA): The Nvidia Way — CUDA habit, whole-cow platform, whiteboard culture sustained $3T; Watch inference platform attach amid ASIC competition"
+        }
+      ],
+      "chronologySubject": "Jensen Huang · The Nvidia Way"
+    },
+    {
       "id": "bb-ferrari-magic-from-maranello",
       "podcastId": "business-breakdowns",
       "episodeNumber": 140,
@@ -8418,6 +8734,82 @@
         }
       ],
       "chronologySubject": "Block (Square)"
+    },
+    {
+      "id": "acq-nvidia-the-gpu-company-1993-2006",
+      "podcastId": "acquired",
+      "episodeNumber": 147,
+      "title": "Nvidia Part I: The GPU Company (1993-2006)",
+      "guest": "Nvidia Part I: The GPU Company (1993-2006)",
+      "displayTitle": "Nvidia",
+      "displaySubtitle": "Part I: The GPU Company (1993-2006) · Season 10 · Episode 5",
+      "guestRole": "Season 10 · Episode 5",
+      "date": "2022-03-27",
+      "durationMinutes": 120,
+      "readMinutes": 6,
+      "rating": 4,
+      "conclusion": "Nvidia Part I traces Jensen Huang from 1963 Taiwan through two near-death crises: 90 funded GPU clones in 1993, then Microsoft's Direct3D triangle standard vs Nvidia's quadrilateral bet that nearly bankrupted the company in 1997. The RIVA 128 escape — $1M emulator bet, tape-out without silicon prototypes, ~100,000 units — and TSMC partnership (Jensen's letter to Morris Chang) established a six-month ship cadence Microsoft could not replicate. Programmable shaders (CG with Microsoft, GeForce 256, Xbox GPU) created developer-facing differentiation Intel integrated graphics could not absorb. By 2006 Nvidia had ~83% standalone GPU share but little Hamilton Helmer \"power\" — commodity cycles, Xbox margin extraction, and AMD-ATI acquisition looming. Sequoia's $2M at $6M post in 1993 became among history's greatest venture outcomes via Jensen's reinvention discipline, not the original graphics-card thesis.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-nvidia-the-gpu-company-1993-2006.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "GPU Computing",
+        "Semiconductor Strategy",
+        "Programmable Shaders"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NVDA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Part I frames origin of reinvention culture and TSMC dependency — modern NVDA power (CUDA, data center) begins Part II; historical lesson: hardware share without platform lock-in is cyclical until software moat arrives."
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "DirectX/Xbox let Microsoft harvest GPU industry innovation without fab or six-month ship cycles — platform owners often capture more rent than component winners in early standards wars."
+        }
+      ],
+      "chronologySubject": "Nvidia (GPU era)"
+    },
+    {
+      "id": "acq-altimeter-with-brad-gerstner",
+      "podcastId": "acquired",
+      "episodeNumber": 146,
+      "title": "Altimeter (with Brad Gerstner)",
+      "guest": "Altimeter (with Brad Gerstner)",
+      "displayTitle": "Altimeter",
+      "displaySubtitle": "Brad Gerstner · Season 10 · Episode 4",
+      "guestRole": "Season 10 · Episode 4",
+      "date": "2022-03-14",
+      "durationMinutes": 113,
+      "readMinutes": 4,
+      "rating": 4,
+      "conclusion": "Altimeter pioneered the venture-plus-hedge-fund model Brad Gerstner built after selling RateSpecial to Expedia/IAC in 2007 and launching with ~$3M during the financial crisis. Snowflake — led at ~$175M valuation in 2012, IPO ~$4.4B, ~$100B market cap at episode time — remains over half of Altimeter's public book, proving lifecycle capital can hold winners through IPO. Three pillars: consumer internet (Google traffic arbitrage), cloud/SaaS (MongoDB, Snowflake), and travel (Booking/Expedia heritage). ~30 people vs Sequoia's thousands; Brad refuses to compete at seed — instead offers concentrated capital, capital-markets expertise (SPACs, direct listings), and founder-friendly secondaries. Invest America proposes every newborn receive a brokerage account — policy idea beyond pure returns.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-altimeter-with-brad-gerstner.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Crossover Investing",
+        "Altimeter Capital",
+        "SNOW"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "SNOW",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Altimeter's largest disclosed public position — lifecycle fund economics tied to Snowflake multiple; monitor cloud data warehouse growth and net retention as proxy for crossover hold thesis."
+        }
+      ],
+      "chronologySubject": "Altimeter Capital"
     },
     {
       "id": "acq-sony",

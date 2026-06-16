@@ -1,0 +1,114 @@
+# EP.120 — Liu Xianming
+
+## *XPeng Autonomous Driving Center Head*
+
+**★★★☆☆** · 3/5
+
+**Podcast** Zhang Xiaojun Podcast · **Date** Oct 30, 2025 · **Duration** 109 min · **Read** ≈3 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Liu Xianming · XPeng Autonomous Driving Center Head
+
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** XPEV · VLA · PHYSICAL · AUTONOMOUS
+> ### Conclusion
+>
+> XPeng AI chief Liu Xianming argues the winning vehicle stack removes Language from VLA — vision and action co-trained for physics, not chat intermediaries. October 9, 2025 leadership reshuffle signals execution focus on physical AI; he frames AI as a multiplier on manufacturing and software, not a feature slide. Investors should Watch XPeng (XPEV) on whether stripped VLA ships measurable autonomy miles before capital-intensive humanoid narratives distract the market.
+
+---
+
+## Background
+
+> Zhang Xiaojun speaks with Liu Xianming, XPeng's AI lead, on physical AI for automobiles. Liu's controversial thesis: delete Language from vision-language-action — cars need perception-to-control maps grounded in dynamics, not LLM narration layers that add latency and hallucination risk. XPeng's October 9, 2025 leadership change paired engineering with product delivery. Liu positions AI as a multiplier across simulation, manufacturing, and OTA — not a marketing badge. Physical AI for vehicles means world models, closed-loop control, and fleet data flywheels rivaling robot labs but with regulatory and safety gates.
+
+---
+
+## Key Facts
+
+> **F1** Remove Language from VLA: Liu Xianming says automotive VLA should be vision-action with physics priors — language modules help HMI but hurt closed-loop driving when treated as planners. XPeng bets co-trained perception-control beats chain-of-thought driving, aligning with DeepMind's in-loop thinking but explicitly dropping the L in VLA for cars.
+
+> **F2** Oct 9, 2025 leadership change: reorganization tied AI, autonomous driving, and vehicle programs under delivery-focused executives — signal that XPeng treats physical AI as core product, not R&D slide. Liu frames AI as multiplier: simulation miles, factory vision QC, and OTA model updates compound margin if autonomy ships.
+
+> **F3** Competitive frame: XPeng (XPEV) Watch — stripped VLA must convert to paid ADAS/robotaxi miles and gross-margin uplift; failure keeps XPEV in EV price-war bucket. Tesla and Huawei stacks remain benchmarks; Liu's language removal is architectural differentiation if fleet data proves it.
+
+
+---
+
+## Mental Model · *Language-Free VLA × Physical AI Multiplier × Fleet Flywheel*
+
+> **Components**
+>
+> Cars need vision-action, not VLA chat bridges — physics priors beat narration. Leadership reshuffle prices execution over narrative. AI multiplies sim, factory, and OTA only when miles compound training data.
+>
+> **Application**
+>
+> XPeng (XPEV): Watch stripped-VLA autonomy milestones and post-Oct-2025 delivery cadence — multiplier thesis needs rising software revenue mix, not R&D slogans. Compare against Tesla FSD data scale; underweight if language-heavy demos mask closed-loop gaps.
+
+---
+
+
+## Key Insights
+
+> **1.** Language is optional in automotive VLA.
+>
+> **Q** Why remove the L from VLA?
+>
+> **A** Driving is continuous control under uncertainty — LLM layers add latency and invent obstacles. Liu trains vision directly to action with physics losses; language stays in the cabin UX, not the safety loop. Matches Tan Jie's in-loop thinking but rejects text as planner.
+
+> **2.** Oct 2025 reshuffle is a physical-AI bet.
+>
+> **Q** What did leadership change signal?
+>
+> **A** Consolidating AI with vehicle delivery executives means autonomy exits lab slide status. Investors should track OTA model cadence and ADAS take rates post-October 9, not press-release partnerships.
+
+> **3.** AI must multiply unit economics.
+>
+> **Q** How is AI more than autonomy?
+>
+> **A** Liu cites simulation, manufacturing vision, and software OTA — each reduces cost or raises ASP if models ship. Multiplier framing only investable when autonomy miles feed back into training; otherwise AI stays opex.
+
+---
+
+## Investment Ideas
+
+> **1. XPEV** · 🟡 WATCH · ●●○ Medium
+>
+> XPeng (XPEV): Liu Xianming language-free VLA plus Oct 9 2025 leadership focus on physical AI — Watch autonomy miles and software mix as multiplier proof
+
+---
+
+## Golden Quotes
+
+> "For cars we remove Language from VLA — physics does not read your chain of thought."
+
+> "AI is a multiplier on simulation, factory, and OTA, not a slide in the deck."
+
+> "October ninth was about shipping physical AI, not reorganizing titles."
+
+---
+
+## Chronology
+
+> *Liu Xianming · XPeng Physical AI*
+>
+> **2024** XPeng expands sim and fleet data pipelines
+>
+> **2025** Liu articulates language-free VLA architecture
+>
+> **2025-10-09** XPeng leadership reshuffle; AI-delivery integration
+>
+> **2025–26** Physical AI multiplier across manufacturing and OTA
+>
+> **2026** Liu records Zhang Xiaojun podcast on stripped VLA
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Podcast, Zhang Xiaojun, or Liu Xianming. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.
