@@ -1,0 +1,107 @@
+{
+  "episode_id": "bb-compass-meals-for-the-masses",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 211,
+    "title": "Compass: Meals for the Masses",
+    "guest": "Compass",
+    "guest_role": "Public · CMPGY",
+    "date": "2025-04-02",
+    "duration_minutes": 58,
+    "youtube_url": "https://www.youtube.com/watch?v=7vVjkPMnAU0",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "colossus": "https://joincolossus.com/episode/compass-meals-for-the-masses/",
+      "youtube": "https://www.youtube.com/watch?v=7vVjkPMnAU0",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/CLS5010694504.mp3?updated=1743603933"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10"
+  },
+  "keywords": [
+    "CMPGY",
+    "Food Services",
+    "Outsourcing"
+  ],
+  "conclusion": "Compass Group is the 800-pound gorilla in outsourced food services: about $42B of revenue, 11-12% share of a roughly $320B addressable market, 96% retention, and 4% net new business growth. The moat is route density, procurement scale, and sector specialization across 27 subsectors. The debate is whether a low-margin service company deserves quality-compounder treatment.",
+  "background": "Compass provides outsourced food and support services across offices, schools, hospitals, sports venues, and defense sites in roughly 30 countries. The transcript frames a $320B food-services market that could be closer to $700B including adjacent services. Compass has roughly 11-12% market share, $42B of revenue, and more than two-thirds of revenue in North America. Contracts usually run three to five years; retention is about 96%, which still forces the company to win significant new business each year because 4% churn on $42B is large. COVID hit revenue by around 40%, but the post-2018 management era refocused the company on organic wins, sub-sector expertise, and margin discipline.\n\n Compass's local execution problem is harder than the simple market-share math suggests. Food service contracts require daily reliability, labor scheduling, procurement, health standards, and client-specific menus. Scale helps, but only if local managers keep service quality high. That is why the transcript's 27-subsector operating model matters: hospitals, schools, offices, sports venues, and defense facilities do not buy the same product even when procurement scale is shared.",
+  "important_facts": [
+    "Compass operates in about 30 countries with roughly $42B of revenue and 11-12% share of a $320B food-services market; including adjacent services, the opportunity may be closer to $700B.",
+    "Contract retention is around 96%, industry-leading but not perfect; on $42B of revenue, replacing the 4% churn means winning roughly $1.5B of business annually before net growth.",
+    "More than two-thirds of revenue comes from North America, and the organization is managed across 27 subsectors; during COVID, revenue was down about 40%, showing the cyclicality hidden inside the recurring contract base."
+  ],
+  "mental_model": {
+    "name": "Scale Procurement in Local Service",
+    "components": "Low margins can still compound when purchasing scale, route density, and vertical specialization improve win rates. Retention plus new wins creates a steady flywheel.",
+    "application": "CMPGY should be judged on net new business growth, retention, and margin progression rather than headline food inflation. The risk is wage pressure and client insourcing during downturns."
+  },
+  "key_insights": [
+    {
+      "view": "Retention is not enough.",
+      "question": "Why does 96% retention still require selling?",
+      "answer": "Four percent churn on $42B of revenue is a large hole; Compass needs roughly $1.5B of wins annually just to replace lost business before net growth."
+    },
+    {
+      "view": "Scale shows up in procurement.",
+      "question": "Where is Compass advantaged?",
+      "answer": "Food purchasing, labor management, and sector templates improve with size, especially in North America where the company has more than two-thirds of revenue."
+    },
+    {
+      "view": "The market is still fragmented.",
+      "question": "How big is the runway?",
+      "answer": "Compass has 11-12% share of a $320B market, leaving consolidation and outsourcing growth ahead if service quality holds."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "CMPGY",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Compass combines 96% retention, $42B revenue scale, and a fragmented $320B market; upside depends on continued outsourcing and margin discipline in a labor-heavy service model."
+    }
+  ],
+  "golden_quotes": [
+    "Compass is the 800-pound gorilla in outsourced food services.",
+    "A 96% retention rate still means replacing roughly $1.5B of revenue each year.",
+    "The market is about $320B today and could be closer to $700B with adjacent services."
+  ],
+  "chronology": {
+    "subject": "Compass Group",
+    "events": [
+      {
+        "date": "1960s",
+        "event": "The business roots connect to British conglomerate ownership."
+      },
+      {
+        "date": "1980s-1990s",
+        "event": "Compass expands through sector focus and North American growth."
+      },
+      {
+        "date": "2000s",
+        "event": "Strategy resets after a difficult period."
+      },
+      {
+        "date": "2018",
+        "event": "New leadership era begins shortly before COVID shock."
+      },
+      {
+        "date": "2020",
+        "event": "COVID drives revenue down about 40%."
+      },
+      {
+        "date": "2025",
+        "event": "Compass generates about $42B of revenue with 96% retention."
+      }
+    ]
+  }
+}

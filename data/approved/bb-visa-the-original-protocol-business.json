@@ -1,0 +1,108 @@
+{
+  "episode_id": "bb-visa-the-original-protocol-business",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 7,
+    "title": "Visa: The Original Protocol Business",
+    "guest": "Visa",
+    "guest_role": "Public · V",
+    "date": "2021-05-05",
+    "duration_minutes": 57,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "colossus": "https://www.joincolossus.com/episodes/46164128/rampell-visa-the-original-protocol-business",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/CLS2247893603.mp3?updated=1689748593"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "whisper/base",
+    "status": "approved",
+    "template_version": "4.10"
+  },
+  "keywords": [
+    "V",
+    "Payments Network",
+    "Interchange"
+  ],
+  "conclusion": "Visa is the original protocol business: born as BankAmericard in Fresno in 1958, reorganized into a bank consortium, and taken public in 2007. The power is not moving money; it is coordinating consumers, merchants, issuers, acquirers, rewards, dispute rules, and acceptance. A 3% merchant fee can fund 2% rewards because the network aligns incentives at global scale.",
+  "background": "Alex Rampell explains Visa as a payments protocol rather than a lender. In a $100 purchase, the merchant may receive $97 while roughly $3 is split among issuer, acquirer, and network. Visa's role is small in basis points but enormous in coordination. The origin was Bank of America's September 18, 1958 Fresno launch, when 60,000 cards were mailed into a city of about 250,000 people where Bank of America already banked roughly 45%. The modern company went public in 2007 after decades as a bank-owned consortium. The protocol's durability comes from acceptance, issuer incentives, rewards, fraud rules, and painful coordination costs: even a 20-character merchant-name constraint can persist because changing a global standard requires many parties to agree.\n\n The transcript's fintech discussion makes the moat clearer. A startup can build a better app or wallet, but it still needs acceptance, issuer economics, fraud rules, and consumer incentives. Visa can make mistakes around wallets and still retain the core network because the protocol is embedded in banks, merchants, terminals, chargeback processes, and rewards expectations. Regulation, not technology alone, is the more direct threat to the 3% economics.",
+  "important_facts": [
+    "Visa began on September 18, 1958, when Bank of America mailed about 60,000 cards into Fresno, a city of roughly 250,000 people where it already banked around 45% of residents.",
+    "A simple $100 transaction example leaves the merchant with about $97 and roughly $3 split across acquiring, issuing, and network economics; rewards such as 2% cash back are funded by that interchange structure.",
+    "Visa restructured and went public in 2007; the transcript notes it now has a market cap larger than the banks that once owned the consortium."
+  ],
+  "mental_model": {
+    "name": "Protocol Coordination Moat",
+    "components": "A payment network is a standard, incentive system, dispute rulebook, and routing layer. The hard part is getting every bank, merchant, and consumer to agree, then not breaking the installed base.",
+    "application": "V's moat is acceptance and coordination. Investors should watch regulation of interchange, account-to-account alternatives, and whether Visa can avoid wasteful wallet experiments that do not strengthen the protocol."
+  },
+  "key_insights": [
+    {
+      "view": "Visa is not the bank.",
+      "question": "What does Visa actually do?",
+      "answer": "It routes authorization, clearing, and settlement messages while issuers and acquirers own credit and merchant relationships."
+    },
+    {
+      "view": "Rewards are an incentive design.",
+      "question": "Why do consumers use cards?",
+      "answer": "If interchange supports 2% cash back, the consumer has a reason to choose the card even when merchants dislike the fee."
+    },
+    {
+      "view": "Legacy constraints can be moats.",
+      "question": "Why does protocol age matter?",
+      "answer": "A 20-character merchant-name limit sounds absurd today, but changing global standards is hard when many parties must coordinate."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "V",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Visa's global two-sided protocol, issuer incentives, and merchant acceptance remain among the highest-quality business models; regulatory pressure on interchange is the central risk."
+    },
+    {
+      "ticker": "MA",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "Mastercard shares similar network economics and is the closest benchmark for Visa's protocol moat and regulatory exposure."
+    }
+  ],
+  "golden_quotes": [
+    "Visa started by mailing 60,000 cards to Fresno in 1958.",
+    "On a $100 purchase, the merchant might get $97 while $3 funds the payment ecosystem.",
+    "The longest merchant name in the Visa protocol can be 20 characters — standards persist because coordination is hard."
+  ],
+  "chronology": {
+    "subject": "Visa",
+    "events": [
+      {
+        "date": "1958-09-18",
+        "event": "Bank of America launches BankAmericard in Fresno."
+      },
+      {
+        "date": "1960s-1970s",
+        "event": "Card programs proliferate and rules are standardized."
+      },
+      {
+        "date": "2007",
+        "event": "Visa restructures and goes public."
+      },
+      {
+        "date": "2015",
+        "event": "Visa acquires TrialPay, co-founded by Alex Rampell."
+      },
+      {
+        "date": "2020s",
+        "event": "Rewards, interchange regulation, and fintech alternatives shape the network debate."
+      }
+    ]
+  }
+}

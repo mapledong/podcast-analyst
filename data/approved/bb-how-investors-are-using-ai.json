@@ -1,0 +1,103 @@
+{
+  "episode_id": "bb-how-investors-are-using-ai",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 240,
+    "title": "How Investors are using AI",
+    "guest": "How Investors are using AI",
+    "guest_role": "Theme · Investment Process",
+    "date": "2026-02-05",
+    "duration_minutes": 49,
+    "youtube_url": "https://www.youtube.com/watch?v=o2fm15GD5mo",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "colossus": "https://colossus.com/episode/how-investors-are-using-ai",
+      "youtube": "https://www.youtube.com/watch?v=o2fm15GD5mo",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/CLS4185774265.mp3?updated=1770266963"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10"
+  },
+  "keywords": [
+    "AI Infrastructure",
+    "Research Workflow",
+    "Investment Process"
+  ],
+  "conclusion": "The AI episode is a practical research-stack discussion, not a single-company breakdown. Investors are using models for document retrieval, transcript comparison, idea triage, and repeatable workflows, but the transcript repeatedly warns that 99% accuracy can still be 0% useful when a mistake changes an investment conclusion. The edge is process design: prompts, context discipline, and human verification.",
+  "background": "The conversation surveys how professional investors are incorporating AI into research. The use cases are concrete: reading 10-Ks, comparing conference-call revisions across Q1 to Q4, summarizing prior three or four years, and running suites of roughly ten queries across filings and transcripts. The guests discuss context windows, with examples around 400,000-token and 200,000-token models, and the failure mode of overloading 70% of the context window with irrelevant documents. The lesson is not that AI replaces judgment; it accelerates first-pass work, makes prior knowledge searchable, and changes the cadence of diligence when properly constrained.\n\n The episode also separates public-model capability from investor edge. If everyone can ask a model to summarize a filing, the advantage moves to proprietary corpora, saved prompts, analyst feedback loops, and knowing which answer would change a thesis. That is why the guests keep returning to source checking and workflow design rather than model worship. AI raises the floor for document processing, but it does not remove the need to know accounting, incentives, and competitive dynamics.",
+  "important_facts": [
+    "Investors describe spending hours on filings that can now be turned into repeatable prompt suites, such as comparing the last three or four years of 10-K language or tracking how guidance changes between Q1 and Q4.",
+    "The transcript cites practical limits: 400,000-token and 200,000-token context windows, 100,000-token 10-Ks, and the risk of stuffing 500,000 tokens into a task without retrieval discipline.",
+    "For some tasks, 99% accuracy is still 0% useful: a hallucinated figure such as SG&A in 2023 can invalidate the research if the investor does not verify source documents."
+  ],
+  "mental_model": {
+    "name": "AI as Research Operating Leverage",
+    "components": "Use AI for retrieval, comparison, and workflow repetition; reserve human judgment for source verification, variant perception, and investment sizing. The stack is strongest when prompts are narrow and evidence-linked.",
+    "application": "Asset managers should invest in private research corpora, standardized prompt libraries, and audit trails. Public AI beneficiaries are less obvious than the workflow shift itself; the durable edge may sit with investors who compound proprietary process data."
+  },
+  "key_insights": [
+    {
+      "view": "AI compresses first-pass diligence.",
+      "question": "What work changes first?",
+      "answer": "Reading filings, comparing call transcripts, and surfacing changes across periods. The transcript repeatedly uses 10-K and quarterly-call examples because those are structured, text-heavy, and source-checkable."
+    },
+    {
+      "view": "Context is not comprehension.",
+      "question": "Why do long context windows still fail?",
+      "answer": "A 400,000-token window can hold more documents, but irrelevant context creates noise. The investor still needs retrieval discipline and source citations rather than blind summarization."
+    },
+    {
+      "view": "The human remains the error budget.",
+      "question": "Where is AI dangerous?",
+      "answer": "A model can be mostly right and still unusable if one number is wrong. The investor must verify facts before changing a thesis or position size."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:AI Research Tools",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "The transcript supports demand for research platforms that combine document ingestion, transcript libraries, prompt workflows, and source verification; monetization should track time saved and error reduction, not generic chatbot usage."
+    }
+  ],
+  "golden_quotes": [
+    "For some investment tasks, 99% accurate is 0% useful.",
+    "A suite of 10 different prompts can turn document review into a repeatable workflow.",
+    "The hard part is not fitting five 10-Ks into context; it is asking the right source-grounded question."
+  ],
+  "chronology": {
+    "subject": "AI in investment research",
+    "events": [
+      {
+        "date": "2015-2017",
+        "event": "Machine-learning work at Stanford is referenced as a pre-LLM research foundation."
+      },
+      {
+        "date": "2023",
+        "event": "GPT-4-era workflows begin changing document review."
+      },
+      {
+        "date": "2024-2026",
+        "event": "Long-context models expand from roughly 200,000 to 400,000 tokens in practical investor discussion."
+      },
+      {
+        "date": "Quarterly",
+        "event": "Investors compare Q1 through Q4 language to detect revisions."
+      },
+      {
+        "date": "Ongoing",
+        "event": "AI becomes a research operating layer for filings, calls, and idea triage."
+      }
+    ]
+  }
+}

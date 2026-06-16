@@ -1,0 +1,107 @@
+{
+  "episode_id": "bb-3i-group-capital-in-action",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 180,
+    "title": "3i Group: Capital in Action",
+    "guest": "3i Group",
+    "guest_role": "Public · TGOPY",
+    "date": "2024-08-28",
+    "duration_minutes": 38,
+    "youtube_url": "https://www.youtube.com/watch?v=Jqy4nCNix1w",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "colossus": "https://joincolossus.com/episodes/57075633/3i-3i-capital-in-action",
+      "youtube": "https://www.youtube.com/watch?v=Jqy4nCNix1w",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/CLS9387590334.mp3?updated=1724829340"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10"
+  },
+  "keywords": [
+    "TGOPY",
+    "Private Equity",
+    "Action"
+  ],
+  "conclusion": "3i is a listed private-equity vehicle transformed by concentration and operating focus. Founded after World War II, IPO'd in 1994, and recapitalized through a painful 2009 rights issue, the modern story is Action: bought in 2011 at about €700M of sales and scaled to roughly €11B by 2023, now north of 50% of NAV. Concentration created exceptional returns but also single-asset risk.",
+  "background": "3i began as postwar industrial-finance infrastructure and became a listed private-equity company. Its modern transformation starts after the 2009 crisis, when a 9-for-7 rights issue raised roughly £700M and exposed the flaws of a loose investment model. Under current leadership from 2011, 3i narrowed focus and kept economics that would otherwise accrue to outside fund managers. The central asset is Action, a European discount retailer bought in 2011 when it had about €700M of sales; by 2023, sales were roughly €11B. Action now represents more than half of net asset value, making 3i less diversified than a typical PE firm but far more operating-company-like in its economics.\n\n The strategic lesson is that 3i solved the listed-PE agency problem by owning more of the upside in fewer assets. The transcript contrasts a hypothetical external-manager model where investing £750M a year might produce £50M of carry-like economics with owning the balance-sheet return directly. That difference is why the Action stake changed 3i's identity: it became less like a fee manager and more like a concentrated holding company with private-equity skills.",
+  "important_facts": [
+    "3i traces its roots to 1945 with about £15M of capital, shortened its name in 1983, and IPO'd in 1994 at around £1.5B of value.",
+    "After trouble in the 2000s, 3i completed a highly dilutive 9-for-7 rights issue in 2009 that raised about £700M, then refocused under new leadership from 2011.",
+    "Action was bought in 2011 at about €700M of sales and reached roughly €11B in 2023; it now represents north of 50% of 3i's NAV."
+  ],
+  "mental_model": {
+    "name": "Listed PE as Concentrated Operating Compounder",
+    "components": "Own permanent capital, avoid giving away upside through external fund economics, and concentrate behind the best asset. The tradeoff is higher idiosyncratic risk.",
+    "application": "TGOPY/3i investors are underwriting Action as much as a diversified manager. Returns can be exceptional if Action keeps scaling, but NAV sensitivity to one retailer is the key risk."
+  },
+  "key_insights": [
+    {
+      "view": "The model changed after pain.",
+      "question": "Why did 2009 matter?",
+      "answer": "The rights issue forced a rethink; the company stopped behaving like a broad asset collector and focused on fewer, higher-conviction investments."
+    },
+    {
+      "view": "Action drives the story.",
+      "question": "Why is Action central?",
+      "answer": "It grew from about €700M of sales in 2011 to roughly €11B by 2023 and now exceeds half of NAV."
+    },
+    {
+      "view": "Permanent capital changes incentives.",
+      "question": "What is different from a fund?",
+      "answer": "3i keeps more upside on its own balance sheet rather than earning only management fees and carry on outside capital."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "TGOPY",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "3i's value is increasingly an Action thesis: exceptional retail compounding and permanent-capital economics offset concentration risk and listed-PE discount volatility."
+    }
+  ],
+  "golden_quotes": [
+    "Action now represents north of 50% of 3i's net asset value.",
+    "The 2009 9-for-7 rights issue raised about £700M and reset the company.",
+    "Action grew from about €700M of sales in 2011 to roughly €11B in 2023."
+  ],
+  "chronology": {
+    "subject": "3i Group",
+    "events": [
+      {
+        "date": "1945",
+        "event": "3i's predecessor is created to finance postwar industry."
+      },
+      {
+        "date": "1983",
+        "event": "The name is shortened to 3i."
+      },
+      {
+        "date": "1994",
+        "event": "3i lists publicly at around £1.5B."
+      },
+      {
+        "date": "2009",
+        "event": "A 9-for-7 rights issue raises about £700M."
+      },
+      {
+        "date": "2011",
+        "event": "New strategy begins; Action is acquired."
+      },
+      {
+        "date": "2023",
+        "event": "Action reaches roughly €11B of sales and dominates NAV."
+      }
+    ]
+  }
+}

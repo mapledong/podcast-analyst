@@ -871,6 +871,15 @@ episodes:
   duration_minutes: 49
   youtube_url: ''
   podcast: Business Breakdowns
+- id: bb-opendoor-q1-2026-earnings
+  episode_number: 245
+  title: 'Opendoor: Q1 2026 Earnings'
+  guest: Opendoor
+  guest_role: Public · OPEN
+  date: '2026-05-08'
+  duration_minutes: 25
+  youtube_url: https://www.youtube.com/watch?v=m53ysyhjDJs
+  podcast: Business Breakdowns
 - id: bb-pricesmart-central-america-s-costco
   episode_number: 244
   title: 'PriceSmart: Central America''s Costco'
@@ -897,6 +906,24 @@ episodes:
   date: '2026-02-11'
   duration_minutes: 70
   youtube_url: ''
+  podcast: Business Breakdowns
+- id: bb-how-investors-are-using-ai
+  episode_number: 240
+  title: How Investors are using AI
+  guest: How Investors are using AI
+  guest_role: Theme · Investment Process
+  date: '2026-02-05'
+  duration_minutes: 49
+  youtube_url: https://www.youtube.com/watch?v=o2fm15GD5mo
+  podcast: Business Breakdowns
+- id: bb-games-workshop-the-world-of-warhammer
+  episode_number: 239
+  title: 'Games Workshop: The World of Warhammer'
+  guest: Games Workshop
+  guest_role: Public · GMWKF
+  date: '2026-01-30'
+  duration_minutes: 39
+  youtube_url: https://www.youtube.com/watch?v=_wUIQkNi6Ag
   podcast: Business Breakdowns
 - id: bb-databricks-from-data-to-decisions
   episode_number: 238
@@ -979,6 +1006,15 @@ episodes:
   duration_minutes: 62
   youtube_url: https://www.youtube.com/watch?v=T7zvk9VzxM4
   podcast: Business Breakdowns
+- id: bb-cme-group-the-house-always-wins
+  episode_number: 224
+  title: 'CME Group: The House Always Wins'
+  guest: CME Group
+  guest_role: Public · CME
+  date: '2025-07-23'
+  duration_minutes: 60
+  youtube_url: ''
+  podcast: Business Breakdowns
 - id: bb-agilent-back-to-the-lab
   episode_number: 223
   title: 'Agilent: Back To The Lab'
@@ -987,6 +1023,15 @@ episodes:
   date: '2025-07-16'
   duration_minutes: 41
   youtube_url: https://www.youtube.com/watch?v=m8p5hGQljOQ
+  podcast: Business Breakdowns
+- id: bb-alpha-in-podcasts
+  episode_number: 222
+  title: Alpha In Podcasts?
+  guest: Alpha In Podcasts?
+  guest_role: Theme · Podcast Alpha
+  date: '2025-07-02'
+  duration_minutes: 10
+  youtube_url: https://www.youtube.com/watch?v=Mf_4_7zuDMw
   podcast: Business Breakdowns
 - id: bb-eqt-returns-at-scale
   episode_number: 220
@@ -1042,6 +1087,15 @@ episodes:
   duration_minutes: 228
   youtube_url: https://www.youtube.com/watch?v=ipiKIgdynZE
   podcast: Acquired
+- id: bb-compass-meals-for-the-masses
+  episode_number: 211
+  title: 'Compass: Meals for the Masses'
+  guest: Compass
+  guest_role: Public · CMPGY
+  date: '2025-04-02'
+  duration_minutes: 58
+  youtube_url: https://www.youtube.com/watch?v=7vVjkPMnAU0
+  podcast: Business Breakdowns
 - id: acq-sp26-02
   episode_number: 210
   title: The Prancing Horse and the Business of Desire
@@ -1069,6 +1123,15 @@ episodes:
   duration_minutes: 270
   youtube_url: https://www.youtube.com/watch?v=MyFzfgrZUYg
   podcast: Acquired
+- id: bb-watsco-air-apparent
+  episode_number: 209
+  title: 'Watsco: Air Apparent'
+  guest: Watsco
+  guest_role: Public · WSO
+  date: '2025-03-19'
+  duration_minutes: 55
+  youtube_url: ''
+  podcast: Business Breakdowns
 - id: acq-the-nfl
   episode_number: 208
   title: The NFL
@@ -1096,6 +1159,15 @@ episodes:
   duration_minutes: 299
   youtube_url: ''
   podcast: Acquired
+- id: bb-cognex-vision-quest
+  episode_number: 207
+  title: 'Cognex: Vision Quest'
+  guest: Cognex
+  guest_role: Public · CGNX
+  date: '2025-02-26'
+  duration_minutes: 43
+  youtube_url: https://www.youtube.com/watch?v=H15GCvEO5d0
+  podcast: Business Breakdowns
 - id: acq-costco
   episode_number: 206
   title: Costco
@@ -1287,6 +1359,15 @@ episodes:
   duration_minutes: 289
   youtube_url: ''
   podcast: Acquired
+- id: bb-merck-co-blockbuster-drugs
+  episode_number: 189
+  title: 'Merck & Co: Blockbuster Drugs'
+  guest: Merck & Co
+  guest_role: Public · MRK
+  date: '2024-10-30'
+  duration_minutes: 66
+  youtube_url: ''
+  podcast: Business Breakdowns
 - id: acq-starbucks-with-howard-schultz
   episode_number: 188
   title: Starbucks (with Howard Schultz)
@@ -1450,6 +1531,15 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=mcmrSIEJfJk
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: bb-3i-group-capital-in-action
+  episode_number: 180
+  title: '3i Group: Capital in Action'
+  guest: 3i Group
+  guest_role: Public · TGOPY
+  date: '2024-08-28'
+  duration_minutes: 38
+  youtube_url: https://www.youtube.com/watch?v=Jqy4nCNix1w
+  podcast: Business Breakdowns
 - id: acq-nvidia-the-dawn-of-the-ai-era
   episode_number: 179
   title: 'Nvidia Part III: The Dawn of the AI Era (2022-2023)'
@@ -2505,6 +2595,15 @@ episodes:
   duration_minutes: 43
   youtube_url: ''
   podcast: Acquired
+- id: bb-qualcomm-making-smartphones-smart
+  episode_number: 95
+  title: 'Qualcomm: Making Smartphones Smart'
+  guest: Qualcomm
+  guest_role: Public · QCOM
+  date: '2023-02-01'
+  duration_minutes: 44
+  youtube_url: ''
+  podcast: Business Breakdowns
 - id: acq-episode-2-instagram
   episode_number: 94
   title: 'Adapting Episode 2: Sequoia’s Black Swan Memo'
@@ -3416,6 +3515,15 @@ episodes:
   duration_minutes: 120
   youtube_url: ''
   podcast: Acquired
+- id: bb-visa-the-original-protocol-business
+  episode_number: 7
+  title: 'Visa: The Original Protocol Business'
+  guest: Visa
+  guest_role: Public · V
+  date: '2021-05-05'
+  duration_minutes: 57
+  youtube_url: ''
+  podcast: Business Breakdowns
 - id: acq-episode-11-paypal
   episode_number: 6
   title: Paypal

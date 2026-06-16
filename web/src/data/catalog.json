@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T12:16:01.436Z",
+  "generatedAt": "2026-06-16T13:32:17.230Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -39,7 +39,7 @@
       "accent_color": "#0068B3",
       "youtube_url": "https://www.youtube.com/@joincolossus",
       "cover_url": "/covers/business-breakdowns.jpg",
-      "episodeCount": 40
+      "episodeCount": 52
     },
     {
       "id": "zhang-xiaojun",
@@ -4444,6 +4444,41 @@
       "chronologySubject": "Yongqing × Wu Xiaobo · Cycle Thinking"
     },
     {
+      "id": "bb-opendoor-q1-2026-earnings",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 245,
+      "title": "Opendoor: Q1 2026 Earnings",
+      "guest": "Opendoor",
+      "displayTitle": "Opendoor",
+      "displaySubtitle": "Q1 2026 Earnings · Public · OPEN",
+      "guestRole": "Public · OPEN",
+      "date": "2026-05-08",
+      "durationMinutes": 25,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Opendoor's Q1 2026 update is a turnaround memo: management claims the business reached adjusted EBITDA positive status as of April 1, 2026, while product velocity, margin discipline, and fewer than 70 engineers reset the cost base. The core question remains whether a 90-120 day data advantage and tighter spreads can overcome 6-7% home transaction costs and cyclical housing volume.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=m53ysyhjDJs",
+      "summaryFile": "bb-opendoor-q1-2026-earnings.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "OPEN",
+        "iBuying",
+        "Housing Liquidity"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "OPEN",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Q1 2026 suggests the cost base and pricing stack are improving, but the model still depends on housing liquidity, inventory risk controls, and proof that adjusted EBITDA positivity is durable rather than quarter-specific."
+        }
+      ],
+      "chronologySubject": "Opendoor"
+    },
+    {
       "id": "tzs-ep182",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 182,
@@ -4486,55 +4521,6 @@
         }
       ],
       "chronologySubject": "Yongqing · Biotech Post-Mortem"
-    },
-    {
-      "id": "zj-ep145",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 145,
-      "title": "Oral History of SpaceX: Ex-Executive Hong Lide on Musk's Hiring, Mega-IPO, Space & AI",
-      "guest": "Hong Lide",
-      "displayTitle": "Hong Lide",
-      "displaySubtitle": "Former SpaceX Executive",
-      "guestRole": "Former SpaceX Executive",
-      "date": "2026-06-12",
-      "durationMinutes": 181,
-      "readMinutes": 4,
-      "rating": 4,
-      "conclusion": "Former SpaceX executive Hong Lide separates 2026's capital frenzy from engineering continuity: IPO and xAI chatter is new for allocators, but Mars planning and Starship iteration began after the first Falcon success in 2012–13. SpaceX's edge is manufacturing culture and vertical integration across thousands of components — not slide-deck synergy. Tesla remains the liquid Musk-industrial proxy; pure-play space names need Starship cadence, per-kilogram cost, and Starlink cash flow before mega-IPO scarcity pricing.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=ABtf0yehi1I",
-      "summaryFile": "zj-ep145.md",
-      "summaryFileZh": "zj-ep145.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Private:SpaceX",
-        "TSLA",
-        "Space Economy"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "TSLA",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Tesla (TSLA): liquid proxy for Musk manufacturing ecosystem — SpaceX IPO narrative may re-rate industrial optionality or distract from auto core; track execution cadence"
-        },
-        {
-          "ticker": "Private:SpaceX",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "SpaceX: 2026 mega-IPO reprises optionality — Hong stresses decade-old roadmap lines; underwrite Starship cadence and Starlink cash flow, not xAI slideware alone"
-        },
-        {
-          "ticker": "RKLB",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Rocket Lab (RKLB): benefits from space capital inflection but lacks SpaceX full-stack moat — backlog quality and launch cadence vs hype-driven multiples"
-        }
-      ],
-      "chronologySubject": "Hong Lide · SpaceX Oral History"
     },
     {
       "id": "bb-pricesmart-central-america-s-costco",
@@ -4899,6 +4885,41 @@
       "chronologySubject": "Cloudflare"
     },
     {
+      "id": "bb-how-investors-are-using-ai",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 240,
+      "title": "How Investors are using AI",
+      "guest": "How Investors are using AI",
+      "displayTitle": "How Investors are using AI",
+      "displaySubtitle": "Theme · Investment Process",
+      "guestRole": "Theme · Investment Process",
+      "date": "2026-02-05",
+      "durationMinutes": 49,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "The AI episode is a practical research-stack discussion, not a single-company breakdown. Investors are using models for document retrieval, transcript comparison, idea triage, and repeatable workflows, but the transcript repeatedly warns that 99% accuracy can still be 0% useful when a mistake changes an investment conclusion. The edge is process design: prompts, context discipline, and human verification.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=o2fm15GD5mo",
+      "summaryFile": "bb-how-investors-are-using-ai.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AI Infrastructure",
+        "Research Workflow",
+        "Investment Process"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:AI Research Tools",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "The transcript supports demand for research platforms that combine document ingestion, transcript libraries, prompt workflows, and source verification; monetization should track time saved and error reduction, not generic chatbot usage."
+        }
+      ],
+      "chronologySubject": "AI in investment research"
+    },
+    {
       "id": "tzs-ep176",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 176,
@@ -4973,6 +4994,41 @@
         }
       ],
       "chronologySubject": "Hu Wei · Apple Culture"
+    },
+    {
+      "id": "bb-games-workshop-the-world-of-warhammer",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 239,
+      "title": "Games Workshop: The World of Warhammer",
+      "guest": "Games Workshop",
+      "displayTitle": "Games Workshop",
+      "displaySubtitle": "The World of Warhammer · Public · GMWKF",
+      "guestRole": "Public · GMWKF",
+      "date": "2026-01-30",
+      "durationMinutes": 39,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Games Workshop is a rare hobby IP compounder: roughly 575 stores, 70% gross margins, >40% EBIT margins, and a customer loop that pulls teenagers back in their 30s and 40s. The Warhammer universe provides pricing power, direct distribution, and high-margin licensing optionality. The public-equity question is whether Amazon/2027 media expansion grows the funnel without diluting the hobby's scarcity and community.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_wUIQkNi6Ag",
+      "summaryFile": "bb-games-workshop-the-world-of-warhammer.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "GMWKF",
+        "Warhammer",
+        "Licensing"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GMWKF",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Games Workshop combines owned IP, direct channels, 70% gross margins, >40% EBIT margins, and licensing optionality; the risk is that media expansion or pricing overreach weakens the community-driven hobby core."
+        }
+      ],
+      "chronologySubject": "Games Workshop · Warhammer"
     },
     {
       "id": "acq-the-nfl",
@@ -5405,6 +5461,55 @@
         }
       ],
       "chronologySubject": "David · NVDA $5T Bear Case"
+    },
+    {
+      "id": "zj-ep145",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 145,
+      "title": "Oral History of SpaceX: Ex-Executive Hong Lide on Musk's Hiring, Mega-IPO, Space & AI",
+      "guest": "Hong Lide",
+      "displayTitle": "Hong Lide",
+      "displaySubtitle": "Former SpaceX Executive",
+      "guestRole": "Former SpaceX Executive",
+      "date": "2026-06-12",
+      "durationMinutes": 181,
+      "readMinutes": 4,
+      "rating": 4,
+      "conclusion": "Former SpaceX executive Hong Lide separates 2026's capital frenzy from engineering continuity: IPO and xAI chatter is new for allocators, but Mars planning and Starship iteration began after the first Falcon success in 2012–13. SpaceX's edge is manufacturing culture and vertical integration across thousands of components — not slide-deck synergy. Tesla remains the liquid Musk-industrial proxy; pure-play space names need Starship cadence, per-kilogram cost, and Starlink cash flow before mega-IPO scarcity pricing.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ABtf0yehi1I",
+      "summaryFile": "zj-ep145.md",
+      "summaryFileZh": "zj-ep145.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:SpaceX",
+        "TSLA",
+        "Space Economy"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "TSLA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Tesla (TSLA): liquid proxy for Musk manufacturing ecosystem — SpaceX IPO narrative may re-rate industrial optionality or distract from auto core; track execution cadence"
+        },
+        {
+          "ticker": "Private:SpaceX",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "SpaceX: 2026 mega-IPO reprises optionality — Hong stresses decade-old roadmap lines; underwrite Starship cadence and Starlink cash flow, not xAI slideware alone"
+        },
+        {
+          "ticker": "RKLB",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Rocket Lab (RKLB): benefits from space capital inflection but lacks SpaceX full-stack moat — backlog quality and launch cadence vs hype-driven multiples"
+        }
+      ],
+      "chronologySubject": "Hong Lide · SpaceX Oral History"
     },
     {
       "id": "zj-ep144",
@@ -6201,6 +6306,41 @@
       "chronologySubject": "Compass"
     },
     {
+      "id": "bb-cme-group-the-house-always-wins",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 224,
+      "title": "CME Group: The House Always Wins",
+      "guest": "CME Group",
+      "displayTitle": "CME Group",
+      "displaySubtitle": "The House Always Wins · Public · CME",
+      "guestRole": "Public · CME",
+      "date": "2025-07-23",
+      "durationMinutes": 60,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "CME is market infrastructure with exchange economics: over $6B of annual revenue, roughly 80% from clearing/trading, operating margins near or above 70%, and interest-rate futures tied to a growing Treasury complex. The moat is liquidity plus clearing trust. The business benefits from volatility, but long-term value comes from product depth, global client expansion, and capital returns.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-cme-group-the-house-always-wins.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "CME",
+        "Derivatives",
+        "Market Infrastructure"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "CME",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "CME combines liquidity-network effects, rates volatility exposure, and 70% operating margins; risk is regulation or a prolonged low-volatility regime reducing volume growth."
+        }
+      ],
+      "chronologySubject": "CME Group"
+    },
+    {
       "id": "bb-agilent-back-to-the-lab",
       "podcastId": "business-breakdowns",
       "episodeNumber": 223,
@@ -6269,6 +6409,41 @@
         }
       ],
       "chronologySubject": "Jamie Dimon · JPMorgan Chase"
+    },
+    {
+      "id": "bb-alpha-in-podcasts",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 222,
+      "title": "Alpha In Podcasts?",
+      "guest": "Alpha In Podcasts?",
+      "displayTitle": "Alpha In Podcasts?",
+      "displaySubtitle": "Theme · Podcast Alpha",
+      "guestRole": "Theme · Podcast Alpha",
+      "date": "2025-07-02",
+      "durationMinutes": 10,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "This short episode audits whether Business Breakdowns episodes have produced tradable alpha. The answer is mixed but useful: since the show began in 2021, the S&P 500 rose about 45% and the covered-company basket rose about 30%, yet several individual episodes became huge winners. The lesson is selection, not blind podcast-following.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Mf_4_7zuDMw",
+      "summaryFile": "bb-alpha-in-podcasts.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Podcast Alpha",
+        "Public Markets",
+        "Media Research"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "SPY",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "The episode is a meta-analysis: podcasts can source ideas but do not mechanically beat the index; investors still need security selection and valuation discipline."
+        }
+      ],
+      "chronologySubject": "Business Breakdowns returns audit"
     },
     {
       "id": "acq-google",
@@ -6639,6 +6814,41 @@
       "chronologySubject": "Goosehead Insurance"
     },
     {
+      "id": "bb-compass-meals-for-the-masses",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 211,
+      "title": "Compass: Meals for the Masses",
+      "guest": "Compass",
+      "displayTitle": "Compass",
+      "displaySubtitle": "Meals for the Masses · Public · CMPGY",
+      "guestRole": "Public · CMPGY",
+      "date": "2025-04-02",
+      "durationMinutes": 58,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Compass Group is the 800-pound gorilla in outsourced food services: about $42B of revenue, 11-12% share of a roughly $320B addressable market, 96% retention, and 4% net new business growth. The moat is route density, procurement scale, and sector specialization across 27 subsectors. The debate is whether a low-margin service company deserves quality-compounder treatment.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7vVjkPMnAU0",
+      "summaryFile": "bb-compass-meals-for-the-masses.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "CMPGY",
+        "Food Services",
+        "Outsourcing"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "CMPGY",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Compass combines 96% retention, $42B revenue scale, and a fragmented $320B market; upside depends on continued outsourcing and margin discipline in a labor-heavy service model."
+        }
+      ],
+      "chronologySubject": "Compass Group"
+    },
+    {
       "id": "bb-essilorluxottica-sight-to-behold",
       "podcastId": "business-breakdowns",
       "episodeNumber": 210,
@@ -6709,6 +6919,41 @@
       "chronologySubject": "BCCI · Indian Premier League"
     },
     {
+      "id": "bb-watsco-air-apparent",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 209,
+      "title": "Watsco: Air Apparent",
+      "guest": "Watsco",
+      "displayTitle": "Watsco",
+      "displaySubtitle": "Air Apparent · Public · WSO",
+      "guestRole": "Public · WSO",
+      "date": "2025-03-19",
+      "durationMinutes": 55,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Watsco is a distributor compounder hiding in HVAC: revenue went from $64M in 1989 to $7.5B, market cap from $22M to about $20B, and shareholder returns around 20% annualized over multiple horizons. The model is 700 branches, 11-12% share of a $64B North American market, 80% repair/replacement, and disciplined M&A through manufacturer partnerships.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-watsco-air-apparent.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "WSO",
+        "HVAC Distribution",
+        "M&A"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "WSO",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Watsco's 20% long-term annualized shareholder return reflects a repeatable HVAC distribution roll-up with replacement demand; valuation and Carrier concentration are the main checks."
+        }
+      ],
+      "chronologySubject": "Watsco"
+    },
+    {
       "id": "bb-apollo-connoisseurs-of-complexity",
       "podcastId": "business-breakdowns",
       "episodeNumber": 208,
@@ -6742,6 +6987,41 @@
         }
       ],
       "chronologySubject": "Apollo Global Management"
+    },
+    {
+      "id": "bb-cognex-vision-quest",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 207,
+      "title": "Cognex: Vision Quest",
+      "guest": "Cognex",
+      "displayTitle": "Cognex",
+      "displaySubtitle": "Vision Quest · Public · CGNX",
+      "guestRole": "Public · CGNX",
+      "date": "2025-02-26",
+      "durationMinutes": 43,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Cognex is a 40-year S-curve machine in machine vision: founded in 1981, evolved from semiconductor inspection toward logistics, consumer electronics, and AI-enabled vision. The market grew from $2.9B in 2017 to $6.5B and could reach $8-9B. Cognex has mid-80s gross margins in core products and a direct-sales model, but customer concentration and electronics cycles make growth lumpy.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=H15GCvEO5d0",
+      "summaryFile": "bb-cognex-vision-quest.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "CGNX",
+        "Machine Vision",
+        "Industrial Automation"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "CGNX",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Cognex has high gross margins and a growing machine-vision market, but the stock needs evidence that AI-enabled products can restart growth after logistics and electronics cyclicality."
+        }
+      ],
+      "chronologySubject": "Cognex"
     },
     {
       "id": "acq-tsmc-founder-morris-chang",
@@ -6969,6 +7249,41 @@
       "chronologySubject": "Ingvar Kamprad · IKEA"
     },
     {
+      "id": "bb-merck-co-blockbuster-drugs",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 189,
+      "title": "Merck & Co: Blockbuster Drugs",
+      "guest": "Merck & Co",
+      "displayTitle": "Merck & Co",
+      "displaySubtitle": "Blockbuster Drugs · Public · MRK",
+      "guestRole": "Public · MRK",
+      "date": "2024-10-30",
+      "durationMinutes": 66,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Merck is now a Keytruda story with a deep R&D and M&A overlay. The company has roughly $60B of revenue, about $53B in pharma, and Keytruda contributes around $25B, nearly 40-50% of sales. The 2028 patent cliff is the investment problem. The defense is biologic complexity, 40 indications, combination therapies, vaccines like Gardasil, and a decade of acquisitions.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-merck-co-blockbuster-drugs.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "MRK",
+        "Keytruda",
+        "Pharma R&D"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "MRK",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Merck's valuation hinges on the 2028 Keytruda cliff. Slower biologic erosion and successful pipeline/M&A could make the market too pessimistic; failure leaves a large revenue hole."
+        }
+      ],
+      "chronologySubject": "Merck & Co"
+    },
+    {
       "id": "acq-meta",
       "podcastId": "acquired",
       "episodeNumber": 192,
@@ -7078,6 +7393,41 @@
         }
       ],
       "chronologySubject": "Mark Zuckerberg · Chase Center Interview"
+    },
+    {
+      "id": "bb-3i-group-capital-in-action",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 180,
+      "title": "3i Group: Capital in Action",
+      "guest": "3i Group",
+      "displayTitle": "3i Group",
+      "displaySubtitle": "Capital in Action · Public · TGOPY",
+      "guestRole": "Public · TGOPY",
+      "date": "2024-08-28",
+      "durationMinutes": 38,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "3i is a listed private-equity vehicle transformed by concentration and operating focus. Founded after World War II, IPO'd in 1994, and recapitalized through a painful 2009 rights issue, the modern story is Action: bought in 2011 at about €700M of sales and scaled to roughly €11B by 2023, now north of 50% of NAV. Concentration created exceptional returns but also single-asset risk.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Jqy4nCNix1w",
+      "summaryFile": "bb-3i-group-capital-in-action.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "TGOPY",
+        "Private Equity",
+        "Action"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "TGOPY",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "3i's value is increasingly an Action thesis: exceptional retail compounding and permanent-capital economics offset concentration risk and listed-PE discount volatility."
+        }
+      ],
+      "chronologySubject": "3i Group"
     },
     {
       "id": "acq-microsoft-volume-ii",
@@ -8139,6 +8489,47 @@
         }
       ],
       "chronologySubject": "Constellation Software"
+    },
+    {
+      "id": "bb-qualcomm-making-smartphones-smart",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 95,
+      "title": "Qualcomm: Making Smartphones Smart",
+      "guest": "Qualcomm",
+      "displayTitle": "Qualcomm",
+      "displaySubtitle": "Making Smartphones Smart · Public · QCOM",
+      "guestRole": "Public · QCOM",
+      "date": "2023-02-01",
+      "durationMinutes": 44,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Qualcomm is a standards-and-silicon business built on decades of R&D. Founded in 1985 after Irwin Jacobs's prior Linkabit success, it pushed CDMA from science fiction to global 3G/4G/5G relevance. Fiscal 2022 sales were $44B and enterprise value around $145-150B. The moat is modem leadership plus patents, but Apple insourcing and MediaTek competition cap the narrative.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-qualcomm-making-smartphones-smart.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "QCOM",
+        "Wireless Standards",
+        "Semiconductors"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "QCOM",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Qualcomm owns essential wireless IP and premium modem execution, but Apple insourcing and handset cyclicality keep the thesis from being purely secular."
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Apple's need for a 5G modem shows Qualcomm's technical edge, but Apple remains the largest long-term insourcing threat."
+        }
+      ],
+      "chronologySubject": "Qualcomm"
     },
     {
       "id": "acq-holiday-special-2022",
@@ -10271,6 +10662,47 @@
         }
       ],
       "chronologySubject": "China Tech Trends (2021)"
+    },
+    {
+      "id": "bb-visa-the-original-protocol-business",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 7,
+      "title": "Visa: The Original Protocol Business",
+      "guest": "Visa",
+      "displayTitle": "Visa",
+      "displaySubtitle": "The Original Protocol Business · Public · V",
+      "guestRole": "Public · V",
+      "date": "2021-05-05",
+      "durationMinutes": 57,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "Visa is the original protocol business: born as BankAmericard in Fresno in 1958, reorganized into a bank consortium, and taken public in 2007. The power is not moving money; it is coordinating consumers, merchants, issuers, acquirers, rewards, dispute rules, and acceptance. A 3% merchant fee can fund 2% rewards because the network aligns incentives at global scale.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-visa-the-original-protocol-business.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "V",
+        "Payments Network",
+        "Interchange"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "V",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Visa's global two-sided protocol, issuer incentives, and merchant acceptance remain among the highest-quality business models; regulatory pressure on interchange is the central risk."
+        },
+        {
+          "ticker": "MA",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Mastercard shares similar network economics and is the closest benchmark for Visa's protocol moat and regulatory exposure."
+        }
+      ],
+      "chronologySubject": "Visa"
     },
     {
       "id": "acq-berkshire-hathaway-part-i",

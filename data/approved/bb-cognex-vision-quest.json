@@ -1,0 +1,111 @@
+{
+  "episode_id": "bb-cognex-vision-quest",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 207,
+    "title": "Cognex: Vision Quest",
+    "guest": "Cognex",
+    "guest_role": "Public · CGNX",
+    "date": "2025-02-26",
+    "duration_minutes": 43,
+    "youtube_url": "https://www.youtube.com/watch?v=H15GCvEO5d0",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "colossus": "https://joincolossus.com/episode/cognex-vision-quest/",
+      "youtube": "https://www.youtube.com/watch?v=H15GCvEO5d0",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/CLS3676025885.mp3?updated=1741878720"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10"
+  },
+  "keywords": [
+    "CGNX",
+    "Machine Vision",
+    "Industrial Automation"
+  ],
+  "conclusion": "Cognex is a 40-year S-curve machine in machine vision: founded in 1981, evolved from semiconductor inspection toward logistics, consumer electronics, and AI-enabled vision. The market grew from $2.9B in 2017 to $6.5B and could reach $8-9B. Cognex has mid-80s gross margins in core products and a direct-sales model, but customer concentration and electronics cycles make growth lumpy.",
+  "background": "The episode explains Cognex as a leader in 2D and 3D machine vision systems used for inspection, logistics, and automation. The market expanded from roughly $2.9B in 2017 to $6.5B, with expectations of $8-9B as new products and AI broaden adoption. Cognex's history is a sequence of S-curves: semiconductor inspection dominated early sales, then logistics accelerated around 2010, and acquisitions in 2017 and 2019 pushed into new product categories. Logistics peaked around $300M of sales and 30% of the business in 2021. The company spends heavily on customer visits, direct selling, and R&D; direct sales are about 70% of revenue.\n\n The transcript's customer examples make the product less abstract: a logistics site scanning 100,000 packages per day can justify Cognex if read-rate improvements of 100-300 basis points reduce manual intervention. New AI tools that can learn from five to ten images may lower deployment friction, but they also need field visits and application engineering. Cognex's 80,000 customer visits and 3,000 new customer additions show why sales capacity remains strategic, not overhead.",
+  "important_facts": [
+    "The machine-vision market grew from roughly $2.9B in 2017 to $6.5B and may reach $8-9B; the transcript frames this as about a 10% category CAGR.",
+    "Cognex was founded in 1981 and has stacked S-curves for 40-50 years; logistics, which began around 2010, peaked near $300M of sales and 30% of revenue in 2021.",
+    "The business has mid-80s gross margins in key products, roughly 70% direct sales, and electronics was 17% of 2024 sales while logistics was about 23%, showing both quality and cyclicality."
+  ],
+  "mental_model": {
+    "name": "Stacking Industrial S-Curves",
+    "components": "A specialized technology company compounds by moving from one adoption wave to the next before the prior wave fades. Direct sales and application knowledge transfer across end markets.",
+    "application": "CGNX is attractive when new AI vision products expand use cases, but investors must underwrite cyclical end markets, Amazon/logistics exposure, and whether new products can replace prior S-curve peaks."
+  },
+  "key_insights": [
+    {
+      "view": "Vision is an enabling layer.",
+      "question": "What does Cognex sell?",
+      "answer": "2D and 3D systems that let factories, logistics networks, and electronics lines inspect or identify objects at speed."
+    },
+    {
+      "view": "End markets rotate.",
+      "question": "Why is growth lumpy?",
+      "answer": "Semiconductors, logistics, and electronics have each been large at different times. Logistics reached 30% of sales in 2021, then normalized."
+    },
+    {
+      "view": "Sales motion matters.",
+      "question": "Why use direct sales?",
+      "answer": "Roughly 70% of sales are direct because applications require engineering knowledge, customer visits, and proof that better reads reduce error rates."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "CGNX",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Cognex has high gross margins and a growing machine-vision market, but the stock needs evidence that AI-enabled products can restart growth after logistics and electronics cyclicality."
+    }
+  ],
+  "golden_quotes": [
+    "The machine-vision market grew from $2.9B in 2017 to $6.5B.",
+    "Cognex has been stacking S-curves for 40 to 50 years.",
+    "Logistics peaked around $300M of sales and 30% of Cognex's business in 2021."
+  ],
+  "chronology": {
+    "subject": "Cognex",
+    "events": [
+      {
+        "date": "1981",
+        "event": "Cognex is founded."
+      },
+      {
+        "date": "2000",
+        "event": "Semiconductor exposure falls after being as high as 80% of sales."
+      },
+      {
+        "date": "2010",
+        "event": "Logistics emerges as a new S-curve."
+      },
+      {
+        "date": "2017",
+        "event": "Cognex acquires a vision company as market size reaches $2.9B."
+      },
+      {
+        "date": "2019",
+        "event": "Another acquisition broadens product capability."
+      },
+      {
+        "date": "2021",
+        "event": "Logistics peaks near $300M and 30% of sales."
+      },
+      {
+        "date": "2024",
+        "event": "Electronics is 17% of sales; logistics is about 23%."
+      }
+    ]
+  }
+}

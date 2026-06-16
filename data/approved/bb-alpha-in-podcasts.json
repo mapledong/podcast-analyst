@@ -1,0 +1,103 @@
+{
+  "episode_id": "bb-alpha-in-podcasts",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 222,
+    "title": "Alpha In Podcasts?",
+    "guest": "Alpha In Podcasts?",
+    "guest_role": "Theme · Podcast Alpha",
+    "date": "2025-07-02",
+    "duration_minutes": 10,
+    "youtube_url": "https://www.youtube.com/watch?v=Mf_4_7zuDMw",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "colossus": "https://joincolossus.com/episode/alpha-in-podcasts/",
+      "youtube": "https://www.youtube.com/watch?v=Mf_4_7zuDMw",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/CLS1179838912.mp3?updated=1752023964"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10"
+  },
+  "keywords": [
+    "Podcast Alpha",
+    "Public Markets",
+    "Media Research"
+  ],
+  "conclusion": "This short episode audits whether Business Breakdowns episodes have produced tradable alpha. The answer is mixed but useful: since the show began in 2021, the S&P 500 rose about 45% and the covered-company basket rose about 30%, yet several individual episodes became huge winners. The lesson is selection, not blind podcast-following.",
+  "background": "Matt Reustle reviews the performance of companies covered on Business Breakdowns. The transcript cites more than 200 company episodes since 2021 and compares returns against the S&P 500. The aggregate basket lagged, but the distribution was highly skewed: a handful of covered names generated enormous outperformance, while prior winners sometimes reverted. The episode is more research-method reminder than company analysis: use podcasts as idea sourcing, then do the 10-K, annual report, and independent underwriting.\n\n The more useful reading is behavioral. Podcast listeners often hear a polished story after a stock has already worked; the transcript explicitly calls out names that had risen more than 20% before recording and then did not necessarily keep outperforming. Conversely, prior losers sometimes created better forward setups. That pattern argues for a contrarian checklist: identify whether the episode is explaining durable improvement or simply narrating a chart that has already moved. The episode's $150M and $250M profit examples around public podcast exposure also show that media can move attention, but attention is not the same as underwriting.",
+  "important_facts": [
+    "Since Business Breakdowns began in 2021, the S&P 500 is cited as up about 45%, while the covered-company basket is up about 30% — not automatic alpha.",
+    "One example cited generated nearly 540% since its episode; another outperformed by over 300%, and a 2024 example was up about 250% in less than a year.",
+    "The transcript also notes losers: of 20 worst prior performers, 16 out of 25 later outperformed; among 35 names up more than 20% in the year before recording, only a minority kept working."
+  ],
+  "mental_model": {
+    "name": "Idea Source, Not Signal",
+    "components": "A podcast can surface a business, but return comes from underwriting quality, entry price, and variant perception. Backward-looking winners are not buy lists.",
+    "application": "Investors should treat episodes as research prompts: read the annual report, build the model, and ask why consensus is wrong before acting."
+  },
+  "key_insights": [
+    {
+      "view": "Aggregate alpha was weak.",
+      "question": "Did covered names beat the market?",
+      "answer": "No. The transcript says the S&P rose about 45% while the covered basket rose about 30%."
+    },
+    {
+      "view": "Distribution matters.",
+      "question": "Why still listen?",
+      "answer": "Several individual names produced 250%, 300%, or even roughly 540% outcomes; the value is surfacing outliers early enough to underwrite them."
+    },
+    {
+      "view": "Process beats copying.",
+      "question": "What should listeners do next?",
+      "answer": "Read the 10-K or annual report and use the episode as a map, not a trade recommendation."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "SPY",
+      "direction": "Watch",
+      "confidence": "Low",
+      "thesis": "The episode is a meta-analysis: podcasts can source ideas but do not mechanically beat the index; investors still need security selection and valuation discipline."
+    }
+  ],
+  "golden_quotes": [
+    "Since 2021, the S&P is up about 45%, while covered companies are up about 30%.",
+    "Some covered companies still compounded by hundreds of percent after their episodes.",
+    "Listen, then read the 10-K — the episode is a starting point, not a signal."
+  ],
+  "chronology": {
+    "subject": "Business Breakdowns returns audit",
+    "events": [
+      {
+        "date": "2021",
+        "event": "Business Breakdowns begins covering individual companies."
+      },
+      {
+        "date": "2022",
+        "event": "Several later winners are first discussed on the show."
+      },
+      {
+        "date": "2024",
+        "event": "Some episodes produce very large one-year outperformance."
+      },
+      {
+        "date": "2025-07-01",
+        "event": "The show reviews alpha around its episode database."
+      },
+      {
+        "date": "Ongoing",
+        "event": "Listeners are reminded to use podcasts as research inputs."
+      }
+    ]
+  }
+}

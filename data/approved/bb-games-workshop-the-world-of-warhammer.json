@@ -1,0 +1,103 @@
+{
+  "episode_id": "bb-games-workshop-the-world-of-warhammer",
+  "podcast": "Business Breakdowns",
+  "host": "Matt Reustle & Zack Fuss",
+  "metadata": {
+    "episode_number": 239,
+    "title": "Games Workshop: The World of Warhammer",
+    "guest": "Games Workshop",
+    "guest_role": "Public · GMWKF",
+    "date": "2026-01-30",
+    "duration_minutes": 39,
+    "youtube_url": "https://www.youtube.com/watch?v=_wUIQkNi6Ag",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez",
+      "colossus": "https://colossus.com/episode/games-workshop-the-world-of-warhammer",
+      "youtube": "https://www.youtube.com/watch?v=_wUIQkNi6Ag",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/CLS9358688939.mp3?updated=1769632551"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "review_notes": "| curated v4.10",
+  "extraction_meta": {
+    "model": "manual-curated-v4.10",
+    "transcript_source": "youtube/ytdlp-auto",
+    "status": "approved",
+    "template_version": "4.10"
+  },
+  "keywords": [
+    "GMWKF",
+    "Warhammer",
+    "Licensing"
+  ],
+  "conclusion": "Games Workshop is a rare hobby IP compounder: roughly 575 stores, 70% gross margins, >40% EBIT margins, and a customer loop that pulls teenagers back in their 30s and 40s. The Warhammer universe provides pricing power, direct distribution, and high-margin licensing optionality. The public-equity question is whether Amazon/2027 media expansion grows the funnel without diluting the hobby's scarcity and community.",
+  "background": "The breakdown explains Games Workshop as the owner of Warhammer and Warhammer 40,000, a tabletop miniatures universe born in the late 1970s and early 1980s. The business sells models, paints, rulebooks, and subscriptions through company stores, online channels, independents, and licensing. Around 575 stores operate globally, with roughly 55% in Europe/UK, 35% in North America, and 10% in Australasia. Stores are run by enthusiasts and function as onboarding centers. The model is vertically integrated: design, manufacturing, lore, stores, and community support all reinforce the same IP. Warhammer+ has about 248,000 subscribers, up from 115,000 three years ago, and media licensing could expand with projects expected around 2027.\n\n The store footprint is part of the moat because Warhammer is learned socially. A customer needs rules, miniatures, painting supplies, opponents, and lore; Games Workshop controls each layer and can compound a niche without chasing mass-market shelf space. The transcript's gross-margin discussion also explains why small revenue shifts into licensing or direct online sales can be powerful even if licensing remains only about 5% of revenue today.",
+  "important_facts": [
+    "Games Workshop operates about 575 stores: roughly 55% in Europe/UK, 35% in North America, and 10% in Australasia; stores are run by enthusiasts and serve as recruiting funnels.",
+    "Revenue mix is unusually controlled: about 60% flows through owned stores, roughly 20% through third parties, around 15% online, and about 5% licensing, with licensing cyclicality but high incremental margins.",
+    "The transcript cites gross margins around 70%, eBay/operating margins above 40%, and manufacturing gross margins in the 80-85% range; Warhammer+ subscribers rose to about 248,000 from 115,000 three years earlier."
+  ],
+  "mental_model": {
+    "name": "Owned IP Hobby Flywheel",
+    "components": "Control the lore, models, stores, rules, and community. The store teaches the hobby; the hobby creates identity; identity supports repeat purchases and pricing power.",
+    "application": "GMWKF works when customer engagement remains deep rather than fad-like. Investors should monitor store productivity, licensing quality, and whether media projects expand the audience while protecting tabletop economics."
+  },
+  "key_insights": [
+    {
+      "view": "Stores are acquisition channels.",
+      "question": "Why own retail?",
+      "answer": "A Warhammer store is not just a shelf. Enthusiast staff teach painting, play, and lore, converting curiosity into a long-duration hobby."
+    },
+    {
+      "view": "The IP monetizes in layers.",
+      "question": "Where does profitability come from?",
+      "answer": "Miniatures, paints, rulebooks, online sales, subscriptions, and licensing all draw from the same universe; licensing is only ~5% but can carry high margins."
+    },
+    {
+      "view": "Nostalgia is a retention asset.",
+      "question": "Why do customers come back later?",
+      "answer": "The transcript describes boys discovering Warhammer around ages 10-18, leaving for a decade, then returning in their 30s or 40s with more disposable income."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "GMWKF",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Games Workshop combines owned IP, direct channels, 70% gross margins, >40% EBIT margins, and licensing optionality; the risk is that media expansion or pricing overreach weakens the community-driven hobby core."
+    }
+  ],
+  "golden_quotes": [
+    "Warhammer stores are run by enthusiasts, not generic retail clerks.",
+    "Warhammer+ subscribers rose from about 115,000 to 248,000 in three years.",
+    "The business sits on 70% gross margins and over 40% EBIT margins because it owns the world, the product, and much of the channel."
+  ],
+  "chronology": {
+    "subject": "Games Workshop · Warhammer",
+    "events": [
+      {
+        "date": "Late 1970s",
+        "event": "Founders begin building the tabletop gaming company."
+      },
+      {
+        "date": "1980s",
+        "event": "Warhammer and Warhammer 40,000 become core universes."
+      },
+      {
+        "date": "2010s",
+        "event": "Direct stores and online channels deepen the owned-distribution model."
+      },
+      {
+        "date": "2020s",
+        "event": "Warhammer+ grows from 115,000 to 248,000 subscribers over three years."
+      },
+      {
+        "date": "2027",
+        "event": "Media projects are expected to become a larger part of the growth story."
+      }
+    ]
+  }
+}
