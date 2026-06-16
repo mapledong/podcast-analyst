@@ -15,6 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 AUDIO_DIR = ROOT / "data" / "audio_cache"
 OUT_DIR = ROOT / "data" / "transcripts"
+DEFAULT_URLS = ROOT / "config" / "chinese_episode_m4a_urls.json"
 
 
 def download(url: str, dest: Path) -> None:
@@ -26,9 +27,9 @@ def download(url: str, dest: Path) -> None:
     urllib.request.urlretrieve(url, dest)
 
 
-def transcribe(audio: Path, slug: str, *, model: str = "tiny") -> Path:
+def transcribe(audio: Path, slug: str, *, model: str = "small", force: bool = False) -> Path:
     out = OUT_DIR / f"{slug}.txt"
-    if out.exists():
+    if out.exists() and not force:
         print(f"skip transcribe {slug}")
         return out
     from faster_whisper import WhisperModel
@@ -46,14 +47,22 @@ def transcribe(audio: Path, slug: str, *, model: str = "tiny") -> Path:
 
 
 def main() -> None:
-    episodes = json.loads(Path("/tmp/episode_urls.json").read_text())
-    model = sys.argv[1] if len(sys.argv) > 1 else "tiny"
-    slugs = sys.argv[2:] if len(sys.argv) > 2 else list(episodes.keys())
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("model", nargs="?", default="small", help="Whisper model (default: small)")
+    parser.add_argument("slugs", nargs="*", help="Episode slugs")
+    parser.add_argument("--urls-file", default=str(DEFAULT_URLS))
+    parser.add_argument("--force", action="store_true", help="Overwrite existing transcripts")
+    args = parser.parse_args()
+
+    episodes = json.loads(Path(args.urls_file).read_text(encoding="utf-8"))
+    slugs = args.slugs or list(episodes.keys())
     for slug in slugs:
         info = episodes[slug]
         audio = AUDIO_DIR / f"{slug}.m4a"
         download(info["url"], audio)
-        transcribe(audio, slug, model=model)
+        transcribe(audio, slug, model=args.model, force=args.force)
 
 
 if __name__ == "__main__":

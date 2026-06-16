@@ -18,8 +18,10 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
+from src.chinese_transcript import is_chinese_podcast_data, require_transcript_gate  # noqa: E402
 from src.render import render_summary, save_summary  # noqa: E402
 from src.template_config import template_path_for_podcast  # noqa: E402
+from src.validate import load_template_config, validate_summary  # noqa: E402
 
 APPROVED_ZH = ROOT / "data" / "approved" / "zh"
 APPROVED_EN = ROOT / "data" / "approved"
@@ -66,6 +68,21 @@ def publish_pair(episode_id: str, *, sync_web: bool = True) -> None:
     zh_data = json.loads(zh_path.read_text(encoding="utf-8"))
     en_data = json.loads(en_path.read_text(encoding="utf-8"))
     ep_num = zh_data["metadata"]["episode_number"]
+    duration = int(zh_data["metadata"].get("duration_minutes", 60))
+
+    if is_chinese_podcast_data(zh_data):
+        require_transcript_gate(
+            episode_id,
+            duration_minutes=duration,
+            data=zh_data,
+            check_quotes=True,
+        )
+        template = load_template_config(template_path_for_podcast(en_data.get("podcast", "")))
+        for locale, data in (("en", en_data), ("zh", zh_data)):
+            report = validate_summary(data, template)
+            if not report.passed:
+                msgs = "; ".join(i.message for i in report.issues if i.severity == "error")
+                raise RuntimeError(f"{episode_id} ({locale}) validation failed: {msgs}")
 
     zh_md = render_summary(zh_data, TEMPLATES, locale="zh")
     en_md = render_summary(en_data, TEMPLATES, locale="en")

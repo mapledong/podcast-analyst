@@ -2,7 +2,7 @@
 
 ## *Curing Cancer? CAR-T Cell Therapy — Science and Business*
 
-**★★★★☆** · 4/5
+**★★★★★** · 5/5
 
 **Podcast** Practical Investments · **Date** May 24, 2026 · **Duration** 108 min · **Read** ≈3 min
 
@@ -99,7 +99,9 @@
 >
 > **2010s** CAR-T science matures; China biotech entrants
 >
-> **2020s** CARsgen advances BCMA and lymphoma programs
+> **2018–22** CARsgen advances BCMA and lymphoma programs
+>
+> **2023–24** Commercial launch; hospital center rollout begins
 >
 > **2025–26** Commercial ramp; capacity and payer gates dominate
 >

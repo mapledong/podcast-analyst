@@ -369,8 +369,38 @@ def validate_summary(data: dict[str, Any], template: dict[str, Any]) -> Validati
 
     _validate_golden_quotes(data, report)
     _validate_prose_style(data, template, report)
+    _validate_chinese_transcript_requirements(data, report)
 
     return report
+
+
+def _validate_chinese_transcript_requirements(
+    data: dict[str, Any], report: ValidationReport
+) -> None:
+    from src.chinese_transcript import (
+        assess_summary_quotes,
+        assess_transcript,
+        is_chinese_podcast_data,
+        load_transcript_body,
+        transcript_path,
+    )
+
+    if not is_chinese_podcast_data(data):
+        return
+    episode_id = str(data.get("episode_id", ""))
+    if not episode_id:
+        return
+    duration = int(data.get("metadata", {}).get("duration_minutes", 60))
+    tx = assess_transcript(episode_id, duration_minutes=duration)
+    for issue in tx["issues"]:
+        report.add("transcript", issue)
+    if not tx["exists"]:
+        return
+    body = load_transcript_body(transcript_path(episode_id))
+    podcast = str(data.get("podcast", ""))
+    if podcast in {"张小珺商业访谈录", "投资实战派"}:
+        for issue in assess_summary_quotes(data, body):
+            report.add("golden_quotes", issue)
 
 
 def _validate_golden_quotes(data: dict[str, Any], report: ValidationReport) -> None:

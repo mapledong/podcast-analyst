@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 """Refine bilingual approved JSON for Chinese podcast pilot episodes.
 
-Loads metadata from existing approved files, applies transcript-verified body content,
+Loads metadata from existing approved files, merges hand-authored body content,
 and writes data/approved/{id}.json and data/approved/zh/{id}.json.
+
+Hard gate: every episode must pass scripts/validate_chinese_transcript_gate.py
+(adequate transcript on disk + zh golden quotes grounded in transcript) before merge.
 """
 
 from __future__ import annotations
@@ -23,44 +26,14 @@ if str(_SCRIPTS) not in sys.path:
 from refine_chinese_pilot_bodies import REFINED as _REFINED_RAW  # noqa: E402
 from refine_expansions import apply_expansions  # noqa: E402
 from polish_bilingual_bodies import polish_refined  # noqa: E402
+from src.chinese_transcript import CHINESE_EPISODE_IDS, require_transcript_gate  # noqa: E402
 
 REFINED = polish_refined(_REFINED_RAW)
 
 ZH_DIR = ROOT / "data" / "approved" / "zh"
 EN_DIR = ROOT / "data" / "approved"
 
-EPISODE_IDS = [
-    "zj-ep136",
-    "zj-ep137",
-    "zj-ep138",
-    "zj-ep139",
-    "tzs-ep178",
-    "tzs-ep181",
-    "tzs-ep182",
-    "tzs-ep183",
-    "zj-ep140",
-    "zj-ep141",
-    "zj-ep142",
-    "zj-ep143",
-    "zj-ep144",
-    "zj-ep145",
-    "tzs-ep179",
-    "tzs-ep180",
-    "tzs-ep184",
-    "tzs-ep185",
-    "tzs-ep186",
-    "tzs-ep187",
-    "zj-ep121",
-    "zj-ep120",
-    "zj-ep109",
-    "zj-ep104",
-    "zj-ep83",
-    "tzs-ep176",
-    "tzs-ep170",
-    "tzs-ep167",
-    "tzs-ep158",
-    "tzs-ep126",
-]
+EPISODE_IDS = list(CHINESE_EPISODE_IDS)
 
 
 def _load_meta(episode_id: str, locale: str) -> dict[str, Any]:
@@ -80,6 +53,15 @@ if __name__ == "__main__":
     for eid in EPISODE_IDS:
         if eid not in REFINED:
             raise SystemExit(f"missing refined content for {eid}")
+        zh_meta = _load_meta(eid, "zh")
+        duration = int(zh_meta["metadata"].get("duration_minutes", 60))
+        zh_body = apply_expansions(REFINED[eid]["zh"], eid, "zh")
+        require_transcript_gate(
+            eid,
+            duration_minutes=duration,
+            data={**zh_meta, **zh_body},
+            check_quotes=True,
+        )
         for locale, out_dir in (("zh", ZH_DIR), ("en", EN_DIR)):
             meta = _load_meta(eid, locale)
             body = apply_expansions(REFINED[eid][locale], eid, locale)

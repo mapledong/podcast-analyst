@@ -1,0 +1,32 @@
+# Chinese podcast summaries — accuracy gate
+
+## Goal
+
+Summary **authenticity and accuracy** — not a specific transcription method.
+Every fact, quote, and number must be traceable to a primary source text on disk.
+
+## Source priority (use the first that works)
+
+1. **YouTube captions** — `scripts/fetch_chinese_transcript.py URL --slug {id}`
+   - Manual (`zh-Hans`) preferred; auto captions acceptable with spot-checks
+   - **No audio transcription needed** when captions exist
+2. **Whisper on audio** — only when YouTube has no captions
+   - m4a: `scripts/transcribe_m4a_batch.py small {id} --force`
+   - YouTube audio: `scripts/transcribe_youtube_chinese.py URL --slug {id} --model small`
+
+Batch YouTube attempt: `python scripts/fetch_chinese_transcripts_batch.py`
+
+## Hard gate (blocks publish / refine merge)
+
+1. `data/transcripts/{episode_id}.txt` exists
+2. `lines >= max(400, duration_minutes × 12)` — catches truncated sources
+3. Every **Chinese** `golden_quotes[]` entry fuzzy-matches the transcript
+
+Whisper model tier is **advisory** (audit warning only), not a blocker.
+
+## Body authoring
+
+- Write from the transcript — not shownotes, titles, or prior knowledge
+- English body may paraphrase; Chinese quotes must be verbatim from source
+- Run `python scripts/audit_chinese_episodes.py` after editing body scripts
+- If quotes fail verification, run `python scripts/ground_chinese_quotes.py {id}`

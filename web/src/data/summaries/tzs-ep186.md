@@ -2,7 +2,7 @@
 
 ## *Divergent Markets: Chase Momentum or Guard Principal with Value?*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** Jun 7, 2026 · **Duration** 90 min · **Read** ≈3 min
 
@@ -99,9 +99,13 @@
 >
 > **2024–25** AI and meme rallies; value underperformance narratives
 >
+> **2025** Meta and Nvidia revivals surprise veteran value investors
+>
 > **2026 H1** Global retail equity safe-haven flows intensify
 >
 > **2026-06** Shen Shuaibo cross-podcast on chase vs value
+>
+> **2026** Yongqing reiterates few high-quality names with return asymmetry
 >
 
 ---

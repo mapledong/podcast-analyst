@@ -103,6 +103,8 @@
 >
 > **2020s** Founds healthcare-data venture; ~RMB 80M raised
 >
+> **2024–25** AI agents reshape workflows; process data becomes moat
+>
 > **2025–26** Leaves large org; records Practical Investments episode
 >
 
