@@ -1,0 +1,28 @@
+---
+description: Keywords vs company tags for summaries and site discovery
+globs:
+  - data/approved/**/*.json
+  - web/src/lib/discovery.ts
+  - web/src/lib/tickers.ts
+  - src/company_tickers.py
+---
+
+# Company keywords vs search themes
+
+## Two roles for `keywords`
+
+1. **Company tags** — appear in the site **Companies** filter: US tickers (`NVDA`), `Private:Name`, china_listings codes, or names in `config/company_tickers.yaml` aliases.
+2. **Search themes** — valid in summary JSON for on-page search only (e.g. Vertical Integration, Capital Allocation). They must **not** be treated as companies in discovery UI.
+
+## Authoring rules
+
+- Public companies: use US ticker in `keywords` and `top_investment_implications.ticker` (not company name).
+- Private companies: `Private:SpaceX`, `Private:Ferrero` — not bare "SpaceX".
+- Themes are fine as keywords but never substitute for tickers when the subject is a tradable or named company.
+
+## Code rules
+
+- `extractEpisodeCompanies` / `computeTopCompanies` must use `isCompanyKeyword()` — never treat every `keywords[]` entry as a company.
+- Investment rows and `Private:` prefixes remain company sources.
+- `guest` and `chronologySubject` parts only count when `isCompanyKeyword()` is true.
+- Publish validation warns (non-blocking) when a keyword is a theme via `validate_keyword_company_tags()`.

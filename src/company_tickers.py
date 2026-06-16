@@ -144,6 +144,50 @@ def normalize_investment_ticker(ticker: str, *, config_path: Path | None = None)
     return raw, False
 
 
+def is_company_keyword(value: str, *, config_path: Path | None = None) -> bool:
+    """True when a keyword/chip value is a company tag (ticker, Private:, or known alias)."""
+    cfg = load_company_tickers(config_path)
+    aliases: dict[str, str] = cfg["aliases"]
+    china_listings: dict[str, Any] = cfg.get("china_listings") or {}
+
+    trimmed = value.strip()
+    if not trimmed:
+        return False
+
+    if _PRIVATE_PREFIX_RE.match(trimmed):
+        return True
+    if is_ticker_symbol(trimmed):
+        return True
+
+    upper = trimmed.upper()
+    if trimmed in china_listings or upper in {k.upper() for k in china_listings}:
+        return True
+
+    if aliases.get(normalize_key(trimmed)):
+        return True
+
+    return is_ticker_symbol(canonical_company_label(trimmed, config_path=config_path))
+
+
+def validate_keyword_company_tags(
+    data: dict[str, Any], *, config_path: Path | None = None
+) -> list[tuple[str, str]]:
+    """Warn when keywords are search themes — valid for search, not company filter chips."""
+    warnings: list[tuple[str, str]] = []
+    for i, kw in enumerate(data.get("keywords") or []):
+        original = str(kw).strip()
+        if not original or is_company_keyword(original, config_path=config_path):
+            continue
+        warnings.append(
+            (
+                "keywords",
+                f'Keyword {i + 1} “{original}” is a search theme, not a company tag '
+                f"(use US tickers or Private:Name for companies)",
+            )
+        )
+    return warnings
+
+
 def validate_keyword_tickers(
     data: dict[str, Any], *, config_path: Path | None = None
 ) -> list[tuple[str, str]]:

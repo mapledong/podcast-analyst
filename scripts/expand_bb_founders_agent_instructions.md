@@ -40,11 +40,12 @@
 6. `chronology` — 5–10 events
 7. `conclusion` — 40–100 words
 8. `background` — max 220 words
-9. `keywords` — 3–4 items; public companies as US tickers (NVDA, COST, LVMUY), not names
+9. `keywords` — 3–4 items: **company tags** (US tickers, `Private:Name`, china_listings codes) plus optional **search themes** (e.g. Capital Allocation, Vertical Integration). Themes are for on-page search only — they must not be treated as company names; the site Companies filter shows tickers and `Private:` names only.
 
 ## Keywords / tickers
 - `keywords` and investment `ticker` fields must use standard US ticker symbols for public companies
 - Use company names only for private entities (`Private:Name`), people, or industry themes
+- **Themes vs companies:** tickers and `Private:Name` are company tags; multi-word themes (Vertical Integration, Capital Allocation) are allowed for search but never appear in the site Companies filter
 - Foreign listings: prefer US ADR (e.g. LVMUY not MC.PA; RACE for Ferrari)
 
 ## Rating

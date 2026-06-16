@@ -53,7 +53,7 @@ Structure:
 - golden_quotes: 3 quotes — must be verbatim or near-verbatim from transcript
   - Store bare text only (no surrounding quote marks in JSON); rendering adds one pair
   - Each quote must be a complete thought, not a mid-sentence transcript fragment
-- keywords: 3–4 topics — industries, companies, or themes; embedded in summary for search only
+- keywords: 3–4 topics — US tickers or Private:Name for companies, plus optional search themes (e.g. Capital Allocation); themes are for on-page search only and must not be bare company names in the site Companies filter
   - Public companies: use standard US ticker symbols (NVDA, GOOGL, LVMUY, BRK.B) — not company names
   - Private companies: Private:Name; people and themes use plain names (not tickers)
   - Do not duplicate the same company as both name and ticker

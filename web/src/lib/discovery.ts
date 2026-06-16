@@ -1,5 +1,5 @@
 import type { Episode } from "../types";
-import { canonicalCompanyKey, canonicalCompanyLabel, companyFilterMatches } from "./tickers";
+import { canonicalCompanyKey, canonicalCompanyLabel, companyFilterMatches, isCompanyKeyword } from "./tickers";
 
 const BLOCKED_COMPANY_KEYS = new Set(["private", "n/a", "na", "tbd", "unknown", "various"]);
 
@@ -39,13 +39,17 @@ export function extractEpisodeCompanies(ep: Episode): string[] {
     companies.push(label);
   };
 
-  for (const keyword of ep.keywords) add(keyword);
-  if (ep.guest) add(ep.guest);
+  const addIfCompany = (value: string) => {
+    if (isCompanyKeyword(value)) add(value);
+  };
+
+  for (const keyword of ep.keywords) addIfCompany(keyword);
+  if (ep.guest) addIfCompany(ep.guest);
   for (const idea of ep.investmentIdeas) {
     for (const name of extractFromTicker(idea.ticker)) add(name);
   }
   if (ep.chronologySubject) {
-    for (const part of ep.chronologySubject.split("·")) add(part);
+    for (const part of ep.chronologySubject.split("·")) addIfCompany(part);
   }
 
   return companies;

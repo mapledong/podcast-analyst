@@ -28,6 +28,22 @@ function resolveTickerAlias(ticker: string): string {
   return upper;
 }
 
+export function isCompanyKeyword(value: string): boolean {
+  const trimmed = value.trim();
+  if (!trimmed) return false;
+
+  if (/^private:/i.test(trimmed)) return true;
+  if (isTickerSymbol(trimmed)) return true;
+
+  const upper = trimmed.toUpperCase();
+  if (CHINA_LISTINGS[trimmed] ?? CHINA_LISTINGS[upper]) return true;
+
+  const key = normalizeKey(trimmed);
+  if (COMPANY_ALIASES[key]) return true;
+
+  return isTickerSymbol(canonicalCompanyLabel(trimmed));
+}
+
 export function canonicalCompanyLabel(value: string): string {
   const trimmed = value.trim();
   if (!trimmed) return trimmed;

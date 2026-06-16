@@ -11,7 +11,12 @@ from typing import Any
 
 import yaml
 
-from src.company_tickers import validate_adr_canonical_tickers, validate_china_listing_tickers, validate_keyword_tickers
+from src.company_tickers import (
+    validate_adr_canonical_tickers,
+    validate_china_listing_tickers,
+    validate_keyword_company_tags,
+    validate_keyword_tickers,
+)
 from src.duration import duration_tier, tier_limit
 
 
@@ -351,6 +356,9 @@ def validate_summary(data: dict[str, Any], template: dict[str, Any]) -> Validati
                 report.add("keywords", f"Keyword {i + 1} is empty")
 
     for _section, message in validate_keyword_tickers(data):
+        report.add("keywords", message, "warning")
+
+    for _section, message in validate_keyword_company_tags(data):
         report.add("keywords", message, "warning")
 
     for section, message in validate_adr_canonical_tickers(data):
