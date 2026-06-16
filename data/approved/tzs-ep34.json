@@ -1,0 +1,94 @@
+{
+  "episode_id": "tzs-ep34",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 34,
+    "title": "Li Auto: Can Li Xiang Win the Second Critical War? Investment Value & Risks",
+    "guest": "David",
+    "guest_role": "Practical Investments Host",
+    "date": "2024-04-14",
+    "duration_minutes": 129,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "LI",
+    "EV",
+    "Intelligent Driving",
+    "Valuation"
+  ],
+  "conclusion": "David's 2024 Li Auto deep dive asks whether Li Xiang can win the second war — BEV platform shift plus intelligent-driving differentiation — and prices LI investment value versus risks. Family SUV niche and execution history support Watch; margin compression and AD catch-up costs threaten Long. Investors should track delivery cadence, software revenue mix, and BEV model success as proof of second-act thesis.",
+  "background": "Practical Investments ep.34 (Apr 14, 2024) in the Global 50 series dissects Li Auto: Li Xiang's product focus (奶爸 family SUV), hybrid-to-BEV transition, and autonomous-driving bet. David weighs strengths — capital discipline, hit products L-series, brand in premium family segment — against risks: intensifying EV price war, Tesla/BYD tech lead, and need to monetize AD. Valuation frame compares LI PE and delivery growth to XPEV and BYD; second war is proving BEV platforms and AD are not one-hit wonder.",
+  "important_facts": [
+    "Second war defined: First war was surviving and scaling extended-range SUVs; second is BEV-native models plus AD software differentiation. Li Auto (LI) Watch on MEGA/BEV reception and whether Li Xiang retains product hit rate as market commoditizes.",
+    "Execution premium: Li Xiang's focus and capital allocation historically beat Chinese EV peers — David credits clear customer definition (family) versus sprawling lineups. Risk is AD spend without FSD-like monetization timeline.",
+    "Valuation tension: LI traded growth premium when deliveries surged — investors need gross margin stability through price war and rising software attach. Underweight if BEV pivot dilutes brand or AD lags Tesla benchmark Lang Xianpeng cites."
+  ],
+  "mental_model": {
+    "name": "Product Hit Rate × BEV Transition × AD Monetization",
+    "components": "Li Auto won first war on focused SKUs; second war needs BEV plus software. Founder execution is moat until platform commoditizes. AD is cost center until miles monetize.",
+    "application": "Li Auto (LI): Watch BEV model orders and software revenue mix — Long requires second-hit product and margin hold. Trim if price war forces sustained ASP collapse without AD offset."
+  },
+  "key_insights": [
+    {
+      "view": "Second war is BEV plus AD, not more hybrids.",
+      "question": "What is Li Auto's critical next phase?",
+      "answer": "David frames 2024+ as proving pure electric platforms and intelligent driving — hybrid success does not guarantee BEV copy. LI thesis lives on whether Li Xiang repeats product clarity in new powertrain era."
+    },
+    {
+      "view": "Li Xiang execution is the core moat.",
+      "question": "Why did LI outperform many EV peers historically?",
+      "answer": "Focused 奶爸 segment and disciplined SKUs — David contrasts with sprawling OEM lineups. Execution premium fades if BEV models miss or AD spend lacks revenue path."
+    },
+    {
+      "view": "Valuation needs margin plus AD proof.",
+      "question": "How should investors price LI in price war?",
+      "answer": "Delivery growth alone insufficient — gross margin stability and AD differentiation versus Tesla/BYD set fair multiple. Watch is default until BEV second act and software mix confirm."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "LI",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Li Auto (LI): David Global 50 deep dive — Watch BEV second war, delivery cadence, and AD monetization versus price-war margin risk"
+    }
+  ],
+  "golden_quotes": [
+    "理想第一场战争是活下来并做成奶爸SUV，第二场是纯电平台和智能驾驶。",
+    "李想的执行力是理想最核心的护城河，但电动车价格战正在考验这门护城河。",
+    "估值不能只看交付增速，要看毛利率和软件收入能不能跟上。"
+  ],
+  "chronology": {
+    "subject": "David · Li Auto Global 50",
+    "events": [
+      {
+        "date": "2021–2023",
+        "event": "L-series scale; LI delivery surge"
+      },
+      {
+        "date": "2024",
+        "event": "MEGA launch; BEV platform pivot debate"
+      },
+      {
+        "date": "2024",
+        "event": "China EV price war intensifies"
+      },
+      {
+        "date": "2024-04-14",
+        "event": "Episode 34 Li Auto deep dive recorded"
+      },
+      {
+        "date": "2025+",
+        "event": "AD stack and BEV models prove second war"
+      }
+    ]
+  }
+}

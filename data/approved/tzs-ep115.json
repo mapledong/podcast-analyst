@@ -1,0 +1,95 @@
+{
+  "episode_id": "tzs-ep115",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 115,
+    "title": "Pinduoduo: Competitive Edge, Earnings, Review, and Market — Apr 28, 2025",
+    "guest": "Yongqing",
+    "guest_role": "Practical Investments Guest, Curated 50 Strategy",
+    "date": "2025-04-30",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=4TMveqX62rA",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94",
+      "youtube": "https://www.youtube.com/watch?v=4TMveqX62rA"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "PDD",
+    "Temu",
+    "E-commerce",
+    "Earnings"
+  ],
+  "conclusion": "Yongqing's Apr 28, 2025 PDD deep dive frames Pinduoduo as supply-chain efficiency plus merchant ecosystem — not discount gimmick. Temu overseas adds growth but legal and logistics costs rise; investors should Watch PDD on take-rate stability, GMV per user, and Temu unit economics after earnings volatility. Curated 50 discipline: buy mispriced quality, not narrative peaks.",
+  "background": "Practical Investments ep.115 reviews PDD competitive edge, earnings, and market sentiment (Apr 30, 2025 publish). Yongqing's framework: PDD wins via C2M reverse routing, gamified engagement, and subsidy discipline that competitors copy slowly. Temu expands overseas GMV but faces tariff, compliance, and fulfillment cost headwinds — margin mix matters more than headline growth. Episode replays investment checklist: moat durability, management capital allocation, and valuation versus Alibaba/JD.",
+  "important_facts": [
+    "Competitive edge: PDD's merchant onboarding and recommendation algorithms lower SKU cost — supply-chain depth beats pure price war. PDD Watch on whether take rate and ad revenue offset subsidy spend as growth normalizes post-hypergrowth.",
+    "Temu calculus: Overseas expansion buys GMV but logistics and regulatory costs compress margin — Yongqing stresses unit economics per market, not blended GMV charts. PDD thesis breaks if Temu burns cash without path to contribution profit.",
+    "Earnings read: Post-earnings volatility often misprices durable GMV per user — Curated 50 approach adds on weakness when moat intact. Compare PDD active buyer growth and wallet share versus China consumption macro."
+  ],
+  "mental_model": {
+    "name": "C2M Efficiency × Temu Optionality × Earnings Mispricing",
+    "components": "PDD moat is supply chain plus engagement flywheel, not coupons alone. Temu is call option with rising strike (compliance cost). Buy quality on earnings fear if unit economics hold.",
+    "application": "Pinduoduo (PDD): Watch domestic take rate and Temu contribution margin — Long only when mispriced versus GMV per user trend. Trim if subsidy war erodes merchant ROI sustainably."
+  },
+  "key_insights": [
+    {
+      "view": "Moat is supply chain, not discount label.",
+      "question": "What is PDD's real competitive edge?",
+      "answer": "Yongqing argues C2M routing and algorithmic merchant matching lower landed cost — competitors can copy UI but not ecosystem depth overnight. Investment frame tracks merchant retention and fulfillment efficiency, not GMV headlines alone."
+    },
+    {
+      "view": "Temu is growth with rising friction.",
+      "question": "How should investors weight Temu?",
+      "answer": "Overseas GMV impresses but tariffs and local compliance raise strike price on profitability — PDD Watch requires per-market unit economics, not blended growth slides. Failure mode is buying narrative at peak Temu optimism."
+    },
+    {
+      "view": "Earnings dips can be entry if moat holds.",
+      "question": "What is Curated 50 discipline here?",
+      "answer": "Yongqing reviews PDD after volatility — if active buyers and wallet share rise while market panics on margin, mispricing emerges. Abacus over sentiment; avoid catching falling knives if subsidy war structurally hurts take rate."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "PDD",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Pinduoduo (PDD): Yongqing competitive-edge and earnings framework — Watch take rate and Temu unit economics post-volatility"
+    }
+  ],
+  "golden_quotes": [
+    "拼多多的护城河在供应链效率，不在打折标签。",
+    "Temu是增长期权，但关税和合规成本正在抬高盈利门槛。",
+    "财报波动是试金石，关键看活跃买家和人均GMV是不是还在涨。"
+  ],
+  "chronology": {
+    "subject": "Yongqing · PDD Deep Dive",
+    "events": [
+      {
+        "date": "2015–2018",
+        "event": "PDD rise via social commerce and C2M"
+      },
+      {
+        "date": "2022–2023",
+        "event": "Temu overseas launch"
+      },
+      {
+        "date": "2024–2025",
+        "event": "Tariff and compliance headwinds on Temu"
+      },
+      {
+        "date": "2025-04-28",
+        "event": "PDD earnings and competitive review session"
+      },
+      {
+        "date": "2025-04-30",
+        "event": "Episode 115 published"
+      }
+    ]
+  }
+}

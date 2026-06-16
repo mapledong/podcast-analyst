@@ -1,0 +1,118 @@
+# EP.122 — Zhu Xiaohu
+
+## *GSR Ventures Managing Partner*
+
+**★★★☆☆** · 3/5
+
+**Podcast** Zhang Xiaojun Podcast · **Date** Dec 9, 2025 · **Duration** 48 min · **Read** ≈3 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Zhu Xiaohu · GSR Ventures Managing Partner
+
+**Listen** [YouTube](https://www.youtube.com/watch?v=wK0-m3rKgZ0) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** META · GOOGL · AI · BUBBLE
+> ### Conclusion
+>
+> Zhu Xiaohu's third 'China realism' installment warns the AI feast is narrowing — model capex and application revenue are misaligned, and many 'AI companies' are wrappers on hyperscaler APIs. He favors cash-generating application layers and treats META and GOOGL as distribution plus compute landlords to Watch, not every Series A agent deck. Investors should size positions on ARR quality and inference gross margin, not feast narratives alone.
+
+---
+
+## Background
+
+> GSR Ventures' Zhu Xiaohu returns to Zhang Xiaojun on Dec 9, 2025 for episode three of his realism series — AI feast versus bubble. Zhu's frame: foundation-model billions burn faster than consumer apps monetize; the party continues for infra landlords and a few killer apps, while me-too agents die when token subsidies end. He repeats GSR discipline — invest where users pay, not where demos viral. Hyperscalers META and GOOGL aggregate traffic, ads, and cloud GPU rent; startups must prove retention without free inference. Zhu is skeptical of China copycat model races without distribution moats — application winners look more like 2010 mobile games than 2023 chatbots.
+
+---
+
+## Key Facts
+
+> **F1** Feast vs bubble split: Zhu Xiaohu says AI capital concentrates in model training and chips while most application startups lack pricing power — a feast for infra, bubble for undifferentiated wrappers. Third realism installment stresses timing: investing at peak narrative without unit economics mirrors 2015 O2O and 2021 metaverse burns.
+
+> **F2** Landlord thesis: META and GOOGL own attention, ad targeting, and cloud inference — even losing model races they tax the feast via ads and GPU rent. Zhu Watchs hyperscalers on whether AI engagement lifts ARPU without capex eating returns; application bets need CAC payback under rising token costs.
+
+> **F3** Application selection: Zhu favors vertical apps with workflow lock-in — sales, design, support — over horizontal chat. GSR passes on teams that cannot articulate who pays when free tiers vanish. China realism means assuming policy and price competition, not Silicon Valley margin dreams.
+
+
+---
+
+## Mental Model · *Feast Landlords × Application ARR Quality × Realism Filter*
+
+> **Components**
+>
+> Model capex is feast for infra; apps without margin are bubble. Hyperscalers tax both sides — Watch distribution plus cloud. Invest on paid retention and inference margin, not demo MAU.
+>
+> **Application**
+>
+> Meta (META) and Alphabet (GOOGL): Watch AI engagement monetization versus capex spiral — landlords win if ads and cloud ARPU rise. Underweight agent startups without gross margin path when Zhu-style realism prices subsidy death.
+
+---
+
+
+## Key Insights
+
+> **1.** The feast is infra; the bubble is me-too apps.
+>
+> **Q** How does Zhu split AI winners and losers?
+>
+> **A** Billions flow to GPUs and foundation models — feast for suppliers and hyperscalers. Application layer floods with wrappers that die when inference is priced in. Zhu invests where users open wallets, not where WeChat articles cheer — realism installment three is explicit about misaligned capex and revenue.
+
+> **2.** Hyperscalers are landlords of the feast.
+>
+> **Q** Why META and GOOGL Watch not every AI startup?
+>
+> **A** META owns social attention and ad targeting; GOOGL owns search and cloud GPUs — they earn whether or not a given agent startup wins. Zhu tells GSR to avoid betting against landlords while also avoiding landlord valuations on pre-revenue agents.
+
+> **3.** China timing differs from US hype cycles.
+>
+> **Q** What is Zhu's third realism lesson?
+>
+> **A** Copycat model races without distribution are traps — winners need payment and retention in China's price-sensitive market. Feast narratives ignore inference cost curves; bubble bursts when subsidies end. Size ARR quality, not founder Twitter fame.
+
+---
+
+## Investment Ideas
+
+> **1. META** · 🟡 WATCH · ●●○ Medium
+>
+> Meta (META): Zhu Xiaohu AI feast landlord — Watch ad ARPU and AI engagement lift versus Reality Labs drag
+
+> **2. GOOGL** · 🟡 WATCH · ●●○ Medium
+>
+> Alphabet (GOOGL): Zhu realism frame — Watch cloud GPU rent and Search AI monetization as application bubble deflates
+
+---
+
+## Golden Quotes
+
+> "人工智能的盛筵在基础设施，泡沫在没有定价权的应用层。"
+
+> "模型烧钱的派对继续，但大多数AI公司只是API套壳。"
+
+> "投资要看谁愿意付钱，不是谁演示更炫。"
+
+---
+
+## Chronology
+
+> *Zhu Xiaohu · AI Realism III*
+>
+> **2024** Zhu realism installments one and two on Zhang podcast
+>
+> **2025 H1** China model race accelerates; app wrappers flood
+>
+> **2025** Hyperscaler capex and GPU scarcity peak narrative
+>
+> **2025-12-09** Third realism episode — AI feast and bubble
+>
+> **2026+** Inference pricing tests application unit economics
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Podcast, Zhang Xiaojun, or Zhu Xiaohu. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=wK0-m3rKgZ0) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

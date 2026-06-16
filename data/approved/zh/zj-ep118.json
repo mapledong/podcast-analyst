@@ -1,0 +1,99 @@
+{
+  "episode_id": "zj-ep118",
+  "podcast": "张小珺商业访谈录",
+  "host": "张小珺",
+  "metadata": {
+    "episode_number": 118,
+    "title": "对李想的第二次3小时访谈：CEO大模型、MoE、梁文锋、VLA、能量、记忆、对抗人性、亲密关系、人类的智慧",
+    "guest": "李想",
+    "guest_role": "理想汽车创始人兼CEO",
+    "date": "2025-10-30",
+    "duration_minutes": 166,
+    "youtube_url": "https://www.youtube.com/watch?v=RxXVq7-sJzM",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962",
+      "youtube": "https://www.youtube.com/watch?v=RxXVq7-sJzM"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "LI",
+    "CEO大模型",
+    "MoE",
+    "VLA"
+  ],
+  "conclusion": "李想将自身框为 CEO 大模型 MoE——技术、产品、组织专家——押注五年内出现 Agent OS 而非通用 Agent。AI 须从信息工具、辅助工具升级为愿付费的生产工具；理想在拥抱 DeepSeek 后自研领域 VLA，端侧 3.2B 八专家 MoE。投资者应观望理想（LI）VLA 车队落地与 Agent OS 变现，勿将聊天 Copilot 当作自动驾驶验证。",
+  "background": "张小珺与李想第二次三小时 AI Talk（2025 年 10 月完整版）将 CEO 视作 MoE——向技术、产品、组织专家路由。李想称人类是更小的模型、擅长减熵；AI 擅长大规模信息但今日聊天产品仍是信息工具，工作时长未减。生产工具需行动、付费意愿与领域数据——Cursor 与 Deep Research 是早期样例。DeepSeek 后理想重组：办公 Lang 加 Agent OS、车机手机端端 VL、驾驶与工厂 VLA。VLA 训练分预训练（V/L/VL 联合）、后训练模仿（驾校类比）、RL 与世界模型数据——3.2B MoE 蒸馏上 Orin-X 与 Thor-U。规模居中；仅当用户需求与技术交汇时才调组织。",
+  "important_facts": [
+    "CEO 即 MoE：李想称张小珺调用技术、产品、组织三位专家，镜像混合专家。DeepSeek V3 的 671B MoE 验证研究优先流水线：研究→研发→能力表达→业务价值。理想用于端端、VLM、VLA——海外自动驾驶论文引用理想驾驶研究。",
+    "Agent OS 对通用 Agent：李想否定五年内通用 Agent；Agent OS 如 Mac 之后的 iOS 编排工具。三条模型线：Lang 加 Agent OS 对内生产力；端端 VL 做车机手机多模态；VLA 做自动驾驶与机器人。DeepSeek 后一月决策加速 VLA 相对原路线图；CTO 汇报调整使基础模型团队服务不同业务，如通义/OpenAI 分拆。",
+    "VLA 栈可投资：预训练建 3.2B 八专家 MoE（云端保留全模型）；后训练以模仿学习加 Action（约 4B）；RLHF 加纯 RL 用世界模型数据瞄准舒适、避碰与交规。短 CoT 两三步控延迟。理想（LI）观望——VLA 交付速度与车队里程证领域数据护城河；失败模式是把开源 Lang 当足够覆盖 3D 车况语义。"
+  ],
+  "mental_model": {
+    "name": "CEO MoE × 工具分层 × 领域 VLA",
+    "components": "MoE 路由专长——CEO 勿单线程决策。AI 产品分层：信息（参考）、辅助（体验）、生产（付费行动）。Agent OS 先于通用 Agent；VLA 需开源模型没有的车域交通语义。",
+    "application": "理想（LI）：观望 VLA 部署节奏与付费 Agent OS 信号——生产工具试金石是付费意愿非 demo 里程。对比特斯拉 FSD 数据规模；若 3.2B MoE 上车且 attention 交互透明则超配。若组织追逐通用 LLM 而无用户需求触发则低配。"
+  },
+  "key_insights": [
+    {
+      "view": "无通用 Agent——五年内 Agent OS。",
+      "question": "李想为何否定通用 Agent 时间表？",
+      "answer": "苹果先有 Mac 与生态再有 iPhone——李想见 Agent OS 为调用工具的编排层非一模型包打天下。Manus 经浏览 SEC 与投行报告迈向生产工具，但无领域数据的广度会失败。车需带 3D/高清 V token 与交通语义的 VLA——OpenAI 与 DeepSeek 不训此类数据。"
+    },
+    {
+      "view": "生产工具需行动与付费。",
+      "question": "为何 AI 变好工作时长仍升？",
+      "answer": "聊天 AI 须输出 next token——索引网页错误时常增熵。辅助 ADAS 与语音导航有帮助但不替代 KPI 工作。生产工具代你行动；同事自付 Cursor 与 Deep Research——李想试金石。无行动则 O3 级推理仍停策略幻灯片非产出。"
+    },
+    {
+      "view": "DeepSeek 加速理想模型赌注。",
+      "question": "DeepSeek 后何变？",
+      "answer": "一月决策基于开源权重如 Linux 对 Android——对内 Lang 加 Agent OS，驾驶专有 VLA。DeepSeek V3 研究优先 MoE 纪律；陈伟比李想预期更坚决推 VLA 与多模态加速。重组对齐三条模型流与三项业务——基础模型是基础设施非单一聊天机器人。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "LI",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "理想（LI）：李想 CEO-MoE、Agent OS 与领域 VLA 3.2B MoE 栈——观望车队 VLA 落地与生产工具变现作自动驾驶验证"
+    }
+  ],
+  "golden_quotes": [
+    "我觉得我们的能力和给予公企带来的价值还没有表现出来",
+    "但是你明显都看到这个过程和结果已经开始有问题了",
+    "我们是端道端上唯一给你展示的端道端是怎么工作的"
+  ],
+  "chronology": {
+    "subject": "李想 · 理想 AI Talk 第二季",
+    "events": [
+      {
+        "date": "2024-04",
+        "event": "第一季 AI Talk；理想 AI 战略公开"
+      },
+      {
+        "date": "2025-01",
+        "event": "DeepSeek 后决策自建 Lang+Agent OS 与领域 VLA"
+      },
+      {
+        "date": "2025",
+        "event": "CTO 汇报调整；VLA 较原计划加速"
+      },
+      {
+        "date": "2025",
+        "event": "3.2B 八专家 MoE VLA 管线：预训练、模仿、强化"
+      },
+      {
+        "date": "2025-10-30",
+        "event": "第二次三小时 AI Talk 录制（完整版稍后发布）"
+      },
+      {
+        "date": "2026+",
+        "event": "Agent OS 与 VLA 车队部署目标"
+      }
+    ]
+  }
+}

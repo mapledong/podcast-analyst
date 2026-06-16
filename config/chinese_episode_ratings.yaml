@@ -1,6 +1,6 @@
 # Curated star ratings for Chinese podcasts (config/template.yaml rating_distribution).
 # Per podcast: 5★ ≤ floor(n×20%), 4★ ≤ floor(n×30%), default 3★.
-# n=15 per podcast after batch 4 (caps: 3×5★, 4×4★).
+# n=20 per podcast after batch 5 (caps: 4×5★, 6×4★).
 
 zhang-xiaojun:
   podcast: Zhang Xiaojun Podcast
@@ -14,6 +14,7 @@ zhang-xiaojun:
     - zj-ep145  # SpaceX oral history with former executive
     - zj-ep141  # Freda LP — token economics & org design
   # batch4 zj-ep121/120/109/104 default 3★
+  # batch5 zj-ep118/108/96/122/125 default 3★
 
 touzi-shizhanpai:
   podcast: Practical Investments
@@ -27,3 +28,4 @@ touzi-shizhanpai:
     - tzs-ep180  # Pop Mart deep dive with Jeff
     - tzs-ep186  # Value vs momentum — clear investor discipline
   # batch4 tzs-ep176/167/158/126 default 3★
+  # batch5 tzs-ep156/146/115/109/34 default 3★

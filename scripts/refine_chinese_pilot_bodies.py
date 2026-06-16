@@ -6,6 +6,7 @@ from typing import Any
 
 from refine_batch3_episodes_bodies import BATCH3_EPISODES
 from refine_batch4_episodes_bodies import BATCH4_EPISODES
+from refine_batch5_episodes_bodies import BATCH5_EPISODES
 from refine_new_episodes_bodies import NEW_EPISODES
 
 _REFINED_BASE: dict[str, dict[str, dict[str, Any]]] = {
@@ -719,4 +720,4 @@ _REFINED_BASE: dict[str, dict[str, dict[str, Any]]] = {
     },
 }
 
-REFINED = {**_REFINED_BASE, **NEW_EPISODES, **BATCH3_EPISODES, **BATCH4_EPISODES}
+REFINED = {**_REFINED_BASE, **NEW_EPISODES, **BATCH3_EPISODES, **BATCH4_EPISODES, **BATCH5_EPISODES}

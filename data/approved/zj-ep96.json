@@ -1,0 +1,95 @@
+{
+  "episode_id": "zj-ep96",
+  "podcast": "Zhang Xiaojun Podcast",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 96,
+    "title": "Lang Xianpeng on a Decade of Autonomous Driving, Key Technical Details, and Tesla",
+    "guest": "Lang Xianpeng",
+    "guest_role": "Li Auto Intelligent Driving Head",
+    "date": "2025-03-16",
+    "duration_minutes": 120,
+    "youtube_url": "https://www.youtube.com/watch?v=qtugoE1xQZk",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962",
+      "youtube": "https://www.youtube.com/watch?v=qtugoE1xQZk"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "TSLA",
+    "Autonomous Driving",
+    "End-to-End",
+    "Vision-Only"
+  ],
+  "conclusion": "Lang Xianpeng's decade retrospective says Tesla called pure vision and no HD maps earliest and most correctly — the industry wasted years on lidar-plus-rail metaphors. End-to-end and generative fusion replaced post-process stitching; Tesla builds silicon when NVIDIA tops out. Investors should Watch Tesla (TSLA) on FSD miles and chip cadence as the benchmark Li Auto and Chinese OEMs chase, not legacy lidar map stacks.",
+  "background": "Li Auto VP Lang Xianpeng (recorded Dec 2024) traces Chinese AD from 2014–15 Baidu lidar-and-HD-map 'virtual rail' era through BEV (2018) to today's end-to-end wave. HD maps fail on 9.7M km of ordinary roads that change daily; Tesla's vision-only stance was mocked then vindicated. Lang cites Tesla's end-to-end philosophy — fuse all camera features on a unified canvas before back-projecting objects for consistency, versus stitching per-camera detections. Custom FSD chips followed when 30 TOPS could not run video networks; now hundreds of TOPS. The talk is technical primer: rules → perception stacks → BEV → end-to-end → world models ahead.",
+  "important_facts": [
+    "2014 rail metaphor dead: Early AV imagined virtual tracks plus 360° lidar like metro — workable only on highways (300k km), not China's 9.7M km ordinary roads with daily construction. HD-map refresh economics killed the path; Tesla's 2018 vision-only declaration was right and early, though many incumbents could not pivot sunk lidar spend.",
+    "Tesla end-to-end lesson: When post-fusion stitching hallucinates, go generative — extract on stitched bird's-eye canvas, then back-project consistent objects to each camera. Lang praises Tesla solving by end-to-end method, not patchwork denoising like today's LLM hallucination fixes. Algorithm plus custom silicon co-design: 2016 chip program when NVIDIA generation insufficient for video nets.",
+    "Benchmark frame: Tesla (TSLA) Watch — FSD miles, Dojo/world-model iteration, and TOPS roadmap set the pace Chinese teams benchmark. Li Auto end-to-end transparency (attention and trajectory UI) competes on explainability; win mode is fleet data at Tesla scale with local regulation compliance."
+  ],
+  "mental_model": {
+    "name": "Vision-Only × End-to-End Fusion × Silicon Co-Design",
+    "components": "HD maps do not scale to dynamic road networks. Unified BEV fusion beats per-camera stitch — consistency is the object, not the patch. When GPUs fail, vertically integrate silicon — autonomy is compute-bound.",
+    "application": "Tesla (TSLA): Watch FSD revenue recognition and miles-per-intervention trends — sets valuation ceiling for global AD optionality. Chinese OEM AD bets are derivative; underweight suppliers still selling lidar-map crutches as primary stack."
+  },
+  "key_insights": [
+    {
+      "view": "Tesla saw vision-only first.",
+      "question": "Why does Lang elevate Tesla's 2018 call?",
+      "answer": "Industry brains were wired to lidar rails — Tesla said no HD maps, no lidar, pure vision when it sounded foolish. Lang splits peers into non-believers, believers who could not pivot, and deniers. First correct and early beats incremental fixes on a dead architecture."
+    },
+    {
+      "view": "End-to-end beats post-fusion patches.",
+      "question": "What is Tesla's BEV insight?",
+      "answer": "Stitch camera features on one canvas, detect holistically, back-project — objects stay consistent versus merging partial per-camera boxes. Lang analogizes to preferring generative fixes over hallucination whack-a-mole in LLMs. Architecture choice matters more than transformer trivia."
+    },
+    {
+      "view": "Silicon follows algorithm hunger.",
+      "question": "Why did Tesla build FSD chips?",
+      "answer": "Video networks exceeded 30 TOPS NVIDIA parts — Tesla vertically integrated to 72+ TOPS generations. Lang's decade narrative ties compute waves (2013 DL resurgence) to sensor law: when cameras and algorithms improve, lidar crutches lose ROI."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "TSLA",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Tesla (TSLA): Lang Xianpeng decade AD history — pure vision and end-to-end fusion benchmark; Watch FSD miles and custom silicon cadence"
+    }
+  ],
+  "golden_quotes": [
+    "TESLA率先说我们不用高精地图，我们不用激光雷达，我们要用纯视觉。",
+    "第一看得非常对，第二看得非常准非常早。",
+    "特斯拉一直在用端到端的方法来解决问题。"
+  ],
+  "chronology": {
+    "subject": "Lang Xianpeng · AD Decade",
+    "events": [
+      {
+        "date": "2014–2015",
+        "event": "Baidu AD team; lidar + HD-map rail paradigm"
+      },
+      {
+        "date": "2018",
+        "event": "BEV era; Tesla declares vision-only"
+      },
+      {
+        "date": "2016–2019",
+        "event": "Tesla FSD chip program; 72 TOPS generations"
+      },
+      {
+        "date": "2023–2024",
+        "event": "China end-to-end adoption wave"
+      },
+      {
+        "date": "2024-12",
+        "event": "Lang records Zhang Xiaojun AD history episode"
+      }
+    ]
+  }
+}

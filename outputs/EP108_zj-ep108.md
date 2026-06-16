@@ -1,0 +1,116 @@
+# EP.108 — Kai Yu
+
+## *Horizon Robotics Founder & CEO*
+
+**★★★☆☆** · 3/5
+
+**Podcast** Zhang Xiaojun Podcast · **Date** Jul 7, 2025 · **Duration** 177 min · **Read** ≈3 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Kai Yu · Horizon Robotics Founder & CEO
+
+**Listen** [YouTube](https://www.youtube.com/watch?v=853ETjAecz4) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** Horizon Robotics (9660.HK) · HORIZON · AD · FIRST
+> ### Conclusion
+>
+> Kai Yu's 30-year oral history frames Horizon as a 2B scientist-founder who competes where others do not and never dances on the cliff edge. Founded 2015 with NVIDIA and Tesla as personal anchors, Horizon survived cash scares via customer-first focus — 90%+ China ADAS OEMs now cite Horizon. Investors should Watch Horizon Robotics (9660.HK) on shipment scale and auto-chip attach as physical-AI capex rises, not on scientist pedigree alone.
+
+---
+
+## Background
+
+> Zhang Xiaojun records Kai Yu's career arc: Munich PhD, Siemens, NEC deep-learning heartland, Baidu Institute 2B sales mode, then Horizon Robotics at China's 2015 AI wave. Yu blends physics first-principles thinking with social intelligence — skipping lectures for history and aesthetics, knocking on every Baidu product door. Horizon's 2019 strategic refocus answered three startup questions: who is the customer, what pain, what unreplicable solution — in that priority order. Two doctrines emerged: compete where there is no competition, and spend more energy on risk than opportunity. The episode is江湖 (relationships), not刀光剑影 — Chang'an joint dev, deliberate soccer losses, and OEM trust earned over hell-level trials.
+
+---
+
+## Key Facts
+
+> **F1** 30-year path: Yu Kai followed deep learning from Germany to NEC (Yann LeCun's Torch lineage) to Baidu's institute — a 2B model selling ML to search, ads, and community teams. July 2015 Horizon launch: personal bets on NVIDIA, Tesla, and all-in Horizon; 102+ investors later. Scientist-founders often miss customer one — Yu learned via Baidu door-knocking and auto OEM crucibles.
+
+> **F2** Horizon doctrines: (1) Always compete where there is no competition — today Yu claims few direct rivals in China automotive compute; (2) Never dance on the cliff — 2019 org reset was proactive, not cash-out desperation (¥3B+ cash then). Business survival triad: customer identity > pain point > moat — most AI startups fail step one with 360° spray pitches.
+
+> **F3** OEM moat investable: Winning first Chinese auto-grade AD chip supplier meant quality at millions-of-units scale without recalls — Chang'an co-development, on-site sleeping bags, hospital visits. Horizon Robotics (9660.HK) Watch — attach rate on domestic OEM platforms and export design wins; risk is commoditization if giants bundle silicon with cloud stacks.
+
+
+---
+
+## Mental Model · *2B Empathy × No-Competition Arena × Cliff-Avoidance*
+
+> **Components**
+>
+> Scientists win auto chips via customer empathy, not 2C charisma. Compete in white space; widen moat before copycats arrive. Risk-first strategy beats heroic last-minute pivots. First-principles physics beats analogy herd.
+>
+> **Application**
+>
+> Horizon Robotics (9660.HK): Watch OEM design-win pipeline and millions-unit quality track record — 9660.HK is B2B attach, not consumer hype. Underweight if management chases general AI clouds over auto-grade silicon. Compare NVDA auto revenue as pricing ceiling.
+
+---
+
+
+## Key Insights
+
+> **1.** 江湖 is relationships, not combat.
+>
+> **Q** Why does Yu stress social intelligence?
+>
+> **A** 2B auto chips require empathy — understanding Chang'an pain, joint field camps, even losing soccer to clients gracefully. Academic stars who cannot knock on product doors fail commercialization. Yu's skipped classes for humanities fed first-principles business reading — contrarian but closer to truth than analogy.
+
+> **2.** Compete where nobody else competes.
+>
+> **Q** What is Horizon's strategic line one?
+>
+> **A** Chinese automotive AD compute had no domestic supplier — Yu occupied the gap and deepened before global giants localized. Doctrine two: never wait until the cliff — 2019 refocus was intentional while cash was healthy. Investors should map revenue to OEM SOP wins, not slide decks.
+
+> **3.** Customer one, pain two, moat three.
+>
+> **Q** How should scientist-founders prioritize?
+>
+> **A** Most AI startups pitch technology without naming a buyer — Yu ranks customer clarity above pain and defensibility. Li Xiang answered customer (奶爸) crisply; Horizon answered OEM compute. 9660.HK thesis lives or dies on whether 90% OEM citation converts to sustained ASP and margin.
+
+---
+
+## Investment Ideas
+
+> **1. Horizon Robotics (9660.HK)** · 🟡 WATCH · ●●○ Medium
+>
+> Horizon Robotics (9660.HK): Kai Yu 30-year 2B journey — Watch China OEM AD chip attach and quality-at-scale proof as physical-AI capex rises
+
+---
+
+## Golden Quotes
+
+> "江湖不是打打杀杀，那是人情世故。"
+
+> "永远在没有竞争的地方竞争。"
+
+> "永远不要在悬崖边跳舞。"
+
+---
+
+## Chronology
+
+> *Kai Yu · Horizon Robotics*
+>
+> **2000** Yu Kai to Munich; physics and ML foundation
+>
+> **2006** NEC Labs deep learning; Torch lineage
+>
+> **2012** Returns China; Baidu Institute 2B ML sales
+>
+> **2015-07** Horizon founded; bets on NVIDIA, Tesla, Horizon
+>
+> **2019** Proactive strategic refocus; cliff-avoidance doctrine
+>
+> **2025** Horizon 10-year mark; oral history podcast recorded
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Podcast, Zhang Xiaojun, or Kai Yu. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=853ETjAecz4) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

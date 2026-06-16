@@ -99,6 +99,8 @@ export const CHINA_LISTINGS: Record<string, ChinaListingNames> = {
   "1211.HK": { en: "BYD", zh: "比亚迪" },
   "2171.HK": { en: "CARsgen", zh: "科济药业" },
   "300866.SZ": { en: "Anker Innovations", zh: "安克创新" },
+  "3690.HK": { en: "Meituan", zh: "美团" },
   "600519.SZ": { en: "Kweichow Moutai", zh: "贵州茅台" },
+  "9660.HK": { en: "Horizon Robotics", zh: "地平线" },
   "9992.HK": { en: "Pop Mart", zh: "泡泡玛特" },
 };

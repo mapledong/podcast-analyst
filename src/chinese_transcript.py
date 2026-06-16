@@ -49,6 +49,16 @@ CHINESE_EPISODE_IDS: tuple[str, ...] = (
     "tzs-ep167",
     "tzs-ep158",
     "tzs-ep126",
+    "zj-ep118",
+    "zj-ep108",
+    "zj-ep96",
+    "zj-ep122",
+    "zj-ep125",
+    "tzs-ep156",
+    "tzs-ep146",
+    "tzs-ep115",
+    "tzs-ep109",
+    "tzs-ep34",
 )
 
 CHINESE_PODCAST_NAMES = frozenset(

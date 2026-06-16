@@ -2008,6 +2008,16 @@ episodes:
   duration_minutes: 116
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep156
+  episode_number: 156
+  title: Duan Yongping Bought Moutai — Should We Follow? | David & Meng Ping
+  guest: Meng Ping
+  guest_role: Jinyu Asset Founder
+  date: '2025-11-09'
+  duration_minutes: 96
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-walmart
   episode_number: 155
   title: Walmart
@@ -2107,6 +2117,16 @@ episodes:
   duration_minutes: 113
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep146
+  episode_number: 146
+  title: 'New Consumer Kings F4: Pop Mart, Laopu Gold, Mixue, and Maogeping'
+  guest: David
+  guest_role: Practical Investments Host
+  date: '2025-09-08'
+  duration_minutes: 76
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-sony
   episode_number: 145
   title: SONY
@@ -2435,6 +2455,17 @@ episodes:
   duration_minutes: 178
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep125
+  episode_number: 125
+  title: 'Freda''s Investment Notes #1: Betting on OpenAI, Robinhood History, and
+    US Capital Bad Boys'
+  guest: Freda
+  guest_role: Lightspeed Venture Partners Partner
+  date: '2025-12-16'
+  duration_minutes: 84
+  youtube_url: https://www.youtube.com/watch?v=k82iFzvKFCQ
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-special-amazon-unbound-with-brad-stone
   episode_number: 124
   title: 'Special: Amazon Unbound (with Brad Stone)'
@@ -2462,6 +2493,16 @@ episodes:
   duration_minutes: 80
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep122
+  episode_number: 122
+  title: Zhu Xiaohu on AI Feast and Bubble — Third Installment of China Realism
+  guest: Zhu Xiaohu
+  guest_role: GSR Ventures Managing Partner
+  date: '2025-12-09'
+  duration_minutes: 48
+  youtube_url: https://www.youtube.com/watch?v=wK0-m3rKgZ0
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-berkshire-hathaway-part-i
   episode_number: 121
   title: Berkshire Hathaway Part I
@@ -2520,6 +2561,17 @@ episodes:
   duration_minutes: 143
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep118
+  episode_number: 118
+  title: 'Second 3-Hour Interview with Li Xiang: CEO LLM, MoE, VLA, Energy, Memory,
+    and Human Nature'
+  guest: Li Xiang
+  guest_role: Li Auto Founder & CEO
+  date: '2025-10-30'
+  duration_minutes: 166
+  youtube_url: https://www.youtube.com/watch?v=RxXVq7-sJzM
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-the-new-york-times-company
   episode_number: 117
   title: The New York Times Company
@@ -2547,6 +2599,16 @@ episodes:
   duration_minutes: 194
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep115
+  episode_number: 115
+  title: 'Pinduoduo: Competitive Edge, Earnings, Review, and Market — Apr 28, 2025'
+  guest: Yongqing
+  guest_role: Practical Investments Guest, Curated 50 Strategy
+  date: '2025-04-30'
+  duration_minutes: 45
+  youtube_url: https://www.youtube.com/watch?v=4TMveqX62rA
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-special-acquired-x-indie-hackers
   episode_number: 114
   title: Acquired x Indie Hackers
@@ -2621,6 +2683,17 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=pWY0HVUH8GA
   podcast: Zhang Xiaojun Podcast
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
+- id: tzs-ep109
+  episode_number: 109
+  title: 'Meituan: Business Model, Earnings Read, and Investment View | Curated 50,
+    Apr 2, 2025'
+  guest: David
+  guest_role: Practical Investments Host
+  date: '2025-04-02'
+  duration_minutes: 35
+  youtube_url: https://www.youtube.com/watch?v=IUuUJZlPNxY
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-special-superhuman-part-ii-designing-software-to-feel-like-a-game-with-rahul-vohra
   episode_number: 108
   title: Superhuman Part II - Designing Software to Feel like a Game
@@ -2630,6 +2703,16 @@ episodes:
   duration_minutes: 56
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep108
+  episode_number: 108
+  title: 'Kai Yu''s 30-Year Oral History: Horizon Robotics and China''s AD Chip Journey'
+  guest: Kai Yu
+  guest_role: Horizon Robotics Founder & CEO
+  date: '2025-07-07'
+  duration_minutes: 177
+  youtube_url: https://www.youtube.com/watch?v=853ETjAecz4
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-twitter-with-dick-costolo
   episode_number: 107
   title: Twitter (with Dick Costolo)
@@ -2767,6 +2850,17 @@ episodes:
   duration_minutes: 98
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep96
+  episode_number: 96
+  title: Lang Xianpeng on a Decade of Autonomous Driving, Key Technical Details, and
+    Tesla
+  guest: Lang Xianpeng
+  guest_role: Li Auto Intelligent Driving Head
+  date: '2025-03-16'
+  duration_minutes: 120
+  youtube_url: https://www.youtube.com/watch?v=qtugoE1xQZk
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-sequoias-black-swan-memo
   episode_number: 95
   title: 'Adapting Episode 2: Sequoia''s Black Swan Memo'
@@ -3407,6 +3501,16 @@ episodes:
   duration_minutes: 120
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep34
+  episode_number: 34
+  title: 'Li Auto: Can Li Xiang Win the Second Critical War? Investment Value & Risks'
+  guest: David
+  guest_role: Practical Investments Host
+  date: '2024-04-14'
+  duration_minutes: 129
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-special-2016-review-and-2017-predictions
   episode_number: 33
   title: Special—2016 Review and 2017 Predictions

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T15:50:53.370Z",
+  "generatedAt": "2026-06-16T17:52:24.015Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -49,7 +49,7 @@
       "accent_color": "#8B2942",
       "youtube_url": "https://www.youtube.com/@xiaojunpodcast",
       "cover_url": "/covers/zhang-xiaojun.jpg",
-      "episodeCount": 15
+      "episodeCount": 20
     },
     {
       "id": "touzi-shizhanpai",
@@ -59,7 +59,7 @@
       "accent_color": "#1A5F4A",
       "youtube_url": "https://www.youtube.com/results?search_query=投资实战派",
       "cover_url": "/covers/touzi-shizhanpai.jpg",
-      "episodeCount": 15
+      "episodeCount": 20
     }
   ],
   "episodes": [
@@ -5830,6 +5830,7 @@
       "keywords": [
         "600519.SZ",
         "PDD",
+        "Moutai",
         "Channel Reform"
       ],
       "investmentIdeas": [
@@ -6195,6 +6196,235 @@
         }
       ],
       "chronologySubject": "David · NVDA $5T Bear Case"
+    },
+    {
+      "id": "tzs-ep156",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 156,
+      "title": "Duan Yongping Bought Moutai — Should We Follow? | David & Meng Ping",
+      "guest": "Meng Ping",
+      "displayTitle": "Meng Ping",
+      "displaySubtitle": "Jinyu Asset Founder",
+      "guestRole": "Jinyu Asset Founder",
+      "date": "2025-11-09",
+      "durationMinutes": 96,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "David and Jinyu Asset founder Meng Ping debate whether to follow Duan Yongping's Moutai purchase — brand moat and pricing power versus channel reform and youth demand headwinds. Value frame: 600519.SZ is a cash compounder if批价 holds; margin of safety matters after Duan's disclosure. Investors should Watch Kweichow Moutai (600519.SZ) on出厂价 stability and direct-sales mix, not copy trades blindly.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep156.md",
+      "summaryFileZh": "tzs-ep156.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "600519.SZ",
+        "Duan Yongping",
+        "Moutai",
+        "Value Investing"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "600519.SZ",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Kweichow Moutai (600519.SZ): Duan Yongping buy sparks debate — Watch批价 stability and channel reform; margin of safety required"
+        }
+      ],
+      "chronologySubject": "Meng Ping · Moutai & Duan"
+    },
+    {
+      "id": "bb-robinhood-mobile-first-margins-later",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 233,
+      "title": "Robinhood: Mobile First, Margins Later",
+      "guest": "Arthur Olson",
+      "displayTitle": "Robinhood",
+      "displaySubtitle": "Arthur Olson · Founding Partner, Ravenswood Partners · Mobile First, Margins Later",
+      "guestRole": "Founding Partner, Ravenswood Partners",
+      "date": "2025-10-31",
+      "durationMinutes": 60,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Olson argues Robinhood is the brokerage of the next generation — 26 million funded accounts, 95% retention, and product velocity that turned a 2022 refounding into nine nine-figure revenue lines. Mobile-first UX plus payment-for-order-flow economics mattered, but the durable edge is demographic share (65%+ Gen Z) and wallet expansion as $10,000 average accounts compound toward banking, Gold, and wealth tools over decades.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-robinhood-mobile-first-margins-later.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "HOOD",
+        "Digital Brokerage",
+        "Fintech"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "HOOD",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Olson sees a multi-decade asset-gathering flywheel: 20% account share at 2% asset share closes as millennials and Gen Z compound balances, banking/Gold add recurring revenue, and ~81% incremental margins on cloud infrastructure support earnings power — tempered by regulatory and valuation risk after a sharp rerating."
+        }
+      ],
+      "chronologySubject": "Robinhood"
+    },
+    {
+      "id": "acq-trader-joes",
+      "podcastId": "acquired",
+      "episodeNumber": 203,
+      "title": "Trader Joe’s",
+      "guest": "Trader Joe’s",
+      "displayTitle": "Trader Joe’s",
+      "displaySubtitle": "Season 18 · Episode 2",
+      "guestRole": "Season 18 · Episode 2",
+      "date": "2025-10-26",
+      "durationMinutes": 205,
+      "readMinutes": 7,
+      "rating": 5,
+      "conclusion": "Trader Joe's is a ~$24–25B private grocery business doing $2,000+ per square foot — double Whole Foods and 4x industry average — with ~80% private label, deliberately small stores, and cult customer loyalty. Ben and David trace Joe Coulombe's 1967 Pronto Markets buyout ($25,000, employees co-invested), the 1960s 747-driven globalization insight, and 1979 sale to Aldi Nord's Theo Albrecht — who let Joe run it another decade. Two Buck Chuck (Charles Shaw label bought for $27,000; 1B+ bottles sold) exemplifies the model: absolute margin dollars over margin percentages, curated SKUs (~4,000), and crew paid 40–60% above market with ~5–6% turnover. The episode reveals why Aldi-owned Trader Joe's avoids Aldi branding — and why estimated ~$32–35B private valuation rivals 7-Eleven despite no public markets.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-trader-joes.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private Label",
+        "Aldi Nord",
+        "Merchant Culture"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "PRIVATE",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Trader Joe's (~$32–35B estimated, Aldi Nord-owned) demonstrates private grocery can compound at ~11% revenue growth without public markets — no direct investment but benchmark for Sprouts/Fresh Market niche players."
+        }
+      ],
+      "chronologySubject": "Trader Joe's · Joe Coulombe"
+    },
+    {
+      "id": "acq-google-the-ai-company",
+      "podcastId": "acquired",
+      "episodeNumber": 202,
+      "title": "Google Part III: The AI Company",
+      "guest": "Google Part III: The AI Company",
+      "displayTitle": "Google",
+      "displaySubtitle": "Part III: The AI Company · Season 18 · Episode 1",
+      "guestRole": "Season 18 · Episode 1",
+      "date": "2025-10-05",
+      "durationMinutes": 243,
+      "readMinutes": 7,
+      "rating": 5,
+      "conclusion": "Google Part III argues the search company was always an AI company — and that buying DeepMind for $550M (2014) may be worth $500B today while indirectly birthing OpenAI. Ben and David trace Brain's cat paper (2012, 10M YouTube frames), the Hinton auction (~$40M+, Baidu $12M opening bid), Transformer authors (2017), and the organizational split between DeepMind London and Google Brain that delayed product integration. DeepMind's acquisition triggered Elon Musk and Sam Altman to found OpenAI (~$1B pledged, 2015) when researchers wanted open publication Google would not allow. Larry approved $130M NVIDIA order when finance objected — NVIDIA revenue ~$4B then. Gemini finally unifies the stacks under Sundar Pichai, but the episode's tension is clear: Google invented the modern AI era yet nearly gave it away through talent exodus and product paralysis between 2013 and 2023. Search holds ~90% share with lock-in; PHIL consumed ~15% of data center capacity by mid-2000s — Google monetized AI internally before ChatGPT without consumer-facing credit.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-google-the-ai-company.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "DeepMind",
+        "Transformer",
+        "Gemini"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Google owns Transformer-era IP, DeepMind, TPUs, and distribution — Gemini unification addresses decade of organizational delay; AI monetization on ~$100B+ quarterly revenue base is underpriced if product velocity matches research leadership."
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "OpenAI partnership gives Microsoft consumer AI brand leadership Google lacked — but Google retains fuller stack (TPU, data, Search); competitive outcome depends on Gemini execution vs. ChatGPT/Copilot distribution."
+        }
+      ],
+      "chronologySubject": "Google · DeepMind · AI"
+    },
+    {
+      "id": "bb-exor-fiat-crisis-to-ferrari-glory",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 229,
+      "title": "Exor: Fiat Crisis to Ferrari Glory",
+      "guest": "Exor",
+      "displayTitle": "Exor",
+      "displaySubtitle": "Fiat Crisis to Ferrari Glory · Public · EXXRF",
+      "guestRole": "Public · EXXRF",
+      "date": "2025-10-01",
+      "durationMinutes": 48,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Exor is a patient-capital holding company whose NAV per share growth over the past decade came overwhelmingly from Ferrari, while Stellantis, CNH Industrial, and Philips trade through cyclical lows. John Elkann closed a 50–60% NAV discount by trimming Ferrari and buying back stock at roughly €100 versus ~€180 NAV. The bet requires a decade-long horizon and faith that Elkann's people-first, debt-light capital allocation can renew the portfolio beyond racing luxury.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-exor-fiat-crisis-to-ferrari-glory.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "RACE",
+        "STLA",
+        "CNH",
+        "Family Holding Companies"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "RACE",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Ferrari drove most of Exor's NAV per share growth and remains the highest-quality asset — ultra-luxury positioning, controlled volume, and EV transition as further proof it is not a mass-market automaker; many Exor holders may prefer direct Ferrari exposure at full multiple."
+        },
+        {
+          "ticker": "STLA",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Stellantis is a pure auto cyclical at ~10–12% of Exor NAV, facing EV transition and overcapacity headwinds; Raj sees reasonable-to-cheap valuation but no moat comparable to Ferrari — useful as a embedded value option inside Exor, not a standalone high-conviction long from this episode."
+        }
+      ],
+      "chronologySubject": "Exor · Agnelli · Fiat"
+    },
+    {
+      "id": "tzs-ep146",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 146,
+      "title": "New Consumer Kings F4: Pop Mart, Laopu Gold, Mixue, and Maogeping",
+      "guest": "David",
+      "displayTitle": "David",
+      "displaySubtitle": "New Consumer Kings F4: Pop Mart, Laopu Gold, Mixue, and Maogeping",
+      "guestRole": "Practical Investments Host",
+      "date": "2025-09-08",
+      "durationMinutes": 76,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "Practical Investments hosts unpack China's new-consumer F4 — Pop Mart, Laopu Gold, Mixue, Maogeping — with Pop Mart's IP flywheel as the investable anchor. Blind-box scarcity plus character depth drive repeat buy; overseas stores lift ASP. Investors should Watch Pop Mart (9992.HK) on Labubu pipeline and international same-store growth versus gold-and-tea peers trading different moats.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep146.md",
+      "summaryFileZh": "tzs-ep146.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "9992.HK",
+        "New Consumer",
+        "IP",
+        "Pop Mart"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "9992.HK",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Pop Mart (9992.HK): New consumer F4 episode — Watch IP pipeline and overseas same-store as Labubu globalization proof"
+        }
+      ],
+      "chronologySubject": "Practical Investments · New Consumer F4"
     },
     {
       "id": "zj-ep145",
@@ -6694,6 +6924,94 @@
       "chronologySubject": "Xieshui · BYD Manufacturing"
     },
     {
+      "id": "zj-ep125",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 125,
+      "title": "Freda's Investment Notes #1: Betting on OpenAI, Robinhood History, and US Capital Bad Boys",
+      "guest": "Freda",
+      "displayTitle": "Freda",
+      "displaySubtitle": "Lightspeed Venture Partners Partner",
+      "guestRole": "Lightspeed Venture Partners Partner",
+      "date": "2025-12-16",
+      "durationMinutes": 84,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Lightspeed partner Freda's investment notes trace betting OpenAI early, Robinhood's retail-trading revolution, and US 'bad boy' capital cycles — token economics and meme liquidity reshape who captures finance upside. META benefits from attention aggregation; Robinhood (HOOD) Watch on crypto and tokenized equity rails. Investors should separate platform landlords from brokerage volume bets as AI and token narratives converge.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=k82iFzvKFCQ",
+      "summaryFile": "zj-ep125.md",
+      "summaryFileZh": "zj-ep125.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "META",
+        "HOOD",
+        "OpenAI",
+        "Token Economics"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "META",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Meta (META): Freda attention landlord frame — Watch ad yield as retail and token engagement cycles"
+        },
+        {
+          "ticker": "HOOD",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Robinhood (HOOD): Freda retail-trading history — Watch crypto and tokenized equity mix versus transaction volume beta"
+        }
+      ],
+      "chronologySubject": "Freda · Investment Notes #1"
+    },
+    {
+      "id": "zj-ep122",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 122,
+      "title": "Zhu Xiaohu on AI Feast and Bubble — Third Installment of China Realism",
+      "guest": "Zhu Xiaohu",
+      "displayTitle": "Zhu Xiaohu",
+      "displaySubtitle": "GSR Ventures Managing Partner",
+      "guestRole": "GSR Ventures Managing Partner",
+      "date": "2025-12-09",
+      "durationMinutes": 48,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Zhu Xiaohu's third 'China realism' installment warns the AI feast is narrowing — model capex and application revenue are misaligned, and many 'AI companies' are wrappers on hyperscaler APIs. He favors cash-generating application layers and treats META and GOOGL as distribution plus compute landlords to Watch, not every Series A agent deck. Investors should size positions on ARR quality and inference gross margin, not feast narratives alone.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wK0-m3rKgZ0",
+      "summaryFile": "zj-ep122.md",
+      "summaryFileZh": "zj-ep122.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "META",
+        "GOOGL",
+        "AI Apps",
+        "Bubble"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "META",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Meta (META): Zhu Xiaohu AI feast landlord — Watch ad ARPU and AI engagement lift versus Reality Labs drag"
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Alphabet (GOOGL): Zhu realism frame — Watch cloud GPU rent and Search AI monetization as application bubble deflates"
+        }
+      ],
+      "chronologySubject": "Zhu Xiaohu · AI Realism III"
+    },
+    {
       "id": "zj-ep121",
       "podcastId": "zhang-xiaojun",
       "episodeNumber": 121,
@@ -6730,41 +7048,6 @@
         }
       ],
       "chronologySubject": "Tan Jie · DeepMind Gemini Robotics"
-    },
-    {
-      "id": "bb-robinhood-mobile-first-margins-later",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 233,
-      "title": "Robinhood: Mobile First, Margins Later",
-      "guest": "Arthur Olson",
-      "displayTitle": "Robinhood",
-      "displaySubtitle": "Arthur Olson · Founding Partner, Ravenswood Partners · Mobile First, Margins Later",
-      "guestRole": "Founding Partner, Ravenswood Partners",
-      "date": "2025-10-31",
-      "durationMinutes": 60,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Olson argues Robinhood is the brokerage of the next generation — 26 million funded accounts, 95% retention, and product velocity that turned a 2022 refounding into nine nine-figure revenue lines. Mobile-first UX plus payment-for-order-flow economics mattered, but the durable edge is demographic share (65%+ Gen Z) and wallet expansion as $10,000 average accounts compound toward banking, Gold, and wealth tools over decades.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-robinhood-mobile-first-margins-later.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "HOOD",
-        "Digital Brokerage",
-        "Fintech"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "HOOD",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Olson sees a multi-decade asset-gathering flywheel: 20% account share at 2% asset share closes as millennials and Gen Z compound balances, banking/Gold add recurring revenue, and ~81% incremental margins on cloud infrastructure support earnings power — tempered by regulatory and valuation risk after a sharp rerating."
-        }
-      ],
-      "chronologySubject": "Robinhood"
     },
     {
       "id": "zj-ep120",
@@ -6805,122 +7088,42 @@
       "chronologySubject": "Liu Xianming · XPeng Physical AI"
     },
     {
-      "id": "acq-trader-joes",
-      "podcastId": "acquired",
-      "episodeNumber": 203,
-      "title": "Trader Joe’s",
-      "guest": "Trader Joe’s",
-      "displayTitle": "Trader Joe’s",
-      "displaySubtitle": "Season 18 · Episode 2",
-      "guestRole": "Season 18 · Episode 2",
-      "date": "2025-10-26",
-      "durationMinutes": 205,
-      "readMinutes": 7,
-      "rating": 5,
-      "conclusion": "Trader Joe's is a ~$24–25B private grocery business doing $2,000+ per square foot — double Whole Foods and 4x industry average — with ~80% private label, deliberately small stores, and cult customer loyalty. Ben and David trace Joe Coulombe's 1967 Pronto Markets buyout ($25,000, employees co-invested), the 1960s 747-driven globalization insight, and 1979 sale to Aldi Nord's Theo Albrecht — who let Joe run it another decade. Two Buck Chuck (Charles Shaw label bought for $27,000; 1B+ bottles sold) exemplifies the model: absolute margin dollars over margin percentages, curated SKUs (~4,000), and crew paid 40–60% above market with ~5–6% turnover. The episode reveals why Aldi-owned Trader Joe's avoids Aldi branding — and why estimated ~$32–35B private valuation rivals 7-Eleven despite no public markets.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-trader-joes.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Private Label",
-        "Aldi Nord",
-        "Merchant Culture"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "PRIVATE",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Trader Joe's (~$32–35B estimated, Aldi Nord-owned) demonstrates private grocery can compound at ~11% revenue growth without public markets — no direct investment but benchmark for Sprouts/Fresh Market niche players."
-        }
-      ],
-      "chronologySubject": "Trader Joe's · Joe Coulombe"
-    },
-    {
-      "id": "acq-google-the-ai-company",
-      "podcastId": "acquired",
-      "episodeNumber": 202,
-      "title": "Google Part III: The AI Company",
-      "guest": "Google Part III: The AI Company",
-      "displayTitle": "Google",
-      "displaySubtitle": "Part III: The AI Company · Season 18 · Episode 1",
-      "guestRole": "Season 18 · Episode 1",
-      "date": "2025-10-05",
-      "durationMinutes": 243,
-      "readMinutes": 7,
-      "rating": 5,
-      "conclusion": "Google Part III argues the search company was always an AI company — and that buying DeepMind for $550M (2014) may be worth $500B today while indirectly birthing OpenAI. Ben and David trace Brain's cat paper (2012, 10M YouTube frames), the Hinton auction (~$40M+, Baidu $12M opening bid), Transformer authors (2017), and the organizational split between DeepMind London and Google Brain that delayed product integration. DeepMind's acquisition triggered Elon Musk and Sam Altman to found OpenAI (~$1B pledged, 2015) when researchers wanted open publication Google would not allow. Larry approved $130M NVIDIA order when finance objected — NVIDIA revenue ~$4B then. Gemini finally unifies the stacks under Sundar Pichai, but the episode's tension is clear: Google invented the modern AI era yet nearly gave it away through talent exodus and product paralysis between 2013 and 2023. Search holds ~90% share with lock-in; PHIL consumed ~15% of data center capacity by mid-2000s — Google monetized AI internally before ChatGPT without consumer-facing credit.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-google-the-ai-company.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "DeepMind",
-        "Transformer",
-        "Gemini"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "GOOGL",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Google owns Transformer-era IP, DeepMind, TPUs, and distribution — Gemini unification addresses decade of organizational delay; AI monetization on ~$100B+ quarterly revenue base is underpriced if product velocity matches research leadership."
-        },
-        {
-          "ticker": "MSFT",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "OpenAI partnership gives Microsoft consumer AI brand leadership Google lacked — but Google retains fuller stack (TPU, data, Search); competitive outcome depends on Gemini execution vs. ChatGPT/Copilot distribution."
-        }
-      ],
-      "chronologySubject": "Google · DeepMind · AI"
-    },
-    {
-      "id": "bb-exor-fiat-crisis-to-ferrari-glory",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 229,
-      "title": "Exor: Fiat Crisis to Ferrari Glory",
-      "guest": "Exor",
-      "displayTitle": "Exor",
-      "displaySubtitle": "Fiat Crisis to Ferrari Glory · Public · EXXRF",
-      "guestRole": "Public · EXXRF",
-      "date": "2025-10-01",
-      "durationMinutes": 48,
-      "readMinutes": 5,
+      "id": "zj-ep118",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 118,
+      "title": "Second 3-Hour Interview with Li Xiang: CEO LLM, MoE, VLA, Energy, Memory, and Human Nature",
+      "guest": "Li Xiang",
+      "displayTitle": "Li Xiang",
+      "displaySubtitle": "Li Auto Founder & CEO",
+      "guestRole": "Li Auto Founder & CEO",
+      "date": "2025-10-30",
+      "durationMinutes": 166,
+      "readMinutes": 4,
       "rating": 3,
-      "conclusion": "Exor is a patient-capital holding company whose NAV per share growth over the past decade came overwhelmingly from Ferrari, while Stellantis, CNH Industrial, and Philips trade through cyclical lows. John Elkann closed a 50–60% NAV discount by trimming Ferrari and buying back stock at roughly €100 versus ~€180 NAV. The bet requires a decade-long horizon and faith that Elkann's people-first, debt-light capital allocation can renew the portfolio beyond racing luxury.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-exor-fiat-crisis-to-ferrari-glory.md",
+      "conclusion": "Li Xiang frames himself as a CEO MoE — technical, product, and org experts — and bets on Agent OS within five years, not a universal agent. AI must graduate from information and assistive tools to production tools users pay for; Li Auto trains domain VLA with 3.2B eight-expert MoE after embracing DeepSeek. Investors should Watch Li Auto (LI) on VLA fleet rollout and Agent OS monetization before treating chat copilots as autonomy proof.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RxXVq7-sJzM",
+      "summaryFile": "zj-ep118.md",
+      "summaryFileZh": "zj-ep118.md",
       "availableLocales": [
-        "en"
+        "en",
+        "zh"
       ],
       "defaultLocale": "en",
       "keywords": [
-        "RACE",
-        "STLA",
-        "CNH",
-        "Family Holding Companies"
+        "LI",
+        "CEO LLM",
+        "MoE",
+        "VLA"
       ],
       "investmentIdeas": [
         {
-          "ticker": "RACE",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Ferrari drove most of Exor's NAV per share growth and remains the highest-quality asset — ultra-luxury positioning, controlled volume, and EV transition as further proof it is not a mass-market automaker; many Exor holders may prefer direct Ferrari exposure at full multiple."
-        },
-        {
-          "ticker": "STLA",
+          "ticker": "LI",
           "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Stellantis is a pure auto cyclical at ~10–12% of Exor NAV, facing EV transition and overcapacity headwinds; Raj sees reasonable-to-cheap valuation but no moat comparable to Ferrari — useful as a embedded value option inside Exor, not a standalone high-conviction long from this episode."
+          "confidence": "Medium",
+          "thesis": "Li Auto (LI): Li Xiang CEO-MoE, Agent OS, and domain VLA 3.2B MoE stack — Watch fleet VLA rollout and production-tool monetization as autonomy proof"
         }
       ],
-      "chronologySubject": "Exor · Agnelli · Fiat"
+      "chronologySubject": "Li Xiang · Li Auto AI Talk S2"
     },
     {
       "id": "bb-mercado-libre-e-commerce-empire",
@@ -7145,6 +7348,164 @@
       "chronologySubject": "Jamie Dimon · JPMorgan Chase"
     },
     {
+      "id": "tzs-ep115",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 115,
+      "title": "Pinduoduo: Competitive Edge, Earnings, Review, and Market — Apr 28, 2025",
+      "guest": "Yongqing",
+      "displayTitle": "Yongqing",
+      "displaySubtitle": "Pinduoduo: Competitive Edge, Earnings, Review, and Market — Apr 28, 2025",
+      "guestRole": "Practical Investments Guest, Curated 50 Strategy",
+      "date": "2025-04-30",
+      "durationMinutes": 45,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "Yongqing's Apr 28, 2025 PDD deep dive frames Pinduoduo as supply-chain efficiency plus merchant ecosystem — not discount gimmick. Temu overseas adds growth but legal and logistics costs rise; investors should Watch PDD on take-rate stability, GMV per user, and Temu unit economics after earnings volatility. Curated 50 discipline: buy mispriced quality, not narrative peaks.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=4TMveqX62rA",
+      "summaryFile": "tzs-ep115.md",
+      "summaryFileZh": "tzs-ep115.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "PDD",
+        "Temu",
+        "E-commerce",
+        "Earnings"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "PDD",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Pinduoduo (PDD): Yongqing competitive-edge and earnings framework — Watch take rate and Temu unit economics post-volatility"
+        }
+      ],
+      "chronologySubject": "Yongqing · PDD Deep Dive"
+    },
+    {
+      "id": "zj-ep109",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 109,
+      "title": "Robot Data Famine? Xie Chen on Simulation, Synthetic Data, Meta's Scale AI Deal, and Alexandr Wang",
+      "guest": "Xie Chen",
+      "displayTitle": "Xie Chen",
+      "displaySubtitle": "Lightwheel Intelligence Founder & CEO",
+      "guestRole": "Lightwheel Intelligence Founder & CEO",
+      "date": "2025-06-20",
+      "durationMinutes": 101,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Galbot co-founder Xie Chen argues embodied AI sits at GPT-1 stage — real robot data is ~1% of training mix; synthetic data and simulation dominate. Meta's ~$30B Scale AI bet validates labeling infrastructure, but Galbot sees real-world capture as the scarce 1%. He calls Nvidia a simulation company at core — Omniverse and Isaac compound before fleet scale. Investors should Watch Meta (META) on data-platform ROI and Nvidia (NVDA) on sim-to-real tooling monetization, not assume hardware alone wins embodied AI.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pWY0HVUH8GA",
+      "summaryFile": "zj-ep109.md",
+      "summaryFileZh": "zj-ep109.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "META",
+        "NVDA",
+        "Synthetic Data",
+        "Embodied AI"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "META",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Meta (META): ~$30B Scale AI bet validates data-factory economics for embodied era — Watch labeled throughput and robotics pipeline integration"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Nvidia (NVDA): Xie frames NV as simulation company — Omniverse/Isaac sim-to-real tooling may compound before embodied unit volumes; Watch developer lock-in"
+        }
+      ],
+      "chronologySubject": "Xie Chen · Galbot Embodied Data"
+    },
+    {
+      "id": "tzs-ep109",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 109,
+      "title": "Meituan: Business Model, Earnings Read, and Investment View | Curated 50, Apr 2, 2025",
+      "guest": "David",
+      "displayTitle": "David",
+      "displaySubtitle": "Meituan: Business Model, Earnings Read, and Investment View | Curated 50, Apr 2, 2025",
+      "guestRole": "Practical Investments Host",
+      "date": "2025-04-02",
+      "durationMinutes": 35,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "David's Curated 50 Meituan episode frames 3690.HK as local-commerce infrastructure — delivery density, merchant ad spend, and in-store digitization — under Douyin local-services attack. Profitability improved but competition caps take rate; investors should Watch Meituan (3690.HK) on order growth, operating margin, and instant-retail mix versus content-platform subsidies.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IUuUJZlPNxY",
+      "summaryFile": "tzs-ep109.md",
+      "summaryFileZh": "tzs-ep109.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "3690.HK",
+        "Meituan",
+        "Local Services",
+        "Delivery"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "3690.HK",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Meituan (3690.HK): David business-model episode — Watch delivery density, operating margin, and subsidy defense vs Douyin"
+        }
+      ],
+      "chronologySubject": "David · Meituan Curated 50"
+    },
+    {
+      "id": "zj-ep108",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 108,
+      "title": "Kai Yu's 30-Year Oral History: Horizon Robotics and China's AD Chip Journey",
+      "guest": "Kai Yu",
+      "displayTitle": "Kai Yu",
+      "displaySubtitle": "Horizon Robotics Founder & CEO",
+      "guestRole": "Horizon Robotics Founder & CEO",
+      "date": "2025-07-07",
+      "durationMinutes": 177,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Kai Yu's 30-year oral history frames Horizon as a 2B scientist-founder who competes where others do not and never dances on the cliff edge. Founded 2015 with NVIDIA and Tesla as personal anchors, Horizon survived cash scares via customer-first focus — 90%+ China ADAS OEMs now cite Horizon. Investors should Watch Horizon Robotics (9660.HK) on shipment scale and auto-chip attach as physical-AI capex rises, not on scientist pedigree alone.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=853ETjAecz4",
+      "summaryFile": "zj-ep108.md",
+      "summaryFileZh": "zj-ep108.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "9660.HK",
+        "Horizon Robotics",
+        "AD Chips",
+        "First Principles"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "9660.HK",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Horizon Robotics (9660.HK): Kai Yu 30-year 2B journey — Watch China OEM AD chip attach and quality-at-scale proof as physical-AI capex rises"
+        }
+      ],
+      "chronologySubject": "Kai Yu · Horizon Robotics"
+    },
+    {
       "id": "bb-alpha-in-podcasts",
       "podcastId": "business-breakdowns",
       "episodeNumber": 222,
@@ -7213,50 +7574,6 @@
         }
       ],
       "chronologySubject": "Google · PageRank · AdWords"
-    },
-    {
-      "id": "zj-ep109",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 109,
-      "title": "Robot Data Famine? Xie Chen on Simulation, Synthetic Data, Meta's Scale AI Deal, and Alexandr Wang",
-      "guest": "Xie Chen",
-      "displayTitle": "Xie Chen",
-      "displaySubtitle": "Lightwheel Intelligence Founder & CEO",
-      "guestRole": "Lightwheel Intelligence Founder & CEO",
-      "date": "2025-06-20",
-      "durationMinutes": 101,
-      "readMinutes": 3,
-      "rating": 3,
-      "conclusion": "Galbot co-founder Xie Chen argues embodied AI sits at GPT-1 stage — real robot data is ~1% of training mix; synthetic data and simulation dominate. Meta's ~$30B Scale AI bet validates labeling infrastructure, but Galbot sees real-world capture as the scarce 1%. He calls Nvidia a simulation company at core — Omniverse and Isaac compound before fleet scale. Investors should Watch Meta (META) on data-platform ROI and Nvidia (NVDA) on sim-to-real tooling monetization, not assume hardware alone wins embodied AI.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=pWY0HVUH8GA",
-      "summaryFile": "zj-ep109.md",
-      "summaryFileZh": "zj-ep109.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "META",
-        "NVDA",
-        "Synthetic Data",
-        "Embodied AI"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "META",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Meta (META): ~$30B Scale AI bet validates data-factory economics for embodied era — Watch labeled throughput and robotics pipeline integration"
-        },
-        {
-          "ticker": "NVDA",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Nvidia (NVDA): Xie frames NV as simulation company — Omniverse/Isaac sim-to-real tooling may compound before embodied unit volumes; Watch developer lock-in"
-        }
-      ],
-      "chronologySubject": "Xie Chen · Galbot Embodied Data"
     },
     {
       "id": "bb-eqt-returns-at-scale",
@@ -7686,6 +8003,44 @@
         }
       ],
       "chronologySubject": "Watsco"
+    },
+    {
+      "id": "zj-ep96",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 96,
+      "title": "Lang Xianpeng on a Decade of Autonomous Driving, Key Technical Details, and Tesla",
+      "guest": "Lang Xianpeng",
+      "displayTitle": "Lang Xianpeng",
+      "displaySubtitle": "Li Auto Intelligent Driving Head",
+      "guestRole": "Li Auto Intelligent Driving Head",
+      "date": "2025-03-16",
+      "durationMinutes": 120,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Lang Xianpeng's decade retrospective says Tesla called pure vision and no HD maps earliest and most correctly — the industry wasted years on lidar-plus-rail metaphors. End-to-end and generative fusion replaced post-process stitching; Tesla builds silicon when NVIDIA tops out. Investors should Watch Tesla (TSLA) on FSD miles and chip cadence as the benchmark Li Auto and Chinese OEMs chase, not legacy lidar map stacks.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=qtugoE1xQZk",
+      "summaryFile": "zj-ep96.md",
+      "summaryFileZh": "zj-ep96.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "TSLA",
+        "Autonomous Driving",
+        "End-to-End",
+        "Vision-Only"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "TSLA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Tesla (TSLA): Lang Xianpeng decade AD history — pure vision and end-to-end fusion benchmark; Watch FSD miles and custom silicon cadence"
+        }
+      ],
+      "chronologySubject": "Lang Xianpeng · AD Decade"
     },
     {
       "id": "bb-apollo-connoisseurs-of-complexity",
@@ -8273,6 +8628,44 @@
         }
       ],
       "chronologySubject": "Microsoft · Volume I (1968–1981)"
+    },
+    {
+      "id": "tzs-ep34",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 34,
+      "title": "Li Auto: Can Li Xiang Win the Second Critical War? Investment Value & Risks",
+      "guest": "David",
+      "displayTitle": "David",
+      "displaySubtitle": "Li Auto: Can Li Xiang Win the Second Critical War? Investment Value & Risks",
+      "guestRole": "Practical Investments Host",
+      "date": "2024-04-14",
+      "durationMinutes": 129,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "David's 2024 Li Auto deep dive asks whether Li Xiang can win the second war — BEV platform shift plus intelligent-driving differentiation — and prices LI investment value versus risks. Family SUV niche and execution history support Watch; margin compression and AD catch-up costs threaten Long. Investors should track delivery cadence, software revenue mix, and BEV model success as proof of second-act thesis.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep34.md",
+      "summaryFileZh": "tzs-ep34.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "LI",
+        "EV",
+        "Intelligent Driving",
+        "Valuation"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "LI",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Li Auto (LI): David Global 50 deep dive — Watch BEV second war, delivery cadence, and AD monetization versus price-war margin risk"
+        }
+      ],
+      "chronologySubject": "David · Li Auto Global 50"
     },
     {
       "id": "bb-intuitive-surgical-robotic-precision",
