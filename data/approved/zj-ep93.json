@@ -1,0 +1,105 @@
+{
+  "episode_id": "zj-ep93",
+  "podcast": "Zhang Xiaojun Podcast",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 93,
+    "title": "Zhang Qianchuan on Leaving ByteDance & MiniMax: AGI Threat Warning",
+    "guest": "Zhang Qianchuan",
+    "guest_role": "Former ByteDance Toutiao Product Head, Former MiniMax Product Head",
+    "date": "2025-02-20",
+    "duration_minutes": 127,
+    "youtube_url": "https://www.youtube.com/watch?v=hBEOntt_pxM",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962",
+      "youtube": "https://www.youtube.com/watch?v=hBEOntt_pxM"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "META",
+    "TCEHY",
+    "AGI",
+    "Recommendation Engine"
+  ],
+  "conclusion": "Zhang Qianchuan's AGI warning after leaving ByteDance and MiniMax frames recommendation engines as proto-AGI — optimizing human attention at scale with opaque objectives. He cautions alignment and product ethics as labs race capability; META and Tencent (TCEHY) own distribution rent while private labs chase AGI. Investors should Watch META and TCEHY on AI engagement monetization versus societal backlash risk, not every model benchmark alone.",
+  "background": "Zhang Xiaojun's Feb 20, 2025 interview with Zhang Qianchuan (former ByteDance Toutiao product head, former MiniMax product head) is a product-leader AGI threat warning. Zhang argues feed algorithms already reshape cognition — scaling to AGI without guardrails risks concentration of power. He knows recommendation systems from Toutiao and model products from MiniMax; episode bridges China consumer internet and foundation-model labs.",
+  "important_facts": [
+    "Recommendation as proto-AGI: Zhang Qianchuan says optimizing engagement at billion-user scale is alignment problem in production — Toutiao/Douyin mechanics preview AGI deployment risks. META and TCEHY platforms already run large-scale preference optimizers.",
+    "ByteDance and MiniMax lens: Leaving both, Zhang warns capability races outpace governance — product leaders must design constraints, not only loss curves. Private Chinese labs (MiniMax, DeepSeek) plus ByteDance/Tencent distribution create fast feedback loops investors should not ignore.",
+    "Investable Watch: Meta (META) — ad ARPU from AI engagement versus regulatory and reputational tail risk. Tencent (TCEHY) — WeChat and video AI integration with China policy overlay. Underweight pure capability bets without distribution or safety narrative."
+  ],
+  "mental_model": {
+    "name": "Engagement Optimizer × Alignment Lag × Distribution Landlord",
+    "components": "Feeds are AGI with wrong objective function. Capability labs outrun governance. Landlords monetize attention; labs burn capex.",
+    "application": "Meta (META) and Tencent (TCEHY): Watch AI feature engagement lift versus policy backlash — landlords survive if ARPU rises without regulatory break. Private labs: Watch as capability benchmark, not public tickers."
+  },
+  "key_insights": [
+    {
+      "view": "Feeds already are misaligned AGI.",
+      "question": "Why does a product guy warn about AGI?",
+      "answer": "Zhang Qianchuan built systems that maximize dwell time — that is powerful optimization without explicit human values. Scaling LLM agents extends the same risk with more action surface."
+    },
+    {
+      "view": "Capability races governance.",
+      "question": "What did MiniMax and ByteDance teach him?",
+      "answer": "Product shipping speed beats safety committees — Zhang left to voice concern that labs optimize benchmarks while society lacks brakes. Investors should price regulatory and reputational optionality on META/TCEHY AI rollouts."
+    },
+    {
+      "view": "Distribution landlords tax the AGI feast.",
+      "question": "Where is investable exposure?",
+      "answer": "META and TCEHY own attention rails recommendation engines need — even if a private lab wins models, landlords capture ad and payment rent. Public investors size engagement monetization, not AGI theology."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "META",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Meta (META): Zhang Qianchuan AGI warning — Watch AI engagement ARPU versus alignment and regulatory tail risk"
+    },
+    {
+      "ticker": "TCEHY",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Tencent (TCEHY): Recommendation-scale AI on WeChat/video — Watch monetization versus China policy and AGI backlash risk"
+    }
+  ],
+  "golden_quotes": [
+    "Recommendation engines are already AGI with the wrong objective — maximize attention, not human flourishing.",
+    "Capability labs outrun governance; product leaders must design brakes, not only benchmarks.",
+    "Distribution landlords will tax the AGI feast whether or not your favorite lab wins."
+  ],
+  "chronology": {
+    "subject": "Zhang Qianchuan · AGI Warning",
+    "events": [
+      {
+        "date": "2010s",
+        "event": "Zhang builds Toutiao recommendation product at ByteDance"
+      },
+      {
+        "date": "2023–2024",
+        "event": "MiniMax product leadership; model race accelerates"
+      },
+      {
+        "date": "2025",
+        "event": "Zhang leaves; speaks on AGI societal risk"
+      },
+      {
+        "date": "2025-02-20",
+        "event": "Zhang Xiaojun interview recorded"
+      },
+      {
+        "date": "2025–2026",
+        "event": "China and US AI policy debates intensify"
+      },
+      {
+        "date": "2026+",
+        "event": "Engagement AI versus agent action regulation"
+      }
+    ]
+  }
+}

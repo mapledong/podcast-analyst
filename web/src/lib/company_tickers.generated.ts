@@ -71,8 +71,13 @@ export const COMPANY_ALIASES: Record<string, string> = {
   "warner bros": "WBD",
   "warner bros discovery": "WBD",
   "zoom": "ZM",
+  "东鹏饮料": "605499.SH",
+  "农夫山泉": "9633.HK",
+  "安踏": "2020.HK",
   "比亚迪": "BYDDY",
   "科济药业": "2171.HK",
+  "美的": "000333.SZ",
+  "老铺黄金": "6181.HK",
   "贵州茅台": "600519.SZ",
 };
 
@@ -95,12 +100,17 @@ export const TICKER_ALIASES: Record<string, string> = {
 export type ChinaListingNames = { en: string; zh: string };
 
 export const CHINA_LISTINGS: Record<string, ChinaListingNames> = {
+  "000333.SZ": { en: "Midea Group", zh: "美的集团" },
   "0981.HK": { en: "SMIC", zh: "中芯国际" },
   "1211.HK": { en: "BYD", zh: "比亚迪" },
+  "2020.HK": { en: "Anta Sports", zh: "安踏体育" },
   "2171.HK": { en: "CARsgen", zh: "科济药业" },
   "300866.SZ": { en: "Anker Innovations", zh: "安克创新" },
   "3690.HK": { en: "Meituan", zh: "美团" },
   "600519.SZ": { en: "Kweichow Moutai", zh: "贵州茅台" },
+  "605499.SH": { en: "Eastroc Beverage", zh: "东鹏饮料" },
+  "6181.HK": { en: "Laopu Gold", zh: "老铺黄金" },
+  "9633.HK": { en: "Nongfu Spring", zh: "农夫山泉" },
   "9660.HK": { en: "Horizon Robotics", zh: "地平线" },
   "9992.HK": { en: "Pop Mart", zh: "泡泡玛特" },
 };

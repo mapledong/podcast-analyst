@@ -1,0 +1,120 @@
+# EP.115 — Yao Shunyu
+
+## *OpenAI Researcher (at time of interview)*
+
+**★★★☆☆** · 3/5
+
+**Podcast** Zhang Xiaojun Podcast · **Date** Apr 19, 2025 · **Duration** 180 min · **Read** ≈3 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Yao Shunyu · OpenAI Researcher (at time of interview)
+
+**Listen** [YouTube](https://www.youtube.com/watch?v=gQgKkUsx5q0) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** GOOGL · OpenAI · AGENT · RL
+> ### Conclusion
+>
+> Yao Shunyu's three-hour OpenAI agent retrospective frames the second half of AI as systems that act in environments — not bigger chat models. Six years of RL and tool-use research converge on super-app orchestration and bounded autonomy; most upside stays in private OpenAI while public investors tax the feast via Alphabet (GOOGL). Investors should Watch GOOGL on Gemini agent distribution and Private:OpenAI on product cadence as the benchmark for agent economics.
+
+---
+
+## Background
+
+> Zhang Xiaojun's Apr 19, 2025 interview with Yao Shunyu (OpenAI researcher at time of recording) walks six years of agent research — from academic RL to ChatGPT tools and computer-use agents. Yao argues the first half of AI was language and perception; the second half is humans plus systems: agents that plan, call APIs, and inhabit product surfaces. He discusses swallowing boundaries between apps (super-app thesis), unipolar model labs versus plural deployment, and why environment design matters more than raw parameter count. Episode is technical philosophy for investors sizing agent capex versus application revenue.
+
+---
+
+## Key Facts
+
+> **F1** Six-year agent arc: Yao Shunyu traces agent work from RL foundations through tool use and multi-step planning — OpenAI's trajectory mirrors research-first productization. Second-half AI means systems that change state in the world, not autocomplete; super-app metaphors describe one orchestrator calling many services.
+
+> **F2** Humans and systems: Yao stresses co-design of human intent and system affordances — agents fail when environments are ambiguous. Unipolar labs (OpenAI) versus plural ecosystems (many agents on GOOGL/Android) shapes who captures margin; most agent upside remains private-market asymmetric.
+
+> **F3** Investable frame: Alphabet (GOOGL) Watch — Gemini plus Android distribution is public agent landlord; Private:OpenAI Watch — operator and research cadence set consumer willingness-to-pay for action. Underweight pure chat wrappers without environment or payment loop.
+
+
+---
+
+## Mental Model · *Second-Half AI × Environment Design × Super-App Orchestration*
+
+> **Components**
+>
+> First half: language and perception. Second half: agents acting in environments. Super-app wins by orchestration, not one omniscient model. Private labs own research optionality; hyperscalers own distribution rent.
+>
+> **Application**
+>
+> Alphabet (GOOGL): Watch agent features in Search, Workspace, and Android — landlord thesis if action-layer monetizes. Private:OpenAI: Watch product releases as private asymmetry benchmark; public investors rarely get same entry.
+
+---
+
+
+## Key Insights
+
+> **1.** Second half of AI is action in environments.
+>
+> **Q** What shifts after the chat era?
+>
+> **A** Yao Shunyu says scaling language solved information; the next wave is agents that plan, use tools, and persist state — RL and environment design dominate. Investors should track willingness-to-pay for completed tasks, not token volume alone.
+
+> **2.** Super-app swallows single-purpose apps.
+>
+> **Q** How do agents reshape distribution?
+>
+> **A** One orchestrator calling travel, commerce, and productivity APIs compresses app silos — similar to WeChat super-app logic applied globally. Winners own the orchestration layer or become paid tools behind it; losers are thin UI wrappers.
+
+> **3.** Unipolar research, plural deployment.
+>
+> **Q** Why pair OpenAI private with GOOGL public?
+>
+> **A** OpenAI concentrates frontier agent research; GOOGL and others deploy across billions of devices. Public markets access distribution landlords and miss most private AGI optionality — Yao's arc explains why agent narratives split feast (infra) from bubble (wrappers).
+
+---
+
+## Investment Ideas
+
+> **1. GOOGL** · 🟡 WATCH · ●●○ Medium
+>
+> Alphabet (GOOGL): Yao Shunyu agent second-half frame — Watch Gemini agent distribution and Android orchestration as public landlord play
+
+> **2. OpenAI** · 🟡 WATCH · ●●○ Medium
+>
+> Private:OpenAI: Six-year agent research benchmark — Watch operator and tool-use cadence as private asymmetry public markets cannot replicate
+
+---
+
+## Golden Quotes
+
+> "The second half of AI is not about bigger language models — it is about systems that act in environments."
+
+> "A super-app does not need one god model; it needs an orchestrator that swallows boundaries between services."
+
+> "Six years of agent research taught me environment design beats parameter count for real utility."
+
+---
+
+## Chronology
+
+> *Yao Shunyu · OpenAI Agent Research*
+>
+> **2019–2023** Yao Shunyu agent and RL research arc
+>
+> **2023–2024** ChatGPT tools and multi-step agent prototypes
+>
+> **2025** Super-app and second-half AI thesis matures
+>
+> **2025-04-19** Three-hour Zhang Xiaojun interview recorded
+>
+> **2025–2026** Computer-use and operator agents ship
+>
+> **2026+** Agent economics test willingness-to-pay
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Podcast, Zhang Xiaojun, or Yao Shunyu. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=gQgKkUsx5q0) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

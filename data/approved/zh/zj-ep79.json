@@ -1,0 +1,105 @@
+{
+  "episode_id": "zj-ep79",
+  "podcast": "张小珺商业访谈录",
+  "host": "张小珺",
+  "metadata": {
+    "episode_number": 79,
+    "title": "特斯拉股价跌了，Uber却涨了？漫谈特斯拉Robotaxi大会",
+    "guest": "孟醒",
+    "guest_role": "自动驾驶创业者、技术不无聊主播",
+    "date": "2024-10-13",
+    "duration_minutes": 59,
+    "youtube_url": "https://www.youtube.com/watch?v=_nqR-T5tl-M",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962",
+      "youtube": "https://www.youtube.com/watch?v=_nqR-T5tl-M"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "TSLA",
+    "UBER",
+    "Robotaxi",
+    "FSD"
+  ],
+  "conclusion": "孟醒 Robotaxi 大会复盘解释为何特斯拉（TSLA）跌而 Uber（UBER）涨——市场给自主执行风险定价，同时奖励近端出行网络期权。Cybercab 时间表、监管缺口与车队经济学主导；Uber 以合作叙事受益而无重资产负担。投资者应观望 TSLA 的 FSD 里程与 Robotaxi 监管路径，以及 UBER 的自动驾驶合作收入 mix。",
+  "background": "张小珺与孟醒（自动驾驶创业者、播客主播）拆解特斯拉 2024 年 10 月 Robotaxi 大会（2024 年 10 月 13 日节目）。孟醒对比市场反应：TSLA 因时间表模糊与细节缺失遭抛售；UBER 因合作潜台词与轻资产享自主上行而上涨。节目涵盖 Cybercab 设计、无人 FSD 宣称、充电基建，以及网络运营方何以在 OEM 证机器人车队前捕获价值。",
+  "important_facts": [
+    "市场分裂：孟醒指 TSLA 下跌反映对具体 Robotaxi 部署失望——日期、地域、单位经济学稀薄。UBER 上涨框为无车队 capex 的自主期权——特斯拉验证滞后时合作透镜胜。",
+    "Robotaxi 经济学：无人 FSD 必要不充分——车队利用率、监管与远程协助成本定 ROI。特斯拉（TSLA）须示干预间隔里程下行；Uber（UBER）若多 OEM 争网络接入则受益。",
+    "可投资观望：TSLA——监管批准与 FSD 订阅或按里程变现；UBER——自动行程 mix 与合作伙伴车队抽佣。无干预指标勿超重 TSLA Robotaxi 溢价；仅合作收入落地才超配 UBER。"
+  ],
+  "mental_model": {
+    "name": "执行缺口 × 网络期权 × 车队 Capex",
+    "components": "自主 hype 先于部署验证定价。轻资产网络经合作向机器人车队收税。监管与利用率门控 OEM 估值波动。",
+    "application": "特斯拉（TSLA）：观望 FSD 干预趋势与 Robotaxi 城市许可——看多自主须里程验证。Uber（UBER）：观望 AV 合作收入——OEM 硬件商品化则网络房东胜。"
+  },
+  "key_insights": [
+    {
+      "view": "特斯拉梦卖得太薄。",
+      "question": "会后 TSLA 为何跌？",
+      "answer": "孟醒称投资者要部署细节——城市、车队规模、无人指标——只得概念车。keynote 与 SOP 时间表缺口拉宽风险溢价。"
+    },
+    {
+      "view": "Uber 握网络非机器人风险。",
+      "question": "UBER 为何涨？",
+      "answer": "市场将 Uber 作可集成任一 AV 供应商的出行 OS——自主成功抬抽佣而无 Cybercab capex。合作叙事胜持有未证车队。"
+    },
+    {
+      "view": "Robotaxi 是监管加利用率。",
+      "question": "何阻 TSLA 重估？",
+      "answer": "无人 FSD 须过监管并达出租车级利用率——充电、维保与边缘案例。孟醒示警活动营销跑在投资者应跟的干预统计前。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "TSLA",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "特斯拉（TSLA）：孟醒 Robotaxi 复盘——观望 FSD 干预指标与监管路径对活动 hype"
+    },
+    {
+      "ticker": "UBER",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Uber（UBER）：Robotaxi 大会读穿——观望自动驾驶合作收入作轻资产自主期权"
+    }
+  ],
+  "golden_quotes": [
+    "占位一",
+    "占位二",
+    "占位三"
+  ],
+  "chronology": {
+    "subject": "孟醒 · Robotaxi 复盘",
+    "events": [
+      {
+        "date": "2024-10",
+        "event": "特斯拉 Robotaxi/Cybercab 大会"
+      },
+      {
+        "date": "2024-10",
+        "event": "TSLA 跌、UBER 涨的市场解读"
+      },
+      {
+        "date": "2024-10-13",
+        "event": "张小珺与孟醒复盘节目"
+      },
+      {
+        "date": "2024–2025",
+        "event": "FSD v12/v13 里程与干预跟踪"
+      },
+      {
+        "date": "2025+",
+        "event": "城市级 Robotaxi 许可竞赛"
+      },
+      {
+        "date": "2026+",
+        "event": "网络-OEM 合作经济学明朗"
+      }
+    ]
+  }
+}

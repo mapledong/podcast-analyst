@@ -1,0 +1,100 @@
+{
+  "episode_id": "tzs-ep116",
+  "podcast": "投资实战派",
+  "host": "永庆 & 大卫",
+  "metadata": {
+    "episode_number": 116,
+    "title": "如何投资高增长科技股？25年经验的美股分析师投资框架",
+    "guest": "永庆",
+    "guest_role": "投资实战派嘉宾、美股分析师",
+    "date": "2025-05-05",
+    "duration_minutes": 75,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "NVDA",
+    "GOOGL",
+    "科技股",
+    "成长投资"
+  ],
+  "conclusion": "永庆 25 年美股分析师高增长科技股框架——按持久护城河、再投资跑道与估值对叙事峰值建仓。NVDA 与 GOOGL 示范盛宴房东；勿在错价追 agent 套壳。投资者应观望 NVDA 数据中心节奏与 GOOGL AI ARPU，守精选 50 仓位纪律。",
+  "background": "投资实战派第 116 期（2025 年 5 月 5 日）永庆分享资深美股分析师如何投高增长科技——源自 25 年覆盖半导体与互联网。清单：TAM 诚实、毛利结构、管理层资本配置与倍数纪律。以 NVDA AI 周期与 GOOGL 房东论点为 live 例；警示散户无算盘追盛宴叙事。",
+  "important_facts": [
+    "成长框架：永庆排序护城河耐久、再投资 ROI 与入场倍数——数据中心增长与毛利 justify capex boom 时观望 NVDA；非每个 AI 名配 NVDA 倍数。",
+    "房东对 volume：GOOGL 在搜索、云、YouTube 分发 AI——较 pre-revenue agent 公开风险回报更佳。 与 NVDA 配成算力加分发 barbell。",
+    "仓位 sizing：精选 50 纪律——论点完好错价加仓、叙事峰值减仓。高增长科技须明示增长放缓或竞争侵蚀毛利时的卖出规则。"
+  ],
+  "mental_model": {
+    "name": "护城河 × 再投资跑道 × 倍数纪律",
+    "components": "高增长投资要三 yes：持久优势、资本回报、合理价。房东与 infra 盛宴；套壳泡沫。定仓位非嫁故事。",
+    "application": "英伟达（NVDA）：观望数据中心收入与毛利——增长与供给对齐时看多。Alphabet（GOOGL）：观望广告与云上 AI 变现抬升——对投机 agent 的 barbell。"
+  },
+  "key_insights": [
+    {
+      "view": "非每只 AI 股都是 NVDA。",
+      "question": "永庆核心警示？",
+      "answer": "25 年教盛宴叙事高估 mediocrity——对任何高增长名用 NVDA/GOOGL 清单：护城河、再投资、倍数。"
+    },
+    {
+      "view": "GOOGL 是公开 AI barbell 腿。",
+      "question": "为何与 NVDA 并提？",
+      "answer": "NVDA 是算力盛宴；GOOGL 是分发房东——合盖 AI 栈流动性大盘。避免同主题超配重复计。"
+    },
+    {
+      "view": "成长投资要有卖出规则。",
+      "question": "与价值投资何异？",
+      "answer": "永庆在增长放缓或竞争伤毛利时减仓即使故事仍好听——高增长须比白酒复利更快 thesis kill switch。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "英伟达（NVDA）：永庆 25 年成长框架——观望数据中心节奏与毛利守仓位纪律"
+    },
+    {
+      "ticker": "GOOGL",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Alphabet（GOOGL）：高增长科技清单——观望搜索与云 AI ARPU 作公开房东 barbell"
+    }
+  ],
+  "golden_quotes": [
+    "占位一",
+    "占位二",
+    "占位三"
+  ],
+  "chronology": {
+    "subject": "永庆 · 成长科技框架",
+    "events": [
+      {
+        "date": "2000s–2010s",
+        "event": "永庆美股分析师生涯；半导体与互联网覆盖"
+      },
+      {
+        "date": "2023–2024",
+        "event": "AI 盛宴加速；散户 FOMO 升"
+      },
+      {
+        "date": "2025",
+        "event": "精选 50 仓位纪律成型"
+      },
+      {
+        "date": "2025-05-05",
+        "event": "第 116 期框架节目录制"
+      },
+      {
+        "date": "2026+",
+        "event": "AI 增长放缓考验卖出规则"
+      }
+    ]
+  }
+}

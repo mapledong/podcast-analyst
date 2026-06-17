@@ -1,0 +1,99 @@
+{
+  "episode_id": "zj-ep72",
+  "podcast": "Zhang Xiaojun Podcast",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 72,
+    "title": "Steam Engine to Self-Driving 3: Meng Xing on Tesla FSD Evolution",
+    "guest": "Meng Xing",
+    "guest_role": "Autonomous Driving Founder",
+    "date": "2024-08-18",
+    "duration_minutes": 75,
+    "youtube_url": "https://www.youtube.com/watch?v=uTj7nDasNGg",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962",
+      "youtube": "https://www.youtube.com/watch?v=uTj7nDasNGg"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "TSLA",
+    "FSD",
+    "End-to-End",
+    "Autonomous Driving"
+  ],
+  "conclusion": "Meng Xing's Tesla FSD evolution history (Steam Engine to Self-Driving ep.3) traces rule-based stacks through neural networks to end-to-end vision — Tesla called each transition earliest. FSD v12's unified network replaced modular pipelines; data flywheel and custom silicon remain moat. Investors should Watch Tesla (TSLA) on intervention miles and FSD revenue recognition as the industry copies architecture without matching fleet scale.",
+  "background": "Zhang Xiaojun's Aug 18, 2024 episode with Meng Xing continues the autonomy history series — focused on Tesla FSD lineage. Meng walks Occupancy Networks, BEV fusion, shadow mode, and the shift to end-to-end driving policies trained on fleet video. Tesla's willingness to delete hand-engineered modules when neural nets suffice is the recurring lesson; Chinese OEMs now mimic but lag on data volume and iteration speed.",
+  "important_facts": [
+    "Modular to end-to-end: Meng Xing explains Tesla retired perception-planning stacks for single-network FSD v12 — architecture simplification cuts error compounding. TSLA Watch on miles between critical interventions as proof, not release notes.",
+    "Data flywheel mechanics: Fleet shadow mode and auto-labeling convert driving video to training data — competitors lack global miles at Tesla scale. Custom FSD chips follow algorithm hunger; NVDA trains cloud but Tesla optimizes inference.",
+    "History lesson for investors: Each AV era (rules, CNN perception, BEV, end-to-end) Tesla moved first — Meng warns copying slides without data discipline fails. TSLA benchmark sets valuation ceiling for XPEV, LI, and AD suppliers."
+  ],
+  "mental_model": {
+    "name": "Architecture Simplification × Fleet Data × First-Mover Transitions",
+    "components": "End-to-end removes stitch-point failures. Shadow mode turns miles into labels. First correct transition beats incremental patches on dead stacks.",
+    "application": "Tesla (TSLA): Watch FSD v12+ intervention trends and subscription attach — autonomy optionality prices on data scale. Underweight OEMs claiming end-to-end without transparent miles."
+  },
+  "key_insights": [
+    {
+      "view": "FSD v12 deleted the pipeline.",
+      "question": "What changed in Tesla's latest stack?",
+      "answer": "Meng Xing says unified network replaces modular perception-planning handoffs — fewer stitch hallucinations. Industry copycats ship demos; Tesla ships fleet-wide OTA when metrics clear."
+    },
+    {
+      "view": "Shadow mode is the secret factory.",
+      "question": "How does Tesla scale labels?",
+      "answer": "Fleet drives in shadow comparing human versus policy — disagreements become training signal. Data volume moat is harder to clone than open-source model weights."
+    },
+    {
+      "view": "Steam engine to self-driving is transition discipline.",
+      "question": "Why a history series for investors?",
+      "answer": "Each paradigm shift kills sunk-cost incumbents — Meng's arc shows Tesla abandons modules when metrics win. Investors should fund data flywheels, not lidar-map nostalgia."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "TSLA",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Tesla (TSLA): Meng Xing FSD evolution — Watch end-to-end intervention miles and FSD monetization as global AD benchmark"
+    }
+  ],
+  "golden_quotes": [
+    "FSD v12 did not patch the pipeline — it deleted the pipeline.",
+    "Shadow mode turns every customer mile into a labeling factory.",
+    "Tesla wins transitions by abandoning sunk modules when the network is ready."
+  ],
+  "chronology": {
+    "subject": "Meng Xing · Tesla FSD History",
+    "events": [
+      {
+        "date": "2016–2019",
+        "event": "Tesla FSD chip and neural net perception era"
+      },
+      {
+        "date": "2020–2022",
+        "event": "Occupancy Networks and BEV fusion adoption"
+      },
+      {
+        "date": "2023",
+        "event": "FSD v12 end-to-end unified network rollout"
+      },
+      {
+        "date": "2024-08-18",
+        "event": "Steam Engine to Self-Driving ep.3 recorded"
+      },
+      {
+        "date": "2024–2025",
+        "event": "v12/v13 fleet OTA and intervention tracking"
+      },
+      {
+        "date": "2026+",
+        "event": "Unsupervised FSD and Robotaxi economics"
+      }
+    ]
+  }
+}

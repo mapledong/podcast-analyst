@@ -1,0 +1,104 @@
+{
+  "episode_id": "tzs-ep166",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 166,
+    "title": "Consumer & Internet: 25-Year Review and 2026 Outlook",
+    "guest": "Teacher X",
+    "guest_role": "Consumer & Internet Industry Expert",
+    "date": "2026-01-12",
+    "duration_minutes": 97,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "BABA",
+    "PDD",
+    "Consumer Internet",
+    "Review"
+  ],
+  "conclusion": "David and industry expert Teacher X replay 25 years of China consumer internet and 2026 outlook — mobile payment to super-apps to AI-augmented commerce. Alibaba (BABA) fights turnaround and cloud AI; PDD holds efficiency moat with Temu friction. Investors should Watch BABA on core commerce margin and cloud AI, and PDD on domestic take rate versus Temu unit economics.",
+  "background": "Practical Investments ep.166 (Jan 12, 2026) — David dialogues with consumer/internet veteran on quarter-century arc: PC portal, mobile social commerce, livestream, and AI tools reshaping discovery. 2026 outlook: consumption分级, platform regulation stable, and overseas expansion costs. BABA and PDD positioned as two investable poles — asset-heavy turnaround vs efficient attacker.",
+  "important_facts": [
+    "25-year arc: Teacher X maps Alibaba ecosystem maturity versus PDD insurgent efficiency — BABA Watch on GMV stabilization and cloud AI contribution; PDD Watch on wallet share and Temu profitability per market.",
+    "2026 consumption:分级 persists — premium and value platforms coexist; do not treat China consumer internet as single beta. BABA benefits if enterprise and cloud AI monetize; PDD if domestic moat holds while Temu losses cap.",
+    "Investable poles: Alibaba (BABA) — sum-of-parts on commerce plus cloud; Pinduoduo (PDD) — supply-chain flywheel with rising compliance strike on Temu. Avoid binary China internet bet without unit economics."
+  ],
+  "mental_model": {
+    "name": "Platform Era Arc × 2026分级 × Commerce vs Cloud AI",
+    "components": "Consumer internet matured from traffic growth to efficiency wars. 2026 is分级 consumption plus AI tools. BABA is turnaround plus cloud; PDD is attack plus Temu option.",
+    "application": "Alibaba (BABA): Watch commerce EBIT recovery and cloud AI revenue — Long requires visible turnaround metrics. Pinduoduo (PDD): Watch take rate and Temu unit economics — trim if subsidy war erodes domestic moat."
+  },
+  "key_insights": [
+    {
+      "view": "Consumer internet entered efficiency war.",
+      "question": "What changed over 25 years?",
+      "answer": "Teacher X says traffic feast ended — winners optimize supply chain and AI discovery. BABA must prove org turnaround; PDD must prove Temu does not destroy domestic margin."
+    },
+    {
+      "view": "2026 is分级, not collapse.",
+      "question": "How bullish is outlook?",
+      "answer": "Consumption splits premium and value — both BABA and PDD can coexist if thesis matches segment. Investors avoid one-size China internet short or long."
+    },
+    {
+      "view": "AI augments commerce, not replaces platforms.",
+      "question": "Where does AI fit 2026?",
+      "answer": "Discovery, merchant tools, and cloud APIs — BABA cloud AI is re-rating lever; PDD uses AI internally for matching efficiency. Watch monetization, not model press releases."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "BABA",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Alibaba (BABA): 25-year consumer internet review — Watch commerce margin recovery and cloud AI as 2026 turnaround proof"
+    },
+    {
+      "ticker": "PDD",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Pinduoduo (PDD): 2026 outlook — Watch domestic take rate and Temu unit economics versus efficiency moat"
+    }
+  ],
+  "golden_quotes": [
+    "Twenty-five years of consumer internet ended the traffic feast — now it is efficiency and AI.",
+    "2026 China consumption is分级 — premium and value platforms can both win their lane.",
+    "Alibaba must show turnaround numbers; PDD must show Temu is not eating the domestic moat."
+  ],
+  "chronology": {
+    "subject": "David · Consumer Internet 25Y",
+    "events": [
+      {
+        "date": "2000s",
+        "event": "PC portal and early e-commerce era"
+      },
+      {
+        "date": "2010s",
+        "event": "Mobile payment and super-app rise"
+      },
+      {
+        "date": "2020s",
+        "event": "PDD insurgency; BABA regulation and restructuring"
+      },
+      {
+        "date": "2025",
+        "event": "AI commerce tools accelerate"
+      },
+      {
+        "date": "2026-01-12",
+        "event": "Ep.166 review and 2026 outlook recorded"
+      },
+      {
+        "date": "2026+",
+        "event": "BABA turnaround vs PDD Temu tests"
+      }
+    ]
+  }
+}

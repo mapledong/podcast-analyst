@@ -1,0 +1,99 @@
+{
+  "episode_id": "zj-ep72",
+  "podcast": "张小珺商业访谈录",
+  "host": "张小珺",
+  "metadata": {
+    "episode_number": 72,
+    "title": "从蒸汽机到无人驾驶3｜和孟醒聊特斯拉FSD进化史",
+    "guest": "孟醒",
+    "guest_role": "自动驾驶创业者",
+    "date": "2024-08-18",
+    "duration_minutes": 75,
+    "youtube_url": "https://www.youtube.com/watch?v=uTj7nDasNGg",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962",
+      "youtube": "https://www.youtube.com/watch?v=uTj7nDasNGg"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "TSLA",
+    "FSD",
+    "端到端",
+    "自动驾驶"
+  ],
+  "conclusion": "孟醒特斯拉 FSD 进化史（蒸汽机到无人驾驶第 3 集）梳理规则栈经神经网络到端到端视觉——特斯拉每次转型最早喊出。FSD v12 统一网络取代模块化管线；数据飞轮与自研硅仍是护城河。投资者应观望特斯拉（TSLA）干预里程与 FSD 收入确认，行业抄架构难匹车队规模。",
+  "background": "张小珺 2024 年 8 月 18 日与孟醒续自动驾驶史系列——聚焦特斯拉 FSD 脉络。孟醒走过 Occupancy Network、BEV 融合、影子模式与向端端驾驶策略（车队视频训练）转变。特斯拉在神经网络足够时删除手工模块的意愿是反复出现的课；中国 OEM 现模仿但数据量与迭代速度落后。",
+  "important_facts": [
+    "模块化到端到端：孟醒解释特斯拉以单一网络 FSD v12 退役感知-规划栈——架构简化降错误复合。TSLA 观望关键干预间里程为证非 release note。",
+    "数据飞轮机制：车队影子模式与自动标注将驾驶视频转训练数据——对手缺特斯拉规模全球里程。自研 FSD 芯片跟随算法饥渴；英伟达训云但特斯拉优化推理。",
+    "投资者历史课：每代 AV（规则、CNN 感知、BEV、端到端）特斯拉最先动——孟醒示警抄幻灯片无数据纪律则败。TSLA 基准定 XPEV、LI 与智驾供应商估值天花板。"
+  ],
+  "mental_model": {
+    "name": "架构简化 × 车队数据 × 转型先发",
+    "components": "端到端去除拼接点失败。影子模式把里程变标签。最先正确转型胜死栈上 incremental 补丁。",
+    "application": "特斯拉（TSLA）：观望 FSD v12+ 干预趋势与订阅 attach——自主期权按数据规模定价。宣称端到端却无透明里程的 OEM 低配。"
+  },
+  "key_insights": [
+    {
+      "view": "FSD v12 删除管线。",
+      "question": "特斯拉最新栈何变？",
+      "answer": "孟醒称统一网络取代模块化感知-规划交接——少拼接幻觉。行业抄袭者交 demo；特斯拉指标清则车队 OTA。"
+    },
+    {
+      "view": "影子模式是秘密工厂。",
+      "question": "特斯拉如何规模化标注？",
+      "answer": "车队影子驾驶比较人与策略——分歧变训练信号。数据量护城河比开源权重难克隆。"
+    },
+    {
+      "view": "蒸汽机到自驾是转型纪律。",
+      "question": "为何给投资者讲历史系列？",
+      "answer": "每次范式转换杀死沉没成本 incumbent——孟醒弧显示特斯拉指标赢则弃模块。投资者应资助数据飞轮非激光雷达地图怀旧。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "TSLA",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "特斯拉（TSLA）：孟醒 FSD 进化——观望端到端干预里程与 FSD 变现作全球智驾基准"
+    }
+  ],
+  "golden_quotes": [
+    "占位一",
+    "占位二",
+    "占位三"
+  ],
+  "chronology": {
+    "subject": "孟醒 · 特斯拉 FSD 史",
+    "events": [
+      {
+        "date": "2016–2019",
+        "event": "特斯拉 FSD 芯片与神经网络感知时代"
+      },
+      {
+        "date": "2020–2022",
+        "event": "Occupancy Network 与 BEV 融合采纳"
+      },
+      {
+        "date": "2023",
+        "event": "FSD v12 端到端统一网络 rollout"
+      },
+      {
+        "date": "2024-08-18",
+        "event": "蒸汽机到无人驾驶第 3 集录制"
+      },
+      {
+        "date": "2024–2025",
+        "event": "v12/v13 车队 OTA 与干预跟踪"
+      },
+      {
+        "date": "2026+",
+        "event": "无人 FSD 与 Robotaxi 经济学"
+      }
+    ]
+  }
+}

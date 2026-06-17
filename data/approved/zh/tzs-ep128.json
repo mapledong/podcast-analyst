@@ -1,0 +1,100 @@
+{
+  "episode_id": "tzs-ep128",
+  "podcast": "投资实战派",
+  "host": "永庆 & 大卫",
+  "metadata": {
+    "episode_number": 128,
+    "title": "从算力战争到国产替代：智驾芯片的下一个爆点与坑点｜对话王康、罗慧超",
+    "guest": "王康、罗慧超",
+    "guest_role": "智驾芯片产业专家",
+    "date": "2025-06-22",
+    "duration_minutes": 105,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "NVDA",
+    "9660.HK",
+    "智驾芯片",
+    "国产替代"
+  ],
+  "conclusion": "智驾芯片专家王康、罗慧超将算力战争映射国产替代——英伟达（NVDA）领训练与高端行车；地平线（9660.HK）等以成本与合规争中国 OEM 设计赢单。爆点：端到端智驾上车；坑点：商品化与出口管制。投资者应观望 NVDA 汽车/数据中心 mix 与地平线（9660.HK）OEM 搭载对国产政策顺风。",
+  "background": "投资实战派第 128 期（2025 年 6 月 22 日）与智驾芯片产业专家谈英伟达主导、地平线中国 OEM 路径与国产替代政治。框架：训练云对边缘推理、功能安全认证与 OEM 双源策略。节目帮投资者分离智驾硅 hype 与设计赢单收入。",
+  "important_facts": [
+    "算力战争分层：NVDA 胜云训练与 premium Orin 级行车；地平线（9660.HK）以中国 OEM 量、本地化支持与价格竞争——观望设计赢单管线与 SOP 时点。",
+    "爆点对坑点：端到端智驾抬单车芯片含量——爆点。坑点是 OEM 双源迫 ASP 侵蚀或政策捧不成熟硅——质量召回摧毁 9660.HK 论点。",
+    "出口管制叠加：NVDA 中国收入受限制风险；国产芯片享政策顺风但须证百万辆质量——投资者平衡 NVDA 全球 AI 盛宴与 9660.HK 替代期权。"
+  ],
+  "mental_model": {
+    "name": "训练对边缘 × OEM 设计赢单 × 替代政策",
+    "components": "NVDA 向训练与 premium 汽车收税。国产边缘芯片以 OEM 双源与合规胜。政策加速替代非质量。",
+    "application": "英伟达（NVDA）：观望数据中心与汽车收入——全球智驾算力房东。地平线（9660.HK）：观望中国 OEM 搭载与毛利——仅规模化质量验证时看多替代。"
+  },
+  "key_insights": [
+    {
+      "view": "下一爆点是边缘智驾硅含量。",
+      "question": "芯片 TAM 增长在哪？",
+      "answer": "专家称端到端驾驶抬每车 TOPS——智驾落地则 NVDA 与 9660.HK 皆受益；差异在 OEM 地域份额。"
+    },
+    {
+      "view": "坑点是未达标国产赢单。",
+      "question": "何杀死 9660.HK 论点？",
+      "answer": "政策推而无规模化功能安全——召回或 OEM 核销抹去设计赢单。王康罗慧超强调认证年数非通稿。"
+    },
+    {
+      "view": "OEM 天生双源。",
+      "question": "NVDA 能否垄断车端边缘？",
+      "answer": "OEM 惧单一供应商——即使 NVDA 性能领先 9660.HK 占双源槽位。投资者跟双供下 ASP 趋势。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "英伟达（NVDA）：智驾芯片算力战——观望训练与 premium 汽车硅随端到端智驾 scale"
+    },
+    {
+      "ticker": "9660.HK",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "地平线（9660.HK）：国产智驾芯片替代——观望 OEM 设计赢单与规模化质量对政策 hype"
+    }
+  ],
+  "golden_quotes": [
+    "占位一",
+    "占位二",
+    "占位三"
+  ],
+  "chronology": {
+    "subject": "王康、罗慧超 · 智驾芯片",
+    "events": [
+      {
+        "date": "2020–2023",
+        "event": "中国智驾芯片国产化政策加速"
+      },
+      {
+        "date": "2024",
+        "event": "端到端智驾抬 OEM 硅含量"
+      },
+      {
+        "date": "2025",
+        "event": "NVDA 出口管制重塑中国供给"
+      },
+      {
+        "date": "2025-06-22",
+        "event": "第 128 期专家对话录制"
+      },
+      {
+        "date": "2026+",
+        "event": "OEM SOP 奖项明朗爆点与坑点"
+      }
+    ]
+  }
+}

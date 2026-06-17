@@ -1,0 +1,99 @@
+{
+  "episode_id": "zj-ep87",
+  "podcast": "Zhang Xiaojun Podcast",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 87,
+    "title": "3-Hour Podcast Cut with Li Xiang: Otaku, AI, Family, Games and Ladder",
+    "guest": "Li Xiang",
+    "guest_role": "Li Auto Founder & CEO",
+    "date": "2025-01-02",
+    "duration_minutes": 180,
+    "youtube_url": "https://www.youtube.com/watch?v=mbiPeZnmz9A",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962",
+      "youtube": "https://www.youtube.com/watch?v=mbiPeZnmz9A"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "LI",
+    "AI",
+    "MEGA",
+    "Agent OS"
+  ],
+  "conclusion": "Li Xiang's podcast cut (Jan 2025) reveals the otaku-founder lens on AI, MEGA's painful lesson, family as entropy reduction, and games as training for product ladders. Li Auto bets Agent OS and domain models over universal agents; MEGA BEV stumble tests second-act execution. Investors should Watch Li Auto (LI) on AI productization and BEV recovery after MEGA reset — founder clarity remains moat until price war erodes margin.",
+  "background": "Zhang Xiaojun's three-hour podcast edition with Li Xiang (Jan 2, 2025) differs from the video AI Talk — more personal: otaku youth, game ladder metaphors, family philosophy, and candid MEGA postmortem. Li links gaming rank grind to product iteration discipline and argues AI must become production tools users pay for. MEGA launch taught hubris on timing and positioning; Li doubles down on focused SKUs plus software. Episode humanizes the LI thesis: execution premium with visible failure modes.",
+  "important_facts": [
+    "Otaku to CEO ladder: Li Xiang maps game ranking systems to product tiers — patience and feedback loops from gaming inform Li Auto SKU strategy. AI section previews Agent OS thesis: orchestration over god-model; cars need domain VLA not generic chat.",
+    "MEGA lesson: Pure-electric flagship miss on positioning and timing — Li admits overreach; investors should Watch LI BEV pipeline recovery without assuming every SKU hits. Failure sharpens capital discipline Li credits for L-series success.",
+    "Family and AI philosophy: Li frames family as entropy reduction for founders — long horizon decisions versus quarterly panic. Li Auto (LI) Watch ties to whether AI spend converts to paid production tools and AD transparency, not demo copilots alone."
+  ],
+  "mental_model": {
+    "name": "Game Ladder Discipline × MEGA Reset × Production-Tool AI",
+    "components": "Founder psychology shapes product cadence. Painful SKU miss is data, not doom, if learning compounds. AI wins on paid action, not chat novelty.",
+    "application": "Li Auto (LI): Watch post-MEGA BEV orders and Agent OS monetization signals — Long requires second-hit product plus software attach. Trim if AI spend lacks revenue path while ASP collapses."
+  },
+  "key_insights": [
+    {
+      "view": "Games train product ladder thinking.",
+      "question": "Why does Li lean on gaming metaphors?",
+      "answer": "Ranked progression teaches iteration under feedback — Li applies to vehicle tiers and AI roadmap. Investors reading LI should track SKU hit rate and learning speed after MEGA, not founder charisma alone."
+    },
+    {
+      "view": "MEGA was necessary failure.",
+      "question": "How should markets price the MEGA miss?",
+      "answer": "Li Xiang treats MEGA as timing and positioning error, not strategic retreat from BEV — Watch whether next BEV SKUs show repositioning. Coward would abandon electric; hero adjusts ladder."
+    },
+    {
+      "view": "AI must be production tool.",
+      "question": "What AI thesis repeats from full AI Talk?",
+      "answer": "Information and assistive AI do not cut work hours — production tools with payment prove value. LI investment case needs software revenue mix, aligning with Li's Agent OS and VLA bets."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "LI",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Li Auto (LI): Li Xiang podcast cut — Watch MEGA reset, BEV second act, and Agent OS monetization as execution proof"
+    }
+  ],
+  "golden_quotes": [
+    "Product iteration is like climbing a game ladder — you cannot skip ranks without paying tuition.",
+    "MEGA taught us humility on timing; the BEV war is still the second war we must win.",
+    "AI becomes real when users pay for completed work, not when demos go viral."
+  ],
+  "chronology": {
+    "subject": "Li Xiang · Podcast Cut",
+    "events": [
+      {
+        "date": "2024",
+        "event": "MEGA launch and market reception debate"
+      },
+      {
+        "date": "2025-01",
+        "event": "Post-DeepSeek AI strategy acceleration"
+      },
+      {
+        "date": "2025-01-02",
+        "event": "Three-hour podcast cut published"
+      },
+      {
+        "date": "2025",
+        "event": "Agent OS and VLA roadmap refinement"
+      },
+      {
+        "date": "2025–2026",
+        "event": "BEV SKU repositioning after MEGA"
+      },
+      {
+        "date": "2026+",
+        "event": "Production-tool AI monetization tests"
+      }
+    ]
+  }
+}

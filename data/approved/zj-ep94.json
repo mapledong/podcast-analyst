@@ -1,0 +1,99 @@
+{
+  "episode_id": "zj-ep94",
+  "podcast": "Zhang Xiaojun Podcast",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 94,
+    "title": "DeepSeek, Kimi, MiniMax Attention Papers: Hardware Brute-Force Aesthetics",
+    "guest": "Guangmi",
+    "guest_role": "AI Researcher, LLM Quarterly Host",
+    "date": "2025-03-02",
+    "duration_minutes": 90,
+    "youtube_url": "https://www.youtube.com/watch?v=42CveqxzU5M",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962",
+      "youtube": "https://www.youtube.com/watch?v=42CveqxzU5M"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "NVDA",
+    "DeepSeek",
+    "Kimi",
+    "MiniMax"
+  ],
+  "conclusion": "Guangmi's paper walkthrough of DeepSeek, Kimi, and MiniMax attention innovations frames Chinese labs as hardware brute-force aesthetes — MLA, sparse attention, and MoE routing squeeze more tokens per watt on NVIDIA (NVDA) clusters. Efficiency gains compress inference cost curves but raise GPU demand for training scale. Investors should Watch NVDA on China cluster buildout and lab efficiency races as open-weight models pressure hyperscaler margins.",
+  "background": "Zhang Xiaojun's Mar 2, 2025 episode with Guangmi (AI researcher, LLM quarterly host) line-by-lines new attention papers from DeepSeek, Moonshot Kimi, and MiniMax. Theme: 'brute-force aesthetics on hardware' — algorithm co-designed for H100/H800 memory bandwidth and MFU. Guangmi explains Multi-head Latent Attention, lightning attention variants, and why Chinese labs publish engineering breakthroughs Western labs hide in infra.",
+  "important_facts": [
+    "Attention engineering wave: DeepSeek V3/R1 MLA reduces KV cache memory — more context per GPU; Kimi and MiniMax push sparse and linear attention hybrids. NVDA benefits from training scale even when inference per token falls — Jevons paradox on compute.",
+    "Open-weight pressure: Chinese labs release papers and weights — commoditizes base model rent for GOOGL/META while spurring hardware demand. Guangmi says prettiest algorithms are cleanest — investors track MFU and $/token, not parameter bragging.",
+    "Investable NVDA: China lab capex cycles tie to attention breakthroughs — clusters upgrade when new arch ships. Watch NVDA data center revenue from Chinese hyperscaler and startup training; risk is export controls cap H800 supply."
+  ],
+  "mental_model": {
+    "name": "Attention MFU × Open-Weight Commoditization × Jevons Compute",
+    "components": "Efficiency lowers $/token but raises total tokens served. Chinese labs co-design for NVIDIA memory topology. Open weights compress model rent, expand hardware feast.",
+    "application": "NVIDIA (NVDA): Watch China training cluster demand post-DeepSeek/Kimi papers — efficiency gains increase aggregate compute. Underweight if export policy permanently caps China MFU growth."
+  },
+  "key_insights": [
+    {
+      "view": "Brute-force aesthetics means hardware co-design.",
+      "question": "What is Guangmi's thesis on Chinese papers?",
+      "answer": "DeepSeek MLA and peers optimize for real cluster topology — memory bandwidth and MFU, not academic novelty alone. Investors should read papers as capex signals for GPU generations."
+    },
+    {
+      "view": "Clean algorithms win economically.",
+      "question": "Why praise 'prettiest and cleanest' math?",
+      "answer": "Simpler attention variants deploy faster and debug easier — lowers engineering drag per flop. Labs that ship clean arch plus open weights force Western incumbents to match efficiency or burn margin."
+    },
+    {
+      "view": "Efficiency can increase GPU demand.",
+      "question": "Does MLA hurt NVDA?",
+      "answer": "Guangmi implies Jevons effect — cheaper inference spawns more agents and longer context, training races continue. NVDA wins on aggregate tokens times training frontier, not per-token rent alone."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "NVIDIA (NVDA): Guangmi DeepSeek/Kimi/MiniMax attention papers — Watch China cluster demand as efficiency races expand aggregate compute"
+    }
+  ],
+  "golden_quotes": [
+    "The prettiest attention algorithms are the cleanest — and the cleanest are built for real GPU memory.",
+    "Chinese labs practice brute-force aesthetics: co-design math with H100 topology.",
+    "Efficiency does not kill GPU demand — it feeds more tokens and more agents."
+  ],
+  "chronology": {
+    "subject": "Guangmi · Attention Papers",
+    "events": [
+      {
+        "date": "2024",
+        "event": "DeepSeek V2/V3 MLA attention breakthroughs"
+      },
+      {
+        "date": "2025-01",
+        "event": "Kimi K1.5 and reasoning model attention variants"
+      },
+      {
+        "date": "2025-02",
+        "event": "MiniMax and peer sparse attention papers"
+      },
+      {
+        "date": "2025-03-02",
+        "event": "Guangmi paper walkthrough recorded"
+      },
+      {
+        "date": "2025",
+        "event": "China lab cluster upgrades on new arch"
+      },
+      {
+        "date": "2026+",
+        "event": "Inference cost curves and agent token demand"
+      }
+    ]
+  }
+}

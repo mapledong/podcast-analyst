@@ -42,6 +42,11 @@ aliases:
   moutai: 600519.SZ
   贵州茅台: 600519.SZ
   kweichow moutai: 600519.SZ
+  东鹏饮料: 605499.SH
+  老铺黄金: 6181.HK
+  农夫山泉: 9633.HK
+  美的: 000333.SZ
+  安踏: 2020.HK
   broadcom: AVGO
   coinbase: COIN
   doordash: DASH
@@ -131,3 +136,18 @@ china_listings:
   1211.HK:
     zh: 比亚迪
     en: BYD
+  6181.HK:
+    zh: 老铺黄金
+    en: Laopu Gold
+  605499.SH:
+    zh: 东鹏饮料
+    en: Eastroc Beverage
+  9633.HK:
+    zh: 农夫山泉
+    en: Nongfu Spring
+  2020.HK:
+    zh: 安踏体育
+    en: Anta Sports
+  000333.SZ:
+    zh: 美的集团
+    en: Midea Group

@@ -1,0 +1,105 @@
+{
+  "episode_id": "zj-ep75",
+  "podcast": "Zhang Xiaojun Podcast",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 75,
+    "title": "Wu Yi on OpenAI o1: The Second Gold Mine",
+    "guest": "Wu Yi",
+    "guest_role": "Former OpenAI Researcher, Tsinghua Assistant Professor",
+    "date": "2024-09-22",
+    "duration_minutes": 68,
+    "youtube_url": "https://www.youtube.com/watch?v=8fDHQAVWInI",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962",
+      "youtube": "https://www.youtube.com/watch?v=8fDHQAVWInI"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "GOOGL",
+    "Private:OpenAI",
+    "o1",
+    "Reasoning"
+  ],
+  "conclusion": "Wu Yi's o1 decode calls test-time compute the second gold mine — after pretrain scaling, RL on reasoning chains monetizes at inference. o1 preview shifts AI economics toward paid thinking tokens; GOOGL must match on Gemini while Private:OpenAI owns first-mover pricing. Investors should Watch GOOGL on reasoning tier ARPU and Private:OpenAI on o1/o3 cadence as capability benchmark.",
+  "background": "Zhang Xiaojun's Sep 22, 2024 interview with Wu Yi (former OpenAI researcher) explains OpenAI o1 — chain-of-thought RL, hidden reasoning tokens, and safety implications. Wu frames o1 as trumpet for mining inference-time compute: users and enterprises pay for longer internal deliberation. Episode predates R1 open weights but establishes investor lens for reasoning race GOOGL and Chinese labs now join.",
+  "important_facts": [
+    "Second gold mine: Wu Yi argues pretrain scaling returns diminish — o1 RL on reasoning opens new revenue vein via test-time flops. Private:OpenAI captures premium; GOOGL and peers must productize or lose API spread.",
+    "Hidden CoT economics: o1 hides deliberation tokens — pricing power if tasks complete reliably. Investors track willingness-to-pay for coding, science, and planning versus flat chat subscriptions.",
+    "GOOGL response Watch: Gemini reasoning modes and Search integration are public-market exposure — margin tradeoff between free search and paid deep think. Underweight chat-only wrappers as o1-class models commoditize mid-tier."
+  ],
+  "mental_model": {
+    "name": "Test-Time Gold Mine × Hidden CoT Pricing × Reasoning ARPU",
+    "components": "Pretrain feast matures; inference thinking is next vein. Hidden CoT enables premium tiers. Landlords bundle or lose spread to open R1.",
+    "application": "Alphabet (GOOGL): Watch Gemini reasoning SKUs and enterprise pricing — defend ARPU as o1/R1 commoditize. Private:OpenAI: Watch o-series cadence as private reasoning benchmark public cannot fully access."
+  },
+  "key_insights": [
+    {
+      "view": "o1 sounds the second gold mine horn.",
+      "question": "What does Wu mean by second gold mine?",
+      "answer": "After scaling laws on pretrain, RL improving reasoning at inference creates new economic layer — customers pay for thinking time, not just weights. This reframes capex from training-only to train-plus-infer."
+    },
+    {
+      "view": "Hidden reasoning is pricing feature.",
+      "question": "Why hide chain-of-thought?",
+      "answer": "Wu Yi notes safety and competition — but economically it enables metered deliberation. Investors should model reasoning tokens as ARPU driver, not cost center only."
+    },
+    {
+      "view": "GOOGL must productize deep think.",
+      "question": "Where do public investors participate?",
+      "answer": "Gemini reasoning in Cloud, Workspace, and Search AI Overviews — GOOGL bundles into existing landlord ARPU. Failure mode is free search giving away o1-class capability."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "GOOGL",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Alphabet (GOOGL): Wu Yi o1 second gold mine — Watch Gemini reasoning ARPU as test-time compute monetizes"
+    },
+    {
+      "ticker": "Private:OpenAI",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Private:OpenAI: o1 reasoning economics — Watch o-series cadence and pricing as private benchmark"
+    }
+  ],
+  "golden_quotes": [
+    "o1 is the trumpet sounding the second gold mine — test-time compute, not just bigger pretrain.",
+    "Users will pay for hidden thinking when the answer reliably ships hard work.",
+    "Every cloud landlord including Google must productize deep reasoning or lose API spread."
+  ],
+  "chronology": {
+    "subject": "Wu Yi · OpenAI o1",
+    "events": [
+      {
+        "date": "2024",
+        "event": "OpenAI internal reasoning RL research matures"
+      },
+      {
+        "date": "2024-09",
+        "event": "o1 preview launch"
+      },
+      {
+        "date": "2024-09-22",
+        "event": "Wu Yi o1 decode with Zhang Xiaojun"
+      },
+      {
+        "date": "2025-01",
+        "event": "DeepSeek-R1 open-weights reasoning wave"
+      },
+      {
+        "date": "2025–2026",
+        "event": "GOOGL Gemini reasoning tiers"
+      },
+      {
+        "date": "2026+",
+        "event": "Reasoning ARPU versus commoditization"
+      }
+    ]
+  }
+}

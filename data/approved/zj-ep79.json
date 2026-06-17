@@ -1,0 +1,105 @@
+{
+  "episode_id": "zj-ep79",
+  "podcast": "Zhang Xiaojun Podcast",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 79,
+    "title": "Tesla Stock Fell, Uber Rose? Robotaxi Event Debrief with Meng Xing",
+    "guest": "Meng Xing",
+    "guest_role": "Autonomous Driving Founder, Tech Podcast Host",
+    "date": "2024-10-13",
+    "duration_minutes": 59,
+    "youtube_url": "https://www.youtube.com/watch?v=_nqR-T5tl-M",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962",
+      "youtube": "https://www.youtube.com/watch?v=_nqR-T5tl-M"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "TSLA",
+    "UBER",
+    "Robotaxi",
+    "FSD"
+  ],
+  "conclusion": "Meng Xing's Robotaxi event debrief explains why Tesla (TSLA) fell while Uber (UBER) rose — markets priced execution risk on autonomy while rewarding near-term mobility network optionality. Cybercab timeline, regulatory gaps, and fleet economics dominate; Uber benefits as partner narrative without capex burden. Investors should Watch TSLA on FSD miles and Robotaxi regulatory path, and UBER on autonomous partnership revenue mix.",
+  "background": "Zhang Xiaojun and Meng Xing (autonomous driving founder, podcast host) dissect Tesla's Oct 2024 Robotaxi event (Oct 13, 2024 episode). Meng contrasts market reaction: TSLA sold on vague timelines and missing details; UBER rallied on partnership subtext and asset-light exposure to autonomy upside. Episode covers Cybercab design, unsupervised FSD claims, charging infrastructure, and why network operators may capture value before OEMs prove robot fleets.",
+  "important_facts": [
+    "Market split: Meng Xing notes TSLA drop reflected disappointment on concrete Robotaxi deployment — dates, geography, and unit economics thin. UBER rise framed as autonomy optionality without owning fleet capex — partnership lens wins when Tesla proof lags.",
+    "Robotaxi economics: Unsupervised FSD is necessary but insufficient — fleet utilization, regulation, and remote assist costs determine ROI. Tesla (TSLA) must show miles between intervention trending down; Uber (UBER) benefits if multiple OEMs compete for network access.",
+    "Investable Watch: TSLA — regulatory approvals and FSD subscription or per-mile monetization; UBER — autonomous trip mix and take-rate on partner fleets. Underweight TSLA Robotaxi premium without intervention metrics; overweight UBER only if partnership revenue materializes."
+  ],
+  "mental_model": {
+    "name": "Execution Gap × Network Optionality × Fleet Capex",
+    "components": "Autonomy hype prices before deployment proof. Asset-light networks tax robot fleets via partnerships. Regulatory and utilization gates dominate OEM valuation swings.",
+    "application": "Tesla (TSLA): Watch FSD intervention trends and Robotaxi city permits — Long autonomy thesis needs miles proof. Uber (UBER): Watch AV partnership revenue — network landlord if OEMs commoditize hardware."
+  },
+  "key_insights": [
+    {
+      "view": "Tesla sold the dream too thin.",
+      "question": "Why did TSLA fall post-event?",
+      "answer": "Meng Xing says investors wanted deployment specifics — cities, fleet size, unsupervised metrics — and got concept cars. Gap between keynote and SOP timeline widened risk premium."
+    },
+    {
+      "view": "Uber owns network, not robot risk.",
+      "question": "Why did UBER rise?",
+      "answer": "Markets treat Uber as mobility OS that can integrate any AV supplier — autonomy success lifts take rate without Cybercab capex. Partnership narrative beats owning unproven fleet."
+    },
+    {
+      "view": "Robotaxi is regulation plus utilization.",
+      "question": "What blocks TSLA re-rating?",
+      "answer": "Unsupervised FSD must clear regulators and achieve taxi-grade utilization — charging, maintenance, and edge cases. Meng warns event marketing runs ahead of intervention statistics investors should track."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "TSLA",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Tesla (TSLA): Meng Xing Robotaxi debrief — Watch FSD intervention metrics and regulatory path versus event hype"
+    },
+    {
+      "ticker": "UBER",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Uber (UBER): Robotaxi event read-through — Watch autonomous partnership revenue as asset-light autonomy optionality"
+    }
+  ],
+  "golden_quotes": [
+    "Tesla sold the Robotaxi dream; the market wanted deployment spreadsheets.",
+    "Uber rises when autonomy is optionality on the network, not capex on the balance sheet.",
+    "Unsupervised FSD is the ticket — utilization and regulation are the show."
+  ],
+  "chronology": {
+    "subject": "Meng Xing · Robotaxi Debrief",
+    "events": [
+      {
+        "date": "2024-10",
+        "event": "Tesla Robotaxi / Cybercab event"
+      },
+      {
+        "date": "2024-10",
+        "event": "TSLA falls, UBER rises on market read"
+      },
+      {
+        "date": "2024-10-13",
+        "event": "Zhang Xiaojun debrief with Meng Xing"
+      },
+      {
+        "date": "2024–2025",
+        "event": "FSD v12/v13 miles and intervention tracking"
+      },
+      {
+        "date": "2025+",
+        "event": "City-level Robotaxi permit race"
+      },
+      {
+        "date": "2026+",
+        "event": "Network-OEM partnership economics clarify"
+      }
+    ]
+  }
+}

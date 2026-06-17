@@ -1897,6 +1897,16 @@ episodes:
   duration_minutes: 141
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep166
+  episode_number: 166
+  title: 'Consumer & Internet: 25-Year Review and 2026 Outlook'
+  guest: Teacher X
+  guest_role: Consumer & Internet Industry Expert
+  date: '2026-01-12'
+  duration_minutes: 97
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-stratechery-with-ben-thompson
   episode_number: 165
   title: Stratechery (with Ben Thompson)
@@ -1906,6 +1916,16 @@ episodes:
   duration_minutes: 115
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep165
+  episode_number: 165
+  title: 'Consumer Investing: Baijiu & Snacks — User Value and Channel Revolution'
+  guest: Ma Zheng
+  guest_role: Consumer Investment Expert
+  date: '2026-01-04'
+  duration_minutes: 85
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-enron
   episode_number: 164
   title: Enron
@@ -2036,6 +2056,16 @@ episodes:
   duration_minutes: 66
   youtube_url: ''
   podcast: Business Breakdowns
+- id: tzs-ep155
+  episode_number: 155
+  title: 'Investment Insights Behind Dining: Xibei, Haidilao, Mixue, Moutai…'
+  guest: David
+  guest_role: Practical Investments Host
+  date: '2025-11-02'
+  duration_minutes: 99
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-the-playbook-lessons-from-200-company-stories
   episode_number: 154
   title: 'The Playbook: Lessons from 200+ Company Stories'
@@ -2315,6 +2345,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=bv8ghyTFF9w
   podcast: Zhang Xiaojun Podcast
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
+- id: tzs-ep137
+  episode_number: 137
+  title: Channel Secrets Behind Nongfu, Midea & Anta | Wen Yongsheng
+  guest: Wen Yongsheng
+  guest_role: Consumer Distribution Expert
+  date: '2025-07-24'
+  duration_minutes: 104
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-complexity-investing-semiconductors-with-nzs-capital
   episode_number: 136
   title: Complexity Investing & Semiconductors (with NZS Capital)
@@ -2364,6 +2404,16 @@ episodes:
   duration_minutes: 134
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep133
+  episode_number: 133
+  title: 'Eastroc Beverage: Counter-Cyclical Growth — What''s Different?'
+  guest: David
+  guest_role: Practical Investments Host
+  date: '2025-07-10'
+  duration_minutes: 88
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-tsmc
   episode_number: 132
   title: TSMC
@@ -2400,6 +2450,16 @@ episodes:
   duration_minutes: 175
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep130
+  episode_number: 130
+  title: '24 Years All-In on Moutai: A Life in Kweichow Moutai | Zhang Yaqun'
+  guest: Zhang Yaqun
+  guest_role: Moutai Distributor, 24-Year Industry Veteran
+  date: '2025-06-29'
+  duration_minutes: 56
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-andreessen-horowitz-part-i
   episode_number: 129
   title: Andreessen Horowitz Part I
@@ -2418,6 +2478,16 @@ episodes:
   duration_minutes: 74
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep128
+  episode_number: 128
+  title: 'Compute War to Domestic Chips: AD Chip Booms and Traps'
+  guest: Wang Kang, Luo Huichao
+  guest_role: Autonomous Driving Chip Industry Experts
+  date: '2025-06-22'
+  duration_minutes: 105
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-ethereum
   episode_number: 127
   title: Ethereum
@@ -2427,6 +2497,16 @@ episodes:
   duration_minutes: 184
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep127
+  episode_number: 127
+  title: 'Laopu Gold: Heritage Craft Premium or IQ Tax? | New Consumer Chat'
+  guest: Yang Yuqi, Ye Zi, Xiao Ou
+  guest_role: Consumer Investors & Consumer Guests
+  date: '2025-06-15'
+  duration_minutes: 119
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-special-ho-nam-from-altos-ventures-a-different-approach-to-vc
   episode_number: 126
   title: Ho Nam from Altos Ventures — A Different Approach to VC
@@ -2466,6 +2546,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=k82iFzvKFCQ
   podcast: Zhang Xiaojun Podcast
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
+- id: tzs-ep125
+  episode_number: 125
+  title: 'Pop Mart: Beautiful Bubble or Plastic Moutai? | New Consumer Series'
+  guest: David
+  guest_role: Practical Investments Host
+  date: '2025-06-05'
+  duration_minutes: 108
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-special-amazon-unbound-with-brad-stone
   episode_number: 124
   title: 'Special: Amazon Unbound (with Brad Stone)'
@@ -2590,6 +2680,16 @@ episodes:
   duration_minutes: 57
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep116
+  episode_number: 116
+  title: 'How to Invest in High-Growth Tech: 25-Year US Equity Analyst Framework'
+  guest: Yongqing
+  guest_role: Practical Investments Guest, US Equity Analyst
+  date: '2025-05-05'
+  duration_minutes: 75
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
 - id: acq-bitcoin
   episode_number: 115
   title: Bitcoin
@@ -2609,6 +2709,17 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=4TMveqX62rA
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: zj-ep115
+  episode_number: 115
+  title: '3-Hour Interview with Yao Shunyu (OpenAI): Six Years of Agent Research,
+    Humans & Systems'
+  guest: Yao Shunyu
+  guest_role: OpenAI Researcher (at time of interview)
+  date: '2025-04-19'
+  duration_minutes: 180
+  youtube_url: https://www.youtube.com/watch?v=gQgKkUsx5q0
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-special-acquired-x-indie-hackers
   episode_number: 114
   title: Acquired x Indie Hackers
@@ -2888,6 +2999,16 @@ episodes:
   duration_minutes: 43
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep94
+  episode_number: 94
+  title: 'DeepSeek, Kimi, MiniMax Attention Papers: Hardware Brute-Force Aesthetics'
+  guest: Guangmi
+  guest_role: AI Researcher, LLM Quarterly Host
+  date: '2025-03-02'
+  duration_minutes: 90
+  youtube_url: https://www.youtube.com/watch?v=42CveqxzU5M
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-episode-1-pixar
   episode_number: 93
   title: 'Adapting Episode 1: Canlis'
@@ -2897,6 +3018,16 @@ episodes:
   duration_minutes: 49
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep93
+  episode_number: 93
+  title: 'Zhang Qianchuan on Leaving ByteDance & MiniMax: AGI Threat Warning'
+  guest: Zhang Qianchuan
+  guest_role: Former ByteDance Toutiao Product Head, Former MiniMax Product Head
+  date: '2025-02-20'
+  duration_minutes: 127
+  youtube_url: https://www.youtube.com/watch?v=hBEOntt_pxM
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-canlis
   episode_number: 92
   title: 'Adapting Episode 1: Canlis'
@@ -2933,6 +3064,16 @@ episodes:
   duration_minutes: 86
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep89
+  episode_number: 89
+  title: 'DeepSeek-R1, Kimi K1.5, OpenAI o1 Reports: Cleanest Algorithms'
+  guest: Guangmi
+  guest_role: AI Researcher
+  date: '2025-01-26'
+  duration_minutes: 85
+  youtube_url: https://www.youtube.com/watch?v=0AImqp6KznY
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-convoy-with-ceo-dan-lewis
   episode_number: 88
   title: Convoy (with CEO Dan Lewis)
@@ -2942,6 +3083,16 @@ episodes:
   duration_minutes: 101
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep88
+  episode_number: 88
+  title: 'Wu Yi on OpenAI Operator: Reasoning Enters the Physical World'
+  guest: Wu Yi
+  guest_role: Former OpenAI Researcher, Tsinghua Assistant Professor
+  date: '2025-01-19'
+  duration_minutes: 72
+  youtube_url: https://www.youtube.com/watch?v=usv9yyA0bs0
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-tiktok
   episode_number: 87
   title: TikTok
@@ -2951,6 +3102,16 @@ episodes:
   duration_minutes: 102
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep87
+  episode_number: 87
+  title: '3-Hour Podcast Cut with Li Xiang: Otaku, AI, Family, Games and Ladder'
+  guest: Li Xiang
+  guest_role: Li Auto Founder & CEO
+  date: '2025-01-02'
+  duration_minutes: 180
+  youtube_url: https://www.youtube.com/watch?v=mbiPeZnmz9A
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-disney-plus
   episode_number: 86
   title: Disney, Plus
@@ -3042,6 +3203,16 @@ episodes:
   duration_minutes: 68
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep79
+  episode_number: 79
+  title: Tesla Stock Fell, Uber Rose? Robotaxi Event Debrief with Meng Xing
+  guest: Meng Xing
+  guest_role: Autonomous Driving Founder, Tech Podcast Host
+  date: '2024-10-13'
+  duration_minutes: 59
+  youtube_url: https://www.youtube.com/watch?v=_nqR-T5tl-M
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-the-slack-dpo
   episode_number: 78
   title: The Slack DPO
@@ -3087,6 +3258,16 @@ episodes:
   duration_minutes: 146
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep75
+  episode_number: 75
+  title: 'Wu Yi on OpenAI o1: The Second Gold Mine'
+  guest: Wu Yi
+  guest_role: Former OpenAI Researcher, Tsinghua Assistant Professor
+  date: '2024-09-22'
+  duration_minutes: 68
+  youtube_url: https://www.youtube.com/watch?v=8fDHQAVWInI
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-the-pinterest-ipo
   episode_number: 74
   title: The Pinterest IPO
@@ -3123,6 +3304,16 @@ episodes:
   duration_minutes: 60
   youtube_url: ''
   podcast: Business Breakdowns
+- id: zj-ep72
+  episode_number: 72
+  title: 'Steam Engine to Self-Driving 3: Meng Xing on Tesla FSD Evolution'
+  guest: Meng Xing
+  guest_role: Autonomous Driving Founder
+  date: '2024-08-18'
+  duration_minutes: 75
+  youtube_url: https://www.youtube.com/watch?v=uTj7nDasNGg
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-spotify-gimlet-anchor-quick-take-worldwide-meetup-details
   episode_number: 71
   title: Spotify + Gimlet/Anchor Quick Take + Worldwide Meetup Details!
@@ -3141,6 +3332,16 @@ episodes:
   duration_minutes: 89
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep70
+  episode_number: 70
+  title: He Xiaopeng on FSD, Swimming in a Sea of Blood, Heroes and Cowards in Chaos
+  guest: He Xiaopeng
+  guest_role: XPeng Chairman & CEO
+  date: '2024-07-15'
+  duration_minutes: 90
+  youtube_url: ''
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962
 - id: acq-season-4-episode-1-espn
   episode_number: 69
   title: ESPN

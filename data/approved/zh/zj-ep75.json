@@ -1,0 +1,105 @@
+{
+  "episode_id": "zj-ep75",
+  "podcast": "张小珺商业访谈录",
+  "host": "张小珺",
+  "metadata": {
+    "episode_number": 75,
+    "title": "和OpenAI前研究员吴翼解读o1：吹响了开挖第二座金矿的号角",
+    "guest": "吴翼",
+    "guest_role": "OpenAI前研究员、清华大学助理教授",
+    "date": "2024-09-22",
+    "duration_minutes": 68,
+    "youtube_url": "https://www.youtube.com/watch?v=8fDHQAVWInI",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962",
+      "youtube": "https://www.youtube.com/watch?v=8fDHQAVWInI"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "GOOGL",
+    "Private:OpenAI",
+    "o1",
+    "推理"
+  ],
+  "conclusion": "吴翼 o1 解读称测试时算力为第二金矿——预训练 scaling 之后，思维链 RL 在推理变现。o1 预览将 AI 经济学转向付费思考 token；GOOGL 须在 Gemini 匹配而 Private:OpenAI 握先发定价。投资者应观望 GOOGL 推理档 ARPU 与 Private:OpenAI o1/o3 节奏作能力基准。",
+  "background": "张小珺 2024 年 9 月 22 日访谈吴翼（OpenAI 前研究员）解释 OpenAI o1——思维链 RL、隐藏推理 token 与安全含义。吴翼框 o1 为开挖推理时算力的号角：用户与企业为更长内部斟酌付费。节目早于 R1 开源但建立 GOOGL 与中国实验室现加入的推理赛投资透镜。",
+  "important_facts": [
+    "第二金矿：吴翼称预训练 scaling 回报递减——o1 推理 RL 经测试时 flop 开新收入矿脉。Private:OpenAI 捕获溢价；GOOGL 与同行须产品化否则失 API 价差。",
+    "隐藏 CoT 经济学：o1 隐藏斟酌 token——任务可靠完成则有定价权。投资者跟编码、科学与规划的付费意愿对 flat 聊天订阅。",
+    "GOOGL 回应观望：Gemini 推理模式与搜索整合是公开市场敞口——免费搜索与付费深思的毛利权衡。o1 级模型商品化中端时聊天套壳低配。"
+  ],
+  "mental_model": {
+    "name": "测试时金矿 × 隐藏 CoT 定价 × 推理 ARPU",
+    "components": "预训练盛宴成熟；推理思考是下一矿脉。隐藏 CoT 支撑溢价档。房东 bundle 否则失 spread 给开源 R1。",
+    "application": "Alphabet（GOOGL）：观望 Gemini 推理 SKU 与企业定价——o1/R1 商品化时守 ARPU。Private:OpenAI：观望 o 系列节奏作公开市场无法完全获得的私募推理基准。"
+  },
+  "key_insights": [
+    {
+      "view": "o1 吹响第二金矿号角。",
+      "question": "吴翼第二金矿何意？",
+      "answer": "预训练 scaling 定律后，推理时改善推理的 RL 造新经济层——客户为思考时间非仅权重付费。将 capex 从仅训练重框为训练加推理。"
+    },
+    {
+      "view": "隐藏推理是定价功能。",
+      "question": "为何隐藏思维链？",
+      "answer": "吴翼指安全与竞争——但经济学上 enable 计量斟酌。投资者应将推理 token 作 ARPU 驱动非仅成本中心。"
+    },
+    {
+      "view": "GOOGL 须产品化深思。",
+      "question": "公开投资者如何参与？",
+      "answer": "云、Workspace 与搜索 AI Overviews 的 Gemini 推理——GOOGL bundle 进既有房东 ARPU。失败模式是免费搜索赠送 o1 级能力。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "GOOGL",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Alphabet（GOOGL）：吴翼 o1 第二金矿——观望 Gemini 推理 ARPU 随测试时算力变现"
+    },
+    {
+      "ticker": "Private:OpenAI",
+      "direction": "Watch",
+      "confidence": "Medium",
+      "thesis": "Private:OpenAI：o1 推理经济学——观望 o 系列节奏与定价作私募基准"
+    }
+  ],
+  "golden_quotes": [
+    "占位一",
+    "占位二",
+    "占位三"
+  ],
+  "chronology": {
+    "subject": "吴翼 · OpenAI o1",
+    "events": [
+      {
+        "date": "2024",
+        "event": "OpenAI 内部推理 RL 研究成熟"
+      },
+      {
+        "date": "2024-09",
+        "event": "o1 预览发布"
+      },
+      {
+        "date": "2024-09-22",
+        "event": "吴翼 o1 解读张小珺节目"
+      },
+      {
+        "date": "2025-01",
+        "event": "DeepSeek-R1 开源推理浪潮"
+      },
+      {
+        "date": "2025–2026",
+        "event": "GOOGL Gemini 推理档"
+      },
+      {
+        "date": "2026+",
+        "event": "推理 ARPU 对商品化"
+      }
+    ]
+  }
+}
