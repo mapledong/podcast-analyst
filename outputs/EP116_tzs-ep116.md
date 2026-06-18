@@ -2,7 +2,7 @@
 
 ## *How to Invest in High-Growth Tech: 25-Year US Equity Analyst Framework*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** May 5, 2025 · **Duration** 75 min · **Read** ≈2 min
 

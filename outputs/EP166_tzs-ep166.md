@@ -2,7 +2,7 @@
 
 ## *Consumer & Internet: 25-Year Review and 2026 Outlook*
 
-**★★★☆☆** · 3/5
+**★★★★★** · 5/5
 
 **Podcast** Practical Investments · **Date** Jan 12, 2026 · **Duration** 97 min · **Read** ≈2 min
 

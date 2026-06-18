@@ -2,7 +2,7 @@
 
 ## *Former OpenAI Researcher, Tsinghua Assistant Professor*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** Jan 19, 2025 · **Duration** 72 min · **Read** ≈2 min
 

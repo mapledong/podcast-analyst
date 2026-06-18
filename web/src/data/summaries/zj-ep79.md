@@ -2,7 +2,7 @@
 
 ## *Autonomous Driving Founder, Tech Podcast Host*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** Oct 13, 2024 · **Duration** 59 min · **Read** ≈2 min
 

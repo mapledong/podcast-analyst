@@ -2,7 +2,7 @@
 
 ## *Compute War to Domestic Chips: AD Chip Booms and Traps*
 
-**★★★☆☆** · 3/5
+**★★★★★** · 5/5
 
 **Podcast** Practical Investments · **Date** Jun 22, 2025 · **Duration** 105 min · **Read** ≈2 min
 

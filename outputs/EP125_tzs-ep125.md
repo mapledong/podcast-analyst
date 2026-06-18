@@ -2,7 +2,7 @@
 
 ## *Pop Mart: Beautiful Bubble or Plastic Moutai? | New Consumer Series*
 
-**★★★☆☆** · 3/5
+**★★★★★** · 5/5
 
 **Podcast** Practical Investments · **Date** Jun 5, 2025 · **Duration** 108 min · **Read** ≈2 min
 

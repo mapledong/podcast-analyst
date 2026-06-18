@@ -2,7 +2,7 @@
 
 ## *Li Auto Founder & CEO*
 
-**★★★☆☆** · 3/5
+**★★★★★** · 5/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** Jan 2, 2025 · **Duration** 180 min · **Read** ≈3 min
 

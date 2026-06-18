@@ -2,7 +2,7 @@
 
 ## *DeepSeek-R1, Kimi K1.5, OpenAI o1 Reports: Cleanest Algorithms*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** Jan 26, 2025 · **Duration** 85 min · **Read** ≈2 min
 

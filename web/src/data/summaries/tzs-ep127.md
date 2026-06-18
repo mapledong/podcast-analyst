@@ -2,7 +2,7 @@
 
 ## *Laopu Gold: Heritage Craft Premium or IQ Tax? | New Consumer Chat*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** Jun 15, 2025 · **Duration** 119 min · **Read** ≈2 min
 

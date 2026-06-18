@@ -2,7 +2,7 @@
 
 ## *Consumer Distribution Expert*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** Jul 24, 2025 · **Duration** 104 min · **Read** ≈2 min
 

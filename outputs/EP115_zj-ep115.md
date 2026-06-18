@@ -2,7 +2,7 @@
 
 ## *OpenAI Researcher (at time of interview)*
 
-**★★★☆☆** · 3/5
+**★★★★★** · 5/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** Apr 19, 2025 · **Duration** 180 min · **Read** ≈3 min
 

@@ -2,7 +2,7 @@
 
 ## *Former ByteDance Toutiao Product Head, Former MiniMax Product Head*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** Feb 20, 2025 · **Duration** 127 min · **Read** ≈2 min
 

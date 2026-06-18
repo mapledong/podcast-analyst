@@ -2,7 +2,7 @@
 
 ## *Eastroc Beverage: Counter-Cyclical Growth — What's Different?*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** Jul 10, 2025 · **Duration** 88 min · **Read** ≈2 min
 

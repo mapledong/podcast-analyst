@@ -2,7 +2,7 @@
 
 ## *Investment Insights Behind Dining: Xibei, Haidilao, Mixue, Moutai…*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** Nov 2, 2025 · **Duration** 99 min · **Read** ≈2 min
 

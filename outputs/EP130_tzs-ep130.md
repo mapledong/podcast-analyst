@@ -2,7 +2,7 @@
 
 ## *Moutai Distributor, 24-Year Industry Veteran*
 
-**★★★☆☆** · 3/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** Jun 29, 2025 · **Duration** 56 min · **Read** ≈2 min
 
