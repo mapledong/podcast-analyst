@@ -113,7 +113,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "Private:OpenAI：六年 Agent 研究基准——观望 Operator 与工具调用节奏作公开市场无法复制的私募非对称",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["就是說我們應該把電腦或者互聯網作為一個環境", "你需要把自然語言處理和強化學習的邊界給打通", "我從你的文章語言裡整體能讀到一種反叛精神"],
             "chronology": {
                 "subject": "姚顺雨 · OpenAI Agent 研究",
                 "events": [
@@ -247,7 +247,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "英伟达（NVDA）：中国智驾血海——观望端到端 FSD 竞速带来的训练 GPU 需求",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["每一家都在根據原來的體系裡面做到自己的人力級", "這是一檔提供一手高密度信息的商業訪談節目", "甚至同一條道路的每一個時間點都是不一樣的"],
             "chronology": {
                 "subject": "何小鹏 · 小鹏 FSD",
                 "events": [
@@ -357,7 +357,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "理想（LI）：李想播客版——观望 MEGA 调整、纯电第二幕与 Agent OS 变现作执行验证",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["还意味着其实对用户的体验和价值发生了革命性的一个变化", "过去两年对人工智能完整的技术与产品观的思考", "而不需要靠这种密集的提示词的这样的一个方式"],
             "chronology": {
                 "subject": "李想 · 播客版",
                 "events": [
@@ -479,7 +479,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "Uber（UBER）：Robotaxi 大会读穿——观望自动驾驶合作收入作轻资产自主期权",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["你怎麼看他們這種就於發布會的整個的形式的這種把握", "其實這個發布會開始的時候延遲了半個多小時", "然後他們也錄了一些第一人稱是角的這個視頻"],
             "chronology": {
                 "subject": "孟醒 · Robotaxi 复盘",
                 "events": [
@@ -589,7 +589,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "特斯拉（TSLA）：孟醒 FSD 进化——观望端到端干预里程与 FSD 变现作全球智驾基准",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["使得它可以變得更符合我們人類對於產品的習慣和要求", "那這些能力可能已經在埋在歷史存在的數據過程中", "先後在美國和中國創辦了兩家人工智能出創公司"],
             "chronology": {
                 "subject": "孟醒 · 特斯拉 FSD 史",
                 "events": [
@@ -699,7 +699,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "英伟达（NVDA）：广密 DeepSeek/Kimi/MiniMax 注意力论文——观望中国集群需求随效率赛扩大总算力",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["应该都是有的他们的主要贡献应该是更多的集中在这种如何让它变得更高效的上面", "对因为这个东西我因为我比较我我主要就是在做一些线性注意力的一个东西", "所以我们要保证就是我们这些有一些很多这种运算能够写成矩阵成法"],
             "chronology": {
                 "subject": "广密 · 注意力论文",
                 "events": [
@@ -821,7 +821,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "腾讯（TCEHY）：推荐规模 AI 于微信/视频——观望变现对中国政策与 AGI 反弹风险",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["这是一档提供一手高密度信息的商业访谈节目", "我一个按钮能转换成自己的字幕和声音等等", "其实有很多人类想想想想去构建的一些事情"],
             "chronology": {
                 "subject": "张前川 · AGI 预警",
                 "events": [
@@ -931,7 +931,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "Alphabet（GOOGL）：广密 R1/K1.5/o1 报告——观望 Gemini 推理变现随开源 R1 压缩 API 毛利",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["去年有谷歌以及斯坦福的一些研究员提出来的方法", "这样子我们希望说就是不管是以文字的形式丢进去", "然后大概是一个晚上就把早期的实验全都做完了"],
             "chronology": {
                 "subject": "广密 · 推理报告",
                 "events": [
@@ -1053,7 +1053,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "Private:OpenAI：Operator 电脑操作——观望任务可靠性与定价作行动层 AI 基准",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["那我們再次邀請吳亦來給我們做一個技術上的解讀", "這是一檔提供一首高密度信息的商業訪談節目", "我可能確實更適合作為一個單獨的產品放出來"],
             "chronology": {
                 "subject": "吴翼 · OpenAI Operator",
                 "events": [
@@ -1175,7 +1175,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "Private:OpenAI：o1 推理经济学——观望 o 系列节奏与定价作私募基准",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["但是在专用领域上进行训练得到了更好的数学模型", "如果一个问题有这样的一种特别好的对称的性质", "是因为当你知道每个模块的方向是什么样的时候"],
             "chronology": {
                 "subject": "吴翼 · OpenAI o1",
                 "events": [
@@ -1284,7 +1284,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "贵州茅台（600519.SZ）：餐饮洞察节目——观望批价与 premium 消费随 casual 餐饮分化",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["從玉智菜來談一些基本的食品飲料行業的頭都框架", "包括直播電商就會讓大家覺得就是買一些預置菜", "我們往往也是能夠找到背後更根本的產業邏輯"],
             "chronology": {
                 "subject": "大卫 · 餐饮洞察",
                 "events": [
@@ -1392,7 +1392,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "老铺黄金（6181.HK）：古法溢价辩论——观望 SSSG 与毛利对金价 beta 判 fad 或复利",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["這個待會我們可以在節目上再進行一個深度的一個分享", "當然這家公司我其實在跟很多圈裡的朋友分享的時候", "傳出來說這家公司有很不錯的這樣的一個業績表現"],
             "chronology": {
                 "subject": "投资实战派 · 老铺黄金",
                 "events": [
@@ -1500,7 +1500,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "泡泡玛特（9992.HK）：泡泡对塑料茅台辩论——观望 IP 管线与海外 SSSG 作复利验证",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["其实我是把投资实战派作为我一开始的一个教学的这样的一个内容来进行收听的", "因为日方的这个傲慢和对中国可能企业的这个不了解和缺乏一个信任的", "那么泡马克是什么时候开始真正进入到这个潮玩的这个载道里面来的"],
             "chronology": {
                 "subject": "大卫 · 泡泡玛特",
                 "events": [
@@ -1608,7 +1608,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "东鹏饮料（605499.SH）：逆势能量饮增长——观望渠道渗透与扩张中毛利",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["再加上本身林董事长对于数据化的", "尤其这种二级公司有一些这个今久不衰的生命力的公司,", "然后我大概是这个比如公司一到两亿的规模投进去的,"],
             "chronology": {
                 "subject": "大卫 · 东鹏饮料",
                 "events": [
@@ -1717,7 +1717,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "贵州茅台（600519.SZ）：24 年经销商张亚群——观望批价与经销商健康作草根需求信号",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["之所以我來待班的是因為我們現在剛剛在普通機場接到張亞群老師", "可能很多熟悉茅台的投資者朋友都已經很了解張亞群老師了", "因為大家也可能知道最近的茅台的市場價格有一些波動"],
             "chronology": {
                 "subject": "张亚群 · 茅台经销商",
                 "events": [
@@ -1838,7 +1838,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "地平线（9660.HK）：国产智驾芯片替代——观望 OEM 设计赢单与规模化质量对政策 hype",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["他自己基于自身的这样一个业务判断之后的一个选择", "它的芯片为什么还是可以在现在至少在今天这个阶段", "然后很荣幸第一次来参加我们这个布克的这个活动"],
             "chronology": {
                 "subject": "王康、罗慧超 · 智驾芯片",
                 "events": [
@@ -1958,7 +1958,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "Alphabet（GOOGL）：高增长科技清单——观望搜索与云 AI ARPU 作公开房东 barbell",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["其实有可能这些公司都会经历一个", "我觉得这个还是企业家精神跟我们", "持续迭代需要有一个好的管理团队能够把这个公司经营的比较好,"],
             "chronology": {
                 "subject": "永庆 · 成长科技框架",
                 "events": [
@@ -2079,7 +2079,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "拼多多（PDD）：2026 展望——观望国内抽佣与 Temu 单位经济学对效率护城河",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["我覺得層次可能相對兩樣是投資裡頭最好解了一道題", "第一他到底是顛覆還是說對於原有大廠生態的加持", "然後我覺得第三點可能大家在互聯網行業比較關注"],
             "chronology": {
                 "subject": "大卫 · 消费互联网 25 年",
                 "events": [
@@ -2188,7 +2188,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "贵州茅台（600519.SZ）：马铮用户价值框架——观望批价与渠道革命作仪式品牌遇代际变迁",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["自行求搜索使沾派三个字找到我们里面会有一系列的演报和我们播客的文字版", "那你就可以在这个单品上有非常大的一个降本的一个优势", "当然更多的节目呢也欢迎大家持续的跟踪我们的频道"],
             "chronology": {
                 "subject": "马铮 · 消费用户价值",
                 "events": [
@@ -2320,7 +2320,7 @@ BATCH6_EPISODES: dict[str, dict[str, dict[str, Any]]] = {
                     "thesis": "安踏体育（2020.HK）：多品牌 DTC 混合——观望 Fila 与户外组合协同及零售控制",
                 },
             ],
-            "golden_quotes": ["占位一", "占位二", "占位三"],
+            "golden_quotes": ["实际上我们还是处在一个跟美国有比较大差距的这样一个状态上", "我自己的判断是大概力只能崛起细分的市场和独立的商业模式", "我们在消费品领域里面有一个数据叫做消费品社会零售总额"],
             "chronology": {
                 "subject": "文永生 · 渠道密码",
                 "events": [
