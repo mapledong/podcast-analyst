@@ -9,6 +9,7 @@ from refine_batch4_episodes_bodies import BATCH4_EPISODES
 from refine_batch5_episodes_bodies import BATCH5_EPISODES
 from refine_batch6_episodes_bodies import BATCH6_EPISODES
 from refine_new_episodes_bodies import NEW_EPISODES
+from refine_tzs_ep188_bodies import TZS_EP188
 
 _REFINED_BASE: dict[str, dict[str, dict[str, Any]]] = {
     "zj-ep140": {
@@ -728,4 +729,5 @@ REFINED = {
     **BATCH4_EPISODES,
     **BATCH5_EPISODES,
     **BATCH6_EPISODES,
+    **TZS_EP188,
 }

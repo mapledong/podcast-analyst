@@ -32,6 +32,7 @@ BODY_FILES = [
     ROOT / "scripts" / "refine_batch4_episodes_bodies.py",
     ROOT / "scripts" / "refine_batch5_episodes_bodies.py",
     ROOT / "scripts" / "refine_batch6_episodes_bodies.py",
+    ROOT / "scripts" / "refine_tzs_ep188_bodies.py",
 ]
 
 SKIP_LINE_PATTERNS = (

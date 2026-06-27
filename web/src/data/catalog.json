@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T13:51:51.843Z",
+  "generatedAt": "2026-06-27T14:21:24.220Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -59,7 +59,7 @@
       "accent_color": "#1A5F4A",
       "youtube_url": "https://www.youtube.com/results?search_query=投资实战派",
       "cover_url": "/covers/touzi-shizhanpai.jpg",
-      "episodeCount": 30
+      "episodeCount": 31
     }
   ],
   "episodes": [
@@ -5037,6 +5037,50 @@
       "chronologySubject": "Jeff Bezos · Amazon Shareholder Letters"
     },
     {
+      "id": "tzs-ep188",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 188,
+      "title": "How to Do \"Deep\" Investment Research: Process, Key Points and Pitfalls",
+      "guest": "Yongqing",
+      "displayTitle": "Yongqing",
+      "displaySubtitle": "How to Do \"Deep\" Investment Research: Process, Key Points and Pitfalls",
+      "guestRole": "Practical Investments Host, Buy-Side Research Lead",
+      "date": "2026-06-21",
+      "durationMinutes": 116,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Yongqing maps deep buy-side research into a repeatable SOP — know your money, business, and market before any ticker. Idea funnel runs from base-territory coverage through screening, ~1.5M-character public dossiers, 360° field work, and disciplined tracking; AI accelerates drafts but garbage-in PR still fails. For investors seeking 10–15% on three-year capital: Watch TSM and NVDA as 'simple-body' AI-chain exemplars, size on process not single-quarter luck.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=P3nyLRPMBTw",
+      "summaryFile": "tzs-ep188.md",
+      "summaryFileZh": "tzs-ep188.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "TSM",
+        "NVDA",
+        "Investment Research",
+        "Value Investing"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "TSM",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Taiwan Semiconductor (TSM): Yongqing deep-research SOP — Watch as AI-chain simple body; Q1 fund clustering and bottleneck logic favor process-led sizing over headline trades"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "NVIDIA (NVDA): Deep coverage framework — Watch as compute first-link landlord; apply full SOP before treating one-quarter momentum as thesis validation"
+        }
+      ],
+      "chronologySubject": "Yongqing · Deep Research SOP"
+    },
+    {
       "id": "tzs-ep187",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 187,
@@ -6555,42 +6599,42 @@
       "chronologySubject": "Robinhood"
     },
     {
-      "id": "zj-ep118",
+      "id": "zj-ep120",
       "podcastId": "zhang-xiaojun",
-      "episodeNumber": 118,
-      "title": "Second 3-Hour Interview with Li Xiang: CEO LLM, MoE, VLA, Energy, Memory, and Human Nature",
-      "guest": "Li Xiang",
-      "displayTitle": "Li Xiang",
-      "displaySubtitle": "Li Auto Founder & CEO",
-      "guestRole": "Li Auto Founder & CEO",
+      "episodeNumber": 120,
+      "title": "XPeng's Liu Xianming on Removing Language from VLA, Physical AI, and the AI Transformation",
+      "guest": "Liu Xianming",
+      "displayTitle": "Liu Xianming",
+      "displaySubtitle": "XPeng Autonomous Driving Center Head",
+      "guestRole": "XPeng Autonomous Driving Center Head",
       "date": "2025-10-30",
-      "durationMinutes": 166,
-      "readMinutes": 4,
+      "durationMinutes": 109,
+      "readMinutes": 3,
       "rating": 3,
-      "conclusion": "Li Xiang frames himself as a CEO MoE — technical, product, and org experts — and bets on Agent OS within five years, not a universal agent. AI must graduate from information and assistive tools to production tools users pay for; Li Auto trains domain VLA with 3.2B eight-expert MoE after embracing DeepSeek. Investors should Watch Li Auto (LI) on VLA fleet rollout and Agent OS monetization before treating chat copilots as autonomy proof.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=RxXVq7-sJzM",
-      "summaryFile": "zj-ep118.md",
-      "summaryFileZh": "zj-ep118.md",
+      "conclusion": "XPeng AI chief Liu Xianming argues the winning vehicle stack removes Language from VLA — vision and action co-trained for physics, not chat intermediaries. October 9, 2025 leadership reshuffle signals execution focus on physical AI; he frames AI as a multiplier on manufacturing and software, not a feature slide. Investors should Watch XPeng (XPEV) on whether stripped VLA ships measurable autonomy miles before capital-intensive humanoid narratives distract the market.",
+      "youtubeUrl": "",
+      "summaryFile": "zj-ep120.md",
+      "summaryFileZh": "zj-ep120.md",
       "availableLocales": [
         "en",
         "zh"
       ],
       "defaultLocale": "en",
       "keywords": [
-        "LI",
-        "CEO LLM",
-        "MoE",
-        "VLA"
+        "XPEV",
+        "VLA",
+        "Physical AI",
+        "Autonomous Driving"
       ],
       "investmentIdeas": [
         {
-          "ticker": "LI",
+          "ticker": "XPEV",
           "direction": "Watch",
           "confidence": "Medium",
-          "thesis": "Li Auto (LI): Li Xiang CEO-MoE, Agent OS, and domain VLA 3.2B MoE stack — Watch fleet VLA rollout and production-tool monetization as autonomy proof"
+          "thesis": "XPeng (XPEV): Liu Xianming language-free VLA plus Oct 9 2025 leadership focus on physical AI — Watch autonomy miles and software mix as multiplier proof"
         }
       ],
-      "chronologySubject": "Li Xiang · Li Auto AI Talk S2"
+      "chronologySubject": "Liu Xianming · XPeng Physical AI"
     },
     {
       "id": "acq-trader-joes",
@@ -7618,42 +7662,42 @@
       "chronologySubject": "Tan Jie · DeepMind Gemini Robotics"
     },
     {
-      "id": "zj-ep120",
+      "id": "zj-ep118",
       "podcastId": "zhang-xiaojun",
-      "episodeNumber": 120,
-      "title": "XPeng's Liu Xianming on Removing Language from VLA, Physical AI, and the AI Transformation",
-      "guest": "Liu Xianming",
-      "displayTitle": "Liu Xianming",
-      "displaySubtitle": "XPeng Autonomous Driving Center Head",
-      "guestRole": "XPeng Autonomous Driving Center Head",
+      "episodeNumber": 118,
+      "title": "Second 3-Hour Interview with Li Xiang: CEO LLM, MoE, VLA, Energy, Memory, and Human Nature",
+      "guest": "Li Xiang",
+      "displayTitle": "Li Xiang",
+      "displaySubtitle": "Li Auto Founder & CEO",
+      "guestRole": "Li Auto Founder & CEO",
       "date": "2025-10-30",
-      "durationMinutes": 109,
-      "readMinutes": 3,
+      "durationMinutes": 166,
+      "readMinutes": 4,
       "rating": 3,
-      "conclusion": "XPeng AI chief Liu Xianming argues the winning vehicle stack removes Language from VLA — vision and action co-trained for physics, not chat intermediaries. October 9, 2025 leadership reshuffle signals execution focus on physical AI; he frames AI as a multiplier on manufacturing and software, not a feature slide. Investors should Watch XPeng (XPEV) on whether stripped VLA ships measurable autonomy miles before capital-intensive humanoid narratives distract the market.",
-      "youtubeUrl": "",
-      "summaryFile": "zj-ep120.md",
-      "summaryFileZh": "zj-ep120.md",
+      "conclusion": "Li Xiang frames himself as a CEO MoE — technical, product, and org experts — and bets on Agent OS within five years, not a universal agent. AI must graduate from information and assistive tools to production tools users pay for; Li Auto trains domain VLA with 3.2B eight-expert MoE after embracing DeepSeek. Investors should Watch Li Auto (LI) on VLA fleet rollout and Agent OS monetization before treating chat copilots as autonomy proof.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=RxXVq7-sJzM",
+      "summaryFile": "zj-ep118.md",
+      "summaryFileZh": "zj-ep118.md",
       "availableLocales": [
         "en",
         "zh"
       ],
       "defaultLocale": "en",
       "keywords": [
-        "XPEV",
-        "VLA",
-        "Physical AI",
-        "Autonomous Driving"
+        "LI",
+        "CEO LLM",
+        "MoE",
+        "VLA"
       ],
       "investmentIdeas": [
         {
-          "ticker": "XPEV",
+          "ticker": "LI",
           "direction": "Watch",
           "confidence": "Medium",
-          "thesis": "XPeng (XPEV): Liu Xianming language-free VLA plus Oct 9 2025 leadership focus on physical AI — Watch autonomy miles and software mix as multiplier proof"
+          "thesis": "Li Auto (LI): Li Xiang CEO-MoE, Agent OS, and domain VLA 3.2B MoE stack — Watch fleet VLA rollout and production-tool monetization as autonomy proof"
         }
       ],
-      "chronologySubject": "Liu Xianming · XPeng Physical AI"
+      "chronologySubject": "Li Xiang · Li Auto AI Talk S2"
     },
     {
       "id": "bb-mercado-libre-e-commerce-empire",

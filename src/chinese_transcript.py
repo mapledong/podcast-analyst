@@ -44,6 +44,7 @@ CHINESE_EPISODE_IDS: tuple[str, ...] = (
     "tzs-ep185",
     "tzs-ep186",
     "tzs-ep187",
+    "tzs-ep188",
     "tzs-ep176",
     "tzs-ep170",
     "tzs-ep167",
