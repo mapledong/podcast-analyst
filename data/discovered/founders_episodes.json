@@ -2,6 +2,21 @@
   "podcast": "Founders",
   "episodes": [
     {
+      "id": "fnd-422-joseph-pulitzer",
+      "episode_number": 422,
+      "title": "Joseph Pulitzer",
+      "guest": "Joseph Pulitzer",
+      "guest_role": "Biography · Episode 422",
+      "date": "2026-06-20",
+      "duration_minutes": 52,
+      "colossus_url": "",
+      "audio_url": "https://traffic.megaphone.fm/DSLLC8486108608.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=CdIMFZk1OJA",
+      "rss_title": "#422 Joseph Pulitzer",
+      "podcast": "Founders",
+      "youtube_title": "Joseph Pulitzer: The Inventor of Mass Media"
+    },
+    {
       "id": "fnd-421-jony-ive",
       "episode_number": 421,
       "title": "Jony Ive",
@@ -6284,7 +6299,5 @@
       "rss_title": "Jeff Bezos (Insights, Stories, and Secrets)",
       "podcast": "Founders"
     }
-  ],
-  "youtube_discovered_at": "2026-06-14T13:42:05.175866+00:00",
-  "youtube_channel": "https://www.youtube.com/@founderspodcast1"
+  ]
 }

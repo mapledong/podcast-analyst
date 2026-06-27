@@ -1,6 +1,24 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
+- id: ep479
+  episode_number: 479
+  title: Investing $120 Billion in Permanent Capital
+  guest: Vlad Barbalat
+  guest_role: Chief Investment Officer, Liberty Mutual Investments
+  date: '2026-06-23'
+  duration_minutes: 69
+  youtube_url: https://www.youtube.com/watch?v=OxHWFmFHnoc
+  podcast: Invest Like the Best
+- id: ep478
+  episode_number: 478
+  title: The Unusual Approach to Company Building
+  guest: Kareem Amin
+  guest_role: Co-founder & CEO, Clay
+  date: '2026-06-16'
+  duration_minutes: 56
+  youtube_url: https://www.youtube.com/watch?v=3bKLiUU2cb8
+  podcast: Invest Like the Best
 - id: ep477
   episode_number: 477
   title: How to Invest Through Technology Cycles
@@ -444,6 +462,15 @@ episodes:
   duration_minutes: 81
   youtube_url: https://www.youtube.com/watch?v=Ak7oLVMlhfM
   podcast: Invest Like the Best
+- id: fnd-422-joseph-pulitzer
+  episode_number: 422
+  title: Joseph Pulitzer
+  guest: Joseph Pulitzer
+  guest_role: Biography · Episode 422 · James McGrath Morris
+  date: '2026-06-20'
+  duration_minutes: 52
+  youtube_url: https://www.youtube.com/watch?v=CdIMFZk1OJA
+  podcast: Founders
 - id: ep421
   episode_number: 421
   title: Investing in Carvana
@@ -1313,6 +1340,15 @@ episodes:
   duration_minutes: 55
   youtube_url: ''
   podcast: Business Breakdowns
+- id: acq-the-walt-disney-company
+  episode_number: 209
+  title: The Walt Disney Company
+  guest: The Walt Disney Company
+  guest_role: 'Season 19 · Episode 4 · Part 1: Walt''s Era'
+  date: '2026-06-21'
+  duration_minutes: 271
+  youtube_url: ''
+  podcast: Acquired
 - id: acq-the-nfl
   episode_number: 208
   title: The NFL

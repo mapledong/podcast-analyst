@@ -1,10 +1,38 @@
 {
-  "discovered_at": "2026-06-13T17:20:01.499376+00:00",
+  "discovered_at": "2026-06-27T13:46:34.241167+00:00",
   "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
   "cutoff_date": "2021-06-14",
-  "total": 302,
-  "with_youtube": 54,
+  "total": 304,
+  "with_youtube": 56,
   "episodes": [
+    {
+      "id": "ep479",
+      "episode_number": 479,
+      "title": "Investing $120 Billion in Permanent Capital",
+      "guest": "Vlad Barbalat",
+      "guest_role": "",
+      "date": "2026-06-23",
+      "duration_minutes": 69,
+      "audio_url": "https://traffic.megaphone.fm/CLS2722061524.mp3",
+      "apple_url": "https://colossus.com/episode/the-power-of-permanent-capital/",
+      "youtube_url": "https://www.youtube.com/watch?v=OxHWFmFHnoc",
+      "rss_title": "Vlad Barbalat - Investing $120 Billion in Permanent Capital - [Invest Like the Best, EP.479]",
+      "youtube_title": "Investing a $120 Billion Balance Sheet with No Outside Investors"
+    },
+    {
+      "id": "ep478",
+      "episode_number": 478,
+      "title": "The Unusual Approach to Company Building",
+      "guest": "Kareem Amin",
+      "guest_role": "",
+      "date": "2026-06-16",
+      "duration_minutes": 56,
+      "audio_url": "https://traffic.megaphone.fm/CLS8649460424.mp3",
+      "apple_url": "https://colossus.com/episode/courage-truth-justice/",
+      "youtube_url": "https://www.youtube.com/watch?v=3bKLiUU2cb8",
+      "rss_title": "Kareem Amin - The Unusual Approach to Company Building - [Invest Like the Best, EP.478]",
+      "youtube_title": "Clay’s Unusual Path to Building a Multi-Billion Dollar Company"
+    },
     {
       "id": "ep477",
       "episode_number": 477,
