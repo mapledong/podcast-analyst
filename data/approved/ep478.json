@@ -57,15 +57,15 @@
   "top_investment_implications": [
     {
       "ticker": "Private:Clay",
-      "direction": "Watch",
+      "direction": "Long",
       "confidence": "Medium",
-      "thesis": "Programmable GTM layer with pre-LLM revops positioning and integration moat — compounding as models improve; counterpositioned vs simplistic sales automation"
+      "thesis": "Programmable GTM layer with pre-LLM revops positioning and integration moat — Amin argues Clay compounded from ~$1M to ~$100M ARR because the boat was pointed before the LLM wave; counterpositioned vs simplistic sales automation"
     },
     {
       "ticker": "CRM",
-      "direction": "Watch",
+      "direction": "Short",
       "confidence": "Low",
-      "thesis": "Incumbent CRM stacks face creative GTM teams building parallel workflows in tools like Clay — watch attach and seat expansion pressure if programmatic outbound scales"
+      "thesis": "Incumbent CRM stacks face creative GTM teams building parallel workflows in tools like Clay — attach and seat expansion pressure if programmatic outbound scales"
     }
   ],
   "golden_quotes": [

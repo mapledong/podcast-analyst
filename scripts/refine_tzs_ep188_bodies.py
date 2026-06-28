@@ -8,7 +8,7 @@ TZS_EP188: dict[str, dict[str, dict[str, Any]]] = {
     "tzs-ep188": {
         "en": {
             "keywords": ["TSM", "NVDA", "Investment Research", "Value Investing"],
-            "conclusion": "Yongqing maps deep buy-side research into a repeatable SOP — know your money, business, and market before any ticker. Idea funnel runs from base-territory coverage through screening, ~1.5M-character public dossiers, 360° field work, and disciplined tracking; AI accelerates drafts but garbage-in PR still fails. For investors seeking 10–15% on three-year capital: Watch TSM and NVDA as 'simple-body' AI-chain exemplars, size on process not single-quarter luck.",
+            "conclusion": "Yongqing maps deep buy-side research into a repeatable SOP — know your money, business, and market before any ticker. Idea funnel runs from base-territory coverage through screening, ~1.5M-character public dossiers, 360° field work, and disciplined tracking; AI accelerates drafts but garbage-in PR still fails. For investors seeking 10–15% on three-year capital: Long TSM and NVDA only after the full SOP clears simple-body thesis and valuation — size on process, not single-quarter luck.",
             "background": "Practical Investments ep.188 (June 21, 2026) is a Wu Xiaobo Channel live replay where Yongqing teaches how to do deep investment research — process, pitfalls, and information sources. He frames good investments as self-knowledge plus business plus market understanding, then walks a full buy-side SOP: idea sourcing (prior coverage, bottleneck chains, 13F opereye, peers), fast screening, deep coverage modules (industry history, unit economics, management, rivals, financials, market/valuation), field research, and ongoing tracking. Emphasis: rule-based decisions beat lottery buys on one headline quarter; AI helps 70–80% of prep if inputs are clean.",
             "important_facts": [
                 "Three-lens framework: money attributes (3+ year capital, ~10–15% target), business quality (three value styles — growth, quality-at-fair-price, deep value — session focuses on quality), and market context (sector rotation, valuation regimes). Good research SOP: idea → screen → deep cover → verify via research → track anomalies — like clearing a game map before fighting.",
@@ -18,7 +18,7 @@ TZS_EP188: dict[str, dict[str, dict[str, Any]]] = {
             "mental_model": {
                 "name": "Self × Business × Market × SOP Discipline",
                 "components": "Edge is not random tips — it is process: map the industry, know why you can win, track only what moves the thesis. Simple bodies (dominant incumbents in rising chains) beat heroic ten-baggers for most capital. Adding size after lucky gains without framework is how accounts bleed.",
-                "application": "Taiwan Semiconductor (TSM): Watch as AI-chain simple body — bottleneck diffusion and fund-manager clustering signal durable relevance; apply Yongqing SOP before sizing. NVIDIA (NVDA): Watch as first-link compute landlord — pair process discipline with chain-stage awareness, not headline-quarter bets.",
+                "application": "Taiwan Semiconductor (TSM): Long when Yongqing's quality-compounder SOP clears — AI-chain simple body with Q1 fund clustering; size on process not headline trades. NVIDIA (NVDA): Long when cycle thesis and valuation pass full funnel — first-link compute landlord, not single-quarter momentum bets.",
             },
             "key_insights": [
                 {
@@ -40,15 +40,15 @@ TZS_EP188: dict[str, dict[str, dict[str, Any]]] = {
             "top_investment_implications": [
                 {
                     "ticker": "TSM",
-                    "direction": "Watch",
+                    "direction": "Long",
                     "confidence": "Medium",
-                    "thesis": "Taiwan Semiconductor (TSM): Yongqing deep-research SOP — Watch as AI-chain simple body; Q1 fund clustering and bottleneck logic favor process-led sizing over headline trades",
+                    "thesis": "Taiwan Semiconductor (TSM): Yongqing's quality-compounder lane (~10% growth plus dividend) — simple-body winner when full SOP clears valuation; process-led sizing, not headline momentum",
                 },
                 {
                     "ticker": "NVDA",
-                    "direction": "Watch",
-                    "confidence": "Medium",
-                    "thesis": "NVIDIA (NVDA): Deep coverage framework — Watch as compute first-link landlord; apply full SOP before treating one-quarter momentum as thesis validation",
+                    "direction": "Long",
+                    "confidence": "Low",
+                    "thesis": "NVIDIA (NVDA): Semis simple-body leader in Yongqing's framework — Long only when cycle thesis and valuation pass the full research funnel, not chatbot impulse",
                 },
             ],
             "golden_quotes": [
@@ -69,7 +69,7 @@ TZS_EP188: dict[str, dict[str, dict[str, Any]]] = {
         },
         "zh": {
             "keywords": ["TSM", "NVDA", "投研流程", "价值投资"],
-            "conclusion": "永庆将买方深度投研拆解为可重复 SOP——先认清资金、生意与市场，再谈标的。点子漏斗从根据地覆盖、筛选、约 150 万字公开资料整理、360 度调研到纪律跟踪；AI 可加速草稿但 PR 垃圾进仍垃圾出。追求三年资金 10–15% 回报者：观望 TSM、NVDA 作 AI 链「简单体」样板，按流程定仓位而非单季运气。",
+            "conclusion": "永庆将买方深度投研拆解为可重复 SOP——先认清资金、生意与市场，再谈标的。点子漏斗从根据地覆盖、筛选、约 150 万字公开资料整理、360 度调研到纪律跟踪；AI 可加速草稿但 PR 垃圾进仍垃圾出。追求三年资金 10–15% 回报者：TSM、NVDA 经完整 SOP 与估值门槛后 Long 简单体样板，按流程定仓位而非单季运气。",
             "background": "投资实战派第 188 期（2026 年 6 月 21 日）为吴晓波频道直播回放，永庆讲授如何做深度投研——流程、要点与信息源。好投资需自知资金属性、理解企业与市场；完整买方 SOP 含点子获取（根据地、瓶颈链、抄作业 13F、同行交流）、快速筛选、深度覆盖模块（产业史、单位经济、管理层、竞争格局、财务、市场估值）、调研验证与持续跟踪。强调：规则化决策胜过听一条 headline 买彩票；输入干净时 AI 可完成约七成准备。",
             "important_facts": [
                 "三透镜框架：资金属性（三年以上、目标约 10–15%）、生意质量（成长/高质量均衡/深度价值三类，本期偏高质量）、市场语境（板块轮动与估值 regime）。投研 SOP：点子→筛选→深度覆盖→调研验证→跟踪异常——如打游戏先开地图再开战。",
@@ -79,7 +79,7 @@ TZS_EP188: dict[str, dict[str, dict[str, Any]]] = {
             "mental_model": {
                 "name": "自知 × 生意 × 市场 × SOP 纪律",
                 "components": "优势非随机 tip——是流程：绘制产业地图、明确为何能赢、只跟踪移动论点之事。上升链中的 dominant 简单体胜过多数资金的 heroic 十倍股。框架外因运气加仓是账户失血主因。",
-                "application": "台积电（TSM）：观望作 AI 链简单体——瓶颈扩散与基金经理 clustering 信号持久 relevance；SOP 过关后再定仓。英伟达（NVDA）：观望作算力第一环 landlord——全流程覆盖后再把单季 momentum 当论点验证。",
+                "application": "台积电（TSM）：经永庆 SOP 与估值门槛后 Long——AI 链简单体，Q1 基金 clustering；流程定仓非 headline。英伟达（NVDA）：周期与估值经完整漏斗后 Long——算力第一环，非单季 momentum。",
             },
             "key_insights": [
                 {
@@ -101,15 +101,15 @@ TZS_EP188: dict[str, dict[str, dict[str, Any]]] = {
             "top_investment_implications": [
                 {
                     "ticker": "TSM",
-                    "direction": "Watch",
+                    "direction": "Long",
                     "confidence": "Medium",
-                    "thesis": "台积电（TSM）：永庆深度投研 SOP——观望作 AI 链简单体；Q1 基金 clustering 与瓶颈逻辑 favor 流程定仓非 headline 交易",
+                    "thesis": "台积电（TSM）：永庆质量复利 lane（约10%增长加股息）——简单体赢家经完整 SOP 与估值门槛后做多；流程定仓非 headline momentum",
                 },
                 {
                     "ticker": "NVDA",
-                    "direction": "Watch",
-                    "confidence": "Medium",
-                    "thesis": "英伟达（NVDA）：深度覆盖框架——观望作算力第一环 landlord；全流程 SOP 后再把单季 momentum 当论点验证",
+                    "direction": "Long",
+                    "confidence": "Low",
+                    "thesis": "英伟达（NVDA）：永庆框架中半导体简单体龙头——仅当周期论点与估值经完整研究漏斗才 Long，拒绝聊天冲动",
                 },
             ],
             "golden_quotes": [

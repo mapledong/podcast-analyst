@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T05:38:17.956Z",
+  "generatedAt": "2026-06-28T05:47:17.837Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -91,15 +91,15 @@
       "investmentIdeas": [
         {
           "ticker": "BRK.B",
-          "direction": "Watch",
+          "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Buffett's insurance-float model remains the canonical permanent-capital compounder — Liberty conversation reinforces why long-duration liabilities plus disciplined investing create structural advantage"
+          "thesis": "Buffett's insurance-float model remains the canonical permanent-capital compounder — Barbalat frames Liberty's ~$120B platform in the same long-duration-liability plus disciplined-investing mold that structurally favors Berkshire"
         },
         {
           "ticker": "Private:Liberty Mutual",
-          "direction": "Watch",
+          "direction": "Long",
           "confidence": "Low",
-          "thesis": "Mutual structure aligns with policyholders over public-market quarterly pressure — large-scale branded-capital LP behavior signals sophisticated alternative and private investing capacity"
+          "thesis": "Mutual structure aligns with policyholders over quarterly public-market pressure — branded-capital LP behavior signals durable private investing capacity without external LP constraints"
         }
       ],
       "chronologySubject": "Vlad Barbalat · Liberty Mutual Investments"
@@ -132,15 +132,9 @@
       "investmentIdeas": [
         {
           "ticker": "DIS",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Parks (~$10B profit) anchor a flywheel Part 1 explains — IP refreshes (Marvel, Star Wars) feed physical monetization; legacy studio volatility smoothed by experiential and licensing nodes"
-        },
-        {
-          "ticker": "NFLX",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Streaming lacks Disney's cohesive universe and offline park bottom-funnel — Acquired frame highlights why DTC video alone misses flywheel economics Disney built over 100 years"
+          "direction": "Long",
+          "confidence": "High",
+          "thesis": "Parks (~$10B profit) anchor the flywheel Part 1 explains — IP refreshes (Marvel, Star Wars) feed physical monetization; Seven Powers on heritage IP and counterpositioning explain why Paramount cannot replicate a century of affection"
         }
       ],
       "chronologySubject": "The Walt Disney Company · Walt's Era"
@@ -173,15 +167,15 @@
       "investmentIdeas": [
         {
           "ticker": "Private:Clay",
-          "direction": "Watch",
+          "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Programmable GTM layer with pre-LLM revops positioning and integration moat — compounding as models improve; counterpositioned vs simplistic sales automation"
+          "thesis": "Programmable GTM layer with pre-LLM revops positioning and integration moat — Amin argues Clay compounded from ~$1M to ~$100M ARR because the boat was pointed before the LLM wave; counterpositioned vs simplistic sales automation"
         },
         {
           "ticker": "CRM",
-          "direction": "Watch",
+          "direction": "Short",
           "confidence": "Low",
-          "thesis": "Incumbent CRM stacks face creative GTM teams building parallel workflows in tools like Clay — watch attach and seat expansion pressure if programmatic outbound scales"
+          "thesis": "Incumbent CRM stacks face creative GTM teams building parallel workflows in tools like Clay — attach and seat expansion pressure if programmatic outbound scales"
         }
       ],
       "chronologySubject": "Kareem Amin · Clay"
@@ -2517,15 +2511,9 @@
       "investmentIdeas": [
         {
           "ticker": "NYT",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Modern successors inherit Pulitzer's playbook — subscription scale, visual storytelling, and data-driven newsroom ops — without the yellow-journalism tactics; operator depth still separates durable papers"
-        },
-        {
-          "ticker": "NWSA",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Mass-media heritage names (News Corp) trace lineage to sensational scale and cross-format IP — Pulitzer era shows format innovation and distribution obsession matter as much as reporting"
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Modern successor to Pulitzer's operator playbook — subscription scale, visual storytelling, and data-driven newsroom ops without yellow-journalism tactics; Senra's biography shows owner-operators who know every job in the building still win"
         }
       ],
       "chronologySubject": "Joseph Pulitzer · The World"
@@ -5067,15 +5055,15 @@
       "investmentIdeas": [
         {
           "ticker": "TSM",
-          "direction": "Watch",
+          "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Taiwan Semiconductor (TSM): Yongqing deep-research SOP — Watch as AI-chain simple body; Q1 fund clustering and bottleneck logic favor process-led sizing over headline trades"
+          "thesis": "Taiwan Semiconductor (TSM): Yongqing's quality-compounder lane (~10% growth plus dividend) — simple-body winner when full SOP clears valuation; process-led sizing, not headline momentum"
         },
         {
           "ticker": "NVDA",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "NVIDIA (NVDA): Deep coverage framework — Watch as compute first-link landlord; apply full SOP before treating one-quarter momentum as thesis validation"
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "NVIDIA (NVDA): Semis simple-body leader in Yongqing's framework — Long only when cycle thesis and valuation pass the full research funnel, not chatbot impulse"
         }
       ],
       "chronologySubject": "Yongqing · Deep Research SOP"

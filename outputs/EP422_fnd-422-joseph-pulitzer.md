@@ -75,13 +75,9 @@
 
 ## Investment Ideas
 
-> **1. NYT** · 🟡 WATCH · ●○○ Low
+> **1. NYT** · 🟢 LONG · ●●○ Medium
 >
-> Modern successors inherit Pulitzer's playbook — subscription scale, visual storytelling, and data-driven newsroom ops — without the yellow-journalism tactics; operator depth still separates durable papers
-
-> **2. NWSA** · 🟡 WATCH · ●○○ Low
->
-> Mass-media heritage names (News Corp) trace lineage to sensational scale and cross-format IP — Pulitzer era shows format innovation and distribution obsession matter as much as reporting
+> Modern successor to Pulitzer's operator playbook — subscription scale, visual storytelling, and data-driven newsroom ops without yellow-journalism tactics; Senra's biography shows owner-operators who know every job in the building still win
 
 ---
 

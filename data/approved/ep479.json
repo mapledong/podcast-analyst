@@ -57,15 +57,15 @@
   "top_investment_implications": [
     {
       "ticker": "BRK.B",
-      "direction": "Watch",
+      "direction": "Long",
       "confidence": "Medium",
-      "thesis": "Buffett's insurance-float model remains the canonical permanent-capital compounder — Liberty conversation reinforces why long-duration liabilities plus disciplined investing create structural advantage"
+      "thesis": "Buffett's insurance-float model remains the canonical permanent-capital compounder — Barbalat frames Liberty's ~$120B platform in the same long-duration-liability plus disciplined-investing mold that structurally favors Berkshire"
     },
     {
       "ticker": "Private:Liberty Mutual",
-      "direction": "Watch",
+      "direction": "Long",
       "confidence": "Low",
-      "thesis": "Mutual structure aligns with policyholders over public-market quarterly pressure — large-scale branded-capital LP behavior signals sophisticated alternative and private investing capacity"
+      "thesis": "Mutual structure aligns with policyholders over quarterly public-market pressure — branded-capital LP behavior signals durable private investing capacity without external LP constraints"
     }
   ],
   "golden_quotes": [

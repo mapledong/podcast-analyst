@@ -1,0 +1,24 @@
+---
+description: Hard rules for top_investment_implications direction fields in approved summaries
+globs:
+  - data/approved/**/*.json
+  - scripts/**/*bodies*.py
+  - prompts/extraction*.txt
+  - prompts/expansion*.txt
+---
+
+# Investment direction policy
+
+When writing or editing `top_investment_implications`:
+
+1. **Prefer Long or Short** tied to the episode thesis — not default Watch.
+2. **Max one Watch** per episode (`config/template.yaml` → `investment_policy.watch_max_count: 1`).
+3. **Never Watch on tradable tickers** (e.g. DIS, NVDA, BRK.B) — use Long/Short; fold comparative context into thesis.
+4. **Never Watch on Private: names** — use Long/Short on the business when cited.
+5. **At least one Long or Short** when any tradable ticker is listed (`require_directional_when_tradable: true`).
+
+`src/validate.py` treats violations as **errors**; `publish_approved_batch.py` and `publish_bilingual.py` will block publish.
+
+Framework / methodology episodes still assign Long/Short on example tickers when those tickers appear in implications (e.g. TSM Long after SOP clears), not blanket Watch.
+
+Reference prompts: `prompts/extraction_system.txt`, `prompts/extraction_acquired.txt`.

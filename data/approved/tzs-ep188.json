@@ -57,15 +57,15 @@
   "top_investment_implications": [
     {
       "ticker": "TSM",
-      "direction": "Watch",
+      "direction": "Long",
       "confidence": "Medium",
-      "thesis": "Taiwan Semiconductor (TSM): Yongqing deep-research SOP — Watch as AI-chain simple body; Q1 fund clustering and bottleneck logic favor process-led sizing over headline trades"
+      "thesis": "Taiwan Semiconductor (TSM): Yongqing's quality-compounder lane (~10% growth plus dividend) — simple-body winner when full SOP clears valuation; process-led sizing, not headline momentum"
     },
     {
       "ticker": "NVDA",
-      "direction": "Watch",
-      "confidence": "Medium",
-      "thesis": "NVIDIA (NVDA): Deep coverage framework — Watch as compute first-link landlord; apply full SOP before treating one-quarter momentum as thesis validation"
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "NVIDIA (NVDA): Semis simple-body leader in Yongqing's framework — Long only when cycle thesis and valuation pass the full research funnel, not chatbot impulse"
     }
   ],
   "golden_quotes": [

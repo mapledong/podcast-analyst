@@ -57,15 +57,15 @@
   "top_investment_implications": [
     {
       "ticker": "TSM",
-      "direction": "Watch",
+      "direction": "Long",
       "confidence": "Medium",
-      "thesis": "台积电（TSM）：永庆深度投研 SOP——观望作 AI 链简单体；Q1 基金 clustering 与瓶颈逻辑 favor 流程定仓非 headline 交易"
+      "thesis": "台积电（TSM）：永庆质量复利 lane（约10%增长加股息）——简单体赢家经完整 SOP 与估值门槛后做多；流程定仓非 headline momentum"
     },
     {
       "ticker": "NVDA",
-      "direction": "Watch",
-      "confidence": "Medium",
-      "thesis": "英伟达（NVDA）：深度覆盖框架——观望作算力第一环 landlord；全流程 SOP 后再把单季 momentum 当论点验证"
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "英伟达（NVDA）：永庆框架中半导体简单体龙头——仅当周期论点与估值经完整研究漏斗才 Long，拒绝聊天冲动"
     }
   ],
   "golden_quotes": [

@@ -76,15 +76,9 @@
   "top_investment_implications": [
     {
       "ticker": "DIS",
-      "direction": "Watch",
-      "confidence": "Medium",
-      "thesis": "Parks (~$10B profit) anchor a flywheel Part 1 explains — IP refreshes (Marvel, Star Wars) feed physical monetization; legacy studio volatility smoothed by experiential and licensing nodes"
-    },
-    {
-      "ticker": "NFLX",
-      "direction": "Watch",
-      "confidence": "Low",
-      "thesis": "Streaming lacks Disney's cohesive universe and offline park bottom-funnel — Acquired frame highlights why DTC video alone misses flywheel economics Disney built over 100 years"
+      "direction": "Long",
+      "confidence": "High",
+      "thesis": "Parks (~$10B profit) anchor the flywheel Part 1 explains — IP refreshes (Marvel, Star Wars) feed physical monetization; Seven Powers on heritage IP and counterpositioning explain why Paramount cannot replicate a century of affection"
     }
   ],
   "golden_quotes": [

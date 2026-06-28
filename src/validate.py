@@ -181,7 +181,6 @@ def _validate_investment_policy(
         report.add(
             "top_investment_implications",
             f"{watch_count} Watch ideas exceed max {watch_max}; prefer directional Long/Short",
-            "warning",
         )
 
     watch_tradable = [
@@ -193,7 +192,17 @@ def _validate_investment_policy(
         report.add(
             "top_investment_implications",
             f"Use Long/Short (not Watch) for tradable tickers: {', '.join(watch_tradable)}",
-            "warning",
+        )
+
+    watch_private = [
+        c.get("ticker", "")
+        for c in clues
+        if c.get("direction") == "Watch" and str(c.get("ticker", "")).startswith("Private:")
+    ]
+    if watch_private:
+        report.add(
+            "top_investment_implications",
+            f"Use Long/Short (not Watch) for private companies: {', '.join(watch_private)}",
         )
 
     tradable = [c for c in clues if _is_tradable_ticker(c.get("ticker", ""))]
@@ -201,7 +210,6 @@ def _validate_investment_policy(
         report.add(
             "top_investment_implications",
             "Include at least one directional Long or Short when tradable tickers are cited",
-            "warning",
         )
 
 

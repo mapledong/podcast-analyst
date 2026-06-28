@@ -49,6 +49,10 @@ Quality rules:
 - No meta prose like "in the transcript" or "the episode says".
 - Conclusions must foreground the episode's core takeaway.
 - Public company keywords and tickers should use canonical US ticker symbols.
+- Investment ideas (top_investment_implications): prefer Long/Short on the episode
+  thesis; max one Watch per episode; never Watch on tradable tickers or Private:*
+  names — publish will hard-fail validation otherwise. Framework-only episodes
+  still need directional Long/Short on cited examples when tickers are listed.
 
 Finish by printing:
 - New approved episode IDs.

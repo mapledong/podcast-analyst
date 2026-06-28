@@ -73,13 +73,13 @@
 
 ## Investment Ideas
 
-> **1. TSM** · 🟡 WATCH · ●●○ Medium
+> **1. TSM** · 🟢 LONG · ●●○ Medium
 >
-> Taiwan Semiconductor (TSM): Yongqing deep-research SOP — Watch as AI-chain simple body; Q1 fund clustering and bottleneck logic favor process-led sizing over headline trades
+> Taiwan Semiconductor (TSM): Yongqing's quality-compounder lane (≈10% growth plus dividend) — simple-body winner when full SOP clears valuation; process-led sizing, not headline momentum
 
-> **2. NVDA** · 🟡 WATCH · ●●○ Medium
+> **2. NVDA** · 🟢 LONG · ●○○ Low
 >
-> NVIDIA (NVDA): Deep coverage framework — Watch as compute first-link landlord; apply full SOP before treating one-quarter momentum as thesis validation
+> NVIDIA (NVDA): Semis simple-body leader in Yongqing's framework — Long only when cycle thesis and valuation pass the full research funnel, not chatbot impulse
 
 ---
 

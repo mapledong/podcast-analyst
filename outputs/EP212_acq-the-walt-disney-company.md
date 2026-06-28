@@ -96,13 +96,9 @@
 
 ## Investment Ideas
 
-> **1. DIS** · 🟡 WATCH · ●●○ Medium
+> **1. DIS** · 🟢 LONG · ●●● High
 >
-> Parks (≈$10B profit) anchor a flywheel Part 1 explains — IP refreshes (Marvel, Star Wars) feed physical monetization; legacy studio volatility smoothed by experiential and licensing nodes
-
-> **2. NFLX** · 🟡 WATCH · ●○○ Low
->
-> Streaming lacks Disney's cohesive universe and offline park bottom-funnel — Acquired frame highlights why DTC video alone misses flywheel economics Disney built over 100 years
+> Parks (≈$10B profit) anchor the flywheel Part 1 explains — IP refreshes (Marvel, Star Wars) feed physical monetization; Seven Powers on heritage IP and counterpositioning explain why Paramount cannot replicate a century of affection
 
 ---
 

@@ -57,15 +57,9 @@
   "top_investment_implications": [
     {
       "ticker": "NYT",
-      "direction": "Watch",
-      "confidence": "Low",
-      "thesis": "Modern successors inherit Pulitzer's playbook — subscription scale, visual storytelling, and data-driven newsroom ops — without the yellow-journalism tactics; operator depth still separates durable papers"
-    },
-    {
-      "ticker": "NWSA",
-      "direction": "Watch",
-      "confidence": "Low",
-      "thesis": "Mass-media heritage names (News Corp) trace lineage to sensational scale and cross-format IP — Pulitzer era shows format innovation and distribution obsession matter as much as reporting"
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Modern successor to Pulitzer's operator playbook — subscription scale, visual storytelling, and data-driven newsroom ops without yellow-journalism tactics; Senra's biography shows owner-operators who know every job in the building still win"
     }
   ],
   "golden_quotes": [
