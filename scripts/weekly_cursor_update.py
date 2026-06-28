@@ -36,6 +36,9 @@ Use existing repo tooling where it works:
   scripts/discover_colossus_podcasts.py.
 - Transcript fetch/transcribe: existing fetch/transcribe scripts.
 - Publish: scripts/publish_approved_batch.py.
+  Acquired EP numbers are auto-assigned by publish date (oldest=EP.1); never
+  hand-pick episode_number — publish will correct it. After bulk Acquired adds,
+  optionally run scripts/fix_acquired_catalog.py to recalibrate star ratings.
 - Ticker normalization: scripts/normalize_summary_tickers.py --publish.
 - Meta prose cleanup: scripts/fix_meta_prose_batch.py when relevant.
 - Web sync: node web/scripts/sync-content.mjs.

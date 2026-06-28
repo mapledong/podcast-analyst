@@ -17,6 +17,7 @@ sys.path.insert(0, str(ROOT))
 from src.render import render_summary, save_summary  # noqa: E402
 from src.template_config import template_path_for_podcast  # noqa: E402
 from src.validate import load_template_config, validate_rating_distribution, validate_summary  # noqa: E402
+from src.acquired_catalog import episode_number_by_date  # noqa: E402
 
 APPROVED_DIR = ROOT / "data" / "approved"
 EPISODES_YAML = ROOT / "config" / "episodes.yaml"
@@ -65,6 +66,41 @@ def _approved_paths(ids: list[str] | None) -> list[Path]:
     return [p for p in paths if p.stem not in ("batch_state",)]
 
 
+def _duplicate_episode_number(data: dict) -> str | None:
+    """Return error message if another approved file shares this podcast + EP number."""
+    podcast = data.get("podcast", "")
+    ep_num = data.get("metadata", {}).get("episode_number")
+    eid = data.get("episode_id", "")
+    if not podcast or ep_num is None or not eid:
+        return None
+    for path in APPROVED_DIR.glob("*.json"):
+        if path.stem in (eid, "batch_state"):
+            continue
+        other = json.loads(path.read_text(encoding="utf-8"))
+        if other.get("podcast") != podcast:
+            continue
+        if other.get("metadata", {}).get("episode_number") == ep_num:
+            return (
+                f"duplicate episode_number {ep_num} for {podcast}: "
+                f"{path.stem} and {eid} — fix metadata before publish"
+            )
+    return None
+
+
+def _ensure_acquired_episode_number(path: Path, data: dict) -> dict:
+    """Acquired EP.N = date order in catalog (oldest=1). Auto-correct on publish."""
+    eid = data.get("episode_id", path.stem)
+    if not eid.startswith("acq"):
+        return data
+    correct = episode_number_by_date(eid, APPROVED_DIR)
+    old = data.get("metadata", {}).get("episode_number")
+    if old != correct:
+        print(f"acquired renumber: {eid} EP.{old} → EP.{correct} (by date)")
+        data.setdefault("metadata", {})["episode_number"] = correct
+        path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    return data
+
+
 def publish(ids: list[str] | None, *, sync_web: bool) -> int:
     paths = _approved_paths(ids)
     entries: list[dict] = []
@@ -75,6 +111,11 @@ def publish(ids: list[str] | None, *, sync_web: bool) -> int:
             print(f"missing: {path}", file=sys.stderr)
             continue
         data = json.loads(path.read_text(encoding="utf-8"))
+        data = _ensure_acquired_episode_number(path, data)
+        dup = _duplicate_episode_number(data)
+        if dup:
+            print(f"validation failed for {path.stem}: {dup}", file=sys.stderr)
+            continue
         tmpl = load_template_config(template_path_for_podcast(data.get("podcast")))
         report = validate_summary(data, tmpl)
         rating = data.get("episode_rating", {}).get("overall")

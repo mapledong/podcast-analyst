@@ -48,17 +48,19 @@ def _load_episodes() -> list[tuple[Path, dict]]:
     return rows
 
 
-def renumber_by_date(rows: list[tuple[Path, dict]]) -> list[tuple[Path, dict, int]]:
+def renumber_by_date(rows: list[tuple[Path, dict]] | None = None) -> list[tuple[Path, dict, int]]:
     """Return (path, data, episode_number) sorted oldest→newest for assignment."""
+    from src.acquired_catalog import renumber_all
+
+    if rows is None:
+        return renumber_all(APPROVED)
+    # Legacy: accept pre-loaded rows (tests / callers)
     dated = []
     for path, data in rows:
         date = data.get("metadata", {}).get("date", "1970-01-01")
         dated.append((date, path, data))
     dated.sort(key=lambda x: (x[0], x[1].stem))
-    out = []
-    for i, (_, path, data) in enumerate(dated, start=1):
-        out.append((path, data, i))
-    return out
+    return [(path, data, i) for i, (_, path, data) in enumerate(dated, start=1)]
 
 
 def assign_ratings(rows: list[tuple[Path, dict, int]]) -> dict[str, int]:
@@ -116,8 +118,7 @@ def _cleanup_stale_outputs() -> None:
 
 
 def main() -> None:
-    rows = _load_episodes()
-    numbered = renumber_by_date(rows)
+    numbered = renumber_by_date()
     ratings = assign_ratings(numbered)
 
     yaml_entries: list[dict] = []

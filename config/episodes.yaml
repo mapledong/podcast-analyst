@@ -1286,6 +1286,15 @@ episodes:
   duration_minutes: 69
   youtube_url: https://www.youtube.com/watch?v=dL9XOw6Sk04
   podcast: Business Breakdowns
+- id: acq-the-walt-disney-company
+  episode_number: 212
+  title: The Walt Disney Company
+  guest: The Walt Disney Company
+  guest_role: 'Season 19 · Episode 4 · Part 1: Walt''s Era'
+  date: '2026-06-21'
+  duration_minutes: 271
+  youtube_url: ''
+  podcast: Acquired
 - id: acq-sp26-03
   episode_number: 211
   title: The Communist Capitalist Who Saved Investors a Trillion Dollars
@@ -1340,15 +1349,6 @@ episodes:
   duration_minutes: 55
   youtube_url: ''
   podcast: Business Breakdowns
-- id: acq-the-walt-disney-company
-  episode_number: 209
-  title: The Walt Disney Company
-  guest: The Walt Disney Company
-  guest_role: 'Season 19 · Episode 4 · Part 1: Walt''s Era'
-  date: '2026-06-21'
-  duration_minutes: 271
-  youtube_url: ''
-  podcast: Acquired
 - id: acq-the-nfl
   episode_number: 208
   title: The NFL
