@@ -2,6 +2,21 @@
   "podcast": "Founders",
   "episodes": [
     {
+      "id": "fnd-423-soichiro-honda",
+      "episode_number": 423,
+      "title": "Soichiro Honda",
+      "guest": "Soichiro Honda",
+      "guest_role": "Biography · Episode 423",
+      "date": "2026-06-28",
+      "duration_minutes": 48,
+      "colossus_url": "",
+      "audio_url": "https://traffic.megaphone.fm/DSLLC7238750256.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=oA_FT515VFM",
+      "rss_title": "#423 Soichiro Honda",
+      "podcast": "Founders",
+      "youtube_title": "Soichiro Honda: Creator of Best-selling Motor Vehicle of All Time"
+    },
+    {
       "id": "fnd-422-joseph-pulitzer",
       "episode_number": 422,
       "title": "Joseph Pulitzer",
@@ -87,7 +102,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5191348172.mp3?updated=1776602410",
       "youtube_url": "https://www.youtube.com/watch?v=-dh-QNlX12k",
       "rss_title": "#417 Arnold Schwarzenegger",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How Arnold Schwarzenegger Won"
     },
     {
       "id": "fnd-416-the-relentless-missionary-creating-agi-demis-hassabis",
@@ -116,7 +132,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC8428842056.mp3?updated=1774384781",
       "youtube_url": "https://www.youtube.com/watch?v=nqiuSshC9GA",
       "rss_title": "#415 How Elon Thinks",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How Elon Thinks"
     },
     {
       "id": "fnd-414-how-spacex-works",
@@ -130,7 +147,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC4974262170.mp3?updated=1772993997",
       "youtube_url": "https://www.youtube.com/watch?v=owZ6xh_gOdY",
       "rss_title": "#414 How SpaceX Works",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How SpaceX Works"
     },
     {
       "id": "fnd-413-how-to-run-down-a-dream",
@@ -144,7 +162,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1554020959.mp3?updated=1772499344",
       "youtube_url": "https://www.youtube.com/watch?v=eSZ4Xep1sJU",
       "rss_title": "#413 How To Run Down A Dream",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How To Run Down A Dream"
     },
     {
       "id": "fnd-412-how-roger-federer-works",
@@ -158,7 +177,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC9890521187.mp3?updated=1771462447",
       "youtube_url": "https://www.youtube.com/watch?v=g2-duG1-Jxc",
       "rss_title": "#412 How Roger Federer Works",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How Roger Federer Works."
     },
     {
       "id": "fnd-411-tortured-into-greatness-the-life-of-andre-agassi",
@@ -172,7 +192,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7222533594.mp3?updated=1770214061",
       "youtube_url": "https://www.youtube.com/watch?v=d_Bv59Rxo6w",
       "rss_title": "#411 Tortured Into Greatness: The Life of Andre Agassi",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Tortured Into Greatness: The Life of Andre Agassi"
     },
     {
       "id": "fnd-410-excellent-advice-for-living",
@@ -186,7 +207,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC2923830184.mp3?updated=1769379123",
       "youtube_url": "https://www.youtube.com/watch?v=RUKafK3xCfY",
       "rss_title": "#410 Excellent Advice for Living",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Excellent Advice For Living: 79 Maxims from a Wise Old Man"
     },
     {
       "id": "fnd-409-the-creative-genius-of-rick-rubin",
@@ -200,7 +222,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5718716588.mp3?updated=1767845611",
       "youtube_url": "https://www.youtube.com/watch?v=wYi4emYR89I",
       "rss_title": "#409 The Creative Genius of Rick Rubin",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Creative Genius of Rick Rubin"
     },
     {
       "id": "fnd-408-how-to-make-a-few-more-billion-dollars-brad-jacobs",
@@ -214,7 +237,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1460758037.mp3?updated=1767033383",
       "youtube_url": "https://www.youtube.com/watch?v=2c4LWQpuw9s",
       "rss_title": "#408 How to Make a Few MORE Billion Dollars: Brad Jacobs",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How To Make A Few MORE Billion Dollars: Brad Jacobs"
     },
     {
       "id": "fnd-407-bruce-springsteen-repairs-the-hole-in-himself",
@@ -228,7 +252,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1878810205.mp3?updated=1765769472",
       "youtube_url": "https://www.youtube.com/watch?v=YRctPFgRb8U",
       "rss_title": "#407 Bruce Springsteen Repairs the Hole in Himself",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Bruce Springsteen Repairs Himself"
     },
     {
       "id": "fnd-406-christian-von-koenigsegg",
@@ -242,7 +267,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC4927620691.mp3?updated=1764783448",
       "youtube_url": "https://www.youtube.com/watch?v=03IcWhHFNMM",
       "rss_title": "#406 Christian von Koenigsegg",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Genius of Christian von Koenigsegg"
     },
     {
       "id": "fnd-405-how-rockefeller-worked",
@@ -301,7 +327,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC2329734741.mp3?updated=1764796568",
       "youtube_url": "https://www.youtube.com/watch?v=Q5WIv9vGKpA",
       "rss_title": "#402 Thomas Peterffy: The $80 Billion Founder Who Automates Everything",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Billionaire Who Automates Everything: Thomas Peterffy"
     },
     {
       "id": "fnd-401-how-bill-gates-works",
@@ -345,7 +372,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5340727074.mp3?updated=1756144240",
       "youtube_url": "https://www.youtube.com/watch?v=aStHTTPxlis",
       "rss_title": "#399 How Elon Works",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How Elon Works"
     },
     {
       "id": "fnd-398-steve-jobs-in-his-own-words-make-something-wonderful",
@@ -374,7 +402,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5579352923.mp3?updated=1754276130",
       "youtube_url": "https://www.youtube.com/watch?v=x2Rj0sgjDSw",
       "rss_title": "#397 Jiro Ono: Simplicity Is The Ultimate Advantage",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Jiro Ono: Simplicity Is The Ultimate Advantage"
     },
     {
       "id": "fnd-396-the-obsession-of-enzo-ferrari",
@@ -417,7 +446,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC4905931383.mp3?updated=1752370101",
       "youtube_url": "https://www.youtube.com/watch?v=bijdxv0lG7w",
       "rss_title": "#394 An Orphan Who Built An Empire: Leonardo Del Vecchio and The Founding of Luxottica",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "This Orphan Built a $116 Billion Empire Without You Noticing"
     },
     {
       "id": "fnd-393-the-marketing-genius-of-the-michelin-brothers",
@@ -445,7 +475,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC2840070494.mp3?updated=1750708475",
       "youtube_url": "https://www.youtube.com/watch?v=ksDrpn7yNEo",
       "rss_title": "#392 Michele Ferrero and His $40 Billion Privately Owned Chocolate Empire",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Michele Ferrero's $40 Billion Privately Owned Chocolate Empire"
     },
     {
       "id": "fnd-391-jimmy-iovine",
@@ -459,7 +490,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC2071143661.mp3?updated=1749845332",
       "youtube_url": "https://www.youtube.com/watch?v=spK59Aj-sj4",
       "rss_title": "#391 Jimmy Iovine",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Jimmy Iovine: Founder of Interscope Records & Legendary Record Producer"
     },
     {
       "id": "fnd-390-rare-steve-jobs-interview",
@@ -473,7 +505,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC3562185186.mp3?updated=1751042842",
       "youtube_url": "https://www.youtube.com/watch?v=yY1Llgq1VbY",
       "rss_title": "#390 Rare Steve Jobs Interview",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Rare Steve Jobs’s Rare Interview"
     },
     {
       "id": "fnd-389-the-founder-of-jimmy-choo-tamara-mellon",
@@ -487,7 +520,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1056173157.mp3?updated=1748636102",
       "youtube_url": "https://www.youtube.com/watch?v=AOh9nnXRic4",
       "rss_title": "#389 The Founder of Jimmy Choo: Tamara Mellon",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How Tamara Mellon Built Jimmy Choo"
     },
     {
       "id": "fnd-388-jeff-bezos-s-shareholder-letters-all-of-them",
@@ -545,7 +579,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5638439389.mp3?updated=1748636105",
       "youtube_url": "https://www.youtube.com/watch?v=69j-tgjjZ8M",
       "rss_title": "#385 Michael Dell",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Life Story of Michael Dell"
     },
     {
       "id": "fnd-384-ken-griffin-founder-of-citadel-and-citadel-securities",
@@ -559,7 +594,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC2098106834.mp3?updated=1748636105",
       "youtube_url": "https://www.youtube.com/watch?v=DuYpQSMV44E",
       "rss_title": "#384 Ken Griffin: Founder of Citadel and Citadel Securities",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Ken Griffin: Founder of Citadel and Citadel Securities"
     },
     {
       "id": "fnd-383-todd-graves-and-his-10-billion-chicken-finger-dream",
@@ -573,7 +609,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC4433639257.mp3?updated=1748636106",
       "youtube_url": "https://www.youtube.com/watch?v=lKqva53YAzE",
       "rss_title": "#383 Todd Graves and his $10 Billion Chicken Finger Dream",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Todd Graves and His $10 Billion Chicken Finger Dream"
     },
     {
       "id": "fnd-382-who-is-michael-ovitz-the-rise-and-fall-and-rise-of-the",
@@ -630,7 +667,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5049394187.mp3?updated=1748636108",
       "youtube_url": "https://www.youtube.com/watch?v=X1IDehzSNoU",
       "rss_title": "#379 Jerry Jones (Dallas Cowboys)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Life Story of Jerry Jones: Owner of The Dallas Cowboys"
     },
     {
       "id": "fnd-378-the-last-oil-baron-leon-hess",
@@ -644,7 +682,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7460678778.mp3?updated=1748636109",
       "youtube_url": "https://www.youtube.com/watch?v=rDAbo1Gqujg",
       "rss_title": "#378 The Last Oil Baron: Leon Hess",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Last Oil Baron: Leon Hess"
     },
     {
       "id": "fnd-377-expanding-a-family-dynasty-marcus-wallenberg-jr",
@@ -658,7 +697,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC4198262108.mp3?updated=1748636110",
       "youtube_url": "https://www.youtube.com/watch?v=0YjkxONApG0",
       "rss_title": "#377 Expanding A Family Dynasty: Marcus Wallenberg Jr.",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Greatest Marketer of All Time and The Cofounder of the Michelin Family Dynasty Andre Michel"
     },
     {
       "id": "fnd-376-jensen-huang-founder-of-nvidia",
@@ -701,7 +741,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5764465077.mp3?updated=1748636112",
       "youtube_url": "https://www.youtube.com/watch?v=qTLehviusSs",
       "rss_title": "#374 Rare Jeff Bezos Interview",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Rare Jeff Bezos Interview"
     },
     {
       "id": "fnd-373-breakfast-with-brad-jacobs-how-to-make-a-few-billion-do",
@@ -715,7 +756,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC9406786370.mp3?updated=1748636112",
       "youtube_url": "https://www.youtube.com/watch?v=txzX11Zf_ZA",
       "rss_title": "#373 Breakfast with Brad Jacobs + How To Make A Few Billion Dollars",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Breakfast with Brad Jacobs + How To Make A Few Billion Dollars"
     },
     {
       "id": "fnd-372-amancio-ortega-the-genius-behind-the-inditex-group",
@@ -729,7 +771,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC8493549914.mp3?updated=1748636113",
       "youtube_url": "https://www.youtube.com/watch?v=6XYIo7-Scb8",
       "rss_title": "#372: Amancio Ortega: The Genius Behind the Inditex Group",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Amancio Ortega: The Genius Behind The Inditex Group"
     },
     {
       "id": "fnd-371-james-j-hill-the-empire-builder",
@@ -743,7 +786,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC2241445326.mp3?updated=1748636114",
       "youtube_url": "https://www.youtube.com/watch?v=fO64lPhHMa0",
       "rss_title": "#371 James J. Hill: The Empire Builder",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "James J. Hill: The Empire Builder"
     },
     {
       "id": "fnd-370-the-founder-of-ikea-ingvar-kamprad",
@@ -757,7 +801,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6935890254.mp3?updated=1748636114",
       "youtube_url": "https://www.youtube.com/watch?v=c9Crn_o5DW0",
       "rss_title": "#370 The Founder of IKEA: Ingvar Kamprad",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Founder of IKEA: Ingvar Kamprad"
     },
     {
       "id": "fnd-369-elon-musk-and-the-early-days-of-spacex",
@@ -786,7 +831,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC9071473708.mp3?updated=1748636117",
       "youtube_url": "https://www.youtube.com/watch?v=seMvuxRct1Q",
       "rss_title": "#368 Rockefeller's Autobiography",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Rockefeller's Autobiography"
     },
     {
       "id": "fnd-367-inside-the-contrarian-mind-of-sam-zell",
@@ -815,7 +861,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5872692034.mp3?updated=1748636118",
       "youtube_url": "https://www.youtube.com/watch?v=6y5t4TIQJJg",
       "rss_title": "#366 Mr. Beast Leaked Memo",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Mr Beast's Leaked Memo"
     },
     {
       "id": "fnd-365-nick-sleep-s-letters-the-full-collection-of-the-nomad-i",
@@ -829,7 +876,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1814146585.mp3?updated=1748636118",
       "youtube_url": "https://www.youtube.com/watch?v=4Y3-86dXpg4",
       "rss_title": "#365 Nick Sleep's Letters: The Full Collection of the Nomad Investment Partnership Letters to Partners",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Nick Sleep's Letters: The Full Collection of the Nomad Investment Partnership Letters"
     },
     {
       "id": "fnd-364-nick-zak-s-excellent-adventure-how-nick-sleep-and-qais",
@@ -843,7 +891,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6965041271.mp3?updated=1748636119",
       "youtube_url": "https://www.youtube.com/watch?v=EHvASCrRtd4",
       "rss_title": "#364 Nick & Zak's Excellent Adventure: How Nick Sleep and Qais Zaharia Built Their Investment Partnership",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Nick & Zak’s Excellent Adventure: How Nick Sleep & Qais Zakaria Built Their Partnership"
     },
     {
       "id": "fnd-363-li-lu-and-charlie-munger-and-warren-buffett",
@@ -872,7 +921,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC9251412355.mp3?updated=1748636120",
       "youtube_url": "https://www.youtube.com/watch?v=CslLl1fVK8U",
       "rss_title": "#362 Li Lu",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Li Lu"
     },
     {
       "id": "fnd-361-est-e-lauder",
@@ -886,7 +936,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC8057999024.mp3?updated=1748636121",
       "youtube_url": "https://www.youtube.com/watch?v=PLWjOO_1SSU",
       "rss_title": "#361 Estée Lauder",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Estée Lauder"
     },
     {
       "id": "fnd-360-robert-kierlin-founder-of-fastenal",
@@ -900,7 +951,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1737587047.mp3?updated=1748636121",
       "youtube_url": "https://www.youtube.com/watch?v=FDuAfkR6bck",
       "rss_title": "#360 Robert Kierlin: Founder of Fastenal",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Robert Kierlin: Founder of Fastenal"
     },
     {
       "id": "fnd-359-the-russian-rockefellers-the-nobel-family-dynasty",
@@ -914,7 +966,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC3071131334.mp3?updated=1748636122",
       "youtube_url": "https://www.youtube.com/watch?v=0eS7Z5te4EU",
       "rss_title": "#359 The Russian Rockefellers: The Nobel Family Dynasty",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Nobel Family Dynasty"
     },
     {
       "id": "fnd-358-i-had-dinner-with-john-mackey-founder-of-whole-foods",
@@ -928,7 +981,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7695130430.mp3?updated=1748636123",
       "youtube_url": "https://www.youtube.com/watch?v=SqMI-RugFk0",
       "rss_title": "#358 I had dinner with John Mackey, Founder of Whole Foods",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "I had dinner with John Mackey: Founder of Whole Foods"
     },
     {
       "id": "fnd-357-haruki-murakami",
@@ -942,7 +996,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC3728840094.mp3?updated=1748636123",
       "youtube_url": "https://www.youtube.com/watch?v=BWoRH5AtYF0",
       "rss_title": "#357 Haruki Murakami",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Simple Genius of Haruki Murakami"
     },
     {
       "id": "fnd-356-how-the-sun-rose-on-silicon-valley-bob-noyce-founder-of",
@@ -956,7 +1011,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7106078544.mp3?updated=1748636124",
       "youtube_url": "https://www.youtube.com/watch?v=QNP0QqLThyI",
       "rss_title": "#356 How The Sun Rose On Silicon Valley: Bob Noyce (Founder of Intel)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How The Sun Rose On Silicon Valley: Bob Noyce (Founder of Intel)"
     },
     {
       "id": "fnd-355-rare-bernard-arnault-interview",
@@ -1000,7 +1056,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6437355569.mp3?updated=1748636126",
       "youtube_url": "https://www.youtube.com/watch?v=nVWnDft6KW0",
       "rss_title": "#353 How To Be Rich by J. Paul Getty",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How To Be Rich by J. Paul Getty"
     },
     {
       "id": "fnd-352-j-paul-getty-the-richest-private-citizen-in-america",
@@ -1014,7 +1071,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5323576292.mp3?updated=1748636126",
       "youtube_url": "https://www.youtube.com/watch?v=WAmczA-JjGY",
       "rss_title": "#352 J. Paul Getty: The Richest Private Citizen in America",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "J. Paul Getty: The Richest Private Citizen in America"
     },
     {
       "id": "fnd-351-the-founder-of-rolex-hans-wilsdorf",
@@ -1028,7 +1086,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7013619269.mp3?updated=1748636127",
       "youtube_url": "https://www.youtube.com/watch?v=8MLvzAhKjlM",
       "rss_title": "#351 The Founder of Rolex: Hans Wilsdorf",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Founder of Rolex: Hans Wilsdorf"
     },
     {
       "id": "fnd-350-how-to-sell-like-steve-jobs",
@@ -1042,7 +1101,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7516826800.mp3?updated=1748636128",
       "youtube_url": "https://www.youtube.com/watch?v=k72aCBm7Jpk",
       "rss_title": "#350 How To Sell Like Steve Jobs",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How To Sell Like Steve Jobs"
     },
     {
       "id": "fnd-349-how-steve-jobs-kept-things-simple",
@@ -1056,7 +1116,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC3717733883.mp3?updated=1748636129",
       "youtube_url": "https://www.youtube.com/watch?v=Mf8MZ8Iy8sE",
       "rss_title": "#349 How Steve Jobs Kept Things Simple",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How Steve Jobs Kept Things Simple"
     },
     {
       "id": "fnd-348-the-financial-genius-behind-a-century-of-wall-street-sc",
@@ -1070,7 +1131,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7873176647.mp3?updated=1748636130",
       "youtube_url": "https://www.youtube.com/watch?v=cdVeSJHewDM",
       "rss_title": "#348 The Financial Genius Behind A Century of Wall Street Scandals: Ivar Kreuger",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Financial Genius Behind A Century of Wall Street Scandals: Ivar Kreuger"
     },
     {
       "id": "fnd-347-how-walt-disney-built-his-greatest-creation-disneyland",
@@ -1084,7 +1146,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6479243088.mp3?updated=1748636131",
       "youtube_url": "https://www.youtube.com/watch?v=Wfwyk1TK1Aw",
       "rss_title": "#347 How Walt Disney Built His Greatest Creation: Disneyland",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How Walt Disney Built His Greatest Creation: Disneyland"
     },
     {
       "id": "fnd-346-how-walt-disney-built-himself",
@@ -1112,7 +1175,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC4959868789.mp3?updated=1748636132",
       "youtube_url": "https://www.youtube.com/watch?v=X1xSXDDzlcM",
       "rss_title": "#345 George Lucas",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of George Lucas"
     },
     {
       "id": "fnd-344-quentin-tarantino",
@@ -1126,7 +1190,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC8209115527.mp3?updated=1748636133",
       "youtube_url": "https://www.youtube.com/watch?v=cT0Fo3rYJI4",
       "rss_title": "#344 Quentin Tarantino",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Autobiography of Quentin Tarantino"
     },
     {
       "id": "fnd-343-the-eternal-pursuit-of-unhappiness-david-ogilvy",
@@ -1140,7 +1205,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7819284053.mp3?updated=1748636134",
       "youtube_url": "https://www.youtube.com/watch?v=Z_SbuCOAOqQ",
       "rss_title": "#343 The Eternal Pursuit of Unhappiness: David Ogilvy",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Eternal Pursuit of Unhappiness by David Ogilvy"
     },
     {
       "id": "fnd-342-the-lessons-of-history-will-ariel-durant",
@@ -1154,7 +1220,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC4051810133.mp3?updated=1748636135",
       "youtube_url": "https://www.youtube.com/watch?v=d6AEeD4rQBA",
       "rss_title": "#342 The Lessons of History (Will & Ariel Durant)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Lessons of History by Will & Ariel Durant"
     },
     {
       "id": "fnd-341-cornelius-vanderbilt-tycoon-s-war",
@@ -1182,7 +1249,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC2890286138.mp3?updated=1748636136",
       "youtube_url": "https://www.youtube.com/watch?v=BrkJsLFtGyg",
       "rss_title": "#340 Michael Jordan and Kobe Bryant",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Michael Jordan And Kobe Bryant"
     },
     {
       "id": "fnd-339-joseph-duveen-robber-baron-art-dealer",
@@ -1196,7 +1264,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC8548694229.mp3?updated=1748636137",
       "youtube_url": "https://www.youtube.com/watch?v=q4Mfqt6F1Nk",
       "rss_title": "#339 Joseph Duveen: Robber Baron Art Dealer",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Robber Baron's Art Dealer: Joseph Duveen"
     },
     {
       "id": "fnd-338-monty-moncrief-texas-oil-billionaire",
@@ -1210,7 +1279,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC9604800976.mp3?updated=1748636138",
       "youtube_url": "https://www.youtube.com/watch?v=26akKrNC_pk",
       "rss_title": "#338 Monty Moncrief Texas Oil Billionaire",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Texas Oil Billionaire Monty Moncrief"
     },
     {
       "id": "fnd-337-napoleon-s-maxims-and-strategy",
@@ -1224,7 +1294,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC2635110960.mp3?updated=1748636139",
       "youtube_url": "https://www.youtube.com/watch?v=ZaPyk33pRM0",
       "rss_title": "#337 Napoleon's Maxims and Strategy",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Napoleon's Maxims and Strategy"
     },
     {
       "id": "fnd-336-how-to-lose-a-few-billion-dollars-samuel-insull",
@@ -1238,7 +1309,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC9469187103.mp3?updated=1748636139",
       "youtube_url": "https://www.youtube.com/watch?v=v6kails_NUk",
       "rss_title": "#336 How To Lose A Few Billion Dollars: Samuel Insull",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How To Lose A Few Billion Dollars: The Life Story of Samuel Insull"
     },
     {
       "id": "fnd-335-how-to-make-a-few-billion-dollars-brad-jacobs",
@@ -1252,7 +1324,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6731132797.mp3?updated=1748636140",
       "youtube_url": "https://www.youtube.com/watch?v=-GlgArhTGbQ",
       "rss_title": "#335 How To Make A Few Billion Dollars: Brad Jacobs",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How To Make A Few Billion Dollars by Brad Jacobs"
     },
     {
       "id": "fnd-334-oprah",
@@ -1266,7 +1339,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1099516141.mp3?updated=1748636141",
       "youtube_url": "https://www.youtube.com/watch?v=4tlJIeM05_s",
       "rss_title": "#334 Oprah",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Oprah In Her Own Words"
     },
     {
       "id": "fnd-333-red-bull-s-billionaire-maniac-founder-dietrich-mateschi",
@@ -1280,7 +1354,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC9887183960.mp3?updated=1748636141",
       "youtube_url": "https://www.youtube.com/watch?v=nrmjb5PC0ms",
       "rss_title": "#333 Red Bull's Billionaire Maniac Founder: Dietrich Mateschitz",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Red Bull's Billionaire Maniac Founder"
     },
     {
       "id": "fnd-332-jesus",
@@ -1294,7 +1369,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC3143812574.mp3?updated=1748636142",
       "youtube_url": "https://www.youtube.com/watch?v=F1lmA_bYZow",
       "rss_title": "#332 Jesus",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Life of Jesus"
     },
     {
       "id": "fnd-331-christian-dior",
@@ -1308,7 +1384,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6619038400.mp3?updated=1748636142",
       "youtube_url": "https://www.youtube.com/watch?v=9cx7trtr98E",
       "rss_title": "#331 Christian Dior",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Autobiography of Christian Dior"
     },
     {
       "id": "fnd-330-les-schwab-charlie-munger-recommended-this-book",
@@ -1322,7 +1399,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7744516697.mp3?updated=1748636143",
       "youtube_url": "https://www.youtube.com/watch?v=SCV64-7iMWA",
       "rss_title": "#330 Les Schwab (Charlie Munger recommended this book)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Les Schwab (Charlie Munger recommended this book)"
     },
     {
       "id": "fnd-329-charlie-munger-the-new-poor-charlie-s-almanack",
@@ -1336,7 +1414,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC2397654821.mp3?updated=1748636144",
       "youtube_url": "https://www.youtube.com/watch?v=e2YgnLewpN4",
       "rss_title": "#329 Charlie Munger (the NEW Poor Charlie's Almanack)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Charlie Munger (the NEW Poor Charlie's Almanack)"
     },
     {
       "id": "fnd-328-tom-murphy-buffett-s-favorite-manager",
@@ -1350,7 +1429,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6346908682.mp3?updated=1748636145",
       "youtube_url": "https://www.youtube.com/watch?v=qScpb2DIUxY",
       "rss_title": "#328 Tom Murphy (Buffett's favorite manager)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Tom Murphy (Warren Buffett's Favorite Manager)"
     },
     {
       "id": "fnd-327-ted-turner",
@@ -1364,7 +1444,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC2083946832.mp3?updated=1748636145",
       "youtube_url": "https://www.youtube.com/watch?v=HD3AqauHMy0",
       "rss_title": "#327 Ted Turner",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Autobiography of Ted Turner"
     },
     {
       "id": "fnd-326-anna-wintour",
@@ -1378,7 +1459,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7898473762.mp3?updated=1748636146",
       "youtube_url": "https://www.youtube.com/watch?v=npZmuHLtpd4",
       "rss_title": "#326 Anna Wintour",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Anna Wintour"
     },
     {
       "id": "fnd-325-larry-gagosian-billionaire-art-dealer",
@@ -1392,7 +1474,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6165362587.mp3?updated=1748636147",
       "youtube_url": "https://www.youtube.com/watch?v=r_r-X4Tfj-0",
       "rss_title": "#325 Larry Gagosian (Billionaire Art Dealer)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Billionaire Art Dealer Larry Gagosian"
     },
     {
       "id": "fnd-324-john-d-rockefeller-38-letters-rockefeller-wrote-to-his",
@@ -1406,7 +1489,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC8340544691.mp3?updated=1748636147",
       "youtube_url": "https://www.youtube.com/watch?v=wLWBzHbD9jg",
       "rss_title": "#324 John D. Rockefeller (38 Letters Rockefeller Wrote to His Son)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "John D  Rockefeller: 38 Letters Rockefeller Wrote to His Son"
     },
     {
       "id": "fnd-323-jimmy-buffett",
@@ -1420,7 +1504,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6628566029.mp3?updated=1748636149",
       "youtube_url": "https://www.youtube.com/watch?v=6bc27l4Chko",
       "rss_title": "#323 Jimmy Buffett",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Jimmy Buffett"
     },
     {
       "id": "fnd-322-herb-kelleher-southwest-airlines",
@@ -1434,7 +1519,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5299875450.mp3?updated=1748636149",
       "youtube_url": "https://www.youtube.com/watch?v=460sCtmGmKI",
       "rss_title": "#322 Herb Kelleher (Southwest Airlines)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Herb Kelleher: Founder of Southwest Airlines"
     },
     {
       "id": "fnd-321-working-with-jeff-bezos",
@@ -1448,7 +1534,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1104059035.mp3?updated=1748636150",
       "youtube_url": "https://www.youtube.com/watch?v=DUAQxt_rtiY",
       "rss_title": "#321 Working with Jeff Bezos",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Working with Jeff Bezos"
     },
     {
       "id": "fnd-320-the-making-of-winston-churchill-part-2",
@@ -1492,7 +1579,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1485705796.mp3?updated=1748636153",
       "youtube_url": "https://www.youtube.com/watch?v=1UqPlf2x9ZQ",
       "rss_title": "#318 Alistair Urquhart (Listen to this when you’re stressed)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Listen to this when you’re stressed: The Life of Alistair Urquhart"
     },
     {
       "id": "fnd-317-ed-catmull-founder-of-pixar",
@@ -1506,7 +1594,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5499403516.mp3?updated=1748636153",
       "youtube_url": "https://www.youtube.com/watch?v=zlby8I0z4O4",
       "rss_title": "#317 Ed Catmull (Founder of Pixar)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Ed Catmull (Founder of Pixar)"
     },
     {
       "id": "fnd-316-bugatti",
@@ -1520,7 +1609,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC4068692915.mp3?updated=1748636154",
       "youtube_url": "https://www.youtube.com/watch?v=7PwqcsQov_w",
       "rss_title": "#316 Bugatti",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Bugatti"
     },
     {
       "id": "fnd-315-balenciaga",
@@ -1534,7 +1624,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC9043888941.mp3?updated=1748636155",
       "youtube_url": "https://www.youtube.com/watch?v=yTt8bX4UfP8",
       "rss_title": "#315 Balenciaga",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Balenciaga"
     },
     {
       "id": "fnd-314-paul-graham-how-to-do-great-work",
@@ -1548,7 +1639,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC3065316656.mp3?updated=1748636155",
       "youtube_url": "https://www.youtube.com/watch?v=F3HZpu_YH64",
       "rss_title": "#314 Paul Graham (How To Do Great Work)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Paul Graham (How To Do Great Work)"
     },
     {
       "id": "fnd-313-christopher-nolan",
@@ -1562,7 +1654,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC3587772373.mp3?updated=1748636156",
       "youtube_url": "https://www.youtube.com/watch?v=BV8ho9Yw4H4",
       "rss_title": "#313 Christopher Nolan",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Christopher Nolan"
     },
     {
       "id": "fnd-312-mark-twain",
@@ -1576,7 +1669,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6687870766.mp3?updated=1748636156",
       "youtube_url": "https://www.youtube.com/watch?v=911Pa2_qyes",
       "rss_title": "#312 Mark Twain",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Mark Twain's Biography"
     },
     {
       "id": "fnd-311-james-cameron",
@@ -1590,7 +1684,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC8725063344.mp3?updated=1748636157",
       "youtube_url": "https://www.youtube.com/watch?v=k5XewuCE8Jo",
       "rss_title": "#311 James Cameron",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of James Cameron"
     },
     {
       "id": "fnd-310-walt-disney-and-picasso",
@@ -1604,7 +1699,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6727924210.mp3?updated=1748636158",
       "youtube_url": "https://www.youtube.com/watch?v=9_QO_zYjvro",
       "rss_title": "#310 Walt Disney and Picasso",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Walt Disney and Picasso"
     },
     {
       "id": "fnd-309-arnold-schwarzenegger-before-he-was-successful",
@@ -1618,7 +1714,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC3973753383.mp3?updated=1748636159",
       "youtube_url": "https://www.youtube.com/watch?v=IkkEBlYEXSY",
       "rss_title": "#309 Arnold Schwarzenegger (Before He Was Successful)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Arnold Schwarzenegger (Before He Was Successful)"
     },
     {
       "id": "fnd-308-the-founder-of-glock",
@@ -1632,7 +1729,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC8421537978.mp3?updated=1748636159",
       "youtube_url": "https://www.youtube.com/watch?v=-5aHF1gj8SU",
       "rss_title": "#308 The Founder of Glock",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of The Founder of Glock"
     },
     {
       "id": "fnd-307-the-world-s-great-family-dynasties-rockefeller-rothschi",
@@ -1646,7 +1744,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7621530923.mp3?updated=1748636160",
       "youtube_url": "https://www.youtube.com/watch?v=QQRp8NSpdVI",
       "rss_title": "#307: The World's Great Family Dynasties: Rockefeller, Rothschild, Morgan, & Toyada",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The World's Great Family Dynasties: Rockefeller, Rothschild, Morgan, & Toyada"
     },
     {
       "id": "fnd-306-david-ogilvy-confessions-of-an-advertising-man",
@@ -1660,7 +1759,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1615754727.mp3?updated=1748636161",
       "youtube_url": "https://www.youtube.com/watch?v=Y3jtPRJwsSM",
       "rss_title": "#306 David Ogilvy (Confessions of an Advertising Man)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "David Ogilvy (Confessions of an Advertising Man)"
     },
     {
       "id": "fnd-305-robert-caro-on-power-poverty-ruthlessness-obsession",
@@ -1674,7 +1774,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5431288644.mp3?updated=1748636161",
       "youtube_url": "https://www.youtube.com/watch?v=ulAWE6d4pVE",
       "rss_title": "#305 Robert Caro on power, poverty, ruthlessness, & obsession",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Robert Caro on Power, Poverty, Ruthlessness, Obsession & Running."
     },
     {
       "id": "fnd-304-sol-price-the-founder-who-taught-jim-sinegal-sam-walton",
@@ -1703,7 +1804,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5306670324.mp3?updated=1748636162",
       "youtube_url": "https://www.youtube.com/watch?v=KKGxbEatgnc",
       "rss_title": "#303 Rose Blumkin (Warren Buffett's Favorite Founder)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Rose Blumkin (Warren Buffett's Favorite Founder)"
     },
     {
       "id": "fnd-302-napoleon-the-mind-of-napoleon",
@@ -1717,7 +1819,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC8150935036.mp3?updated=1748636163",
       "youtube_url": "https://www.youtube.com/watch?v=AuRDLXuLZE8",
       "rss_title": "#302 Napoleon (The Mind of Napoleon)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Napoleon (The Mind of Napoleon)"
     },
     {
       "id": "fnd-301-tiger-woods",
@@ -1731,7 +1834,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1089006604.mp3?updated=1748636164",
       "youtube_url": "https://www.youtube.com/watch?v=MkuNdIeKwT4",
       "rss_title": "#301 Tiger Woods",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Tiger Woods"
     },
     {
       "id": "fnd-300-james-dyson-against-the-odds",
@@ -1745,7 +1849,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1058834872.mp3?updated=1748636164",
       "youtube_url": "https://www.youtube.com/watch?v=MxJGbLbW-G8",
       "rss_title": "#300 James Dyson (Against the Odds)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "James Dyson (Against the Odds)"
     },
     {
       "id": "fnd-299-steve-jobs-make-something-wonderful",
@@ -1759,7 +1864,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7292628933.mp3?updated=1748636166",
       "youtube_url": "https://www.youtube.com/watch?v=pLKKO8DeQQk",
       "rss_title": "#299 Steve Jobs (Make Something Wonderful)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Steve Jobs (Make Something Wonderful)"
     },
     {
       "id": "fnd-298-i-had-lunch-with-sam-zell",
@@ -1788,7 +1894,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC2869817804.mp3?updated=1748636167",
       "youtube_url": "https://www.youtube.com/watch?v=OPT6sWCgauA",
       "rss_title": "#297 Yvon Chouinard (Patagonia)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Yvon Chouinard (Founder of Patagonia)"
     },
     {
       "id": "fnd-296-bernard-arnault-the-richest-man-in-the-world",
@@ -1802,7 +1909,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7668729222.mp3?updated=1748636168",
       "youtube_url": "https://www.youtube.com/watch?v=bG4C5mQnWTo",
       "rss_title": "#296 Bernard Arnault (The Richest Man in the World)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Bernard Arnault (The Richest Man in the World)"
     },
     {
       "id": "fnd-295-i-had-dinner-with-charlie-munger",
@@ -1816,7 +1924,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC3542355289.mp3?updated=1748636169",
       "youtube_url": "https://www.youtube.com/watch?v=HJ3FsO-9oFU",
       "rss_title": "#295 I had dinner with Charlie Munger",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "I had dinner with Charlie Munger"
     },
     {
       "id": "fnd-294-napoleon",
@@ -1830,7 +1939,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5131875417.mp3?updated=1748636170",
       "youtube_url": "https://www.youtube.com/watch?v=_KY09iCsjRs",
       "rss_title": "#294 Napoleon",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Napoleon"
     },
     {
       "id": "fnd-293-ray-kroc-the-making-of-mcdonald-s",
@@ -1844,7 +1954,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC8284582390.mp3?updated=1748636170",
       "youtube_url": "https://www.youtube.com/watch?v=E6OSZ8uRONA",
       "rss_title": "#293: Ray Kroc (The Making of McDonald's)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Making of McDonald's: The Biography of Ray Kroc"
     },
     {
       "id": "fnd-292-daniel-ludwig-the-invisible-billionaire",
@@ -1858,7 +1969,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7367492885.mp3?updated=1748636171",
       "youtube_url": "https://www.youtube.com/watch?v=39zEP8kgNKc",
       "rss_title": "#292 Daniel Ludwig (The Invisible Billionaire)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Invisible Billionaire: Daniel Ludwig"
     },
     {
       "id": "fnd-291-david-packard-founder-of-hp",
@@ -1872,7 +1984,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6204672935.mp3?updated=1748636172",
       "youtube_url": "https://www.youtube.com/watch?v=Sgbd-KvDC3Q",
       "rss_title": "#291 David Packard (Founder of HP)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "David Packard (Founder of HP)"
     },
     {
       "id": "fnd-290-bill-gates",
@@ -1886,7 +1999,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6606679139.mp3?updated=1748636172",
       "youtube_url": "https://www.youtube.com/watch?v=5kP8HqwM-7E",
       "rss_title": "#290 Bill Gates",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Bill Gates"
     },
     {
       "id": "fnd-289-brunello-cucinelli",
@@ -1900,7 +2014,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1393688627.mp3?updated=1748636173",
       "youtube_url": "https://www.youtube.com/watch?v=uVVaKdo-kqc",
       "rss_title": "#289 Brunello Cucinelli",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Brunello Cucinelli"
     },
     {
       "id": "fnd-288-ralph-lauren",
@@ -1914,7 +2029,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5233782079.mp3?updated=1748636173",
       "youtube_url": "https://www.youtube.com/watch?v=mhOYgBkZR8g",
       "rss_title": "#288 Ralph Lauren",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Ralph Lauren"
     },
     {
       "id": "fnd-287-the-founder-of-rolls-royce",
@@ -1928,7 +2044,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC9277813448.mp3?updated=1748636174",
       "youtube_url": "https://www.youtube.com/watch?v=WhYwpWt_XoQ",
       "rss_title": "#287 The Founder of Rolls-Royce",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of The Founder of Rolls-Royce"
     },
     {
       "id": "fnd-286-warren-buffett-and-charlie-munger",
@@ -1957,7 +2074,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC3356572680.mp3?updated=1748636176",
       "youtube_url": "https://www.youtube.com/watch?v=2_0cxxf7Hgo",
       "rss_title": "#285 Jay Gould (How Jay Gould Built Wall Street's Biggest Fortune)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How Jay Gould Built Wall Street's Biggest Fortune"
     },
     {
       "id": "fnd-284-andrew-carnegie-and-henry-clay-frick",
@@ -1971,7 +2089,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5649463859.mp3?updated=1748636176",
       "youtube_url": "https://www.youtube.com/watch?v=pvWYSvs5VHc",
       "rss_title": "#284 Andrew Carnegie and Henry Clay Frick",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Andrew Carnegie and Henry Clay Frick's Bitter Partnership"
     },
     {
       "id": "fnd-283-andrew-carnegie",
@@ -1985,7 +2104,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1456817812.mp3?updated=1748636177",
       "youtube_url": "https://www.youtube.com/watch?v=flaB56wUuYM",
       "rss_title": "#283 Andrew Carnegie",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Autobiography of Andrew Carnegie"
     },
     {
       "id": "fnd-282-jeff-bezos-shareholder-letters",
@@ -2014,7 +2134,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7660677042.mp3?updated=1748636178",
       "youtube_url": "https://www.youtube.com/watch?v=bVQnCjfmf-U",
       "rss_title": "#281 Working with Steve Jobs",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Working With Steve Jobs"
     },
     {
       "id": "fnd-280-jimi-hendrix",
@@ -2028,7 +2149,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6164783894.mp3?updated=1748636179",
       "youtube_url": "https://www.youtube.com/watch?v=UUP3s88psNw",
       "rss_title": "#280 Jimi Hendrix",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Jimi Hendrix"
     },
     {
       "id": "fnd-279-what-i-learned-before-i-sold-to-warren-buffett",
@@ -2042,7 +2164,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7827618987.mp3?updated=1748636180",
       "youtube_url": "https://www.youtube.com/watch?v=C0PV8sFM8vE",
       "rss_title": "#279 What I Learned Before I Sold to Warren Buffett",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "What I Learned Before I Sold to Warren Buffett"
     },
     {
       "id": "fnd-278-peter-thiel",
@@ -2070,7 +2193,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC4250173843.mp3?updated=1748636181",
       "youtube_url": "https://www.youtube.com/watch?v=3Fi23AdobaQ",
       "rss_title": "#277 Paul Graham's Essays Part 3",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Paul Graham's Essays Part III"
     },
     {
       "id": "fnd-276-paul-graham-s-essays-part-2",
@@ -2114,7 +2238,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7268637249.mp3?updated=1748636183",
       "youtube_url": "https://www.youtube.com/watch?v=tfns2StzgRE",
       "rss_title": "#274 Jim Clark (Silicon Graphics, Netscape)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Jim Clark (Founder of Silicon Graphics, Netscape)"
     },
     {
       "id": "fnd-273-kobe-bryant-mamba-mentality",
@@ -2128,7 +2253,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC8245115784.mp3?updated=1748636184",
       "youtube_url": "https://www.youtube.com/watch?v=9BT7cArID38",
       "rss_title": "#273 Kobe Bryant (Mamba Mentality)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "Kobe Bryant (Mamba Mentality)"
     },
     {
       "id": "fnd-272-kobe-bryant-the-life",
@@ -2142,7 +2268,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC6941582600.mp3?updated=1748636184",
       "youtube_url": "https://www.youtube.com/watch?v=YdViczJGMQg",
       "rss_title": "#272 Kobe Bryant (The Life)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Kobe Bryant"
     },
     {
       "id": "fnd-271-vannevar-bush-engineer-of-the-american-century",
@@ -2156,7 +2283,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1932178269.mp3?updated=1748636185",
       "youtube_url": "https://www.youtube.com/watch?v=q5fERDkHZ4E",
       "rss_title": "#271 Vannevar Bush (Engineer of the American Century)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of Vannevar Bush (Engineer of the American Century)"
     },
     {
       "id": "fnd-270-vannevar-bush-pieces-of-the-action",
@@ -2185,7 +2313,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC5968709686.mp3?updated=1748636186",
       "youtube_url": "https://www.youtube.com/watch?v=ZPsJ3FlaRUQ",
       "rss_title": "#269 Sam Zell",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "What I learned from having lunch with Sam Zell"
     },
     {
       "id": "fnd-268-john-malone-cable-cowboy",
@@ -2199,7 +2328,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC8479376671.mp3?updated=1748636187",
       "youtube_url": "https://www.youtube.com/watch?v=iVeKq_lucNg",
       "rss_title": "#268 John Malone (Cable Cowboy)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "The Biography of John Malone (Cable Cowboy)"
     },
     {
       "id": "fnd-267-thomas-edison",
@@ -2521,7 +2651,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC1472904771.mp3?updated=1748636202",
       "youtube_url": "https://www.youtube.com/watch?v=AmkAH6MzRgM",
       "rss_title": "#245 Rick Rubin (In the Studio)",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How Rick Rubin Works"
     },
     {
       "id": "fnd-244-harry-snyder-in-n-out-burger",
@@ -5188,7 +5319,8 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC3678055168.mp3?updated=1748636321",
       "youtube_url": "https://www.youtube.com/watch?v=Qb5D22pXjKE",
       "rss_title": "#55 Tycoon's War: How Cornelius Vanderbilt Invaded a Country to Overthrow America's Most Famous Military Adventurer",
-      "podcast": "Founders"
+      "podcast": "Founders",
+      "youtube_title": "How Cornelius Vanderbilt Invaded a Country to Overthrow America's Most Famous Military Adventurer"
     },
     {
       "id": "fnd-54-the-epic-life-of-cornelius-vanderbilt",

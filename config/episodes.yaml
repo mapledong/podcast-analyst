@@ -1,6 +1,24 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
+- id: ep481
+  episode_number: 481
+  title: The Billion Dollar PDF
+  guest: Jeremy Giffon
+  guest_role: Investor · Private Markets
+  date: '2026-07-07'
+  duration_minutes: 75
+  youtube_url: ''
+  podcast: Invest Like the Best
+- id: ep480
+  episode_number: 480
+  title: Building AI Hardware to Make Inference Faster and Cheaper
+  guest: Gavin Ubieto & Rob Lockett
+  guest_role: Co-founders, Etched
+  date: '2026-06-30'
+  duration_minutes: 87
+  youtube_url: ''
+  podcast: Invest Like the Best
 - id: ep479
   episode_number: 479
   title: Investing $120 Billion in Permanent Capital
@@ -453,6 +471,15 @@ episodes:
   duration_minutes: 84
   youtube_url: https://www.youtube.com/watch?v=ny4NVhuJWYI
   podcast: Invest Like the Best
+- id: fnd-423-soichiro-honda
+  episode_number: 423
+  title: Soichiro Honda
+  guest: Soichiro Honda
+  guest_role: Biography · Episode 423 · Soichiro Honda & Masao Homma
+  date: '2026-06-28'
+  duration_minutes: 48
+  youtube_url: https://www.youtube.com/watch?v=oA_FT515VFM
+  podcast: Founders
 - id: ep422
   episode_number: 422
   title: The Focused Few

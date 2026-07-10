@@ -1,0 +1,110 @@
+{
+  "episode_id": "fnd-423-soichiro-honda",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 423,
+    "title": "Soichiro Honda",
+    "guest": "Soichiro Honda",
+    "guest_role": "Biography · Episode 423 · Soichiro Honda & Masao Homma",
+    "date": "2026-06-28",
+    "duration_minutes": 48,
+    "youtube_url": "https://www.youtube.com/watch?v=oA_FT515VFM",
+    "links": {
+      "founders": "https://www.founderspodcast.com/episodes/423-soichiro-honda",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj",
+      "youtube": "https://www.youtube.com/watch?v=oA_FT515VFM"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Honda Motor",
+    "Product Iteration",
+    "Manufacturing"
+  ],
+  "conclusion": "Senra frames Honda as the Japanese maverick who turned post-war scarcity into the best-selling motor vehicle in history — the Super Cub — by obsessively simplifying products, racing as R&D, and refusing government protectionism. The durable lesson mirrors James Dyson's takeaway: notice what is clumsy in an existing category, improve it continuously, retain control, and repeat forever. Honda's partnership with finance-and-distribution genius Takeo Fujisawa shows that engineering genius without a complementary operator rarely scales.",
+  "background": "David Senra reads Honda: The Man and His Machines (1975), prompted by James Dyson's career-long framework — take an existing product, fix what is bad or ignored, simplify it, keep improving, retain control, repeat. Honda lived through Japan's twentieth-century upheavals — depression, war, occupation, the economic miracle — as a free-spirited engineer who 'fumbled with machines' from childhood and never stopped.\n\nBorn poor in a remote village, Honda left school at sixteen for Tokyo repair shops, survived the 1923 earthquake that wiped most competitors, patented cast-metal spokes after wooden ones burned, and nearly went bankrupt twice before co-founding Honda Motor in 1949. Senra parallels Dyson, Walt Disney, Henry Ford, Edwin Land, and Sony's Masaru Ibuka to show how one man's engine obsession, paired with Fujisawa's distribution genius, created a company still defined by youth, research independence, and product excellence over profit-chasing.",
+  "important_facts": [
+    "Dyson framework and Super Cub scale: Honda's loop — improve existing products obsessively, simplify, retain control — produced the Super Cub, in uninterrupted production 60+ years with 100+ million units sold, the best-selling motor vehicle ever. He retired partly because new technology exceeded his personal capacity, yet stayed an employee-engineer smeared with grease alongside young staff.",
+    "Operator partnership and distribution: Engineering genius Honda nearly bankrupted himself giving credit to shops that never paid. Takeo Fujisawa joined as alter ego — upfront wholesale payment, a letter to 18,000 bicycle shops framing motorbikes as the next bicycle revolution, building 5,000 dealers overnight. Honda christened the Dream motorcycle but pivoted to the Cub to reach non-enthusiasts, targeting 'the man in the street, his wife, and his kids.'",
+    "Research independence and category creation: Honda spun R&D into a separate company funded by a fixed sales percentage because >99% of research fails and profit-focused parents starve it. He used Isle of Man racing as 'floating research,' refused import-protection petitions while importing world-class machine tools at 10× company assets during recession, and rewrote motorcycle stigma with 'You meet the nicest people on a Honda' — selling motorcycling, not just Hondas."
+  ],
+  "mental_model": {
+    "name": "Obsessive Improvement × R&D Independence × Category Reframing",
+    "components": "Start with the hardest repair or engineering problem when incumbents ignore you. Technology serves humanity, not the reverse — solve at the root. Separate research from manufacturing P&L so failure is tolerated. Pair product genius with finance and distribution talent. Win markets by changing social perception of the category, not only the spec sheet.",
+    "application": "Founders in hardware and consumer products should ask whether they control enough of the stack to keep iterating — Honda imported tools even at bankruptcy risk because quality tools outlast any one company. Investors in durable manufacturing moats should favor operator-engineer partnerships and R&D cultures that fund failure separately from quarterly margin pressure."
+  },
+  "key_insights": [
+    {
+      "view": "Success is 99% failure persevered.",
+      "question": "How did Honda think about failure?",
+      "answer": "He said success is 1% of work built on 99% called failure — never repeating the same mistake. Racing, wartime bombings, and recessions were inputs, not excuses; he extracted 'Truman's gift' scrap metal from firebombed factories and kept fumbling with machines."
+    },
+    {
+      "view": "Youth and research must stay independent of profit centers.",
+      "question": "Why spin out Honda R&D?",
+      "answer": "Manufacturing companies treat research like a stepchild chasing profits; Honda funded a separate institute with a fixed sales slice so engineers could fail repeatedly, propose freely, and hand breakthroughs back — he spent most time greased up with young engineers, not in the president's chair."
+    },
+    {
+      "view": "Best products know no national boundaries.",
+      "question": "Why reject import protection?",
+      "answer": "When peers petitioned government to block foreign goods, Honda refused — he bet on world-class tools and engines instead of tariffs, nearly lost everything in recession, and was saved by a banker relationship that Honda repaid for decades once Super Cub demand exploded in America."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "HMC",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Founder DNA still visible — engine-focused R&D, global scale, and product-led culture that created the best-selling vehicle ever; Senra's biography reinforces Honda as the rare survivor of post-war Japanese manufacturing through relentless iteration rather than protectionism"
+    }
+  ],
+  "golden_quotes": [
+    "Success can only be achieved through repeated failure — success represents 1% of your work which results only from the 99% that is called failure.",
+    "Technology is a tool to serve mankind — don't be used by the machine, use the machine.",
+    "You meet the nicest people on a Honda."
+  ],
+  "chronology": {
+    "subject": "Soichiro Honda · Honda Motor",
+    "events": [
+      {
+        "date": "1906",
+        "event": "Born in remote Japanese village; father a blacksmith"
+      },
+      {
+        "date": "1922",
+        "event": "Leaves school at 16 for Tokyo auto repair apprenticeship"
+      },
+      {
+        "date": "1923",
+        "event": "Great Kanto earthquake reduces repair shop from 16 workers to 2 — Honda survives"
+      },
+      {
+        "date": "1937",
+        "event": "Pivots from repair to piston-ring manufacturing; learns automation"
+      },
+      {
+        "date": "1949",
+        "event": "Co-founds Honda Motor; Fujisawa joins as business partner"
+      },
+      {
+        "date": "1958",
+        "event": "Super Cub launches — eventually 100M+ units, best-selling motor vehicle ever"
+      },
+      {
+        "date": "1973",
+        "event": "Retires from direct leadership to preserve company youthfulness"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Founders",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/base+fnd-423-soichiro-honda",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

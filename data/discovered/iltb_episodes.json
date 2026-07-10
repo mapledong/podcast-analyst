@@ -1,10 +1,36 @@
 {
-  "discovered_at": "2026-06-27T13:46:34.241167+00:00",
+  "discovered_at": "2026-07-10T13:22:02.594242+00:00",
   "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
   "cutoff_date": "2021-06-14",
-  "total": 304,
-  "with_youtube": 56,
+  "total": 306,
+  "with_youtube": 0,
   "episodes": [
+    {
+      "id": "ep481",
+      "episode_number": 481,
+      "title": "The Billion Dollar PDF",
+      "guest": "Jeremy Giffon",
+      "guest_role": "",
+      "date": "2026-07-07",
+      "duration_minutes": 75,
+      "audio_url": "https://traffic.megaphone.fm/CLS7913917793.mp3",
+      "apple_url": "https://colossus.com/episode/posting-priests-private-markets/",
+      "youtube_url": "",
+      "rss_title": "Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]"
+    },
+    {
+      "id": "ep480",
+      "episode_number": 480,
+      "title": "Building AI Hardware to Make Inference Faster and Cheaper",
+      "guest": "Etched",
+      "guest_role": "",
+      "date": "2026-06-30",
+      "duration_minutes": 87,
+      "audio_url": "https://traffic.megaphone.fm/CLS8561569864.mp3",
+      "apple_url": "https://colossus.com/episode/the-future-of-ai-hardware/",
+      "youtube_url": "",
+      "rss_title": "Etched - Building AI Hardware to Make Inference Faster and Cheaper - [Invest Like the Best, EP.480]"
+    },
     {
       "id": "ep479",
       "episode_number": 479,
@@ -15,9 +41,8 @@
       "duration_minutes": 69,
       "audio_url": "https://traffic.megaphone.fm/CLS2722061524.mp3",
       "apple_url": "https://colossus.com/episode/the-power-of-permanent-capital/",
-      "youtube_url": "https://www.youtube.com/watch?v=OxHWFmFHnoc",
-      "rss_title": "Vlad Barbalat - Investing $120 Billion in Permanent Capital - [Invest Like the Best, EP.479]",
-      "youtube_title": "Investing a $120 Billion Balance Sheet with No Outside Investors"
+      "youtube_url": "",
+      "rss_title": "Vlad Barbalat - Investing $120 Billion in Permanent Capital - [Invest Like the Best, EP.479]"
     },
     {
       "id": "ep478",
@@ -29,9 +54,8 @@
       "duration_minutes": 56,
       "audio_url": "https://traffic.megaphone.fm/CLS8649460424.mp3",
       "apple_url": "https://colossus.com/episode/courage-truth-justice/",
-      "youtube_url": "https://www.youtube.com/watch?v=3bKLiUU2cb8",
-      "rss_title": "Kareem Amin - The Unusual Approach to Company Building - [Invest Like the Best, EP.478]",
-      "youtube_title": "Clay’s Unusual Path to Building a Multi-Billion Dollar Company"
+      "youtube_url": "",
+      "rss_title": "Kareem Amin - The Unusual Approach to Company Building - [Invest Like the Best, EP.478]"
     },
     {
       "id": "ep477",
@@ -43,9 +67,8 @@
       "duration_minutes": 70,
       "audio_url": "https://traffic.megaphone.fm/CLS6537493219.mp3",
       "apple_url": "https://colossus.com/episode/investing-on-the-s-curve/",
-      "youtube_url": "https://www.youtube.com/watch?v=DZt1DDmMNGk",
-      "rss_title": "Alex Sacerdote - How to Invest Through Technology Cycles - [Invest Like the Best, EP.477]",
-      "youtube_title": "Why the AI Boom Is Just Getting Started"
+      "youtube_url": "",
+      "rss_title": "Alex Sacerdote - How to Invest Through Technology Cycles - [Invest Like the Best, EP.477]"
     },
     {
       "id": "ep476",
@@ -57,9 +80,8 @@
       "duration_minutes": 67,
       "audio_url": "https://traffic.megaphone.fm/CLS3105050568.mp3",
       "apple_url": "https://colossus.com/episode/order-out-of-chaos/",
-      "youtube_url": "https://www.youtube.com/watch?v=ThMtheE5eO0",
-      "rss_title": "Dara Khosrowshahi - Uber's Bet on AVs, AI, and Building a Super-App - [Invest Like the Best, EP.476]",
-      "youtube_title": "Uber CEO on AI, Autonomous Vehicles, and the Future of Transportation"
+      "youtube_url": "",
+      "rss_title": "Dara Khosrowshahi - Uber's Bet on AVs, AI, and Building a Super-App - [Invest Like the Best, EP.476]"
     },
     {
       "id": "ep475",
@@ -71,9 +93,8 @@
       "duration_minutes": 63,
       "audio_url": "https://traffic.megaphone.fm/CLS8547493168.mp3",
       "apple_url": "https://colossus.com/episode/reminiscences-of-an-investor/",
-      "youtube_url": "https://www.youtube.com/watch?v=vhTi_8QwXjg",
-      "rss_title": "Dan Loeb - Lessons from 30 Years of Investing - [Invest Like the Best, EP.475]",
-      "youtube_title": "Legendary Investor Dan Loeb on AI, Credit, & Third Point’s $25B Strategy"
+      "youtube_url": "",
+      "rss_title": "Dan Loeb - Lessons from 30 Years of Investing - [Invest Like the Best, EP.475]"
     },
     {
       "id": "ep474",
@@ -85,9 +106,8 @@
       "duration_minutes": 46,
       "audio_url": "https://traffic.megaphone.fm/CLS3936356790.mp3",
       "apple_url": "https://colossus.com/episode/the-new-rules-of-war/",
-      "youtube_url": "https://www.youtube.com/watch?v=7-HmjiXKlvg",
-      "rss_title": "Darren Farber on Iran, China, and the Rise of Neoprimes - [Invest Like the Best, EP.474]",
-      "youtube_title": "Former DoD Advisor on Iran, China and AI Warfare"
+      "youtube_url": "",
+      "rss_title": "Darren Farber on Iran, China, and the Rise of Neoprimes - [Invest Like the Best, EP.474]"
     },
     {
       "id": "ep473",
@@ -99,9 +119,8 @@
       "duration_minutes": 76,
       "audio_url": "https://traffic.megaphone.fm/CLS8755474209.mp3?updated=1779241717",
       "apple_url": "https://colossus.com/episode/watts-and-wafers/",
-      "youtube_url": "https://www.youtube.com/watch?v=Mmj_G9RlW-I",
-      "rss_title": "Gavin Baker - Watts and Wafers - [Invest Like the Best, EP.473]",
-      "youtube_title": "Watts, Wafers, and the Future of AI Infra | Gavin Baker"
+      "youtube_url": "",
+      "rss_title": "Gavin Baker - Watts and Wafers - [Invest Like the Best, EP.473]"
     },
     {
       "id": "ep472",
@@ -113,9 +132,8 @@
       "duration_minutes": 76,
       "audio_url": "https://traffic.megaphone.fm/CLS3629415437.mp3?updated=1778621552",
       "apple_url": "https://colossus.com/episode/cone-of-uncertainty/",
-      "youtube_url": "https://www.youtube.com/watch?v=wEEZPpx8qow",
-      "rss_title": "Krishna Rao - Anthropic's CFO on Compute, Scaling to $30B ARR, and the Returns to Frontier Intelligence - [Invest Like the Best, EP.472]",
-      "youtube_title": "Inside Anthropic's $100 Billion Al Compute Commitment | CFO Krishna Rao"
+      "youtube_url": "",
+      "rss_title": "Krishna Rao - Anthropic's CFO on Compute, Scaling to $30B ARR, and the Returns to Frontier Intelligence - [Invest Like the Best, EP.472]"
     },
     {
       "id": "ep471",
@@ -127,9 +145,8 @@
       "duration_minutes": 75,
       "audio_url": "https://traffic.megaphone.fm/CLS3515065653.mp3?updated=1777959750",
       "apple_url": "https://colossus.com/episode/ai-founder-mode/",
-      "youtube_url": "https://www.youtube.com/watch?v=eURcW5_uS60",
-      "rss_title": "Brian Chesky - AI Founder Mode - [Invest Like the Best, EP.471]",
-      "youtube_title": "How Brian Chesky Is Redesigning Airbnb for the AI Era"
+      "youtube_url": "",
+      "rss_title": "Brian Chesky - AI Founder Mode - [Invest Like the Best, EP.471]"
     },
     {
       "id": "ep470",
@@ -141,9 +158,8 @@
       "duration_minutes": 66,
       "audio_url": "https://traffic.megaphone.fm/CLS2354819617.mp3?updated=1777343956",
       "apple_url": "https://colossus.com/episode/you-retire-you-die/",
-      "youtube_url": "https://www.youtube.com/watch?v=S31J5ACsOqU",
-      "rss_title": "Paul Tudor Jones - Lessons From 50 Years in Markets - [Invest Like the Best, EP.470]",
-      "youtube_title": "Legendary Trader Paul Tudor Jones on AI Risk, Bubbles and Buffett"
+      "youtube_url": "",
+      "rss_title": "Paul Tudor Jones - Lessons From 50 Years in Markets - [Invest Like the Best, EP.470]"
     },
     {
       "id": "ep469",
@@ -155,9 +171,8 @@
       "duration_minutes": 45,
       "audio_url": "https://traffic.megaphone.fm/CLS5440706188.mp3?updated=1776949663",
       "apple_url": "https://colossus.com/episode/supply-demand-of-tokens/",
-      "youtube_url": "https://www.youtube.com/watch?v=LF3aUIM57uw",
-      "rss_title": "Dylan Patel - The Infinite Demand for Tokens, Claude Mythos, and Supply Constraints - [Invest Like the Best, EP.469]",
-      "youtube_title": "The Supply and Demand of AI Tokens | Dylan Patel Interview"
+      "youtube_url": "",
+      "rss_title": "Dylan Patel - The Infinite Demand for Tokens, Claude Mythos, and Supply Constraints - [Invest Like the Best, EP.469]"
     },
     {
       "id": "ep468",
@@ -169,9 +184,8 @@
       "duration_minutes": 92,
       "audio_url": "https://traffic.megaphone.fm/CLS4367259219.mp3?updated=1776741147",
       "apple_url": "https://colossus.com/episode/trillion-dollar-health-revolution/",
-      "youtube_url": "https://www.youtube.com/watch?v=QVSP8bGm2KQ",
-      "rss_title": "Alex Karnal - The Trillion-Dollar Health Revolution - [Invest Like the Best, EP.468]",
-      "youtube_title": "GLP-1s, Peptides, and The Trillion-Dollar Health Revolution"
+      "youtube_url": "",
+      "rss_title": "Alex Karnal - The Trillion-Dollar Health Revolution - [Invest Like the Best, EP.468]"
     },
     {
       "id": "ep467",
@@ -183,9 +197,8 @@
       "duration_minutes": 75,
       "audio_url": "https://traffic.megaphone.fm/CLS4605449926.mp3?updated=1776112623",
       "apple_url": "https://colossus.com/episode/betting-on-atoms/",
-      "youtube_url": "https://www.youtube.com/watch?v=m7H42MCzBCQ",
-      "rss_title": "Scott Nolan - SpaceX, Founders Fund, and Rebuilding American Uranium Enrichment - [Invest Like the Best, EP.467]",
-      "youtube_title": "From SpaceX to Founders Fund to Solving America's Nuclear Fuel Problem"
+      "youtube_url": "",
+      "rss_title": "Scott Nolan - SpaceX, Founders Fund, and Rebuilding American Uranium Enrichment - [Invest Like the Best, EP.467]"
     },
     {
       "id": "ep466",
@@ -197,9 +210,8 @@
       "duration_minutes": 62,
       "audio_url": "https://traffic.megaphone.fm/CLS1757520791.mp3?updated=1775592030",
       "apple_url": "https://colossus.com/episode/clarity-of-purpose/",
-      "youtube_url": "https://www.youtube.com/watch?v=5RnPko2HviQ",
-      "rss_title": "Alan Waxman - Private Credit and the Modern Financial System - [Invest Like the Best, EP.466]",
-      "youtube_title": "What 100 Years of American Finance Tells Us About Today"
+      "youtube_url": "",
+      "rss_title": "Alan Waxman - Private Credit and the Modern Financial System - [Invest Like the Best, EP.466]"
     },
     {
       "id": "ep465",
@@ -211,9 +223,8 @@
       "duration_minutes": 66,
       "audio_url": "https://traffic.megaphone.fm/CLS7427739184.mp3?updated=1774904050",
       "apple_url": "https://colossus.com/episode/building-general-physical-intelligence",
-      "youtube_url": "https://www.youtube.com/watch?v=qAEuCfgU6-I",
-      "rss_title": "Sergey Levine - Building LLMs for the Physical World - [Invest Like the Best, EP.465]",
-      "youtube_title": "World's Top Researcher on AI, LLMs, and Robot Intelligence"
+      "youtube_url": "",
+      "rss_title": "Sergey Levine - Building LLMs for the Physical World - [Invest Like the Best, EP.465]"
     },
     {
       "id": "ep464",
@@ -225,9 +236,8 @@
       "duration_minutes": 54,
       "audio_url": "https://traffic.megaphone.fm/CLS1941425055.mp3?updated=1774315696",
       "apple_url": "https://colossus.com/episode/building-a-machine/",
-      "youtube_url": "https://www.youtube.com/watch?v=0G1st54tRBI",
-      "rss_title": "Mitchell Green - Lessons from Cold Calling 10,000 Companies - [Invest Like the Best, EP.464]",
-      "youtube_title": "Why Now is the Best Time to Buy Public Software Companies"
+      "youtube_url": "",
+      "rss_title": "Mitchell Green - Lessons from Cold Calling 10,000 Companies - [Invest Like the Best, EP.464]"
     },
     {
       "id": "ep463",
@@ -239,9 +249,8 @@
       "duration_minutes": 70,
       "audio_url": "https://traffic.megaphone.fm/CLS2527788345.mp3?updated=1773710398",
       "apple_url": "https://colossus.com/episode/playing-a-different-game/",
-      "youtube_url": "https://www.youtube.com/watch?v=hFIvttHf0oo",
-      "rss_title": "William Hockey - Building the Operating System for the Dollar and Silicon Valley Heresy - [Invest Like the Best, EP.463]",
-      "youtube_title": "How to bet on yourself (without venture capital)"
+      "youtube_url": "",
+      "rss_title": "William Hockey - Building the Operating System for the Dollar and Silicon Valley Heresy - [Invest Like the Best, EP.463]"
     },
     {
       "id": "ep462",
@@ -253,9 +262,8 @@
       "duration_minutes": 81,
       "audio_url": "https://traffic.megaphone.fm/CLS5250833209.mp3?updated=1773108898",
       "apple_url": "https://colossus.com/episode/celebrating-heretics/",
-      "youtube_url": "https://www.youtube.com/watch?v=EB9V8d3ZYbc",
-      "rss_title": "Shyam Sankar - Celebrating Heretics - [Invest Like the Best, EP.462]",
-      "youtube_title": "How AI Is Changing Warfare | Palantir CTO"
+      "youtube_url": "",
+      "rss_title": "Shyam Sankar - Celebrating Heretics - [Invest Like the Best, EP.462]"
     },
     {
       "id": "ep461",
@@ -267,9 +275,8 @@
       "duration_minutes": 75,
       "audio_url": "https://traffic.megaphone.fm/CLS5258916659.mp3?updated=1772590723",
       "apple_url": "https://colossus.com/episode/the-best-seat-in-the-market",
-      "youtube_url": "https://www.youtube.com/watch?v=oB1nMi7t-uo",
-      "rss_title": "John Arnold - China, Energy Markets and Fixing America's Systems - [Invest Like the Best, EP.461]",
-      "youtube_title": "The World's Greatest Energy Trader on Markets, China, and AI"
+      "youtube_url": "",
+      "rss_title": "John Arnold - China, Energy Markets and Fixing America's Systems - [Invest Like the Best, EP.461]"
     },
     {
       "id": "ep460",
@@ -281,9 +288,8 @@
       "duration_minutes": 75,
       "audio_url": "https://traffic.megaphone.fm/CLS5459102822.mp3?updated=1771933632",
       "apple_url": "https://colossus.com/episode/the-art-of-public-private-market-investing",
-      "youtube_url": "https://www.youtube.com/watch?v=mBtmTmCC0ZM",
-      "rss_title": "Dan Sundheim - The Art of Public and Private Market Investing - [Invest Like the Best, EP.460]",
-      "youtube_title": "Inside Dan Sundheim's Bets on Anthropic, OpenAI, and SpaceX"
+      "youtube_url": "",
+      "rss_title": "Dan Sundheim - The Art of Public and Private Market Investing - [Invest Like the Best, EP.460]"
     },
     {
       "id": "ep459",
@@ -308,9 +314,8 @@
       "duration_minutes": 95,
       "audio_url": "https://traffic.megaphone.fm/CLS7883898186.mp3?updated=1770695228",
       "apple_url": "https://colossus.com/episode/inside-3g-capital/",
-      "youtube_url": "https://www.youtube.com/watch?v=YyBQMiiSnY8",
-      "rss_title": "Alex Behring and Daniel Schwartz - Inside 3G Capital - [Invest Like the Best, EP.458]",
-      "youtube_title": "The Secretive PE Firm Behind Burger King, Tim Hortons, Skechers and Hunter Douglas (3G Capital)"
+      "youtube_url": "",
+      "rss_title": "Alex Behring and Daniel Schwartz - Inside 3G Capital - [Invest Like the Best, EP.458]"
     },
     {
       "id": "ep457",
@@ -322,9 +327,8 @@
       "duration_minutes": 55,
       "audio_url": "https://traffic.megaphone.fm/CLS6351108007.mp3?updated=1770089197",
       "apple_url": "https://colossus.com/episode/backing-americas-future/",
-      "youtube_url": "https://www.youtube.com/watch?v=ID27juNvAfc",
-      "rss_title": "Ben Horowitz - Backing America’s Future - [Invest Like the Best, EP.457]",
-      "youtube_title": "Why The Laws of Startup Physics Have Changed | Ben Horowitz Interview"
+      "youtube_url": "",
+      "rss_title": "Ben Horowitz - Backing America’s Future - [Invest Like the Best, EP.457]"
     },
     {
       "id": "ep456",
@@ -336,9 +340,8 @@
       "duration_minutes": 76,
       "audio_url": "https://traffic.megaphone.fm/CLS3048664941.mp3?updated=1769654391",
       "apple_url": "https://colossus.com/episode/lessons-from-investing-in-700-companies",
-      "youtube_url": "https://www.youtube.com/watch?v=JUsb1FYOstA",
-      "rss_title": "Gokul Rajaram - Lessons from Investing in 700 Companies - [Invest Like the Best, EP.456]",
-      "youtube_title": "He Built The Revenue Engines for Google, Facebook & Square"
+      "youtube_url": "",
+      "rss_title": "Gokul Rajaram - Lessons from Investing in 700 Companies - [Invest Like the Best, EP.456]"
     },
     {
       "id": "ep455",
@@ -350,9 +353,8 @@
       "duration_minutes": 126,
       "audio_url": "https://traffic.megaphone.fm/CLS5957049474.mp3?updated=1768886345",
       "apple_url": "https://colossus.com/episode/creating-on-principle/",
-      "youtube_url": "https://www.youtube.com/watch?v=DcLy_VJHpy0",
-      "rss_title": "Patrick O’Shaughnessy - Creating on Principle - [Invest Like the Best, EP.455]",
-      "youtube_title": "How Ladder Became #1 Strength Training App"
+      "youtube_url": "",
+      "rss_title": "Patrick O’Shaughnessy - Creating on Principle - [Invest Like the Best, EP.455]"
     },
     {
       "id": "ep454",
@@ -377,9 +379,8 @@
       "duration_minutes": 62,
       "audio_url": "https://traffic.megaphone.fm/CLS6619786132.mp3?updated=1767944938",
       "apple_url": "https://joincolossus.com/episode/building-netflix/",
-      "youtube_url": "https://www.youtube.com/watch?v=SmZzcV0a2CY",
-      "rss_title": "Reed Hastings - Building Netflix - [Invest Like the Best, EP.453]",
-      "youtube_title": "The Netflix Culture Code That Changed Entertainment Forever | Reed Hastings Interview"
+      "youtube_url": "",
+      "rss_title": "Reed Hastings - Building Netflix - [Invest Like the Best, EP.453]"
     },
     {
       "id": "ep452",
@@ -391,9 +392,8 @@
       "duration_minutes": 107,
       "audio_url": "https://traffic.megaphone.fm/CLS7071600099.mp3?updated=1767945547",
       "apple_url": "https://joincolossus.com/episode/man-versus-machine",
-      "youtube_url": "https://www.youtube.com/watch?v=plx6Foxoam4",
-      "rss_title": "Henry Ellenbogen - Man Versus Machine - [Invest Like the Best, EP.452]",
-      "youtube_title": "Finding The 1% of Stocks That Matter | Henry Ellenbogen Interview"
+      "youtube_url": "",
+      "rss_title": "Henry Ellenbogen - Man Versus Machine - [Invest Like the Best, EP.452]"
     },
     {
       "id": "ep451",
@@ -405,9 +405,8 @@
       "duration_minutes": 85,
       "audio_url": "https://traffic.megaphone.fm/CLS5994992754.mp3?updated=1767945603",
       "apple_url": "https://joincolossus.com/episode/nvidia-v-google-%E2%80%A6-economics-of-ai/",
-      "youtube_url": "https://www.youtube.com/watch?v=cmUo4841KQw",
-      "rss_title": "Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI - [Invest Like the Best, EP.451]",
-      "youtube_title": "GPUs, TPUs, & The Economics of AI Explained | Gavin Baker Interview"
+      "youtube_url": "",
+      "rss_title": "Gavin Baker - Nvidia v. Google, Scaling Laws, and the Economics of AI - [Invest Like the Best, EP.451]"
     },
     {
       "id": "ep450",
@@ -419,9 +418,8 @@
       "duration_minutes": 67,
       "audio_url": "https://traffic.megaphone.fm/CLS8238779690.mp3?updated=1767945688",
       "apple_url": "https://joincolossus.com/episode/inside-a16z-growth/",
-      "youtube_url": "https://www.youtube.com/watch?v=cZB-0TVRsO8",
-      "rss_title": "David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth - [Invest Like the Best, EP.450]",
-      "youtube_title": "How a16z Growth Invests"
+      "youtube_url": "",
+      "rss_title": "David George - Building a16z Growth, Investing Across the AI Stack, and Why Markets Misprice Growth - [Invest Like the Best, EP.450]"
     },
     {
       "id": "ep449",
@@ -433,9 +431,8 @@
       "duration_minutes": 70,
       "audio_url": "https://traffic.megaphone.fm/CLS8198317626.mp3?updated=1767945725",
       "apple_url": "https://joincolossus.com/episode/inside-general-atlantic/",
-      "youtube_url": "https://www.youtube.com/watch?v=a34VyGpf8s4",
-      "rss_title": "Martín Escobari - Inside General Atlantic - [Invest Like the Best, EP.449]",
-      "youtube_title": "Inside General Atlantic: How a $100B Growth Equity Firm Invests"
+      "youtube_url": "",
+      "rss_title": "Martín Escobari - Inside General Atlantic - [Invest Like the Best, EP.449]"
     },
     {
       "id": "ep448",
@@ -447,9 +444,8 @@
       "duration_minutes": 62,
       "audio_url": "https://traffic.megaphone.fm/CLS9602368643.mp3?updated=1767945780",
       "apple_url": "https://joincolossus.com/episode/ari-emanuel-the-anti-ai-bet/",
-      "youtube_url": "https://www.youtube.com/watch?v=xDuqUlZZ8Vk",
-      "rss_title": "Ari Emanuel - The Anti-AI Bet - [Invest Like the Best, EP.448]",
-      "youtube_title": "Ari Emanuel’s \"Anti-AI\" Bet on Live Entertainment"
+      "youtube_url": "",
+      "rss_title": "Ari Emanuel - The Anti-AI Bet - [Invest Like the Best, EP.448]"
     },
     {
       "id": "ep447",
@@ -461,9 +457,8 @@
       "duration_minutes": 42,
       "audio_url": "https://traffic.megaphone.fm/CLS4036126152.mp3?updated=1767945800",
       "apple_url": "https://joincolossus.com/episode/the-power-of-story/",
-      "youtube_url": "https://www.youtube.com/watch?v=b3FVwGoSPQE",
-      "rss_title": "Wolfgang Hammer - The Power of Story - [Invest Like the Best, EP.447]",
-      "youtube_title": "How Great Founders Tell Their Story"
+      "youtube_url": "",
+      "rss_title": "Wolfgang Hammer - The Power of Story - [Invest Like the Best, EP.447]"
     },
     {
       "id": "ep446",
@@ -475,9 +470,8 @@
       "duration_minutes": 81,
       "audio_url": "https://traffic.megaphone.fm/CLS9376149052.mp3?updated=1767945867",
       "apple_url": "https://joincolossus.com/episode/building-bending-spoons/",
-      "youtube_url": "https://www.youtube.com/watch?v=uLSXhmRHpFU",
-      "rss_title": "Luca Ferrari - Building Bending Spoons - [Invest Like the Best, EP.446]",
-      "youtube_title": "The Playbook on Buying and Running Companies Forever"
+      "youtube_url": "",
+      "rss_title": "Luca Ferrari - Building Bending Spoons - [Invest Like the Best, EP.446]"
     },
     {
       "id": "ep445",
@@ -489,9 +483,8 @@
       "duration_minutes": 106,
       "audio_url": "https://traffic.megaphone.fm/CLS5019508518.mp3?updated=1767945998",
       "apple_url": "https://joincolossus.com/episode/building-ramp/",
-      "youtube_url": "https://www.youtube.com/watch?v=Rt7_Uk4yVnk",
-      "rss_title": "Karim Atiyeh - Building Ramp - [Invest Like the Best, EP.445]",
-      "youtube_title": "The Anatomy of Ramp's Hyper-Growth | Karim Atiyeh Interview"
+      "youtube_url": "",
+      "rss_title": "Karim Atiyeh - Building Ramp - [Invest Like the Best, EP.445]"
     },
     {
       "id": "ep444",
@@ -503,9 +496,8 @@
       "duration_minutes": 96,
       "audio_url": "https://traffic.megaphone.fm/CLS7039449544.mp3?updated=1767946576",
       "apple_url": "https://joincolossus.com/episode/the-us-vs-china-…the-21st-century/",
-      "youtube_url": "https://www.youtube.com/watch?v=DSY68wBQ97I",
-      "rss_title": "Dan Wang - The US vs China In The 21st Century - [Invest Like the Best, EP.444]",
-      "youtube_title": "China vs America: The Battle for Global Dominance Explained | Dan Wang interview"
+      "youtube_url": "",
+      "rss_title": "Dan Wang - The US vs China In The 21st Century - [Invest Like the Best, EP.444]"
     },
     {
       "id": "ep443",
@@ -517,9 +509,8 @@
       "duration_minutes": 82,
       "audio_url": "https://traffic.megaphone.fm/CLS5548199143.mp3?updated=1767946599",
       "apple_url": "https://joincolossus.com/episode/building-decagon/",
-      "youtube_url": "https://www.youtube.com/watch?v=SyfdU8_tn5Y",
-      "rss_title": "Jesse Zhang - Building Decagon - [Invest Like the Best, EP.443]",
-      "youtube_title": "The Future of AI Agents | Jesse Zhang Interview"
+      "youtube_url": "",
+      "rss_title": "Jesse Zhang - Building Decagon - [Invest Like the Best, EP.443]"
     },
     {
       "id": "ep442",
@@ -531,9 +522,8 @@
       "duration_minutes": 119,
       "audio_url": "https://traffic.megaphone.fm/CLS4002728814.mp3?updated=1767946650",
       "apple_url": "https://joincolossus.com/episode/inside-the-trill…llar-ai-buildout/",
-      "youtube_url": "https://www.youtube.com/watch?v=neTUnGUdfq4",
-      "rss_title": "Dylan Patel - Inside the Trillion-Dollar AI Buildout - [Invest Like the Best, EP.442]",
-      "youtube_title": "Why a $100 Million Salary for an Elite AI Researcher is a Bargain"
+      "youtube_url": "",
+      "rss_title": "Dylan Patel - Inside the Trillion-Dollar AI Buildout - [Invest Like the Best, EP.442]"
     },
     {
       "id": "ep441",
@@ -545,9 +535,8 @@
       "duration_minutes": 54,
       "audio_url": "https://traffic.megaphone.fm/CLS5960158397.mp3?updated=1767947872",
       "apple_url": "https://joincolossus.com/episode/building-an-entertainment-empire/",
-      "youtube_url": "https://www.youtube.com/watch?v=dAKINNEVs-M",
-      "rss_title": "Barry Diller - Building An Entertainment Empire - [Invest Like the Best, EP.441]",
-      "youtube_title": "How Barry Diller Built Entertainment Empires"
+      "youtube_url": "",
+      "rss_title": "Barry Diller - Building An Entertainment Empire - [Invest Like the Best, EP.441]"
     },
     {
       "id": "ep440",
@@ -559,9 +548,8 @@
       "duration_minutes": 92,
       "audio_url": "https://traffic.megaphone.fm/CLS2610477243.mp3?updated=1767947933",
       "apple_url": "https://joincolossus.com/episode/building-insight-partners/",
-      "youtube_url": "https://www.youtube.com/watch?v=g4zzkuFyI18",
-      "rss_title": "Jeff Horing - Building Insight Partners - [Invest Like the Best, EP.440]",
-      "youtube_title": "5 Ingredients for the Perfect Investment | Jeff Horing Interview"
+      "youtube_url": "",
+      "rss_title": "Jeff Horing - Building Insight Partners - [Invest Like the Best, EP.440]"
     },
     {
       "id": "ep439",
@@ -573,9 +561,8 @@
       "duration_minutes": 147,
       "audio_url": "https://traffic.megaphone.fm/CLS3773083193.mp3?updated=1767948040",
       "apple_url": "https://joincolossus.com/episode/building-alpha-s…ure-of-education/",
-      "youtube_url": "https://www.youtube.com/watch?v=a06qSgfccZs",
-      "rss_title": "Joe Liemandt  - Building Alpha School, and The Future of Education - [Invest Like the Best, EP.439]",
-      "youtube_title": "Alpha School's Disruptive Vision for the Future of Education"
+      "youtube_url": "",
+      "rss_title": "Joe Liemandt  - Building Alpha School, and The Future of Education - [Invest Like the Best, EP.439]"
     },
     {
       "id": "ep438",
@@ -587,9 +574,8 @@
       "duration_minutes": 98,
       "audio_url": "https://traffic.megaphone.fm/CLS3042335672.mp3?updated=1767948055",
       "apple_url": "https://joincolossus.com/episode/performance-during-pain/",
-      "youtube_url": "https://www.youtube.com/watch?v=937hn2TW-d0",
-      "rss_title": "Mark Bertolini - Performance During Pain - [Invest Like the Best, EP.438]",
-      "youtube_title": "The CEO Who Cheated Death, Slept an Hour a Night, and Built a Healthcare Empire"
+      "youtube_url": "",
+      "rss_title": "Mark Bertolini - Performance During Pain - [Invest Like the Best, EP.438]"
     },
     {
       "id": "ep437",
@@ -614,9 +600,8 @@
       "duration_minutes": 94,
       "audio_url": "https://traffic.megaphone.fm/CLS1669092691.mp3?updated=1767948349",
       "apple_url": "https://joincolossus.com/episode/full-contact-capitalism/",
-      "youtube_url": "https://www.youtube.com/watch?v=M7E9euLwWtE",
-      "rss_title": "Andrew Milgram - Full-Contact Capitalism - [Invest Like the Best, EP.436]",
-      "youtube_title": "The Data on America's Economic Split | Andrew Milgram Interview"
+      "youtube_url": "",
+      "rss_title": "Andrew Milgram - Full-Contact Capitalism - [Invest Like the Best, EP.436]"
     },
     {
       "id": "ep435",
@@ -628,9 +613,8 @@
       "duration_minutes": 113,
       "audio_url": "https://traffic.megaphone.fm/CLS8386413842.mp3?updated=1767948390",
       "apple_url": "https://joincolossus.com/episode/building-abstract/",
-      "youtube_url": "https://www.youtube.com/watch?v=QEICTvGNKrY",
-      "rss_title": "Ramtin Naimi - Building Abstract - [Invest Like the Best, EP.435]",
-      "youtube_title": "How This VC Went From Broke to Becoming the Hot Hand in Silicon Valley"
+      "youtube_url": "",
+      "rss_title": "Ramtin Naimi - Building Abstract - [Invest Like the Best, EP.435]"
     },
     {
       "id": "ep434",
@@ -655,9 +639,8 @@
       "duration_minutes": 74,
       "audio_url": "https://traffic.megaphone.fm/CLS2136515576.mp3?updated=1767948503",
       "apple_url": "https://joincolossus.com/episode/building-sixth-street/",
-      "youtube_url": "https://www.youtube.com/watch?v=zPFor81KJx0",
-      "rss_title": "Alan Waxman - Building Sixth Street - [Invest Like the Best, EP.433]",
-      "youtube_title": "The Investment Firm That Can 'Do Anything' | Sixth Street CEO Alan Waxman"
+      "youtube_url": "",
+      "rss_title": "Alan Waxman - Building Sixth Street - [Invest Like the Best, EP.433]"
     },
     {
       "id": "ep432",
@@ -682,9 +665,8 @@
       "duration_minutes": 91,
       "audio_url": "https://traffic.megaphone.fm/CLS5204568999.mp3?updated=1767948551",
       "apple_url": "https://joincolossus.com/episode/building-skims/",
-      "youtube_url": "https://www.youtube.com/watch?v=eNIwtH5-Lq8",
-      "rss_title": "Jens Grede - Building SKIMS - [Invest Like the Best, EP.431]",
-      "youtube_title": "How Jens Grede Hacked Pop Culture to Build a Billion-Dollar Brand"
+      "youtube_url": "",
+      "rss_title": "Jens Grede - Building SKIMS - [Invest Like the Best, EP.431]"
     },
     {
       "id": "ep430",
@@ -696,9 +678,8 @@
       "duration_minutes": 78,
       "audio_url": "https://traffic.megaphone.fm/CLS4770544876.mp3?updated=1767948618",
       "apple_url": "https://joincolossus.com/episode/music-markets/",
-      "youtube_url": "https://www.youtube.com/watch?v=p-aE0mkUWYM",
-      "rss_title": "The Chainsmokers - Music & Markets - [Invest Like the Best, EP.430]",
-      "youtube_title": "The Chainsmokers’ Journey from DJs to VCs"
+      "youtube_url": "",
+      "rss_title": "The Chainsmokers - Music & Markets - [Invest Like the Best, EP.430]"
     },
     {
       "id": "ep429",
@@ -710,9 +691,8 @@
       "duration_minutes": 45,
       "audio_url": "https://traffic.megaphone.fm/CLS1497635309.mp3?updated=1767948634",
       "apple_url": "https://joincolossus.com/episode/keys-to-successf…growth-investing/",
-      "youtube_url": "https://www.youtube.com/watch?v=15dCw7lxqRk",
-      "rss_title": "Jay Hoag - Keys to Successful Growth Investing - [Invest Like the Best, EP.429]",
-      "youtube_title": "Why This Veteran Venture Capitalist Avoids AI Hype | Jay Hoag Interview"
+      "youtube_url": "",
+      "rss_title": "Jay Hoag - Keys to Successful Growth Investing - [Invest Like the Best, EP.429]"
     },
     {
       "id": "ep428",
@@ -737,9 +717,8 @@
       "duration_minutes": 80,
       "audio_url": "https://traffic.megaphone.fm/CLS7062756763.mp3?updated=1767948686",
       "apple_url": "https://joincolossus.com/episode/the-gift-and-the…-staying-private/",
-      "youtube_url": "https://www.youtube.com/watch?v=o3rrGzTDH4k",
-      "rss_title": "Bill Gurley - The Gift and The Curse of Staying Private - [Invest Like the Best, EP.427]",
-      "youtube_title": "The Gift and The Curse of Staying Private with Bill Gurley"
+      "youtube_url": "",
+      "rss_title": "Bill Gurley - The Gift and The Curse of Staying Private - [Invest Like the Best, EP.427]"
     },
     {
       "id": "ep426",
@@ -751,9 +730,8 @@
       "duration_minutes": 77,
       "audio_url": "https://traffic.megaphone.fm/CLS3745475453.mp3?updated=1767948717",
       "apple_url": "https://joincolossus.com/episode/inside-apollo/",
-      "youtube_url": "https://www.youtube.com/watch?v=17bGyLB00s0",
-      "rss_title": "John Zito - Inside Apollo - [Invest Like the Best, EP.426]",
-      "youtube_title": "How Apollo Built an $800 Billion Capital Markets Giant | John Zito Interview"
+      "youtube_url": "",
+      "rss_title": "John Zito - Inside Apollo - [Invest Like the Best, EP.426]"
     },
     {
       "id": "ep425",
@@ -765,9 +743,8 @@
       "duration_minutes": 90,
       "audio_url": "https://traffic.megaphone.fm/CLS3639166396.mp3?updated=1767948780",
       "apple_url": "https://joincolossus.com/episode/building-alpine/",
-      "youtube_url": "https://www.youtube.com/watch?v=u2nHljZeMQ8",
-      "rss_title": "Graham Weaver - Building Alpine - [Invest Like the Best, EP.425]",
-      "youtube_title": "How Graham Weaver Turns Recent Grads Into CEOs"
+      "youtube_url": "",
+      "rss_title": "Graham Weaver - Building Alpine - [Invest Like the Best, EP.425]"
     },
     {
       "id": "ep424",
@@ -779,9 +756,8 @@
       "duration_minutes": 84,
       "audio_url": "https://traffic.megaphone.fm/CLS3589160334.mp3?updated=1767948798",
       "apple_url": "https://joincolossus.com/episode/how-spotify-thinks/",
-      "youtube_url": "https://www.youtube.com/watch?v=ny4NVhuJWYI",
-      "rss_title": "Gustav Söderström - How Spotify Thinks - [Invest Like the Best, EP.424]",
-      "youtube_title": "Spotify’s Journey To Profitability"
+      "youtube_url": "",
+      "rss_title": "Gustav Söderström - How Spotify Thinks - [Invest Like the Best, EP.424]"
     },
     {
       "id": "ep423",
@@ -806,9 +782,8 @@
       "duration_minutes": 81,
       "audio_url": "https://traffic.megaphone.fm/CLS6527290478.mp3?updated=1767948839",
       "apple_url": "https://joincolossus.com/episode/the-focused-few/",
-      "youtube_url": "https://www.youtube.com/watch?v=Ak7oLVMlhfM",
-      "rss_title": "David Senra - The Focused Few - [Invest Like the Best, EP.422]",
-      "youtube_title": "The Obsession That Creates Enduring Companies | David Senra Interview"
+      "youtube_url": "",
+      "rss_title": "David Senra - The Focused Few - [Invest Like the Best, EP.422]"
     },
     {
       "id": "ep421",
@@ -820,9 +795,8 @@
       "duration_minutes": 121,
       "audio_url": "https://traffic.megaphone.fm/CLS3811344622.mp3?updated=1767948878",
       "apple_url": "https://joincolossus.com/episode/investing-in-carvana/",
-      "youtube_url": "https://www.youtube.com/watch?v=laBi8as1FrE",
-      "rss_title": "Cliff Sosin - Investing in Carvana - [Invest Like the Best, EP.421]",
-      "youtube_title": "Investor Details Carvana's Wild Ride From -99% To Market Leader | Cliff Sosin Interview"
+      "youtube_url": "",
+      "rss_title": "Cliff Sosin - Investing in Carvana - [Invest Like the Best, EP.421]"
     },
     {
       "id": "ep420",
@@ -847,9 +821,8 @@
       "duration_minutes": 95,
       "audio_url": "https://traffic.megaphone.fm/CLS5138977228.mp3?updated=1767948913",
       "apple_url": "https://joincolossus.com/episode/finding-future-sp-500-companies/",
-      "youtube_url": "https://www.youtube.com/watch?v=502sB_IbjpQ",
-      "rss_title": "Neil Mehta - Finding Future S&P 500 Companies - [Invest Like the Best, EP.419]",
-      "youtube_title": "Finding the Next Figma, Wiz, & Stripe Before It's Obvious | Neil Mehta Interview"
+      "youtube_url": "",
+      "rss_title": "Neil Mehta - Finding Future S&P 500 Companies - [Invest Like the Best, EP.419]"
     },
     {
       "id": "ep418",
@@ -861,9 +834,8 @@
       "duration_minutes": 103,
       "audio_url": "https://traffic.megaphone.fm/CLS3094253966.mp3?updated=1767948958",
       "apple_url": "https://joincolossus.com/episode/turning-potential-into-prominence/",
-      "youtube_url": "https://www.youtube.com/watch?v=0RHFu4N3fq4",
-      "rss_title": "Michael Ovitz - Turning Potential into Prominence - [Invest Like the Best, EP.418]",
-      "youtube_title": "Michael Ovitz - Turning Potential Into Prominence"
+      "youtube_url": "",
+      "rss_title": "Michael Ovitz - Turning Potential into Prominence - [Invest Like the Best, EP.418]"
     },
     {
       "id": "ep417",
@@ -901,9 +873,8 @@
       "duration_minutes": 88,
       "audio_url": "https://traffic.megaphone.fm/CLS3041850024.mp3?updated=1767950946",
       "apple_url": "https://joincolossus.com/episode/investing-at-lone-pine/",
-      "youtube_url": "https://www.youtube.com/watch?v=WHYr_CeiGOM",
-      "rss_title": "Kelly Granat - Investing At Lone Pine - [Invest Like the Best, EP.414]",
-      "youtube_title": "Kelly Granat - Investing At Lone Pine"
+      "youtube_url": "",
+      "rss_title": "Kelly Granat - Investing At Lone Pine - [Invest Like the Best, EP.414]"
     },
     {
       "id": "ep413",
@@ -1045,9 +1016,8 @@
       "duration_minutes": 175,
       "audio_url": "https://traffic.megaphone.fm/CLS8145631955.mp3?updated=1767951362",
       "apple_url": "https://joincolossus.com/episode/jared-kushner-bu…sting-government/",
-      "youtube_url": "https://www.youtube.com/watch?v=EagrRPukYdc",
-      "rss_title": "Jared Kushner - The Mechanic - [Invest Like the Best, EP.403]",
-      "youtube_title": "Jared Kushner - The Mechanic"
+      "youtube_url": "",
+      "rss_title": "Jared Kushner - The Mechanic - [Invest Like the Best, EP.403]"
     },
     {
       "id": "ep402",

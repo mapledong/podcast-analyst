@@ -1,0 +1,107 @@
+{
+  "episode_id": "ep480",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 480,
+    "title": "Building AI Hardware to Make Inference Faster and Cheaper",
+    "guest": "Gavin Ubieto & Rob Lockett",
+    "guest_role": "Co-founders, Etched",
+    "date": "2026-06-30",
+    "duration_minutes": 87,
+    "youtube_url": "",
+    "links": {
+      "colossus": "https://colossus.com/episode/the-future-of-ai-hardware/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "AI Inference",
+    "Semiconductors",
+    "Private:Etched"
+  ],
+  "conclusion": "Etched is betting the next decade's largest market is inference — not training — and that transformer-specific silicon plus rack-scale vertical integration can compound 20–50% gains into order-of-magnitude systems wins. Gavin Ubieto and Rob Lockett taped out a working chip on the first attempt, raised $800 million, and claim $1B+ of customer demand by rejecting general-purpose data-center assumptions (from EDA corner cases to vendor timelines) that incumbents treat as immutable. The company pairs industry legends with elite twenty-somethings and optimizes for velocity, parallel schedules, and owning the full rack.",
+  "background": "Patrick reunites with Etched co-founders Gavin Ubieto and Rob Lockett three years after most experts told him twenty-something founders could not beat NVIDIA-class incumbents. Etched builds Sohu — a transformer-native inference ASIC delivered as a complete rack (chip, boards, power, interconnects, manufacturing) designed after ChatGPT rewrote the workload.\n\nRob's path runs through stage-four bone cancer in high school and a GPT-4 vision moment that diagnosed his old tumor photo in seconds — then hit a paywall, crystallizing the infrastructure gap. Gavin came from kernel optimization (Ex-Nor, acquired by Apple) and saw that data movement, not math, dominates decode speed. Together they argue inference COGS will define software economics and that general-purpose GPU stacks carry decades of buffer built for IoT-era generality that no longer applies.",
+  "important_facts": [
+    "First-tapeout milestone and demand: Etched became the first post-ChatGPT hardware startup to tape out a working chip on the first attempt, with $800M raised and more than $1B of customer demand for Sohu. Product is a full inference rack — not a chip alone — vertically integrating cold plates, interconnects, Taiwan factory test stations, and a two-megawatt in-office data center for 24/7 hardware cycles.",
+    "Technical thesis — transformer-native + low voltage: Architecture hard-wires transformer operations instead of retrofitting GPUs, runs at under half the voltage of competing AI chips, and optimizes cluster-scale memory bandwidth because future inference will require thousands of communicating chips, not eight-GPU nodes. Small constraint changes — ignoring sub-zero EDA timing corners data centers never hit — compound into large throughput and cost-per-token gains.",
+    "Recruiting machine — legends × naive velocity: 'Project-based recruiting' maps the hardest problems in semiconductor history to the people who actually solved them — e.g. Brian Loyler, who built NVIDIA's HGX/DGX systems generating tens of billions per quarter, paired with Gavin's high-school robotics partner Sanford. Philosophy: velocity over outreach, vertical integration over vendors ('best vendor is no vendor'), and willingness to fly engineers to Bangalore for six months when vendors slip a year."
+  ],
+  "mental_model": {
+    "name": "Constraint Reset × Vertical Integration × Inference-First Scale",
+    "components": "Incumbent semiconductor and data-center stacks optimize for generality across edge, IoT, and training — leaving inference as retrofit. When the workload is known (transformers), reset assumptions on timing, voltage, interconnect, and rack design simultaneously. Ship full systems, not chips; parallelize chip and rack schedules; hire #1 world experts for impossible problems and pair with hungry generalists who ask why buffers exist.",
+    "application": "Investors sizing AI infrastructure should separate training capex from inference opex curves — Etched argues decode speed and concurrency cap how many users access frontier models simultaneously. For founders, the lesson is naivety plus first-principles constraint hunting can unlock compounding gains incumbents cannot pursue without cannibalizing general-purpose franchises."
+  },
+  "key_insights": [
+    {
+      "view": "Inference becomes the biggest market in the world.",
+      "question": "Why focus on inference hardware now?",
+      "answer": "Software COGS is becoming inference-shaped — coding agents and AI-native products need fast decode and massive concurrency. Today only a few million paid AI users exist versus billions potential; serving giant models to billions requires orders-of-magnitude cheaper tokens per watt and cluster-scale memory bandwidth, not training-cluster thinking."
+    },
+    {
+      "view": "General-purpose buffer is the incumbent moat and weakness.",
+      "question": "How can startups beat NVIDIA?",
+      "answer": "Every layer — EDA defaults, power modules, standard cells — assumes freezing corners and multi-use generality. Etched rejects constraints that do not apply to 80°C data centers and transformer-only math, stacking 20% here and 2× there into system-level wins incumbents cannot adopt without abandoning breadth."
+    },
+    {
+      "view": "The company is a machine that builds machines.",
+      "question": "What matters beyond Sohu v1?",
+      "answer": "Rob and Gavin emphasize building the organizational machine — parallel rack iterations before silicon returns, thermal dummy chips to validate cold plates pre-tapeout, and a contrarian talent filter selecting engineers willing to bet careers on 10× claims against supply-constrained incumbents."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Inference TAM expansion validates datacenter AI spend even as specialized ASICs emerge — Etched's $1B+ demand signal and cluster-scale buildout thesis imply years of aggregate accelerator demand; NVIDIA remains the scaled incumbent while inference economics reshape software COGS"
+    },
+    {
+      "ticker": "Private:Etched",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Transformer-native inference rack with first-tapeout success, $800M raised, and vertical integration from chip through manufacturing — targets order-of-magnitude decode economics by resetting general-purpose semiconductor assumptions post-ChatGPT"
+    }
+  ],
+  "golden_quotes": [
+    "The entire semiconductor and data center industry is built on buffer — when you have a specific use case you can change the constraints a lot.",
+    "We think inference will become one of the largest markets in the world — the apex of every business is going to be inference as people use more coding agents.",
+    "Something must be wrong with you to join our company — people here want to prove the believers right, not just prove skeptics wrong."
+  ],
+  "chronology": {
+    "subject": "Gavin Ubieto & Rob Lockett · Etched",
+    "events": [
+      {
+        "date": "2023",
+        "event": "Etched founded to build transformer-native AI inference hardware"
+      },
+      {
+        "date": "Early",
+        "event": "Industry consensus: young founders cannot ship competitive AI chips"
+      },
+      {
+        "date": "2024–2025",
+        "event": "Functional simulation convinces semiconductor legend Mark Ross; raise scales past initial $3M guidance"
+      },
+      {
+        "date": "2025",
+        "event": "First-tapeout working chip; rack team built parallel to silicon using thermal validation chips"
+      },
+      {
+        "date": "2026",
+        "event": "$800M raised, $1B+ customer demand claimed; ILTB conversation on inference-first hardware"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 ILTB weekly",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/base+ep480",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

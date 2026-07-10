@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T05:47:17.837Z",
+  "generatedAt": "2026-07-10T13:32:04.282Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -9,7 +9,7 @@
       "accent_color": "#C45D3E",
       "youtube_url": "https://www.youtube.com/@ILTB_Podcast",
       "cover_url": "/covers/invest-like-the-best.jpg",
-      "episodeCount": 56
+      "episodeCount": 58
     },
     {
       "id": "acquired",
@@ -29,7 +29,7 @@
       "accent_color": "#2D5016",
       "youtube_url": "https://www.youtube.com/@founderspodcast1",
       "cover_url": "/covers/founders.jpg",
-      "episodeCount": 71
+      "episodeCount": 72
     },
     {
       "id": "business-breakdowns",
@@ -63,6 +63,88 @@
     }
   ],
   "episodes": [
+    {
+      "id": "ep481",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 481,
+      "title": "The Billion Dollar PDF",
+      "guest": "Jeremy Giffon",
+      "displayTitle": "Jeremy Giffon",
+      "displaySubtitle": "The Billion Dollar PDF",
+      "guestRole": "Investor · Private Markets",
+      "date": "2026-07-07",
+      "durationMinutes": 75,
+      "readMinutes": 4,
+      "rating": 5,
+      "conclusion": "Giffon distills hundreds of founder and LP conversations into a private-markets field guide: capital follows narrative before cash returns, the 'billion dollar PDF' sets the story everyone rests on until the next one arrives, and founders in volatile eras need cap-table optionality over heroic commitment. Culturally, he argues the priestly class has rotated from scientists to billionaires to posters — timeline-native institutions price securities off entertaining consensus, not nuance — while software economics shift from zero-marginal-cost strings to compute-heavy products with Walmart-scale dynamics.",
+      "youtubeUrl": "",
+      "summaryFile": "ep481.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private Markets",
+        "Venture Capital",
+        "AI Economics"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Giffon argues Mag7 long is reasonable capital allocation despite 'priced to perfection' fears — 52-week ranges near 100% show market nuance is gone; scale winners absorb compute-era margins and timeline-driven flows favor hyperscaler AI spend"
+        },
+        {
+          "ticker": "CRM",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "Per-seat SaaS model under structural pressure as software economics shift to compute-heavy delivery — Giffon sees seat-based pricing vulnerable if usage-based AI workflows displace incremental seat expansion"
+        }
+      ],
+      "chronologySubject": "Jeremy Giffon · Private Markets Observations"
+    },
+    {
+      "id": "ep480",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 480,
+      "title": "Building AI Hardware to Make Inference Faster and Cheaper",
+      "guest": "Gavin Ubieto & Rob Lockett",
+      "displayTitle": "Gavin Ubieto & Rob Lockett",
+      "displaySubtitle": "Building AI Hardware to Make Inference Faster and Cheaper",
+      "guestRole": "Co-founders, Etched",
+      "date": "2026-06-30",
+      "durationMinutes": 87,
+      "readMinutes": 4,
+      "rating": 5,
+      "conclusion": "Etched is betting the next decade's largest market is inference — not training — and that transformer-specific silicon plus rack-scale vertical integration can compound 20–50% gains into order-of-magnitude systems wins. Gavin Ubieto and Rob Lockett taped out a working chip on the first attempt, raised $800 million, and claim $1B+ of customer demand by rejecting general-purpose data-center assumptions (from EDA corner cases to vendor timelines) that incumbents treat as immutable. The company pairs industry legends with elite twenty-somethings and optimizes for velocity, parallel schedules, and owning the full rack.",
+      "youtubeUrl": "",
+      "summaryFile": "ep480.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AI Inference",
+        "Semiconductors",
+        "Private:Etched"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Inference TAM expansion validates datacenter AI spend even as specialized ASICs emerge — Etched's $1B+ demand signal and cluster-scale buildout thesis imply years of aggregate accelerator demand; NVIDIA remains the scaled incumbent while inference economics reshape software COGS"
+        },
+        {
+          "ticker": "Private:Etched",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Transformer-native inference rack with first-tapeout success, $800M raised, and vertical integration from chip through manufacturing — targets order-of-magnitude decode economics by resetting general-purpose semiconductor assumptions post-ChatGPT"
+        }
+      ],
+      "chronologySubject": "Gavin Ubieto & Rob Lockett · Etched"
+    },
     {
       "id": "ep479",
       "podcastId": "invest-like-the-best",
@@ -2435,6 +2517,41 @@
         }
       ],
       "chronologySubject": "Spotify product evolution"
+    },
+    {
+      "id": "fnd-423-soichiro-honda",
+      "podcastId": "founders",
+      "episodeNumber": 423,
+      "title": "Soichiro Honda",
+      "guest": "Soichiro Honda",
+      "displayTitle": "Soichiro Honda",
+      "displaySubtitle": "Biography · Episode 423 · Soichiro Honda & Masao Homma",
+      "guestRole": "Biography · Episode 423 · Soichiro Honda & Masao Homma",
+      "date": "2026-06-28",
+      "durationMinutes": 48,
+      "readMinutes": 4,
+      "rating": 5,
+      "conclusion": "Senra frames Honda as the Japanese maverick who turned post-war scarcity into the best-selling motor vehicle in history — the Super Cub — by obsessively simplifying products, racing as R&D, and refusing government protectionism. The durable lesson mirrors James Dyson's takeaway: notice what is clumsy in an existing category, improve it continuously, retain control, and repeat forever. Honda's partnership with finance-and-distribution genius Takeo Fujisawa shows that engineering genius without a complementary operator rarely scales.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oA_FT515VFM",
+      "summaryFile": "fnd-423-soichiro-honda.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Honda Motor",
+        "Product Iteration",
+        "Manufacturing"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "HMC",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Founder DNA still visible — engine-focused R&D, global scale, and product-led culture that created the best-selling vehicle ever; Senra's biography reinforces Honda as the rare survivor of post-war Japanese manufacturing through relentless iteration rather than protectionism"
+        }
+      ],
+      "chronologySubject": "Soichiro Honda · Honda Motor"
     },
     {
       "id": "ep422",
@@ -6587,44 +6704,6 @@
       "chronologySubject": "Robinhood"
     },
     {
-      "id": "zj-ep120",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 120,
-      "title": "XPeng's Liu Xianming on Removing Language from VLA, Physical AI, and the AI Transformation",
-      "guest": "Liu Xianming",
-      "displayTitle": "Liu Xianming",
-      "displaySubtitle": "XPeng Autonomous Driving Center Head",
-      "guestRole": "XPeng Autonomous Driving Center Head",
-      "date": "2025-10-30",
-      "durationMinutes": 109,
-      "readMinutes": 3,
-      "rating": 3,
-      "conclusion": "XPeng AI chief Liu Xianming argues the winning vehicle stack removes Language from VLA — vision and action co-trained for physics, not chat intermediaries. October 9, 2025 leadership reshuffle signals execution focus on physical AI; he frames AI as a multiplier on manufacturing and software, not a feature slide. Investors should Watch XPeng (XPEV) on whether stripped VLA ships measurable autonomy miles before capital-intensive humanoid narratives distract the market.",
-      "youtubeUrl": "",
-      "summaryFile": "zj-ep120.md",
-      "summaryFileZh": "zj-ep120.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "XPEV",
-        "VLA",
-        "Physical AI",
-        "Autonomous Driving"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "XPEV",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "XPeng (XPEV): Liu Xianming language-free VLA plus Oct 9 2025 leadership focus on physical AI — Watch autonomy miles and software mix as multiplier proof"
-        }
-      ],
-      "chronologySubject": "Liu Xianming · XPeng Physical AI"
-    },
-    {
       "id": "acq-trader-joes",
       "podcastId": "acquired",
       "episodeNumber": 203,
@@ -7648,6 +7727,44 @@
         }
       ],
       "chronologySubject": "Tan Jie · DeepMind Gemini Robotics"
+    },
+    {
+      "id": "zj-ep120",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 120,
+      "title": "XPeng's Liu Xianming on Removing Language from VLA, Physical AI, and the AI Transformation",
+      "guest": "Liu Xianming",
+      "displayTitle": "Liu Xianming",
+      "displaySubtitle": "XPeng Autonomous Driving Center Head",
+      "guestRole": "XPeng Autonomous Driving Center Head",
+      "date": "2025-10-30",
+      "durationMinutes": 109,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "XPeng AI chief Liu Xianming argues the winning vehicle stack removes Language from VLA — vision and action co-trained for physics, not chat intermediaries. October 9, 2025 leadership reshuffle signals execution focus on physical AI; he frames AI as a multiplier on manufacturing and software, not a feature slide. Investors should Watch XPeng (XPEV) on whether stripped VLA ships measurable autonomy miles before capital-intensive humanoid narratives distract the market.",
+      "youtubeUrl": "",
+      "summaryFile": "zj-ep120.md",
+      "summaryFileZh": "zj-ep120.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "XPEV",
+        "VLA",
+        "Physical AI",
+        "Autonomous Driving"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "XPEV",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "XPeng (XPEV): Liu Xianming language-free VLA plus Oct 9 2025 leadership focus on physical AI — Watch autonomy miles and software mix as multiplier proof"
+        }
+      ],
+      "chronologySubject": "Liu Xianming · XPeng Physical AI"
     },
     {
       "id": "zj-ep118",
