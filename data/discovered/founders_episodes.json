@@ -2,6 +2,21 @@
   "podcast": "Founders",
   "episodes": [
     {
+      "id": "fnd-424-peter-thiel-on-how-to-build-a-creative-monopoly",
+      "episode_number": 424,
+      "title": "Peter Thiel on How to Build a Creative Monopoly",
+      "guest": "Peter Thiel on How to Build a Creative Monopoly",
+      "guest_role": "Biography · Episode 424",
+      "date": "2026-07-10",
+      "duration_minutes": 53,
+      "colossus_url": "",
+      "audio_url": "https://traffic.megaphone.fm/DSLLC7405458315.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=b9tB9Q1XOM0",
+      "rss_title": "#424 Peter Thiel on How to Build a Creative Monopoly",
+      "podcast": "Founders",
+      "youtube_title": "Peter Thiel on How to Build a Creative Monopoly"
+    },
+    {
       "id": "fnd-423-soichiro-honda",
       "episode_number": 423,
       "title": "Soichiro Honda",
@@ -13,8 +28,7 @@
       "audio_url": "https://traffic.megaphone.fm/DSLLC7238750256.mp3",
       "youtube_url": "https://www.youtube.com/watch?v=oA_FT515VFM",
       "rss_title": "#423 Soichiro Honda",
-      "podcast": "Founders",
-      "youtube_title": "Soichiro Honda: Creator of Best-selling Motor Vehicle of All Time"
+      "podcast": "Founders"
     },
     {
       "id": "fnd-422-joseph-pulitzer",

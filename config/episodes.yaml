@@ -1,6 +1,16 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
+- id: ep482
+  episode_number: 482
+  title: How to Raise a Few Billion Dollars
+  guest: John Kim
+  guest_role: Chairman & President of Corporate Development, Lila Sciences; Author,
+    The Tao of Fundraising
+  date: '2026-07-14'
+  duration_minutes: 50
+  youtube_url: ''
+  podcast: Invest Like the Best
 - id: ep481
   episode_number: 481
   title: The Billion Dollar PDF
@@ -471,6 +481,15 @@ episodes:
   duration_minutes: 84
   youtube_url: https://www.youtube.com/watch?v=ny4NVhuJWYI
   podcast: Invest Like the Best
+- id: fnd-424-peter-thiel-on-how-to-build-a-creative-monopoly
+  episode_number: 424
+  title: Peter Thiel on How to Build a Creative Monopoly
+  guest: Peter Thiel
+  guest_role: Biography · Episode 424 · Zero to One (with Blake Masters)
+  date: '2026-07-10'
+  duration_minutes: 53
+  youtube_url: https://www.youtube.com/watch?v=b9tB9Q1XOM0
+  podcast: Founders
 - id: fnd-423-soichiro-honda
   episode_number: 423
   title: Soichiro Honda

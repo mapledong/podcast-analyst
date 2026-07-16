@@ -1,0 +1,107 @@
+{
+  "episode_id": "ep482",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 482,
+    "title": "How to Raise a Few Billion Dollars",
+    "guest": "John Kim",
+    "guest_role": "Chairman & President of Corporate Development, Lila Sciences; Author, The Tao of Fundraising",
+    "date": "2026-07-14",
+    "duration_minutes": 50,
+    "youtube_url": "",
+    "links": {
+      "colossus": "https://colossus.com/episode/how-to-raise-a-few-billion-dollars/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Fundraising",
+    "Venture Capital",
+    "Trust"
+  ],
+  "conclusion": "Kim reframes fundraising as a trust craft, not a pitch deck sport: money moves at the speed of trust, persuasion equals desire minus fear, and belief is not enough if LPs still feel risk. His laws — differentiation over complexity, size-speed-terms trade-offs, and pipeline × conversion × bite size — explain how General Catalyst scaled into consensus capital and why logic-first pitches stall. The through-line is that great fundraisers operate like secretaries of state: they represent the firm when the principal is not in the room.",
+  "background": "Patrick talks with John Kim, formerly a prolific fundraiser at General Catalyst who helped turn the firm into one of the world's largest venture platforms, now chairman and president of corporate development at Lila Sciences (scientific superintelligence; $500M+ raised) and author of The Tao of Fundraising.\n\nKim would rename the book Money Moves at the Speed of Trust — the interim product of any fundraise is narrative and relationship, not IRR. The conversation covers friends-and-family as a hard-reelect base, consensus campaigns that move institutions, Oprah as a master of institutional trust mechanics, and why over-indexing on logos (logic) is the most common failure mode.",
+  "important_facts": [
+    "Persuasion = desire − fear; belief ≠ trust: LPs can believe a plan is right and still not wire — Kim's skydiving/flying analogy. Friends-and-family is the hard-reelect base (trust already exists); first close often caps near 2× that base — a $1B first close tends to tap out around $2B. Start by mapping who desires your success more than they fear loss, then campaign outward.",
+    "Three physics laws of fundraising: (1) Differentiation = (track record + differentiation) ÷ complexity of story — complications destroy trust and kill internal advocates who cannot repeat the phrase. (2) Size, speed, and terms trade off — speed is really trust/scarcity; fake scarcity destroys credibility. (3) Pipeline math: pipeline × conversion ratio × bite size — once past hard-reelect, conversion ratio is the only lever that matters.",
+    "Consensus and courage: Institutional capital hides behind committees that almost never make contrarian bets — build consistency with pensions, consultants, and sovereigns until GC-style consensus forms, then have courage to lose early innovators who say you are too big. Differentiation requires sacrifice — firms that branded 'never weapons' then chased defense lost consistency and their why."
+  ],
+  "mental_model": {
+    "name": "Desire−Fear × Trust Velocity × Pipeline Conversion",
+    "components": "Desire and fear are emotional/ethical states; logic rationalizes a decision already felt. Trust is the last unlock after belief. Differentiation must be costly and consistent; complexity of story is the denominator. Campaigns convert a pipeline at a known ratio once the hard-reelect base is mapped. Consensus removes fear for committee capital but forces founders to abandon pure contrarian LP bases.",
+    "application": "Founders and GPs should audit every pitch for fear in the room, not just IRR slides. Improve conversion by sharpening track record, costly differentiation, and a repeatable one-liner. Never bluff scarcity. When scaling, decide whether size serves a real why — or prepare for the innovator's dilemma of losing early believers."
+  },
+  "key_insights": [
+    {
+      "view": "Money moves at the speed of trust.",
+      "question": "Why do logical pitches still fail?",
+      "answer": "Belief gets you 'this makes sense'; trust gets the wire. People rationalize risk down rather than being truly risk-loving. Address fear and desire first — logos is the output of a successful meeting, not the input."
+    },
+    {
+      "view": "Differentiation requires sacrifice.",
+      "question": "How do scaled firms keep raising?",
+      "answer": "Find a durable why for size, not branding. Inconsistent mandates (e.g. never weapons → chase weapons) erase differentiation. Build consensus fund-by-fund with institutional reciprocity, then accept losing innovator LPs who need you small."
+    },
+    {
+      "view": "Fundraisers are secretaries of state.",
+      "question": "Who should represent you?",
+      "answer": "Unlike cabinet roles with budget control, fundraising faces parties you cannot command — the first impression when you are not in the room must match the principal. Hire for that diplomatic trust, not pure sales energy."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Lila Sciences",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Kim is now raising and structuring capital for scientific-superintelligence ambitions with $500M+ already raised — fundraising craft plus corporate-development seat signals serious institutional access into a high-capex AI-science bet"
+    },
+    {
+      "ticker": "Private:General Catalyst",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Kim's consensus-building playbook explains how GC scaled into large-pool venture — firms that intentionally convert innovator capital into institutional consensus capture durable AUM even as early LPs churn"
+    }
+  ],
+  "golden_quotes": [
+    "Money moves at the speed of trust.",
+    "Persuasion equals desire minus fear — belief is not trust.",
+    "Great differentiation requires great sacrifice."
+  ],
+  "chronology": {
+    "subject": "John Kim · Fundraising Career",
+    "events": [
+      {
+        "date": "GC years",
+        "event": "Helps General Catalyst raise billions and scale into a top-tier venture platform via consensus campaigns"
+      },
+      {
+        "date": "Book",
+        "event": "Publishes The Tao of Fundraising — persuasion, trust, and the physics laws of capital"
+      },
+      {
+        "date": "2020s",
+        "event": "Joins Lila Sciences as chairman & president of corporate development"
+      },
+      {
+        "date": "2025–2026",
+        "event": "Lila Sciences raises $500M+ toward scientific superintelligence"
+      },
+      {
+        "date": "2026-07",
+        "event": "ILTB conversation on desire−fear, belief vs trust, and raising billions"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 ILTB weekly",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/base+ep482",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

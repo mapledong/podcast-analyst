@@ -1,10 +1,23 @@
 {
-  "discovered_at": "2026-07-10T13:22:02.594242+00:00",
+  "discovered_at": "2026-07-16T13:23:22.505805+00:00",
   "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
   "cutoff_date": "2021-06-14",
-  "total": 306,
+  "total": 307,
   "with_youtube": 0,
   "episodes": [
+    {
+      "id": "ep482",
+      "episode_number": 482,
+      "title": "How to Raise a Few Billion Dollars",
+      "guest": "John Kim",
+      "guest_role": "",
+      "date": "2026-07-14",
+      "duration_minutes": 50,
+      "audio_url": "https://traffic.megaphone.fm/CLS8349497052.mp3",
+      "apple_url": "https://colossus.com/episode/how-to-raise-a-few-billion-dollars/",
+      "youtube_url": "",
+      "rss_title": "John Kim - How to Raise a Few Billion Dollars - [Invest Like the Best, EP.482]"
+    },
     {
       "id": "ep481",
       "episode_number": 481,
