@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T13:34:34.122Z",
+  "generatedAt": "2026-07-16T13:46:05.525Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -49,7 +49,7 @@
       "accent_color": "#8B2942",
       "youtube_url": "https://www.youtube.com/@xiaojunpodcast",
       "cover_url": "/covers/zhang-xiaojun.jpg",
-      "episodeCount": 30
+      "episodeCount": 31
     },
     {
       "id": "touzi-shizhanpai",
@@ -6942,6 +6942,49 @@
       "chronologySubject": "Practical Investments · New Consumer F4"
     },
     {
+      "id": "zj-ep146",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 146,
+      "title": "4-Hour Interview with Ke Liyiming of Physical Intelligence: Open Robot Brains, Factions & Protagonists",
+      "guest": "Ke Liyiming",
+      "displayTitle": "Ke Liyiming",
+      "displaySubtitle": "Researcher, Physical Intelligence (π) · RL / Core Papers",
+      "guestRole": "Researcher, Physical Intelligence (π) · RL / Core Papers",
+      "date": "2026-07-16",
+      "durationMinutes": 228,
+      "readMinutes": 4,
+      "rating": 5,
+      "conclusion": "Ke Liyiming maps Physical Intelligence as the open-brain bet in robotics: a ~two-year-old lab valued above $5B whose π-series (π0 capability → π0.5 generalization → π0.6 performance) is watched globally as a possible OpenAI-of-robots path — with π0.7 landing after this recording. The episode is equal parts industry genealogy (Stanford/CMU/UW lineages, Diffusion Policy, ACT/Aloha) and research craft: cross-discipline stacking of vision, LLMs, RL, and hardware, plus Ke's personal north star that robots assembling themselves would be a species-level milestone. Software can be relatively open; hardware stays secret; China has strong academia but slower industry flywheels.",
+      "youtubeUrl": "",
+      "summaryFile": "zj-ep146.md",
+      "summaryFileZh": "zj-ep146.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Physical Intelligence",
+        "Robot Learning",
+        "VLA"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Physical Intelligence",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Open robot-brain leader with >$5B valuation and global research mindshare via π0→π0.6 — Ke's interview reinforces brain-over-skin positioning and publish-to-lead strategy in embodied foundation models"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Embodied foundation-model training and fleet inference remain GPU-hungry — Physical Intelligence-style VLA/RL stacks expand accelerator demand even when robot OEMs stay private"
+        }
+      ],
+      "chronologySubject": "Ke Liyiming · Physical Intelligence"
+    },
+    {
       "id": "zj-ep145",
       "podcastId": "zhang-xiaojun",
       "episodeNumber": 145,
@@ -9857,6 +9900,44 @@
       "chronologySubject": "Microsoft · Volume I (1968–1981)"
     },
     {
+      "id": "tzs-ep34",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 34,
+      "title": "Li Auto: Can Li Xiang Win the Second Critical War? Investment Value & Risks",
+      "guest": "David",
+      "displayTitle": "David",
+      "displaySubtitle": "Li Auto: Can Li Xiang Win the Second Critical War? Investment Value & Risks",
+      "guestRole": "Practical Investments Host",
+      "date": "2024-04-14",
+      "durationMinutes": 129,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "David's 2024 Li Auto deep dive asks whether Li Xiang can win the second war — BEV platform shift plus intelligent-driving differentiation — and prices LI investment value versus risks. Family SUV niche and execution history support Watch; margin compression and AD catch-up costs threaten Long. Investors should track delivery cadence, software revenue mix, and BEV model success as proof of second-act thesis.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep34.md",
+      "summaryFileZh": "tzs-ep34.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "LI",
+        "EV",
+        "Intelligent Driving",
+        "Valuation"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "LI",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Li Auto (LI): David Global 50 deep dive — Watch BEV second war, delivery cadence, and AD monetization versus price-war margin risk"
+        }
+      ],
+      "chronologySubject": "David · Li Auto Global 50"
+    },
+    {
       "id": "bb-intuitive-surgical-robotic-precision",
       "podcastId": "business-breakdowns",
       "episodeNumber": 155,
@@ -12218,6 +12299,41 @@
       "chronologySubject": "Amazon FBA · Aggregators"
     },
     {
+      "id": "bb-mongodb-the-database-platform",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 33,
+      "title": "MongoDB: The Database Platform",
+      "guest": "Rohan Paul",
+      "displayTitle": "MongoDB",
+      "displaySubtitle": "Rohan Paul · Investor, Holocene Advisors · The Database Platform",
+      "guestRole": "Investor, Holocene Advisors",
+      "date": "2021-11-03",
+      "durationMinutes": 45,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Paul frames MongoDB as the internet-era database: document architecture, open-source distribution, and a cloud Atlas motion that is accelerating customer adds from 3,500 to 8,000 per year. Low churn, 72% gross margins, and a $200 billion future market argue the name is still early despite Oracle's four-decade head start.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-mongodb-the-database-platform.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "MDB",
+        "Document Database",
+        "Atlas Cloud"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "MDB",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Paul argues Mongo is a different market than 40-year-old Oracle: 40% growth, 72% gross margins, sub-5% churn, and disproportionate share of new cloud apps — yet investors still pattern-match to mature relational databases and miss the developer land-grab compounding."
+        }
+      ],
+      "chronologySubject": "MongoDB"
+    },
+    {
       "id": "acq-complexity-investing-semiconductors-with-nzs-capital",
       "podcastId": "acquired",
       "episodeNumber": 136,
@@ -12300,6 +12416,42 @@
       "chronologySubject": "Standard Oil / Rockefeller (1890–1913)"
     },
     {
+      "id": "bb-salesforce-the-cloud-saas-pioneer-business-breakdowns-e",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 29,
+      "title": "Salesforce: The Cloud & SaaS Pioneer",
+      "guest": "Salesforce",
+      "displayTitle": "Salesforce",
+      "displaySubtitle": "The Cloud & SaaS Pioneer · Public · CRM",
+      "guestRole": "Public · CRM",
+      "date": "2021-10-06",
+      "durationMinutes": 48,
+      "readMinutes": 5,
+      "rating": 4,
+      "conclusion": "Garrett frames Salesforce as the company that invented cloud SaaS and then compounded it into a front-office platform: recurring bookings at 90%+ retention, multi-cloud attach, and an AppExchange developer network generating roughly $6 of partner revenue for every $1 Salesforce earns. Near-term numbers look secure, but cloud data warehouses and developer-led stacks pose the asymmetric threats that Siebel once faced.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-salesforce-the-cloud-saas-pioneer-business-breakdowns-e.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "CRM",
+        "SNOW",
+        "Cloud SaaS",
+        "Platform Economics"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "CRM",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Garrett argues Salesforce can hit its numbers for five years on SaaS retention, multi-cloud attach, and a $270 billion-scale platform with ~$6 of developer network revenue per $1 of CRM sales — but SMB ease-of-use gaps, cloud-warehouse data decoupling (Snowflake), and developer-bottom-up adoption (Twilio, open source) are credible medium-term share threats; valuation already embeds pioneer status."
+        }
+      ],
+      "chronologySubject": "Salesforce"
+    },
+    {
       "id": "acq-michael-mauboussin-master-class-moats-skill-luck-decision-making-and-a-whole-lot-more",
       "podcastId": "acquired",
       "episodeNumber": 134,
@@ -12368,6 +12520,41 @@
         }
       ],
       "chronologySubject": "Standard Oil (Part I)"
+    },
+    {
+      "id": "bb-datadog-the-realtime-data-monitor",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 25,
+      "title": "Datadog: The Realtime Data Monitor",
+      "guest": "Peter O'Ffringa",
+      "displayTitle": "Datadog",
+      "displaySubtitle": "Peter O'Ffringa · Author, Software Stack Investing · The Realtime Data Monitor",
+      "guestRole": "Author, Software Stack Investing",
+      "date": "2021-09-08",
+      "durationMinutes": 44,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "O'Ffringa frames Datadog as the activity monitor for the entire software stack: three pillars of observability in one UI, developer-led onboarding, and land-and-expand math that compounds 30%+ customer adds with 130%+ dollar retention. R&D now exceeds sales and marketing spend, but Web3 and low-code delivery models remain the long-tail paradigm risk.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-datadog-the-realtime-data-monitor.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "DDOG",
+        "Observability",
+        "Land and Expand"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "DDOG",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "O'Ffringa sees an execution machine: 60%+ revenue growth, 130%+ net retention, upper-70% gross margins, and R&D-led product velocity against a $44 billion observability TAM — yet market cap already reflects scale, so land-and-expand must keep compounding through security and pre-production adjacencies."
+        }
+      ],
+      "chronologySubject": "Datadog"
     },
     {
       "id": "acq-tsmc",
@@ -12639,6 +12826,42 @@
       "chronologySubject": "Ethereum"
     },
     {
+      "id": "bb-formula-one-the-iconic-motor-sport",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 14,
+      "title": "Formula One: The Iconic Motor Sport",
+      "guest": "Formula One",
+      "displayTitle": "Formula One",
+      "displaySubtitle": "The Iconic Motor Sport · Public · FWONK",
+      "guestRole": "Public · FWONK",
+      "date": "2021-06-23",
+      "durationMinutes": 85,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Gokgol-Klein frames F1 as a licensing business on a global luxury brand: ~$2 billion revenue from ~400 million fans (~$5 per fan vs. NFL ~$150), with sponsorship the largest white-space bucket and Liberty professionalizing what Bernie Ecclestone maximized for cash flow. The 2021 Concord Agreement — budget caps, revenue transparency, cost caps through 2025 — unlocked financial interest in teams and aligned a formerly zero-sum ecosystem. Patient investors bet on monetization catch-up, not overnight transformation.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-formula-one-the-iconic-motor-sport.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "FWONK",
+        "RACE",
+        "Media Rights",
+        "Motorsport"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "FWONK",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Gokgol-Klein's case: Liberty owns the commercial rights to a global luxury brand with ~400M fans monetized at ~$5 vs. peer leagues at $20–150, high gross margins after team share, and multiple levers (sponsorship professionalization, OTT/streaming competition, direct fan products) — requiring patient capital as multi-year broadcast contracts and cultural alignment take years, not quarters."
+        }
+      ],
+      "chronologySubject": "Formula One"
+    },
+    {
       "id": "acq-special-ho-nam-from-altos-ventures-a-different-approach-to-vc",
       "podcastId": "acquired",
       "episodeNumber": 126,
@@ -12838,6 +13061,47 @@
       "chronologySubject": "China Tech Trends (2021)"
     },
     {
+      "id": "bb-visa-the-original-protocol-business",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 7,
+      "title": "Visa: The Original Protocol Business",
+      "guest": "Visa",
+      "displayTitle": "Visa",
+      "displaySubtitle": "The Original Protocol Business · Public · V",
+      "guestRole": "Public · V",
+      "date": "2021-05-05",
+      "durationMinutes": 57,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "Visa is the original protocol business: born as BankAmericard in Fresno in 1958, reorganized into a bank consortium, and taken public in 2007. The power is not moving money; it is coordinating consumers, merchants, issuers, acquirers, rewards, dispute rules, and acceptance. A 3% merchant fee can fund 2% rewards because the network aligns incentives at global scale.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-visa-the-original-protocol-business.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "V",
+        "Payments Network",
+        "Interchange"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "V",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Visa's global two-sided protocol, issuer incentives, and merchant acceptance remain among the highest-quality business models; regulatory pressure on interchange is the central risk."
+        },
+        {
+          "ticker": "MA",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Mastercard shares similar network economics and is the closest benchmark for Visa's protocol moat and regulatory exposure."
+        }
+      ],
+      "chronologySubject": "Visa"
+    },
+    {
       "id": "acq-berkshire-hathaway-part-i",
       "podcastId": "acquired",
       "episodeNumber": 121,
@@ -12873,6 +13137,83 @@
       "chronologySubject": "Warren Buffett (through 1969)"
     },
     {
+      "id": "bb-costco-relentless-focus-on-the-one-thing",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 4,
+      "title": "Costco: Relentless Focus on the One Thing",
+      "guest": "Zach Fuss",
+      "displayTitle": "Costco",
+      "displaySubtitle": "Zach Fuss · Investor, Continental Grain · Relentless Focus on the One Thing",
+      "guestRole": "Investor, Continental Grain",
+      "date": "2021-04-14",
+      "durationMinutes": 41,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Fuss and Bloomstrand frame Costco as the original consumer subscription: ~55 million members pay $60 a year while the company marks goods up just 12–13% and returns scale savings to shoppers. Decades of process power — 4,000 SKUs, Kirkland at ~25% of sales, and ~$1,500 per square foot — make the membership flywheel hard to replicate.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-costco-relentless-focus-on-the-one-thing.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "COST",
+        "Membership Retail",
+        "Kirkland Private Label"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "COST",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Recurring membership fees fund sub-11% merchandise margins while ~$1,500 per-square-foot productivity and positive same-store comps compound; Bloomstrand argues mature-store economics were masked for years by a ramping base of younger warehouses."
+        },
+        {
+          "ticker": "WMT",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "Walmart's everyday-low-price model still runs 25–35% gross margins and ~30% back-of-house footprint versus Costco's no-backroom pallet model — Fuss argues the membership-funded ~11% gross margin structure is an impenetrable retail moat."
+        }
+      ],
+      "chronologySubject": "Costco"
+    },
+    {
+      "id": "bb-alibaba-a-giant-among-giants",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 3,
+      "title": "Alibaba: A Giant Among Giants",
+      "guest": "Alibaba",
+      "displayTitle": "Alibaba",
+      "displaySubtitle": "A Giant Among Giants · Public · BABA",
+      "guestRole": "Public · BABA",
+      "date": "2021-04-09",
+      "durationMinutes": 47,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Parameswaran reframes Alibaba as a country-scale platform — not Amazon but closer to Google on advertising monetization — with $1.2 trillion GMV, 800 million active users, and 65%+ EBITDA margins on an asset-light model. Competition from Pinduoduo and Meituan is real but expands the market; share loss ≠ relevance loss. The West is copying China's gamified, social commerce while Amazon \"puts you to sleep.\"",
+      "youtubeUrl": "",
+      "summaryFile": "bb-alibaba-a-giant-among-giants.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "BABA",
+        "PDD",
+        "JD",
+        "China E-commerce"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BABA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Parameswaran's framework: country-scale utility with $1.2T GMV path to $2.5T, 65%+ EBITDA margins, under-appreciated cloud and 33%-owned Ant Financial optionality, and consumer spend maturation ($400 to $2,000 over five years) — if regulatory and competitive intensity allow absolute GMV to keep compounding despite share erosion."
+        }
+      ],
+      "chronologySubject": "Alibaba"
+    },
+    {
       "id": "acq-special-why-now-for-digital-health-with-levels-founder-josh-clemente",
       "podcastId": "acquired",
       "episodeNumber": 120,
@@ -12906,6 +13247,41 @@
         }
       ],
       "chronologySubject": "Levels & DTC Digital Health"
+    },
+    {
+      "id": "bb-shopify-the-e-commerce-on-ramp",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 1,
+      "title": "Shopify: The E-commerce On-Ramp",
+      "guest": "Shopify",
+      "displayTitle": "Shopify",
+      "displaySubtitle": "The E-commerce On-Ramp · Public · SHOP",
+      "guestRole": "Public · SHOP",
+      "date": "2021-04-05",
+      "durationMinutes": 63,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Danco frames Shopify as commerce's operating system: four product pillars compound through direct subscriptions, first-derivative payments and lending, and second-derivative app-store take rates. The bet is that removing bad friction while preserving meaningful merchant effort builds a high-trust \"creep\" strategy — spreading Shop Pay and multi-channel selling without becoming another Amazon-style aggregator.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-shopify-the-e-commerce-on-ramp.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "SHOP",
+        "High Trust Commerce",
+        "Platform Economics"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "SHOP",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Danco argues Shopify compounds via cheap on-ramps ($29/month), 100+ billion GMV, and first/second-derivative take rates on payments and apps — a Zerg \"creep\" strategy spreading high-trust commerce across channels without aggregating merchants into a race-to-the-bottom marketplace."
+        }
+      ],
+      "chronologySubject": "Shopify"
     },
     {
       "id": "acq-rec-room-part-ii-with-ceo-nick-fajt",
@@ -15202,339 +15578,6 @@
         }
       ],
       "chronologySubject": "Musk · Bezos · Space Barons"
-    },
-    {
-      "id": "tzs-ep34",
-      "podcastId": "touzi-shizhanpai",
-      "episodeNumber": 34,
-      "title": "Li Auto: Can Li Xiang Win the Second Critical War? Investment Value & Risks",
-      "guest": "David",
-      "displayTitle": "David",
-      "displaySubtitle": "Li Auto: Can Li Xiang Win the Second Critical War? Investment Value & Risks",
-      "guestRole": "Practical Investments Host",
-      "date": "2024-04-14",
-      "durationMinutes": 129,
-      "readMinutes": 2,
-      "rating": 3,
-      "conclusion": "David's 2024 Li Auto deep dive asks whether Li Xiang can win the second war — BEV platform shift plus intelligent-driving differentiation — and prices LI investment value versus risks. Family SUV niche and execution history support Watch; margin compression and AD catch-up costs threaten Long. Investors should track delivery cadence, software revenue mix, and BEV model success as proof of second-act thesis.",
-      "youtubeUrl": "",
-      "summaryFile": "tzs-ep34.md",
-      "summaryFileZh": "tzs-ep34.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "LI",
-        "EV",
-        "Intelligent Driving",
-        "Valuation"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "LI",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Li Auto (LI): David Global 50 deep dive — Watch BEV second war, delivery cadence, and AD monetization versus price-war margin risk"
-        }
-      ],
-      "chronologySubject": "David · Li Auto Global 50"
-    },
-    {
-      "id": "bb-mongodb-the-database-platform",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 33,
-      "title": "MongoDB: The Database Platform",
-      "guest": "Rohan Paul",
-      "displayTitle": "MongoDB",
-      "displaySubtitle": "Rohan Paul · Investor, Holocene Advisors · The Database Platform",
-      "guestRole": "Investor, Holocene Advisors",
-      "date": "2021-11-03",
-      "durationMinutes": 45,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Paul frames MongoDB as the internet-era database: document architecture, open-source distribution, and a cloud Atlas motion that is accelerating customer adds from 3,500 to 8,000 per year. Low churn, 72% gross margins, and a $200 billion future market argue the name is still early despite Oracle's four-decade head start.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-mongodb-the-database-platform.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "MDB",
-        "Document Database",
-        "Atlas Cloud"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "MDB",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Paul argues Mongo is a different market than 40-year-old Oracle: 40% growth, 72% gross margins, sub-5% churn, and disproportionate share of new cloud apps — yet investors still pattern-match to mature relational databases and miss the developer land-grab compounding."
-        }
-      ],
-      "chronologySubject": "MongoDB"
-    },
-    {
-      "id": "bb-salesforce-the-cloud-saas-pioneer-business-breakdowns-e",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 29,
-      "title": "Salesforce: The Cloud & SaaS Pioneer",
-      "guest": "Salesforce",
-      "displayTitle": "Salesforce",
-      "displaySubtitle": "The Cloud & SaaS Pioneer · Public · CRM",
-      "guestRole": "Public · CRM",
-      "date": "2021-10-06",
-      "durationMinutes": 48,
-      "readMinutes": 5,
-      "rating": 4,
-      "conclusion": "Garrett frames Salesforce as the company that invented cloud SaaS and then compounded it into a front-office platform: recurring bookings at 90%+ retention, multi-cloud attach, and an AppExchange developer network generating roughly $6 of partner revenue for every $1 Salesforce earns. Near-term numbers look secure, but cloud data warehouses and developer-led stacks pose the asymmetric threats that Siebel once faced.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-salesforce-the-cloud-saas-pioneer-business-breakdowns-e.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "CRM",
-        "SNOW",
-        "Cloud SaaS",
-        "Platform Economics"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "CRM",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Garrett argues Salesforce can hit its numbers for five years on SaaS retention, multi-cloud attach, and a $270 billion-scale platform with ~$6 of developer network revenue per $1 of CRM sales — but SMB ease-of-use gaps, cloud-warehouse data decoupling (Snowflake), and developer-bottom-up adoption (Twilio, open source) are credible medium-term share threats; valuation already embeds pioneer status."
-        }
-      ],
-      "chronologySubject": "Salesforce"
-    },
-    {
-      "id": "bb-datadog-the-realtime-data-monitor",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 25,
-      "title": "Datadog: The Realtime Data Monitor",
-      "guest": "Peter O'Ffringa",
-      "displayTitle": "Datadog",
-      "displaySubtitle": "Peter O'Ffringa · Author, Software Stack Investing · The Realtime Data Monitor",
-      "guestRole": "Author, Software Stack Investing",
-      "date": "2021-09-08",
-      "durationMinutes": 44,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "O'Ffringa frames Datadog as the activity monitor for the entire software stack: three pillars of observability in one UI, developer-led onboarding, and land-and-expand math that compounds 30%+ customer adds with 130%+ dollar retention. R&D now exceeds sales and marketing spend, but Web3 and low-code delivery models remain the long-tail paradigm risk.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-datadog-the-realtime-data-monitor.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "DDOG",
-        "Observability",
-        "Land and Expand"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "DDOG",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "O'Ffringa sees an execution machine: 60%+ revenue growth, 130%+ net retention, upper-70% gross margins, and R&D-led product velocity against a $44 billion observability TAM — yet market cap already reflects scale, so land-and-expand must keep compounding through security and pre-production adjacencies."
-        }
-      ],
-      "chronologySubject": "Datadog"
-    },
-    {
-      "id": "bb-formula-one-the-iconic-motor-sport",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 14,
-      "title": "Formula One: The Iconic Motor Sport",
-      "guest": "Formula One",
-      "displayTitle": "Formula One",
-      "displaySubtitle": "The Iconic Motor Sport · Public · FWONK",
-      "guestRole": "Public · FWONK",
-      "date": "2021-06-23",
-      "durationMinutes": 85,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Gokgol-Klein frames F1 as a licensing business on a global luxury brand: ~$2 billion revenue from ~400 million fans (~$5 per fan vs. NFL ~$150), with sponsorship the largest white-space bucket and Liberty professionalizing what Bernie Ecclestone maximized for cash flow. The 2021 Concord Agreement — budget caps, revenue transparency, cost caps through 2025 — unlocked financial interest in teams and aligned a formerly zero-sum ecosystem. Patient investors bet on monetization catch-up, not overnight transformation.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-formula-one-the-iconic-motor-sport.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "FWONK",
-        "RACE",
-        "Media Rights",
-        "Motorsport"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "FWONK",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Gokgol-Klein's case: Liberty owns the commercial rights to a global luxury brand with ~400M fans monetized at ~$5 vs. peer leagues at $20–150, high gross margins after team share, and multiple levers (sponsorship professionalization, OTT/streaming competition, direct fan products) — requiring patient capital as multi-year broadcast contracts and cultural alignment take years, not quarters."
-        }
-      ],
-      "chronologySubject": "Formula One"
-    },
-    {
-      "id": "bb-visa-the-original-protocol-business",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 7,
-      "title": "Visa: The Original Protocol Business",
-      "guest": "Visa",
-      "displayTitle": "Visa",
-      "displaySubtitle": "The Original Protocol Business · Public · V",
-      "guestRole": "Public · V",
-      "date": "2021-05-05",
-      "durationMinutes": 57,
-      "readMinutes": 3,
-      "rating": 5,
-      "conclusion": "Visa is the original protocol business: born as BankAmericard in Fresno in 1958, reorganized into a bank consortium, and taken public in 2007. The power is not moving money; it is coordinating consumers, merchants, issuers, acquirers, rewards, dispute rules, and acceptance. A 3% merchant fee can fund 2% rewards because the network aligns incentives at global scale.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-visa-the-original-protocol-business.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "V",
-        "Payments Network",
-        "Interchange"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "V",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Visa's global two-sided protocol, issuer incentives, and merchant acceptance remain among the highest-quality business models; regulatory pressure on interchange is the central risk."
-        },
-        {
-          "ticker": "MA",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Mastercard shares similar network economics and is the closest benchmark for Visa's protocol moat and regulatory exposure."
-        }
-      ],
-      "chronologySubject": "Visa"
-    },
-    {
-      "id": "bb-costco-relentless-focus-on-the-one-thing",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 4,
-      "title": "Costco: Relentless Focus on the One Thing",
-      "guest": "Zach Fuss",
-      "displayTitle": "Costco",
-      "displaySubtitle": "Zach Fuss · Investor, Continental Grain · Relentless Focus on the One Thing",
-      "guestRole": "Investor, Continental Grain",
-      "date": "2021-04-14",
-      "durationMinutes": 41,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Fuss and Bloomstrand frame Costco as the original consumer subscription: ~55 million members pay $60 a year while the company marks goods up just 12–13% and returns scale savings to shoppers. Decades of process power — 4,000 SKUs, Kirkland at ~25% of sales, and ~$1,500 per square foot — make the membership flywheel hard to replicate.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-costco-relentless-focus-on-the-one-thing.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "COST",
-        "Membership Retail",
-        "Kirkland Private Label"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "COST",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Recurring membership fees fund sub-11% merchandise margins while ~$1,500 per-square-foot productivity and positive same-store comps compound; Bloomstrand argues mature-store economics were masked for years by a ramping base of younger warehouses."
-        },
-        {
-          "ticker": "WMT",
-          "direction": "Short",
-          "confidence": "Low",
-          "thesis": "Walmart's everyday-low-price model still runs 25–35% gross margins and ~30% back-of-house footprint versus Costco's no-backroom pallet model — Fuss argues the membership-funded ~11% gross margin structure is an impenetrable retail moat."
-        }
-      ],
-      "chronologySubject": "Costco"
-    },
-    {
-      "id": "bb-alibaba-a-giant-among-giants",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 3,
-      "title": "Alibaba: A Giant Among Giants",
-      "guest": "Alibaba",
-      "displayTitle": "Alibaba",
-      "displaySubtitle": "A Giant Among Giants · Public · BABA",
-      "guestRole": "Public · BABA",
-      "date": "2021-04-09",
-      "durationMinutes": 47,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Parameswaran reframes Alibaba as a country-scale platform — not Amazon but closer to Google on advertising monetization — with $1.2 trillion GMV, 800 million active users, and 65%+ EBITDA margins on an asset-light model. Competition from Pinduoduo and Meituan is real but expands the market; share loss ≠ relevance loss. The West is copying China's gamified, social commerce while Amazon \"puts you to sleep.\"",
-      "youtubeUrl": "",
-      "summaryFile": "bb-alibaba-a-giant-among-giants.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "BABA",
-        "PDD",
-        "JD",
-        "China E-commerce"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "BABA",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Parameswaran's framework: country-scale utility with $1.2T GMV path to $2.5T, 65%+ EBITDA margins, under-appreciated cloud and 33%-owned Ant Financial optionality, and consumer spend maturation ($400 to $2,000 over five years) — if regulatory and competitive intensity allow absolute GMV to keep compounding despite share erosion."
-        }
-      ],
-      "chronologySubject": "Alibaba"
-    },
-    {
-      "id": "bb-shopify-the-e-commerce-on-ramp",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 1,
-      "title": "Shopify: The E-commerce On-Ramp",
-      "guest": "Shopify",
-      "displayTitle": "Shopify",
-      "displaySubtitle": "The E-commerce On-Ramp · Public · SHOP",
-      "guestRole": "Public · SHOP",
-      "date": "2021-04-05",
-      "durationMinutes": 63,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Danco frames Shopify as commerce's operating system: four product pillars compound through direct subscriptions, first-derivative payments and lending, and second-derivative app-store take rates. The bet is that removing bad friction while preserving meaningful merchant effort builds a high-trust \"creep\" strategy — spreading Shop Pay and multi-channel selling without becoming another Amazon-style aggregator.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-shopify-the-e-commerce-on-ramp.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "SHOP",
-        "High Trust Commerce",
-        "Platform Economics"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "SHOP",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Danco argues Shopify compounds via cheap on-ramps ($29/month), 100+ billion GMV, and first/second-derivative take rates on payments and apps — a Zerg \"creep\" strategy spreading high-trust commerce across channels without aggregating merchants into a race-to-the-bottom marketplace."
-        }
-      ],
-      "chronologySubject": "Shopify"
     },
     {
       "id": "acq-season-3-episode-4recode-with-kara-swisher",

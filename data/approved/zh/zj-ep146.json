@@ -1,0 +1,110 @@
+{
+  "episode_id": "zj-ep146",
+  "podcast": "张小珺商业访谈录",
+  "host": "张小珺",
+  "metadata": {
+    "episode_number": 146,
+    "title": "对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角",
+    "guest": "柯丽一鸣",
+    "guest_role": "Physical Intelligence（π）研究员 · 强化学习 / 核心论文作者",
+    "date": "2026-07-16",
+    "duration_minutes": 228,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6a57a05da4972c496dfc67f1"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:Physical Intelligence",
+    "机器人学习",
+    "VLA"
+  ],
+  "conclusion": "柯丽一鸣把 Physical Intelligence 讲成机器人赛道的「开源大脑」赌注：成立约两年、估值超 50 亿美元，π 系列（π0 能力 → π0.5 泛化 → π0.6 表现）被全球团队盯着，部分人期待它成为机器人界的 OpenAI——π0.7 在录制后才发布。节目一半是江湖族谱（斯坦福 / CMU / 华大等门派，Diffusion Policy、ACT/Aloha），一半是研究手艺：视觉、大模型、强化学习与硬件必须同桌。她个人里程碑是机器人能组装造自己；硬件更保密，软件相对可公开；中国学术密、产业飞轮偏慢。",
+  "background": "张小珺用 228 分钟对话 Physical Intelligence（π / Pi）研究员柯丽一鸣——主攻强化学习，亦是公司核心论文作者之一。课余她写小说，访谈因此在技术细节与「江湖、门派、主角」的文化叙事之间切换。\n\nPi 做机器人大脑而非人形皮肤，成立约两年估值已超 50 亿美元，是赛道最受瞩目的独角兽之一。柯丽一鸣梳理开源路线：π0 关键词是能力，π0.5 是泛化，π0.6 是表现（她所在强化学习团队首篇重要公开工作，强调方法简洁同时抬高「差不多能做」任务上的真实表现）；主持人说明录制较早，π0.7 未及展开。学术地图覆盖宋姝然组 Diffusion Policy、ACT/Aloha 一系，以及 CMU 的 Deepak、Abhinav 等——机器人要成，必须把视觉、大模型、控制与硬件供应链的人凑齐。",
+  "important_facts": [
+    "Physical Intelligence：成立约两年，估值超 50 亿美元，被部分业界视为机器人领域 OpenAI 候选人。开源节奏：π0=能力，π0.5=泛化，π0.6=表现（柯丽一鸣强化学习团队高参与度工作，追求方法简洁与可用表现）。π0.7 录制后发布，技术细节由主持人补在 show notes。",
+    "研究主线与里程碑：她最想做成的是机器人能组装/造自己——像种族有延续性的「繁殖」里程碑，而非只做人形。对比 NLP 从专家语言学到端到端数据学习的路径，机器人烧钱（ShadowHand 维修数十万美元量级 vs 早年 NLP 数据集约 20 万美元的内部笑话）。跨学科是硬条件：传统动作/机械派 + 视觉与数据训练经验 + 大模型经验 + 硬件与产业链。",
+    "产业结构与中国：硬件方案通常比软件更不公开；Pi 在机器人大脑上相对愿意开源。学术谱系覆盖伯克利/斯坦福/CMU/华大等 manipulation learning。中国学术密度高，但缺产业与制造闭环会拖慢迭代；硬件「搭起来能动」相对容易，让机器人做有意义的事仍然很难——软件进展仍主导前沿。"
+  ],
+  "mental_model": {
+    "name": "开源机器大脑 × 跨学科堆叠 × 自我组装里程碑",
+    "components": "用公开模型把能力→泛化→表现写成行业议程。打破机器人孤岛，把视觉、基础模型、强化学习与硬件合成一条链。用「能否做有用的事」而非「能否动」衡量进度；把自我组装视为超越单任务演示的物种延续里程碑。",
+    "application": "实体 AI 投资应区分人形皮肤叙事与大脑/基础模型公司（如 Physical Intelligence）。用 π0.x 公开论文节奏与任务表现作领先指标。中国机器人勿只数论文——要看产业耦合与真实任务数据飞轮。上市代理：算力与人形 OEM 受益于大脑解锁机队，但稀缺资产仍是可泛化操作能力。"
+  },
+  "key_insights": [
+    {
+      "view": "π 系列是公开路线图：能力、泛化、表现。",
+      "question": "Physical Intelligence 在智力上交付什么？",
+      "answer": "π0 立能力，π0.5 推跨任务泛化，π0.6 回答「差不多会做之后如何真正做好」——强化学习组用简洁方法抬表现。π0.7 在访谈之后。"
+    },
+    {
+      "view": "机器人需要 NLP 式端到端跃迁，并拉齐所有相邻手艺。",
+      "question": "为何进度慢于语言模型？",
+      "answer": "机器人资本密集且历史上孤岛化。成功需要视觉数据实践、大模型训练经验、经典控制精度与硬件供应链同桌，而不是只靠动作算法。"
+    },
+    {
+      "view": "自我建造是连续性里程碑。",
+      "question": "她个人兴奋点是什么？",
+      "answer": "她明确不做「只为做人形」——机器人组装造自己才像物种延续。在那之前，有用的真实世界能力仍比「能动的硬件」更稀缺。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Physical Intelligence",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "开源机器大脑领先者，估值超 50 亿美元，π0→π0.6 占据全球研究心智——访谈强化「大脑优于皮肤」与公开引领策略"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "具身基础模型训练与机队推理仍吃 GPU——Pi 类 VLA/RL 栈扩大加速器需求，即便机器人整机仍私有"
+    }
+  ],
+  "golden_quotes": [
+    "我确实一直很想做的就是机器人可以造自己",
+    "第一篇是派林它的关键词应该就是能力",
+    "你想它做一点有意义的事很难"
+  ],
+  "chronology": {
+    "subject": "柯丽一鸣 · Physical Intelligence",
+    "events": [
+      {
+        "date": "小学–高中",
+        "event": "形成「科姐」人格与公平正义取向；竞赛与动手经历"
+      },
+      {
+        "date": "大学",
+        "event": "大一即进实验室；与竞赛同学做小软件并售卖"
+      },
+      {
+        "date": "博士阶段",
+        "event": "机器人学习路径；自嘲多年堆彩色方块不如三岁小孩"
+      },
+      {
+        "date": "2024–2025",
+        "event": "加入 Physical Intelligence；参与 π0 / π0.5 / π0.6，强化学习团队推表现"
+      },
+      {
+        "date": "2025–2026",
+        "event": "Pi 估值超 50 亿美元；开源机器大脑工作成赛道焦点"
+      },
+      {
+        "date": "2026-07",
+        "event": "张小珺四小时访谈；π0.7 于录制后发布"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Chinese · whisper/base ASR",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/base+zj-ep146",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

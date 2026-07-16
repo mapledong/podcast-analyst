@@ -2249,6 +2249,17 @@ episodes:
   youtube_url: ''
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: zj-ep146
+  episode_number: 146
+  title: '4-Hour Interview with Ke Liyiming of Physical Intelligence: Open Robot Brains,
+    Factions & Protagonists'
+  guest: Ke Liyiming
+  guest_role: Researcher, Physical Intelligence (π) · RL / Core Papers
+  date: '2026-07-16'
+  duration_minutes: 228
+  youtube_url: ''
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a57a05da4972c496dfc67f1
 - id: acq-sony
   episode_number: 145
   title: SONY
