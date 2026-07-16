@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T13:46:05.525Z",
+  "generatedAt": "2026-07-16T13:57:00.268Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -59,7 +59,7 @@
       "accent_color": "#1A5F4A",
       "youtube_url": "https://www.youtube.com/results?search_query=投资实战派",
       "cover_url": "/covers/touzi-shizhanpai.jpg",
-      "episodeCount": 31
+      "episodeCount": 32
     }
   ],
   "episodes": [
@@ -226,41 +226,6 @@
         }
       ],
       "chronologySubject": "Vlad Barbalat · Liberty Mutual Investments"
-    },
-    {
-      "id": "acq-the-walt-disney-company",
-      "podcastId": "acquired",
-      "episodeNumber": 212,
-      "title": "The Walt Disney Company",
-      "guest": "The Walt Disney Company",
-      "displayTitle": "The Walt Disney Company",
-      "displaySubtitle": "Season 19 · Episode 4 · Part 1: Walt's Era",
-      "guestRole": "Season 19 · Episode 4 · Part 1: Walt's Era",
-      "date": "2026-06-21",
-      "durationMinutes": 271,
-      "readMinutes": 5,
-      "rating": 5,
-      "conclusion": "Disney is less a Hollywood studio than a flywheel company born when Walt fused art and commerce in Marceline — betting the farm on synchronized sound, Snow White, and eventually Disneyland while competitors treated animation as a fad. Ben and David trace Kansas City failures to the 1923 Alice Comedies contract, Mickey-driven consumer products, the 1937 Snow White cathedral ($1.5M cost, $8M rentals, first soundtrack album, 2,183 SKUs), ABC-financed Disneyland (1955), and today's parks segment (~$36B revenue, ~$10B profit — double studio profit). Part 1 ends on Walt's era; the Renaissance awaits Part 2.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-the-walt-disney-company.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Flywheel",
-        "Theme Parks",
-        "Media IP"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "DIS",
-          "direction": "Long",
-          "confidence": "High",
-          "thesis": "Parks (~$10B profit) anchor the flywheel Part 1 explains — IP refreshes (Marvel, Star Wars) feed physical monetization; Seven Powers on heritage IP and counterpositioning explain why Paramount cannot replicate a century of affection"
-        }
-      ],
-      "chronologySubject": "The Walt Disney Company · Walt's Era"
     },
     {
       "id": "ep478",
@@ -5222,6 +5187,85 @@
         }
       ],
       "chronologySubject": "Jeff Bezos · Amazon Shareholder Letters"
+    },
+    {
+      "id": "tzs-ep190",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 190,
+      "title": "AI Research Workflow Fully Disclosed: Ideas, Deep Work, and Tracking in One Pipeline",
+      "guest": "Yongqing",
+      "displayTitle": "Yongqing",
+      "displaySubtitle": "AI Research Workflow Fully Disclosed: Ideas, Deep Work, and Tracking in One Pipeline",
+      "guestRole": "Practical Investments Host · Knowledge Planet Quarterly Session",
+      "date": "2026-07-06",
+      "durationMinutes": 62,
+      "readMinutes": 4,
+      "rating": 4,
+      "conclusion": "Yongqing opens the Practical Investments AI research pipeline end-to-end — idea intake, deep work, and tracking — as the 2026 'AI-assisted' upgrade to the ep.188 SOP. AI shines at stacking master viewpoints, screening rules, weekly digests, and evolving info sources; it stays weak at real-world field research. The ceiling of web mining is roughly 50–85 points; edge still comes from high-cognition humans, and unfamiliar names should not be oversized before ~1.5M characters of coverage.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep190.md",
+      "summaryFileZh": "tzs-ep190.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "TSM",
+        "AI Research",
+        "Zhongji Innolight",
+        "300308.SZ"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "TSM",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Ep.190's AI SOP accelerates covering AI-chain simple bodies already framed on ep.188 — Long only after master-sim + multi-dimension tracking + ~1.5M-character depth clear valuation, not because a weekly digest flagged the name"
+        },
+        {
+          "ticker": "300308.SZ",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Zhongji Innolight (300308.SZ): optical modules cited as the worked example for feeding growth-stock frameworks into AI master agents — Long only when rule screens, IC multi-voice, and coverage depth pass; treat as process demo not tip"
+        }
+      ],
+      "chronologySubject": "Yongqing · AI Research Pipeline"
+    },
+    {
+      "id": "acq-the-walt-disney-company",
+      "podcastId": "acquired",
+      "episodeNumber": 212,
+      "title": "The Walt Disney Company",
+      "guest": "The Walt Disney Company",
+      "displayTitle": "The Walt Disney Company",
+      "displaySubtitle": "Season 19 · Episode 4 · Part 1: Walt's Era",
+      "guestRole": "Season 19 · Episode 4 · Part 1: Walt's Era",
+      "date": "2026-06-21",
+      "durationMinutes": 271,
+      "readMinutes": 5,
+      "rating": 5,
+      "conclusion": "Disney is less a Hollywood studio than a flywheel company born when Walt fused art and commerce in Marceline — betting the farm on synchronized sound, Snow White, and eventually Disneyland while competitors treated animation as a fad. Ben and David trace Kansas City failures to the 1923 Alice Comedies contract, Mickey-driven consumer products, the 1937 Snow White cathedral ($1.5M cost, $8M rentals, first soundtrack album, 2,183 SKUs), ABC-financed Disneyland (1955), and today's parks segment (~$36B revenue, ~$10B profit — double studio profit). Part 1 ends on Walt's era; the Renaissance awaits Part 2.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-the-walt-disney-company.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Flywheel",
+        "Theme Parks",
+        "Media IP"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "DIS",
+          "direction": "Long",
+          "confidence": "High",
+          "thesis": "Parks (~$10B profit) anchor the flywheel Part 1 explains — IP refreshes (Marvel, Star Wars) feed physical monetization; Seven Powers on heritage IP and counterpositioning explain why Paramount cannot replicate a century of affection"
+        }
+      ],
+      "chronologySubject": "The Walt Disney Company · Walt's Era"
     },
     {
       "id": "tzs-ep188",

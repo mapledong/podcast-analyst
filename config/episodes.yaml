@@ -1613,6 +1613,17 @@ episodes:
   duration_minutes: 59
   youtube_url: https://www.youtube.com/watch?v=KzXxxbuTAAg
   podcast: Founders
+- id: tzs-ep190
+  episode_number: 190
+  title: 'AI Research Workflow Fully Disclosed: Ideas, Deep Work, and Tracking in
+    One Pipeline'
+  guest: Yongqing
+  guest_role: Practical Investments Host · Knowledge Planet Quarterly Session
+  date: '2026-07-06'
+  duration_minutes: 62
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a4b8daf2e335a35a80ef059
 - id: acq-microsoft-volume-ii
   episode_number: 189
   title: Microsoft Volume II

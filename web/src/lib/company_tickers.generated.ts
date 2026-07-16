@@ -105,6 +105,7 @@ export const CHINA_LISTINGS: Record<string, ChinaListingNames> = {
   "1211.HK": { en: "BYD", zh: "比亚迪" },
   "2020.HK": { en: "Anta Sports", zh: "安踏体育" },
   "2171.HK": { en: "CARsgen", zh: "科济药业" },
+  "300308.SZ": { en: "Zhongji Innolight", zh: "中际旭创" },
   "300866.SZ": { en: "Anker Innovations", zh: "安克创新" },
   "3690.HK": { en: "Meituan", zh: "美团" },
   "600519.SZ": { en: "Kweichow Moutai", zh: "贵州茅台" },
