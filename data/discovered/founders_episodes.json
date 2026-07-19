@@ -2,6 +2,21 @@
   "podcast": "Founders",
   "episodes": [
     {
+      "id": "fnd-425-the-merchant-bankers",
+      "episode_number": 425,
+      "title": "The Merchant Bankers",
+      "guest": "The Merchant Bankers",
+      "guest_role": "Biography · Episode 425",
+      "date": "2026-07-19",
+      "duration_minutes": 46,
+      "colossus_url": "",
+      "audio_url": "https://traffic.megaphone.fm/DSLLC8977529443.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=KTu1F0tUn-Q",
+      "rss_title": "#425 The Merchant Bankers",
+      "podcast": "Founders",
+      "youtube_title": "The Merchant Bankers"
+    },
+    {
       "id": "fnd-424-peter-thiel-on-how-to-build-a-creative-monopoly",
       "episode_number": 424,
       "title": "Peter Thiel on How to Build a Creative Monopoly",

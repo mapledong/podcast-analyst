@@ -472,6 +472,15 @@ episodes:
   duration_minutes: 90
   youtube_url: https://www.youtube.com/watch?v=u2nHljZeMQ8
   podcast: Invest Like the Best
+- id: fnd-425-the-merchant-bankers
+  episode_number: 425
+  title: The Merchant Bankers
+  guest: Joseph Wechsberg
+  guest_role: Biography · Episode 425 · The Merchant Bankers (1966)
+  date: '2026-07-19'
+  duration_minutes: 46
+  youtube_url: https://www.youtube.com/watch?v=KTu1F0tUn-Q
+  podcast: Founders
 - id: ep424
   episode_number: 424
   title: How Spotify Thinks

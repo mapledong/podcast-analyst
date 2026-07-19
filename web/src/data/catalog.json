@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T13:57:00.268Z",
+  "generatedAt": "2026-07-19T07:46:53.831Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -29,7 +29,7 @@
       "accent_color": "#2D5016",
       "youtube_url": "https://www.youtube.com/@founderspodcast1",
       "cover_url": "/covers/founders.jpg",
-      "episodeCount": 73
+      "episodeCount": 74
     },
     {
       "id": "business-breakdowns",
@@ -2476,6 +2476,47 @@
         }
       ],
       "chronologySubject": "Alpine Investors and Graham Weaver"
+    },
+    {
+      "id": "fnd-425-the-merchant-bankers",
+      "podcastId": "founders",
+      "episodeNumber": 425,
+      "title": "The Merchant Bankers",
+      "guest": "Joseph Wechsberg",
+      "displayTitle": "Joseph Wechsberg",
+      "displaySubtitle": "The Merchant Bankers",
+      "guestRole": "Biography · Episode 425 · The Merchant Bankers (1966)",
+      "date": "2026-07-19",
+      "durationMinutes": 46,
+      "readMinutes": 4,
+      "rating": 5,
+      "conclusion": "Senra strips Joseph Wechsberg's The Merchant Bankers down to shared operating DNA across Rothschilds, Barings, Hambros, Warburgs and peers: merchants who learned a signature beats a bale of silk, then compounded integrity, discretion, and multi-generation trust into a mysterious franchise. The Friday-afternoon shipowner credit — £200,000 wired in minutes on a phone call — is the episode's emblem: reputation substitutes for paperwork, speed substitutes for committees. Senra links that old-school ethic to Munger (trust as economic force) and Buffett (never lose reputation) and to founders who operate like one-man merchant banks today.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=KTu1F0tUn-Q",
+      "summaryFile": "fnd-425-the-merchant-bankers.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Merchant Banking",
+        "BRK.B",
+        "GS"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BRK.B",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Senra's Buffett/Salomon parallel — reputation as the asset you never spend — is the public-company expression of merchant-banker DNA; culture that chooses name over one-deal P&L still compounds"
+        },
+        {
+          "ticker": "GS",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Closest large liquid heir to relationship-and-prestige merchant banking — Long only as a franchise bet on trust/network, not as a committee mega-bank; episode warns bureaucracy kills the model"
+        }
+      ],
+      "chronologySubject": "Merchant Banking Dynasties · Wechsberg"
     },
     {
       "id": "ep424",

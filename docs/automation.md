@@ -88,38 +88,20 @@ BASE_PATH=/
 SITE_URL=https://your-domain.com/
 ```
 
-## Nightly content update (01:00 Beijing)
+## Daily auto-summarize (removed)
 
-Workflow: `.github/workflows/nightly-content-update.yml`
+`nightly-content-update.yml` was deleted. Scheduled Cursor SDK agents failed every nightly CI run (exit code 1 after discover/report). Summaries for new episodes are produced locally (discover → transcript → approved JSON → `publish_approved_batch.py` / `publish_bilingual.py` → push).
 
-**Schedule:** every night **01:00 Beijing** (17:00 UTC).
-
-Pipeline each night:
-
-1. **Discover** new episodes — ILTB, Acquired, BB/Founders RSS (`discover_*.py`)
-2. **Summarize** up to **8** episodes (default `NIGHTLY_BATCH_SIZE`):
-   - Priority: **new releases** (past 7 days) with full transcript
-   - Then: BB/Founders expand-pool backlog (`resolve_curated_bb_founders.py --ready`)
-3. **Publish** — validate, sync web, commit + push → GitHub Pages deploy
-
-YouTube captions are handled separately by `youtube-captions.yml` (4× daily, slow batch).
-
-This keeps the **Friday 12:00 weekly digest** fed with the past week's episode dates.
-
-Scripts: `scripts/report_new_episodes.py`, `scripts/nightly_content_update.py`
-
-Required secret: `CURSOR_API_KEY`
-
-Manual run: Actions → **Nightly Content Update**
+YouTube captions remain on `youtube-captions.yml` (4× daily, slow batch). The **Friday 12:00 weekly digest** still emails whatever is already published.
 
 ### Legacy workflows (manual only)
 
-- `weekly-update.yml` — large backfill via Cursor (formerly Saturday)
-- `nightly-bb-founders.yml` — BB/Founders-only expansion (merged into nightly)
+- `weekly-update.yml` — large backfill via Cursor SDK
+- `nightly-bb-founders.yml` — BB/Founders-only expansion via Cursor SDK
 
 ## Weekly Saturday Update (manual backfill)
 
-Workflow: `.github/workflows/weekly-update.yml` (no schedule — use **Nightly Content Update** instead)
+Workflow: `.github/workflows/weekly-update.yml` (no schedule)
 
 When run manually, it:
 - creates transcript-grounded summaries,
