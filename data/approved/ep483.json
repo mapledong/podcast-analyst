@@ -1,0 +1,118 @@
+{
+  "episode_id": "ep483",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 483,
+    "title": "Natural Gas: The Next Bottleneck",
+    "guest": "Matthew Smith",
+    "guest_role": "Founder & CIO, Chronometer Partners",
+    "date": "2026-07-21",
+    "duration_minutes": 55,
+    "youtube_url": "",
+    "links": {
+      "colossus": "https://colossus.com/episode/americas-next-energy-crisis/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "spotify": "https://open.spotify.com/show/2NDl6A7h4E8tN5T8Vj8Vj8"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Natural Gas",
+    "EXE",
+    "CWEN",
+    "LNG"
+  ],
+  "conclusion": "After ~18 months of well-by-well modeling, Smith argues the US faces a historic natural-gas deliverability deficit starting ~2028 as contracted LNG exports (~15→~35 Bcf/d) collide with AI compute gas demand (~5 Bcf/d base; 12–15 extreme). Working-gas storage can be exhausted by ~2030; price upside is unbounded and convex, felt first in electricity. Resource underground exists — the bottleneck is inventory timeline, midstream, and processing. Winners: mature producers (Expand, EQT) and free-fuel solar (Clearway, residential). Bridge is solar/wind; long-term only large-scale nuclear (~2033–34). Losers: consumers and late-cycle gas turbine / fuel-cell buildouts.",
+  "background": "Patrick returns with Matthew Smith, founder and CIO of Chronometer Partners (energy, industrials, materials, power/utilities). Smith's team has modeled nearly every US natural-gas well, pipeline, and processing asset — a contrarian conclusion versus a market that still treats gas as plentiful.\n\nThe setup predates AI: shale turned the US from importer to LNG exporter; electricity demand stagnated while LNG became the swing demand. Now nameplate LNG export capacity roughly doubles while hyperscalers add gas-hungry generation (fuel cells ~150 MMcf/d per GW). Shutting exports is not a free option — long-term offtake contracts and the US becoming ~1/3 of global gas supply lock in volumes.",
+  "important_facts": [
+    "Timing: 2026–27 still look adequately supplied; from 2028, LNG + assigned AI gas loads start eating working-gas storage — the nexus of US supply/demand — with potential exhaustion by ~2030. Upside risk to gas (and electricity) prices is unbounded and convex. Base AI-related incremental gas ~5 Bcf/d; extreme path 12–15 Bcf/d by early 2030s.",
+    "Deliverability, not geology: captured company inventory is largely worked through in ~4–5 years; max flow modeled ~128–132 Bcf/d if acreage is drilled optimally — barely enough for committed LNG. Expand Energy may control ~70% of remaining highly productive inventory; Expand and EQT have mature portfolios where replacement is less costly than five years ago. Midstream gathering/processing is an immediate rate limiter into 2027–28.",
+    "Winners/losers and nuclear: Utility-scale solar (e.g. Clearway) marks PPAs to higher power prices with little incremental capex; residential solar becomes an economic midday hedge as retail rates rise. Large-scale AP1000-class nuclear is the only durable fix by ~2033–34; SMRs mostly still science experiments. Consumers lose via bills; Caterpillar/Bloom-style gas gen capacity adds at the wrong time if gas scarcity bites 2028–30."
+  ],
+  "mental_model": {
+    "name": "Sources−Uses × Working-Gas Buffer × Convex Electricity",
+    "components": "Match LNG export commitments and AI gas loads against basin deliverability and midstream, not headline reserves. Working-gas storage is the swing buffer — when it depletes, price convexity hits power first. Free-fuel generation (solar/wind) and mature producer inventory capture scarcity rents; new gas turbines amplify scarcity.",
+    "application": "Stress-test any power or AI-infra thesis for physical gas provisioning through 2028–2030. Prefer producers with mapped engineered inventory and solar assets with merchant/PPA upside over late-cycle distributed gas gen. Treat large nuclear as the multi-year alignment problem for hyperscalers and regulators — not a near-term trade."
+  },
+  "key_insights": [
+    {
+      "view": "The crisis is deliverability on a clock, not running out of molecules.",
+      "question": "Why can't the US just drill more?",
+      "answer": "Known rock and company acreage support a flow ceiling (~128–132 Bcf/d) once surface constraints bind. Captured inventory lasts ~4–5 years; new basins are uneconomic or infrastructure-poor. Exports are contractually sticky — you cannot casually shut LNG to feed data centers."
+    },
+    {
+      "view": "Electricity is where convex gas risk shows up for most people.",
+      "question": "Who feels scarcity first?",
+      "answer": "Working-gas draws into the late decade push power prices; utility solar re-marks PPAs, residential solar hedges midday retail rates. Gas-turbine and fuel-cell OEM narratives that assume cheap fuel into 2029+ are mis-timed."
+    },
+    {
+      "view": "Solar bridges; large nuclear is the endgame.",
+      "question": "What actually solves the deficit?",
+      "answer": "Near term only solar/wind displace gas as flex fuel. SMRs lack manufacturing scale for tens of GW; AP1000-class builds need hyperscaler–regulator alignment for 2033–34 COD — belief in the gas problem is the missing catalyst."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "EXE",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Expand Energy framed as top remaining inventory owner (~70% of highly productive leftover locations) with a mature decline stack — primary public proxy for scarcity rents if 2028+ deliverability binds"
+    },
+    {
+      "ticker": "CWEN",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Clearway cited as utility-scale solar beneficiary: existing fleets mark PPAs to higher power prices with little new capex when electricity spikes on gas scarcity"
+    },
+    {
+      "ticker": "BE",
+      "direction": "Short",
+      "confidence": "Low",
+      "thesis": "Bloom Energy / distributed gas gen called poorly positioned — multi-GW fuel-cell build assumes gas availability that Chronometer's scarcity case denies into 2028–30"
+    }
+  ],
+  "golden_quotes": [
+    "The upside risk of price and natural gas is both unbounded and convex.",
+    "We get through most of the existing captured inventory of companies in the next four or five years.",
+    "Expand Energy is probably at the top of that list."
+  ],
+  "chronology": {
+    "subject": "US Natural Gas · Chronometer Thesis",
+    "events": [
+      {
+        "date": "2010s",
+        "event": "Shale abundance flips US from gas importer to LNG exporter; electricity demand stagnates"
+      },
+      {
+        "date": "~18 months study",
+        "event": "Chronometer models US wells, pipelines, processing — concludes historic deficit path"
+      },
+      {
+        "date": "2026–2027",
+        "event": "Gas still appropriately supplied on base case"
+      },
+      {
+        "date": "2028+",
+        "event": "LNG ramp (~15→~35 Bcf/d) + AI compute gas loads begin drawing working-gas storage"
+      },
+      {
+        "date": "~2030",
+        "event": "Risk of exhausting working-gas storage; electricity price convexity"
+      },
+      {
+        "date": "2033–2034",
+        "event": "Earliest realistic large-scale nuclear bridge if AP1000-class builds align"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 ILTB weekly · whisper/base",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/base+ep483",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

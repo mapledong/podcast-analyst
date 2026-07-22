@@ -1,6 +1,15 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
+- id: ep483
+  episode_number: 483
+  title: 'Natural Gas: The Next Bottleneck'
+  guest: Matthew Smith
+  guest_role: Founder & CIO, Chronometer Partners
+  date: '2026-07-21'
+  duration_minutes: 55
+  youtube_url: ''
+  podcast: Invest Like the Best
 - id: ep482
   episode_number: 482
   title: How to Raise a Few Billion Dollars
@@ -1604,6 +1613,17 @@ episodes:
   duration_minutes: 145
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep191
+  episode_number: 191
+  title: 'E191 Four AI Semiconductor Frontiers: Tech, Opportunity, and Hype | David
+    × Fang Liang'
+  guest: Fang Liang
+  guest_role: Strategy Director, Xinglv Intelligent (yield software + inspection)
+  date: '2026-07-19'
+  duration_minutes: 70
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a5c5d4ca3fec224d59fcb23
 - id: acq-the-mark-zuckerberg-interview
   episode_number: 190
   title: The Mark Zuckerberg Interview
@@ -2250,6 +2270,17 @@ episodes:
   duration_minutes: 120
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep147
+  episode_number: 147
+  title: 'Ant Lingbo''s Shen Yujun on Robot-Native Foundation Models: Brain, Body,
+    and Data'
+  guest: Shen Yujun
+  guest_role: Chief Scientist, Ant Lingbo (Tang Xiao'ou lineage)
+  date: '2026-07-22'
+  duration_minutes: 113
+  youtube_url: ''
+  podcast: Zhang Xiaojun Business Interviews
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a5f79b3a3fec224d5a128cd
 - id: acq-altimeter-with-brad-gerstner
   episode_number: 146
   title: Altimeter (with Brad Gerstner)

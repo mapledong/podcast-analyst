@@ -1,10 +1,23 @@
 {
-  "discovered_at": "2026-07-19T07:41:12.393687+00:00",
+  "discovered_at": "2026-07-22T11:53:04.490956+00:00",
   "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
   "cutoff_date": "2021-06-14",
-  "total": 307,
+  "total": 308,
   "with_youtube": 0,
   "episodes": [
+    {
+      "id": "ep483",
+      "episode_number": 483,
+      "title": "Matthew Smith — Natural Gas: The Next Bottleneck",
+      "guest": "Matthew Smith — Natural Gas: The Next Bottleneck",
+      "guest_role": "",
+      "date": "2026-07-21",
+      "duration_minutes": 55,
+      "audio_url": "https://traffic.megaphone.fm/CLS1352215254.mp3",
+      "apple_url": "https://colossus.com/episode/americas-next-energy-crisis/",
+      "youtube_url": "",
+      "rss_title": "Matthew Smith — Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483]"
+    },
     {
       "id": "ep482",
       "episode_number": 482,

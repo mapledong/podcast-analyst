@@ -1,0 +1,107 @@
+{
+  "episode_id": "tzs-ep191",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 191,
+    "title": "E191 Four AI Semiconductor Frontiers: Tech, Opportunity, and Hype | David × Fang Liang",
+    "guest": "Fang Liang",
+    "guest_role": "Strategy Director, Xinglv Intelligent (yield software + inspection)",
+    "date": "2026-07-19",
+    "duration_minutes": 70,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6a5c5d4ca3fec224d59fcb23"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "TSM",
+    "Metalens",
+    "Glass Substrate",
+    "SiC"
+  ],
+  "conclusion": "Fang Liang unpacks four hot semiconductor themes — metalens, glass substrate, hybrid bonding, and SiC — via restore-the-facts → 3–5y industry view → investment logic (not stock tips). Metalens is metasurface optics with early phone-CIS examples but incomplete big-OEM adoption; glass substrate wins on CTE/stiffness vs organic substrates, with volume origin ~2026 and product use later — Rubin-glass rumors get cold water; hybrid bonding rides advanced packaging; SiC ranks as the most commercializable of the four, with many domestic players still stuck climbing 6″→8″/12″.",
+  "background": "Ep.191, hosted by David, brings back Fang Liang (first on ep.26 in Mar 2024). He has left VC for a semiconductor startup — Xinglv Intelligent — as strategy director, selling yield-management software and inspection gear to fabs and OSATs.\n\nThe framing: the industry is drowning in buzzwords, some fake, some stretched. Three goals — explain each tech and puncture rumors; build a mid-term industry view; clarify investment logic and watchpoints without recommending stocks or price targets.",
+  "important_facts": [
+    "Metalens (metasurface optics): collapses lens function into ultra-thin structures that can couple to CIS; industry narrative includes a Xiaomi phone front-camera CIS example, while Apple and peers have not fully adopted — route and yield still unfinished. Thinner form factor and optical degrees of freedom vs traditional lenses; materials/process and system integration constrain scale.",
+    "Glass substrate and hybrid bonding: the market's 'glass substrate' usually means glass for FCBGA-class substrates — better CTE/stiffness than organic BT/core for advanced packaging. Volume 'origin' ~2026; real product penetration may slip to 2027+. Treat claims that a whole GPU generation is already on glass with skepticism. Hybrid bonding is a core advanced-packaging interconnect path tied to TSMC-ecosystem roadmaps.",
+    "SiC: clearest commercialization path of the four — power devices meet EV/industrial demand; substrate inch climb (6″→8″→12″, PVT growth, etc.) is the industry story. Many domestic makers still on 6″; finance often underweights substrate yield and ramp tempo. Examples are not advice; tech names are volatile."
+  ],
+  "mental_model": {
+    "name": "Facts First × 3–5y Industry Clock × Logic Not Tips",
+    "components": "Define the physics and stage, map domestic/overseas players and disruption points, then mark mid-checkpoints to track. Separate volume origin from product penetration to catch narrative bubbles. Rank by commercialization maturity to set research priority, not theme trading.",
+    "application": "For advanced packaging, split glass-substrate and hybrid-bonding customer-import calendars; for metalens, track CIS penetration and big-OEM design-ins; for SiC, watch inch nodes and yield, not just domestic listing counts. Use Fang's yield-tool seat as a leading indicator of process ramps."
+  },
+  "key_insights": [
+    {
+      "view": "Restore the four nouns before pricing the hype.",
+      "question": "Where does the market err?",
+      "answer": "Metalens, glass substrate, hybrid bonding, and SiC get bundled as one 'AI semi' theme. Fang insists on physics and stage first, then a 3–5y view — otherwise lab progress gets priced as volume."
+    },
+    {
+      "view": "Glass substrate is a clock problem, not a binary.",
+      "question": "How to read glass narratives?",
+      "answer": "CTE/stiffness advantages are real, but volume origin ~2026 and product use later; treating unproven full-generation glassification as fact is rumor territory."
+    },
+    {
+      "view": "SiC is the most commercial; inch climb decides winners.",
+      "question": "How to rank research?",
+      "answer": "Among the four, SiC has the clearest demand and process path; many China players remain on 6″ — differentiation is 8″/12″ yield and capacity, fit for mid-horizon industry tracking."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "TSM",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Hybrid bonding and glass-substrate import calendars ultimately clear through TSMC-ecosystem customer roadmaps — Long the advanced-packaging line only after import timing and yield data confirm, not the theme headline"
+    },
+    {
+      "ticker": "Private:Xinglv Intelligent",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Guest's yield-management software/hardware firm serves fabs/OSATs — new materials and nodes (glass, SiC, bonding) raise yield-tool demand; private name as an industry observation anchor"
+    }
+  ],
+  "golden_quotes": [
+    "Restore the facts, then give a three-to-five-year industry view.",
+    "Among the four, SiC still has the strongest commercialization path.",
+    "Examples only — not investment advice."
+  ],
+  "chronology": {
+    "subject": "Fang Liang · Four Semi Themes Revisit",
+    "events": [
+      {
+        "date": "2024-03",
+        "event": "Ep.26: Fang Liang appears from a VC seat"
+      },
+      {
+        "date": "2024",
+        "event": "Leaves VC for semiconductor startup; now strategy at Xinglv Intelligent"
+      },
+      {
+        "date": "~2024–2025",
+        "event": "Early metalens phone-CIS examples; full big-OEM adoption still pending"
+      },
+      {
+        "date": "2026",
+        "event": "Glass-substrate volume-origin window; ep.191 deep dive on four themes"
+      },
+      {
+        "date": "2027+",
+        "event": "Glass product penetration and SiC inch-climb verification period"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 tzs weekly · whisper/base",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/base+tzs-ep191",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

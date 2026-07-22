@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T07:46:53.831Z",
+  "generatedAt": "2026-07-22T12:09:09.642Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -9,7 +9,7 @@
       "accent_color": "#C45D3E",
       "youtube_url": "https://www.youtube.com/@ILTB_Podcast",
       "cover_url": "/covers/invest-like-the-best.jpg",
-      "episodeCount": 59
+      "episodeCount": 61
     },
     {
       "id": "acquired",
@@ -59,10 +59,58 @@
       "accent_color": "#1A5F4A",
       "youtube_url": "https://www.youtube.com/results?search_query=投资实战派",
       "cover_url": "/covers/touzi-shizhanpai.jpg",
-      "episodeCount": 32
+      "episodeCount": 33
     }
   ],
   "episodes": [
+    {
+      "id": "ep483",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 483,
+      "title": "Natural Gas: The Next Bottleneck",
+      "guest": "Matthew Smith",
+      "displayTitle": "Matthew Smith",
+      "displaySubtitle": "Natural Gas: The Next Bottleneck",
+      "guestRole": "Founder & CIO, Chronometer Partners",
+      "date": "2026-07-21",
+      "durationMinutes": 55,
+      "readMinutes": 4,
+      "rating": 5,
+      "conclusion": "After ~18 months of well-by-well modeling, Smith argues the US faces a historic natural-gas deliverability deficit starting ~2028 as contracted LNG exports (~15→~35 Bcf/d) collide with AI compute gas demand (~5 Bcf/d base; 12–15 extreme). Working-gas storage can be exhausted by ~2030; price upside is unbounded and convex, felt first in electricity. Resource underground exists — the bottleneck is inventory timeline, midstream, and processing. Winners: mature producers (Expand, EQT) and free-fuel solar (Clearway, residential). Bridge is solar/wind; long-term only large-scale nuclear (~2033–34). Losers: consumers and late-cycle gas turbine / fuel-cell buildouts.",
+      "youtubeUrl": "",
+      "summaryFile": "ep483.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Natural Gas",
+        "EXE",
+        "CWEN",
+        "LNG"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "EXE",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Expand Energy framed as top remaining inventory owner (~70% of highly productive leftover locations) with a mature decline stack — primary public proxy for scarcity rents if 2028+ deliverability binds"
+        },
+        {
+          "ticker": "CWEN",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Clearway cited as utility-scale solar beneficiary: existing fleets mark PPAs to higher power prices with little new capex when electricity spikes on gas scarcity"
+        },
+        {
+          "ticker": "BE",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "Bloom Energy / distributed gas gen called poorly positioned — multi-GW fuel-cell build assumes gas availability that Chronometer's scarcity case denies into 2028–30"
+        }
+      ],
+      "chronologySubject": "US Natural Gas · Chronometer Thesis"
+    },
     {
       "id": "ep482",
       "podcastId": "invest-like-the-best",
@@ -5230,6 +5278,50 @@
       "chronologySubject": "Jeff Bezos · Amazon Shareholder Letters"
     },
     {
+      "id": "tzs-ep191",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 191,
+      "title": "E191 Four AI Semiconductor Frontiers: Tech, Opportunity, and Hype | David × Fang Liang",
+      "guest": "Fang Liang",
+      "displayTitle": "Fang Liang",
+      "displaySubtitle": "Strategy Director, Xinglv Intelligent (yield software + inspection)",
+      "guestRole": "Strategy Director, Xinglv Intelligent (yield software + inspection)",
+      "date": "2026-07-19",
+      "durationMinutes": 70,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "Fang Liang unpacks four hot semiconductor themes — metalens, glass substrate, hybrid bonding, and SiC — via restore-the-facts → 3–5y industry view → investment logic (not stock tips). Metalens is metasurface optics with early phone-CIS examples but incomplete big-OEM adoption; glass substrate wins on CTE/stiffness vs organic substrates, with volume origin ~2026 and product use later — Rubin-glass rumors get cold water; hybrid bonding rides advanced packaging; SiC ranks as the most commercializable of the four, with many domestic players still stuck climbing 6″→8″/12″.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep191.md",
+      "summaryFileZh": "tzs-ep191.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "TSM",
+        "Metalens",
+        "Glass Substrate",
+        "SiC"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "TSM",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Hybrid bonding and glass-substrate import calendars ultimately clear through TSMC-ecosystem customer roadmaps — Long the advanced-packaging line only after import timing and yield data confirm, not the theme headline"
+        },
+        {
+          "ticker": "Private:Xinglv Intelligent",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Guest's yield-management software/hardware firm serves fabs/OSATs — new materials and nodes (glass, SiC, bonding) raise yield-tool demand; private name as an industry observation anchor"
+        }
+      ],
+      "chronologySubject": "Fang Liang · Four Semi Themes Revisit"
+    },
+    {
       "id": "tzs-ep190",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 190,
@@ -6836,157 +6928,47 @@
       "chronologySubject": "David · Dining Insights"
     },
     {
-      "id": "bb-robinhood-mobile-first-margins-later",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 233,
-      "title": "Robinhood: Mobile First, Margins Later",
-      "guest": "Arthur Olson",
-      "displayTitle": "Robinhood",
-      "displaySubtitle": "Arthur Olson · Founding Partner, Ravenswood Partners · Mobile First, Margins Later",
-      "guestRole": "Founding Partner, Ravenswood Partners",
-      "date": "2025-10-31",
-      "durationMinutes": 60,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Olson argues Robinhood is the brokerage of the next generation — 26 million funded accounts, 95% retention, and product velocity that turned a 2022 refounding into nine nine-figure revenue lines. Mobile-first UX plus payment-for-order-flow economics mattered, but the durable edge is demographic share (65%+ Gen Z) and wallet expansion as $10,000 average accounts compound toward banking, Gold, and wealth tools over decades.",
+      "id": "zj-ep147",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 147,
+      "title": "Ant Lingbo's Shen Yujun on Robot-Native Foundation Models: Brain, Body, and Data",
+      "guest": "Shen Yujun",
+      "displayTitle": "Shen Yujun",
+      "displaySubtitle": "Chief Scientist, Ant Lingbo (Tang Xiao'ou lineage)",
+      "guestRole": "Chief Scientist, Ant Lingbo (Tang Xiao'ou lineage)",
+      "date": "2026-07-22",
+      "durationMinutes": 113,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "After last episode's Physical Intelligence (π) deep dive, Zhang turns to a domestic brain-first sample: Shen Yujun, chief scientist at Ant-incubated Ant Lingbo. The industry twist — Chinese teams starting from robot brains then filling in bodies. Shen argues the brain currently lags the body, bodies do not generalize, and if robots must own their own models, data must support scale-up. VA2.0 is framed as a robot-native stack (incl. MoE and causal attention), trained from random initialization; the robot GPT-1 moment remains open, with US–China approaches in dialogue.",
       "youtubeUrl": "",
-      "summaryFile": "bb-robinhood-mobile-first-margins-later.md",
+      "summaryFile": "zj-ep147.md",
+      "summaryFileZh": "zj-ep147.md",
       "availableLocales": [
-        "en"
+        "en",
+        "zh"
       ],
       "defaultLocale": "en",
       "keywords": [
-        "HOOD",
-        "Digital Brokerage",
-        "Fintech"
+        "Private:Ant Lingbo",
+        "Robot Foundation Models",
+        "NVDA"
       ],
       "investmentIdeas": [
         {
-          "ticker": "HOOD",
+          "ticker": "Private:Ant Lingbo",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Olson sees a multi-decade asset-gathering flywheel: 20% account share at 2% asset share closes as millennials and Gen Z compound balances, banking/Gold add recurring revenue, and ~81% incremental margins on cloud infrastructure support earnings power — tempered by regulatory and valuation risk after a sharp rerating."
-        }
-      ],
-      "chronologySubject": "Robinhood"
-    },
-    {
-      "id": "acq-trader-joes",
-      "podcastId": "acquired",
-      "episodeNumber": 203,
-      "title": "Trader Joe’s",
-      "guest": "Trader Joe’s",
-      "displayTitle": "Trader Joe’s",
-      "displaySubtitle": "Season 18 · Episode 2",
-      "guestRole": "Season 18 · Episode 2",
-      "date": "2025-10-26",
-      "durationMinutes": 205,
-      "readMinutes": 7,
-      "rating": 5,
-      "conclusion": "Trader Joe's is a ~$24–25B private grocery business doing $2,000+ per square foot — double Whole Foods and 4x industry average — with ~80% private label, deliberately small stores, and cult customer loyalty. Ben and David trace Joe Coulombe's 1967 Pronto Markets buyout ($25,000, employees co-invested), the 1960s 747-driven globalization insight, and 1979 sale to Aldi Nord's Theo Albrecht — who let Joe run it another decade. Two Buck Chuck (Charles Shaw label bought for $27,000; 1B+ bottles sold) exemplifies the model: absolute margin dollars over margin percentages, curated SKUs (~4,000), and crew paid 40–60% above market with ~5–6% turnover. The episode reveals why Aldi-owned Trader Joe's avoids Aldi branding — and why estimated ~$32–35B private valuation rivals 7-Eleven despite no public markets.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-trader-joes.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Private Label",
-        "Aldi Nord",
-        "Merchant Culture"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "PRIVATE",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Trader Joe's (~$32–35B estimated, Aldi Nord-owned) demonstrates private grocery can compound at ~11% revenue growth without public markets — no direct investment but benchmark for Sprouts/Fresh Market niche players."
-        }
-      ],
-      "chronologySubject": "Trader Joe's · Joe Coulombe"
-    },
-    {
-      "id": "acq-google-the-ai-company",
-      "podcastId": "acquired",
-      "episodeNumber": 202,
-      "title": "Google Part III: The AI Company",
-      "guest": "Google Part III: The AI Company",
-      "displayTitle": "Google",
-      "displaySubtitle": "Part III: The AI Company · Season 18 · Episode 1",
-      "guestRole": "Season 18 · Episode 1",
-      "date": "2025-10-05",
-      "durationMinutes": 243,
-      "readMinutes": 7,
-      "rating": 5,
-      "conclusion": "Google Part III argues the search company was always an AI company — and that buying DeepMind for $550M (2014) may be worth $500B today while indirectly birthing OpenAI. Ben and David trace Brain's cat paper (2012, 10M YouTube frames), the Hinton auction (~$40M+, Baidu $12M opening bid), Transformer authors (2017), and the organizational split between DeepMind London and Google Brain that delayed product integration. DeepMind's acquisition triggered Elon Musk and Sam Altman to found OpenAI (~$1B pledged, 2015) when researchers wanted open publication Google would not allow. Larry approved $130M NVIDIA order when finance objected — NVIDIA revenue ~$4B then. Gemini finally unifies the stacks under Sundar Pichai, but the episode's tension is clear: Google invented the modern AI era yet nearly gave it away through talent exodus and product paralysis between 2013 and 2023. Search holds ~90% share with lock-in; PHIL consumed ~15% of data center capacity by mid-2000s — Google monetized AI internally before ChatGPT without consumer-facing credit.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-google-the-ai-company.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "DeepMind",
-        "Transformer",
-        "Gemini"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "GOOGL",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Google owns Transformer-era IP, DeepMind, TPUs, and distribution — Gemini unification addresses decade of organizational delay; AI monetization on ~$100B+ quarterly revenue base is underpriced if product velocity matches research leadership."
+          "thesis": "Ant-incubated domestic robot-native base-model lab; VA2.0 release window + brain-first narrative vs π — Long as a scarce China 'brain' observation name"
         },
         {
-          "ticker": "MSFT",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "OpenAI partnership gives Microsoft consumer AI brand leadership Google lacked — but Google retains fuller stack (TPU, data, Search); competitive outcome depends on Gemini execution vs. ChatGPT/Copilot distribution."
-        }
-      ],
-      "chronologySubject": "Google · DeepMind · AI"
-    },
-    {
-      "id": "bb-exor-fiat-crisis-to-ferrari-glory",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 229,
-      "title": "Exor: Fiat Crisis to Ferrari Glory",
-      "guest": "Exor",
-      "displayTitle": "Exor",
-      "displaySubtitle": "Fiat Crisis to Ferrari Glory · Public · EXXRF",
-      "guestRole": "Public · EXXRF",
-      "date": "2025-10-01",
-      "durationMinutes": 48,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Exor is a patient-capital holding company whose NAV per share growth over the past decade came overwhelmingly from Ferrari, while Stellantis, CNH Industrial, and Philips trade through cyclical lows. John Elkann closed a 50–60% NAV discount by trimming Ferrari and buying back stock at roughly €100 versus ~€180 NAV. The bet requires a decade-long horizon and faith that Elkann's people-first, debt-light capital allocation can renew the portfolio beyond racing luxury.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-exor-fiat-crisis-to-ferrari-glory.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "RACE",
-        "STLA",
-        "CNH",
-        "Family Holding Companies"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "RACE",
+          "ticker": "NVDA",
           "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Ferrari drove most of Exor's NAV per share growth and remains the highest-quality asset — ultra-luxury positioning, controlled volume, and EV transition as further proof it is not a mass-market automaker; many Exor holders may prefer direct Ferrari exposure at full multiple."
-        },
-        {
-          "ticker": "STLA",
-          "direction": "Watch",
           "confidence": "Low",
-          "thesis": "Stellantis is a pure auto cyclical at ~10–12% of Exor NAV, facing EV transition and overcapacity headwinds; Raj sees reasonable-to-cheap valuation but no moat comparable to Ferrari — useful as a embedded value option inside Exor, not a standalone high-conviction long from this episode."
+          "thesis": "Robot-native pretraining and fleet inference still consume accelerators — Lingbo/π-class bases expand GPU demand even while OEMs stay private"
         }
       ],
-      "chronologySubject": "Exor · Agnelli · Fiat"
+      "chronologySubject": "Shen Yujun · Ant Lingbo"
     },
     {
       "id": "tzs-ep146",
@@ -7939,6 +7921,41 @@
       "chronologySubject": "Tan Jie · DeepMind Gemini Robotics"
     },
     {
+      "id": "bb-robinhood-mobile-first-margins-later",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 233,
+      "title": "Robinhood: Mobile First, Margins Later",
+      "guest": "Arthur Olson",
+      "displayTitle": "Robinhood",
+      "displaySubtitle": "Arthur Olson · Founding Partner, Ravenswood Partners · Mobile First, Margins Later",
+      "guestRole": "Founding Partner, Ravenswood Partners",
+      "date": "2025-10-31",
+      "durationMinutes": 60,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Olson argues Robinhood is the brokerage of the next generation — 26 million funded accounts, 95% retention, and product velocity that turned a 2022 refounding into nine nine-figure revenue lines. Mobile-first UX plus payment-for-order-flow economics mattered, but the durable edge is demographic share (65%+ Gen Z) and wallet expansion as $10,000 average accounts compound toward banking, Gold, and wealth tools over decades.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-robinhood-mobile-first-margins-later.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "HOOD",
+        "Digital Brokerage",
+        "Fintech"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "HOOD",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Olson sees a multi-decade asset-gathering flywheel: 20% account share at 2% asset share closes as millennials and Gen Z compound balances, banking/Gold add recurring revenue, and ~81% incremental margins on cloud infrastructure support earnings power — tempered by regulatory and valuation risk after a sharp rerating."
+        }
+      ],
+      "chronologySubject": "Robinhood"
+    },
+    {
       "id": "zj-ep120",
       "podcastId": "zhang-xiaojun",
       "episodeNumber": 120,
@@ -8013,6 +8030,124 @@
         }
       ],
       "chronologySubject": "Li Xiang · Li Auto AI Talk S2"
+    },
+    {
+      "id": "acq-trader-joes",
+      "podcastId": "acquired",
+      "episodeNumber": 203,
+      "title": "Trader Joe’s",
+      "guest": "Trader Joe’s",
+      "displayTitle": "Trader Joe’s",
+      "displaySubtitle": "Season 18 · Episode 2",
+      "guestRole": "Season 18 · Episode 2",
+      "date": "2025-10-26",
+      "durationMinutes": 205,
+      "readMinutes": 7,
+      "rating": 5,
+      "conclusion": "Trader Joe's is a ~$24–25B private grocery business doing $2,000+ per square foot — double Whole Foods and 4x industry average — with ~80% private label, deliberately small stores, and cult customer loyalty. Ben and David trace Joe Coulombe's 1967 Pronto Markets buyout ($25,000, employees co-invested), the 1960s 747-driven globalization insight, and 1979 sale to Aldi Nord's Theo Albrecht — who let Joe run it another decade. Two Buck Chuck (Charles Shaw label bought for $27,000; 1B+ bottles sold) exemplifies the model: absolute margin dollars over margin percentages, curated SKUs (~4,000), and crew paid 40–60% above market with ~5–6% turnover. The episode reveals why Aldi-owned Trader Joe's avoids Aldi branding — and why estimated ~$32–35B private valuation rivals 7-Eleven despite no public markets.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-trader-joes.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private Label",
+        "Aldi Nord",
+        "Merchant Culture"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "PRIVATE",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Trader Joe's (~$32–35B estimated, Aldi Nord-owned) demonstrates private grocery can compound at ~11% revenue growth without public markets — no direct investment but benchmark for Sprouts/Fresh Market niche players."
+        }
+      ],
+      "chronologySubject": "Trader Joe's · Joe Coulombe"
+    },
+    {
+      "id": "acq-google-the-ai-company",
+      "podcastId": "acquired",
+      "episodeNumber": 202,
+      "title": "Google Part III: The AI Company",
+      "guest": "Google Part III: The AI Company",
+      "displayTitle": "Google",
+      "displaySubtitle": "Part III: The AI Company · Season 18 · Episode 1",
+      "guestRole": "Season 18 · Episode 1",
+      "date": "2025-10-05",
+      "durationMinutes": 243,
+      "readMinutes": 7,
+      "rating": 5,
+      "conclusion": "Google Part III argues the search company was always an AI company — and that buying DeepMind for $550M (2014) may be worth $500B today while indirectly birthing OpenAI. Ben and David trace Brain's cat paper (2012, 10M YouTube frames), the Hinton auction (~$40M+, Baidu $12M opening bid), Transformer authors (2017), and the organizational split between DeepMind London and Google Brain that delayed product integration. DeepMind's acquisition triggered Elon Musk and Sam Altman to found OpenAI (~$1B pledged, 2015) when researchers wanted open publication Google would not allow. Larry approved $130M NVIDIA order when finance objected — NVIDIA revenue ~$4B then. Gemini finally unifies the stacks under Sundar Pichai, but the episode's tension is clear: Google invented the modern AI era yet nearly gave it away through talent exodus and product paralysis between 2013 and 2023. Search holds ~90% share with lock-in; PHIL consumed ~15% of data center capacity by mid-2000s — Google monetized AI internally before ChatGPT without consumer-facing credit.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-google-the-ai-company.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "DeepMind",
+        "Transformer",
+        "Gemini"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Google owns Transformer-era IP, DeepMind, TPUs, and distribution — Gemini unification addresses decade of organizational delay; AI monetization on ~$100B+ quarterly revenue base is underpriced if product velocity matches research leadership."
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "OpenAI partnership gives Microsoft consumer AI brand leadership Google lacked — but Google retains fuller stack (TPU, data, Search); competitive outcome depends on Gemini execution vs. ChatGPT/Copilot distribution."
+        }
+      ],
+      "chronologySubject": "Google · DeepMind · AI"
+    },
+    {
+      "id": "bb-exor-fiat-crisis-to-ferrari-glory",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 229,
+      "title": "Exor: Fiat Crisis to Ferrari Glory",
+      "guest": "Exor",
+      "displayTitle": "Exor",
+      "displaySubtitle": "Fiat Crisis to Ferrari Glory · Public · EXXRF",
+      "guestRole": "Public · EXXRF",
+      "date": "2025-10-01",
+      "durationMinutes": 48,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Exor is a patient-capital holding company whose NAV per share growth over the past decade came overwhelmingly from Ferrari, while Stellantis, CNH Industrial, and Philips trade through cyclical lows. John Elkann closed a 50–60% NAV discount by trimming Ferrari and buying back stock at roughly €100 versus ~€180 NAV. The bet requires a decade-long horizon and faith that Elkann's people-first, debt-light capital allocation can renew the portfolio beyond racing luxury.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-exor-fiat-crisis-to-ferrari-glory.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "RACE",
+        "STLA",
+        "CNH",
+        "Family Holding Companies"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "RACE",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Ferrari drove most of Exor's NAV per share growth and remains the highest-quality asset — ultra-luxury positioning, controlled volume, and EV transition as further proof it is not a mass-market automaker; many Exor holders may prefer direct Ferrari exposure at full multiple."
+        },
+        {
+          "ticker": "STLA",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Stellantis is a pure auto cyclical at ~10–12% of Exor NAV, facing EV transition and overcapacity headwinds; Raj sees reasonable-to-cheap valuation but no moat comparable to Ferrari — useful as a embedded value option inside Exor, not a standalone high-conviction long from this episode."
+        }
+      ],
+      "chronologySubject": "Exor · Agnelli · Fiat"
     },
     {
       "id": "bb-mercado-libre-e-commerce-empire",
