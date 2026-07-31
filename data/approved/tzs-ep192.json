@@ -1,0 +1,111 @@
+{
+  "episode_id": "tzs-ep192",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 192,
+    "title": "E192 Compounding, Risk, and Patience | Yongqing with RuYuan's Zhang Jialu",
+    "guest": "Zhang Jialu",
+    "guest_role": "Portfolio Manager, RuYuan HK Connect New Value Fund",
+    "date": "2026-07-26",
+    "duration_minutes": 98,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6a65fa50a3fec224d5a39641"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Hong Kong",
+    "Value Investing",
+    "TCEHY",
+    "Patience"
+  ],
+  "conclusion": "RuYuan's Zhang Jialu — the show's first female public-fund PM guest — unpacks her HK Connect New Value process as consulting-grade business analysis first: pass a competitive-moat test before DCF, size the margin of safety to conviction, and stay inside the circle of competence. Versus A-shares, HK has a deeper dividend culture and larger swings; she warns against casually buying non-Stock-Connect names or assuming chronically cheap PB mean-reverts. Professional edge is cognition plus left-side patience — not a five-point impulse after chatting with AI.",
+  "background": "Yongqing invited Zhang after reading her high-signal HK/consumer notes and fund reports (intro via Jin). Path: Shanghai Jiao Tong → two years in management consulting → three years under a Columbia-rooted value program at a QFII shop → EM fund in New York (analyst to PM) → RuYuan, running HK Connect New Value since 2024.\n\nDisclaimer up front: company and market views are not investment advice — the goal is to understand her quality/growth process.",
+  "important_facts": [
+    "Three gates: analyze business model, bargaining power, and sources of advantage (Competition Demystified — not every firm can be DCF'd); only then estimate intrinsic value vs price, with required discount shrinking as confidence rises; all under circle-of-competence limits.",
+    "HK vs A-share: stronger dividend culture and earlier adaptation to slower growth; huge amplitude; foreign flows (e.g. underweight HK / overweight India) drain liquidity. Do not casually: non-Stock-Connect names, or 0.2× PB + cash piles that 'must' re-rate.",
+    "Compounding/risk/patience: pros differ from amateurs mainly by exhausting industry work; methodology matches legendary retail deep-workers, scale/risk budget differ. Patience means laying out early on economically sound but unpopular names — not inspiration-driven 5% clips."
+  ],
+  "mental_model": {
+    "name": "Moat Test × Confidence-Scaled Margin × HK Connect Patience",
+    "components": "Consulting-style analysis decides if a name enters the valuation sheet. Margin of safety flexes with conviction. HK plumbing (Connect, dividends, foreign flows, volatility) is environment, not the strategy. Cognition hours + left-side patience are the edge.",
+    "application": "For HK quality/value books, ask 'can this be DCF'd?' before filling growth cells. Tie size to conviction discount, not narrative heat. Keep HK as a standing asset-class sleeve rather than exiting on ugly tapes; avoid non-Connect and pure cheap traps."
+  },
+  "key_insights": [
+    {
+      "view": "Not every company can be valued with a DCF.",
+      "question": "What is step one in stock picking?",
+      "answer": "Be a business analyst first: moat, pricing power, commercial fit. Only after that gate do long-term growth and margin assumptions matter — otherwise the model is a number game."
+    },
+    {
+      "view": "HK has dividend culture — and distinctive traps.",
+      "question": "What should A-share listeners watch?",
+      "answer": "Willingness to pay real cash dividends is a maturity feature; but non-Connect names, chronic cheapness hoping for re-rating, and false confidence amid huge swings are the 'do not try casually' list."
+    },
+    {
+      "view": "Edge is cognition plus patience, not inspiration.",
+      "question": "Where does compounding come from?",
+      "answer": "Spend the hours to know an industry, then be willing to sit left of popularity. A rigorous research SOP tracks known names and external idea sources — not a five-point buy after an AI chat."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:RuYuan HK Connect New Value",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Zhang's 2024+ product is the direct vehicle for her moat→margin→competence framework — Long as process observation, not a performance promise"
+    },
+    {
+      "ticker": "TCEHY",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "HK quality compounders with platform-scale moats fit her gatekeeping logic — Long only after business-model and margin-of-safety tests, as a liquid HK Connect anchor rather than a tipped name"
+    }
+  ],
+  "golden_quotes": [
+    "Not every company can be valued with a DCF.",
+    "Hong Kong has long had a dividend culture.",
+    "And then there is patience."
+  ],
+  "chronology": {
+    "subject": "Zhang Jialu · Value Path",
+    "events": [
+      {
+        "date": "Post SJTU",
+        "event": "Two years in management consulting — business-analysis foundation"
+      },
+      {
+        "date": "Early career",
+        "event": "~Three years at QFII shop under Columbia-rooted value investing"
+      },
+      {
+        "date": "US years",
+        "event": "EM fund New York office: analyst → portfolio manager"
+      },
+      {
+        "date": "Return to China",
+        "event": "Joins RuYuan Fund"
+      },
+      {
+        "date": "2024",
+        "event": "Begins managing HK Connect New Value"
+      },
+      {
+        "date": "2026-07-26",
+        "event": "Practical Investments E192 on compounding, risk, patience"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 tzs weekly · whisper/base",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/base+tzs-ep192",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

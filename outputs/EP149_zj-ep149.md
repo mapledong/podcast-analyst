@@ -1,0 +1,122 @@
+# EP.149 — Liu Ziming
+
+## *Assistant Professor, Tsinghua AI School · PI, Shanghai Qi Zhi Institute · Co-founder, Yuanhuan Intelligence*
+
+**★★★★★** · 5/5
+
+**Podcast** Zhang Xiaojun Business Interviews · **Date** Jul 30, 2026 · **Duration** 100 min · **Read** ≈3 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Liu Ziming · Assistant Professor, Tsinghua AI School · PI, Shanghai Qi Zhi Institute · Co-founder, Yuanhuan Intelligence
+
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** Yuanhuan Intelligence · AI · NVDA · INTERPRETABILITY
+> ### Conclusion
+>
+> After European/US neo-lab guests, Zhang turns to China's 2026 lab-startup mania: young elite researchers raising multi-hundred-million valuations before product, clustered on world models and Auto Research (AI for AI). Tsinghua's Liu Ziming (PKU+MIT; returned March; co-founding Yuanhuan Intelligence) calls the primary market 'too crazy' — dense information and fast checks. He maps AI science to Tycho→Kepler→Newton (roughly stage 0.5–1.5: scaling laws exist, no Newton yet) and bets mechanistic interpretability plus AI for AI — end-to-end design/train/deploy so non-experts can spawn vertical 'mini-OpenAIs'.
+
+---
+
+## Background
+
+> Liu Ziming: PKU and MIT, interpretability lineage; returned China March 2026, joined Tsinghua AI School late April, began fundraising late May while co-creating Yuanhuan Intelligence; also PI at Shanghai Qi Zhi Institute. MIT felt academic-conservative; Stanford nudged the founder impulse.
+>
+> The show contrasts prior New Lab interviews abroad with China's isomorphic boom — capital hottest on world models and Auto Research (AI4AI).
+
+---
+
+## Key Facts
+
+> **F1** Capital wave: research-background faculty/students become VC darlings — young, elite schools, first startups, multi-hundred-million USD valuations pre-product; clusters on world models, embodiment, AI for AI. Liu's feel: embodied/world-model/AI4AI primary markets are intensely 'subject-driven' with rapid mutual intel and term sheets.
+
+> **F2** Science ladder: astronomy analogy — Tycho data tables → Kepler empirical laws (scaling laws similar) → Newton unified formulas. Liu places AI at ≈1.5 or a gloomier 0.5: over-focus on Transformer-like architectures is staring at one patch of sky; full-sky data exploration is incomplete.
+
+> **F3** Product bet (AI for AI): user states need + budget (e.g. $100) and the system designs, trains, deploys — vibe-coding for model R&D, democratizing training beyond a few closed giants to incubate vertical models; mechanistic interpretability and symbolic compression are the academic spine.
+
+
+---
+
+## Mental Model · *Neo-Lab Mania × Scientific Compression Ladder × AI-for-AI Democratization*
+
+> **Components**
+>
+> Separate fundraising heat from research agenda. Use Tycho–Kepler–Newton to score field maturity; resist premature architecture lock-in. Automate research/training so model power diffuses into verticals.
+>
+> **Application**
+>
+> Diligence China lab startups on verifiable compression paths (interpretability, Auto Research), not valuation theater. Compute names still benefit if 'everyone trains models,' but near-term foam risk is pre-product mega-rounds. Split world-model hype from infra that truly lowers training barriers.
+
+---
+
+
+## Key Insights
+
+> **1.** China's neo-lab capital wave is 'too crazy.'
+>
+> **Q** What is the phenomenon?
+>
+> **A** Elite first-time founders raise huge pre-product rounds; world models and AI for AI are the hottest pockets. Primary-market information density and decision speed are extreme.
+
+> **2.** AI is nowhere near its Newton stage.
+>
+> **Q** Why interpretability and compression?
+>
+> **A** Scaling laws are scarce Kepler-like empirics; over-indexing on Transformers leaves the full sky unexplored. Symbols/mechanistic interpretability push empirical AI toward theoretical science.
+
+> **3.** AI for AI lets everyone train vertical models.
+>
+> **Q** What is Yuanhuan betting?
+>
+> **A** Not another closed giant — end-to-end 'train to my brief and budget,' moving vibe-coding logic onto model R&D to incubate industry mini-OpenAIs.
+
+---
+
+## Investment Ideas
+
+> **1. Yuanhuan Intelligence** · 🟢 LONG · ●○○ Low
+>
+> Liu's AI-for-AI / auto-training startup bet on lowering vertical-model barriers — early in a frothy raise cycle; low confidence
+
+> **2. NVDA** · 🟢 LONG · ●○○ Low
+>
+> If AI for AI spreads training demand beyond frontier labs into verticals, train/infer FLOPs widen — NVDA remains the liquid proxy
+
+---
+
+## Golden Quotes
+
+> "Too crazy."
+
+> "As long as you can do AI for AI, that's enough."
+
+> "We are still far from AI's Newton stage."
+
+---
+
+## Chronology
+
+> *Liu Ziming · Tsinghua & Yuanhuan*
+>
+> **PKU / MIT** Academic training; interpretability/mechanistic line; MIT more academic
+>
+> **Stanford period** Environment pushes founder impulse
+>
+> **2026-03** Returns to China
+>
+> **2026-04** Joins Tsinghua AI School; Qi Zhi Institute PI
+>
+> **2026-05** Fundraising + co-found Yuanhuan; feels primary market 'too crazy'
+>
+> **2026-07-30** Zhang Xiaojun EP149 on neo labs, AI for AI, interpretability
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Business Interviews, Zhang Xiaojun, or Liu Ziming. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

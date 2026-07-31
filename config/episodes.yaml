@@ -1,6 +1,15 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
+- id: ep484
+  episode_number: 484
+  title: How to Make an Abundant Future
+  guest: Sam Altman
+  guest_role: CEO, OpenAI
+  date: '2026-07-28'
+  duration_minutes: 54
+  youtube_url: ''
+  podcast: Invest Like the Best
 - id: ep483
   episode_number: 483
   title: 'Natural Gas: The Next Bottleneck'
@@ -472,6 +481,15 @@ episodes:
   duration_minutes: 77
   youtube_url: https://www.youtube.com/watch?v=17bGyLB00s0
   podcast: Invest Like the Best
+- id: fnd-426-how-obsession-built-christopher-nolan
+  episode_number: 426
+  title: How Obsession Built Christopher Nolan
+  guest: Christopher Nolan
+  guest_role: Biography · Episode 426 · The Nolan Variations (Tom Shone)
+  date: '2026-07-25'
+  duration_minutes: 51
+  youtube_url: ''
+  podcast: Founders
 - id: ep425
   episode_number: 425
   title: Building Alpine
@@ -1134,6 +1152,15 @@ episodes:
   duration_minutes: 70
   youtube_url: https://www.youtube.com/watch?v=zt9e6vVBdP4
   podcast: Founders
+- id: bb-applied-intuition-a-billion-intelligent-machines
+  episode_number: 248
+  title: 'Applied Intuition: A Billion Intelligent Machines'
+  guest: Qasar Younis & Peter Ludwig
+  guest_role: Co-founders, Applied Intuition
+  date: '2026-07-27'
+  duration_minutes: 47
+  youtube_url: ''
+  podcast: Business Breakdowns
 - id: bb-toast-sticky-saas
   episode_number: 247
   title: 'Toast: Sticky SaaS'
@@ -1602,6 +1629,16 @@ episodes:
   duration_minutes: 378
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep192
+  episode_number: 192
+  title: E192 Compounding, Risk, and Patience | Yongqing with RuYuan's Zhang Jialu
+  guest: Zhang Jialu
+  guest_role: Portfolio Manager, RuYuan HK Connect New Value Fund
+  date: '2026-07-26'
+  duration_minutes: 98
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a65fa50a3fec224d5a39641
 - id: acq-acquired-live-from-chase-center-with-daniel-ek-emily-chang-jensen-huang-and-mark-zuckerberg
   episode_number: 191
   title: Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang
@@ -2252,6 +2289,18 @@ episodes:
   duration_minutes: 132
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep149
+  episode_number: 149
+  title: 'Living the Sino-US Neo-Lab Capital Wave with Tsinghua''s Liu Ziming: AI
+    for AI, Mechanistic Interpretability, and Max Tegmark'
+  guest: Liu Ziming
+  guest_role: Assistant Professor, Tsinghua AI School · PI, Shanghai Qi Zhi Institute
+    · Co-founder, Yuanhuan Intelligence
+  date: '2026-07-30'
+  duration_minutes: 100
+  youtube_url: ''
+  podcast: Zhang Xiaojun Business Interviews
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a69b07eb581962ce2bd4d97
 - id: acq-platforms-and-power-with-hamilton-helmer-and-chenyi-shi
   episode_number: 148
   title: Platforms and Power (with Hamilton Helmer and Chenyi Shi)
@@ -2261,6 +2310,17 @@ episodes:
   duration_minutes: 84
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep148
+  episode_number: 148
+  title: '3 Hours with You Kaichao: Open-Source Infra, Model Co-Design, and ''If vLLM
+    Fails We''d Regret It Forever'''
+  guest: You Kaichao
+  guest_role: Co-founder / former Chief Scientist, Inferact · Core vLLM maintainer
+  date: '2026-07-28'
+  duration_minutes: 180
+  youtube_url: ''
+  podcast: Zhang Xiaojun Business Interviews
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a66ed17a3fec224d5a3f744
 - id: acq-nvidia-the-gpu-company-1993-2006
   episode_number: 147
   title: 'Nvidia Part I: The GPU Company (1993-2006)'

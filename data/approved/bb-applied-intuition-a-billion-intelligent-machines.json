@@ -1,0 +1,118 @@
+{
+  "episode_id": "bb-applied-intuition-a-billion-intelligent-machines",
+  "podcast": "Business Breakdowns",
+  "host": "Avidan",
+  "metadata": {
+    "episode_number": 248,
+    "title": "Applied Intuition: A Billion Intelligent Machines",
+    "guest": "Qasar Younis & Peter Ludwig",
+    "guest_role": "Co-founders, Applied Intuition",
+    "date": "2026-07-27",
+    "duration_minutes": 47,
+    "youtube_url": "",
+    "links": {
+      "acquired": "https://colossus.com/episode/applied-intuition/",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/business-breakdowns/id1559120677",
+      "spotify": "https://open.spotify.com/show/4zQbeLbLgqKEyn7e2sKzez"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:Applied Intuition",
+    "Physical AI",
+    "NVDA",
+    "DE"
+  ],
+  "conclusion": "Applied Intuition positions as the horizontal intelligence layer for machines — Nvidia sells chips into everyone else's hardware; Applied sells brains and the tools to build those brains into automotive, defense, mining, agriculture, trucking, and robotics without owning any end machine. Mission: a billion intelligent machines. Stack evolved tools → onboard OS → vertical autonomy → Dana, a new agentic platform that lowers the barrier to physical AI. Raised ~$1B yet remains self-funding (growth outran spend). Category leader claim in a market founders argue will dwarf digital AI over 25 years.",
+  "background": "Co-founders Qasar Younis and Peter Ludwig (Detroit roots; Ludwig early Android Automotive) started in 2017 after Cruise's GM acquisition crystallized that automotive would software-ize first, then pull defense, construction, mining, and ag along. Safety-critical OEMs would not buy autonomy stacks from a young startup — so they began with development/simulation tools, then were forced into vehicle OS and full autonomy offerings as deployment bottlenecks appeared.\n\nPhysical AI differs from digital AI: real-time constraints, safety with humans in the loop, and a strict cost/compute envelope on the machine — you cannot throw endless cloud GPUs at a combine.",
+  "important_facts": [
+    "Market framing: industrial ~5% of GDP; automotive alone ~3% of global GDP. Waymo cited at ~$126B as one slice of robotaxi — still only part of one vertical. Physical AI data is mostly proprietary (fleets + customer partnerships), not scraped internet text; cross-domain data (Japan Alfort trucks, drones, mines) improves models via shared physics.",
+    "Product stack: simulation/world-model tools (origin), onboard OS for reliable deploy/update/diagnostics of neural nets, vertical autonomy models, and Dana — agentic platform to orchestrate develop→simulate→deploy in plain English. Path to scale: imitation learning + RL in high-fidelity sim. Business model: classic product licensing to enterprise customers (not services-led).",
+    "Capital and competition: raised on the order of $1B but tried to spend it — growth made the company self-funding; capital treated as one bottleneck among technology and customers. Waymo not a direct competitor (consumer robotaxi vs selling to manufacturers). Many partial competitors exist; markets large enough that multiple winners fit. Public comps scarce — punchline is category leadership in physical AI."
+  ],
+  "mental_model": {
+    "name": "Horizontal Machine Brains × Proprietary Data Loop × Barrier Collapse",
+    "components": "Sell intelligence and tooling across OEMs rather than vertical robotaxis. Feed a data engine from diverse real machines so models learn shared physics. Use tools→OS→autonomy→agentic Dana to collapse the barrier so hundreds of hardware startups become customers, not rivals.",
+    "application": "Value physical-AI platforms on installed OEM relationships and proprietary fleet data, not chatbot metrics. Distinguish chip vendors (NVDA) from intelligence vendors (Applied). Treat John Deere/Caterpillar/defense primes as demand indicators for autonomy attach. Watch Dana-like agentic tooling as the unlock that multiplies customer count."
+  },
+  "key_insights": [
+    {
+      "view": "Physical AI will dominate mindshare over 25 years — and the TAM dwarfs desktop AI.",
+      "question": "Why bet horizontal machine intelligence?",
+      "answer": "Everyone interacts with cars; few write software daily. Industrial and automotive GDP shares are huge; dangerous, understaffed jobs (mining fatalities, aging farmers, trucking shortages) pull demand for autonomy faster than white-collar AI fears."
+    },
+    {
+      "view": "Dana collapses the barrier so hardware builders become customers.",
+      "question": "What changes with the agentic platform?",
+      "answer": "Building intelligent machines used to require patching disparate tools; Dana orchestrates simulation, training, and deployment in natural language — founders expect hundreds of funded hardware teams to buy the platform rather than reinvent it."
+    },
+    {
+      "view": "Raised a billion, spent almost none — growth was the allocator.",
+      "question": "How do they think about capital?",
+      "answer": "Each raise intended to be spent; revenue growth outran burn so the firm self-funds. Capital is fixed when it is the bottleneck; product quality in safety-critical systems remains the morning priority."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Applied Intuition",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Self-funding physical-AI category leader selling brains/tools across auto/defense/industrial; Dana + proprietary data loop + ~$1B dry powder optionality — primary episode long"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Founders explicitly analogize Applied to Nvidia's horizontal chip model — physical AI deployment still needs edge silicon; NVDA remains the liquid proxy for machine intelligence infra"
+    },
+    {
+      "ticker": "DE",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Ag/construction OEM cited as cousin markets to auto autonomy — intelligence attach on combines/mines/trucks is the demand pull Applied sells into; DE as public ag-automation proxy"
+    }
+  ],
+  "golden_quotes": [
+    "Our mission is to make a billion machines intelligent.",
+    "Applied Intuition sells intelligence into everyone else's machines.",
+    "We've tried to spend it. We've been fortunate enough to grow faster than that."
+  ],
+  "chronology": {
+    "subject": "Applied Intuition",
+    "events": [
+      {
+        "date": "Pre-2017",
+        "event": "Founders' Detroit/auto roots; Ludwig early Android Automotive; Google/Cruise context"
+      },
+      {
+        "date": "2016",
+        "event": "Cruise acquired by GM — catalyst conversations on software-first machines"
+      },
+      {
+        "date": "2017",
+        "event": "Applied Intuition founded; start with simulation/tools for safety-critical OEMs"
+      },
+      {
+        "date": "Years 2–8",
+        "event": "Expand into vehicle OS, vertical autonomy stacks; cross-industry data loop (trucks, drones, mines)"
+      },
+      {
+        "date": "Fundraises",
+        "event": "Raise ~$1B aggregate; company remains self-funding as growth outruns spend"
+      },
+      {
+        "date": "2026",
+        "event": "Launch Dana agentic platform; Business Breakdowns EP248"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 BB weekly · whisper/base",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/base+bb-applied-intuition",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "episode_id": "fnd-426-how-obsession-built-christopher-nolan",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 426,
+    "title": "How Obsession Built Christopher Nolan",
+    "guest": "Christopher Nolan",
+    "guest_role": "Biography · Episode 426 · The Nolan Variations (Tom Shone)",
+    "date": "2026-07-25",
+    "duration_minutes": 51,
+    "youtube_url": "",
+    "links": {
+      "founders": "https://www.founderspodcast.com/episodes/426-how-obsession-built-christopher-nolan",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104",
+      "spotify": "https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Obsession",
+    "Craftsmanship",
+    "DIS",
+    "Private:Warner Bros"
+  ],
+  "conclusion": "Senra reads Tom Shone's The Nolan Variations as an operating manual for builders: obsession is the engine, every film must be attempted as the best ever made, and Nolan refuses to let technology use him. From distributor rejection on Memento to ~$5B box office and studio-greenlit original scripts, the through-line is craftsman control — write or co-write every film, shoot every frame (no second unit), watermark secrecy, 7-to-7 days — plus constraints, ruthless cutting, and decades-long idea gestation (Inception at 16, made at 39).",
+  "background": "David Senra walks Tom Shone's interview-based book chronologically through Nolan's filmography. Timing ties to a new Nolan release; Senra returns to a favorite reread, especially Nolan's analog-world stance — flip phone, no email, meetings booked through an assistant in physical space.\n\nThe cult of Nolan: death threats for bad reviews, actors who must finish the watermarked script while Nolan sits in the living room drinking tea, then takes it away. Studios treat him as near a sure thing — one of few directors who can walk in with an original idea and walk out with ~$200M. Unusual at that scale: he wrote or co-wrote all 11 films to date.",
+  "important_facts": [
+    "Memento: rejected by every distributor despite praise; born of personal obsession; ~two years later, two Oscar nominations. Career arc: micro-budget shorts → billion-dollar blockbusters; films have earned over $5B at the box office. Secrecy: of 600+ on Dunkirk, ~20 read the script; copies watermarked with actors' names.",
+    "Operating system: believes each film could be the best ever made; finds filming arduous and all-consuming so the movie must be great. No second unit — shoots every frame; 7am–7pm with one lunch break. Prefers stripped-down screenplays; wants control rather than fully formed scripts landing on his desk. Analog: flip phone, no smartphone/email; shoot film, edit electronically, cut physical negative.",
+    "Constraints and editing: works faster/cheaper than expected to keep studio interference low; when stuck (e.g. Inception), ruthlessly cuts rather than incremental fixes — Senra links to Rick Rubin and Jobs. Ideas can gestate decades (Inception conceived at 16, made at 39). Echoes Honda: use machines; do not let machines use you."
+  ],
+  "mental_model": {
+    "name": "Obsession Engine × Analog Control × Constraint Resourcefulness",
+    "components": "Channel life energy only into work you would defend as potentially best-ever. Keep personal tech and process analog enough that attention stays on craft. Use budget/time constraints and secrecy to retain decision rights. Gestate ideas for years until skill and resources catch the vision; cut hard when stuck.",
+    "application": "Founders should ask whether they are burrowing deep enough to trust initial instincts when external validation fails. Prefer craft ownership (write the brief, review the build) over waiting for perfect inbound. Treat smartphone/email addiction as a competitive disadvantage when deep work compounds. Long dormant ideas can become franchises once execution capacity arrives."
+  },
+  "key_insights": [
+    {
+      "view": "Obsession is sustainable only when the work has to exist.",
+      "question": "Why did Memento get made after total rejection?",
+      "answer": "Failure to express it was almost inconceivable — Nolan made the film because he had to. When immersed past seeing it clearly, trust initial instincts. External validation is optional; internal conviction is not."
+    },
+    {
+      "view": "Control is the product of speed, secrecy, and craft ownership.",
+      "question": "How does Nolan stay a franchise unto himself?",
+      "answer": "Write or co-write every film, shoot every frame, watermark scripts, finish days on time. Working cheaper/faster than expected keeps studios from seizing the cut — constraints become decision rights."
+    },
+    {
+      "view": "Live in an analog world so technology does not use you.",
+      "question": "Why refuse email and smartphones?",
+      "answer": "Nolan routes contact through assistants and physical meetings; shoots film and hand-cuts negatives. Like Honda's dictum — machines serve man — attention is the scarce input for original blockbusters."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Warner Bros",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Nolan's multi-decade studio partnership and ability to greenlight ~$200M originals illustrate scarce franchise-director leverage — Long as industry observation on IP control, not a listed-ticker tip"
+    },
+    {
+      "ticker": "DIS",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Episode underscores how rare Nolan-class original-IP directors are at $200M scale — Long studio platforms that can still attract such craft leverage, with DIS as the liquid large-cap proxy for franchise filmmaking capacity"
+    }
+  ],
+  "golden_quotes": [
+    "Every film I do, I have to believe that I'm making the best film that's ever been made.",
+    "Memento was born into the world on the back of obsession.",
+    "Make sure that you are using the machines and the machines are not using you."
+  ],
+  "chronology": {
+    "subject": "Christopher Nolan · Craft Arc",
+    "events": [
+      {
+        "date": "Early years",
+        "event": "Film-school rejection; micro-budget shorts; begins crafting original ideas"
+      },
+      {
+        "date": "Age 16",
+        "event": "Conceives Inception idea that will wait decades"
+      },
+      {
+        "date": "~2000–2001",
+        "event": "Memento: distributor rejection → festival → two Oscar nominations"
+      },
+      {
+        "date": "2000s–2010s",
+        "event": "Ascent to studio original-IP franchise; Batman cycle, Inception (made at 39)"
+      },
+      {
+        "date": "Dunkirk era",
+        "event": "Extreme secrecy — ~20 of 600+ read watermarked script"
+      },
+      {
+        "date": "Career to date",
+        "event": "11 films written or co-written; >$5B box office; analog workflow intact"
+      },
+      {
+        "date": "2026-07",
+        "event": "Founders EP426 — Senra on The Nolan Variations / obsession engine"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Founders",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "wave-ai-notes+fnd-426",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "episode_id": "zj-ep148",
+  "podcast": "Zhang Xiaojun Business Interviews",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 148,
+    "title": "3 Hours with You Kaichao: Open-Source Infra, Model Co-Design, and 'If vLLM Fails We'd Regret It Forever'",
+    "guest": "You Kaichao",
+    "guest_role": "Co-founder / former Chief Scientist, Inferact · Core vLLM maintainer",
+    "date": "2026-07-28",
+    "duration_minutes": 180,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6a66ed17a3fec224d5a3f744"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:Inferact",
+    "vLLM",
+    "NVDA",
+    "Open-Source Inference"
+  ],
+  "conclusion": "You Kaichao narrates vLLM's three-year arc: PagedAttention paper → open-source community → Inferact (the vLLM core-team company) with a $150M seed at ~$800M valuation. Maintainers forgo personal upside to keep the open-source bet; the recruiting line is that failure would mean lifelong regret. The technical through-line is co-design across models, hardware, and the inference engine — an open stack that absorbs fast iteration on both sides. Commercialization vs community ethos runs the whole interview.",
+  "background": "Zhang's ~3-hour interview with Inferact co-founder and former chief scientist You Kaichao — Tsinghua background, core vLLM maintainer. Inferact was founded by Simon Mo, Woosuk Kwon, Kaichao You, Roger Wang, and Berkeley-linked Ion Stoica et al., with a mission to make vLLM the world's AI inference engine and make inference cheaper and faster.\n\nTwo tracks: how a community project changes once it is a company; and how multi-party co-design should work when model structure, engines, and silicon all move together.",
+  "important_facts": [
+    "vLLM path: LLM inference system (PagedAttention + continuous batching, etc.) open-sourced from a paper prototype; Ion Stoica and others pushed treating it as a major community project. Hundreds of model architectures and many accelerators; wide production use. You joined intentionally, optimizing for meaning over short-term money or title.",
+    "Inferact: founded 2025, announced early 2026 with a $150M seed (a16z and Lightspeed led, among others) at ~$800M — among the largest seeds ever. Optimizations flow back to the community; day-zero support with model vendors and new-silicon integration with hardware vendors.",
+    "Co-design and the Hardware Lottery: as models and silicon race, the engine must keep adapting; hardware is 'natural resource / lottery' — when general-purpose doubling slows, specialized silicon and software stacks couple tighter. The open engine's job is to hide model/hardware complexity and keep services portable."
+  ],
+  "mental_model": {
+    "name": "Open Engine Base × Model–Hardware Co-Design × Community Incorporation",
+    "components": "Let an open inference stack absorb bilateral explosions in models and silicon. Turn PagedAttention-class ideas into a reproducible ecosystem, not a one-off paper. Use company capital to accelerate while feeding improvements back. Screen maintainers with the 'regret forever' test of historical meaning.",
+    "application": "Split inference-infra bets into closed accelerators vs open-engine ecosystems. Track vLLM/Inferact day-zero coverage of new models and accelerators as an adoption lead indicator. Cheaper open inference expands deploy surface for GPU names; ASIC stories must ask whether they won the hardware lottery and have a software stack to land on."
+  },
+  "key_insights": [
+    {
+      "view": "If vLLM fails, we'd regret it forever.",
+      "question": "Why forgo temptation for open source?",
+      "answer": "You optimizes for historical meaning; recruiting used a failure-regret frame. Maintainers often share post-scarcity pursuit of non-material goals rather than near-term cash or rank."
+    },
+    {
+      "view": "The inference engine is the shield between models and hardware.",
+      "question": "What does infra do in a co-design era?",
+      "answer": "Architectures and accelerators both churn; PagedAttention and continuous batching industrialize efficient serving. An open engine lets users run across heterogeneous silicon and becomes the integration surface for vendors."
+    },
+    {
+      "view": "Incorporating the community is a duty jump, not a betrayal.",
+      "question": "What does the $150M seed change?",
+      "answer": "Inferact uses capital to push vLLM toward a world-class engine while pledging community feedback loops — the live tension is commercialization pace versus community feeling, which must be earned in delivery."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Inferact",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "vLLM core-team company; $150M seed / ~$800M valuation; open inference engine standard candidate — interview reinforces community moat + co-design positioning"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Cheaper open inference widens deployment still largely on GPUs; hardware-lottery talk flags ASICs, but near/medium term NVDA remains the primary inference-compute proxy"
+    }
+  ],
+  "golden_quotes": [
+    "Regret it for a lifetime.",
+    "Open source.",
+    "Co-design."
+  ],
+  "chronology": {
+    "subject": "You Kaichao · vLLM / Inferact",
+    "events": [
+      {
+        "date": "Early career",
+        "event": "Tsinghua path; LLM fine-tune / pretrain-adjacent research"
+      },
+      {
+        "date": "2023",
+        "event": "vLLM open-sourced; PagedAttention paper and prototype"
+      },
+      {
+        "date": "2023–2025",
+        "event": "Core maintainers grow; hundreds of architectures and many accelerators; production adoption spreads"
+      },
+      {
+        "date": "2025-11",
+        "event": "Inferact founded (public announce ~2026-01)"
+      },
+      {
+        "date": "2026-01",
+        "event": "$150M seed at ~$800M; You as co-founder / chief scientist"
+      },
+      {
+        "date": "2026-07-28",
+        "event": "Zhang Xiaojun 3-hour interview on open infra and co-design"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Chinese · whisper/base · 180min",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/base+zj-ep148",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

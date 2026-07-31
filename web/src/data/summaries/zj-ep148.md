@@ -1,0 +1,122 @@
+# EP.148 — You Kaichao
+
+## *Co-founder / former Chief Scientist, Inferact · Core vLLM maintainer*
+
+**★★★★★** · 5/5
+
+**Podcast** Zhang Xiaojun Business Interviews · **Date** Jul 28, 2026 · **Duration** 180 min · **Read** ≈3 min
+
+**Host** Zhang Xiaojun
+
+**Guest** You Kaichao · Co-founder / former Chief Scientist, Inferact · Core vLLM maintainer
+
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** Inferact · VLLM · NVDA · OPEN-SOURCE
+> ### Conclusion
+>
+> You Kaichao narrates vLLM's three-year arc: PagedAttention paper → open-source community → Inferact (the vLLM core-team company) with a $150M seed at ≈$800M valuation. Maintainers forgo personal upside to keep the open-source bet; the recruiting line is that failure would mean lifelong regret. The technical through-line is co-design across models, hardware, and the inference engine — an open stack that absorbs fast iteration on both sides. Commercialization vs community ethos runs the whole interview.
+
+---
+
+## Background
+
+> Zhang's ≈3-hour interview with Inferact co-founder and former chief scientist You Kaichao — Tsinghua background, core vLLM maintainer. Inferact was founded by Simon Mo, Woosuk Kwon, Kaichao You, Roger Wang, and Berkeley-linked Ion Stoica et al., with a mission to make vLLM the world's AI inference engine and make inference cheaper and faster.
+>
+> Two tracks: how a community project changes once it is a company; and how multi-party co-design should work when model structure, engines, and silicon all move together.
+
+---
+
+## Key Facts
+
+> **F1** vLLM path: LLM inference system (PagedAttention + continuous batching, etc.) open-sourced from a paper prototype; Ion Stoica and others pushed treating it as a major community project. Hundreds of model architectures and many accelerators; wide production use. You joined intentionally, optimizing for meaning over short-term money or title.
+
+> **F2** Inferact: founded 2025, announced early 2026 with a $150M seed (a16z and Lightspeed led, among others) at ≈$800M — among the largest seeds ever. Optimizations flow back to the community; day-zero support with model vendors and new-silicon integration with hardware vendors.
+
+> **F3** Co-design and the Hardware Lottery: as models and silicon race, the engine must keep adapting; hardware is 'natural resource / lottery' — when general-purpose doubling slows, specialized silicon and software stacks couple tighter. The open engine's job is to hide model/hardware complexity and keep services portable.
+
+
+---
+
+## Mental Model · *Open Engine Base × Model–Hardware Co-Design × Community Incorporation*
+
+> **Components**
+>
+> Let an open inference stack absorb bilateral explosions in models and silicon. Turn PagedAttention-class ideas into a reproducible ecosystem, not a one-off paper. Use company capital to accelerate while feeding improvements back. Screen maintainers with the 'regret forever' test of historical meaning.
+>
+> **Application**
+>
+> Split inference-infra bets into closed accelerators vs open-engine ecosystems. Track vLLM/Inferact day-zero coverage of new models and accelerators as an adoption lead indicator. Cheaper open inference expands deploy surface for GPU names; ASIC stories must ask whether they won the hardware lottery and have a software stack to land on.
+
+---
+
+
+## Key Insights
+
+> **1.** If vLLM fails, we'd regret it forever.
+>
+> **Q** Why forgo temptation for open source?
+>
+> **A** You optimizes for historical meaning; recruiting used a failure-regret frame. Maintainers often share post-scarcity pursuit of non-material goals rather than near-term cash or rank.
+
+> **2.** The inference engine is the shield between models and hardware.
+>
+> **Q** What does infra do in a co-design era?
+>
+> **A** Architectures and accelerators both churn; PagedAttention and continuous batching industrialize efficient serving. An open engine lets users run across heterogeneous silicon and becomes the integration surface for vendors.
+
+> **3.** Incorporating the community is a duty jump, not a betrayal.
+>
+> **Q** What does the $150M seed change?
+>
+> **A** Inferact uses capital to push vLLM toward a world-class engine while pledging community feedback loops — the live tension is commercialization pace versus community feeling, which must be earned in delivery.
+
+---
+
+## Investment Ideas
+
+> **1. Inferact** · 🟢 LONG · ●●○ Medium
+>
+> vLLM core-team company; $150M seed / ≈$800M valuation; open inference engine standard candidate — interview reinforces community moat + co-design positioning
+
+> **2. NVDA** · 🟢 LONG · ●○○ Low
+>
+> Cheaper open inference widens deployment still largely on GPUs; hardware-lottery talk flags ASICs, but near/medium term NVDA remains the primary inference-compute proxy
+
+---
+
+## Golden Quotes
+
+> "Regret it for a lifetime."
+
+> "Open source."
+
+> "Co-design."
+
+---
+
+## Chronology
+
+> *You Kaichao · vLLM / Inferact*
+>
+> **Early career** Tsinghua path; LLM fine-tune / pretrain-adjacent research
+>
+> **2023** vLLM open-sourced; PagedAttention paper and prototype
+>
+> **2023–2025** Core maintainers grow; hundreds of architectures and many accelerators; production adoption spreads
+>
+> **2025-11** Inferact founded (public announce ≈2026-01)
+>
+> **2026-01** $150M seed at ≈$800M; You as co-founder / chief scientist
+>
+> **2026-07-28** Zhang Xiaojun 3-hour interview on open infra and co-design
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Business Interviews, Zhang Xiaojun, or You Kaichao. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

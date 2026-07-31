@@ -1,0 +1,111 @@
+{
+  "episode_id": "zj-ep149",
+  "podcast": "张小珺商业访谈录",
+  "host": "张小珺",
+  "metadata": {
+    "episode_number": 149,
+    "title": "亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark",
+    "guest": "刘子鸣",
+    "guest_role": "清华大学人工智能学院助理教授 · 上海期智研究院 PI · 圆环智能联合创始人",
+    "date": "2026-07-30",
+    "duration_minutes": 100,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6a69b07eb581962ce2bd4d97"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:圆环智能",
+    "AI for AI",
+    "NVDA",
+    "可解释性"
+  ],
+  "conclusion": "继谢在宁、洪乐桐等欧美 neo lab 嘉宾后，张小珺转向 2026 中国本土新兴实验室狂潮：年轻名校研究者首次创业、无产品即可数亿美元估值融资，热点集中在世界模型与 Auto Research（AI for AI）。清华刘子鸣（北大+MIT，3 月回国、参与创建圆环智能）用「太疯狂了」形容一级市场——消息互通、出手极快。他把 AI 科学史类比第谷→开普勒→牛顿：行业大致在 0.5–1.5 阶段（有 scaling law 经验式，远未到「牛顿」），并押注机制可解释与 AI for AI——让不会训模型的人也能端到端设计/训练/部署垂直模型，孵化各行业的「小 OpenAI」。",
+  "background": "刘子鸣：北大与 MIT 背景，看网络/可解释一脉；2026 年 3 月回国，约 4 月底入职清华人工智能学院，5 月底开始参与融资并参与创建圆环智能；同时任上海期智研究院 PI。MIT 偏学术保守，Stanford 经历推动创业念头。\n\n节目对照此前欧洲/美国 New Lab 访谈，追问中国同构现象的成因：资本最活跃方向是世界模型与 Auto Research（AI4AI）。",
+  "important_facts": [
+    "资本潮：中国出现一批研究背景老师/学生成为一级市场新宠——年轻、名校、首创，未有产品即可数亿美金估值；方向扎堆世界模型、具身、AI for AI。刘子鸣体感：AirFace/具身/世界模型/AI4AI 一级市场非常「科目」，相互打听、出手很快。",
+    "科学史框架：用天文学三阶段类比 AI——第谷式数据记录 → 开普勒经验定律（scaling law 类似）→ 牛顿统一公式。他判断当下约 1.5 或更悲观的 0.5：过度聚焦 Transformer 等少数架构，像第谷只盯一片星空，大数据「整片星空」仍未到。",
+    "产品愿景（AI for AI）：系统目标是用户只给需求与预算（如 100 块），端到端设计训练部署模型——类比 vibe coding 把编程门槛打掉，AI for AI 把「自己训模型」门槛打掉，孵化垂直领域模型而非再建一个巨头闭源 OpenAI；机制可解释与符号压缩是其学术底色。"
+  ],
+  "mental_model": {
+    "name": "Neo Lab 狂潮 × 科学压缩阶梯 × AI-for-AI 降门槛",
+    "components": "把一级市场热度与研究议程分开看。用第谷–开普勒–牛顿梯子衡量领域成熟度，警惕过早锁定架构。用自动化研究/训练栈把模型能力从巨头扩散到垂直场景。",
+    "application": "评估中国 AI 实验室创业：看是否有可验证的科研压缩路径（可解释、Auto Research），而非仅估值叙事。算力股仍受益于「人人可训模型」的远期需求，但近端泡沫风险在无产品高估值。区分世界模型炒作与真正降低训模门槛的基础设施。"
+  },
+  "key_insights": [
+    {
+      "view": "中国 neo lab 资本潮「太疯狂了」。",
+      "question": "现象的核心是什么？",
+      "answer": "名校研究背景首次创业即可高估值融资；世界模型与 AI for AI 是最热口袋。一级市场消息密度与决策速度都极高。"
+    },
+    {
+      "view": "AI 仍远未到牛顿阶段。",
+      "question": "为什么谈可解释与压缩？",
+      "answer": "Scaling law 像开普勒定律——稀缺经验式；行业过度盯着 Transformer，数据与架构探索都不够「整片星空」。符号/机制可解释是把经验科学推向理论科学的路径。"
+    },
+    {
+      "view": "AI for AI 是让人人能训垂直模型。",
+      "question": "圆环智能在赌什么？",
+      "answer": "不是再建一个闭源巨头，而是端到端交付「按需求与预算训模」——把 vibe coding 逻辑搬到模型研发，孵化各行业小 OpenAI。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:圆环智能",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "刘子鸣参与创建的 AI-for-AI / 自动训模创业——押注降低垂直模型门槛；仍处融资狂潮早期，置信度低"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "若 AI for AI 把训模需求从巨头扩散到垂直场景，训练/推理算力消耗面扩大——NVDA 仍是流动代理"
+    }
+  ],
+  "golden_quotes": [
+    "太疯狂了",
+    "只要你能 AI for AI就可以了",
+    "我们现在还远远没有到这个AI的牛顿的状态"
+  ],
+  "chronology": {
+    "subject": "刘子鸣 · 清华与圆环智能",
+    "events": [
+      {
+        "date": "北大 / MIT",
+        "event": "学术训练；可解释/机制研究方向；MIT 偏学术"
+      },
+      {
+        "date": "Stanford 阶段",
+        "event": "氛围推动创业念头"
+      },
+      {
+        "date": "2026-03",
+        "event": "回国"
+      },
+      {
+        "date": "2026-04",
+        "event": "入职清华人工智能学院助理教授；期智研究院 PI"
+      },
+      {
+        "date": "2026-05",
+        "event": "参与融资与创建圆环智能；体感一级市场「太疯狂」"
+      },
+      {
+        "date": "2026-07-30",
+        "event": "张小珺 EP149：neo labs、AI for AI、可解释性"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Chinese · whisper/base ASR",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/base+zj-ep149",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
