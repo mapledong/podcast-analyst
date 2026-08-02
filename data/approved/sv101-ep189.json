@@ -1,0 +1,130 @@
+{
+  "episode_id": "sv101-ep189",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 189,
+    "title": "When FIFA Meets America: The World Cup Is Printing Money!",
+    "guest": "Chen Xi",
+    "guest_role": "Silicon Valley 101 host · On-site reporter at 2026 USA-Mexico-Canada World Cup",
+    "date": "2026-07-08",
+    "duration_minutes": 85,
+    "youtube_url": "https://www.youtube.com/watch?v=erIEZkMd9_w",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=erIEZkMd9_w",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:FIFA",
+    "DIS",
+    "NKE",
+    "ADDYY"
+  ],
+  "conclusion": "From Mexico City's opening, Chen Xi shows how the 2026 World Cup became the priciest ever: opening tickets at $2,355 vs $600–725 historically, FIFA's 2023–2026 cycle at $13B (+73%), $2.8B sponsorship, $4.3B broadcast, ~$30B tickets plus hospitality. Forty-eight teams, 104 matches, and American monetization — dynamic pricing, uncapped 15% resale, hydration-break ads, Host City Supporters — turn nonprofit FIFA into ~$228M per matchday. The 2015 US corruption case gives America leverage, but sky-high prices cool fans: state probes and 56 matches still had official inventory.",
+  "background": "Silicon Valley 101's World Cup series sends Chen Xi to Mexico for the 2026 opening, weaving FIFA's half-century commercialization with America's sports-industrial playbook. Setup: FIFA took in $7.5B in the 2022 Qatar cycle with $3.97B reserves; when João Havelange took office in 1974 the balance was $24. This episode focuses on 'the world's best money-making sports event meets the world's best at extracting value' — complementing EP191's corruption deep dive.",
+  "important_facts": [
+    "FIFA's commercial arc: Havelange (1974) expanded teams, branded the World Cup, and de-Europeanized hosting; Horst Dassler/Adidas and Patrick Nally opened sponsor IP with Coca-Cola's $10M deal; the 1982 InterSoccer4 template (exclusivity, VIP, ads) still defines sports marketing; 1998 expansion to 32 teams, 2007 three-tier sponsor menus — sponsorship rose from $600M (2006) to $1.8B (2022) to $2.8B (2026).",
+    "America's 1994 and 2026 playbooks: Peter Ueberroth's 1984 LA Olympics turned a $200M+ surplus; 1994 USA94 sold regional sponsors and grass/ball fragment memorabilia; 2026 adds MLB-style dynamic pricing, uncapped resale, 2m10s hydration-break ads (+7 broadcast hours across 104 games), and in-house hospitality. Final tickets $4,185–$10,990; each host city signs ~10 local sponsors; US taxes on federations/players forced FIFA to boost prize pools 50% then 15%.",
+    "Power and backlash: 2015 US DOJ FIFA corruption charges, compliance move to the US in 2022; FIFA traded host-city tax fights for new sponsor tiers leveraging 1994 federal tax exemptions. NY/CA/TX/NJ probe seat downgrades and pricing; disability tickets jumped from Qatar's €10 floor to $140 with companion fees. US opener $2,735 first-class tickets still widely available pre-match — peak monetization may be exhausting some fan demand."
+  ],
+  "mental_model": {
+    "name": "Event-Media-Brand Triangle × US Sports Pricing × Anti-Corruption Leverage",
+    "components": "Horst Dassler's triangle — event content, mass media, brand distribution — drives cash flows; FIFA amplifies IP via expansion, tiered sponsors, and broadcast auctions. America treats Olympics/World Cup as entertainment goods: dynamic prices, resale markets, ad breaks, city-level sponsor packages; the DOJ case becomes leverage in FIFA-US negotiations.",
+    "application": "Analyze World Cup economics: separate FIFA cycle revenue ($13B) from fan affordability (tickets + hospitality dominate). Media/consumer brands (DIS/NKE) benefit from mega-IP viewership; FIFA's nonprofit shell still carries governance/reputation risk (see EP191). Host cities gain tourism/sponsors; some national teams may net lose after US taxes."
+  },
+  "key_insights": [
+    {
+      "view": "2026 is FIFA commercialization's peak and a fan-experience inflection.",
+      "question": "Why 'losing the soul'?",
+      "answer": "Tickets ~7× Qatar equivalents; dynamic pricing and resale stunts hit $2.3M asking prices (unsold); hydration breaks split 90 minutes into 'four quarters.' State AGs say prices 'far exceeded any previous World Cup'; cold matches and the US opener didn't sell out."
+    },
+    {
+      "view": "America isn't FIFA's origin story — it's the operator coach.",
+      "question": "Who taught FIFA to monetize?",
+      "answer": "Havelange/Dassler/Nally built sponsor-broadcast scaffolding; Americans pushed cycle revenue to $13B via 1994 USA94, 2026 dynamic pricing, Host City Supporters, and tax leverage — North America's 380M consumers and mature sports spending are the multiplier."
+    },
+    {
+      "view": "The corruption case softened FIFA in US talks.",
+      "question": "Why is America strong at the table?",
+      "answer": "2015 DOJ's 47 counts toppled Blatter/Platini; FIFA legal moved stateside. Cities traded ticket taxes for 10-sponsor tiers; partial federation tax relief but player taxes remain, forcing FIFA to inflate prize money."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "DIS",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "$4.3B broadcast rights this cycle (+26%) — World Cup remains a top global sports media asset; ESPN/Disney and peers benefit from North American time zones and 104-match scale, largely decoupled from FIFA governance scandals"
+    },
+    {
+      "ticker": "NKE",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "World's largest sports consumer market plus record ticket prices signal premium sports entertainment spend; Nike and US athletic brands gain from event marketing and fan gear — indirectly lifted by FIFA's pricing strategy"
+    },
+    {
+      "ticker": "Private:FIFA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "$13B cycle revenue, $2.8B sponsorship, $30B tickets+hospitality — peak monetization power; but pricing backlash, state probes, and unsold inventory show diminishing returns and persistent governance/reputation overhang"
+    }
+  ],
+  "golden_quotes": [
+    "Super money-printing machine",
+    "$228 million per matchday",
+    "Far exceeded any previous World Cup"
+  ],
+  "chronology": {
+    "subject": "FIFA Commercialization · 2026 World Cup",
+    "events": [
+      {
+        "date": "1974",
+        "event": "Havelange elected FIFA president with $24 in the bank; promised expansion and Global South development"
+      },
+      {
+        "date": "1977",
+        "event": "Coca-Cola $10M FIFA sponsorship launches the sell-IP era"
+      },
+      {
+        "date": "1982",
+        "event": "World Cup expands to 24 teams; InterSoccer4 sponsor template debuts"
+      },
+      {
+        "date": "1994",
+        "event": "USA94 standalone IP commercialization; attendance records set"
+      },
+      {
+        "date": "2007",
+        "event": "FIFA adopts three-tier sponsor packages and regional sponsors"
+      },
+      {
+        "date": "2015",
+        "event": "US DOJ indicts FIFA officials; Blatter resigns"
+      },
+      {
+        "date": "2022",
+        "event": "Qatar World Cup cycle: FIFA revenue $7.5B"
+      },
+      {
+        "date": "2026",
+        "event": "48-team, 104-match USA-Mexico-Canada Cup; dynamic pricing, hydration ads, Host City Supporters launch"
+      },
+      {
+        "date": "Jul 2026",
+        "event": "US states probe FIFA ticketing; Silicon Valley 101 EP189 reports from Mexico"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep189",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

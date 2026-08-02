@@ -1,0 +1,130 @@
+{
+  "episode_id": "sv101-ep193",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 193,
+    "title": "Conversation with Vincent Koc: OpenClaw's Reflections and Evolution, China's 'Lobster' Craze, and the Next Step for Agents",
+    "guest": "Vincent Koc",
+    "guest_role": "Chief Architect, OpenClaw Foundation · Core maintainer of the open-source agent framework",
+    "date": "2026-07-16",
+    "duration_minutes": 139,
+    "youtube_url": "https://www.youtube.com/watch?v=tnvyMcmtAiw",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=tnvyMcmtAiw",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:OpenClaw",
+    "MSFT",
+    "Private:OpenAI",
+    "GOOGL"
+  ],
+  "conclusion": "OpenClaw Foundation chief architect Vincent Koc, at WIC 2026 Shanghai, traces OpenClaw from Peter Steinberger's experiment to a global craze: February SF lines around the block, China's 'lobster' install wave outpacing Silicon Valley, npm weekly downloads above 4M after Q1 hype cooled. Unlike Codex-style coding assistants, it is a personal agent that modifies its own code — always-on Gateway, heartbeat, skills/MCP. As a 501(c)(3) 'Switzerland for AI agents,' a five-person core team uses agent-first factories to survive 13k PRs. Next unlocks: agent interoperability, containerized security, and personal AI for everyone.",
+  "background": "Silicon Valley 101 sits down with Vincent Koc at the 2026 World AI Conference in Shanghai. He discovered OpenClaw on X in December 2024, became a maintainer in January, and lived through its arc from developer toy to enterprise deploy, China's nationwide 'lobster raising,' and foundation governance. Context includes Peter Steinberger donating the project to a nonprofit and joining OpenAI, Chinese tech giants shipping Qclaw/Wu/Dclaw derivatives, and post-Claw competitors like Manus and Hermes.",
+  "important_facts": [
+    "China vs West adoption: Chinese employees got KPIs to automate tasks with OpenClaw and embraced it fast; Western enterprises often blocked it first over security. Codex/Claude Code are hard to use in China, so locally deployable open source became a catalyst. Tencent WorkBuddy and newer agents aren't built on OpenClaw code but support its skills framework — Koc calls this the 'postclaw era,' where ecosystem beats a single product.",
+    "Architecture and scale: Gateway is an always-on hub linking messaging channels, models, memory, and tools; heartbeat triggers background work every 10–30 minutes. Sessions moved from flat files to a database so enterprises can swap in real DB clusters. Peak ~13,000 open PRs forced custom AI agent review and a 'factory' test stack (any OS/cloud in ~20 seconds, screenshot/video proof). Nearly 100 ecosystem repos, each like its own startup.",
+    "Foundation governance and roadmap: 501(c)(3) nonprofit, donation-funded hiring; mission to empower humanity with AI and be neutral 'Switzerland.' No direct consumer hosting — instead enabling Microsoft Scout forks and internal enterprise builds. Memory, multi-tenancy, and long-horizon tasks remain unsolved; default single-agent is enough for most users, with specialists split like managing employees. Next 12 months: agent-to-agent communication is the big unlock; computer-use models fill API gaps."
+  ],
+  "mental_model": {
+    "name": "Personal Agent × Open Swiss × Agent-First Factory",
+    "components": "Treat OpenClaw as a personal employee that can rewrite its own code, not a turn-based coding assistant; Gateway + skills + MCP form an extensible harness. Foundation status buys global trust (especially China) and ecosystem forks; scale comes from agents engineering their own test/review pipelines, not headcount.",
+    "application": "Diligence agent frameworks on always-on behavior, self-modification, Day-0 multi-model support, and enterprise backends. OpenClaw itself is nonprofit, but token usage, computer-use, and security containerization benefit model/API vendors. Enterprise deploys should prioritize container boundaries plus auto-approval modes; China scenarios need compliance and local models post-trained on OpenClaw."
+  },
+  "key_insights": [
+    {
+      "view": "After hype cooled, real adoption accelerated.",
+      "question": "What happened post-Q1?",
+      "answer": "Early agent-first development caused stability issues and uninstalls; after fixes, npm weekly downloads rose from ~2.5–3M pre-hype to 4M+. Koc sees the cooldown as healthy — focus shifted to reliable software and factory tooling, not virality."
+    },
+    {
+      "view": "Coding agent ≠ personal AI agent.",
+      "question": "How is it different from Codex?",
+      "answer": "Coding agents write code inside a fixed harness; OpenClaw learns memory, builds skills, and changes its own code for new models/APIs — groceries, new lab model support, self-evolution. The difference: the agent can modify itself."
+    },
+    {
+      "view": "Foundation status is survival and fairness.",
+      "question": "Why not commercialize?",
+      "answer": "Peter insisted on an independent foundation, not single-company or country control, so China, US tech, and everyday users all embrace it. Koc says partners reach out precisely because of foundation neutrality — trading equity upside for industry positive-sum."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:OpenClaw",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Open-source personal/enterprise agent harness — Gateway, skills ecosystem, Day-0 multi-model, foundation governance; npm downloads and global adoption validate PMF. Nonprofit limits direct monetization but shapes agent interoperability and skill standards"
+    },
+    {
+      "ticker": "MSFT",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Microsoft Scout is an OpenClaw-class enterprise fork — big tech rides open harness into agent desktop/Office scenarios; OpenClaw ecosystem growth amplifies Azure model and Copilot stack demand"
+    },
+    {
+      "ticker": "GOOGL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Agent framework race includes Gemini harnesses; OpenClaw's provider-neutral stance plus computer-use integration indirectly benefits search/API surfaces agents call and Android on-device agent narratives"
+    }
+  ],
+  "golden_quotes": [
+    "personal AI agent",
+    "Switzerland for AI agents",
+    "postclaw era"
+  ],
+  "chronology": {
+    "subject": "OpenClaw · Vincent Koc · Agent Ecosystem",
+    "events": [
+      {
+        "date": "Dec 2024",
+        "event": "Vincent Koc discovers OpenClaw on X/Twitter; Peter Steinberger's personal project gains community"
+      },
+      {
+        "date": "Jan 2025",
+        "event": "Koc starts contributing, becomes maintainer; Gateway/heartbeat architecture takes shape"
+      },
+      {
+        "date": "Feb 2026",
+        "event": "First SF Claw event — lines around the building; global hype peak"
+      },
+      {
+        "date": "Q1 2026",
+        "event": "China 'lobster' install craze; Mac sellouts; Tencent/Volcano/Alibaba Claw derivatives ship"
+      },
+      {
+        "date": "Q1 2026",
+        "event": "Stability issues drive uninstalls; team builds agent review and test factory"
+      },
+      {
+        "date": "2026",
+        "event": "OpenClaw Foundation (501c3) announced; Peter Steinberger joins OpenAI"
+      },
+      {
+        "date": "2026",
+        "event": "npm weekly downloads pass 4M; official iOS/Android apps; session storage moves to database"
+      },
+      {
+        "date": "2026",
+        "event": "Microsoft Scout and enterprise forks; postclaw skills-compatible era begins"
+      },
+      {
+        "date": "Jul 2026",
+        "event": "Vincent Koc WIC Shanghai keynote; Silicon Valley 101 EP193 deep dive"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+sv101-ep193",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

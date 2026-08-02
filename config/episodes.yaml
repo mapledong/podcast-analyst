@@ -1653,6 +1653,18 @@ episodes:
   duration_minutes: 200
   youtube_url: ''
   podcast: Acquired
+- id: sv101-ep193
+  episode_number: 193
+  title: 'Conversation with Vincent Koc: OpenClaw''s Reflections and Evolution, China''s
+    ''Lobster'' Craze, and the Next Step for Agents'
+  guest: Vincent Koc
+  guest_role: Chief Architect, OpenClaw Foundation · Core maintainer of the open-source
+    agent framework
+  date: '2026-07-16'
+  duration_minutes: 139
+  youtube_url: https://www.youtube.com/watch?v=tnvyMcmtAiw
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-meta
   episode_number: 192
   title: Meta
@@ -1775,6 +1787,17 @@ episodes:
   duration_minutes: 66
   youtube_url: ''
   podcast: Business Breakdowns
+- id: sv101-ep189
+  episode_number: 189
+  title: 'When FIFA Meets America: The World Cup Is Printing Money!'
+  guest: Chen Xi
+  guest_role: Silicon Valley 101 host · On-site reporter at 2026 USA-Mexico-Canada
+    World Cup
+  date: '2026-07-08'
+  duration_minutes: 85
+  youtube_url: https://www.youtube.com/watch?v=erIEZkMd9_w
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-starbucks-with-howard-schultz
   episode_number: 188
   title: Starbucks (with Howard Schultz)
@@ -1794,6 +1817,18 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=P3nyLRPMBTw
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: sv101-ep188
+  episode_number: 188
+  title: 'Conversation with Jason Wang: Educator in the AI Era, a Decade of Ups and
+    Downs, and Humanity''s Next Step'
+  guest: Jason Wang (Wang Xiqiao)
+  guest_role: Tanyue School founder · PKU High / Principal Wang Zheng lineage · Innovative
+    education practitioner
+  date: '2026-07-07'
+  duration_minutes: 265
+  youtube_url: https://www.youtube.com/watch?v=nWc1tpQnhqY
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-microsoft
   episode_number: 187
   title: Microsoft Volume I
@@ -1813,6 +1848,18 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=4VuTBcjEI9g
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: sv101-ep187
+  episode_number: 187
+  title: AI-Era 'Super High Schoolers,' a Third Path Beyond College, and China's Innovative
+    Education | Visiting Beijing Tanyue School
+  guest: Jason Wang, Jiang Xueqin, Tanyue students and faculty
+  guest_role: Tanyue School founder · Western philosophy teacher · Current and graduated
+    learners
+  date: '2026-07-06'
+  duration_minutes: 152
+  youtube_url: https://www.youtube.com/watch?v=y2bZdXZBeBc
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-renaissance-technologies
   episode_number: 186
   title: Renaissance Technologies

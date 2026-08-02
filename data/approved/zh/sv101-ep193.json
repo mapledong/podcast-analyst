@@ -1,0 +1,130 @@
+{
+  "episode_id": "sv101-ep193",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 193,
+    "title": "对话Vincent Koc：OpenClaw的反思与进化，中国的“小龙虾”狂热，与Agent的下一步",
+    "guest": "Vincent Koc",
+    "guest_role": "OpenClaw Foundation 首席架构师 · 开源 Agent 框架核心维护者",
+    "date": "2026-07-16",
+    "duration_minutes": 139,
+    "youtube_url": "https://www.youtube.com/watch?v=tnvyMcmtAiw",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=tnvyMcmtAiw",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:OpenClaw",
+    "MSFT",
+    "Private:OpenAI",
+    "GOOGL"
+  ],
+  "conclusion": "OpenClaw Foundation首席架构师Vincent Koc在2026上海WIC回顾项目从Peter Steinberger个人实验到全球现象的路径：2月旧金山排队绕楼、中国“小龙虾”安装潮（Mac售罄、KPI式推广）远超硅谷；Q1 hype降温后npm周下载反升至400万+。核心差异是“可改自身代码”的个人Agent——always-on Gateway+heartbeat、skills/MCP生态，相对Codex/Claude Code等纯编码助手。基金会501(c)(3)定位“AI Agent界的瑞士”，Peter入OpenAI后团队（核心工程仅5–6人）用Agent-first工厂（AI审PR、20秒云测机）扛13k PR洪峰。下一步是Agent互操作、容器化安全边界与让普通用户也能用上个人AI。",
+  "background": "硅谷101在2026世界人工智能大会（上海）对话OpenClaw Foundation首席架构师Vincent Koc。他2024年12月在X上发现项目、1月成为maintainer，亲历OpenClaw从开发者玩具到企业部署、中国全民“养龙虾”再到Foundation化全过程。背景包括Peter Steinberger将项目捐入非营利基金会并加入OpenAI、腾讯/火山/阿里等推出Qclaw/Wu/Dclaw等衍生产品，以及Manus、Hermes等“后Claw时代”竞品。",
+  "important_facts": [
+    "中国 vs 西方采纳差异：中国员工获KPI要求用OpenClaw自动化任务、快速拥抱；西方企业先封锁再评估安全风险。Codex/Claude Code在中国难用，开源可本地部署的OpenClaw成催化剂。腾讯WorkBuddy等新一代Agent不基于OpenClaw代码但兼容其skills框架——Koc称进入“postclaw era”，生态比单一产品更重要。",
+    "架构与规模挑战：Gateway作为always-on中枢连接消息渠道、模型、memory与工具；heartbeat每10–30分钟触发后台任务。曾用文件存session，现改数据库以便企业替换为DB集群。峰值13,000 open PR，团队自建AI agent review与“factory”测试栈（任意OS/云20秒起机、截图/录屏验PR）。close to 100个生态repo，每个像独立startup。",
+    "Foundation治理与路线：501(c)(3)非营利，捐赠驱动招聘；使命“empower humanity with AI”、做Agent瑞士。不直接2C卖hosting，赋能微软Scout等大厂fork与中小企业内网部署。Memory/multi-tenancy/long-horizon仍非 solved；multi-agent默认单Agent足够，按“管员工”思维拆分 specialist。12个月预测：Agent间通信协作是下一unlock；computer-use模型可补API缺失。"
+  ],
+  "mental_model": {
+    "name": "个人Agent × 开源瑞士 × Agent-first工厂",
+    "components": "把OpenClaw看作“能改自己代码的个人员工”而非turn-based coding assistant；Gateway+skills+MCP构成可扩展.harness。Foundation模式换取全球（尤其中国）信任与生态fork；规模靠Agent工程自己的测试/Review流水线，而非堆人头。",
+    "application": "评估Agent框架：看是否支持always-on、自修改、多模型零日接入与enterprise DB/backend。投资上OpenClaw本身非营利，但token用量与computer-use、安全容器化受益模型/API商。企业部署优先容器边界+auto-approval模式；中国场景注意合规与本地化模型post-train on OpenClaw。"
+  },
+  "key_insights": [
+    {
+      "view": " hype 降温后真实采用反而加速。",
+      "question": "Q1退烧后怎样？",
+      "answer": "早期Agent-first开发致稳定性失误、用户卸载；修复后npm周下载从 hype 前2.5–3M升至4M+。Koc认为降温是好事——团队聚焦可靠软件与“factory”工具链，而非追逐病毒传播。"
+    },
+    {
+      "view": "Coding agent ≠ personal AI agent。",
+      "question": "和Codex有何不同？",
+      "answer": "Coding agent在固定harness里写代码；OpenClaw可学memory、建skills、改自身代码接入新模型/API——买杂货、加新lab模型支持皆可自演化。差异在“agent can modify itself”。"
+    },
+    {
+      "view": "Foundation是生存与公平的前提。",
+      "question": "为何不商业化？",
+      "answer": "Peter坚持独立基金会、非单公司/国家控制，才能被中国、美国tech、moms/dads同时拥抱。Koc称Exclusive partner因foundation模式找上门；牺牲股权回报换行业正和博弈。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:OpenClaw",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "开源个人/企业Agent harness层——Gateway、skills生态、Day-0多模型与foundation治理；npm下载与全球采纳验证产品市场契合。非营利限制直接变现，但定义Agent互操作与skill标准"
+    },
+    {
+      "ticker": "MSFT",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Microsoft Scout为OpenClaw系企业fork——大厂借开源 harness 进Agent桌面/Office场景；OpenClaw生态繁荣放大Azure模型与Copilot栈需求"
+    },
+    {
+      "ticker": "GOOGL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Agent框架竞争含Gemini harness；OpenClaw多 provider 中立+computer-use整合，间接利好需被Agent调用的搜索/API与Android侧on-device agent叙事"
+    }
+  ],
+  "golden_quotes": [
+    "personal AI agent",
+    "Switzerland for AI agents",
+    "postclaw era"
+  ],
+  "chronology": {
+    "subject": "OpenClaw · Vincent Koc · Agent生态",
+    "events": [
+      {
+        "date": "2024-12",
+        "event": "Vincent Koc在X/Twitter发现OpenClaw；Peter Steinberger个人项目社区形成"
+      },
+      {
+        "date": "2025-01",
+        "event": "Koc开始贡献并成为maintainer；Gateway/heartbeat架构成型"
+      },
+      {
+        "date": "2026-02",
+        "event": "旧金山首次Claw活动排队绕楼；全球hype峰值"
+      },
+      {
+        "date": "2026-Q1",
+        "event": "中国“小龙虾”安装潮；Mac售罄；腾讯/火山/阿里等发布Claw衍生产品"
+      },
+      {
+        "date": "2026-Q1",
+        "event": "稳定性问题致用户流失；团队自建Agent review与测试factory"
+      },
+      {
+        "date": "2026",
+        "event": "OpenClaw Foundation（501c3）宣布；Peter Steinberger加入OpenAI"
+      },
+      {
+        "date": "2026",
+        "event": "npm周下载突破400万；iOS/Android官方App发布；session存储改数据库"
+      },
+      {
+        "date": "2026",
+        "event": "Microsoft Scout等enterprise fork；进入postclaw兼容skills时代"
+      },
+      {
+        "date": "2026-07",
+        "event": "Vincent Koc于上海WIC keynote；硅谷101 EP193深度访谈"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+sv101-ep193",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

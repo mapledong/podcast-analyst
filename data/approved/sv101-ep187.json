@@ -1,0 +1,125 @@
+{
+  "episode_id": "sv101-ep187",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 187,
+    "title": "AI-Era 'Super High Schoolers,' a Third Path Beyond College, and China's Innovative Education | Visiting Beijing Tanyue School",
+    "guest": "Jason Wang, Jiang Xueqin, Tanyue students and faculty",
+    "guest_role": "Tanyue School founder · Western philosophy teacher · Current and graduated learners",
+    "date": "2026-07-06",
+    "duration_minutes": 152,
+    "youtube_url": "https://www.youtube.com/watch?v=y2bZdXZBeBc",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=y2bZdXZBeBc",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:Tanyue School",
+    "Private:Moonshot",
+    "PLTR"
+  ],
+  "conclusion": "SV101 spends two days at Beijing Tanyue School — a ten-year competency experiment with ~500 students, tuition above 200,000 RMB, and no fixed classrooms. Jiang Xueqin went viral for classroom forecasts; 17-year-old Chen Guangyu co-authored Moonshot's Attention Residuals paper after Tanyue's M48 hackathon. The One Small Step track exits via funded startups, stable jobs, or commercialized projects — one student runs a 60-person company. Most teens treat college as optional. Tanyue bets judgment and transferable competencies over domain-knowledge stacking, but survived license uncertainty, hotel openings, and repeated moves — founder Jason Wang says hand-craft the first chip before the factory.",
+  "background": "Host Chen Xi leads a two-day immersion at Tanyue inside Beijing's National Tennis Center: classes, projects, MakerSpace, and interviews with founder Jason Wang, subject designers, guardians, and learners. Context is the 'super high schooler' wave — Palantir, Anthropic, and OpenAI scouting younger talent — while Tanyue surged on Chen's paper and Jiang's predictions.\n\nPairs with EP188's Jason Wang deep dive: this episode covers on-site mechanisms and people; the next retraces a decade of entrepreneurship and civilization questions. Tanyue began when 18-year-old Wang wrote in 2015 that AI would replace procedural jobs; opened high school in 2018; absorbed Tsinghua High International School in 2022 for full K-12.",
+  "important_facts": [
+    "Mechanics and scale: ~500 students inverted pyramid (~250 high school, 100+ middle, <100 primary); no fixed rooms, schedules, or rankings; guardians/learners titles, mentors, life coaches, four houses (Chizi/Fupu/Shangshan/Wuji). ~100 courses including 21 APs, but focus is competencies — critical thinking, information literacy, creation, collaboration; Life Skill classes cover outdoor survival, cooking, first aid, and life discussions. Tuition 200,000+ RMB/year; outcomes split — Harvard/MIT/liberal arts paths alongside direct startups or niche tracks like insect art.",
+    "'One Small Step' and super high schoolers: 1+X structure — year one rebuilds learning habits; X stage 1–3 years at student pace; three exit paths are funded independent startups, stable employment income, or commercialized project transfer. Cases: Xu Haoming's smart wake-up lamp, 15-year-old Liu Yizhou's design studio, Jiang Yin's dyslexia-reading aid company (60-person team via social recruiting, 8 on core project). M48 hackathon is national, airfare/lodging covered, AI-for-Good themes; Chen Guangyu debuted at the first edition before Moonshot paper and Musk like. VCs and industry leaders judge 48-hour builds on-site.",
+    "Ten-year experiment risks: 2017 launched on training licenses for non-compulsory education; 2019 campus build stalled in pandemic — hotel openings (three sites in 2020); 'double reduction' made full-time model non-compliant, forcing move to the tennis center. Wang reflects on early arrogance — mission to 'sustain civilization' without self-cultivation first; rejected private-school mergers fearing economic-cycle dilution; personal debt and home collateral. Conclusion: not a universal answer — suits highly self-driven, disciplined students; ~500 is the right size; ideal is sharing the model, not factory-scale replication."
+  ],
+  "mental_model": {
+    "name": "Competency-First × Third Path × Simulator Upgrade",
+    "components": "Domain knowledge answers more questions; competencies (judgment, aesthetics, critique, collaboration) decide which questions matter. Diplomas offer low-cost consensus and platform resource access; 'One Small Step' tries to replace that with real work products. Schools simulate society's next stage — factories in the industrial era, project-based creation and lifelong learning in the AI era.",
+    "application": "Underwrite innovative education: Private:Tanyue School is a high-cost personalization bet (Long/Low) — moat is trust and graduate work chains, not scale. Private:Moonshot indirectly signals super-teen talent via hackathon pipeline. PLTR (Long/Low) and peers scouting younger talent is a new AI hiring frontier, but school models don't map linearly to public revenue; watch competency credentials and portfolio rails (GitHub-like) displacing diplomas."
+  },
+  "key_insights": [
+    {
+      "view": "College is no longer the only exit.",
+      "question": "What does 'One Small Step' bet on?",
+      "answer": "AI lowers startup barriers — 48-hour hackathons validate value creation; three graduation paths require real social outcomes. Interviewed teens are fifty-fifty or skip 'conventional jobs,' seeing university as optional for skills and networks they need now."
+    },
+    {
+      "view": "Teach competencies, not knowledge piles.",
+      "question": "What to learn in the AI era?",
+      "answer": "Judgment, aesthetics, critical thinking — AI floods information; filtering and verification matter. Competencies transfer across domains (analysis in finance vs biotech); habits of mind resist AI distillation better than exam memorization."
+    },
+    {
+      "view": "Innovative schools must hand-craft the first chip.",
+      "question": "Why not mainstream?",
+      "answer": "Personalization + mentors + project courses = high cost; regulatory uncertainty, moves, and debt nearly killed the school. Wang: deeply practice educational essence and hand-craft chip one before the factory; ~500 students is the responsible ceiling for families and mission."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Tanyue School",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Ten-year competency K-12 experiment — One Small Step entrepreneurship, M48 hackathon, portfolio credentials; ~500 healthy scale with VC/HR watching graduates. High tuition, hard to replicate, regulatory and debt history; trust accrues cohort-by-cohort, not internet viral growth"
+    },
+    {
+      "ticker": "Private:Moonshot",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Chen Guangyu co-authored Attention Residuals liked by Musk — not enrolled at Tanyue but from its AI hackathon ecosystem; Moonshot paper reinforces super-high-schooler pipeline narrative tied to Kimi talent competition"
+    },
+    {
+      "ticker": "PLTR",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Silicon Valley giants (Palantir, Anthropic, OpenAI) scout younger super talent — Tanyue grads already queried by top founders; PLTR Long on front-loaded talent locking, though school models do not linearly map to public revenue"
+    }
+  ],
+  "golden_quotes": [
+    "Super high schoolers.",
+    "A third path beyond college.",
+    "Judgment and aesthetics matter most."
+  ],
+  "chronology": {
+    "subject": "Tanyue School · Innovative Education · Super High Schoolers",
+    "events": [
+      {
+        "date": "2015",
+        "event": "18-year-old Jason Wang essay predicts AI replaces procedural jobs; decides to build a school in China"
+      },
+      {
+        "date": "2017–2018",
+        "event": "Tanyue incubated at PKU High; first high-school cohort opens 2018"
+      },
+      {
+        "date": "2020",
+        "event": "Pandemic delays campus; hotel openings across three sites; personal home collateral for loans"
+      },
+      {
+        "date": "2021",
+        "event": "'Double reduction' makes full-time model non-compliant; move from 798 campus to National Tennis Center"
+      },
+      {
+        "date": "2022",
+        "event": "Absorbs Tsinghua High International School; extends primary and middle for full K-12"
+      },
+      {
+        "date": "2024",
+        "event": "Launches One Small Step and M48 AI hackathon; Chen Guangyu among first cohort standouts"
+      },
+      {
+        "date": "2025–2026",
+        "event": "Jiang Xueqin classroom forecasts go viral; Chen paper liked by Musk; VCs watch Tanyue students"
+      },
+      {
+        "date": "2026-07-06",
+        "event": "Silicon Valley 101 EP187: two-day immersion on Tanyue curriculum, people, and One Small Step"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep187",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

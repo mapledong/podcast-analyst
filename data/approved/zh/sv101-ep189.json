@@ -1,0 +1,130 @@
+{
+  "episode_id": "sv101-ep189",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 189,
+    "title": "当FIFA遇到美国：世界杯，太赚了！",
+    "guest": "陈茜",
+    "guest_role": "硅谷101 主持人 · 2026美加墨世界杯现场报道",
+    "date": "2026-07-08",
+    "duration_minutes": 85,
+    "youtube_url": "https://www.youtube.com/watch?v=erIEZkMd9_w",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=erIEZkMd9_w",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:FIFA",
+    "DIS",
+    "NKE",
+    "ADDYY"
+  ],
+  "conclusion": "陈茜从墨西哥世界杯开幕式现场出发，梳理2026美加墨世界杯如何成为史上最贵、最赚钱的赛事：揭幕战一等票2355美元（通胀调整后2006–2022仅600–725美元），FIFA 2023–2026周期预计收入130亿美元（+73%），赞助28亿、转播43亿，门票+招待 alone 约300亿。48队104场扩军叠加美国体育商业化“实操教练”——动态定价、不限价转售（15%佣金）、补水时间插播广告、主办城市Host City Supporters——把非营利FIFA变成“日进2.28亿美元”的超级印钞机。2015美国反腐案与税法博弈让美国在谈判中更强势，但天价已寒球迷之心：多州调查误导售票，56场官网仍有余票。",
+  "background": "硅谷101世界杯系列节目，主持人陈茜赴墨西哥报道2026世界杯开幕式，串联FIFA半世纪商业化史与美国体育工业。前情：2022卡塔尔周期FIFA入账75亿美元、储备39.7亿美元；1974年阿维兰热上任时账上仅24美元。本期聚焦“全球最会赚钱的体育赛事×全球最会挖商业价值的市场”，与EP191（FIFA腐败史）互补——此处讲money machine，彼处讲权力与司法。",
+  "important_facts": [
+    "FIFA商业化三部曲：阿维兰热1974扩军+品牌世界杯+去欧洲中心化；达斯勒/阿迪达斯与Patrick Nally以可口可乐1000万美元首开赞助IP，1982 InterSoccer4模板（独家排他、VIP、广告）沿用至今；1998再扩至32队、2007赞助三层（FIFA伙伴/世界杯伙伴/区域）自选套餐，2006赞助6亿→2022年18亿→2026年28亿。",
+    "美国1994与2026 playbook：尤伯罗斯1984洛杉矶奥运盈利2亿+；1994 USA94独立IP卖区域赞助与草皮/用球碎片纪念品；2026引入MLB式动态定价、转售无上限、中场“补水时间”2分10秒广告（104场多7小时）、 hospitality 收回自营。决赛票4185–10990美元；Host City各招10家本地赞助商；球队奖金因美国21%联邦税+37%球员税被迫FIFA额外加码50%+15%。",
+    "权力与反噬：2015美国DOJ起诉FIFA腐败，2022法务合规迁美；FIFA借主办城市免税历史（1994联邦豁免）谈判新权益层级。NY/CA/TX/NJ调查座位降级与天价；残障票从卡塔尔 10欧元涨至140美元且陪同收费。美国首战2735美元一等票赛前仍大量待售——极致商业化或已透支部分球迷热情。"
+  ],
+  "mental_model": {
+    "name": "赛事-媒体-品牌三角 × 美国体育定价 × 反腐杠杆",
+    "components": "霍斯特·达斯勒总结的赛事内容+大众媒体+品牌传播三角驱动金钱流动；FIFA通过扩军增场次、分层赞助、转播竞价放大IP。美国把奥运/世界杯当娱乐商品——动态价、转售、广告插播、城市级赞助分包；DOJ反腐案成为FIFA对美让步的谈判筹码。",
+    "application": "读世界杯商业：区分FIFA周期收入（130亿）与球迷可承受价（门票+hospitality占大头）。媒体/消费品牌（DIS/NKE）受益于超级IP收视；FIFA非营利外壳下治理与声誉风险仍高（参见EP191）。投资主办效应：美国城市得旅游与赞助，但球队或“亏本来踢”。"
+  },
+  "key_insights": [
+    {
+      "view": "2026是FIFA商业化的巅峰，也是球迷体验的拐点。",
+      "question": "为何说“变味”？",
+      "answer": "票价7倍于卡塔尔同类、动态价+转售炒到230万美元叫价（未成交）；补水时间把90分钟切成“四节”。多州检察长称价格“远远超过以往任何一届世界杯”，冷门场次与东道主首战均未售罄。"
+    },
+    {
+      "view": "美国不是启蒙者，是FIFA的“实操教练”。",
+      "question": "谁教会FIFA搞钱？",
+      "answer": "阿维兰热/达斯勒/Nally搭建赞助-转播框架；美国人用1994 USA94、2026动态定价/Host City Supporters/_tax leverage把单届变现推至130亿周期——北美3.8亿人口+成熟体育消费文化是关键乘数。"
+    },
+    {
+      "view": "反腐案让FIFA在对美谈判中更软。",
+      "question": "美国为何强势？",
+      "answer": "2015 DOJ 47项指控、布拉特/普拉蒂尼倒台；FIFA法务迁美。主办城市本可争门票税，最终换每城10赞助商权益；球队联邦税部分豁免但球员税仍高，FIFA只好提高奖金池。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "DIS",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "2026周期转播权43亿美元（+26%）——世界杯仍是全球顶级体育媒体资产；ESPN/Disney等长期版权方受益于北美时区与104场增量，与FIFA组织丑闻相对脱钩"
+    },
+    {
+      "ticker": "NKE",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "美国最大体育消费国+世界杯天价门票反映高端体育娱乐支出；Nike等本土运动品牌受益于赛事营销与球迷装备消费——间接受FIFA定价策略拉动"
+    },
+    {
+      "ticker": "Private:FIFA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "130亿周期收入、28亿赞助、30亿门票+招待创纪录——商业变现能力达历史峰值；但天价伤害品牌忠诚、多州调查与余票滞销显示边际收益递减与治理声誉风险并存"
+    }
+  ],
+  "golden_quotes": [
+    "超级印钞机",
+    "日进2.28亿美元",
+    "远远超过了以往任何一届世界杯"
+  ],
+  "chronology": {
+    "subject": "FIFA商业化 · 2026美加墨世界杯",
+    "events": [
+      {
+        "date": "1974",
+        "event": "阿维兰热当选FIFA主席，账上仅24美元；承诺扩军与第三世界足球发展"
+      },
+      {
+        "date": "1977",
+        "event": "可口可乐1000万美元赞助FIFA，开启卖IP时代"
+      },
+      {
+        "date": "1982",
+        "event": "世界杯扩至24队；InterSoccer4赞助模板首用"
+      },
+      {
+        "date": "1994",
+        "event": "美国世界杯USA94独立IP商业化；创上座纪录"
+      },
+      {
+        "date": "2007",
+        "event": "FIFA赞助改三层套餐；区域赞助商机制"
+      },
+      {
+        "date": "2015",
+        "event": "美国DOJ起诉FIFA腐败；布拉特辞职"
+      },
+      {
+        "date": "2022",
+        "event": "卡塔尔世界杯周期FIFA收入75亿美元"
+      },
+      {
+        "date": "2026",
+        "event": "48队104场美加墨世界杯；动态定价、补水广告、Host City Supporters上线"
+      },
+      {
+        "date": "2026-07",
+        "event": "多州调查FIFA售票；硅谷101 EP189墨西哥现场报道"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep189",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
