@@ -1,0 +1,130 @@
+{
+  "episode_id": "sv101-ep192",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 192,
+    "title": "The Rise of SK Hynix: An Absurd Chaebol Saga Choking Global AI",
+    "guest": "Chen Xi",
+    "guest_role": "SV101 host · Dihao Li (chaebol gossip segment)",
+    "date": "2026-07-11",
+    "duration_minutes": 90,
+    "youtube_url": "https://www.youtube.com/watch?v=nilNLfW7izg",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=nilNLfW7izg",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "SKHY",
+    "NVDA",
+    "MU",
+    "HBM"
+  ],
+  "conclusion": "On July 10, 2026 SK hynix listed Nasdaq ADRs (SKHY), raising $26.5B — the largest foreign US IPO — with market cap past $1T. The arc runs textiles → oil/telecom monopolies → SK's 2011 Hynix rescue, the AMD HBM bet, 2022 HBM3 for H100, and MR-MUF edge over Samsung TC-NCF. 2026 HBM is sold out into 2027+ with >20% wafer gap possibly through 2030; 58% share but Samsung and Micron close in. Chaebol politics and Chey's divorce frame a Korean story — HBM is real, memory cyclicality still lurks.",
+  "background": "SK hynix ADRs opened ~19% above offer; Jensen Huang met Chey Tae-won for the fourth time in six months. The narrative covers chaebol history (Chey Jong-hyon's textile start, 1980 Korea Oil swallow, 1994 Korea Mobile), the 1999 forced Hyundai–LG chip merger birthing Hynix, Micron's failed 2002 takeover, and SK's 2011 ~$3.05B bid for 21.1%.\n\nTech arc: 2013 AMD HBM co-development; 2021–22 HBM3 ramp aligned with AI; 2024 HBM3E on H200/B200; 2026 HBM4 shipping to Vera Rubin.",
+  "important_facts": [
+    "HBM and the memory wall: compute doubles ~every 18 months vs memory bandwidth ~every 10 years — the 1994 'Hitting the Memory Wall' paper predicted systems would stall on data moves. HBM uses 3D stack + TSV + SK's MR-MUF mass-reflow underfill for bandwidth; thermal bumps can be ~4× Samsung TC-NCF, making HBM a prerequisite for AI train/infer and agent workloads — swapping vendors requires joint re-qualification with NVDA and TSMC CoWoS.",
+    "Competition and supply: 2026 Q1 SK hynix ~58% HBM revenue share (down from ~69%), Samsung/Micron ~21% each; SK holds ~60–70% of Rubin HBM4 orders. Each HBM wafer costs ~3 conventional DRAM wafers; 2026 HBM output fully booked into 2027+; Chey cites >20% wafer gap possibly through 2030. Cheongju M15X H2 2026, Yongin from 2027, Indiana packaging H2 2028 — ~$29B ADR raise expands capacity but meaningful supply lands ~2028.",
+    "Chaebol origins and capital events: Sun Kyung textiles acquired Korea Oil (1980) and Korea Mobile (1994); 1999 state-forced Hyundai–LG chip merger birthed Hynix; SK bought 21.1% in 2011 for ~$3.05B. July 10, 2026 SKHY Nasdaq listing raised $26.5B, a foreign IPO record. Chey Tae-won vs Roh So-young divorce — a KRW 1.38T split reversed on supreme-court appeal — limited direct SK hynix impact but underscores political capital in SK's rise."
+  ],
+  "mental_model": {
+    "name": "Memory Wall × Second-Place Bet × Storage Cycle",
+    "components": "AI FLOPs outrun bandwidth — HBM is the shovel handle on NVDA's pickaxe; without it GPUs idle. Perennial #2 players (SK vs Samsung, AMD vs NVDA) chase edge tech and deep customer quals; MR-MUF one-shot molding beats Samsung TC-NCF layer-by-layer heat press on 12–16-stack heat and yield. Storage stays capex-heavy and cyclical — DRAM/NAND ASPs up 60–70% in places, yet memory has repeatedly re-rated down after 'this time is different' hype.",
+    "application": "Underwrite AI infra beyond GPUs: track HBM capacity, packaging yield, and second-source qualification. SKHY ADR adds liquidity and funds expansion, but supply lags ~2 years; watch Samsung NVDA sign-off, Micron CHIPS onshoring, and 2028 supply-driven pricing resets."
+  },
+  "key_insights": [
+    {
+      "view": "HBM is the AI chokepoint.",
+      "question": "Why can't Nvidia swap vendors easily?",
+      "answer": "HBM needs joint validation on packaging, thermals, signal integrity and TSMC CoWoS — SK hynix's HBM3 MR-MUF heat path and yield won first H100 qualification, often the sole early supplier."
+    },
+    {
+      "view": "Shortage runs for years.",
+      "question": "Why did Huang sign 'Please Make More'?",
+      "answer": "Agent infer demand plus each HBM die cannibalizes ~3 DRAM wafers; Chey cites >20% wafer gap, orders into 2027+, customers offering to prepay EUV tools."
+    },
+    {
+      "view": "Respect the cycle beneath 'this time is different.'",
+      "question": "How to read the ADR?",
+      "answer": "Markets price SK hynix as an AI infra toll booth, but memory has repeatedly re-rated down after super-cycle hype; HBM demand is real, yet share erosion and 2028 supply could compress margins."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "SKHY",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Primary HBM supplier with sold-out 2026 capacity and MR-MUF lead; ADR listing eases Korea discount and funds ~$29B expansion — supply tight through ~2028 but share slipped 69%→58%"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "GPU shipments hard-linked to HBM3/4/4E quals and deep SK co-development; Jensen's Korea visits signal memory — not just silicon — gates AI infra upside"
+    },
+    {
+      "ticker": "MU",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Only US memory maker with CHIPS funding and improving HBM4 yields; smaller scale than SK/Samsung but benefits from supply-chain localization as NVDA's #2/#3 HBM source"
+    }
+  ],
+  "golden_quotes": [
+    "Please Make More",
+    "The company choking global AI's neck",
+    "This time is different"
+  ],
+  "chronology": {
+    "subject": "SK hynix · HBM",
+    "events": [
+      {
+        "date": "1953–1994",
+        "event": "Sun Kyung textiles; 1980 Korea Oil and 1994 Korea Mobile acquisitions build cash engine"
+      },
+      {
+        "date": "1999",
+        "event": "State-forced Hyundai–LG chip merger creates Hynix; 2001 spin-out near insolvency"
+      },
+      {
+        "date": "2002",
+        "event": "Micron stock-swap takeover blocked by Hynix board; trade case follows"
+      },
+      {
+        "date": "2011",
+        "event": "SK buys 21.1% of Hynix for ~$3.05B; renamed SK hynix"
+      },
+      {
+        "date": "2013–2015",
+        "event": "AMD partnership ships HBM1 Fiji; 2016 NVDA P100 validates datacenter HBM"
+      },
+      {
+        "date": "2022",
+        "event": "HBM3 mass production for H100; 2024 HBM3E on H200/B200"
+      },
+      {
+        "date": "2026 Q1",
+        "event": "First >KRW 50T quarterly revenue; HBM >40% of sales; DRAM/NAND prices surge"
+      },
+      {
+        "date": "2026-07-10",
+        "event": "Nasdaq ADR (SKHY) lists; $26.5B raise sets foreign IPO record"
+      },
+      {
+        "date": "2026-07-11",
+        "event": "SV101 EP192 on chaebol history, HBM tech, and divorce saga"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep192",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -406,7 +406,7 @@ def _validate_chinese_transcript_requirements(
         return
     body = load_transcript_body(transcript_path(episode_id))
     podcast = str(data.get("podcast", ""))
-    if podcast in {"张小珺商业访谈录", "投资实战派"}:
+    if podcast in {"张小珺商业访谈录", "投资实战派", "硅谷101"}:
         for issue in assess_summary_quotes(data, body):
             report.add("golden_quotes", issue)
 

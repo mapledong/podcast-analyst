@@ -1,0 +1,134 @@
+{
+  "episode_id": "sv101-ep195",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 195,
+    "title": "Conversation with Ye Qiyi: 'Finding' Moonshot's Yang Zhilin, Two Generations of Chinese AI, a Decade of Talent Migration, and AGI Conviction",
+    "guest": "Ye Qiyi (Kiwi)",
+    "guest_role": "Former Meituan Longzhu investor · Led Moonshot Series A1 · Ex-Yitu PM · Ex-Sinovation AI Engineering Institute",
+    "date": "2026-07-22",
+    "duration_minutes": 135,
+    "youtube_url": "https://www.youtube.com/watch?v=Hq4jFGd4YxE",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Hq4jFGd4YxE",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:Moonshot",
+    "Private:DeepSeek",
+    "Private:Zhipu",
+    "BABA"
+  ],
+  "conclusion": "Kiwi frames Kimi K3 as a second Silicon Valley shock after DeepSeek: China open models now chase frontier SOTA, not just cost leadership. She maps two Four Little Dragons eras, CV services trapped by weak generalization and LLM labs inheriting MSRA-to-Yitu talent lines, plus Meituan Moonshot A1 amid GPU drought, ad-spend fights, and Wang Xing backing a low-odds AGI bet. DeepSeek R1 and K3 together shifted capital from demanding near-term DAU toward believing long-horizon AGI again.",
+  "background": "Guest Kiwi joined Yitu as PM in 2016 — co-founder Zhu Chenxi put three new hires in a room and assigned product lines with pure RL-style autonomy. She moved to Sinovation AI Engineering Institute in 2018, tracked GAN and federated learning, and attempted a Chinese GPT-2 on idle Middle East LP V100s (comma-heavy outputs exposed weak data cleaning). After ChatGPT she joined Meituan Longzhu, chased Yang Zhilin four months, referred CV-era engineers (~80% declined after AI 1.0 burnout), and led Moonshot A1 in May 2023 at a discount to Zhipu and MiniMax. Wang Xing greenlit the deal despite believing startup odds on super models were low. She left Meituan late 2025 to build a human-interaction wrapper so ordinary users stop feeling like second-class AI citizens next to agent engineers.",
+  "important_facts": [
+    "Two dragon generations: CV wave (2012–2017 ImageNet) failed on generalization — per-province weather and camera angles forced retraining, making a costly services business unlike internet marginal-cost scaling. Talent flowed MSRA/Baidu → Yitu/Megvii/SenseTime → ~10% mid-level staff joined Moonshot/Zhipu/MiniMax while DeepSeek skewed younger ACM/NOI via quant hiring habits. Yang Zhilin's Transformer-XL/XLNet (2019) and Zhiyuan CPM/GLM pursued decoder-only scale pre-ChatGPT; 2023 LTV strategy = Long context, Truthfulness, Video multimodal data.",
+    "Financing cycles: Moonshot A1 priced below Zero-One/Baichuan (~$1B pre) and Zhipu/MiniMax ($1.5B+); one prior VC exited before Meituan stepped in. Wang Xing after heated IC debate: startups' odds on super model plus super app are low, but he is willing to support. 2024 Chinese startups GPU-starved — US frontier labs had 10k-GPU clusters while domestic万卡 clusters were rare outside DeepSeek, Qwen, ByteDance. Kimi ad spend on Bilibili clashed with pure AGI research; DeepSeek R1 open chain-of-thought re-educated LPs to believe AGI; 2025 o1 era elevates taste and task design as leverage beyond raw pretrain data. Kiwi notes even frontier labs never have enough GPUs — supply always fills instantly.",
+    "K3 and landscape: Kiwi says K3 exceeded Opus 4.x at launch while open — not fighting on cost but reaching SOTA, unlike last year's DeepSeek moment. OpenClaw agent hype burned tokens and pushed users toward cost-aware model routing on OpenRouter, benefiting Kimi K2.5 before K3 reframed China as frontier peer. She argues model APIs commoditize; excess returns need a time-window product environment that continuously generates intelligence data and reward signals, citing Claude Code harness in coding. ByteDance closes model-produce-consume loops via Seedance and AI short drama; Alibaba invests GPUs across labs as land-grab patron; Tencent/WeChat remains the best interaction environment even if models lag tier-one. Meituan skipped 2024 Moonshot round over compute hesitation, re-led 2026; Kiwi now builds a small tool for human-to-human intent reconstruction."
+  ],
+  "mental_model": {
+    "name": "Two AI Eras × Talent Migration × Window Flywheel",
+    "components": "CV 1.0 generalization failure explains engineer trauma and only ~10% return rate into LLM startups. LLM 2.0 bets scale plus RL plus taste, but free ToC competition and scarce GPUs force AGI-vs-revenue trade-offs every quarter. Technical lead buys a window — winners must build product environments that keep producing new intelligence data; losers become commoditized API vendors when the gap closes. Sinovation 2019 Chinese GPT-2 on idle V100s failed on data cleaning, not lack of ambition.",
+    "application": "Diligence China model labs on founder talent reach (DeepSeek young Olympiad vs Kimi CV veterans), compute access, and environment design not bare benchmarks. K3 shows open plus frontier can reset global pricing narratives. Application-layer upside in democratizing AI usage (Kiwi wrapper thesis) beats betting single winner-takes-all models. Watch Alibaba as infra patron (BABA) while tracking Moonshot and DeepSeek as open-frontier proxies; policy, WeChat distribution, and ByteDance closed loops remain the main competitive risks outside pure model scores."
+  },
+  "key_insights": [
+    {
+      "view": "K3 marks China's open models first chasing SOTA, not just substitutes.",
+      "question": "How differs from DeepSeek Moment?",
+      "answer": "DeepSeek shock emphasized cost and inference optimization; K3 at launch beat Opus 4.x while open. Kiwi says 2026 shock feels more urgent because China reaches frontier capability, not only cheaper tokens. Silicon Valley must respond faster when open weights ship at SOTA rather than as budget alternatives."
+    },
+    {
+      "view": "CV-era disillusionment; only a slice returned to LLMs.",
+      "question": "How did talent migrate?",
+      "answer": "MSRA and Baidu fed CV four dragons; roughly ten percent of mid-level peers joined Moonshot and peers while eighty percent stayed out after AI 1.0 lacked internet-scale payoffs. DeepSeek hires youngest ACM stars via quant networks; Kimi and MiniMax founders reach CV alumni. Tang Jie mentored Yang Zhilin at Tsinghua yet Zhipu and Moonshot compete — Kiwi sees them as parallel explorers, not zero-sum rivals."
+    },
+    {
+      "view": "Models commoditize; excess profit lives in interaction environments.",
+      "question": "Still bet Model is all?",
+      "answer": "SOTA earns pricing power temporarily but permanent lead is impossible. Claude Code value is harness plus reward in coding environments, not bare API. AGI super apps should spawn new intelligence through human-AI interaction; selling model capacity is land-grab infra, not the endgame. Winner-takes-all assumptions break when first-tier and third-tier gaps shrink each release cycle."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Moonshot",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "K3 open SOTA validates LTV roadmap and engineering discipline; Meituan re-led 2026 after skipping 2024 compute-scarce round. Risks: ongoing GPU shortage, ToC battle vs ByteDance, Alibaba, and potential WeChat entry — must build data flywheel during SOTA window before commoditization"
+    },
+    {
+      "ticker": "Private:DeepSeek",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "R1 reset capital narrative toward believing AGI; youth talent density and quant-grade engineering optimize under scarcity. Co-frontier with Kimi in open China stack — high upside but policy and commercial path remain opaque to outside investors"
+    },
+    {
+      "ticker": "BABA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Alibaba invests and supplies GPUs across most domestic LLM labs as land-grab infra patron; strong Qwen team benefits but portfolio approach diversifies away from single-model winner risk — indirect play on China AGI buildout"
+    }
+  ],
+  "golden_quotes": [
+    "I'm willing to support.",
+    "We're not competing on cost-performance.",
+    "The disillusionment of idealism."
+  ],
+  "chronology": {
+    "subject": "Kiwi · Two Generations of Chinese AI · Moonshot",
+    "events": [
+      {
+        "date": "2012–2017",
+        "event": "CV Four Little Dragons founded; poor generalization → heavy services ToB"
+      },
+      {
+        "date": "2016–2018",
+        "event": "Kiwi joins Yitu as PM; moves to Sinovation AI Engineering Institute"
+      },
+      {
+        "date": "2019",
+        "event": "Institute trains Chinese GPT-2 on idle V100s (fails); Yang Zhilin publishes Transformer-XL/XLNet"
+      },
+      {
+        "date": "2022-11",
+        "event": "ChatGPT launches; Kiwi sees AGI seed, tracks China decoder-only talent"
+      },
+      {
+        "date": "2023-05",
+        "event": "Meituan Longzhu leads Moonshot A1; Wang Xing 'willing to support'"
+      },
+      {
+        "date": "2023-10",
+        "event": "Kimi Chat ships; long context and alignment win praise"
+      },
+      {
+        "date": "2024",
+        "event": "Compute scarcity, ad spend and DAU pressure; Meituan skips Moonshot round"
+      },
+      {
+        "date": "Early 2025",
+        "event": "DeepSeek R1 open chain-of-thought; capital narrative shifts to believing AGI"
+      },
+      {
+        "date": "Early 2026",
+        "event": "Kimi K3 launches open at SOTA; OpenClaw/agent wave"
+      },
+      {
+        "date": "2026",
+        "event": "Meituan re-leads Moonshot; Kiwi exits to build human-interaction tool"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep195",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

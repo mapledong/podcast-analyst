@@ -1,0 +1,134 @@
+{
+  "episode_id": "sv101-ep195",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 195,
+    "title": "对话叶奇意：“寻找”月之暗面杨植麟、中国两代AI、十年人才迁徙，与AGI信仰",
+    "guest": "叶奇意（Kiwi）",
+    "guest_role": "前美团龙珠投资 · 月之暗面A1轮领投 · 前依图产品经理 · 创新工场AI工程院",
+    "date": "2026-07-22",
+    "duration_minutes": 135,
+    "youtube_url": "https://www.youtube.com/watch?v=Hq4jFGd4YxE",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Hq4jFGd4YxE",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:Moonshot",
+    "Private:DeepSeek",
+    "Private:Zhipu",
+    "BABA"
+  ],
+  "conclusion": "Kimi K3被Kiwi称为继DeepSeek之后再次震动硅谷的“Kimi Moment”——中国开源模型首次不只是性价比平替，而是在发布时摸到了SOTA。节目以美团龙珠领投月之暗面A1为线，串起十年中国两代“四小龙”：CV时代的商汤、旷视、依图、云从因泛化不足陷入高成本ToB服务；LLM时代的智谱、月之暗面、MiniMax、DeepSeek则继承MSRA/百度/上一代公司的人才与“技术信仰”，但约80%上一代工程师因理想主义破灭未回流。王兴“愿意支持一把”的赌注、2024算力匮乏与投流争议、DeepSeek R1对资本叙事的扭转，以及K3开源追SOTA，构成理解中国AGI创业的核心脉络。",
+  "background": "嘉宾叶奇意（Kiwi）2016年加入依图任产品经理，2018年转创新工场AI工程院（曾用中东LP闲置几百台V100训练中文版GPT-2但效果糟糕），2022年ChatGPT后入美团龙珠，追了杨植麟四个月、引荐上一代四小龙工程师，2023年5月领投月之暗面A1（估值低于智谱、MiniMax等）。她自称“持续保持偏见”的AI行业观察者，2025年底离开美团创业，做面向人际互动的小工具，希望缓解普通用户成为“AI二等公民”的体验。",
+  "important_facts": [
+    "两代四小龙与人才链：CV四小龙（2012–2017 ImageNet浪潮）因模型泛化差、每省每场景重训，商业模式像高级外包；人才从MSRA、百度美研院→依图/旷视等→约10%中坚流入Moonshot、智谱、MiniMax，DeepSeek则更偏年轻ACM/NOI（幻方量化惯性）。杨植麟2019 Transformer-XL/XLNet、智源CPM/GLM即追decoder-only scale；2023年LTV战略=Long context、Truthfulness、Video。",
+    "融资与周期：Moonshot A1时投前估值低于同期零一、百川（近10亿美金）、智谱/MiniMax（15亿美金+）；王兴内部争议后表态“创业公司做超级模型+超级应用概率很低，但我愿意支持一把”。2024年中国创企极缺算力（北美前沿厂已有万卡集群，国内仅DeepSeek、千问、字节等少数），Kimi投流换DAU与AGI纯研究张力大；DeepSeek R1开源思维链后，资源方被教育“先相信AGI”，2025 o1路线让taste/任务定义成为新杠杆。",
+    "K3与竞争格局：K3训练过程超越当时Opus 4.x系列，Kiwi强调“不是在拼性价比而是摸SOTA且开源”；与DeepSeek Moment不同，今年震撼带来更强紧迫感。她判断模型API会commoditize，超额利润来自人无我有窗口内构建持续产生智慧数据与reward的环境（如Claude Code）；大厂中字节Seedance/短剧闭环、阿里“圈地”投卡、腾讯微信环境不可小觑；2024美团未跟投、2026又领投Moonshot。"
+  ],
+  "mental_model": {
+    "name": "两代AI × 人才迁徙 × 窗口期飞轮",
+    "components": "用CV 1.0的泛化失败理解为何上一代工程师创伤深、仅~10%回流。LLM 2.0赌的是scale+RL+taste，但算力与ToC免费竞争让创企必须在AGI信仰与商业证明间trade-off。技术领先只给时间窗口——必须在窗口内造出持续产出智能数据的product environment，否则模型能力被拉平。",
+    "application": "看中国模型公司：创始人触达的人才分布（DeepSeek年轻竞赛生 vs Kimi上一代四小龙骨干）影响组织气质；跟投看算力可得性与是否能在SOTA窗口建环境而非纯API。K3说明开源+追前沿可重塑定价权叙事。应用层机会在降低AI使用门槛（Kiwi创业方向），而非赌单一winner-takes-all模型。"
+  },
+  "key_insights": [
+    {
+      "view": "K3标志中国开源首次追SOTA而非仅平替。",
+      "question": "与DeepSeek Moment有何不同？",
+      "answer": "DeepSeek shock偏性价比与推理优化；K3发布时超Opus 4.x，且开源——Kiwi称今年震撼更有紧迫感，鼓舞在于“摸SOTA”而非只拼成本。"
+    },
+    {
+      "view": "上一代AI理想主义破灭，仅少数回流LLM。",
+      "question": "人才怎么迁徙？",
+      "answer": "MSRA/百度→CV四小龙→~10%中坚加入Moonshot等；80%因1.0未获互联网级回报有失败路径依赖。DeepSeek梁文锋招最年轻ACM生，Kimi/Minimax联创多来自旷视/商汤/依图，触达效率决定团队分布。"
+    },
+    {
+      "view": "模型会商品化，超额利润在交互环境。",
+      "question": "还该赌“Model is all”吗？",
+      "answer": "SOTA阶段有定价权，但不可能永远领先。Claude Code价值在coding环境的harness与reward信号，非裸API。AGI super app应在人机互动中持续产生新智能；卖模型能力是圈地基建，非终局。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Moonshot",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "K3开源追SOTA验证LTV路线与工程踏实；美团2026再领投。风险：算力仍缺、ToC直面字节/阿里/潜在微信，需在窗口期建数据飞轮"
+    },
+    {
+      "ticker": "Private:DeepSeek",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "R1教育资本+年轻天才密度+量化背景算力/工程优化；与Kimi并列中国开源前沿。黑马属性高，政策与商业化路径不确定"
+    },
+    {
+      "ticker": "BABA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "阿里投资并供卡给多数国内大模型厂，扮演“圈地运动”基建支持者；千问团队强但创企生态绑定也分散单一模型赢家风险"
+    }
+  ],
+  "golden_quotes": [
+    "我愿意支持一把",
+    "我们不是在拼性价比",
+    "理想主义的破灭"
+  ],
+  "chronology": {
+    "subject": "叶奇意 · 中国两代AI · 月之暗面",
+    "events": [
+      {
+        "date": "2012–2017",
+        "event": "CV四小龙（商汤、旷视、依图、云从）成立；泛化不足导致重服务化ToB"
+      },
+      {
+        "date": "2016–2018",
+        "event": "Kiwi加入依图任产品经理；转创新工场AI工程院"
+      },
+      {
+        "date": "2019",
+        "event": "工场用闲置V100训中文版GPT-2失败；杨植麟发Transformer-XL/XLNet"
+      },
+      {
+        "date": "2022-11",
+        "event": "ChatGPT发布；Kiwi判断AGI萌芽，开始追踪中国decoder-only人才"
+      },
+      {
+        "date": "2023-05",
+        "event": "美团龙珠领投Moonshot A1；王兴“愿意支持一把”"
+      },
+      {
+        "date": "2023-10",
+        "event": "Kimi Chat首发；long context与alignment获口碑"
+      },
+      {
+        "date": "2024",
+        "event": "算力匮乏、投流与DAU压力；美团未跟投Moonshot轮"
+      },
+      {
+        "date": "2025初",
+        "event": "DeepSeek R1开源思维链；资本叙事转向相信AGI"
+      },
+      {
+        "date": "2026初",
+        "event": "Kimi K3发布，开源追SOTA；OpenClaw/agent热潮"
+      },
+      {
+        "date": "2026",
+        "event": "美团再次领投Moonshot；Kiwi离职创业做人际互动工具"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep195",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

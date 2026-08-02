@@ -23,6 +23,8 @@ const PODCAST_SLUG = {
   "Zhang Xiaojun Podcast": "zhang-xiaojun",
   投资实战派: "touzi-shizhanpai",
   "Practical Investments": "touzi-shizhanpai",
+  硅谷101: "silicon-valley-101",
+  "Silicon Valley 101": "silicon-valley-101",
 };
 
 function readYaml(rel) {

@@ -1584,6 +1584,17 @@ episodes:
   duration_minutes: 265
   youtube_url: ''
   podcast: Acquired
+- id: sv101-ep196
+  episode_number: 196
+  title: 'Squeezing Silicon to the Limit: How to Keep GPUs from Sitting Idle? | Deep
+    Dive on AI Infra with SGLang & RadixArk'
+  guest: Ying Sheng, Banghua Zhu, and others
+  guest_role: RadixArk founders/co-founders · SGLang core team · Data center expert
+  date: '2026-07-28'
+  duration_minutes: 57
+  youtube_url: https://www.youtube.com/watch?v=cB_X6AImPjQ
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-tsmc-founder-morris-chang
   episode_number: 195
   title: TSMC Founder Morris Chang
@@ -1593,6 +1604,18 @@ episodes:
   duration_minutes: 175
   youtube_url: ''
   podcast: Acquired
+- id: sv101-ep195
+  episode_number: 195
+  title: 'Conversation with Ye Qiyi: ''Finding'' Moonshot''s Yang Zhilin, Two Generations
+    of Chinese AI, a Decade of Talent Migration, and AGI Conviction'
+  guest: Ye Qiyi (Kiwi)
+  guest_role: Former Meituan Longzhu investor · Led Moonshot Series A1 · Ex-Yitu PM
+    · Ex-Sinovation AI Engineering Institute
+  date: '2026-07-22'
+  duration_minutes: 135
+  youtube_url: https://www.youtube.com/watch?v=Hq4jFGd4YxE
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-mars-inc-the-chocolate-story
   episode_number: 194
   title: Mars Inc. (the chocolate story)
@@ -1611,6 +1634,16 @@ episodes:
   duration_minutes: 62
   youtube_url: https://www.youtube.com/watch?v=ufStXyedKYo
   podcast: Business Breakdowns
+- id: sv101-ep194
+  episode_number: 194
+  title: Why Can't "All-Powerful" AI Crack Football?
+  guest: Chen Xi
+  guest_role: SV101 host · World Cup special report
+  date: '2026-07-18'
+  duration_minutes: 46
+  youtube_url: https://www.youtube.com/watch?v=jXZGeF6sJOc
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-ikea
   episode_number: 193
   title: IKEA
@@ -1639,6 +1672,16 @@ episodes:
   youtube_url: ''
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a65fa50a3fec224d5a39641
+- id: sv101-ep192
+  episode_number: 192
+  title: 'The Rise of SK Hynix: An Absurd Chaebol Saga Choking Global AI'
+  guest: Chen Xi
+  guest_role: SV101 host · Dihao Li (chaebol gossip segment)
+  date: '2026-07-11'
+  duration_minutes: 90
+  youtube_url: https://www.youtube.com/watch?v=nilNLfW7izg
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-acquired-live-from-chase-center-with-daniel-ek-emily-chang-jensen-huang-and-mark-zuckerberg
   episode_number: 191
   title: Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang
@@ -1661,6 +1704,18 @@ episodes:
   youtube_url: ''
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a5c5d4ca3fec224d59fcb23
+- id: sv101-ep191
+  episode_number: 191
+  title: 'FIFA Corruption History: The British Reporter, Football''s Power Symbiosis
+    Network, and the ''Get-Out-of-Jail-Free Card'''
+  guest: Andrew Jennings et al. (archival figures)
+  guest_role: BBC investigative reporter · U.S. DOJ/FBI/IRS probe chain · FIFA power
+    figures including Blatter and Platini
+  date: '2026-07-25'
+  duration_minutes: 80
+  youtube_url: https://www.youtube.com/watch?v=i0t3RyLILnw
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-the-mark-zuckerberg-interview
   episode_number: 190
   title: The Mark Zuckerberg Interview
@@ -1690,6 +1745,18 @@ episodes:
   youtube_url: ''
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a4b8daf2e335a35a80ef059
+- id: sv101-ep190
+  episode_number: 190
+  title: 'An American AI Researcher''s China Trip: Youth, Catch-Up Players, Compute
+    Anxiety, and the ''AGI Showroom'' | Nathan Lambert Interview'
+  guest: Nathan Lambert
+  guest_role: Post-training lead for large models, Allen Institute for AI (Ai2) ·
+    Co-founder, Hugging Face RLHF team · Author, Interconnects
+  date: '2026-07-20'
+  duration_minutes: 150
+  youtube_url: https://www.youtube.com/watch?v=ULi-TCF2cQE
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-microsoft-volume-ii
   episode_number: 189
   title: Microsoft Volume II

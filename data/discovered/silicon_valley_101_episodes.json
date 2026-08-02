@@ -1,0 +1,3349 @@
+{
+  "podcast": "硅谷101",
+  "youtube_channel": "https://www.youtube.com/@TheValley101",
+  "rss_feed": "https://feeds.fireside.fm/sv101/rss",
+  "discovered_at": "2026-08-02T15:41:06.588542+00:00",
+  "rss_episodes": [
+    {
+      "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+      "date": "2026-08-01",
+      "duration_minutes": 67,
+      "link": "https://sv101.fireside.fm/259",
+      "guid": "5fd236d7-9a72-4b15-9e84-e83ceadd1b41",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5fd236d7-9a72-4b15-9e84-e83ceadd1b41.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
+      "date": "2026-07-24",
+      "duration_minutes": 46,
+      "link": "https://sv101.fireside.fm/258",
+      "guid": "5aeaeb64-9165-4271-9884-23329b511e11",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5aeaeb64-9165-4271-9884-23329b511e11.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E244｜机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛",
+      "date": "2026-07-16",
+      "duration_minutes": 77,
+      "link": "https://sv101.fireside.fm/257",
+      "guid": "fc9a3737-81a9-49cf-a7d6-530c77df836e",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fc9a3737-81a9-49cf-a7d6-530c77df836e.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛",
+      "date": "2026-07-10",
+      "duration_minutes": 76,
+      "link": "https://sv101.fireside.fm/256",
+      "guid": "d65f1b49-9e97-4892-bc64-55f5f0b39906",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/d65f1b49-9e97-4892-bc64-55f5f0b39906.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地",
+      "date": "2026-07-06",
+      "duration_minutes": 70,
+      "link": "https://sv101.fireside.fm/255",
+      "guid": "308f9278-dd48-44d3-a4ce-ee436968fc28",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/308f9278-dd48-44d3-a4ce-ee436968fc28.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？",
+      "date": "2026-06-26",
+      "duration_minutes": 61,
+      "link": "https://sv101.fireside.fm/254",
+      "guid": "c38d5df5-2eb3-46d3-8437-892593599d29",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c38d5df5-2eb3-46d3-8437-892593599d29.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
+      "date": "2026-06-18",
+      "duration_minutes": 51,
+      "link": "https://sv101.fireside.fm/253",
+      "guid": "47b7778e-1ed6-4dab-b7c9-8b4a6555b867",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/47b7778e-1ed6-4dab-b7c9-8b4a6555b867.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+      "date": "2026-06-12",
+      "duration_minutes": 89,
+      "link": "https://sv101.fireside.fm/252",
+      "guid": "259291f5-2715-4dde-bcfe-b5beb4df5793",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/259291f5-2715-4dde-bcfe-b5beb4df5793.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI",
+      "date": "2026-05-25",
+      "duration_minutes": 65,
+      "link": "https://sv101.fireside.fm/251",
+      "guid": "51260de8-60ef-4b76-b3e5-2e559c4a0923",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/51260de8-60ef-4b76-b3e5-2e559c4a0923.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意",
+      "date": "2026-05-21",
+      "duration_minutes": 65,
+      "link": "https://sv101.fireside.fm/250",
+      "guid": "c3607c08-6eb6-48bd-8250-b41b5b8272e6",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c3607c08-6eb6-48bd-8250-b41b5b8272e6.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？",
+      "date": "2026-05-15",
+      "duration_minutes": 81,
+      "link": "https://sv101.fireside.fm/249",
+      "guid": "b066c769-00d2-4341-bf61-a82bca4181e4",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学",
+      "date": "2026-05-09",
+      "duration_minutes": 70,
+      "link": "https://sv101.fireside.fm/248",
+      "guid": "90f96f60-25be-45ac-b832-56776a23d534",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/90f96f60-25be-45ac-b832-56776a23d534.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由",
+      "date": "2026-04-22",
+      "duration_minutes": 40,
+      "link": "https://sv101.fireside.fm/247",
+      "guid": "b2be7093-3366-4ee2-8a7a-625f06206ae5",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b2be7093-3366-4ee2-8a7a-625f06206ae5.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图",
+      "date": "2026-04-17",
+      "duration_minutes": 49,
+      "link": "https://sv101.fireside.fm/246",
+      "guid": "2a529abf-3c14-4ae7-a0a5-fe1340a66c7d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/2a529abf-3c14-4ae7-a0a5-fe1340a66c7d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起",
+      "date": "2026-04-10",
+      "duration_minutes": 66,
+      "link": "https://sv101.fireside.fm/245",
+      "guid": "3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？",
+      "date": "2026-04-01",
+      "duration_minutes": 59,
+      "link": "https://sv101.fireside.fm/243",
+      "guid": "0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+      "date": "2026-03-26",
+      "duration_minutes": 66,
+      "link": "https://sv101.fireside.fm/244",
+      "guid": "d97446f1-d6e3-4894-89d1-dca0a362b10b",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/d97446f1-d6e3-4894-89d1-dca0a362b10b.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E229｜从手工作坊到全球第一：中国动力电池逆袭史",
+      "date": "2026-03-20",
+      "duration_minutes": 64,
+      "link": "https://sv101.fireside.fm/242",
+      "guid": "c457ca43-1305-44a3-b9cc-c68480802396",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c457ca43-1305-44a3-b9cc-c68480802396.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘",
+      "date": "2026-03-13",
+      "duration_minutes": 66,
+      "link": "https://sv101.fireside.fm/241",
+      "guid": "fd17090c-0d72-4c0d-aa3e-9b00bc062149",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fd17090c-0d72-4c0d-aa3e-9b00bc062149.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+      "date": "2026-03-04",
+      "duration_minutes": 59,
+      "link": "https://sv101.fireside.fm/240",
+      "guid": "f14f8686-a6e2-47ea-92c1-ca7e71199f67",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f14f8686-a6e2-47ea-92c1-ca7e71199f67.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛",
+      "date": "2026-02-26",
+      "duration_minutes": 73,
+      "link": "https://sv101.fireside.fm/239",
+      "guid": "7abda28b-99c6-4ebc-8c0d-37bcc77f6a73",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7abda28b-99c6-4ebc-8c0d-37bcc77f6a73.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？",
+      "date": "2026-02-14",
+      "duration_minutes": 55,
+      "link": "https://sv101.fireside.fm/238",
+      "guid": "3b3e676b-f0cb-4a11-a9c1-c3bda3b47816",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3b3e676b-f0cb-4a11-a9c1-c3bda3b47816.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E224｜深度拆解Clawdbot，为何它能成为2026年第一个现象级产品？",
+      "date": "2026-02-04",
+      "duration_minutes": 79,
+      "link": "https://sv101.fireside.fm/237",
+      "guid": "a3db99dd-ae7e-4934-9902-73782ecf9053",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a3db99dd-ae7e-4934-9902-73782ecf9053.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E223｜应用爆发之年：聊聊模型技术进化与商业化",
+      "date": "2026-01-30",
+      "duration_minutes": 66,
+      "link": "https://sv101.fireside.fm/236",
+      "guid": "cbeec8b3-b0f6-4a2d-95f5-832452362423",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/cbeec8b3-b0f6-4a2d-95f5-832452362423.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E222｜紧身裤消失，谁在定义时尚潮流？",
+      "date": "2026-01-26",
+      "duration_minutes": 62,
+      "link": "https://sv101.fireside.fm/235",
+      "guid": "7966d048-80a2-4592-bb25-54d8b2827c91",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7966d048-80a2-4592-bb25-54d8b2827c91.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E221｜聊聊CES与中国品牌出海：我们真的需要人形机器人吗？",
+      "date": "2026-01-20",
+      "duration_minutes": 59,
+      "link": "https://sv101.fireside.fm/234",
+      "guid": "8248bf9b-0e67-4383-abc8-79a84dcae35a",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8248bf9b-0e67-4383-abc8-79a84dcae35a.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "新年直播3：华尔街视角下的AI泡沫、芯片及黑天鹅",
+      "date": "2026-01-15",
+      "duration_minutes": 44,
+      "link": "https://sv101.fireside.fm/233",
+      "guid": "752a8b52-eb8b-42c6-aacc-674b998f5604",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/752a8b52-eb8b-42c6-aacc-674b998f5604.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "新年直播2：特斯拉FSD以及自动驾驶的商业战争",
+      "date": "2026-01-15",
+      "duration_minutes": 39,
+      "link": "https://sv101.fireside.fm/232",
+      "guid": "df80a7c5-5b5a-4a6e-a403-a7933639ea07",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/df80a7c5-5b5a-4a6e-a403-a7933639ea07.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "新年直播1：AI的2025与2026，技术领域的共识与非共识",
+      "date": "2026-01-15",
+      "duration_minutes": 45,
+      "link": "https://sv101.fireside.fm/231",
+      "guid": "e54b2110-670a-46fa-9678-d3fa2ffa4c31",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/e54b2110-670a-46fa-9678-d3fa2ffa4c31.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E220｜谈谈Hyrox，“找虐运动”如何火遍全球",
+      "date": "2025-12-29",
+      "duration_minutes": 63,
+      "link": "https://sv101.fireside.fm/230",
+      "guid": "45abc5f3-f8e0-4fd1-80c5-09e4bb87aeff",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/45abc5f3-f8e0-4fd1-80c5-09e4bb87aeff.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E219｜140亿欧元爱马仕股份是怎么消失的？",
+      "date": "2025-12-17",
+      "duration_minutes": 79,
+      "link": "https://sv101.fireside.fm/229",
+      "guid": "5094ed82-ac50-4991-b317-f340493d4d1f",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5094ed82-ac50-4991-b317-f340493d4d1f.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E218｜Netflix与派拉蒙竞购华纳兄弟，好莱坞的洗牌时刻？",
+      "date": "2025-12-14",
+      "duration_minutes": 53,
+      "link": "https://sv101.fireside.fm/228",
+      "guid": "f9859b6e-bcc3-4141-a783-4bd063a68768",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f9859b6e-bcc3-4141-a783-4bd063a68768.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E217｜机器人开可乐发扑克有多难？聊聊灵巧手的硬件与算法",
+      "date": "2025-12-11",
+      "duration_minutes": 70,
+      "link": "https://sv101.fireside.fm/227",
+      "guid": "34b7da12-98ee-45e1-8ca0-0674278dc1da",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/34b7da12-98ee-45e1-8ca0-0674278dc1da.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E216｜对话机器人投资人：投资也得看论文，规模性商业化还很远",
+      "date": "2025-11-28",
+      "duration_minutes": 67,
+      "link": "https://sv101.fireside.fm/226",
+      "guid": "414ec0c8-a146-4b74-8c1f-b8ab68891094",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/414ec0c8-a146-4b74-8c1f-b8ab68891094.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E215｜资本视角聊聊万亿大基建钱从哪儿来，以及电力破局的六条路径",
+      "date": "2025-11-21",
+      "duration_minutes": 80,
+      "link": "https://sv101.fireside.fm/225",
+      "guid": "8d3c99cb-bb35-48c5-afae-fdcfcf6e5657",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8d3c99cb-bb35-48c5-afae-fdcfcf6e5657.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E214｜拯救发际线的硬核科普，现代医学与自然选择的拉锯战",
+      "date": "2025-11-17",
+      "duration_minutes": 75,
+      "link": "https://sv101.fireside.fm/224",
+      "guid": "3e9356b8-a509-466d-ba16-e3bf10e798ae",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3e9356b8-a509-466d-ba16-e3bf10e798ae.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E213｜从爱好到投资，卡牌能成为年轻人的第一桶金吗？",
+      "date": "2025-11-07",
+      "duration_minutes": 59,
+      "link": "https://sv101.fireside.fm/223",
+      "guid": "8ed8ce1e-1472-489b-bb42-7b2c1c1404f7",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8ed8ce1e-1472-489b-bb42-7b2c1c1404f7.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E212｜AI数据中心的万亿大基建时代：美国GDP增长全靠它",
+      "date": "2025-10-31",
+      "duration_minutes": 54,
+      "link": "https://sv101.fireside.fm/220",
+      "guid": "80d7c07d-2fae-48a0-86e4-1bd2294f88e7",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/80d7c07d-2fae-48a0-86e4-1bd2294f88e7.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E211｜站在内容创作者与机器人的交界处：聊聊3D数字人的进化",
+      "date": "2025-10-24",
+      "duration_minutes": 64,
+      "link": "https://sv101.fireside.fm/222",
+      "guid": "1d684a0f-e415-4270-b9f5-4fe8434487e2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/1d684a0f-e415-4270-b9f5-4fe8434487e2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E210｜日本“失去的30年”，炼成了中国餐厅排队王？",
+      "date": "2025-10-22",
+      "duration_minutes": 68,
+      "link": "https://sv101.fireside.fm/221",
+      "guid": "ec934df2-2250-4e68-a5dc-14591dde5040",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ec934df2-2250-4e68-a5dc-14591dde5040.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E209｜挑战Neuralink，硅谷大佬争相涌入的超声脑机接口是什么？",
+      "date": "2025-10-13",
+      "duration_minutes": 92,
+      "link": "https://sv101.fireside.fm/219",
+      "guid": "2390b400-05ce-4fa7-99e1-60c1f2de60a8",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/2390b400-05ce-4fa7-99e1-60c1f2de60a8.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E208｜量产CEO这事儿，是怎么被宝洁办成的？",
+      "date": "2025-09-24",
+      "duration_minutes": 72,
+      "link": "https://sv101.fireside.fm/218",
+      "guid": "66c2318e-a6ef-442e-919a-0635d0df3634",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/66c2318e-a6ef-442e-919a-0635d0df3634.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E207｜智能体创业者们的成本突围与商业落地",
+      "date": "2025-09-18",
+      "duration_minutes": 52,
+      "link": "https://sv101.fireside.fm/217",
+      "guid": "8761705a-3b17-41ec-91a2-c1436caa56fe",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8761705a-3b17-41ec-91a2-c1436caa56fe.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E206｜临近机器人GPT-3时刻，具身智能开源模型的加速演进",
+      "date": "2025-09-09",
+      "duration_minutes": 70,
+      "link": "https://sv101.fireside.fm/216",
+      "guid": "ee64d94d-d209-4398-996b-10f84237ddd0",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ee64d94d-d209-4398-996b-10f84237ddd0.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E205｜和丛乐聊基因编辑：碳基生命如何面对硅基挑战？",
+      "date": "2025-09-01",
+      "duration_minutes": 69,
+      "link": "https://sv101.fireside.fm/215",
+      "guid": "5e15489f-8acd-45f1-94f1-1fced90841fb",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5e15489f-8acd-45f1-94f1-1fced90841fb.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E204｜运动品牌的成长烦恼：lululemon低谷与新品牌狂飙",
+      "date": "2025-08-21",
+      "duration_minutes": 71,
+      "link": "https://sv101.fireside.fm/214",
+      "guid": "549b0f4c-0656-4ad7-b901-1b61e2da0ab5",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/549b0f4c-0656-4ad7-b901-1b61e2da0ab5.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E203｜股票代币化时代，揭秘Robinhood商业模式与加密野心",
+      "date": "2025-08-16",
+      "duration_minutes": 71,
+      "link": "https://sv101.fireside.fm/213",
+      "guid": "0d110a09-585d-4b66-8cbc-23493a01f4c5",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0d110a09-585d-4b66-8cbc-23493a01f4c5.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E202｜对话肖风：在香港稳定币的沸腾时刻，一些回归常识的冷思考",
+      "date": "2025-07-31",
+      "duration_minutes": 84,
+      "link": "https://sv101.fireside.fm/212",
+      "guid": "356bdab5-301f-481c-ad84-0a23795f79eb",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/356bdab5-301f-481c-ad84-0a23795f79eb.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E201｜OpenAI挑战通用型AI Agent，聊聊Agent的底层架构、AGI转折点与RL人才分布",
+      "date": "2025-07-26",
+      "duration_minutes": 79,
+      "link": "https://sv101.fireside.fm/211",
+      "guid": "aa07ca42-2e0c-4009-8e2f-9fca346bfaad",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/aa07ca42-2e0c-4009-8e2f-9fca346bfaad.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E200｜投资人视角深聊：AI Agent的核心壁垒与投资逻辑",
+      "date": "2025-07-17",
+      "duration_minutes": 54,
+      "link": "https://sv101.fireside.fm/210",
+      "guid": "0bbd5fa9-86fb-47f5-aeb2-6ca9b2b0a608",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0bbd5fa9-86fb-47f5-aeb2-6ca9b2b0a608.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E199｜悬赏1亿美金逆转人类10年生理年龄，抗衰疗法距离落地还有多远？",
+      "date": "2025-07-14",
+      "duration_minutes": 79,
+      "link": "https://sv101.fireside.fm/209",
+      "guid": "f4d0df24-ff1b-4f57-9124-999f89ef688a",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f4d0df24-ff1b-4f57-9124-999f89ef688a.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E198｜美国药价为何是欧洲的5-10倍？聊聊美国药价之困与制药公司崛起的秘密",
+      "date": "2025-07-07",
+      "duration_minutes": 71,
+      "link": "https://sv101.fireside.fm/208",
+      "guid": "cc4b33bd-67a0-414f-aaae-d16ad9e6c5b8",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/cc4b33bd-67a0-414f-aaae-d16ad9e6c5b8.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E197｜七大模型多模态之争，AI如何改变动漫产业？",
+      "date": "2025-06-20",
+      "duration_minutes": 70,
+      "link": "https://sv101.fireside.fm/207",
+      "guid": "85f39a3e-2b6f-4b53-b3ff-2a39bfee88e8",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/85f39a3e-2b6f-4b53-b3ff-2a39bfee88e8.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E196｜稳定币之战：Circle崛起之路与传统金融入局的新势力角逐",
+      "date": "2025-06-13",
+      "duration_minutes": 86,
+      "link": "https://sv101.fireside.fm/206",
+      "guid": "da43f93f-521d-461e-b21e-f7a867ef2ccf",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/da43f93f-521d-461e-b21e-f7a867ef2ccf.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E195｜从工具到伙伴：七位AI Agent深度使用者的思考",
+      "date": "2025-06-10",
+      "duration_minutes": 47,
+      "link": "https://sv101.fireside.fm/205",
+      "guid": "f9b457f8-0a9f-4ad2-889a-5f0634ffb0dc",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f9b457f8-0a9f-4ad2-889a-5f0634ffb0dc.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E194｜欧美顶流网红都在做美妆？聊聊从流量到品牌的操盘逻辑",
+      "date": "2025-06-05",
+      "duration_minutes": 71,
+      "link": "https://sv101.fireside.fm/204",
+      "guid": "145f786b-6443-4885-9757-30216a626630",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/145f786b-6443-4885-9757-30216a626630.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E193｜吃益生菌是智商税吗？全面复盘肠道健康迷思",
+      "date": "2025-05-30",
+      "duration_minutes": 86,
+      "link": "https://sv101.fireside.fm/203",
+      "guid": "8a822ab2-f1d6-4ec3-96f2-a1bf89c8d1a3",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8a822ab2-f1d6-4ec3-96f2-a1bf89c8d1a3.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E192｜谷歌的翻身仗与Gemini背后的灵魂人物｜解析2025谷歌 I/O",
+      "date": "2025-05-25",
+      "duration_minutes": 83,
+      "link": "https://sv101.fireside.fm/201",
+      "guid": "1b731c29-cfac-4b21-b6c3-3232ce6fb438",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/1b731c29-cfac-4b21-b6c3-3232ce6fb438.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E191｜小而美的机会来了，聊聊这轮AI Agent进化新范式",
+      "date": "2025-05-16",
+      "duration_minutes": 64,
+      "link": "https://sv101.fireside.fm/200",
+      "guid": "5bc119f9-a795-4016-9431-025a536c6941",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5bc119f9-a795-4016-9431-025a536c6941.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E190｜司美格鲁肽的新对手们：制药巨头混战减肥药下半场",
+      "date": "2025-05-02",
+      "duration_minutes": 75,
+      "link": "https://sv101.fireside.fm/199",
+      "guid": "7e4fdd90-0319-44f0-bac4-12095a64380a",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7e4fdd90-0319-44f0-bac4-12095a64380a.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E189｜DEI的风暴眼：常春藤、硅谷与被改写的“美国梦”",
+      "date": "2025-04-24",
+      "duration_minutes": 60,
+      "link": "https://sv101.fireside.fm/198",
+      "guid": "b284eb18-9654-4f07-924d-6137aae05919",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b284eb18-9654-4f07-924d-6137aae05919.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E188｜靠自学造火箭挑战SpaceX，Rocket Lab的太空版图",
+      "date": "2025-04-23",
+      "duration_minutes": 68,
+      "link": "https://sv101.fireside.fm/197",
+      "guid": "0824b3c2-8764-426f-8276-9ad0ee0cc9a1",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0824b3c2-8764-426f-8276-9ad0ee0cc9a1.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E187｜关税战难解美国制造业困境，旧秩序正在崩溃",
+      "date": "2025-04-14",
+      "duration_minutes": 66,
+      "link": "https://sv101.fireside.fm/196",
+      "guid": "8b30bf42-a0ec-472f-8fe6-bcafc3ce717f",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8b30bf42-a0ec-472f-8fe6-bcafc3ce717f.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E186｜美国稳定币发币潮，区块链如何改变传统金融版图？",
+      "date": "2025-03-31",
+      "duration_minutes": 61,
+      "link": "https://sv101.fireside.fm/195",
+      "guid": "93990d3a-0f93-49b0-8685-dc0e9378e8ba",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/93990d3a-0f93-49b0-8685-dc0e9378e8ba.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E185｜无共识的量子竞赛：群雄逐鹿与争议中的微软",
+      "date": "2025-03-25",
+      "duration_minutes": 77,
+      "link": "https://sv101.fireside.fm/194",
+      "guid": "8b4a5de6-2ed7-4743-8163-8f0fbf1a80ed",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8b4a5de6-2ed7-4743-8163-8f0fbf1a80ed.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E184｜“我爱你，这不是算法”：15个被AI击中瞬间的声音故事",
+      "date": "2025-03-20",
+      "duration_minutes": 33,
+      "link": "https://sv101.fireside.fm/193",
+      "guid": "ec7cb0d8-ea09-4513-a1a0-9f5bee6382e9",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ec7cb0d8-ea09-4513-a1a0-9f5bee6382e9.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E183｜比特币巨鲸微策略：一个溢价增发的资本游戏",
+      "date": "2025-03-14",
+      "duration_minutes": 103,
+      "link": "https://sv101.fireside.fm/191",
+      "guid": "effeca6d-4eed-454b-ae54-1248f9a8fe76",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/effeca6d-4eed-454b-ae54-1248f9a8fe76.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E182｜影子美元与金融新秩序：起底全球人均最赚钱的公司Tether",
+      "date": "2025-03-05",
+      "duration_minutes": 89,
+      "link": "https://sv101.fireside.fm/190",
+      "guid": "6ad3c899-d416-4509-bc7c-a61a1c2086d1",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6ad3c899-d416-4509-bc7c-a61a1c2086d1.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E181｜聊天的艺术：如何打造高情商的AI机器人？",
+      "date": "2025-02-26",
+      "duration_minutes": 50,
+      "link": "https://sv101.fireside.fm/189",
+      "guid": "f59d59ea-7732-4507-8ef3-c055cddd277e",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f59d59ea-7732-4507-8ef3-c055cddd277e.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "声音稿件征集｜你的AI时刻",
+      "date": "2025-02-21",
+      "duration_minutes": 2,
+      "link": "https://sv101.fireside.fm/188",
+      "guid": "ad75700f-2c9f-423d-9430-e3c64e3ee377",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ad75700f-2c9f-423d-9430-e3c64e3ee377.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E180｜量子计算的Transformer时刻与科技巨头的路径之争",
+      "date": "2025-02-14",
+      "duration_minutes": 67,
+      "link": "https://sv101.fireside.fm/187",
+      "guid": "22d16de2-5827-46db-9994-27f87402cacb",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/22d16de2-5827-46db-9994-27f87402cacb.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E179｜DeepSeek技术解析：为何引发英伟达股价下跌？",
+      "date": "2025-02-06",
+      "duration_minutes": 64,
+      "link": "https://sv101.fireside.fm/186",
+      "guid": "b2d7084b-daab-4fc8-9ce3-21380dd6c638",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b2d7084b-daab-4fc8-9ce3-21380dd6c638.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E178｜智能眼镜大战CES：靠AI不如产品硬",
+      "date": "2025-01-17",
+      "duration_minutes": 52,
+      "link": "https://sv101.fireside.fm/185",
+      "guid": "0b47d20a-ff20-4238-b3b2-b9237f83d203",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0b47d20a-ff20-4238-b3b2-b9237f83d203.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E177｜“没有AI我会难受至极”：与大学生聊聊智能工具的依赖与适应",
+      "date": "2025-01-07",
+      "duration_minutes": 62,
+      "link": "https://sv101.fireside.fm/184",
+      "guid": "ddead8e2-b21b-43be-8895-d4b7f8de903e",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ddead8e2-b21b-43be-8895-d4b7f8de903e.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E176｜SpaceX 的商业版图与太空经济的崛起",
+      "date": "2024-12-20",
+      "duration_minutes": 69,
+      "link": "https://sv101.fireside.fm/183",
+      "guid": "4749427b-134e-4ae3-b770-53cffce18115",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/4749427b-134e-4ae3-b770-53cffce18115.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E175｜专访导演方励：人类没有未来",
+      "date": "2024-12-12",
+      "duration_minutes": 71,
+      "link": "https://sv101.fireside.fm/182",
+      "guid": "816606bc-061d-4da0-af6c-8d2647585813",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/816606bc-061d-4da0-af6c-8d2647585813.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E174｜当巨头们失去了创新力，聊聊如何做一双好鞋",
+      "date": "2024-12-02",
+      "duration_minutes": 61,
+      "link": "https://sv101.fireside.fm/181",
+      "guid": "eddb99d0-9e99-4240-a20f-fe035650eac0",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/eddb99d0-9e99-4240-a20f-fe035650eac0.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E173｜一个对硅谷教育不满的老师，做了一所自己的学校",
+      "date": "2024-11-22",
+      "duration_minutes": 54,
+      "link": "https://sv101.fireside.fm/180",
+      "guid": "574dcb55-1aca-4c49-8c18-f5c7aef0c760",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/574dcb55-1aca-4c49-8c18-f5c7aef0c760.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E172｜大选影响下的硅谷：比特币总统、逆行者与反觉醒文化",
+      "date": "2024-11-14",
+      "duration_minutes": 60,
+      "link": "https://sv101.fireside.fm/179",
+      "guid": "27e3797b-fed8-4ff8-bfae-3824d9a36471",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/27e3797b-fed8-4ff8-bfae-3824d9a36471.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E171｜濒临破产的23andMe与基因检测行业的新旧交替",
+      "date": "2024-11-07",
+      "duration_minutes": 64,
+      "link": "https://sv101.fireside.fm/178",
+      "guid": "6b565ef3-3e81-431d-ae0d-a9369b0613b3",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6b565ef3-3e81-431d-ae0d-a9369b0613b3.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E170｜大模型应用之困与异军突起的“埃森哲们”",
+      "date": "2024-10-24",
+      "duration_minutes": 82,
+      "link": "https://sv101.fireside.fm/177",
+      "guid": "18a3283a-ba10-412b-9829-18708217fbd9",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/18a3283a-ba10-412b-9829-18708217fbd9.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E169｜特斯拉Robotaxi发布会的台前幕后：兴奋的现场与失望的华尔街",
+      "date": "2024-10-14",
+      "duration_minutes": 72,
+      "link": "https://sv101.fireside.fm/176",
+      "guid": "0f53c183-1136-46a2-b93a-7510f03cefe4",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0f53c183-1136-46a2-b93a-7510f03cefe4.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E168｜全息显示的AR眼镜真的来了，聊聊Meta Connect与日趋成熟的XR生态",
+      "date": "2024-10-06",
+      "duration_minutes": 82,
+      "link": "https://sv101.fireside.fm/175",
+      "guid": "48cd33bb-f57b-49b1-a226-f992303cf9c9",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/48cd33bb-f57b-49b1-a226-f992303cf9c9.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E167｜聊聊顶流网红做服装：卡戴珊与她的内衣王国Skims",
+      "date": "2024-09-29",
+      "duration_minutes": 71,
+      "link": "https://sv101.fireside.fm/174",
+      "guid": "f8f3e038-20b7-4775-b974-b41a12a6871d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f8f3e038-20b7-4775-b974-b41a12a6871d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E166｜聊聊火人节与硅谷精神：挑战规则、反叛权威的双生花",
+      "date": "2024-09-20",
+      "duration_minutes": 68,
+      "link": "https://sv101.fireside.fm/173",
+      "guid": "31d50706-f1b4-462b-9372-0d0e4b29fed8",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/31d50706-f1b4-462b-9372-0d0e4b29fed8.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "活动预告：我们硅谷线下见",
+      "date": "2024-09-19",
+      "duration_minutes": 2,
+      "link": "https://sv101.fireside.fm/172",
+      "guid": "96c3b4d2-20c8-4a39-bd56-17b9f8e52a8d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/96c3b4d2-20c8-4a39-bd56-17b9f8e52a8d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E165｜智能眼镜爆发前夜，与Ray-Ban Meta产品经理聊聊如何打造一款热门AI眼镜",
+      "date": "2024-09-06",
+      "duration_minutes": 80,
+      "link": "https://sv101.fireside.fm/171",
+      "guid": "32d3f60b-10fc-4ad0-a086-841d87e93f65",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/32d3f60b-10fc-4ad0-a086-841d87e93f65.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E164｜当电影遇上AI：与好莱坞特效美术聊聊他们和新工具的博弈",
+      "date": "2024-08-22",
+      "duration_minutes": 59,
+      "link": "https://sv101.fireside.fm/170",
+      "guid": "ac80fd38-dcf6-4430-9a9a-3a4bfad2494a",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ac80fd38-dcf6-4430-9a9a-3a4bfad2494a.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E163｜与大疆Pocket首任产品经理聊聊：如何从无到有定义一款硬件产品？",
+      "date": "2024-08-16",
+      "duration_minutes": 57,
+      "link": "https://sv101.fireside.fm/169",
+      "guid": "df7f6263-da37-478f-b2ab-a1c1c4850ea3",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/df7f6263-da37-478f-b2ab-a1c1c4850ea3.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E162｜清华姚班如何培养天才：给最有挑战性的问题和足够的自由度",
+      "date": "2024-08-07",
+      "duration_minutes": 63,
+      "link": "https://sv101.fireside.fm/168",
+      "guid": "18fbce0f-1e49-4ab2-87d0-f89fed1248b5",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/18fbce0f-1e49-4ab2-87d0-f89fed1248b5.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E161｜聊聊大模型如何思考与深度学习科学家Yann LeCun",
+      "date": "2024-07-29",
+      "duration_minutes": 61,
+      "link": "https://sv101.fireside.fm/167",
+      "guid": "254c28f3-cfcd-4fe7-b3de-0f8392c5d386",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/254c28f3-cfcd-4fe7-b3de-0f8392c5d386.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E160｜重新理解信息茧房：为何科学研究与我们主观感受相反？",
+      "date": "2024-07-24",
+      "duration_minutes": 52,
+      "link": "https://sv101.fireside.fm/166",
+      "guid": "ccbb801b-e297-42bc-91e7-186a755a5407",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ccbb801b-e297-42bc-91e7-186a755a5407.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E159｜音乐节经济：不划算但停不下来",
+      "date": "2024-07-20",
+      "duration_minutes": 61,
+      "link": "https://sv101.fireside.fm/165",
+      "guid": "216feb7e-b4a7-42b6-8c09-6237e6961915",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/216feb7e-b4a7-42b6-8c09-6237e6961915.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E158｜走访锈带：美国大选的反直觉认知与不被看见的人",
+      "date": "2024-07-09",
+      "duration_minutes": 60,
+      "link": "https://sv101.fireside.fm/164",
+      "guid": "bb638a3a-d7f2-4716-96c8-998b28a9cdc6",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/bb638a3a-d7f2-4716-96c8-998b28a9cdc6.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E157｜净利润24万，与充值过亿的爆款制作人聊聊短剧平台到底挣不挣钱？",
+      "date": "2024-06-27",
+      "duration_minutes": 67,
+      "link": "https://sv101.fireside.fm/163",
+      "guid": "8c97464b-2176-4cb5-9276-e0e6f0019297",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8c97464b-2176-4cb5-9276-e0e6f0019297.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E156｜自动驾驶领域的GPT时刻来了？聊聊特斯拉V12、FSD入华与RoboTaxi",
+      "date": "2024-06-21",
+      "duration_minutes": 91,
+      "link": "https://sv101.fireside.fm/162",
+      "guid": "3fdd7a9e-1e91-4967-b458-db16d23e6f9a",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3fdd7a9e-1e91-4967-b458-db16d23e6f9a.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E155｜马斯克太空梦进度条70%，聊聊星舰的四次发射与SpaceX Mafia",
+      "date": "2024-06-14",
+      "duration_minutes": 61,
+      "link": "https://sv101.fireside.fm/161",
+      "guid": "adafbc40-f694-405a-b501-2041b378a261",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/adafbc40-f694-405a-b501-2041b378a261.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E154｜一己之力拉动全球经济的Taylor Swift：她如何成为音乐界顶流？",
+      "date": "2024-06-11",
+      "duration_minutes": 65,
+      "link": "https://sv101.fireside.fm/160",
+      "guid": "78cb08bd-8362-44fc-b707-8713ce83659f",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/78cb08bd-8362-44fc-b707-8713ce83659f.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E153｜聊聊被过度营销反噬的Sam Altman与OpenAI的深层危机",
+      "date": "2024-06-05",
+      "duration_minutes": 75,
+      "link": "https://sv101.fireside.fm/159",
+      "guid": "c623db3d-cf72-4765-a8ea-7af5ba14367f",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c623db3d-cf72-4765-a8ea-7af5ba14367f.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E152｜对话NVIDIA和五源资本：“具身智能”能带领这波机器人热走多远？",
+      "date": "2024-05-28",
+      "duration_minutes": 57,
+      "link": "https://sv101.fireside.fm/158",
+      "guid": "fd3c471e-f786-4a73-abcc-b6da539fdcd2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fd3c471e-f786-4a73-abcc-b6da539fdcd2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E151｜事故频发、吹哨人离奇死亡，波音怎么了？",
+      "date": "2024-05-21",
+      "duration_minutes": 54,
+      "link": "https://sv101.fireside.fm/157",
+      "guid": "e3d2da66-9fd2-402f-9bba-d9497887588a",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/e3d2da66-9fd2-402f-9bba-d9497887588a.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E150｜与侯晓迪聊聊自动驾驶与搅局的马斯克",
+      "date": "2024-05-17",
+      "duration_minutes": 64,
+      "link": "https://sv101.fireside.fm/156",
+      "guid": "a84588ac-95dd-47fb-93cf-332a1afdd415",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a84588ac-95dd-47fb-93cf-332a1afdd415.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E149｜科技巨头们开始抢电？聊聊AI用电荒和核聚变创业热",
+      "date": "2024-04-30",
+      "duration_minutes": 62,
+      "link": "https://sv101.fireside.fm/155",
+      "guid": "92f69822-5317-4908-9936-94eb4d97adb2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/92f69822-5317-4908-9936-94eb4d97adb2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E148读书日特辑｜那些改变世界的人，热爱、信仰与坚持的故事（附诺奖采访）",
+      "date": "2024-04-23",
+      "duration_minutes": 70,
+      "link": "https://sv101.fireside.fm/154",
+      "guid": "a27bfaba-d4da-4ac9-a87f-6df0a82966b4",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a27bfaba-d4da-4ac9-a87f-6df0a82966b4.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E147｜Suno引爆音乐圈，与音乐人聊聊AI生成音乐与艺术的随机数",
+      "date": "2024-04-18",
+      "duration_minutes": 68,
+      "link": "https://sv101.fireside.fm/153",
+      "guid": "cf01d606-76df-417a-aafe-70d3521ed1a5",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/cf01d606-76df-417a-aafe-70d3521ed1a5.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E146｜对话李稻葵：Tiktok危机与跳动的博弈",
+      "date": "2024-04-07",
+      "duration_minutes": 47,
+      "link": "https://sv101.fireside.fm/152",
+      "guid": "7986fb19-36cd-4017-adcb-4cf057e05dd2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7986fb19-36cd-4017-adcb-4cf057e05dd2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E145 | 对话Meta田渊栋：被Transformer改变的世界与人类AGI的野心",
+      "date": "2024-03-28",
+      "duration_minutes": 54,
+      "link": "https://sv101.fireside.fm/151",
+      "guid": "76ef1736-0cc5-4cd8-9076-24ea045eb6ac",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/76ef1736-0cc5-4cd8-9076-24ea045eb6ac.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E144｜与徐梧聊聊Vision Pro：十倍于移动互联网的机会爆发？",
+      "date": "2024-03-22",
+      "duration_minutes": 66,
+      "link": "https://sv101.fireside.fm/150",
+      "guid": "ffbf7189-0b82-4f54-a66b-b0a247b68d23",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ffbf7189-0b82-4f54-a66b-b0a247b68d23.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E143｜亲历者讲述：神秘的长寿乌托邦与疯狂的生物极客运动",
+      "date": "2024-03-18",
+      "duration_minutes": 66,
+      "link": "https://sv101.fireside.fm/149",
+      "guid": "67ac4210-f90a-4b8b-8f07-401856b3086b",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/67ac4210-f90a-4b8b-8f07-401856b3086b.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E142｜投资人视角下的脑机接口与不可忽视的xAI",
+      "date": "2024-03-08",
+      "duration_minutes": 36,
+      "link": "https://sv101.fireside.fm/148",
+      "guid": "d721ddbe-0e64-4512-943a-743b56f556e4",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/d721ddbe-0e64-4512-943a-743b56f556e4.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E141｜我们用了10款AI工具，最后又回到了版权库",
+      "date": "2024-02-24",
+      "duration_minutes": 74,
+      "link": "https://sv101.fireside.fm/147",
+      "guid": "a93a9465-df0b-47fa-b9ac-67ea468c8c80",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a93a9465-df0b-47fa-b9ac-67ea468c8c80.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E140｜让盲人重现光明？聊聊Neuralink和视网膜脑机接口",
+      "date": "2024-02-14",
+      "duration_minutes": 54,
+      "link": "https://sv101.fireside.fm/145",
+      "guid": "da4f24a7-4f81-44cd-9301-41c4fde089e6",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/da4f24a7-4f81-44cd-9301-41c4fde089e6.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E139｜对话《三体》视觉导演陆贝珂：GenAI改变的影视特效业",
+      "date": "2024-02-03",
+      "duration_minutes": 65,
+      "link": "https://sv101.fireside.fm/144",
+      "guid": "b874c116-cbdb-4218-b033-cedbc29a36ed",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b874c116-cbdb-4218-b033-cedbc29a36ed.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E138｜如何用大模型提升学习效率？来自1100小时的深度使用体验",
+      "date": "2024-01-26",
+      "duration_minutes": 50,
+      "link": "https://sv101.fireside.fm/143",
+      "guid": "978242d0-d1d0-4ccf-b101-86728070ce8d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/978242d0-d1d0-4ccf-b101-86728070ce8d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E137｜逐帧分析AI Pin，AI硬件挑战苹果的风口来了",
+      "date": "2024-01-18",
+      "duration_minutes": 97,
+      "link": "https://sv101.fireside.fm/142",
+      "guid": "8491ec5c-6033-43b9-98df-95ea8d231943",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8491ec5c-6033-43b9-98df-95ea8d231943.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E136｜短剧出海：\"霸道总裁爱上我\"如何风靡全球？",
+      "date": "2024-01-05",
+      "duration_minutes": 55,
+      "link": "https://sv101.fireside.fm/141",
+      "guid": "18966554-776e-44a9-9cda-5429b4896bc6",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/18966554-776e-44a9-9cda-5429b4896bc6.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E135｜大模型带火的下一个风口：向量数据库",
+      "date": "2023-12-27",
+      "duration_minutes": 59,
+      "link": "https://sv101.fireside.fm/140",
+      "guid": "a2e85d5a-c561-46e7-b441-3e7be7ab977d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a2e85d5a-c561-46e7-b441-3e7be7ab977d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E134｜OpenAI治理架构，以及非营利组织对抗微软的三大经典战役",
+      "date": "2023-12-18",
+      "duration_minutes": 62,
+      "link": "https://sv101.fireside.fm/139",
+      "guid": "f98209f7-336f-441f-876c-1010e8a3785a",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f98209f7-336f-441f-876c-1010e8a3785a.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E133｜开源打法的秘诀与AI重塑的数据库行业",
+      "date": "2023-12-11",
+      "duration_minutes": 64,
+      "link": "https://sv101.fireside.fm/138",
+      "guid": "713f4305-9f6f-418c-a64c-5532e383eb27",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/713f4305-9f6f-418c-a64c-5532e383eb27.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E132｜诺和诺德 PK 礼来：减肥药的王者之争",
+      "date": "2023-12-07",
+      "duration_minutes": 93,
+      "link": "https://sv101.fireside.fm/137",
+      "guid": "92de2ec3-3748-47bc-853d-99b7c16d1adc",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/92de2ec3-3748-47bc-853d-99b7c16d1adc.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E131｜OpenAI动荡始末：两股硅谷势力的角逐与“执剑人”Ilya",
+      "date": "2023-11-23",
+      "duration_minutes": 61,
+      "link": "https://sv101.fireside.fm/136",
+      "guid": "63f1f1be-2eda-4f18-b793-54088db03510",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/63f1f1be-2eda-4f18-b793-54088db03510.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E130｜聊聊智能硬件出海的全球版图：大模型、 新爆款与合规陷阱",
+      "date": "2023-11-20",
+      "duration_minutes": 56,
+      "link": "https://sv101.fireside.fm/135",
+      "guid": "f5e9c2af-2111-4316-bd10-d11a4ad96227",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f5e9c2af-2111-4316-bd10-d11a4ad96227.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E129｜判例连出，盘点加密货币的监管思路与年度大案Ripple",
+      "date": "2023-11-08",
+      "duration_minutes": 69,
+      "link": "https://sv101.fireside.fm/134",
+      "guid": "768854db-6614-4d53-b90c-cc2f7b2006f8",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/768854db-6614-4d53-b90c-cc2f7b2006f8.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E128｜F1的商业生态：明星车手、车队与内燃机最后的辉煌",
+      "date": "2023-11-03",
+      "duration_minutes": 48,
+      "link": "https://sv101.fireside.fm/133",
+      "guid": "aad4133b-a8b9-4708-8f13-3a0f180c5f2f",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/aad4133b-a8b9-4708-8f13-3a0f180c5f2f.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E127 | 最昂贵的赛车运动如何赚钱？聊聊F1的商业模式",
+      "date": "2023-11-02",
+      "duration_minutes": 58,
+      "link": "https://sv101.fireside.fm/132",
+      "guid": "d7a84ef5-3bd2-4080-8d17-b570e9133546",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/d7a84ef5-3bd2-4080-8d17-b570e9133546.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E126｜聊聊中东市场：被两场战争短期加速的创业生态",
+      "date": "2023-10-24",
+      "duration_minutes": 72,
+      "link": "https://sv101.fireside.fm/131",
+      "guid": "0a1e904f-ca62-478f-8014-d5be570c48a0",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0a1e904f-ca62-478f-8014-d5be570c48a0.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E125｜新能源赛道的创投机会：产品定义能力的胜利",
+      "date": "2023-10-19",
+      "duration_minutes": 33,
+      "link": "https://sv101.fireside.fm/130",
+      "guid": "07807967-dfd1-450a-8e82-03ff0fc4643e",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/07807967-dfd1-450a-8e82-03ff0fc4643e.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E124｜聊聊中国新能源车的创新与出海挑战",
+      "date": "2023-10-15",
+      "duration_minutes": 68,
+      "link": "https://sv101.fireside.fm/129",
+      "guid": "f4c8537d-f4fc-4ffa-9ff4-2907bf1dde37",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f4c8537d-f4fc-4ffa-9ff4-2907bf1dde37.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E123｜一手造车一手金融，我们试驾了越南首富的电动车Vinfast",
+      "date": "2023-09-29",
+      "duration_minutes": 50,
+      "link": "https://sv101.fireside.fm/128",
+      "guid": "469c222c-07b4-4800-a409-15157d16fc53",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/469c222c-07b4-4800-a409-15157d16fc53.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E122｜聊聊《马斯克传》：硅谷大佬们的恩怨情仇与内心世界",
+      "date": "2023-09-14",
+      "duration_minutes": 77,
+      "link": "https://sv101.fireside.fm/127",
+      "guid": "18ecf089-b31e-494c-a2a5-416b4430b4b5",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/18ecf089-b31e-494c-a2a5-416b4430b4b5.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E121｜技术的黑暗面：聊聊东南亚灰黑产十年演化",
+      "date": "2023-09-06",
+      "duration_minutes": 62,
+      "link": "https://sv101.fireside.fm/126",
+      "guid": "31024dcf-8d61-4488-952a-3d03ceb442ec",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/31024dcf-8d61-4488-952a-3d03ceb442ec.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E120｜AI来了，中美大厂的区块链业务怎么样了？",
+      "date": "2023-08-25",
+      "duration_minutes": 61,
+      "link": "https://sv101.fireside.fm/124",
+      "guid": "92518a17-5095-45af-87e9-832c6a89c5a8",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/92518a17-5095-45af-87e9-832c6a89c5a8.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E119｜英伟达与芯片史上的大赢家们：凡是伟大的，都是叛逆的",
+      "date": "2023-08-22",
+      "duration_minutes": 48,
+      "link": "https://sv101.fireside.fm/125",
+      "guid": "4ce65459-a1b5-440b-bbd6-d646e1f03317",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/4ce65459-a1b5-440b-bbd6-d646e1f03317.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E118｜争议室温超导：为何全球复现结果都不一样？",
+      "date": "2023-08-09",
+      "duration_minutes": 68,
+      "link": "https://sv101.fireside.fm/122",
+      "guid": "e33c9c6f-4753-4d65-a159-e491b6e19876",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/e33c9c6f-4753-4d65-a159-e491b6e19876.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E117｜对话贾扬清：大模型的开源之战与应用时代｜AIGC特辑",
+      "date": "2023-08-01",
+      "duration_minutes": 57,
+      "link": "https://sv101.fireside.fm/121",
+      "guid": "b6893c09-f557-4e94-9adb-0a7083aa4e3c",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b6893c09-f557-4e94-9adb-0a7083aa4e3c.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E116｜美国教育第一大案：哈佛败诉，但亚裔并不是大赢家",
+      "date": "2023-07-18",
+      "duration_minutes": 53,
+      "link": "https://sv101.fireside.fm/120",
+      "guid": "a3f36dbd-5b0e-4f3a-883e-8f636357d7f4",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a3f36dbd-5b0e-4f3a-883e-8f636357d7f4.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E115｜对话梁建章：AI时代的旅游业、教育、人口经济与创新",
+      "date": "2023-07-04",
+      "duration_minutes": 54,
+      "link": "https://sv101.fireside.fm/119",
+      "guid": "368610bb-f1a6-4409-8d7a-31a1cf2abd7b",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/368610bb-f1a6-4409-8d7a-31a1cf2abd7b.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E114｜解读苹果Vision Pro背后的技术：创新还是微创新？",
+      "date": "2023-06-25",
+      "duration_minutes": 55,
+      "link": "https://sv101.fireside.fm/118",
+      "guid": "60ba2de0-4385-48bc-8885-9cff3d3a9f6e",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/60ba2de0-4385-48bc-8885-9cff3d3a9f6e.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E113 | 大模型来了，但机器人研究依然很难，商业化更难",
+      "date": "2023-06-15",
+      "duration_minutes": 64,
+      "link": "https://sv101.fireside.fm/117",
+      "guid": "801d2894-ee65-486e-b2f1-644fda0f193d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/801d2894-ee65-486e-b2f1-644fda0f193d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E112｜AI浪潮+加息末端，华尔街投资人如何看科技股走势？",
+      "date": "2023-06-06",
+      "duration_minutes": 40,
+      "link": "https://sv101.fireside.fm/116",
+      "guid": "8098f834-85ab-4491-8440-3461cdb17ea3",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8098f834-85ab-4491-8440-3461cdb17ea3.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E111｜当两种不同的投资流派聊起巴菲特：风格明确才是杀手锏？",
+      "date": "2023-05-30",
+      "duration_minutes": 50,
+      "link": "https://sv101.fireside.fm/115",
+      "guid": "228952ec-b4b3-45c6-8dab-a9a3c749e689",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/228952ec-b4b3-45c6-8dab-a9a3c749e689.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E110 | 好莱坞编剧罢工：AI冲击波与编剧们的生存危机",
+      "date": "2023-05-24",
+      "duration_minutes": 55,
+      "link": "https://sv101.fireside.fm/114",
+      "guid": "f88735bb-745c-49d2-aa4b-13ab4366ac91",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f88735bb-745c-49d2-aa4b-13ab4366ac91.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E109｜Netflix、HBO与迪士尼的新旧流媒体大战",
+      "date": "2023-05-19",
+      "duration_minutes": 67,
+      "link": "https://sv101.fireside.fm/113",
+      "guid": "5006c456-f697-42df-8aa0-511f2c3c639b",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5006c456-f697-42df-8aa0-511f2c3c639b.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E108｜从20分迅速追到50分，国产大模型难在哪儿｜AIGC特辑",
+      "date": "2023-05-09",
+      "duration_minutes": 59,
+      "link": "https://sv101.fireside.fm/112",
+      "guid": "1a55dff2-299f-438f-b9dd-fd065acbbc26",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/1a55dff2-299f-438f-b9dd-fd065acbbc26.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E107｜AI大爆发：OpenAI极早期历史 ，以及图像领域的GPT moment｜AIGC特辑",
+      "date": "2023-04-26",
+      "duration_minutes": 44,
+      "link": "https://sv101.fireside.fm/111",
+      "guid": "8d323172-5757-4d0c-9ef6-3397eb712ed0",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8d323172-5757-4d0c-9ef6-3397eb712ed0.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E106｜真正造星舰的人来了，与SpaceX前高管聊聊马斯克的火星计划",
+      "date": "2023-04-19",
+      "duration_minutes": 60,
+      "link": "https://sv101.fireside.fm/110",
+      "guid": "9052524d-0673-4982-a6bc-998034a360e2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9052524d-0673-4982-a6bc-998034a360e2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E105| 特斯拉的三个十年：电动车、AI与能源",
+      "date": "2023-03-30",
+      "duration_minutes": 69,
+      "link": "https://sv101.fireside.fm/109",
+      "guid": "68eef0d8-5348-4b77-ada2-134e34f0c4c2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/68eef0d8-5348-4b77-ada2-134e34f0c4c2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E104 | 新玩法新格局，ChatGPT如何改变游戏行业？| AIGC特辑",
+      "date": "2023-03-21",
+      "duration_minutes": 55,
+      "link": "https://sv101.fireside.fm/108",
+      "guid": "2dcc8a8d-1574-499d-98f5-c422d465d574",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/2dcc8a8d-1574-499d-98f5-c422d465d574.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E103|回顾硅谷银行危机：一家“好银行”的倒闭之路",
+      "date": "2023-03-15",
+      "duration_minutes": 61,
+      "link": "https://sv101.fireside.fm/107",
+      "guid": "2874c88b-d7bb-4acf-8b6a-7da83ad18709",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/2874c88b-d7bb-4acf-8b6a-7da83ad18709.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E102 | 硅基文明能否取代碳基文明？聊聊AI的心智与数字化人",
+      "date": "2023-03-11",
+      "duration_minutes": 54,
+      "link": "https://sv101.fireside.fm/106",
+      "guid": "45001a71-a9b4-4ac6-be8c-da9106d137a0",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/45001a71-a9b4-4ac6-be8c-da9106d137a0.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E101 | 两年营收过亿美元，聊聊AIGC的应用层独角兽|AIGC特辑",
+      "date": "2023-02-28",
+      "duration_minutes": 48,
+      "link": "https://sv101.fireside.fm/105",
+      "guid": "16648182-4126-459a-9661-658fe76c6951",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/16648182-4126-459a-9661-658fe76c6951.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E100｜ChatGPT们来了，生命科学走出一百年黑暗探索｜AIGC特辑",
+      "date": "2023-02-16",
+      "duration_minutes": 49,
+      "link": "https://sv101.fireside.fm/104",
+      "guid": "741b81df-08bc-4215-8f91-c572de4f5bb2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/741b81df-08bc-4215-8f91-c572de4f5bb2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E99｜聊聊失望的CES与如火如荼的出海大年",
+      "date": "2023-02-07",
+      "duration_minutes": 53,
+      "link": "https://sv101.fireside.fm/103",
+      "guid": "8d00f1be-32d5-4b0b-9491-8733586ea1cc",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8d00f1be-32d5-4b0b-9491-8733586ea1cc.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "E98｜mRNA疫苗商战：一场速度的竞赛",
+      "date": "2023-01-28",
+      "duration_minutes": 66,
+      "link": "https://sv101.fireside.fm/102",
+      "guid": "13cc9d1f-fcd8-4df2-b03f-e41be99e0c83",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/13cc9d1f-fcd8-4df2-b03f-e41be99e0c83.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E97｜聊聊新冠口服药Paxlovid与辉瑞研发的故事",
+      "date": "2023-01-14",
+      "duration_minutes": 57,
+      "link": "https://sv101.fireside.fm/101",
+      "guid": "a07881a3-15ab-4735-ac75-95ed9b28a378",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a07881a3-15ab-4735-ac75-95ed9b28a378.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E96｜金融危机之后最好的投行，瑞信如何走向破产危机？",
+      "date": "2023-01-07",
+      "duration_minutes": 72,
+      "link": "https://sv101.fireside.fm/100",
+      "guid": "35ff0f3c-d94f-4c4b-89bd-85ef9b4d5d16",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/35ff0f3c-d94f-4c4b-89bd-85ef9b4d5d16.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E95｜可控核聚变历史性突破时刻，但学术圈还有些争议",
+      "date": "2022-12-19",
+      "duration_minutes": 52,
+      "link": "https://sv101.fireside.fm/99",
+      "guid": "db3181b7-8593-43dd-b53a-1d6bcb3ee4ed",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/db3181b7-8593-43dd-b53a-1d6bcb3ee4ed.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E94｜关于新冠、疫苗和阳了之后的一些科普",
+      "date": "2022-12-18",
+      "duration_minutes": 49,
+      "link": "https://sv101.fireside.fm/98",
+      "guid": "173492fa-4c4a-4ddb-9272-b38d4339ce4d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/173492fa-4c4a-4ddb-9272-b38d4339ce4d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E93｜ChatGPT替代谷歌搜索？不，是降维打击｜AIGC特辑",
+      "date": "2022-12-16",
+      "duration_minutes": 76,
+      "link": "https://sv101.fireside.fm/97",
+      "guid": "798f238f-9441-4c43-94ba-7879554140b6",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/798f238f-9441-4c43-94ba-7879554140b6.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E92 | 从Theranos到FTX，全球顶级VC为何频频被骗？",
+      "date": "2022-12-09",
+      "duration_minutes": 58,
+      "link": "https://sv101.fireside.fm/96",
+      "guid": "8c7c412d-ad26-45d6-96a6-0897586d8585",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8c7c412d-ad26-45d6-96a6-0897586d8585.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E91｜与艺术家聊聊，AI绘画投入商用的两大障碍｜AIGC特辑",
+      "date": "2022-11-23",
+      "duration_minutes": 60,
+      "link": "https://sv101.fireside.fm/95",
+      "guid": "53268984-3561-4e7d-9de4-10c63b811971",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/53268984-3561-4e7d-9de4-10c63b811971.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E90 | FTX爆雷始末，资本做局的虚假繁荣终结",
+      "date": "2022-11-14",
+      "duration_minutes": 80,
+      "link": "https://sv101.fireside.fm/94",
+      "guid": "b8b7e14c-5259-4419-bd7e-444d59b90c50",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b8b7e14c-5259-4419-bd7e-444d59b90c50.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E89｜增长时代结束，华尔街如何解读科技巨头暴跌？",
+      "date": "2022-11-07",
+      "duration_minutes": 45,
+      "link": "https://sv101.fireside.fm/93",
+      "guid": "7fda9043-f7bc-41a1-aae1-fb1cdff07ae7",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7fda9043-f7bc-41a1-aae1-fb1cdff07ae7.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E88｜AIGC赛跑开始：中国能长出自己的OpenAI吗？｜AIGC特辑",
+      "date": "2022-11-02",
+      "duration_minutes": 80,
+      "link": "https://sv101.fireside.fm/92",
+      "guid": "b97c461d-5b7b-4b2b-800d-4f059e83d20b",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b97c461d-5b7b-4b2b-800d-4f059e83d20b.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E87｜一句话生成图片初体验，AI挑战艺术家谁会赢？｜AIGC特辑",
+      "date": "2022-10-20",
+      "duration_minutes": 36,
+      "link": "https://sv101.fireside.fm/91",
+      "guid": "1d2d1240-24f6-487e-ad6b-13d3378d7bd5",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/1d2d1240-24f6-487e-ad6b-13d3378d7bd5.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E86｜151页取证材料曝光，复盘马斯克收购推特反转全过程",
+      "date": "2022-10-13",
+      "duration_minutes": 70,
+      "link": "https://sv101.fireside.fm/90",
+      "guid": "4436d949-f2ba-4950-acfe-7991d199884f",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/4436d949-f2ba-4950-acfe-7991d199884f.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E85｜苹果华为同时“捅破天”不是巧合，卫星互联网的大爆发前夜",
+      "date": "2022-09-28",
+      "duration_minutes": 53,
+      "link": "https://sv101.fireside.fm/89",
+      "guid": "1cd1ff0c-cd6f-42c7-af23-46aafcf00727",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/1cd1ff0c-cd6f-42c7-af23-46aafcf00727.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E84｜美国的直播电商会被中国公司卷起来吗",
+      "date": "2022-09-23",
+      "duration_minutes": 43,
+      "link": "https://sv101.fireside.fm/88",
+      "guid": "d4914fd7-b561-4f00-8f8d-c2447a1c8817",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/d4914fd7-b561-4f00-8f8d-c2447a1c8817.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E83｜美国直播电商为什么做不起来？",
+      "date": "2022-09-16",
+      "duration_minutes": 48,
+      "link": "https://sv101.fireside.fm/87",
+      "guid": "83e3df1e-6cee-40bf-9832-2a3ead8e168d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/83e3df1e-6cee-40bf-9832-2a3ead8e168d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E82｜0糖0卡未必健康，聊聊甜味剂与食品工业的秘密",
+      "date": "2022-08-31",
+      "duration_minutes": 57,
+      "link": "https://sv101.fireside.fm/86",
+      "guid": "0bcbfc02-1ae0-4593-8d0f-1b403cd492e4",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0bcbfc02-1ae0-4593-8d0f-1b403cd492e4.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E81｜解析美国芯片法案与缺芯潮，全球化进程下的逆全球化",
+      "date": "2022-08-18",
+      "duration_minutes": 47,
+      "link": "https://sv101.fireside.fm/85",
+      "guid": "bb809351-96c2-478f-8c2b-318bf31f4255",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/bb809351-96c2-478f-8c2b-318bf31f4255.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E80｜电动车电池的路径选择：固态电池与氢能源的理想与现实",
+      "date": "2022-08-03",
+      "duration_minutes": 66,
+      "link": "https://sv101.fireside.fm/84",
+      "guid": "56b23389-3456-4cdf-8d92-d3de0b7aaa56",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/56b23389-3456-4cdf-8d92-d3de0b7aaa56.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E79｜来自太空深处的浪漫，与詹姆斯韦伯核心团队的宇宙级对话",
+      "date": "2022-07-18",
+      "duration_minutes": 44,
+      "link": "https://sv101.fireside.fm/83",
+      "guid": "3615ba32-fc61-4e1d-ae9d-d3cdfd9f8eba",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3615ba32-fc61-4e1d-ae9d-d3cdfd9f8eba.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "小公告｜新播客Web3 101上线了",
+      "date": "2022-07-15",
+      "duration_minutes": 2,
+      "link": "https://sv101.fireside.fm/82",
+      "guid": "ee4d579c-74df-485f-aa18-acba3aa48f20",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ee4d579c-74df-485f-aa18-acba3aa48f20.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E78｜堕胎权判例被推翻并不意外，但这仅仅只是开始",
+      "date": "2022-07-05",
+      "duration_minutes": 58,
+      "link": "https://sv101.fireside.fm/81",
+      "guid": "575438e6-af0f-4b0b-b5ad-ec1f9f360820",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/575438e6-af0f-4b0b-b5ad-ec1f9f360820.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E77｜聊聊国际化与SHEIN启示录：从中国制造到中国品牌",
+      "date": "2022-06-24",
+      "duration_minutes": 56,
+      "link": "https://sv101.fireside.fm/80",
+      "guid": "1571040e-c543-4241-acf1-eb2d7ae56d7f",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/1571040e-c543-4241-acf1-eb2d7ae56d7f.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E76｜播客粉丝发起的Bankless DAO，如何穿越熊市？",
+      "date": "2022-06-15",
+      "duration_minutes": 62,
+      "link": "https://sv101.fireside.fm/79",
+      "guid": "cde9bac4-5801-4d8a-aad9-9ca92eed35c3",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/cde9bac4-5801-4d8a-aad9-9ca92eed35c3.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "Bonus｜StepN死亡螺旋开始？这或许是所有Web3产品的通病",
+      "date": "2022-06-04",
+      "duration_minutes": 17,
+      "link": "https://sv101.fireside.fm/78",
+      "guid": "05580c28-b195-403b-a307-b35ea591e42b",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/05580c28-b195-403b-a307-b35ea591e42b.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E75|无聊猿热潮背后：运营者经济，而非创作者经济",
+      "date": "2022-05-28",
+      "duration_minutes": 56,
+      "link": "https://sv101.fireside.fm/77",
+      "guid": "5a1b7653-7462-40fc-a63b-4bb00dc9467f",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5a1b7653-7462-40fc-a63b-4bb00dc9467f.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E74｜TikTok如何在Facebook眼皮底下成长起来的？",
+      "date": "2022-05-16",
+      "duration_minutes": 38,
+      "link": "https://sv101.fireside.fm/76",
+      "guid": "b77928df-989b-425d-b990-30672e0e1a82",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b77928df-989b-425d-b990-30672e0e1a82.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E73｜Twitter的理想化未来：要协议，而非平台？",
+      "date": "2022-04-27",
+      "duration_minutes": 55,
+      "link": "https://sv101.fireside.fm/75",
+      "guid": "285d6d5e-8595-42db-afd1-d243b6bc7547",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/285d6d5e-8595-42db-afd1-d243b6bc7547.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E72｜俄乌战争如何加速欧洲新能源转型？",
+      "date": "2022-04-21",
+      "duration_minutes": 42,
+      "link": "https://sv101.fireside.fm/74",
+      "guid": "f1bb13b4-56ae-4a70-857c-1982178fc217",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f1bb13b4-56ae-4a70-857c-1982178fc217.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E71｜1100美元买一双虚拟跑鞋，Web3新游戏StepN缘何大火？",
+      "date": "2022-04-13",
+      "duration_minutes": 61,
+      "link": "https://sv101.fireside.fm/73",
+      "guid": "ef900fc2-f8b2-4bab-8627-fdabcc091579",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ef900fc2-f8b2-4bab-8627-fdabcc091579.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E70｜真正的Web3离我们有多远？从Mirror的创作者生态说起",
+      "date": "2022-04-03",
+      "duration_minutes": 60,
+      "link": "https://sv101.fireside.fm/72",
+      "guid": "416ad5fc-81fe-4ffa-8190-d187bcaf50b0",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/416ad5fc-81fe-4ffa-8190-d187bcaf50b0.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "投稿征集｜你玩过哪些Web3.0产品？",
+      "date": "2022-03-25",
+      "duration_minutes": 3,
+      "link": "https://sv101.fireside.fm/71",
+      "guid": "c8ee805a-06c9-45e2-9378-2ae9bfbe57da",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c8ee805a-06c9-45e2-9378-2ae9bfbe57da.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E69｜中概股危机，这次不一样！",
+      "date": "2022-03-19",
+      "duration_minutes": 39,
+      "link": "https://sv101.fireside.fm/70",
+      "guid": "84a41a03-7dae-430f-8510-71f6aad89d09",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/84a41a03-7dae-430f-8510-71f6aad89d09.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E68｜美国加密行业创业潮，DAO是如何运作的？",
+      "date": "2022-03-11",
+      "duration_minutes": 39,
+      "link": "https://sv101.fireside.fm/69",
+      "guid": "9962010f-17ad-40c5-af86-c58d44416ae6",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9962010f-17ad-40c5-af86-c58d44416ae6.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E67｜谷爱凌、内驱力与教育，在偶然中寻找必然",
+      "date": "2022-03-04",
+      "duration_minutes": 46,
+      "link": "https://sv101.fireside.fm/68",
+      "guid": "e69f5fe9-2532-4d67-8f18-b70edeee0e86",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/e69f5fe9-2532-4d67-8f18-b70edeee0e86.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S3E66 | 一个NFT玩家眼中，Opensea的崛起之路",
+      "date": "2022-02-24",
+      "duration_minutes": 56,
+      "link": "https://sv101.fireside.fm/67",
+      "guid": "e570ad21-bab4-427c-8d63-a4c96ae162d7",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/e570ad21-bab4-427c-8d63-a4c96ae162d7.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E65｜一个重大的决定，我们要做视频了（附答听众提问）",
+      "date": "2022-01-28",
+      "duration_minutes": 58,
+      "link": "https://sv101.fireside.fm/66",
+      "guid": "545d3eb3-58a2-44f9-948b-ae9ceb0efff2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/545d3eb3-58a2-44f9-948b-ae9ceb0efff2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E64 | 韦伯升空看向宇宙最黑暗处，星链锁死地面天文观测",
+      "date": "2022-01-20",
+      "duration_minutes": 67,
+      "link": "https://sv101.fireside.fm/65",
+      "guid": "1840c7d7-272f-4547-8540-7d3c38b450f2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/1840c7d7-272f-4547-8540-7d3c38b450f2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E63｜揭秘Minerva：个性化教育创业公司还是新型大学？",
+      "date": "2022-01-13",
+      "duration_minutes": 43,
+      "link": "https://sv101.fireside.fm/64",
+      "guid": "4523ec7c-f0c8-4559-8657-b74bf8118187",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/4523ec7c-f0c8-4559-8657-b74bf8118187.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E62｜再谈教育创新，一所没有校园的创新型大学",
+      "date": "2022-01-05",
+      "duration_minutes": 41,
+      "link": "https://sv101.fireside.fm/63",
+      "guid": "4229dd3b-85ca-4f27-a297-c0d2891659fc",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/4229dd3b-85ca-4f27-a297-c0d2891659fc.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E61｜有了第三针与新冠特效药，为什么Omicron还是值得担心？",
+      "date": "2021-12-22",
+      "duration_minutes": 61,
+      "link": "https://sv101.fireside.fm/62",
+      "guid": "c090eb75-f60d-439c-925b-e1a192acbbb5",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c090eb75-f60d-439c-925b-e1a192acbbb5.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E60｜美国科技巨头为何偏好印度裔CEO？",
+      "date": "2021-12-15",
+      "duration_minutes": 51,
+      "link": "https://sv101.fireside.fm/61",
+      "guid": "e2486faa-675a-4db0-a1dc-800baa983a6b",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/e2486faa-675a-4db0-a1dc-800baa983a6b.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E59｜硅谷顶级风投陆续转型，这次是红杉",
+      "date": "2021-12-08",
+      "duration_minutes": 37,
+      "link": "https://sv101.fireside.fm/60",
+      "guid": "4bdebe62-89c7-4a65-bede-bc53ba746e93",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/4bdebe62-89c7-4a65-bede-bc53ba746e93.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "Bonus｜九分吃，一分动！三年瘦90斤的减肥心得",
+      "date": "2021-11-23",
+      "duration_minutes": 20,
+      "link": "https://sv101.fireside.fm/59",
+      "guid": "cc43a2af-cb28-4f26-9d8c-001a990e5cf1",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/cc43a2af-cb28-4f26-9d8c-001a990e5cf1.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E58｜3年300多个采访，中国互联网的沸腾新十年",
+      "date": "2021-11-21",
+      "duration_minutes": 44,
+      "link": "https://sv101.fireside.fm/58",
+      "guid": "df69f3c9-993a-4b75-a2e2-5dec560a3806",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/df69f3c9-993a-4b75-a2e2-5dec560a3806.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E57｜Zillow大牛市炒房巨亏，别把人祸甩锅人工智能",
+      "date": "2021-11-12",
+      "duration_minutes": 51,
+      "link": "https://sv101.fireside.fm/57",
+      "guid": "bd2d5abe-625a-4803-8663-a123ee33217e",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/bd2d5abe-625a-4803-8663-a123ee33217e.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E56｜再谈元宇宙，FB更名与VR内容创业那些事儿",
+      "date": "2021-11-04",
+      "duration_minutes": 52,
+      "link": "https://sv101.fireside.fm/56",
+      "guid": "1380cde2-9a9e-4ca6-b57a-e10a25eb8a1e",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/1380cde2-9a9e-4ca6-b57a-e10a25eb8a1e.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E55｜5000美元的户外沙发，谁说华人做不了高端出海品牌？",
+      "date": "2021-10-18",
+      "duration_minutes": 45,
+      "link": "https://sv101.fireside.fm/55",
+      "guid": "ddd9f39b-5709-4880-8db3-512a6d310d57",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ddd9f39b-5709-4880-8db3-512a6d310d57.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E54 无人车特辑｜追溯创新的起源，美国无人驾驶风云人物",
+      "date": "2021-09-30",
+      "duration_minutes": 60,
+      "link": "https://sv101.fireside.fm/54",
+      "guid": "b1e4adc3-642c-4a88-9b17-d5c9d596db49",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b1e4adc3-642c-4a88-9b17-d5c9d596db49.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E53｜槽点不少，我们体验完扎克伯格的“元宇宙”却被圈粉了",
+      "date": "2021-09-22",
+      "duration_minutes": 54,
+      "link": "https://sv101.fireside.fm/53",
+      "guid": "93c1f8d5-b5ea-4df3-af8c-d5a04cf02cb3",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/93c1f8d5-b5ea-4df3-af8c-d5a04cf02cb3.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E52｜电影级的商战：Epic Games挑战“苹果税”结案",
+      "date": "2021-09-14",
+      "duration_minutes": 52,
+      "link": "https://sv101.fireside.fm/52",
+      "guid": "7aa3b8a0-6fa8-45d5-a3b2-86a0821ca49a",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7aa3b8a0-6fa8-45d5-a3b2-86a0821ca49a.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E51｜他们All in的元宇宙，是下一个十年的投资机会吗？",
+      "date": "2021-09-09",
+      "duration_minutes": 36,
+      "link": "https://sv101.fireside.fm/51",
+      "guid": "b21f7a84-6b9c-4b66-932f-a2ceef3566cb",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b21f7a84-6b9c-4b66-932f-a2ceef3566cb.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E50无人车特辑｜辅助驾驶没有想象中安全，蔚来车祸谁该负责？",
+      "date": "2021-09-04",
+      "duration_minutes": 56,
+      "link": "https://sv101.fireside.fm/50",
+      "guid": "73b08aaa-ef04-4870-bae5-c2190a11579a",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73b08aaa-ef04-4870-bae5-c2190a11579a.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E49 | 人造肉，你会吃吗？",
+      "date": "2021-08-22",
+      "duration_minutes": 38,
+      "link": "https://sv101.fireside.fm/49",
+      "guid": "dc09102d-f865-4ded-8454-bacdde50e180",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/dc09102d-f865-4ded-8454-bacdde50e180.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E48 无人车特辑｜攻城，圈地！自动驾驶商业化正当时",
+      "date": "2021-08-13",
+      "duration_minutes": 60,
+      "link": "https://sv101.fireside.fm/48",
+      "guid": "1a180a18-7393-40a5-870b-f83dc0cad248",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/1a180a18-7393-40a5-870b-f83dc0cad248.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E47｜AlphaFold攻破生物学50年难题，碳基创新开始加速度了",
+      "date": "2021-08-05",
+      "duration_minutes": 45,
+      "link": "https://sv101.fireside.fm/47",
+      "guid": "0132ac96-6235-4183-8073-2180f18a1ce5",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0132ac96-6235-4183-8073-2180f18a1ce5.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E46｜揭秘比尔·盖茨突破能源：重金押注高风险零碳经济",
+      "date": "2021-07-29",
+      "duration_minutes": 54,
+      "link": "https://sv101.fireside.fm/46",
+      "guid": "f29b0de5-d36c-419b-bffb-b2103742f7df",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f29b0de5-d36c-419b-bffb-b2103742f7df.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E45｜下一站，太空！美国亿万富翁的太空竞赛",
+      "date": "2021-07-20",
+      "duration_minutes": 56,
+      "link": "https://sv101.fireside.fm/45",
+      "guid": "fcca60d7-25d0-439e-a745-2de71e79b7c2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fcca60d7-25d0-439e-a745-2de71e79b7c2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E44无人车特辑｜特斯拉自动驾驶到底怎么样？",
+      "date": "2021-07-15",
+      "duration_minutes": 52,
+      "link": "https://sv101.fireside.fm/44",
+      "guid": "fe2d7c7d-8917-453b-b61f-b795c3328c85",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fe2d7c7d-8917-453b-b61f-b795c3328c85.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E43无人车特辑｜通用加码，Cruise 50亿美元量产无人车",
+      "date": "2021-07-09",
+      "duration_minutes": 44,
+      "link": "https://sv101.fireside.fm/43",
+      "guid": "b8220ff2-3686-4987-a189-aefe3dc1772e",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b8220ff2-3686-4987-a189-aefe3dc1772e.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E42｜马斯克的加密货币局",
+      "date": "2021-07-01",
+      "duration_minutes": 47,
+      "link": "https://sv101.fireside.fm/42",
+      "guid": "223c5d43-d071-4252-9996-e16728bc4d52",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/223c5d43-d071-4252-9996-e16728bc4d52.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E41无人车特辑｜解析Waymo：高管离职潮后，为何还能融资25亿美元",
+      "date": "2021-06-25",
+      "duration_minutes": 55,
+      "link": "https://sv101.fireside.fm/41",
+      "guid": "8cc1c233-5987-4348-9ec6-4a7e6dd03f86",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8cc1c233-5987-4348-9ec6-4a7e6dd03f86.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E40 无人车特辑｜中国无人驾驶风云榜与江湖往事",
+      "date": "2021-06-19",
+      "duration_minutes": 57,
+      "link": "https://sv101.fireside.fm/40",
+      "guid": "c4a9a711-b467-42a5-bdaf-a8d4aaf6a5a2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c4a9a711-b467-42a5-bdaf-a8d4aaf6a5a2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E39｜VR将迎来iPhone式大爆发？还有这几个瓶颈",
+      "date": "2021-06-09",
+      "duration_minutes": 56,
+      "link": "https://sv101.fireside.fm/39",
+      "guid": "7ede93d9-b2c4-4a1d-b156-8fe201f0fff4",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7ede93d9-b2c4-4a1d-b156-8fe201f0fff4.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E38 ｜争议ADE效应，新冠疫苗的常识与科学",
+      "date": "2021-06-02",
+      "duration_minutes": 47,
+      "link": "https://sv101.fireside.fm/38",
+      "guid": "cb088a72-61d9-4c7e-b5fb-340723e85d79",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/cb088a72-61d9-4c7e-b5fb-340723e85d79.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E37｜挑战传统教育，创新性学校新在哪里？",
+      "date": "2021-05-26",
+      "duration_minutes": 51,
+      "link": "https://sv101.fireside.fm/37",
+      "guid": "9007ff6f-c227-4c2e-943f-55a8da00dd43",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9007ff6f-c227-4c2e-943f-55a8da00dd43.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E36｜Roblox启示录：人人都是游戏创作者",
+      "date": "2021-05-17",
+      "duration_minutes": 58,
+      "link": "https://sv101.fireside.fm/36",
+      "guid": "6406f62d-618e-4d55-a6ca-b5b2c0e8d0b7",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6406f62d-618e-4d55-a6ca-b5b2c0e8d0b7.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E35｜最受硅谷大佬追捧的AltSchool终落幕，教育创新怎么这么难",
+      "date": "2021-05-10",
+      "duration_minutes": 57,
+      "link": "https://sv101.fireside.fm/35",
+      "guid": "44e86809-c612-4c5d-942a-6626885957ee",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/44e86809-c612-4c5d-942a-6626885957ee.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E34｜硅谷企业出逃潮，奥斯汀为何成为科技新宠？",
+      "date": "2021-04-30",
+      "duration_minutes": 50,
+      "link": "https://sv101.fireside.fm/34",
+      "guid": "3d80353a-048c-4982-bc33-490afc8f659e",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3d80353a-048c-4982-bc33-490afc8f659e.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E33｜图森上市，聊聊自动驾驶行业的投资逻辑",
+      "date": "2021-04-20",
+      "duration_minutes": 42,
+      "link": "https://sv101.fireside.fm/33",
+      "guid": "0d793167-10f8-497b-9ec6-571cd81aef36",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0d793167-10f8-497b-9ec6-571cd81aef36.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "S2E32 | 一夜跻身全球第三大艺术富豪，聊聊NFT背后的大玩家们",
+      "date": "2021-04-13",
+      "duration_minutes": 56,
+      "link": "https://sv101.fireside.fm/32",
+      "guid": "f3c360a8-6ff3-46e6-b6c3-312ad28f2208",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f3c360a8-6ff3-46e6-b6c3-312ad28f2208.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "31: 《赛博朋克2077》之重新定义VR：眩晕早已成为过去式",
+      "date": "2021-01-05",
+      "duration_minutes": 30,
+      "link": "https://sv101.fireside.fm/31",
+      "guid": "f1a09dc4-de61-49d6-9909-64c30c55fd9b",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f1a09dc4-de61-49d6-9909-64c30c55fd9b.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "30: 《赛博朋克2077》之云体验，谷歌亚马逊为何接连发力云游戏？",
+      "date": "2021-01-04",
+      "duration_minutes": 41,
+      "link": "https://sv101.fireside.fm/30",
+      "guid": "e9e83251-54c6-4145-900d-708f8f6dc9e7",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/e9e83251-54c6-4145-900d-708f8f6dc9e7.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "29:  文明之光还是文明之锁？马斯克的星链公测了",
+      "date": "2020-11-09",
+      "duration_minutes": 56,
+      "link": "https://sv101.fireside.fm/29",
+      "guid": "880cc87d-48e5-40b1-b670-24c2d231a474",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/880cc87d-48e5-40b1-b670-24c2d231a474.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "28: 先工作再付学费，这所编程学校正在挑战美国教育体系",
+      "date": "2020-10-03",
+      "duration_minutes": 56,
+      "link": "https://sv101.fireside.fm/28",
+      "guid": "9b85f93a-5349-41b9-aa71-149dc600ae56",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9b85f93a-5349-41b9-aa71-149dc600ae56.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "27: 半年两轮融资，疫情中崛起的生鲜电商Weee!",
+      "date": "2020-08-21",
+      "duration_minutes": 48,
+      "link": "https://sv101.fireside.fm/27",
+      "guid": "ccc2699e-6d5e-42e7-b167-c2c9c09549c8",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ccc2699e-6d5e-42e7-b167-c2c9c09549c8.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "26: 禁微信TikTok违宪吗？三一重工曾这样打赢奥巴马",
+      "date": "2020-08-11",
+      "duration_minutes": 35,
+      "link": "https://sv101.fireside.fm/26",
+      "guid": "118ff03f-8f43-43d7-864f-c7054ffb9fc6",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/118ff03f-8f43-43d7-864f-c7054ffb9fc6.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "25: 未来需要哪些汽车人才，先从车厂的变化说起",
+      "date": "2020-08-07",
+      "duration_minutes": 36,
+      "link": "https://sv101.fireside.fm/25",
+      "guid": "152a6c47-bf1f-43a2-b1b2-cfa433505e53",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/152a6c47-bf1f-43a2-b1b2-cfa433505e53.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "24: 印度市场绝地求生？不如看看游戏出海的全球版图",
+      "date": "2020-07-31",
+      "duration_minutes": 37,
+      "link": "https://sv101.fireside.fm/24",
+      "guid": "82ea1651-27ab-41c4-adf5-dad2fb07075d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/82ea1651-27ab-41c4-adf5-dad2fb07075d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "23: 人工智能又一里程碑式突破，GPT-3红了",
+      "date": "2020-07-25",
+      "duration_minutes": 56,
+      "link": "https://sv101.fireside.fm/23",
+      "guid": "a9c958f3-e206-4455-baa4-f8a118bf8cb8",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a9c958f3-e206-4455-baa4-f8a118bf8cb8.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "22: 经济学家错了？疫情时代的硅谷房价",
+      "date": "2020-07-16",
+      "duration_minutes": 52,
+      "link": "https://sv101.fireside.fm/22",
+      "guid": "a94fc730-4ddc-487c-be98-aedbad9d4415",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a94fc730-4ddc-487c-be98-aedbad9d4415.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "21: 从波士顿到硅谷，人工智能如何改变制药？",
+      "date": "2020-07-02",
+      "duration_minutes": 27,
+      "link": "https://sv101.fireside.fm/21",
+      "guid": "853cd55e-d377-4f5f-b26d-c27f25d1bf56",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/853cd55e-d377-4f5f-b26d-c27f25d1bf56.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "20: Jack Dorsey与硅谷精神回归：社交规则、慈善与加密货币",
+      "date": "2020-06-24",
+      "duration_minutes": 32,
+      "link": "https://sv101.fireside.fm/20",
+      "guid": "8eee9433-c40a-43f1-b4ba-3c07cbf839bd",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8eee9433-c40a-43f1-b4ba-3c07cbf839bd.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "19: Jack Dorsey与硅谷精神的回归：重新理解Twitter",
+      "date": "2020-06-21",
+      "duration_minutes": 44,
+      "link": "https://sv101.fireside.fm/19",
+      "guid": "647ac8b3-b567-412a-97ba-0f0659af8dc2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/647ac8b3-b567-412a-97ba-0f0659af8dc2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "18: 后软银时代，谁在硅谷买买买？",
+      "date": "2020-06-10",
+      "duration_minutes": 34,
+      "link": "https://sv101.fireside.fm/18",
+      "guid": "bb8ca96a-bcd7-4eaa-b190-47ecf37da17d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/bb8ca96a-bcd7-4eaa-b190-47ecf37da17d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "17: 我们的征途是星辰大海：从Space X看太空商业怎么玩",
+      "date": "2020-06-04",
+      "duration_minutes": 48,
+      "link": "https://sv101.fireside.fm/17",
+      "guid": "e2d666fd-ff30-4741-8062-f2ed090d7483",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/e2d666fd-ff30-4741-8062-f2ed090d7483.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "16: 同是共享出行，为什么Uber大裁员，滴滴却还没有？",
+      "date": "2020-05-29",
+      "duration_minutes": 37,
+      "link": "https://sv101.fireside.fm/16",
+      "guid": "3002f88b-8353-4af6-b673-3c90ebddbdef",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3002f88b-8353-4af6-b673-3c90ebddbdef.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "15: 美国大学的生与死（文化篇）",
+      "date": "2020-05-16",
+      "duration_minutes": 33,
+      "link": "https://sv101.fireside.fm/15",
+      "guid": "2b2abe55-dc07-4f0d-9e10-77b4c2ad50c8",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/2b2abe55-dc07-4f0d-9e10-77b4c2ad50c8.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "14: 美国大学的生与死（现象篇）",
+      "date": "2020-05-14",
+      "duration_minutes": 34,
+      "link": "https://sv101.fireside.fm/14",
+      "guid": "987ef1b8-d24b-455f-b2d8-5c8ab4d11cf2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/987ef1b8-d24b-455f-b2d8-5c8ab4d11cf2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "13: 直播在美国为什么还没火？中美网红生态大比拼",
+      "date": "2020-05-07",
+      "duration_minutes": 52,
+      "link": "https://sv101.fireside.fm/13",
+      "guid": "659b6d2c-92e9-46b8-8af6-02ec6a9010b7",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/659b6d2c-92e9-46b8-8af6-02ec6a9010b7.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "12: 美油期货为何跌至负数？",
+      "date": "2020-04-29",
+      "duration_minutes": 32,
+      "link": "https://sv101.fireside.fm/12",
+      "guid": "5f0e323d-3430-4715-a34f-465df2a4c92d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5f0e323d-3430-4715-a34f-465df2a4c92d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "11: 十年过去了，中概股斗空头发生了什么变化?",
+      "date": "2020-04-22",
+      "duration_minutes": 43,
+      "link": "https://sv101.fireside.fm/11",
+      "guid": "09d6b647-7758-40d0-8cda-c41fd8ccdb65",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/09d6b647-7758-40d0-8cda-c41fd8ccdb65.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "10: 好莱坞+硅谷，美国最受关注的短视频公司Quibi初印象",
+      "date": "2020-04-15",
+      "duration_minutes": 51,
+      "link": "https://sv101.fireside.fm/10",
+      "guid": "3fe31ec0-7ab7-46f9-a3ed-0a4d2ae4fc83",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3fe31ec0-7ab7-46f9-a3ed-0a4d2ae4fc83.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "09: 我如何在中美两地合法种植大麻？",
+      "date": "2020-04-08",
+      "duration_minutes": 53,
+      "link": "https://sv101.fireside.fm/09",
+      "guid": "8838892d-f88d-4731-a456-da0cb2072cf2",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8838892d-f88d-4731-a456-da0cb2072cf2.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "08: 美国疫情高峰两周了，口罩去哪儿了？",
+      "date": "2020-04-03",
+      "duration_minutes": 51,
+      "link": "https://sv101.fireside.fm/08",
+      "guid": "cdad210e-dba0-458e-8b04-a063d31e7e96",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/cdad210e-dba0-458e-8b04-a063d31e7e96.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "07: 停课之后，美国在线教育平台玩得转吗",
+      "date": "2020-03-26",
+      "duration_minutes": 25,
+      "link": "https://sv101.fireside.fm/07",
+      "guid": "211a5d5c-f256-4ece-8653-68b759bb8571",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/211a5d5c-f256-4ece-8653-68b759bb8571.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "06: 我所经历的三次经济危机",
+      "date": "2020-03-19",
+      "duration_minutes": 39,
+      "link": "https://sv101.fireside.fm/06",
+      "guid": "a80c918c-9357-4339-8358-91abdd0c64cf",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a80c918c-9357-4339-8358-91abdd0c64cf.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "05: 美股暴跌背后的石油价格战是什么？",
+      "date": "2020-03-12",
+      "duration_minutes": 40,
+      "link": "https://sv101.fireside.fm/05",
+      "guid": "65bb4582-30fb-4711-bd10-c2a1088c8c37",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/65bb4582-30fb-4711-bd10-c2a1088c8c37.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "04: 中美文娱业战“疫”下的危与机",
+      "date": "2020-03-04",
+      "duration_minutes": 37,
+      "link": "https://sv101.fireside.fm/04",
+      "guid": "41142755-d387-48da-b55b-9fed991b806d",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/41142755-d387-48da-b55b-9fed991b806d.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "03: 中国资本硅谷投资受限？去加拿大试试",
+      "date": "2020-02-26",
+      "duration_minutes": 40,
+      "link": "https://sv101.fireside.fm/03",
+      "guid": "6410be38-f836-4019-bf22-067cf17c603f",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6410be38-f836-4019-bf22-067cf17c603f.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "02: “妖股”特斯拉与摇滚马斯克",
+      "date": "2020-02-18",
+      "duration_minutes": 44,
+      "link": "https://sv101.fireside.fm/02",
+      "guid": "8f7b30af-a95b-4878-ba39-09e2a73d4578",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8f7b30af-a95b-4878-ba39-09e2a73d4578.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    },
+    {
+      "title": "01: 硅谷不止有“硅基科学”，生物医疗大有赶超之势？",
+      "date": "2020-02-10",
+      "duration_minutes": 57,
+      "link": "https://sv101.fireside.fm/01",
+      "guid": "dd40d99b-2705-4f2d-9e75-eedb18243160",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/dd40d99b-2705-4f2d-9e75-eedb18243160.mp3",
+      "youtube_id": "",
+      "youtube_url": ""
+    }
+  ],
+  "youtube_videos": [
+    {
+      "id": "cB_X6AImPjQ",
+      "title": "“榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场"
+    },
+    {
+      "id": "Hq4jFGd4YxE",
+      "title": "对话叶奇意：“寻找”月之暗面杨植麟、中国两代AI、十年人才迁徙，与AGI信仰"
+    },
+    {
+      "id": "jXZGeF6sJOc",
+      "title": "“万能”的AI，为什么偏偏搞不定足球？"
+    },
+    {
+      "id": "tnvyMcmtAiw",
+      "title": "对话Vincent Koc：OpenClaw的反思与进化，中国的“小龙虾”狂热，与Agent的下一步"
+    },
+    {
+      "id": "nilNLfW7izg",
+      "title": "SK海力士崛起史：一个荒诞又狗血的财阀故事，如何卡住全球AI的脖子"
+    },
+    {
+      "id": "i0t3RyLILnw",
+      "title": "国际足联腐败史：英国老头、足球的权力共生网络与“免死金牌”"
+    },
+    {
+      "id": "ULi-TCF2cQE",
+      "title": "美国AI研究员的中国之旅：年轻人，追赶者，算力焦虑与“AGI展示厅” ｜专访Nathan Lambert【101视频播客】"
+    },
+    {
+      "id": "erIEZkMd9_w",
+      "title": "当FIFA遇到美国：世界杯，太赚了！"
+    },
+    {
+      "id": "nWc1tpQnhqY",
+      "title": "对话王熙乔：AI时代的教育者、十年沉浮，与人类文明的下一步"
+    },
+    {
+      "id": "y2bZdXZBeBc",
+      "title": "AI时代“超级高中生” 、大学外的第三种可能与中国创新教育｜探访北京探月学校"
+    },
+    {
+      "id": "hIdvhl8PUwc",
+      "title": "库克的离场，苹果新AI权力重构与价值观天平｜WWDC26"
+    },
+    {
+      "id": "x2meJPOn9ws",
+      "title": "SpaceX崛起史：一切，为了去火星｜实地探访星舰基地与总部"
+    },
+    {
+      "id": "MIyEX1WOuJI",
+      "title": "“没有她，SpaceX早倒闭了”：全世界最有权力的女性工程师是如何炼成的"
+    },
+    {
+      "id": "F7oNfszczVc",
+      "title": "再访田渊栋：46.5亿美金估值的RSI，与AI自进化｜Neolabs特辑【101视频播客】"
+    },
+    {
+      "id": "eAYx6CHstNw",
+      "title": "对话高通：智能体爆发、6G与Physical AI背后的大赢家"
+    },
+    {
+      "id": "DZIhQeFEdXI",
+      "title": "拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶｜机器人特辑"
+    },
+    {
+      "id": "1Rh7Zwd7Vx0",
+      "title": "对话教育大咖：当AI开始重新定义“能力”，教育还会一样吗？"
+    },
+    {
+      "id": "HqsTB0avrh8",
+      "title": "“人类史上最大IPO”：SpaceX靠的不只是火箭了？"
+    },
+    {
+      "id": "cqW_VWYbIcU",
+      "title": "谷歌AI的14年、Gemini翻身之战，与视觉理解模型：专访DeepMind前核心科学家Andrew Dai｜Neolabs特辑"
+    },
+    {
+      "id": "ZvHIuIIZ3Is",
+      "title": "揭秘数采工厂：稀缺的机器人数据，到底难在哪儿？｜机器人特辑"
+    },
+    {
+      "id": "ppRvzPXGpEw",
+      "title": "Token经济学：AI时代的新货币战争"
+    },
+    {
+      "id": "HLJdElh2tFc",
+      "title": "“AI弃子”CPU逆风翻盘：英特尔、AMD与ARM意料之外的一场胜利"
+    },
+    {
+      "id": "oU_V5GlHq7I",
+      "title": "中国机器人的全球化野心、“踢馆”硅谷，及Physical AI的爆发准备：对话魔法原子"
+    },
+    {
+      "id": "jn_H3vuUC6E",
+      "title": "吞噬爱马仕：豪门恩怨、世纪资本恶战与凭空消失的百亿股份"
+    },
+    {
+      "id": "CIDVbaXWp64",
+      "title": "硅谷看DeepSeek V4：模型大战、Token Efficiency、算力突围与AGI必经之路【硅谷101视频播客】"
+    },
+    {
+      "id": "7D_8zimKtB4",
+      "title": "探秘全球最大私人金库：黄金东移潮、战争、衰退危机与“Plan B”"
+    },
+    {
+      "id": "JGiguIv6m8s",
+      "title": "智能体社交革命：AI Agent是怎么来到你我身边的？"
+    },
+    {
+      "id": "8pncy425QqQ",
+      "title": "“杭州六小龙”首个IPO、空间智能与AI的下一步：对话群核科技创始人黄晓煌"
+    },
+    {
+      "id": "tzEWYNQmnmc",
+      "title": "AI救活了一家马桶公司，也点燃了存储芯片超级周期"
+    },
+    {
+      "id": "kjqOsLdvSFg",
+      "title": "Physical Intelligence与机器人开源革命：“免费大脑”背后的四派力量与博弈｜机器人特辑"
+    },
+    {
+      "id": "B3wJuvYjLu0",
+      "title": "深度解析2026 GTC：英伟达万亿订单背后的AI大爆发、Token经济学与失衡供应链"
+    },
+    {
+      "id": "HjopX519nXg",
+      "title": "英伟达GTC上，迪士尼“复活了”雪宝机器人【101 Shorts】"
+    },
+    {
+      "id": "jnYWv_0MzBw",
+      "title": "滑雪金融化困局：“天才商业模式”通票的变革与反噬"
+    },
+    {
+      "id": "9mpazu2K3qU",
+      "title": "“最虐运动”HYROX火爆全球：中产的荷尔蒙与上亿美元生意经"
+    },
+    {
+      "id": "CsB4ZYYgHrs",
+      "title": "当“老钱”开始玩DeFi：BlackRock如何切入68万亿链上新市场？"
+    },
+    {
+      "id": "SYuSZIIYOfI",
+      "title": "全面解析“世界模型”：定义、路线、实践与AGI的更近一步"
+    },
+    {
+      "id": "EwxEwpGvjpY",
+      "title": "都2026年了，为什么ASML还在研究“上一代”DUV？"
+    },
+    {
+      "id": "ZDXIUO7CRzo",
+      "title": "揭秘春晚小品机器人：与松延动力聊对戏、空翻、仿生背后的技术进化｜机器人系列"
+    },
+    {
+      "id": "18qSqzTdnbs",
+      "title": "AppLovin撕开巨头裂缝的1000天：AI审判、被做空与Underdog的“弱者之心”【硅谷101专访】"
+    },
+    {
+      "id": "j13RPyHHCWk",
+      "title": "好莱坞的诅咒与Netflix的十年征服史，深扒华纳兄弟收购案始末｜传媒巨头系列"
+    },
+    {
+      "id": "VJgIENvy14k",
+      "title": "数据中心上太空？新的泡沫，还是下一个金矿？"
+    },
+    {
+      "id": "thUc2wdtUTY",
+      "title": "算法选中的“绿色黄金”：抹茶全球爆火背后的商业逆袭史"
+    },
+    {
+      "id": "Hemlsyob1Ng",
+      "title": "CES 2026：探展50个AI项目背后的泡沫、野心与非共识"
+    },
+    {
+      "id": "Xj6W71Gt1-w",
+      "title": "探展CES 2026：与吉利聊聊开始“读懂”世界的汽车，与Physical AI的“GPT时刻”【赞助】"
+    },
+    {
+      "id": "g5hw1HZfwTc",
+      "title": "机器人“大脑”60年进化史：基础模型的五代进化与三大闭源流派｜机器人特辑"
+    },
+    {
+      "id": "bO6xBjIx9JQ",
+      "title": "脑机接口大盘点：从科幻到现实，谁在引领这场“读心术”革命?"
+    },
+    {
+      "id": "dOlQZnjMriI",
+      "title": "专访Bryan Johnson：“换血富豪”的“不死”抗衰实验与商业版图"
+    },
+    {
+      "id": "qs0ovkaacls",
+      "title": "2025年，人形机器人走到哪一步了？｜机器人系列｜具身智能年度盘点"
+    },
+    {
+      "id": "f41vPIkpYh4",
+      "title": "派拉蒙百年兴衰史：80亿卖身甲骨文背后的传媒帝国大洗牌｜传媒巨头系列"
+    },
+    {
+      "id": "hfiI8taHQcg",
+      "title": "阿里千问与“AI Layer”崛起：一场重塑互联网的“操作系统”生态战"
+    },
+    {
+      "id": "-_JDc0XYsB4",
+      "title": "AI云端狂想曲：亚马逊云科技的算力突围、Agent重构与卓越运营"
+    },
+    {
+      "id": "ChYacMSR-yk",
+      "title": "Swatch危机：瑞士钟表的昔日骄傲与美国“野蛮人”"
+    },
+    {
+      "id": "vZ1kAuU_ogw",
+      "title": "硅谷教育颠覆者发出警告：AI将淘汰不愿改革的学校｜硅谷101年度线下大会（全英）"
+    },
+    {
+      "id": "reCHpD4yDfQ",
+      "title": "AI最烧钱的战场：数据中心的真实账单"
+    },
+    {
+      "id": "2TV2jMaIcak",
+      "title": "“人造肉”千亿赛道的坍塌：资本的幻想与精英主义的泡沫"
+    },
+    {
+      "id": "bnIHrenhFpc",
+      "title": "AI的下一步：强化学习是正确的AGI解法吗？｜硅谷101年度线下大会｜Alignment 2025"
+    },
+    {
+      "id": "EsaUQNx59vA",
+      "title": "专访前FAIR研究总监田渊栋：Meta裁员之后，对AI的一些遗憾与思考【对话】"
+    },
+    {
+      "id": "0mrko3cYqBs",
+      "title": "失衡的乌托邦：Meta的开源AI路线是如何遭遇滑铁卢的"
+    },
+    {
+      "id": "zR9tvIE_P-w",
+      "title": "给AI一个“身体”：3D数字人是具身智能的解法？｜机器人系列"
+    },
+    {
+      "id": "oX9RYxoX1rs",
+      "title": "诺奖得主们的AI用法跟咱们有什么不一样？｜直击AIAS 2025峰会"
+    },
+    {
+      "id": "FueX88st2OQ",
+      "title": "美国硅谷是怎么看人形机器人的｜硅谷101年度线下大会｜Alignment 2025（全英）"
+    },
+    {
+      "id": "EUsIYVtt3y0",
+      "title": "LMArena：谁是AI之王，凭什么这个评测说了算？"
+    },
+    {
+      "id": "8ndEN6VVlUw",
+      "title": "英伟达“两个儿子”之战：AI算力的杠杆游戏与潜在泡沫【深度】｜Coreweave｜Nebius｜Neocloud"
+    },
+    {
+      "id": "7d2QdCv4qNU",
+      "title": "穿越热潮周期，硬技术公司的生存之道｜侯晓迪硅谷101年度线下大会演讲（全英）｜Alignment 2025"
+    },
+    {
+      "id": "ukR7dvFWnIQ",
+      "title": "AI解决了我的4万封未读邮件｜101 Weekly｜AI应用实验室"
+    },
+    {
+      "id": "7fvQr224cGY",
+      "title": "杠杆、垄断和泡沫：解析硅谷万亿资本闭环｜101 Weekly"
+    },
+    {
+      "id": "9RMvKWHgyF8",
+      "title": "当机器人学会开可乐：深聊灵巧手的“不可能三角”与六大技术门派｜机器人特辑"
+    },
+    {
+      "id": "MDNtfUTNvb4",
+      "title": "走出硅谷，我们去看看国际贸易的“ChatGPT时刻”｜101 Weekly｜AI应用实验室"
+    },
+    {
+      "id": "TYOw0FHxdNQ",
+      "title": "预测未来，还是操纵未来？Polymarket的崛起之路与争议【深度】"
+    },
+    {
+      "id": "uLYNDk-QnKg",
+      "title": "从爆火Nano Banana，聊谷歌AI多模态五大主线布局 ｜101 Weekly｜AI应用实验室"
+    },
+    {
+      "id": "IarvTAnKRek",
+      "title": "与KlingAI聊聊：三次技术进化如何重构全球创意生态｜101 Weekly｜AI应用实验室"
+    },
+    {
+      "id": "sdsiJAyO4Fw",
+      "title": "从Perplexity对Chrome发起收购要约，深聊新一轮AI浏览器大战【101对话】"
+    },
+    {
+      "id": "YNhZbVa8RSs",
+      "title": "Github的十字路口：并入微软AI，是开源精神的终结吗？|  硅谷101全球创业大赛开启 | 101 Weekly"
+    },
+    {
+      "id": "DFyc0rFBptE",
+      "title": "失控的芬太尼：药物滥用背后的权力、金钱与死亡【深度】"
+    },
+    {
+      "id": "u0OQW2fHcb0",
+      "title": "Roblox狂飙背后：是元宇宙奇迹，还是儿童安全噩梦？｜101 Weekly"
+    },
+    {
+      "id": "pNDQGI4RFzo",
+      "title": "GE Vernova：从“没落帝国”剥离，到AI电力危机下的大赢家 | 101 Weekly"
+    },
+    {
+      "id": "LWT4zTP2DDw",
+      "title": "深聊GPT-5发布：过度营销的反噬与AI技术突破的困局"
+    },
+    {
+      "id": "Tzp0EF-sysI",
+      "title": "人类会被困在1nm吗？深度解析光刻机与芯片制程的未来【深度】"
+    },
+    {
+      "id": "PM80dmo6WgA",
+      "title": "财报季来袭，如何看AI周期的M7科技股？【101Weekly】"
+    },
+    {
+      "id": "LRA7ilkihAI",
+      "title": "股价腰斩，跌落神坛的诺和诺德错在哪一步？｜Novo Nordisk｜Eli Lilly｜GLP-1【101 Weekly】"
+    },
+    {
+      "id": "rJyFl91XYjA",
+      "title": "“幽灵光标”爆发在即？从OpenAI杀入通用AI Agent，看懂下一个万亿流量之战与四大技术流派｜ChatGPT Agent ｜Manus｜GensPark｜Pokee AI｜UiPath"
+    },
+    {
+      "id": "O1uJI8b4VHA",
+      "title": "AI拿下奥数IMO金牌，但数学界的AlphaGo时刻还没来 | 101 Weekly"
+    },
+    {
+      "id": "JeUzINMYtGo",
+      "title": "星际之门的烂尾危机：盟友分歧、融资困局与工程死结｜101 Weekly"
+    },
+    {
+      "id": "44skDPOPbgo",
+      "title": "金钱堆出的“象牙塔”：美国大学，怎么成了一门生意？【深度】"
+    },
+    {
+      "id": "5V_H6ru9J0g",
+      "title": "明星AI独角兽Windsurf被瓜分的背后：资本拉锯、背刺与共识破灭｜101 Weekly"
+    },
+    {
+      "id": "eL115sbCSeA",
+      "title": "瑞幸进军星巴克老家：$1.99的生椰拿铁能卷赢美国吗？｜101 Weekly"
+    },
+    {
+      "id": "UFQiMcK6KW4",
+      "title": "国际投行的困惑：中国新一轮千亿外卖大战“值得打”吗？｜101 Weekly"
+    },
+    {
+      "id": "HyM3Y8A4hlU",
+      "title": "不争总统争“未来”：马斯克“美国党”想振兴的不止美国｜101 Weekly"
+    },
+    {
+      "id": "u0WLX9YNV7w",
+      "title": "2025最大科技股IPO：Figma的逆袭与不成熟的AI故事｜101 Weekly"
+    },
+    {
+      "id": "OxFZjxYXBuM",
+      "title": "抢夺全球热钱：美股代币化的新“阳谋”与争议 | 101 Weekly"
+    },
+    {
+      "id": "65TkswVEd5Y",
+      "title": "从Circle火爆IPO，看稳定币与美元霸权的现代化金融战【深度】"
+    },
+    {
+      "id": "3YRpT_rG8Mc",
+      "title": "扎克伯格的“天才名单”：上亿重金能砸出Meta的AI未来吗？｜101 Weekly"
+    },
+    {
+      "id": "nAW_wygNioA",
+      "title": "数字时代崩塌的时尚权威与“帝王式主编”神话破灭：时尚女魔头Anna Wintour卸任 | 101 Weekly"
+    },
+    {
+      "id": "0vB4CiIiOYU",
+      "title": "“大而美”法案落地，美元、黄金、美股将迎巨变？｜101 Weekly"
+    },
+    {
+      "id": "8uHur4G1ZVI",
+      "title": "镜像世界、手机消失、人类爱上AI：“硅谷精神之父”凯文·凯利的2049预言【专访】"
+    },
+    {
+      "id": "F9PMHRilFiw",
+      "title": "“AI作弊”公司融资千万：2025年过半，焦虑的资本开始饥不择食了？| 101 Weekly"
+    },
+    {
+      "id": "CulDsi1kbj4",
+      "title": "“百镜大战”的尴尬真相：AI成花瓶，拍照才是真刚需？｜101 Weekly"
+    },
+    {
+      "id": "XNoOy1O44kA",
+      "title": "马斯克Robotaxi新梦想四部曲：正现金流、吊打Waymo、颠覆Uber及“卖里程”霸主｜101 Weekly"
+    },
+    {
+      "id": "H-G76kecXfY",
+      "title": "从追缉本·拉登到AI战争，解密Palantir的崛起之路【深度】"
+    },
+    {
+      "id": "w_sqBdgtIHQ",
+      "title": "OpenAI与微软面临决裂？Meta收购Scale AI打响反击战、Labubu爆火的秘密｜101 Weekly"
+    },
+    {
+      "id": "u4K7Iw41jR0",
+      "title": "苹果AI困境、特斯拉Robotaxi背水一战和海莉·比伯的10亿美妆战｜101 Weekly"
+    },
+    {
+      "id": "M1LpD1Jvt28",
+      "title": "AI语音克隆进入“零样本”时代？解析TTS模型四大流派与问鼎榜首的MiniMax"
+    },
+    {
+      "id": "-85ZV63y9PI",
+      "title": "Google I/O 2025：搜索帝国的自我革命与AI翻身仗【线下探会】"
+    },
+    {
+      "id": "h8FTJxGu_hA",
+      "title": "枪声背后的信任危机：“病不起”的美国人【深度】"
+    },
+    {
+      "id": "_f2c0eZ-N7M",
+      "title": "关税大棒下的苹果：一场全球供应链的迁徙风暴【深度】"
+    },
+    {
+      "id": "3el8ppdGnSk",
+      "title": "再聊黄仁勋“量子春晚”：只有混战、没有共识的量子计算界【深度】"
+    },
+    {
+      "id": "AGLzjvykebo",
+      "title": "没人能救大众？燃油车霸主转型困局背后的“德国病”【深度】"
+    },
+    {
+      "id": "pdcT2jwXP0s",
+      "title": "“再造一个CUDA”：英伟达的第二护城河与“超级碗”阳谋【深度解析GTC 2025】"
+    },
+    {
+      "id": "2PSCnOFkR3U",
+      "title": "AI Agent爆发前的黎明：Manus不够好，但天快亮了【深度】"
+    },
+    {
+      "id": "co9aiATA1FU",
+      "title": "当AI来到华尔街：对冲基金经理们该担心自己的饭碗吗？"
+    },
+    {
+      "id": "5DMVAqQ-dd8",
+      "title": "亲手帮忙装了台量子计算机，量子时代要来了吗？【深度】"
+    },
+    {
+      "id": "-mlOxR8loqU",
+      "title": "从顶级媒体辞职创办硅谷101，我们想做什么样的内容？【20万粉丝抽奖Q&A】"
+    },
+    {
+      "id": "b_OpjUz7zN8",
+      "title": "硅谷视角深聊：DeepSeek的颠覆、冲击、争议和误解【深度】"
+    },
+    {
+      "id": "CfxuqbB9dj4",
+      "title": "傲慢、短视、扼杀创新，垄断巨头英特尔是如何走向倒塌的？【深度】"
+    },
+    {
+      "id": "oet0hNm7ygE",
+      "title": "假酷炫还是真需求？深度探展CES 2025的AI、AR与机器人热潮【线下探会】"
+    },
+    {
+      "id": "1MLCFqyEJsA",
+      "title": "混乱、分裂、吞并：2024年AI的信仰之战【年终总结】"
+    },
+    {
+      "id": "sKVVl89pv_0",
+      "title": "Bill Hwang被判18年：复盘“上帝之手”Archegos的百亿世纪大爆仓【深度】"
+    },
+    {
+      "id": "2ydjTZeFcnM",
+      "title": "AI“入侵”生物医疗史：从暴力破解到Transformer模型三部曲"
+    },
+    {
+      "id": "iiHMALZyWyE",
+      "title": "ChatGPT两周年：全球AI应用新潮，什么才是正确的产品方向？｜OpenAI SearchGPT、Alibaba Accio、NotebookLM、Meta Movie Gen..."
+    },
+    {
+      "id": "lyAP8bRKUJo",
+      "title": "ARM风云史：软银帝国的最后王牌与孙正义的AI“新饼”"
+    },
+    {
+      "id": "S9cQj-SYFtI",
+      "title": "万卡集群的AI数据中心，到底是如何运作的？"
+    },
+    {
+      "id": "csHt6O6Tc-w",
+      "title": "增长、AI以及领导力：专访Airbnb联合创始人兼CEO Brian Chesky"
+    },
+    {
+      "id": "sQHnT0CJK4g",
+      "title": "【重磅预告】我们专访了Airbnb创始人Brian Chesky"
+    },
+    {
+      "id": "3_jOPHJ4Zk4",
+      "title": "酷炫背后，华尔街为何不买账？深度解析特斯拉Robotaxi"
+    },
+    {
+      "id": "58bS_-215vI",
+      "title": "千亿美元的喧嚣与寒冬后，无人驾驶终于要落地了？"
+    },
+    {
+      "id": "Jy5OozI1zMs",
+      "title": "自动驾驶的”端到端“AI新春天：依然分裂、冲突、孤注一掷"
+    },
+    {
+      "id": "0DooF2GGS-4",
+      "title": "椰子树、小屁孩、尬舞，Kamala Harris如何用社交媒体给特朗普带来威胁"
+    },
+    {
+      "id": "PSfdilqMxRM",
+      "title": "谎言、打压、逐利与权力游戏，波音是如何失去制造骄傲的？"
+    },
+    {
+      "id": "7F_5Z4frQhU",
+      "title": "电力公司“倒贴钱”？深聊负电价背后的商业玄机，以及清洁能源的未来"
+    },
+    {
+      "id": "97vn6b2ndJk",
+      "title": "震动的艺术：AI音乐大模型背后的技术突破、版权诉讼和资本蛋糕"
+    },
+    {
+      "id": "ESXtVv4L5aI",
+      "title": "对话百度李彦宏：AI价格战开打、大模型闭源、超级应用以及中国市场机会｜Full interview with Robin Li, Baidu's CEO"
+    },
+    {
+      "id": "KH5MmQFv-vg",
+      "title": "GameStop妖股再起风云：2024年版散户大战华尔街，只是一个人的战斗"
+    },
+    {
+      "id": "oERpVnnl0NQ",
+      "title": "平庸且保守，但苹果或是AI落地的最大赢家【深度解读WWDC 2024】"
+    },
+    {
+      "id": "vRUklb-guZ8",
+      "title": "筷子夹火箭？星舰成功溅落后，马斯克的下个目标更大胆【专访SpaceX前高管】"
+    },
+    {
+      "id": "5Dw1ZtBKoc0",
+      "title": "揭秘硅谷疯狂“抢人”内幕 ：AI精英人均“百万美元”薪酬，业界标配还是谣言？"
+    },
+    {
+      "id": "H9-wmvlW8QI",
+      "title": "“loser文化”到“AI数据金矿”：美国贴吧Reddit的19年爱恨史，及它的AI新资本故事｜Gamestop、Wallstreetbets and meme stocks"
+    },
+    {
+      "id": "JaQmSHzjlpY",
+      "title": "OpenAI与谷歌多模态重磅更新，生成式AI大战升级第二轮｜GPT-4o、Gemini、Project Astra and more"
+    },
+    {
+      "id": "6vNxFPRdrgs",
+      "title": "抢电、圈地、对赌，深聊科技巨头的千亿美元AI能源大战"
+    },
+    {
+      "id": "fk8shOuChyY",
+      "title": "与诺奖女科学家聊婚姻、教育和职场，我的人生观受到了冲击（采访完整版）"
+    },
+    {
+      "id": "30BuA94F9pQ",
+      "title": "【独家专访】诺奖得主Katalin Karikó：被威胁、冷落和打压40年后，那位“mRNA疯女人”拯救了数亿生命"
+    },
+    {
+      "id": "LyCv2Dm9A1o",
+      "title": "【深度】世纪骗局落幕：“加密货币之王”SBF的疯狂人生与FTX帝国的崩塌"
+    },
+    {
+      "id": "uCvqXv_FJtI",
+      "title": "英伟达GTC 2024: 绝对霸主的权力与遥远的野心"
+    },
+    {
+      "id": "YCH8yIxmPqc",
+      "title": "各方大佬 “大打出手”：Sora是万众期待的“世界模型”吗？(下)"
+    },
+    {
+      "id": "oWO80lkP4bs",
+      "title": "从Sora展开，全面解读AI视频大模型发展史（上）"
+    },
+    {
+      "id": "WNw0y2LuZsQ",
+      "title": "【开箱】“奇葩周边之王”马斯克：如何“不务正业”地赚上亿美元"
+    },
+    {
+      "id": "lQH1YUjY8fg",
+      "title": "【合作】为了成为下一个“硅谷”，香港也是拼了"
+    },
+    {
+      "id": "oOsBRu4gpUs",
+      "title": "【情人节特辑】人造vs.天然钻石：钻石的世纪垄断神话破灭了吗？"
+    },
+    {
+      "id": "AMHZ7LAmmVE",
+      "title": "超全CES现场探展：“韩国女团”元宇宙、“AI防打鼾”睡枕、“鸡娃神器”... 深度盘点CES 2024最火黑科技产品"
+    },
+    {
+      "id": "rFQRYnNKuVM",
+      "title": "史诗级反垄断较量：复盘Epic Games与苹果、谷歌诉讼大战始末"
+    },
+    {
+      "id": "6gosjs_exrU",
+      "title": "生成式AI这一年：从群雄混战到生态确立，世界已被改变"
+    },
+    {
+      "id": "oirHm4ov9eo",
+      "title": "拉斯维加斯百亿网红球Sphere，承载着\"纽约恶人\"豪门富二代的继承枷锁与救赎"
+    },
+    {
+      "id": "e3kbgjGrjZQ",
+      "title": "代糖致癌？深聊在禁令、政治和金钱之间反复游走的甜蜜革命｜生物科技特辑（2）"
+    },
+    {
+      "id": "PBrjx5ZFqZM",
+      "title": "四万亿美元增量机会，亚马逊云科技全面押注企业级生成式AI：更开放、更全面和更“俭约“"
+    },
+    {
+      "id": "yH3S7T93LJ4",
+      "title": "Sam Altman回归！聊聊“叛变者”的恐惧与信念：OpenAI技术灵魂人物Ilya Sutskever"
+    },
+    {
+      "id": "RMHavWOK6Ag",
+      "title": "聊聊OpenAI奇葩的架构以及董事会冲突（完整版）"
+    },
+    {
+      "id": "D0itLoNiV4s",
+      "title": "AI保守派大战激进派，我们细扒了OpenAI董事会每一位成员"
+    },
+    {
+      "id": "CfoF4HBFkKw",
+      "title": "为马斯克减重30磅的“司美格鲁肽”：毒蜥蜴，琵琶鱼，41年和数十亿美元｜生物科技特辑（1）"
+    },
+    {
+      "id": "v4-IAzU5PNc",
+      "title": "【播客】聊聊中东市场：被两场战争短期加速的创业生态"
+    },
+    {
+      "id": "gyIX0R1fzlU",
+      "title": "雨果奖花落中国，科幻如何赋能科技大爆发？2023 Chengdu WorldCon Recap: How Sci-Fi Empowered Technology Breakthroughs?"
+    },
+    {
+      "id": "-D8_AbbcT8Y",
+      "title": "“全球市值第三车企”VinFast：越南首富的美国梦，惊叹和荣耀只有16个交易日"
+    },
+    {
+      "id": "UBwHVneGiXs",
+      "title": "【硬核】在诉讼与骂名中崛起的英伟达GPU：从未停止过战斗，也没有永远的朋友"
+    },
+    {
+      "id": "6msfr-UPCFU",
+      "title": "【对话】东南亚“杀猪盘”起底：博彩、炒楼、诈骗，十年灰黑产是如何演化的？"
+    },
+    {
+      "id": "109Qtuj-SVc",
+      "title": "【对话】苹果摄影师揭秘Midjourney：如何像大师一样AI作画"
+    },
+    {
+      "id": "3Blsmf8AoUQ",
+      "title": "【深度】聊聊芭比背后的64年商业沉浮"
+    },
+    {
+      "id": "0sceIY67VLI",
+      "title": "【盘点】2023上半年最耀眼的AI公司们，泡沫正在堆积吗？（下）"
+    },
+    {
+      "id": "190uTh1S2Aw",
+      "title": "【盘点】2023上半年最耀眼的AI公司们，泡沫正在堆积吗？（上）"
+    },
+    {
+      "id": "0ZwlgZCpgyg",
+      "title": "【对话】携程梁建章：AI时代的旅游业、教育、人口经济与创新"
+    },
+    {
+      "id": "GNu8uOJNCAE",
+      "title": "苹果Vision Pro来了，聊聊科技四巨头的研发与XR行业的兴衰沉浮"
+    },
+    {
+      "id": "dLELvoFt_iA",
+      "title": "【深度】聊聊AI机器人为什么发展如此缓慢【有彩蛋哟🎉】"
+    },
+    {
+      "id": "WgjjU37q9LU",
+      "title": "【Vlog】96小时沉浸式体验2023巴菲特股东大会｜伯克希尔·哈撒韦年会特辑（3）"
+    },
+    {
+      "id": "uKFErmlIJCM",
+      "title": "【深度】聊聊巴菲特如何成为“银行救世主”｜伯克希尔·哈撒韦年会特辑（2）"
+    },
+    {
+      "id": "RiyogPIu508",
+      "title": "【深度】聊聊99岁的芒格与巴菲特的四位继承人 ｜伯克希尔·哈撒韦年会特辑（1）【有彩蛋🎉】"
+    },
+    {
+      "id": "mEnhPDCttBs",
+      "title": "【深度】OpenAI成长史：顶级资本的冲突与科技大佬们的理想主义"
+    },
+    {
+      "id": "iIx3omM1Wzk",
+      "title": "【独家对话】SpaceX星舰空中爆炸，人类却离火星更近了【SpaceX前高管解读Starship发射】"
+    },
+    {
+      "id": "Ld1aY3u9whE",
+      "title": "【深度】聊聊OpenAI和出逃的“AI叛徒”们 ｜ChatGPT特辑（3）（结尾有彩蛋哟）"
+    },
+    {
+      "id": "BYJIiATiNYY",
+      "title": "【突发】复盘硅谷银行挤兑危机全过程：从“科技圈标配”到倒闭的48小时"
+    },
+    {
+      "id": "OpP089WElrM",
+      "title": "【独家采访】ChatGPT与人类未来：AI茧房、安全漏洞与未知的社会形态｜ChatGPT特辑（2）"
+    },
+    {
+      "id": "UQQfsyBm5Qs",
+      "title": "【深度】聊聊ChatGPT这一战，科技巨头将重新洗牌 【结尾有彩蛋🎉】｜ChatGPT特辑 (1)"
+    },
+    {
+      "id": "ZLnwwo5P5jM",
+      "title": "【深度】聊聊美国巨头都扶不起的直播电商，“中国队”出海能赢吗？ ｜电商出海特辑（3）"
+    },
+    {
+      "id": "B-9HeQ8Wtn8",
+      "title": "【深度】中国电商出海20年：从环球资源到兰亭集势、再到Shein，Made in China如何被改变？| 电商特辑（2）Ep.23"
+    },
+    {
+      "id": "cr9T-X7fNgY",
+      "title": "【深度】聊聊拼多多Temu: 出海美国的顶级市场营销案例 | 电商特辑（1）Ep.22"
+    },
+    {
+      "id": "upGdHFUkePs",
+      "title": "【深度】华尔街顶级投行的世纪败局：孙正义的“白手套”、被Bill Hwang“坑骗”、转型失败、风控失效，瑞士信贷是时代的替罪羔羊吗？Ep.21"
+    },
+    {
+      "id": "bikuUxwHh4g",
+      "title": "【独家故事】2000年科技泡沫裁员回忆录"
+    },
+    {
+      "id": "e2hzxGt8FuM",
+      "title": "【突发】Meta脸书史上最大规模裁员、扎克伯格道歉，硅谷裁员潮有多糟？"
+    },
+    {
+      "id": "1vcXdc_2cYY",
+      "title": "【突发】11月美联储再加息、科技股大崩盘，扎克伯克还要死磕元宇宙？"
+    },
+    {
+      "id": "P4y6JBmLHps",
+      "title": "【突发】马斯克收购推特聊天记录曝光：世界首富的瞬间上头或意味着百亿美元惨痛代价"
+    },
+    {
+      "id": "gNQAhE316Nw",
+      "title": "【深度】软银“断尾”与孙正义的赌徒人生"
+    },
+    {
+      "id": "UnMm4T9_f-s",
+      "title": "【深度】实测马斯克星链计划：如何从一个成功率为0的生意，变成一场太空争霸赛？"
+    },
+    {
+      "id": "npupDsWSUpg",
+      "title": "【深度】当“健身”遇上元宇宙，比刘耕宏还要强？"
+    },
+    {
+      "id": "7psA84GHgEM",
+      "title": "【重磅】宇宙深处的奥秘，詹姆斯韦伯科学团队解析全彩星空"
+    },
+    {
+      "id": "JDZiRbsl62s",
+      "title": "【深度】2022的硅谷寒冬: 估值体系崩塌、泡沫破灭，过去十年发生了什么？"
+    },
+    {
+      "id": "KJ27tsVrMJc",
+      "title": "【深度】谷歌的人工智能拥有了灵魂？依恋AI机器人，人类为什么好骗？"
+    },
+    {
+      "id": "CKtKJbXk3Xs",
+      "title": "【深度】巴菲特vs.木头姐，注定的周期魔咒 （下）"
+    },
+    {
+      "id": "S8ei-OMMaKk",
+      "title": "【深度】巴菲特vs.木头姐，注定周期魔咒 （上）"
+    },
+    {
+      "id": "c7Dcdoi5Io8",
+      "title": "马斯克旗下的推特，滑向深渊还是拥抱加密未来？"
+    },
+    {
+      "id": "p2tDQAwIGeE",
+      "title": "【深度解析】拉锯中概股，一个时代的结束？"
+    },
+    {
+      "id": "KVMUJ7iVyek",
+      "title": "闹翻欧美投资娱乐圈的NFT，是什么？"
+    }
+  ],
+  "matched_count": 0
+}

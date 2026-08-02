@@ -88,6 +88,16 @@ CHINESE_PODCAST_NAMES = frozenset(
         "张小珺商业访谈录",
         "Practical Investments",
         "投资实战派",
+        "Silicon Valley 101",
+        "硅谷101",
+    }
+)
+
+CHINESE_ZH_PODCAST_NAMES = frozenset(
+    {
+        "张小珺商业访谈录",
+        "投资实战派",
+        "硅谷101",
     }
 )
 
@@ -97,7 +107,9 @@ ABSOLUTE_MIN_LINES = 400
 
 
 def is_chinese_episode_id(episode_id: str) -> bool:
-    return episode_id in CHINESE_EPISODE_IDS or episode_id.startswith(("zj-ep", "tzs-ep"))
+    return episode_id in CHINESE_EPISODE_IDS or episode_id.startswith(
+        ("zj-ep", "tzs-ep", "sv101-")
+    )
 
 
 def is_chinese_podcast_data(data: dict[str, Any]) -> bool:
@@ -236,7 +248,7 @@ def assess_transcript(episode_id: str, *, duration_minutes: int | None = None) -
 
 def assess_summary_quotes(data: dict[str, Any], transcript: str) -> list[str]:
     issues: list[str] = []
-    locale = "zh" if data.get("podcast") in {"张小珺商业访谈录", "投资实战派"} else "en"
+    locale = "zh" if data.get("podcast") in CHINESE_ZH_PODCAST_NAMES else "en"
     quotes = data.get("golden_quotes") or []
     for i, quote in enumerate(quotes, start=1):
         if not quote_supported_in_transcript(str(quote), transcript):
@@ -259,7 +271,7 @@ def require_transcript_gate(
 
     if check_quotes and data is not None:
         podcast = str(data.get("podcast", ""))
-        if podcast not in {"张小珺商业访谈录", "投资实战派"}:
+        if podcast not in CHINESE_ZH_PODCAST_NAMES:
             return
         path = transcript_path(episode_id)
         body = load_transcript_body(path)

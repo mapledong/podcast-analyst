@@ -1,0 +1,133 @@
+{
+  "episode_id": "sv101-ep191",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 191,
+    "title": "FIFA Corruption History: The British Reporter, Football's Power Symbiosis Network, and the 'Get-Out-of-Jail-Free Card'",
+    "guest": "Andrew Jennings et al. (archival figures)",
+    "guest_role": "BBC investigative reporter · U.S. DOJ/FBI/IRS probe chain · FIFA power figures including Blatter and Platini",
+    "date": "2026-07-25",
+    "duration_minutes": 80,
+    "youtube_url": "https://www.youtube.com/watch?v=i0t3RyLILnw",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=i0t3RyLILnw",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:FIFA",
+    "DIS",
+    "World Cup"
+  ],
+  "conclusion": "Opening on the May 2015 Zurich dawn arrests, the episode maps FIFA's decades-long cash-for-votes loop — Avélangete, ISL kickbacks, Blatter's GOAL patronage, and Platini's palace flip — shielded by Swiss nonprofit status, ban threats, and a secretive 24-person executive. U.S. wire jurisdiction, RICO, Jennings's whistleblowers, and sponsor pressure finally broke the seal; World Cup economics keep governance risk alive.",
+  "background": "A narrated Silicon Valley 101 documentary (no live guest), drawing on Andrew Jennings's decades of BBC reporting, Ken Bering's *Red Card*, and the DOJ's 161-page 2015 indictment. Core thread: sports media 'access trading' silences mainstream reporters while Jennings's 2002 on-camera question to Blatter — 'Have you taken bribes?' — earned insider trust; ISL bankruptcy leaks of ~$100M in bribe payments became the breakthrough.\n\nComplements EP189 (FIFA meets America / World Cup economics) by focusing on corruption mechanics, judicial penetration, and individual fates rather than the tournament itself.",
+  "important_facts": [
+    "Power symbiosis network: Blatter tolerated Americas confederation bosses like Webb skimming local broadcast/sponsor kickbacks in exchange for bloc votes — 'I let you get rich, you keep me in office.' All seven 2015 Zurich arrestees tied to Blatter's Americas machine; Coca-Cola, Visa, McDonald's ultimatums forced Blatter's resignation four days after re-election; Platini banned over ~CHF 2M 'disloyal payment' from Blatter.",
+    "ISL original sin and the GOAL machine: Horst Dassler's 1982 ISL monopoly on World Cup rights created sell-high/kickback/buy-votes loops; a mis-posted CHF 1.5M bribe to FIFA's official account in 2001 — moved by secretary-general Blatter — proved the paper trail. Blatter's GOAL program disbursed >$2B in 'development aid' timed to election cycles; loyalty trumped integrity.",
+    "Three-layer immunity and U.S. RICO: (1) Swiss nonprofit association — pre-2015 private commercial bribery wasn't even criminal; (2) non-interference charter with global ban threats (Greece 2006, Kuwait/Indonesia 2015); (3) 24 execs voting secretly on hosts and billion-dollar media packages. U.S. breakthrough: IRS Berryman on Blazer's 17 years of unfiled taxes, tracing wires via Fedwire/CHIPS; RICO framed FIFA officials as a criminal enterprise; Blazer wore a keychain recorder at London 2012. 40+ charged; Switzerland's 2016 'FIFA law' criminalized private bribery, but territorial limits still shield most non-resident execs."
+  ],
+  "mental_model": {
+    "name": "Access Silence × Patronage Symbiosis × Triple Armor × Wire Jurisdiction",
+    "components": "Separate sports-media commercial compromise from investigative credibility; read FIFA as vote-buying plus broadcast monopoly rent-sharing; stack legal identity, ban-hostage diplomacy, and oligarchic committee decision-making; pierce borders via dollar clearing rails.",
+    "application": "Underwrite global sports governance and media assets: World Cup hosting/rights remain premier cash flows, but governance risk carries a persistent premium. Sponsors and prosecutors are the only credible external constraints. For streamers/broadcasters, split event IP value from organizational reputational drag; for cross-border corruption, check whether funds touched U.S. financial rails — that determines whether DOJ can act."
+  },
+  "key_insights": [
+    {
+      "view": "FIFA corruption was rampant, systemic, and entrenched.",
+      "question": "Why untouchable for 20+ years?",
+      "answer": "Nonprofit shell + non-interference bans + secret 24-man exec committee = 'get-out-of-jail-free card.' Small associations depend on development grants; Americas bosses trade votes for kickbacks. Mainstream sports media stay silent to keep credentials and tickets."
+    },
+    {
+      "view": "Jennings was the British reporter who cracked the wall.",
+      "question": "Why did 2015 happen?",
+      "answer": "His 2002 public challenge to Blatter won insider 'deep throats'; ISL's mis-posted bribe plus ~$100M payment ledger started the paper trail. FIFA sued him twice; FBI picked up via Steele and Jennings introductions."
+    },
+    {
+      "view": "U.S. DOJ ended impunity via wires + RICO.",
+      "question": "How did America reach a Swiss HQ?",
+      "answer": "Fedwire/CHIPS run through the U.S.; long-arm jurisdiction covers cross-border laundering. Blazer's tax evasion became the hook, then undercover recordings. RICO treats suited sports bureaucrats like mob enterprise members."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:FIFA",
+      "direction": "Short",
+      "confidence": "Low",
+      "thesis": "Post-2015 reforms (211 open votes, ethics committee) didn't excise the patronage network; new defamation clauses, weak whistleblower protection, Platini countersuit — governance overhang persists for the nonprofit football body"
+    },
+    {
+      "ticker": "DIS",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "World Cup broadcast/marketing rights remain a top global sports media asset; corruption scandals haven't dented tournament commercial pull — ESPN/Disney-class beneficiaries capture value largely independent of FIFA organizational reputation"
+    },
+    {
+      "ticker": "NFLX",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Streamers keep bidding for major event exclusives or sublicenses; the World Cup is among the few sports IPs that drive cross-region acquisition and retention — largely decoupled from FIFA governance headlines"
+    }
+  ],
+  "golden_quotes": [
+    "Have you taken bribes?",
+    "Get-out-of-jail-free card.",
+    "This case is far from over."
+  ],
+  "chronology": {
+    "subject": "FIFA corruption probe · Jennings · U.S. RICO",
+    "events": [
+      {
+        "date": "1974",
+        "event": "Avélangete wins presidency via 86-country tour and 'cash for votes'; one-country-one-vote becomes power base"
+      },
+      {
+        "date": "1982–2001",
+        "event": "ISL monopolizes World Cup rights/sponsorship; kickback loop; 2001 bankruptcy exposes mis-posted bribe"
+      },
+      {
+        "date": "2002",
+        "event": "Jennings asks Blatter 'Have you taken bribes?' at press conference; secret files from insider six weeks later"
+      },
+      {
+        "date": "2010",
+        "event": "Russia/Qatar awarded 2018/2022 World Cups; Élysée dinner and 'French deal' suspicions"
+      },
+      {
+        "date": "2015-05-27",
+        "event": "Seven FIFA officials arrested in Zurich hotel; U.S. DOJ RICO indictment — 14 defendants, 47 counts"
+      },
+      {
+        "date": "2015-06",
+        "event": "Blatter resigns; Platini CHF 2M case erupts; sponsors issue joint ultimatum"
+      },
+      {
+        "date": "2016",
+        "event": "Swiss 'FIFA law' criminalizes private bribery; FIFA shifts to 211-member open voting"
+      },
+      {
+        "date": "2022",
+        "event": "Jennings dies; Blatter/Platini acquitted twice in Swiss criminal court"
+      },
+      {
+        "date": "2025",
+        "event": "Jack Warner extradition permanently halted in Trinidad; Platini countersues Infantino for 'malicious prosecution'"
+      },
+      {
+        "date": "2026-07",
+        "event": "Silicon Valley 101 EP191: full FIFA corruption and 'immunity' arc"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep191",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

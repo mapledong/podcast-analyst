@@ -59,3 +59,17 @@ podcasts:
     xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
     default_locale: zh
     locales: [zh, en]
+
+  - id: silicon-valley-101
+    name: 硅谷101
+    name_en: Silicon Valley 101
+    host: 泓君
+    host_en: Hongjun
+    description: 聚焦全球科技趋势、产业深度与一线人物访谈的科技播客，提炼为 PM 可读摘要。
+    description_en: Tech podcast on global trends, industry deep dives, and founder interviews — distilled into PM-ready summaries.
+    apple_podcast_id: 1498541229
+    accent_color: "#0B4F6C"
+    youtube_url: https://www.youtube.com/@TheValley101
+    xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+    default_locale: zh
+    locales: [zh, en]
