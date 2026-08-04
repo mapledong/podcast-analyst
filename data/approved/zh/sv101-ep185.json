@@ -1,0 +1,126 @@
+{
+  "episode_id": "sv101-ep185",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 185,
+    "title": "SpaceX崛起史：一切，为了去火星｜实地探访星舰基地与总部",
+    "guest": "Lewis Hong等",
+    "guest_role": "SpaceX前高管 · 硅谷101实地团队",
+    "date": "2026-06-05",
+    "duration_minutes": 75,
+    "youtube_url": "https://www.youtube.com/watch?v=x2meJPOn9ws",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=x2meJPOn9ws",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:SpaceX",
+    "TSLA",
+    "BA",
+    "Private:Starlink"
+  ],
+  "conclusion": "在SpaceX寻求数万亿美元估值的史上最大IPO叙事之际，硅谷101走进德州Boca Chica的Starbase与洛杉矶总部，并邀前高管Lewis Hong回看崛起史。从“火星绿洲”在俄罗斯受辱、猎鹰1号三连败、2008年NASA合同起死回生，到猎鹰9号高复用（2026年2月单枚助推33次）、载人龙飞船成为美国事实上的唯一载人船，再到用不锈钢帐篷工厂造星舰——主线只有一句：用成本坍塌去火星。",
+  "background": "实地探访发射场与早期仓库，穿插马斯克五步工作法、内部如何challenge老板、龙飞船触屏座舱争议，以及不锈钢相对碳纤维洁净厂房的制造经济学。",
+  "important_facts": [
+    "源起：马斯克想买苏联导弹把温室送上火星逼NASA加预算（火星绿洲），三次赴俄受辱；Excel算出材料只占售价约3%，遂用eBay全现金收购PayPal套现于2002年创立SpaceX，早于Facebook、距iPhone 4还有八年。猎鹰1号在洛杉矶机场旁小仓库诞生。",
+    "三次失败后资金将近、金融危机无人投、特斯拉也危，Ashlee Vance采访还原即兴动员：SpaceX不会倒下。2008年12月23日NASA来电，约16亿美元级合同救命。猎鹰9号回收接近100%成功，多枚超20次，周转最短20天内；2026年2月21日一枚完成第33次发射回收。波音载人计划无限期搁置后，载人龙飞船成美国事实上的唯一载人飞船。",
+    "星舰材料：不锈钢便宜、耐温、可在简易厂房/帐篷制造，对比碳纤维洁净厂房数年数亿美元。文化上马斯克听“理”——可以反对但要证明。终极使命仍是殖民火星、把意识延伸出地球。"
+  ],
+  "mental_model": {
+    "name": "成本坍塌 × 复用飞轮 × 使命引力",
+    "components": "把发射成本当硬约束；复用与制造选择（钢帐篷 vs 碳纤洁净室）当解锁；火星当不可谈判北极星。",
+    "application": "尽调Private:SpaceX/Starlink看发射频次、复用数据与频谱监管，而非口号。BA载人特许权风险真实。TSLA仍与马斯克注意力周期纠缠，但本期主线是航天。"
+  },
+  "key_insights": [
+    {
+      "view": "SpaceX是自我救赎循环，不是光滑S曲线。",
+      "question": "2008为何没死？",
+      "answer": "技术边缘挣扎叠加NASA成为第一需求方买单。"
+    },
+    {
+      "view": "复用把传说变成复利CapEx。",
+      "question": "真指标是什么？",
+      "answer": "单枚飞行次数与周转天数胜过册页比冲；33次回收改写成本曲线。"
+    },
+    {
+      "view": "星舰制造本身就是产品。",
+      "question": "为何钢帐篷？",
+      "answer": "百米级箭体下，便宜材料+户外工厂击败洁净室CapEx。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:SpaceX",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "复用节奏+星舰制造+火星叙事支撑万亿IPO讨论；执行与监管风险巨大——中等"
+    },
+    {
+      "ticker": "BA",
+      "direction": "Short",
+      "confidence": "Low",
+      "thesis": "相对龙飞船的载人计划受挫强化波音航天特许权侵蚀——低置信"
+    },
+    {
+      "ticker": "Private:Starlink",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "低轨互联网是供血引擎；取决于频谱与地缘——低"
+    }
+  ],
+  "golden_quotes": [
+    "去火星",
+    "行为艺术",
+    "殖民火星"
+  ],
+  "chronology": {
+    "subject": "SpaceX崛起 · Starbase · 复用",
+    "events": [
+      {
+        "date": "2001–2002",
+        "event": "火星绿洲/赴俄；PayPal套现创立SpaceX"
+      },
+      {
+        "date": "2006–2008",
+        "event": "猎鹰1号三连败，公司濒死"
+      },
+      {
+        "date": "2008-12-23",
+        "event": "NASA合同救命（约16亿美元）"
+      },
+      {
+        "date": "2010s–2020s",
+        "event": "猎鹰9号复用成熟；龙飞船主导载人"
+      },
+      {
+        "date": "2020s",
+        "event": "Starbase不锈钢星舰制造推进"
+      },
+      {
+        "date": "2026-02-21",
+        "event": "猎鹰9号助推完成第33次发射回收"
+      },
+      {
+        "date": "2026",
+        "event": "万亿级IPO叙事升温"
+      },
+      {
+        "date": "2026-06-05",
+        "event": "硅谷101 Starbase/总部特辑"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep185",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

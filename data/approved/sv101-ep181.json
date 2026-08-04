@@ -1,0 +1,117 @@
+{
+  "episode_id": "sv101-ep181",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 181,
+    "title": "Inside the Robot Body, Mass Production, and Supply Chains: After Flips, Catch a Falling Leaf",
+    "guest": "Industry engineers / supply-chain voices",
+    "guest_role": "Robotics hardware practitioners · Silicon Valley 101 (Chen Qian)",
+    "date": "2026-05-08",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=DZIhQeFEdXI",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=DZIhQeFEdXI",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:Robotics",
+    "TSLA",
+    "Private:CATL"
+  ],
+  "conclusion": "Host Chen Qian tears down the humanoid into skeleton, joints, sensors, and compute — arguing the viral flip era is really a joint/actuator revolution from hydraulics to motor+gearbox stacks. Planetary vs harmonic vs RV reducers map to hand/arm/hip loads; TN curves must match sim or robots fall; IMUs act as vestibular systems; tactile paths proliferate. Half-marathon spectacle (Honor sweeping top places) prompts 'is the barrier low?' — yes on shared phone/auto suppliers, no on integration yield. Moats shift to mass-production consistency and catching a falling leaf, not just flips.",
+  "background": "Explainer episode with supply-chain color: aluminum/titanium structures taking car-crash-like landing loads, encoder-rich servo loops at kHz, battery vendors overlapping EVs (CATL, LG, EVE), and why phone/EV OEMs suddenly look competent at robot sports.",
+  "important_facts": [
+    "Four systems: skeleton (Al/Ti at knees/ankles for impact), joints/actuators (rotary = motor+reducer; linear = motor+ballscrew), sensors (force/torque, cameras, IMU with accel/gyro/mag fusion), electrical/compute. Flips impose crash-like accelerations — early Atlas hydraulics gave way to motor joints that finally enable dance/kungfu/half-marathon clips.",
+    "Reducer taxonomy: planetary (lower ratio, hands), harmonic (high ratio/precision, elbows/shoulders, weaker shock), RV (rigid, hips/knees/waist). TN curves govern torque vs speed; sim-reality mismatch → falls. Control loops sense joint state thousands of times/sec; IMU recovers balance after kicks. Tactile: piezoresistive, capacitive, piezoelectric, optical (hot) — ideally 3D pressure+shear for grasp.",
+    "Industry structure: many parts shared with phones/EVs — why Honor/Xiaomi/Tesla/XPeng can field robots fast. Marathon chaos (falls, detached arms) vs Honor podium shows demo ≠ mass production. Guests: threshold 'yes and no' — assembling a dancer is easier than reliable leaf-catching manipulation + supply yield. Battery names overlap CATL/LG/EVE."
+  ],
+  "mental_model": {
+    "name": "Actuator Stack × Sim2Real Curves × OEM Supply Overlap",
+    "components": "Decompose humanoids into reducers/IMUs/tactile/batteries; treat TN-curve fidelity as the bridge from viral motion to useful work; recognize phone/EV supply chains as the real on-ramp to scale.",
+    "application": "Robotics longs should underwrite actuator/reducer suppliers and OEM integrators with factory yield, not only flip videos. TSLA Optimus and China phone OEMs are competing on the same parts graph; CATL-class batteries are shared bottleneck/opportunity."
+  },
+  "key_insights": [
+    {
+      "view": "The flip era is a joint era.",
+      "question": "What changed in 1–2 years?",
+      "answer": "Motor+reducer actuators leapt in performance; hydraulics nostalgia ended for most humanoid demos."
+    },
+    {
+      "view": "Shared supply chains lower entry, not mastery.",
+      "question": "Why can phone makers win marathons?",
+      "answer": "Parts and some stack algorithms already exist; winning reliability and dexterity is the scarce layer."
+    },
+    {
+      "view": "Catching a leaf is the real benchmark.",
+      "question": "What replaces spectacle?",
+      "answer": "Contact-rich manipulation + yield at volume — hardware taxonomy exists; productization does not."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Robotics",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Actuator/supply-chain buildout is the investable layer beneath demos — low, early"
+    },
+    {
+      "ticker": "TSLA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Optimus sits on the same motor/structure learning curve; episode is industry-wide not Tesla-specific — low"
+    },
+    {
+      "ticker": "Private:CATL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "EV-battery supply overlap theme (CATL/LG/EVE mentioned); weak pure-play mapping — low"
+    }
+  ],
+  "golden_quotes": [
+    "Mechs are here — are robots far?",
+    "Backflip.",
+    "Harmonic reducer."
+  ],
+  "chronology": {
+    "subject": "Humanoid hardware · actuators · supply chain",
+    "events": [
+      {
+        "date": "2010s",
+        "event": "Hydraulic Atlas-era flips awe audiences"
+      },
+      {
+        "date": "2020s",
+        "event": "Motor joint leap enables dance/kungfu demos at scale"
+      },
+      {
+        "date": "2020s",
+        "event": "Phone/EV OEMs enter humanoid races using shared suppliers"
+      },
+      {
+        "date": "2026",
+        "event": "Robot half-marathon spectacle; Honor podium narrative"
+      },
+      {
+        "date": "2026",
+        "event": "Industry debate: low barrier to assemble vs high barrier to productize"
+      },
+      {
+        "date": "2026-05-08",
+        "event": "Silicon Valley 101 EP181 teardown"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep181",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

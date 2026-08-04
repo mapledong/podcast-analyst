@@ -1,0 +1,126 @@
+{
+  "episode_id": "sv101-ep186",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 186,
+    "title": "Cook's Exit, Apple's New AI Power Map, and the Privacy Balance | WWDC26",
+    "guest": "On-site guests / industry observers",
+    "guest_role": "WWDC attendees · Apple watchers",
+    "date": "2026-06-12",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=hIdvhl8PUwc",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hIdvhl8PUwc",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "AAPL",
+    "GOOGL",
+    "Private:Siri",
+    "MSFT"
+  ],
+  "conclusion": "At WWDC26 Tim Cook hosts his last keynote to a near-minute ovation as John Ternus prepares to become CEO in September. The episode asks if post-Cook Apple can define consumer AI again. After Apple Intelligence's 2024 stumble and 2025 delivery crisis, it maps the power reset — Cook intervening, Rockwell owning Siri under Federighi, Gemini veteran Amar Subramanya on models, Giannandrea exiting — plus Private Cloud Compute on Google Cloud TEEs and App Intents as the agentic bridge. Wall Street loved Cook's 15 years; Ternus must prove product.",
+  "background": "Silicon Valley 101 reports from WWDC26 after two years of Apple AI disappointment: delayed features, lawsuits over advertised capabilities, and a 2025 'AI crisis' for a company wired for yearly big-bang releases that look glacial versus model cadence. Guests contrast Apple's distribution moat with the lack of a SOTA foundation model, and unpack why PCC on Google Cloud is both a privacy bet and a hardware-trust engineering problem.",
+  "important_facts": [
+    "2024-06-10 Apple Intelligence was followed by slips; 2025 marketed undelivered AI and drew litigation. A secret early-2025 meeting chaired by then-COO Jeff Williams reframed failure as org/culture/leadership: John Giannandrea lost Cook's trust; Mike Rockwell (ex-Vision Pro) took Siri under Craig Federighi rather than becoming top AI chief; Amar Subramanya (16 years Google on Gemini/Bard, briefly Microsoft) joined as model lead; Giannandrea later left. Cook became hands-on on AI; Ternus inherits as CEO after September 2026.",
+    "WWDC demos emphasize agentic Siri via App Intents: developers declare structured actions/data so Siri can tool-call into apps. Guests say Apple is early — third-party depth thin, US-first rollout likely. Private Cloud Compute aims for stateless encrypted inference with no retention for training/profiling; new PCC stacks Google Cloud hardware with Intel TDX-style confidential VMs so Apple Silicon security ideas travel off-device.",
+    "Investor take: Cook's 15 years were a Wall Street honeymoon with fewer product fireworks; Ternus faces a 'return to product era.' Distribution and privacy remain assets; Gemini partnership plus Amar's hire buy time while Apple proves self-model competence."
+  ],
+  "mental_model": {
+    "name": "AI Power Map × Privacy Compute × Agentic Distribution",
+    "components": "Separate who owns AI inside Apple, how private-cloud TEEs extend on-device trust to Google Cloud, and how App Intents turn the installed base into an agent runtime. Judge Apple AI by shipping cadence and third-party tool depth.",
+    "application": "Long AAPL if Ternus shows faster AI delivery and real App Intents adoption; track GOOGL as competitor and PCC/Gemini partner. Privacy is a moat only if TEEs stay performant and regulators accept hybrid cloud."
+  },
+  "key_insights": [
+    {
+      "view": "Apple's AI crisis was organizational before model-sized.",
+      "question": "Why reorganize?",
+      "answer": "Yearly perfect-experience culture failed against weekly model shifts; Rockwell/Federighi/Subramanya redraw ownership so Siri ships inside software while models get a Gemini-hardened lead."
+    },
+    {
+      "view": "PCC on Google Cloud exports Apple trust to TEEs.",
+      "question": "Is privacy theater?",
+      "answer": "Design is stateless: encrypt, compute, wipe. Hard part is cost/perf of confidential inference at global scale."
+    },
+    {
+      "view": "App Intents is the quiet agent strategy.",
+      "question": "Where is the iPhone moment?",
+      "answer": "When Siri reliably tool-calls third-party apps end-to-end. Distribution is the edge; unfinished developer surface is the gap."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "AAPL",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Distribution + privacy + cash intact; Ternus must ship Siri utility from WWDC demos — medium, execution-sensitive"
+    },
+    {
+      "ticker": "GOOGL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Gemini partner and PCC cloud substrate; Apple demand signals confidential compute — low confidence"
+    },
+    {
+      "ticker": "MSFT",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Subramanya briefly stopped at Microsoft before Apple hire — talent-flow datapoint, not a core thesis"
+    }
+  ],
+  "golden_quotes": [
+    "Apple is the definer, not the follower.",
+    "Apple Intelligence.",
+    "Stateless computation."
+  ],
+  "chronology": {
+    "subject": "Apple AI · WWDC26 · Cook succession",
+    "events": [
+      {
+        "date": "2024-06-10",
+        "event": "Apple Intelligence announced"
+      },
+      {
+        "date": "2024–2025",
+        "event": "AI delays and litigation backlash"
+      },
+      {
+        "date": "2025",
+        "event": "AI crisis meeting; Rockwell takes Siri; Giannandrea marginalized"
+      },
+      {
+        "date": "2025–2026",
+        "event": "Amar Subramanya hired; Gemini collaboration deepens"
+      },
+      {
+        "date": "2026",
+        "event": "PCC expands toward Google Cloud TEE stack"
+      },
+      {
+        "date": "2026-06",
+        "event": "WWDC26: Cook's final hosting; App Intents focus"
+      },
+      {
+        "date": "2026-09",
+        "event": "Planned: Ternus succeeds Cook as CEO"
+      },
+      {
+        "date": "2026-06-12",
+        "event": "Silicon Valley 101 EP186"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep186",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

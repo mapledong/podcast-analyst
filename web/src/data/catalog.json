@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T15:49:41.235Z",
+  "generatedAt": "2026-08-04T12:42:34.629Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -69,7 +69,7 @@
       "accent_color": "#0B4F6C",
       "youtube_url": "https://www.youtube.com/@TheValley101",
       "cover_url": "/covers/silicon-valley-101.jpg",
-      "episodeCount": 10
+      "episodeCount": 15
     }
   ],
   "episodes": [
@@ -7661,41 +7661,6 @@
       "chronologySubject": "Ingvar Kamprad · IKEA"
     },
     {
-      "id": "bb-merck-co-blockbuster-drugs",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 189,
-      "title": "Merck & Co: Blockbuster Drugs",
-      "guest": "Merck & Co",
-      "displayTitle": "Merck & Co",
-      "displaySubtitle": "Blockbuster Drugs · Public · MRK",
-      "guestRole": "Public · MRK",
-      "date": "2024-10-30",
-      "durationMinutes": 66,
-      "readMinutes": 3,
-      "rating": 3,
-      "conclusion": "Merck is now a Keytruda story with a deep R&D and M&A overlay. The company has roughly $60B of revenue, about $53B in pharma, and Keytruda contributes around $25B, nearly 40-50% of sales. The 2028 patent cliff is the investment problem. The defense is biologic complexity, 40 indications, combination therapies, vaccines like Gardasil, and a decade of acquisitions.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-merck-co-blockbuster-drugs.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "MRK",
-        "Keytruda",
-        "Pharma R&D"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "MRK",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Merck's valuation hinges on the 2028 Keytruda cliff. Slower biologic erosion and successful pipeline/M&A could make the market too pessimistic; failure leaves a large revenue hole."
-        }
-      ],
-      "chronologySubject": "Merck & Co"
-    },
-    {
       "id": "acq-meta",
       "podcastId": "acquired",
       "episodeNumber": 192,
@@ -7805,41 +7770,6 @@
         }
       ],
       "chronologySubject": "Mark Zuckerberg · Chase Center Interview"
-    },
-    {
-      "id": "acq-starbucks-with-howard-schultz",
-      "podcastId": "acquired",
-      "episodeNumber": 188,
-      "title": "Starbucks (with Howard Schultz)",
-      "guest": "Howard Schultz",
-      "displayTitle": "Starbucks",
-      "displaySubtitle": "Howard Schultz · Season 14 · Episode 5",
-      "guestRole": "Season 14 · Episode 5",
-      "date": "2024-06-03",
-      "durationMinutes": 194,
-      "readMinutes": 7,
-      "rating": 5,
-      "conclusion": "Howard Schultz joins Ben and David for the full Starbucks story: three founders sold beans; Howard's 1983 Milan trip inspired the café model; Il Giornale raised $1.6M, bought six Starbucks stores for $3.8M (1987) with Bill Gates Sr. helping remove a blocking investor. The model — ~80% gross margin, high-frequency low-ticket visits, customization, names on cups — scaled globally (~39,000 stores, 86 countries). Partner benefits (1988 health for part-timers, Bean Stock) and 'affordable luxury' cups as billboards built humanity at scale. Frappuccino (1995 Coffee Connection acquisition), Japan (1996 cold-call Kay Nishi parallel to Microsoft), China (Belinda Wong), mobile order (~33% transactions, ~$1.8B prepaid float) followed. 2008 crisis: seven months from insolvency, store closures, retraining 135,000 partners — profits $315M to $945M by 2010. Founder-led risk: succession remains unsettled in 2024 as Howard reflects on scale versus soul.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-starbucks-with-howard-schultz.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Third Place Retail",
-        "Founder-Led Scale",
-        "Partner Culture"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "SBUX",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Mature global footprint with mobile float (~$1.8B) and China exposure (~18% revenue) — partner culture and ~80% gross margins create durable moat; monitor same-store recovery and succession stability post-Howard interim era."
-        }
-      ],
-      "chronologySubject": "Starbucks · Howard Schultz era highlights"
     },
     {
       "id": "fnd-190-henry-ford-and-thomas-edison",
@@ -8254,6 +8184,56 @@
       "chronologySubject": "Yongqing · Market Divergence 2026"
     },
     {
+      "id": "sv101-ep186",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 186,
+      "title": "Cook's Exit, Apple's New AI Power Map, and the Privacy Balance | WWDC26",
+      "guest": "On-site guests / industry observers",
+      "displayTitle": "On-site guests / industry observers",
+      "displaySubtitle": "Cook's Exit, Apple's New AI Power Map, and the Privacy Balance | WWDC26",
+      "guestRole": "WWDC attendees · Apple watchers",
+      "date": "2026-06-12",
+      "durationMinutes": 45,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "At WWDC26 Tim Cook hosts his last keynote to a near-minute ovation as John Ternus prepares to become CEO in September. The episode asks if post-Cook Apple can define consumer AI again. After Apple Intelligence's 2024 stumble and 2025 delivery crisis, it maps the power reset — Cook intervening, Rockwell owning Siri under Federighi, Gemini veteran Amar Subramanya on models, Giannandrea exiting — plus Private Cloud Compute on Google Cloud TEEs and App Intents as the agentic bridge. Wall Street loved Cook's 15 years; Ternus must prove product.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hIdvhl8PUwc",
+      "summaryFile": "sv101-ep186.md",
+      "summaryFileZh": "sv101-ep186.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AAPL",
+        "GOOGL",
+        "Private:Siri",
+        "MSFT"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AAPL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Distribution + privacy + cash intact; Ternus must ship Siri utility from WWDC demos — medium, execution-sensitive"
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Gemini partner and PCC cloud substrate; Apple demand signals confidential compute — low confidence"
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Subramanya briefly stopped at Microsoft before Apple hire — talent-flow datapoint, not a core thesis"
+        }
+      ],
+      "chronologySubject": "Apple AI · WWDC26 · Cook succession"
+    },
+    {
       "id": "tzs-ep185",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 185,
@@ -8302,6 +8282,56 @@
         }
       ],
       "chronologySubject": "Xie Zhifeng · Four Decades in Semiconductors"
+    },
+    {
+      "id": "sv101-ep185",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 185,
+      "title": "The Rise of SpaceX: Everything for Mars | Visiting Starbase and HQ",
+      "guest": "Lewis Hong and others",
+      "displayTitle": "Lewis Hong and others",
+      "displaySubtitle": "The Rise of SpaceX: Everything for Mars | Visiting Starbase and HQ",
+      "guestRole": "Former SpaceX executive · Silicon Valley 101 field team",
+      "date": "2026-06-05",
+      "durationMinutes": 75,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "As SpaceX courts a multi-trillion IPO narrative, Silicon Valley 101 visits Boca Chica Starbase and the LA warehouse where Falcon 1 was born, with ex-executive Lewis Hong retelling the rise. From Mars Oasis humiliation in Russia to three Falcon 1 failures, the near-death 2008 NASA COTS win, reusable Falcon 9 (one booster to 33 flights by Feb 2026), Crew Dragon as America's de facto crew vehicle after Boeing slips, and stainless-steel Starship built in tents — the through-line is simple: colonize Mars by collapsing launch cost.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=x2meJPOn9ws",
+      "summaryFile": "sv101-ep185.md",
+      "summaryFileZh": "sv101-ep185.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:SpaceX",
+        "TSLA",
+        "BA",
+        "Private:Starlink"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:SpaceX",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Reuse cadence + Starship manufacturing edge + Mars narrative support multi-trillion IPO talk; execution/regulatory risk still huge — medium"
+        },
+        {
+          "ticker": "BA",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "Crew program optics vs Dragon reinforce Boeing space franchise erosion — low confidence, episode-colored"
+        },
+        {
+          "ticker": "Private:Starlink",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "LEO internet is the cash engine funding Mars hardware; depends on spectrum/geopolitics — low"
+        }
+      ],
+      "chronologySubject": "SpaceX rise · Starbase · reuse"
     },
     {
       "id": "tzs-ep184",
@@ -8391,6 +8421,56 @@
       "chronologySubject": "Yongqing × Wu Xiaobo · Cycle Thinking"
     },
     {
+      "id": "sv101-ep183",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 183,
+      "title": "Tian Yuandong Again: RSI at a $4.65B Valuation and AI Self-Evolution | Neolabs",
+      "guest": "Tian Yuandong (Yuandong Tian)",
+      "displayTitle": "Tian Yuandong (Yuandong Tian)",
+      "displaySubtitle": "Tian Yuandong Again: RSI at a $4.65B Valuation and AI Self-Evolution | Neolabs",
+      "guestRole": "Co-founder, Recursive Superintelligence (RSI) · former Meta FAIR research director",
+      "date": "2026-05-22",
+      "durationMinutes": 110,
+      "readMinutes": 2,
+      "rating": 5,
+      "conclusion": "Months after Meta FAIR exit, Yuandong Tian joins Recursive Superintelligence (RSI): eight co-founders, $650M raised, $4.65B valuation, no product yet. Thesis is recursive self-improvement — AI that automates research to strengthen AI — sold on team pedigree (MetaMind/Salesforce, DeepMind alumni, Cresta operators). He frames top capital as still betting people in a fast-moving field, runway as 1–3 years of compute, and auto-research machinery as the productized secret sauce amid coding-agent wars and Anthropic/OpenAI/Google shifts.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=F7oNfszczVc",
+      "summaryFile": "sv101-ep183.md",
+      "summaryFileZh": "sv101-ep183.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:RSI",
+        "META",
+        "Private:Anthropic",
+        "GOOGL"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:RSI",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Pedigree + recursive SI narrative cleared a huge seed; still pre-product, compute runway finite — low confidence"
+        },
+        {
+          "ticker": "META",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "FAIR alumni leaving to neolabs is a talent signal; distillation controversy is culture risk — low"
+        },
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Episode paints strong 2026 commercial/IPO narrative in coding — contested, low confidence"
+        }
+      ],
+      "chronologySubject": "RSI · Tian Yuandong · recursive SI"
+    },
+    {
       "id": "tzs-ep182",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 182,
@@ -8435,6 +8515,55 @@
       "chronologySubject": "Yongqing · Biotech Post-Mortem"
     },
     {
+      "id": "sv101-ep182",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 182,
+      "title": "Conversation with Qualcomm: Agents, 6G, and the Quiet Winner Behind Physical AI",
+      "guest": "Xu Hao (徐晧)",
+      "displayTitle": "Xu Hao (徐晧)",
+      "displaySubtitle": "Conversation with Qualcomm: Agents, 6G, and the Quiet Winner Behind Physical AI",
+      "guestRole": "Qualcomm Global VP",
+      "date": "2026-05-15",
+      "durationMinutes": 40,
+      "readMinutes": 2,
+      "rating": 5,
+      "conclusion": "While frontier labs fight in the cloud, Qualcomm is framed as the underwater winner: shares +60% in a year, May highs, as Physical AI pushes phones, AI PCs, XR, cars, and robots to the edge — with 6G anticipation layered on. From Beijing's Snapdragon party, VP Xu Hao argues the hard part is fitting capable models on-device via distillation/quantization, combining comms+AI+robotics, and using 6G ideas like integrated sensing and communications for physical-world maps. Demos span robots on Qinglong platforms, AR glasses memory, and cars as AI workplaces.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=eAYx6CHstNw",
+      "summaryFile": "sv101-ep182.md",
+      "summaryFileZh": "sv101-ep182.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "QCOM",
+        "Private:PhysicalAI",
+        "AAPL"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "QCOM",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Edge Physical AI + 6G sensing narrative supports the 2026 rerating; competition and Apple custom silicon remain risks — medium"
+        },
+        {
+          "ticker": "Private:PhysicalAI",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Theme basket (robots/XR/auto) where Qualcomm wants to be the default platform — low"
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Premium phone AI path may bypass or reprice Qualcomm silicon — secondary overlap, low"
+        }
+      ],
+      "chronologySubject": "Qualcomm · edge AI · 6G"
+    },
+    {
       "id": "tzs-ep181",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 181,
@@ -8477,6 +8606,55 @@
         }
       ],
       "chronologySubject": "Yongqing · Listener Q&A 2026"
+    },
+    {
+      "id": "sv101-ep181",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 181,
+      "title": "Inside the Robot Body, Mass Production, and Supply Chains: After Flips, Catch a Falling Leaf",
+      "guest": "Industry engineers / supply-chain voices",
+      "displayTitle": "Industry engineers / supply-chain voices",
+      "displaySubtitle": "Inside the Robot Body, Mass Production, and Supply Chains: After Flips, Catch a Falling Leaf",
+      "guestRole": "Robotics hardware practitioners · Silicon Valley 101 (Chen Qian)",
+      "date": "2026-05-08",
+      "durationMinutes": 45,
+      "readMinutes": 2,
+      "rating": 5,
+      "conclusion": "Host Chen Qian tears down the humanoid into skeleton, joints, sensors, and compute — arguing the viral flip era is really a joint/actuator revolution from hydraulics to motor+gearbox stacks. Planetary vs harmonic vs RV reducers map to hand/arm/hip loads; TN curves must match sim or robots fall; IMUs act as vestibular systems; tactile paths proliferate. Half-marathon spectacle (Honor sweeping top places) prompts 'is the barrier low?' — yes on shared phone/auto suppliers, no on integration yield. Moats shift to mass-production consistency and catching a falling leaf, not just flips.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=DZIhQeFEdXI",
+      "summaryFile": "sv101-ep181.md",
+      "summaryFileZh": "sv101-ep181.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Robotics",
+        "TSLA",
+        "Private:CATL"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Robotics",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Actuator/supply-chain buildout is the investable layer beneath demos — low, early"
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Optimus sits on the same motor/structure learning curve; episode is industry-wide not Tesla-specific — low"
+        },
+        {
+          "ticker": "Private:CATL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "EV-battery supply overlap theme (CATL/LG/EVE mentioned); weak pure-play mapping — low"
+        }
+      ],
+      "chronologySubject": "Humanoid hardware · actuators · supply chain"
     },
     {
       "id": "tzs-ep180",
@@ -10644,6 +10822,41 @@
       "chronologySubject": "Jensen Huang · The Nvidia Way"
     },
     {
+      "id": "bb-merck-co-blockbuster-drugs",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 189,
+      "title": "Merck & Co: Blockbuster Drugs",
+      "guest": "Merck & Co",
+      "displayTitle": "Merck & Co",
+      "displaySubtitle": "Blockbuster Drugs · Public · MRK",
+      "guestRole": "Public · MRK",
+      "date": "2024-10-30",
+      "durationMinutes": 66,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Merck is now a Keytruda story with a deep R&D and M&A overlay. The company has roughly $60B of revenue, about $53B in pharma, and Keytruda contributes around $25B, nearly 40-50% of sales. The 2028 patent cliff is the investment problem. The defense is biologic complexity, 40 indications, combination therapies, vaccines like Gardasil, and a decade of acquisitions.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-merck-co-blockbuster-drugs.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "MRK",
+        "Keytruda",
+        "Pharma R&D"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "MRK",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Merck's valuation hinges on the 2028 Keytruda cliff. Slower biologic erosion and successful pipeline/M&A could make the market too pessimistic; failure leaves a large revenue hole."
+        }
+      ],
+      "chronologySubject": "Merck & Co"
+    },
+    {
       "id": "zj-ep79",
       "podcastId": "zhang-xiaojun",
       "episodeNumber": 79,
@@ -10896,6 +11109,41 @@
       "chronologySubject": "He Xiaopeng · XPeng FSD"
     },
     {
+      "id": "acq-starbucks-with-howard-schultz",
+      "podcastId": "acquired",
+      "episodeNumber": 188,
+      "title": "Starbucks (with Howard Schultz)",
+      "guest": "Howard Schultz",
+      "displayTitle": "Starbucks",
+      "displaySubtitle": "Howard Schultz · Season 14 · Episode 5",
+      "guestRole": "Season 14 · Episode 5",
+      "date": "2024-06-03",
+      "durationMinutes": 194,
+      "readMinutes": 7,
+      "rating": 5,
+      "conclusion": "Howard Schultz joins Ben and David for the full Starbucks story: three founders sold beans; Howard's 1983 Milan trip inspired the café model; Il Giornale raised $1.6M, bought six Starbucks stores for $3.8M (1987) with Bill Gates Sr. helping remove a blocking investor. The model — ~80% gross margin, high-frequency low-ticket visits, customization, names on cups — scaled globally (~39,000 stores, 86 countries). Partner benefits (1988 health for part-timers, Bean Stock) and 'affordable luxury' cups as billboards built humanity at scale. Frappuccino (1995 Coffee Connection acquisition), Japan (1996 cold-call Kay Nishi parallel to Microsoft), China (Belinda Wong), mobile order (~33% transactions, ~$1.8B prepaid float) followed. 2008 crisis: seven months from insolvency, store closures, retraining 135,000 partners — profits $315M to $945M by 2010. Founder-led risk: succession remains unsettled in 2024 as Howard reflects on scale versus soul.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-starbucks-with-howard-schultz.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Third Place Retail",
+        "Founder-Led Scale",
+        "Partner Culture"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "SBUX",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Mature global footprint with mobile float (~$1.8B) and China exposure (~18% revenue) — partner culture and ~80% gross margins create durable moat; monitor same-store recovery and succession stability post-Howard interim era."
+        }
+      ],
+      "chronologySubject": "Starbucks · Howard Schultz era highlights"
+    },
+    {
       "id": "acq-microsoft",
       "podcastId": "acquired",
       "episodeNumber": 187,
@@ -10929,464 +11177,6 @@
         }
       ],
       "chronologySubject": "Microsoft · Volume I (1968–1981)"
-    },
-    {
-      "id": "bb-paypal-a-digital-money-marketplace",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 113,
-      "title": "PayPal: A Digital Money Marketplace",
-      "guest": "PayPal",
-      "displayTitle": "PayPal",
-      "displaySubtitle": "A Digital Money Marketplace · Public · PYPL",
-      "guestRole": "Public · PYPL",
-      "date": "2023-05-31",
-      "durationMinutes": 66,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Turner frames PayPal as a chameleon payments marketplace — direct relationships with 435 million users and merchants on both sides, fraud detection built since the Levchin era, and Braintree scaling mobile TPV to $400 billion. The bull case rests on engagement (51 transactions per active user, up from 21 at the 2015 spin) and operating leverage after Elliott-driven cost discipline; risks are falling take rates, Apple NFC lockout, leadership churn post-Schulman, and $13 billion of mixed M&A outcomes.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-paypal-a-digital-money-marketplace.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "PYPL",
-        "AAPL",
-        "Digital Payments",
-        "Network Effects"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "PYPL",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Turner's bull case: 435M-user two-sided network, fraud-driven approval rates, $5B FCF funding buybacks, and engagement recovery (51 vs. 21 annual transactions) with mid-20s incremental margins once super-app costs unwind — trading below COVID euphoria despite e-commerce-linked revenue growth and Braintree at $400B TPV growing 40%-plus."
-        },
-        {
-          "ticker": "AAPL",
-          "direction": "Short",
-          "confidence": "Low",
-          "thesis": "Apple Pay's NFC near-field lockout blocks PayPal at physical point-of-sale while PayPal leads desktop and e-commerce checkout (83% vs. 48% of top-475 merchants); EU antitrust may force openness, but today Apple captures incremental wallet transactions PayPal cannot reach on iOS."
-        }
-      ],
-      "chronologySubject": "PayPal"
-    },
-    {
-      "id": "bb-the-walt-disney-company-an-entertainment-empire",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 101,
-      "title": "The Walt Disney Company: An Entertainment Empire",
-      "guest": "The Walt Disney Company",
-      "displayTitle": "The Walt Disney Company",
-      "displaySubtitle": "An Entertainment Empire · Public · DIS",
-      "guestRole": "Public · DIS",
-      "date": "2023-03-15",
-      "durationMinutes": 49,
-      "readMinutes": 4,
-      "rating": 4,
-      "conclusion": "Disney is a century-old storytelling machine monetized through parks, cable affiliate fees, and licensing flywheels — but the next decade hinges on whether management can rebuild cable-like economics in streaming without starving the creative engine that feeds every other segment.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-the-walt-disney-company-an-entertainment-empire.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "DIS",
-        "Streaming",
-        "Theme Parks",
-        "Media IP"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "DIS",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Weiss sees more opportunity than risk if Disney commits to profitable Disney+ at ~200M households × $15/month (~$36B revenue, ~$14B EBITDA, ~$250B EV for streaming alone) while parks and Marvel/IP compound. Medium confidence reflects innovator's-dilemma risk as cable profits decline and activists cap streaming investment."
-        }
-      ],
-      "chronologySubject": "The Walt Disney Company"
-    },
-    {
-      "id": "bb-constellation-software-principled-profitable-permanent",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 97,
-      "title": "Constellation Software: Principled, Profitable, Permanent",
-      "guest": "Constellation Software",
-      "displayTitle": "Constellation Software",
-      "displaySubtitle": "Principled, Profitable, Permanent · Public · CSU",
-      "guestRole": "Public · CSU",
-      "date": "2023-02-16",
-      "durationMinutes": 60,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Cerrone positions Constellation as a decentralized compounder of essential vertical market software: ~$6.5 billion of revenue, ~70% recurring, ~20% ROIC, and 100-plus small deals a year at 20–30% hurdle rates — all under Mark Leonard's zero-dilution compensation ethic. Organic growth near 4% looks modest beside SaaS peers, but clean ~20% free cash flow margins and proprietary acquisition data explain why per-share compounding since the 2006 IPO reached ~130×.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-constellation-software-principled-profitable-permanent.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "CSU",
-        "Vertical Market Software",
-        "Serial Acquisitions"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "CSU",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Allspring has held since 2014 on a three-legged stool — durable ~20% ROIC VMS, skilled capital allocation, and massive reinvestment runway — with ~$6.5 billion revenue, ~70% recurring mix, ~20% clean FCF margins, and a proven 100-deal-per-year engine; Cerrone expects mid-teens-plus per-share compounding if FCF keeps redeploying at ~20% returns even as absolute deal size rises."
-        }
-      ],
-      "chronologySubject": "Constellation Software"
-    },
-    {
-      "id": "bb-qualcomm-making-smartphones-smart",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 95,
-      "title": "Qualcomm: Making Smartphones Smart",
-      "guest": "Qualcomm",
-      "displayTitle": "Qualcomm",
-      "displaySubtitle": "Making Smartphones Smart · Public · QCOM",
-      "guestRole": "Public · QCOM",
-      "date": "2023-02-01",
-      "durationMinutes": 44,
-      "readMinutes": 3,
-      "rating": 3,
-      "conclusion": "Qualcomm is a standards-and-silicon business built on decades of R&D. Founded in 1985 after Irwin Jacobs's prior Linkabit success, it pushed CDMA from science fiction to global 3G/4G/5G relevance. Fiscal 2022 sales were $44B and enterprise value around $145-150B. The moat is modem leadership plus patents, but Apple insourcing and MediaTek competition cap the narrative.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-qualcomm-making-smartphones-smart.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "QCOM",
-        "Wireless Standards",
-        "Semiconductors"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "QCOM",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Qualcomm owns essential wireless IP and premium modem execution, but Apple insourcing and handset cyclicality keep the thesis from being purely secular."
-        },
-        {
-          "ticker": "AAPL",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Apple's need for a 5G modem shows Qualcomm's technical edge, but Apple remains the largest long-term insourcing threat."
-        }
-      ],
-      "chronologySubject": "Qualcomm"
-    },
-    {
-      "id": "bb-netflix-the-original",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 86,
-      "title": "Netflix: The Original",
-      "guest": "Netflix",
-      "displayTitle": "Netflix",
-      "displaySubtitle": "The Original · Public · NFLX",
-      "guestRole": "Public · NFLX",
-      "date": "2022-11-30",
-      "durationMinutes": 56,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Netflix is no longer just a subscriber-growth story; it is becoming a global entertainment software business where fixed content spend can turn scale into free cash flow. The thesis rests on product reliability, broad catalog depth, 100 million password-sharing households, and an ad tier that can widen access without diluting revenue per user.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-netflix-the-original.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "NFLX",
-        "Streaming",
-        "Original Content",
-        "Advertising"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "NFLX",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Weiss sees a path from about $30 billion of revenue and $1 billion of free cash flow to roughly $40 billion of revenue, $12 billion of operating profit, and $20 per share of earnings if content spend stays near $17-18 billion and ads/password conversion add revenue."
-        }
-      ],
-      "chronologySubject": "Netflix"
-    },
-    {
-      "id": "bb-intuit-an-operating-system-for-small-businesses",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 77,
-      "title": "Intuit: An Operating System for Small Businesses",
-      "guest": "Intuit",
-      "displayTitle": "Intuit",
-      "displaySubtitle": "An Operating System for Small Businesses · Public · INTU",
-      "guestRole": "Public · INTU",
-      "date": "2022-10-05",
-      "durationMinutes": 53,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Intuit is a durable self-service software compounder built on consumer empathy, tax complexity, and small-business workflow standards. QuickBooks' 90% U.S. category share, TurboTax's 30% filing share, Credit Karma's 40 million monthly users, and Mailchimp's earlier customer touchpoint give Intuit multiple ways to digitize unavoidable financial work.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-intuit-an-operating-system-for-small-businesses.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "INTU",
-        "QuickBooks",
-        "TurboTax",
-        "Small Business Software"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "INTU",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Intuit combines 80% gross margins, about 21% GAAP operating margins, 25% cash operating margins excluding acquisition amortization, low digital penetration in tax and small business, and higher-value products like TurboTax Live and QuickBooks Advanced that can lift ARPU while reducing churn."
-        }
-      ],
-      "chronologySubject": "Intuit"
-    },
-    {
-      "id": "bb-crowdstrike-cyber-saas",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 72,
-      "title": "CrowdStrike: Cyber SaaS",
-      "guest": "Roniel Desai",
-      "displayTitle": "CrowdStrike",
-      "displaySubtitle": "Roniel Desai · Senior Public Market Investor, Enterprise Software · Cyber SaaS",
-      "guestRole": "Senior Public Market Investor, Enterprise Software",
-      "date": "2022-09-01",
-      "durationMinutes": 60,
-      "readMinutes": 5,
-      "rating": 4,
-      "conclusion": "Desai frames CrowdStrike as the casino-security model for cloud-era IT: lightweight agents feeding a cross-customer threat graph that legacy McAfee firewalls cannot replicate. At ~$45 billion enterprise value, 61% ARR growth on $1.9 billion, and 70% of million-dollar customers on seven modules, the platform flywheel is real — but Microsoft bundling and closed XDR stacks from Palo Alto remain the threats that cap terminal optimism.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-crowdstrike-cyber-saas.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "CRWD",
-        "Endpoint Security",
-        "Threat Graph"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "CRWD",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Desai sees a rare growth compounder — 61% ARR growth at $1.9 billion scale, expanding TAM, channel flywheel, and platform module attach — but Microsoft Office E5 bundling and closed XDR platforms from Microsoft and Palo Alto are credible threats; valuation near $45 billion already prices flawless platform execution."
-        }
-      ],
-      "chronologySubject": "CrowdStrike"
-    },
-    {
-      "id": "bb-berkshire-hathaway-the-incomparable-compounder",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 63,
-      "title": "Berkshire Hathaway: The Incomparable Compounder",
-      "guest": "Berkshire Hathaway",
-      "displayTitle": "Berkshire Hathaway",
-      "displaySubtitle": "The Incomparable Compounder · Public · BRK.B",
-      "guestRole": "Public · BRK.B",
-      "date": "2022-06-29",
-      "durationMinutes": 74,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Berkshire's lesson is not simply what Buffett bought; it is how he built a balance sheet that could keep buying without ever needing outside capital. Roughly $150 billion of float, massive surplus, no stock compensation, retained earnings, and fortress culture make Berkshire an aircraft carrier that can compound at adequate rates long after Buffett.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-berkshire-hathaway-the-incomparable-compounder.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "BRK.B",
-        "Insurance Float",
-        "Capital Allocation",
-        "Conglomerates"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "BRK.B",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Bloomstran owns Berkshire as a top position because roughly $50 billion of economic earnings, conservative leverage, $150 billion of float, and reinvestment at 10-12% make the stock more attractive than the S&P 500 when purchased below intrinsic value."
-        },
-        {
-          "ticker": "AAPL",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Apple illustrates Buffett's durability filter: bought around 12 times earnings, it shifted from tech risk to consumer-product ecosystem moat, with users unlikely to leave the architecture once phone, tablet, notebook, and services are connected."
-        }
-      ],
-      "chronologySubject": "Berkshire Hathaway"
-    },
-    {
-      "id": "bb-block-square-cash-app-and-economic-access",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 53,
-      "title": "Block: Square, Cash App, and Economic Access",
-      "guest": "Block",
-      "displayTitle": "Block",
-      "displaySubtitle": "Square, Cash App, and Economic Access · Public · SQ",
-      "guestRole": "Public · SQ",
-      "date": "2022-04-06",
-      "durationMinutes": 66,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Corlett frames Block as two scaled financial ecosystems—Square for merchants and Cash App for consumers—unified by economic access, trust-first onboarding, and a roadmap to closed-loop transactions. Afterpay adds merchant discovery and in-network volume; the bull case is sustained product velocity and two-sided network effects, while trust erosion or regulatory drag are the main risks.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-block-square-cash-app-and-economic-access.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "SQ",
-        "PYPL",
-        "Payments"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "SQ",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Corlett's bull case rests on two $2B+ gross-profit ecosystems compounding through product attach, closed-loop payments that triple net take on in-network volume, and Afterpay-driven merchant discovery—against a financial-services TAM still littered with legacy UX, with culture and trust as the main execution risks."
-        },
-        {
-          "ticker": "PYPL",
-          "direction": "Short",
-          "confidence": "Low",
-          "thesis": "PayPal retains a durable moat, but Cash App has overtaken Venmo in P2P user growth with far lower CAC (~$10 vs. hundreds for banks) and stronger Gen Z brand penetration while Venmo pivots to monetizing existing users."
-        }
-      ],
-      "chronologySubject": "Block (Square)"
-    },
-    {
-      "id": "bb-amazon-aggregators-buying-third-party-sellers",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 35,
-      "title": "Amazon Aggregators: Buying Third-Party Sellers",
-      "guest": "Ali Ahmed",
-      "displayTitle": "Amazon Aggregators",
-      "displaySubtitle": "Ali Ahmed · Partner · CoVenture · Buying Third-Party Sellers",
-      "guestRole": "Partner · CoVenture",
-      "date": "2021-11-17",
-      "durationMinutes": 61,
-      "readMinutes": 3,
-      "rating": 3,
-      "conclusion": "CoVenture's Ali Ahmed sizes Amazon third-party sellers at roughly $300 billion revenue growing faster than Amazon itself — ~$60 billion EBITDA at ~20% margins — while only ~$8 billion of aggregator funding chases the space at 4–6x EBITDA. Aggregators buy FBA storefronts (ASINs, reviews, inventory) and add Amazon-native playbooks: international review porting, DSP ads, and supply-chain redundancy rather than cost synergies.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-amazon-aggregators-buying-third-party-sellers.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "AMZN",
-        "FBA Roll-Up",
-        "Third-Party Sellers"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "AMZN",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Aggregator growth validates Amazon's third-party flywheel — higher-margin fee revenue without inventory risk — supporting AMZN marketplace take rate durability as FBA GMV compounds toward Ahmed's half-trillion to trillion-dollar market-value scenario."
-        }
-      ],
-      "chronologySubject": "Amazon FBA · Aggregators"
-    },
-    {
-      "id": "fnd-38-the-space-barons-elon-musk-jeff-bezos-and-the-quest-to",
-      "podcastId": "founders",
-      "episodeNumber": 38,
-      "title": "The Space Barons: Elon Musk, Jeff Bezos, and the Quest to Colonize the Cosmos",
-      "guest": "Elon Musk & Jeff Bezos",
-      "displayTitle": "Elon Musk & Jeff Bezos",
-      "displaySubtitle": "The Space Barons: Elon Musk, Jeff Bezos, and the Quest to Colonize the Cosmos",
-      "guestRole": "Biography · The Space Barons · Episode 38",
-      "date": "2018-09-17",
-      "durationMinutes": 90,
-      "readMinutes": 3,
-      "rating": 4,
-      "conclusion": "Davenport's Space Barons pairs Bezos the secretive tortoise with Musk the audacious hare: vertical rocket landings reignited space hope, while 2003 Blue Origin land hunts happened as Amazon passed a trillion-dollar market cap critics once mocked. Senra stresses criticism immunity (Amazon.bomb headlines), Bezos's 2003 analogy that the web was like electricity in 1908, and the closing thesis that rivalry — not consolation — is the best rocket fuel for Mars-scale ambitions.",
-      "youtubeUrl": "",
-      "summaryFile": "fnd-38-the-space-barons-elon-musk-jeff-bezos-and-the-quest-to.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "AMZN",
-        "TSLA",
-        "Blue Origin"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "AMZN",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Bezos's 2003 confidence — double-digit segment growth while funding Blue Origin — reinforces Amazon as a cash-flow engine that subsidizes optional long-horizon bets; episode supports enduring reinvestment culture more than near-term AWS multiples."
-        },
-        {
-          "ticker": "TSLA",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Musk's SpaceX narrative parallels Tesla's public-goal-driven strategy; episode is biography not an auto thesis, but illustrates how Musk uses visible rivals to marshal capital and talent toward physics-limited missions."
-        }
-      ],
-      "chronologySubject": "Musk · Bezos · Space Barons"
-    },
-    {
-      "id": "tzs-ep34",
-      "podcastId": "touzi-shizhanpai",
-      "episodeNumber": 34,
-      "title": "Li Auto: Can Li Xiang Win the Second Critical War? Investment Value & Risks",
-      "guest": "David",
-      "displayTitle": "David",
-      "displaySubtitle": "Li Auto: Can Li Xiang Win the Second Critical War? Investment Value & Risks",
-      "guestRole": "Practical Investments Host",
-      "date": "2024-04-14",
-      "durationMinutes": 129,
-      "readMinutes": 2,
-      "rating": 3,
-      "conclusion": "David's 2024 Li Auto deep dive asks whether Li Xiang can win the second war — BEV platform shift plus intelligent-driving differentiation — and prices LI investment value versus risks. Family SUV niche and execution history support Watch; margin compression and AD catch-up costs threaten Long. Investors should track delivery cadence, software revenue mix, and BEV model success as proof of second-act thesis.",
-      "youtubeUrl": "",
-      "summaryFile": "tzs-ep34.md",
-      "summaryFileZh": "tzs-ep34.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "LI",
-        "EV",
-        "Intelligent Driving",
-        "Valuation"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "LI",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Li Auto (LI): David Global 50 deep dive — Watch BEV second war, delivery cadence, and AD monetization versus price-war margin risk"
-        }
-      ],
-      "chronologySubject": "David · Li Auto Global 50"
     },
     {
       "id": "bb-intuitive-surgical-robotic-precision",
@@ -11887,6 +11677,48 @@
       "chronologySubject": "Dara Khosrowshahi · Uber"
     },
     {
+      "id": "bb-paypal-a-digital-money-marketplace",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 113,
+      "title": "PayPal: A Digital Money Marketplace",
+      "guest": "PayPal",
+      "displayTitle": "PayPal",
+      "displaySubtitle": "A Digital Money Marketplace · Public · PYPL",
+      "guestRole": "Public · PYPL",
+      "date": "2023-05-31",
+      "durationMinutes": 66,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Turner frames PayPal as a chameleon payments marketplace — direct relationships with 435 million users and merchants on both sides, fraud detection built since the Levchin era, and Braintree scaling mobile TPV to $400 billion. The bull case rests on engagement (51 transactions per active user, up from 21 at the 2015 spin) and operating leverage after Elliott-driven cost discipline; risks are falling take rates, Apple NFC lockout, leadership churn post-Schulman, and $13 billion of mixed M&A outcomes.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-paypal-a-digital-money-marketplace.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "PYPL",
+        "AAPL",
+        "Digital Payments",
+        "Network Effects"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "PYPL",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Turner's bull case: 435M-user two-sided network, fraud-driven approval rates, $5B FCF funding buybacks, and engagement recovery (51 vs. 21 annual transactions) with mid-20s incremental margins once super-app costs unwind — trading below COVID euphoria despite e-commerce-linked revenue growth and Braintree at $400B TPV growing 40%-plus."
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "Apple Pay's NFC near-field lockout blocks PayPal at physical point-of-sale while PayPal leads desktop and e-commerce checkout (83% vs. 48% of top-475 merchants); EU antitrust may force openness, but today Apple captures incremental wallet transactions PayPal cannot reach on iOS."
+        }
+      ],
+      "chronologySubject": "PayPal"
+    },
+    {
       "id": "acq-lockheed-martin",
       "podcastId": "acquired",
       "episodeNumber": 175,
@@ -12185,6 +12017,42 @@
       "chronologySubject": "Nintendo (Origins through NES peak)"
     },
     {
+      "id": "bb-the-walt-disney-company-an-entertainment-empire",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 101,
+      "title": "The Walt Disney Company: An Entertainment Empire",
+      "guest": "The Walt Disney Company",
+      "displayTitle": "The Walt Disney Company",
+      "displaySubtitle": "An Entertainment Empire · Public · DIS",
+      "guestRole": "Public · DIS",
+      "date": "2023-03-15",
+      "durationMinutes": 49,
+      "readMinutes": 4,
+      "rating": 4,
+      "conclusion": "Disney is a century-old storytelling machine monetized through parks, cable affiliate fees, and licensing flywheels — but the next decade hinges on whether management can rebuild cable-like economics in streaming without starving the creative engine that feeds every other segment.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-the-walt-disney-company-an-entertainment-empire.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "DIS",
+        "Streaming",
+        "Theme Parks",
+        "Media IP"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "DIS",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Weiss sees more opportunity than risk if Disney commits to profitable Disney+ at ~200M households × $15/month (~$36B revenue, ~$14B EBITDA, ~$250B EV for streaming alone) while parks and Marvel/IP compound. Medium confidence reflects innovator's-dilemma risk as cable profits decline and activists cap streaming investment."
+        }
+      ],
+      "chronologySubject": "The Walt Disney Company"
+    },
+    {
       "id": "acq-lvmh",
       "podcastId": "acquired",
       "episodeNumber": 167,
@@ -12224,6 +12092,82 @@
         }
       ],
       "chronologySubject": "LVMH · Bernard Arnault"
+    },
+    {
+      "id": "bb-constellation-software-principled-profitable-permanent",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 97,
+      "title": "Constellation Software: Principled, Profitable, Permanent",
+      "guest": "Constellation Software",
+      "displayTitle": "Constellation Software",
+      "displaySubtitle": "Principled, Profitable, Permanent · Public · CSU",
+      "guestRole": "Public · CSU",
+      "date": "2023-02-16",
+      "durationMinutes": 60,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Cerrone positions Constellation as a decentralized compounder of essential vertical market software: ~$6.5 billion of revenue, ~70% recurring, ~20% ROIC, and 100-plus small deals a year at 20–30% hurdle rates — all under Mark Leonard's zero-dilution compensation ethic. Organic growth near 4% looks modest beside SaaS peers, but clean ~20% free cash flow margins and proprietary acquisition data explain why per-share compounding since the 2006 IPO reached ~130×.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-constellation-software-principled-profitable-permanent.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "CSU",
+        "Vertical Market Software",
+        "Serial Acquisitions"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "CSU",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Allspring has held since 2014 on a three-legged stool — durable ~20% ROIC VMS, skilled capital allocation, and massive reinvestment runway — with ~$6.5 billion revenue, ~70% recurring mix, ~20% clean FCF margins, and a proven 100-deal-per-year engine; Cerrone expects mid-teens-plus per-share compounding if FCF keeps redeploying at ~20% returns even as absolute deal size rises."
+        }
+      ],
+      "chronologySubject": "Constellation Software"
+    },
+    {
+      "id": "bb-qualcomm-making-smartphones-smart",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 95,
+      "title": "Qualcomm: Making Smartphones Smart",
+      "guest": "Qualcomm",
+      "displayTitle": "Qualcomm",
+      "displaySubtitle": "Making Smartphones Smart · Public · QCOM",
+      "guestRole": "Public · QCOM",
+      "date": "2023-02-01",
+      "durationMinutes": 44,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Qualcomm is a standards-and-silicon business built on decades of R&D. Founded in 1985 after Irwin Jacobs's prior Linkabit success, it pushed CDMA from science fiction to global 3G/4G/5G relevance. Fiscal 2022 sales were $44B and enterprise value around $145-150B. The moat is modem leadership plus patents, but Apple insourcing and MediaTek competition cap the narrative.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-qualcomm-making-smartphones-smart.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "QCOM",
+        "Wireless Standards",
+        "Semiconductors"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "QCOM",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Qualcomm owns essential wireless IP and premium modem execution, but Apple insourcing and handset cyclicality keep the thesis from being purely secular."
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Apple's need for a 5G modem shows Qualcomm's technical edge, but Apple remains the largest long-term insourcing threat."
+        }
+      ],
+      "chronologySubject": "Qualcomm"
     },
     {
       "id": "acq-holiday-special-2022",
@@ -12300,6 +12244,42 @@
         }
       ],
       "chronologySubject": "Stratechery · Ben Thompson"
+    },
+    {
+      "id": "bb-netflix-the-original",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 86,
+      "title": "Netflix: The Original",
+      "guest": "Netflix",
+      "displayTitle": "Netflix",
+      "displaySubtitle": "The Original · Public · NFLX",
+      "guestRole": "Public · NFLX",
+      "date": "2022-11-30",
+      "durationMinutes": 56,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Netflix is no longer just a subscriber-growth story; it is becoming a global entertainment software business where fixed content spend can turn scale into free cash flow. The thesis rests on product reliability, broad catalog depth, 100 million password-sharing households, and an ad tier that can widen access without diluting revenue per user.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-netflix-the-original.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NFLX",
+        "Streaming",
+        "Original Content",
+        "Advertising"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NFLX",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Weiss sees a path from about $30 billion of revenue and $1 billion of free cash flow to roughly $40 billion of revenue, $12 billion of operating profit, and $20 per share of earnings if content spend stays near $17-18 billion and ads/password conversion add revenue."
+        }
+      ],
+      "chronologySubject": "Netflix"
     },
     {
       "id": "acq-enron",
@@ -12405,6 +12385,42 @@
         }
       ],
       "chronologySubject": "Benchmark Capital (current partnership)"
+    },
+    {
+      "id": "bb-intuit-an-operating-system-for-small-businesses",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 77,
+      "title": "Intuit: An Operating System for Small Businesses",
+      "guest": "Intuit",
+      "displayTitle": "Intuit",
+      "displaySubtitle": "An Operating System for Small Businesses · Public · INTU",
+      "guestRole": "Public · INTU",
+      "date": "2022-10-05",
+      "durationMinutes": 53,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Intuit is a durable self-service software compounder built on consumer empathy, tax complexity, and small-business workflow standards. QuickBooks' 90% U.S. category share, TurboTax's 30% filing share, Credit Karma's 40 million monthly users, and Mailchimp's earlier customer touchpoint give Intuit multiple ways to digitize unavoidable financial work.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-intuit-an-operating-system-for-small-businesses.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "INTU",
+        "QuickBooks",
+        "TurboTax",
+        "Small Business Software"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "INTU",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Intuit combines 80% gross margins, about 21% GAAP operating margins, 25% cash operating margins excluding acquisition amortization, low digital penetration in tax and small business, and higher-value products like TurboTax Live and QuickBooks Advanced that can lift ARPU while reducing churn."
+        }
+      ],
+      "chronologySubject": "Intuit"
     },
     {
       "id": "acq-acq-sessions-jason-calacanis",
@@ -12516,6 +12532,41 @@
         }
       ],
       "chronologySubject": "Amazon Web Services"
+    },
+    {
+      "id": "bb-crowdstrike-cyber-saas",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 72,
+      "title": "CrowdStrike: Cyber SaaS",
+      "guest": "Roniel Desai",
+      "displayTitle": "CrowdStrike",
+      "displaySubtitle": "Roniel Desai · Senior Public Market Investor, Enterprise Software · Cyber SaaS",
+      "guestRole": "Senior Public Market Investor, Enterprise Software",
+      "date": "2022-09-01",
+      "durationMinutes": 60,
+      "readMinutes": 5,
+      "rating": 4,
+      "conclusion": "Desai frames CrowdStrike as the casino-security model for cloud-era IT: lightweight agents feeding a cross-customer threat graph that legacy McAfee firewalls cannot replicate. At ~$45 billion enterprise value, 61% ARR growth on $1.9 billion, and 70% of million-dollar customers on seven modules, the platform flywheel is real — but Microsoft bundling and closed XDR stacks from Palo Alto remain the threats that cap terminal optimism.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-crowdstrike-cyber-saas.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "CRWD",
+        "Endpoint Security",
+        "Threat Graph"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "CRWD",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Desai sees a rare growth compounder — 61% ARR growth at $1.9 billion scale, expanding TAM, channel flywheel, and platform module attach — but Microsoft Office E5 bundling and closed XDR platforms from Microsoft and Palo Alto are credible threats; valuation near $45 billion already prices flawless platform execution."
+        }
+      ],
+      "chronologySubject": "CrowdStrike"
     },
     {
       "id": "acq-howard-marks-andrew-marks-something-of-value",
@@ -12668,6 +12719,48 @@
         }
       ],
       "chronologySubject": "Walmart"
+    },
+    {
+      "id": "bb-berkshire-hathaway-the-incomparable-compounder",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 63,
+      "title": "Berkshire Hathaway: The Incomparable Compounder",
+      "guest": "Berkshire Hathaway",
+      "displayTitle": "Berkshire Hathaway",
+      "displaySubtitle": "The Incomparable Compounder · Public · BRK.B",
+      "guestRole": "Public · BRK.B",
+      "date": "2022-06-29",
+      "durationMinutes": 74,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Berkshire's lesson is not simply what Buffett bought; it is how he built a balance sheet that could keep buying without ever needing outside capital. Roughly $150 billion of float, massive surplus, no stock compensation, retained earnings, and fortress culture make Berkshire an aircraft carrier that can compound at adequate rates long after Buffett.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-berkshire-hathaway-the-incomparable-compounder.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "BRK.B",
+        "Insurance Float",
+        "Capital Allocation",
+        "Conglomerates"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BRK.B",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Bloomstran owns Berkshire as a top position because roughly $50 billion of economic earnings, conservative leverage, $150 billion of float, and reinvestment at 10-12% make the stock more attractive than the S&P 500 when purchased below intrinsic value."
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Apple illustrates Buffett's durability filter: bought around 12 times earnings, it shifted from tech risk to consumer-product ecosystem moat, with users unlikely to leave the architecture once phone, tablet, notebook, and services are connected."
+        }
+      ],
+      "chronologySubject": "Berkshire Hathaway"
     },
     {
       "id": "acq-the-playbook-lessons-from-200-company-stories",
@@ -12896,6 +12989,47 @@
         }
       ],
       "chronologySubject": "Nvidia (CUDA & ML era)"
+    },
+    {
+      "id": "bb-block-square-cash-app-and-economic-access",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 53,
+      "title": "Block: Square, Cash App, and Economic Access",
+      "guest": "Block",
+      "displayTitle": "Block",
+      "displaySubtitle": "Square, Cash App, and Economic Access · Public · SQ",
+      "guestRole": "Public · SQ",
+      "date": "2022-04-06",
+      "durationMinutes": 66,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Corlett frames Block as two scaled financial ecosystems—Square for merchants and Cash App for consumers—unified by economic access, trust-first onboarding, and a roadmap to closed-loop transactions. Afterpay adds merchant discovery and in-network volume; the bull case is sustained product velocity and two-sided network effects, while trust erosion or regulatory drag are the main risks.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-block-square-cash-app-and-economic-access.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "SQ",
+        "PYPL",
+        "Payments"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "SQ",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Corlett's bull case rests on two $2B+ gross-profit ecosystems compounding through product attach, closed-loop payments that triple net take on in-network volume, and Afterpay-driven merchant discovery—against a financial-services TAM still littered with legacy UX, with culture and trust as the main execution risks."
+        },
+        {
+          "ticker": "PYPL",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "PayPal retains a durable moat, but Cash App has overtaken Venmo in P2P user growth with far lower CAC (~$10 vs. hundreds for banks) and stronger Gen Z brand penetration while Venmo pivots to monetizing existing users."
+        }
+      ],
+      "chronologySubject": "Block (Square)"
     },
     {
       "id": "acq-platforms-and-power-with-hamilton-helmer-and-chenyi-shi",
@@ -13371,39 +13505,39 @@
       "chronologySubject": "Not Boring / Packy McCormick"
     },
     {
-      "id": "bb-mongodb-the-database-platform",
+      "id": "bb-amazon-aggregators-buying-third-party-sellers",
       "podcastId": "business-breakdowns",
-      "episodeNumber": 33,
-      "title": "MongoDB: The Database Platform",
-      "guest": "Rohan Paul",
-      "displayTitle": "MongoDB",
-      "displaySubtitle": "Rohan Paul · Investor, Holocene Advisors · The Database Platform",
-      "guestRole": "Investor, Holocene Advisors",
-      "date": "2021-11-03",
-      "durationMinutes": 45,
-      "readMinutes": 4,
+      "episodeNumber": 35,
+      "title": "Amazon Aggregators: Buying Third-Party Sellers",
+      "guest": "Ali Ahmed",
+      "displayTitle": "Amazon Aggregators",
+      "displaySubtitle": "Ali Ahmed · Partner · CoVenture · Buying Third-Party Sellers",
+      "guestRole": "Partner · CoVenture",
+      "date": "2021-11-17",
+      "durationMinutes": 61,
+      "readMinutes": 3,
       "rating": 3,
-      "conclusion": "Paul frames MongoDB as the internet-era database: document architecture, open-source distribution, and a cloud Atlas motion that is accelerating customer adds from 3,500 to 8,000 per year. Low churn, 72% gross margins, and a $200 billion future market argue the name is still early despite Oracle's four-decade head start.",
+      "conclusion": "CoVenture's Ali Ahmed sizes Amazon third-party sellers at roughly $300 billion revenue growing faster than Amazon itself — ~$60 billion EBITDA at ~20% margins — while only ~$8 billion of aggregator funding chases the space at 4–6x EBITDA. Aggregators buy FBA storefronts (ASINs, reviews, inventory) and add Amazon-native playbooks: international review porting, DSP ads, and supply-chain redundancy rather than cost synergies.",
       "youtubeUrl": "",
-      "summaryFile": "bb-mongodb-the-database-platform.md",
+      "summaryFile": "bb-amazon-aggregators-buying-third-party-sellers.md",
       "availableLocales": [
         "en"
       ],
       "defaultLocale": "en",
       "keywords": [
-        "MDB",
-        "Document Database",
-        "Atlas Cloud"
+        "AMZN",
+        "FBA Roll-Up",
+        "Third-Party Sellers"
       ],
       "investmentIdeas": [
         {
-          "ticker": "MDB",
+          "ticker": "AMZN",
           "direction": "Long",
           "confidence": "Medium",
-          "thesis": "Paul argues Mongo is a different market than 40-year-old Oracle: 40% growth, 72% gross margins, sub-5% churn, and disproportionate share of new cloud apps — yet investors still pattern-match to mature relational databases and miss the developer land-grab compounding."
+          "thesis": "Aggregator growth validates Amazon's third-party flywheel — higher-margin fee revenue without inventory risk — supporting AMZN marketplace take rate durability as FBA GMV compounds toward Ahmed's half-trillion to trillion-dollar market-value scenario."
         }
       ],
-      "chronologySubject": "MongoDB"
+      "chronologySubject": "Amazon FBA · Aggregators"
     },
     {
       "id": "acq-complexity-investing-semiconductors-with-nzs-capital",
@@ -13488,42 +13622,6 @@
       "chronologySubject": "Standard Oil / Rockefeller (1890–1913)"
     },
     {
-      "id": "bb-salesforce-the-cloud-saas-pioneer-business-breakdowns-e",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 29,
-      "title": "Salesforce: The Cloud & SaaS Pioneer",
-      "guest": "Salesforce",
-      "displayTitle": "Salesforce",
-      "displaySubtitle": "The Cloud & SaaS Pioneer · Public · CRM",
-      "guestRole": "Public · CRM",
-      "date": "2021-10-06",
-      "durationMinutes": 48,
-      "readMinutes": 5,
-      "rating": 4,
-      "conclusion": "Garrett frames Salesforce as the company that invented cloud SaaS and then compounded it into a front-office platform: recurring bookings at 90%+ retention, multi-cloud attach, and an AppExchange developer network generating roughly $6 of partner revenue for every $1 Salesforce earns. Near-term numbers look secure, but cloud data warehouses and developer-led stacks pose the asymmetric threats that Siebel once faced.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-salesforce-the-cloud-saas-pioneer-business-breakdowns-e.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "CRM",
-        "SNOW",
-        "Cloud SaaS",
-        "Platform Economics"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "CRM",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Garrett argues Salesforce can hit its numbers for five years on SaaS retention, multi-cloud attach, and a $270 billion-scale platform with ~$6 of developer network revenue per $1 of CRM sales — but SMB ease-of-use gaps, cloud-warehouse data decoupling (Snowflake), and developer-bottom-up adoption (Twilio, open source) are credible medium-term share threats; valuation already embeds pioneer status."
-        }
-      ],
-      "chronologySubject": "Salesforce"
-    },
-    {
       "id": "acq-michael-mauboussin-master-class-moats-skill-luck-decision-making-and-a-whole-lot-more",
       "podcastId": "acquired",
       "episodeNumber": 134,
@@ -13592,41 +13690,6 @@
         }
       ],
       "chronologySubject": "Standard Oil (Part I)"
-    },
-    {
-      "id": "bb-datadog-the-realtime-data-monitor",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 25,
-      "title": "Datadog: The Realtime Data Monitor",
-      "guest": "Peter O'Ffringa",
-      "displayTitle": "Datadog",
-      "displaySubtitle": "Peter O'Ffringa · Author, Software Stack Investing · The Realtime Data Monitor",
-      "guestRole": "Author, Software Stack Investing",
-      "date": "2021-09-08",
-      "durationMinutes": 44,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "O'Ffringa frames Datadog as the activity monitor for the entire software stack: three pillars of observability in one UI, developer-led onboarding, and land-and-expand math that compounds 30%+ customer adds with 130%+ dollar retention. R&D now exceeds sales and marketing spend, but Web3 and low-code delivery models remain the long-tail paradigm risk.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-datadog-the-realtime-data-monitor.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "DDOG",
-        "Observability",
-        "Land and Expand"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "DDOG",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "O'Ffringa sees an execution machine: 60%+ revenue growth, 130%+ net retention, upper-70% gross margins, and R&D-led product velocity against a $44 billion observability TAM — yet market cap already reflects scale, so land-and-expand must keep compounding through security and pre-production adjacencies."
-        }
-      ],
-      "chronologySubject": "Datadog"
     },
     {
       "id": "acq-tsmc",
@@ -13857,6 +13920,296 @@
       "chronologySubject": "Ethereum"
     },
     {
+      "id": "acq-special-ho-nam-from-altos-ventures-a-different-approach-to-vc",
+      "podcastId": "acquired",
+      "episodeNumber": 126,
+      "title": "Ho Nam from Altos Ventures — A Different Approach to VC",
+      "guest": "Ho Nam from Altos Ventures — A Different Approach to VC",
+      "displayTitle": "Ho Nam from Altos Ventures — A Different Approach to VC",
+      "displaySubtitle": "Season 8",
+      "guestRole": "Season 8",
+      "date": "2021-06-20",
+      "durationMinutes": 111,
+      "readMinutes": 6,
+      "rating": 3,
+      "conclusion": "Ho Nam applies Berkshire-style patience to early-stage tech: own meaningful stakes, ignore markups, optimize for DPI. Altos's Roblox path — ~$1.5M into a ~$500M round, then ~$2.5B private round, IPO near ~$60B market cap — shows compounding in the out years, not seed-stage optionality. Ho rejects standard 2% management-fee economics, cross-fund dogma, and valuation anchoring; he leads secondary-heavy rounds, holds through IPO pullbacks (Coupang), and registers as an RIA when LP rules block the strategy. The fox-and-hedgehog filter (Jim Collins) and Phil Fisher scuttlebutt separate special businesses from good stories. For LPs, the lesson is structural alignment beats headline IRR. Rated 3/5: strong history and business insight, standard Acquired depth for the era — not a definitive reference vs. dedicated biographies or technical white papers.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-special-ho-nam-from-altos-ventures-a-different-approach-to-vc.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Altos Ventures",
+        "Value-Oriented VC",
+        "Concentrated Bets"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "RBLX",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Roblox remains the canonical Altos out-year compounding case — verify whether UGC/platform engagement supports the ~$60B+ public valuation Ho sized into at cents-on-the-dollar entry; user growth and developer economics are the operating proof points."
+        }
+      ],
+      "chronologySubject": "Ho Nam · Altos Ventures"
+    },
+    {
+      "id": "fnd-159-andy-grove-intel",
+      "podcastId": "founders",
+      "episodeNumber": 159,
+      "title": "Andy Grove (Intel)",
+      "guest": "Andy Grove",
+      "displayTitle": "Andy Grove",
+      "displaySubtitle": "Biography · Swimming Across · Episode 159",
+      "guestRole": "Biography · Swimming Across · Episode 159",
+      "date": "2020-12-21",
+      "durationMinutes": 70,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "Swimming Across is Senra's pick for Grove's pre-Intel life: Budapest regime changes, a father who disappeared on the Russian front, 200,000 refugees after the 1956 revolution, and a professor who pointed him to San Francisco. Fairchild to Intel followed — Grove became CEO for 11 years and Time Man of the Year in 1997 — but the episode's core is endurance: immigrants swim across lakes with help, setbacks, and no resentment at success.",
+      "youtubeUrl": "",
+      "summaryFile": "fnd-159-andy-grove-intel.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "INTC",
+        "Swimming Across",
+        "Only the Paranoid Survive"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "INTC",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Grove's Intel CEO era (11 years, semiconductor leadership) contextualizes INTC as a company built by immigrants who endured catastrophic personal risk — useful cultural background for turnaround investors, not a directional call from this autobiography-focused episode."
+        }
+      ],
+      "chronologySubject": "Andy Grove · Swimming Across · Intel"
+    },
+    {
+      "id": "fnd-132-edwin-land-steve-jobs-s-hero",
+      "podcastId": "founders",
+      "episodeNumber": 132,
+      "title": "Edwin Land (Steve Jobs's Hero)",
+      "guest": "Edwin Land",
+      "displayTitle": "Edwin Land",
+      "displaySubtitle": "Biography · Polaroid · Episode 132",
+      "guestRole": "Biography · Polaroid · Episode 132",
+      "date": "2020-06-20",
+      "durationMinutes": 61,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Senra opens a three-part Land series with The Instant Image: high technological drama as SX-70 burned millions without revenue, problems renamed opportunities, and Land treated Polaroid as experience not hardware. Jobs modeled himself on Land — no college degree, perfectionism, secrecy, shareholder letters as poetry — and Land's rule that anything worth doing is worth doing to excess explains both Polaroid's peaks and its later strain.",
+      "youtubeUrl": "",
+      "summaryFile": "fnd-132-edwin-land-steve-jobs-s-hero.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Polaroid",
+        "SX-70",
+        "Instant Photography"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Polaroid",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Polaroid's rise-and-strain arc is a case study in experience-led hardware with film-like recurring margins; no public Polaroid equity remains, but Land's SX-70 gamble informs how investors should underwrite long R&D ramps in consumer tech."
+        }
+      ],
+      "chronologySubject": "Edwin Land · Polaroid · SX-70"
+    },
+    {
+      "id": "fnd-38-the-space-barons-elon-musk-jeff-bezos-and-the-quest-to",
+      "podcastId": "founders",
+      "episodeNumber": 38,
+      "title": "The Space Barons: Elon Musk, Jeff Bezos, and the Quest to Colonize the Cosmos",
+      "guest": "Elon Musk & Jeff Bezos",
+      "displayTitle": "Elon Musk & Jeff Bezos",
+      "displaySubtitle": "The Space Barons: Elon Musk, Jeff Bezos, and the Quest to Colonize the Cosmos",
+      "guestRole": "Biography · The Space Barons · Episode 38",
+      "date": "2018-09-17",
+      "durationMinutes": 90,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Davenport's Space Barons pairs Bezos the secretive tortoise with Musk the audacious hare: vertical rocket landings reignited space hope, while 2003 Blue Origin land hunts happened as Amazon passed a trillion-dollar market cap critics once mocked. Senra stresses criticism immunity (Amazon.bomb headlines), Bezos's 2003 analogy that the web was like electricity in 1908, and the closing thesis that rivalry — not consolation — is the best rocket fuel for Mars-scale ambitions.",
+      "youtubeUrl": "",
+      "summaryFile": "fnd-38-the-space-barons-elon-musk-jeff-bezos-and-the-quest-to.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AMZN",
+        "TSLA",
+        "Blue Origin"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AMZN",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Bezos's 2003 confidence — double-digit segment growth while funding Blue Origin — reinforces Amazon as a cash-flow engine that subsidizes optional long-horizon bets; episode supports enduring reinvestment culture more than near-term AWS multiples."
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Musk's SpaceX narrative parallels Tesla's public-goal-driven strategy; episode is biography not an auto thesis, but illustrates how Musk uses visible rivals to marshal capital and talent toward physics-limited missions."
+        }
+      ],
+      "chronologySubject": "Musk · Bezos · Space Barons"
+    },
+    {
+      "id": "tzs-ep34",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 34,
+      "title": "Li Auto: Can Li Xiang Win the Second Critical War? Investment Value & Risks",
+      "guest": "David",
+      "displayTitle": "David",
+      "displaySubtitle": "Li Auto: Can Li Xiang Win the Second Critical War? Investment Value & Risks",
+      "guestRole": "Practical Investments Host",
+      "date": "2024-04-14",
+      "durationMinutes": 129,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "David's 2024 Li Auto deep dive asks whether Li Xiang can win the second war — BEV platform shift plus intelligent-driving differentiation — and prices LI investment value versus risks. Family SUV niche and execution history support Watch; margin compression and AD catch-up costs threaten Long. Investors should track delivery cadence, software revenue mix, and BEV model success as proof of second-act thesis.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep34.md",
+      "summaryFileZh": "tzs-ep34.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "LI",
+        "EV",
+        "Intelligent Driving",
+        "Valuation"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "LI",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Li Auto (LI): David Global 50 deep dive — Watch BEV second war, delivery cadence, and AD monetization versus price-war margin risk"
+        }
+      ],
+      "chronologySubject": "David · Li Auto Global 50"
+    },
+    {
+      "id": "bb-mongodb-the-database-platform",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 33,
+      "title": "MongoDB: The Database Platform",
+      "guest": "Rohan Paul",
+      "displayTitle": "MongoDB",
+      "displaySubtitle": "Rohan Paul · Investor, Holocene Advisors · The Database Platform",
+      "guestRole": "Investor, Holocene Advisors",
+      "date": "2021-11-03",
+      "durationMinutes": 45,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Paul frames MongoDB as the internet-era database: document architecture, open-source distribution, and a cloud Atlas motion that is accelerating customer adds from 3,500 to 8,000 per year. Low churn, 72% gross margins, and a $200 billion future market argue the name is still early despite Oracle's four-decade head start.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-mongodb-the-database-platform.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "MDB",
+        "Document Database",
+        "Atlas Cloud"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "MDB",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Paul argues Mongo is a different market than 40-year-old Oracle: 40% growth, 72% gross margins, sub-5% churn, and disproportionate share of new cloud apps — yet investors still pattern-match to mature relational databases and miss the developer land-grab compounding."
+        }
+      ],
+      "chronologySubject": "MongoDB"
+    },
+    {
+      "id": "bb-salesforce-the-cloud-saas-pioneer-business-breakdowns-e",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 29,
+      "title": "Salesforce: The Cloud & SaaS Pioneer",
+      "guest": "Salesforce",
+      "displayTitle": "Salesforce",
+      "displaySubtitle": "The Cloud & SaaS Pioneer · Public · CRM",
+      "guestRole": "Public · CRM",
+      "date": "2021-10-06",
+      "durationMinutes": 48,
+      "readMinutes": 5,
+      "rating": 4,
+      "conclusion": "Garrett frames Salesforce as the company that invented cloud SaaS and then compounded it into a front-office platform: recurring bookings at 90%+ retention, multi-cloud attach, and an AppExchange developer network generating roughly $6 of partner revenue for every $1 Salesforce earns. Near-term numbers look secure, but cloud data warehouses and developer-led stacks pose the asymmetric threats that Siebel once faced.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-salesforce-the-cloud-saas-pioneer-business-breakdowns-e.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "CRM",
+        "SNOW",
+        "Cloud SaaS",
+        "Platform Economics"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "CRM",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Garrett argues Salesforce can hit its numbers for five years on SaaS retention, multi-cloud attach, and a $270 billion-scale platform with ~$6 of developer network revenue per $1 of CRM sales — but SMB ease-of-use gaps, cloud-warehouse data decoupling (Snowflake), and developer-bottom-up adoption (Twilio, open source) are credible medium-term share threats; valuation already embeds pioneer status."
+        }
+      ],
+      "chronologySubject": "Salesforce"
+    },
+    {
+      "id": "bb-datadog-the-realtime-data-monitor",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 25,
+      "title": "Datadog: The Realtime Data Monitor",
+      "guest": "Peter O'Ffringa",
+      "displayTitle": "Datadog",
+      "displaySubtitle": "Peter O'Ffringa · Author, Software Stack Investing · The Realtime Data Monitor",
+      "guestRole": "Author, Software Stack Investing",
+      "date": "2021-09-08",
+      "durationMinutes": 44,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "O'Ffringa frames Datadog as the activity monitor for the entire software stack: three pillars of observability in one UI, developer-led onboarding, and land-and-expand math that compounds 30%+ customer adds with 130%+ dollar retention. R&D now exceeds sales and marketing spend, but Web3 and low-code delivery models remain the long-tail paradigm risk.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-datadog-the-realtime-data-monitor.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "DDOG",
+        "Observability",
+        "Land and Expand"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "DDOG",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "O'Ffringa sees an execution machine: 60%+ revenue growth, 130%+ net retention, upper-70% gross margins, and R&D-led product velocity against a $44 billion observability TAM — yet market cap already reflects scale, so land-and-expand must keep compounding through security and pre-production adjacencies."
+        }
+      ],
+      "chronologySubject": "Datadog"
+    },
+    {
       "id": "bb-formula-one-the-iconic-motor-sport",
       "podcastId": "business-breakdowns",
       "episodeNumber": 14,
@@ -13891,41 +14244,6 @@
         }
       ],
       "chronologySubject": "Formula One"
-    },
-    {
-      "id": "acq-special-ho-nam-from-altos-ventures-a-different-approach-to-vc",
-      "podcastId": "acquired",
-      "episodeNumber": 126,
-      "title": "Ho Nam from Altos Ventures — A Different Approach to VC",
-      "guest": "Ho Nam from Altos Ventures — A Different Approach to VC",
-      "displayTitle": "Ho Nam from Altos Ventures — A Different Approach to VC",
-      "displaySubtitle": "Season 8",
-      "guestRole": "Season 8",
-      "date": "2021-06-20",
-      "durationMinutes": 111,
-      "readMinutes": 6,
-      "rating": 3,
-      "conclusion": "Ho Nam applies Berkshire-style patience to early-stage tech: own meaningful stakes, ignore markups, optimize for DPI. Altos's Roblox path — ~$1.5M into a ~$500M round, then ~$2.5B private round, IPO near ~$60B market cap — shows compounding in the out years, not seed-stage optionality. Ho rejects standard 2% management-fee economics, cross-fund dogma, and valuation anchoring; he leads secondary-heavy rounds, holds through IPO pullbacks (Coupang), and registers as an RIA when LP rules block the strategy. The fox-and-hedgehog filter (Jim Collins) and Phil Fisher scuttlebutt separate special businesses from good stories. For LPs, the lesson is structural alignment beats headline IRR. Rated 3/5: strong history and business insight, standard Acquired depth for the era — not a definitive reference vs. dedicated biographies or technical white papers.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-special-ho-nam-from-altos-ventures-a-different-approach-to-vc.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Altos Ventures",
-        "Value-Oriented VC",
-        "Concentrated Bets"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "RBLX",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Roblox remains the canonical Altos out-year compounding case — verify whether UGC/platform engagement supports the ~$60B+ public valuation Ho sized into at cents-on-the-dollar entry; user growth and developer economics are the operating proof points."
-        }
-      ],
-      "chronologySubject": "Ho Nam · Altos Ventures"
     },
     {
       "id": "acq-berkshire-hathaway-part-iii",
@@ -14500,41 +14818,6 @@
         }
       ],
       "chronologySubject": "Bitcoin"
-    },
-    {
-      "id": "fnd-159-andy-grove-intel",
-      "podcastId": "founders",
-      "episodeNumber": 159,
-      "title": "Andy Grove (Intel)",
-      "guest": "Andy Grove",
-      "displayTitle": "Andy Grove",
-      "displaySubtitle": "Biography · Swimming Across · Episode 159",
-      "guestRole": "Biography · Swimming Across · Episode 159",
-      "date": "2020-12-21",
-      "durationMinutes": 70,
-      "readMinutes": 3,
-      "rating": 5,
-      "conclusion": "Swimming Across is Senra's pick for Grove's pre-Intel life: Budapest regime changes, a father who disappeared on the Russian front, 200,000 refugees after the 1956 revolution, and a professor who pointed him to San Francisco. Fairchild to Intel followed — Grove became CEO for 11 years and Time Man of the Year in 1997 — but the episode's core is endurance: immigrants swim across lakes with help, setbacks, and no resentment at success.",
-      "youtubeUrl": "",
-      "summaryFile": "fnd-159-andy-grove-intel.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "INTC",
-        "Swimming Across",
-        "Only the Paranoid Survive"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "INTC",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Grove's Intel CEO era (11 years, semiconductor leadership) contextualizes INTC as a company built by immigrants who endured catastrophic personal risk — useful cultural background for turnaround investors, not a directional call from this autobiography-focused episode."
-        }
-      ],
-      "chronologySubject": "Andy Grove · Swimming Across · Intel"
     },
     {
       "id": "acq-special-acquired-x-indie-hackers",
@@ -15126,41 +15409,6 @@
         }
       ],
       "chronologySubject": "Oprah Winfrey & Harpo Studios"
-    },
-    {
-      "id": "fnd-132-edwin-land-steve-jobs-s-hero",
-      "podcastId": "founders",
-      "episodeNumber": 132,
-      "title": "Edwin Land (Steve Jobs's Hero)",
-      "guest": "Edwin Land",
-      "displayTitle": "Edwin Land",
-      "displaySubtitle": "Biography · Polaroid · Episode 132",
-      "guestRole": "Biography · Polaroid · Episode 132",
-      "date": "2020-06-20",
-      "durationMinutes": 61,
-      "readMinutes": 3,
-      "rating": 4,
-      "conclusion": "Senra opens a three-part Land series with The Instant Image: high technological drama as SX-70 burned millions without revenue, problems renamed opportunities, and Land treated Polaroid as experience not hardware. Jobs modeled himself on Land — no college degree, perfectionism, secrecy, shareholder letters as poetry — and Land's rule that anything worth doing is worth doing to excess explains both Polaroid's peaks and its later strain.",
-      "youtubeUrl": "",
-      "summaryFile": "fnd-132-edwin-land-steve-jobs-s-hero.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Private:Polaroid",
-        "SX-70",
-        "Instant Photography"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "Private:Polaroid",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Polaroid's rise-and-strain arc is a case study in experience-led hardware with film-like recurring margins; no public Polaroid equity remains, but Land's SX-70 gamble informs how investors should underwrite long R&D ramps in consumer tech."
-        }
-      ],
-      "chronologySubject": "Edwin Land · Polaroid · SX-70"
     },
     {
       "id": "acq-spacex",

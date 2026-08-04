@@ -1,0 +1,117 @@
+{
+  "episode_id": "sv101-ep182",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 182,
+    "title": "Conversation with Qualcomm: Agents, 6G, and the Quiet Winner Behind Physical AI",
+    "guest": "Xu Hao (徐晧)",
+    "guest_role": "Qualcomm Global VP",
+    "date": "2026-05-15",
+    "duration_minutes": 40,
+    "youtube_url": "https://www.youtube.com/watch?v=eAYx6CHstNw",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=eAYx6CHstNw",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "QCOM",
+    "Private:PhysicalAI",
+    "AAPL"
+  ],
+  "conclusion": "While frontier labs fight in the cloud, Qualcomm is framed as the underwater winner: shares +60% in a year, May highs, as Physical AI pushes phones, AI PCs, XR, cars, and robots to the edge — with 6G anticipation layered on. From Beijing's Snapdragon party, VP Xu Hao argues the hard part is fitting capable models on-device via distillation/quantization, combining comms+AI+robotics, and using 6G ideas like integrated sensing and communications for physical-world maps. Demos span robots on Qinglong platforms, AR glasses memory, and cars as AI workplaces.",
+  "background": "On-site interviews and booth tours around edge AI products. Themes: agentic phones that act without preinstalled apps, TSN-like latency control from 5G into 6G, whether AI PC is real (coding as killer app), and glasses as among the hardest on-device AI form factors.",
+  "important_facts": [
+    "Market setup: Qualcomm stock +60% YoY into late-May highs as Physical AI and edge devices heat demand; Snapdragon pitched as edge-AI OS/platform. Xu: bring AI to every household — bottlenecks are model size on phones; answer with smaller task models + quantization; Qualcomm spans phone/PC/auto/robot/AR-VR.",
+    "6G angle: beyond faster bits — ISAC (integrated sensing and communications) builds radio-derived maps for robots/cars/drones (low-altitude economy tracking). Latency: push end-to-end toward single-digit/teen milliseconds; 5G TSN timestamping carries forward. Auto: ADAS + cabin AI + 'raise lobster' style compute demos; glasses (e.g. Tongyi S1 on AR1) for see-what-you-see streaming and episodic memory ('where are my keys').",
+    "Robotics demos: partners like Accelerated Evolution K1 and Agaxi '通天晓' on Qualcomm Qinglong QCS8550 with on-device LLM/TTS for offline realtime interaction. Agentic phone vision: talk goals, phone orchestrates without hunting apps. AI PC defended via coding as strongest commercial AI use case."
+  ],
+  "mental_model": {
+    "name": "Edge Silicon × 6G Sensing × Physical AI Bundle",
+    "components": "Win when AI leaves the data center: shrink models, guarantee latency, and fuse radio sensing with cameras so robots/cars/phones share one physical world model — sold as a Snapdragon platform bundle.",
+    "application": "QCOM as diversified edge-AI/6G proxy versus pure GPU names. Watch robot/auto design-wins on Qinglong/Snapdragon and whether agentic phone UX ships. AAPL remains a customer/competitor tension in premium phones."
+  },
+  "key_insights": [
+    {
+      "view": "Physical AI makes the modem company strategic again.",
+      "question": "Why Qualcomm now?",
+      "answer": "Edge devices need radios + NPUs + ecosystem software; cloud SOTA does not ship a phone robot stack."
+    },
+    {
+      "view": "6G is a sensor network story.",
+      "question": "What's new vs 5G?",
+      "answer": "ISAC maps and drone/airspace awareness — AI training/monitoring fuel, not just Mbps."
+    },
+    {
+      "view": "On-device agents need ruthless model diets.",
+      "question": "How do phones run it?",
+      "answer": "Distill/quantize to smaller specialists; keep UX 'unfelt' while silicon does the orchestration."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "QCOM",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Edge Physical AI + 6G sensing narrative supports the 2026 rerating; competition and Apple custom silicon remain risks — medium"
+    },
+    {
+      "ticker": "Private:PhysicalAI",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Theme basket (robots/XR/auto) where Qualcomm wants to be the default platform — low"
+    },
+    {
+      "ticker": "AAPL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Premium phone AI path may bypass or reprice Qualcomm silicon — secondary overlap, low"
+    }
+  ],
+  "golden_quotes": [
+    "An invisible big winner: Qualcomm.",
+    "Physical AI.",
+    "Bring AI to every household."
+  ],
+  "chronology": {
+    "subject": "Qualcomm · edge AI · 6G",
+    "events": [
+      {
+        "date": "2025–2026",
+        "event": "QCOM shares roughly +60%; Physical AI enters mainstream talk"
+      },
+      {
+        "date": "2026-05",
+        "event": "Stock hits record highs into late May"
+      },
+      {
+        "date": "2026-05",
+        "event": "Beijing Snapdragon 5th-anniversary event interviews"
+      },
+      {
+        "date": "2026",
+        "event": "6G prototypes + ISAC demos with carriers/vendors"
+      },
+      {
+        "date": "2026",
+        "event": "Robot/AR partner demos on Qinglong / AR1 platforms"
+      },
+      {
+        "date": "2026-05-15",
+        "event": "Silicon Valley 101 EP182"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep182",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "episode_id": "sv101-ep185",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 185,
+    "title": "The Rise of SpaceX: Everything for Mars | Visiting Starbase and HQ",
+    "guest": "Lewis Hong and others",
+    "guest_role": "Former SpaceX executive · Silicon Valley 101 field team",
+    "date": "2026-06-05",
+    "duration_minutes": 75,
+    "youtube_url": "https://www.youtube.com/watch?v=x2meJPOn9ws",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=x2meJPOn9ws",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:SpaceX",
+    "TSLA",
+    "BA",
+    "Private:Starlink"
+  ],
+  "conclusion": "As SpaceX courts a multi-trillion IPO narrative, Silicon Valley 101 visits Boca Chica Starbase and the LA warehouse where Falcon 1 was born, with ex-executive Lewis Hong retelling the rise. From Mars Oasis humiliation in Russia to three Falcon 1 failures, the near-death 2008 NASA COTS win, reusable Falcon 9 (one booster to 33 flights by Feb 2026), Crew Dragon as America's de facto crew vehicle after Boeing slips, and stainless-steel Starship built in tents — the through-line is simple: colonize Mars by collapsing launch cost.",
+  "background": "Field episode at Starbase and SpaceX HQ around a historically large IPO discussion. Guests unpack Musk's five-step algorithm culture, internal challenges to the boss, Dragon's glass-cockpit fights with NASA heritage thinking, and why stainless steel beats carbon fiber for Starship factories on dirt pads.",
+  "important_facts": [
+    "Origin myth: Musk's Mars Oasis plan to buy a Soviet missile, plant a greenhouse on Mars, and shame NASA into funding — three Russia trips ended in humiliation; Excel math showed materials ~3% of rocket price, so he founded SpaceX in 2002 with PayPal cash (eBay's $1.5B all-cash deal), earlier than Facebook and years before iPhone 4. Falcon 1 was built in a tiny LA warehouse beside the airport.",
+    "Three early Falcon 1 failures nearly killed the company amid the financial crisis and Tesla stress; Ashlee Vance-sourced pep talk lore: SpaceX would not die. Dec 23, 2008 NASA phone call — $1.6B COTS-class lifeline. Falcon 9 reuse matured toward ~100% success, boosters past 20 flights, turnaround under 20 days; Feb 21, 2026 a booster completed its 33rd flight/landing, crushing the old '10 flights is physics' folklore. Crew Dragon became the US's practical crew vehicle as Boeing's crewed plan slipped indefinitely after Crew-9 optics.",
+    "Starship materials bet: stainless (V-2/Atlas heritage) is cheap, heat/cold tolerant, and factory-friendly versus pristine carbon-fiber cleanrooms costing years and hundreds of millions. Culture: Musk's five-step method plus 'prove it' dissent — not blind kingship. Mission remains Mars colonization / extending consciousness beyond Earth."
+  ],
+  "mental_model": {
+    "name": "Cost Collapse × Reuse Loops × Mission Gravity",
+    "components": "Treat launch cost as the constraint; reuse and manufacturing choices (stainless tents vs carbon cleanrooms) as the unlock; keep Mars as the non-negotiable north star that justifies insane interim risk.",
+    "application": "Diligence Private:SpaceX / Starlink on flight cadence, reuse stats, and regulatory spectrum deals — not just hype. BA crew franchise risk is real. TSLA remains entangled via Musk attention/capital cycles but this episode is aerospace-first."
+  },
+  "key_insights": [
+    {
+      "view": "SpaceX is a redemption loop, not a clean S-curve.",
+      "question": "Why did it survive 2008?",
+      "answer": "Technical near-misses plus a NASA contract at the last dollar — commercial space needed a buyer of first resort."
+    },
+    {
+      "view": "Reuse turned folklore into compounding CAPEX.",
+      "question": "What's the real metric?",
+      "answer": "Flights per booster and days between flights beat brochure Isp; 33 recoveries reprice the industry cost curve."
+    },
+    {
+      "view": "Starship manufacturing is the product.",
+      "question": "Why steel tents?",
+      "answer": "Cheap material + outdoor factories beat aerospace cleanroom CapEx when the vehicle is 100m class."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:SpaceX",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Reuse cadence + Starship manufacturing edge + Mars narrative support multi-trillion IPO talk; execution/regulatory risk still huge — medium"
+    },
+    {
+      "ticker": "BA",
+      "direction": "Short",
+      "confidence": "Low",
+      "thesis": "Crew program optics vs Dragon reinforce Boeing space franchise erosion — low confidence, episode-colored"
+    },
+    {
+      "ticker": "Private:Starlink",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "LEO internet is the cash engine funding Mars hardware; depends on spectrum/geopolitics — low"
+    }
+  ],
+  "golden_quotes": [
+    "Go to Mars.",
+    "Performance art.",
+    "Colonize Mars."
+  ],
+  "chronology": {
+    "subject": "SpaceX rise · Starbase · reuse",
+    "events": [
+      {
+        "date": "2001–2002",
+        "event": "Mars Oasis / Russia trips; SpaceX founded with PayPal proceeds"
+      },
+      {
+        "date": "2006–2008",
+        "event": "Three Falcon 1 failures; company near death"
+      },
+      {
+        "date": "2008-12-23",
+        "event": "NASA contract lifeline (~$1.6B)"
+      },
+      {
+        "date": "2010s–2020s",
+        "event": "Falcon 9 reuse matures; Crew Dragon dominates US crew access"
+      },
+      {
+        "date": "2020s",
+        "event": "Starbase / Starship stainless manufacturing push"
+      },
+      {
+        "date": "2026-02-21",
+        "event": "Falcon 9 booster completes 33rd flight/landing"
+      },
+      {
+        "date": "2026",
+        "event": "Multi-trillion IPO narrative intensifies"
+      },
+      {
+        "date": "2026-06-05",
+        "event": "Silicon Valley 101 Starbase/HQ episode"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep185",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "episode_id": "sv101-ep181",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 181,
+    "title": "拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶｜机器人特辑",
+    "guest": "业内工程师/供应链人士",
+    "guest_role": "机器人硬件从业者 · 硅谷101（陈茜）",
+    "date": "2026-05-08",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=DZIhQeFEdXI",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=DZIhQeFEdXI",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:Robotics",
+    "TSLA",
+    "Private:CATL"
+  ],
+  "conclusion": "主持人陈茜把人形机器人拆成骨架、关节、传感器与电气计算四系统，指出刷屏空翻背后是关节/执行器从液压走向电机+减速器的跃迁。行星/谐波/RV减速器对应手/臂/髋不同载荷；TN曲线必须与仿真一致否则摔倒；IMU充当前庭；触觉路径多样。半马赛场荣耀包揽前列引发“门槛低吗”——零部件与手机汽车供应链重合所以Yes，量产一致性与接住落叶的操作所以No。护城河转向良率与精细操作，而不只是空翻。",
+  "background": "科普向供应链特辑：铝合金/钛合金承受类车祸落地冲击、千赫兹级伺服闭环、电池供应商与EV重叠（宁德/LG/亿纬），以及手机/车企为何突然擅长机器人运动会。",
+  "important_facts": [
+    "四系统：骨架（膝踝等处铝/钛抗冲击）、关节执行器（旋转=电机+减速器；直线=电机+丝杠）、传感器（力矩、相机、加速度计/陀螺/磁力计融合的IMU）、电气与计算。空翻触地加速度可比车祸——早期Atlas液压后，电机关节才让舞蹈/武术/半马视频密集出现。",
+    "减速器：行星（减速比小，手部）、谐波（减速比大精度高，肘肩，抗冲击弱）、RV（刚性抗冲击，髋膝腰）。TN曲线决定电流—转速—扭矩；仿真与实物偏差会导致控制失灵摔倒。关节状态每秒上千次调节；IMU在被踹后拉回平衡。触觉：压阻/电容/压电/光学（热门），最好三维压力+摩擦。",
+    "产业：零件商与手机、汽车高度重合，故荣耀/小米/特斯拉/小鹏能快速下场；半马既有“粉身碎骨”也有荣耀包揽前六并刷新人类半马纪录的讨论。业内“Yes and No”——拼出会跳舞的容易，稳定量产与接落叶级操作难。电池侧提到宁德时代、LG、亿纬锂能等。"
+  ],
+  "mental_model": {
+    "name": "执行器栈 × Sim2Real曲线 × 消费电子/汽车供应链重叠",
+    "components": "把人形拆到减速器/IMU/触觉/电池；把TN曲线保真当从刷屏动作到有用工作的桥；把手机/EV供应链当规模化上车坡道。",
+    "application": "机器人投资应承销执行器/减速器与有工厂良率的集成商，而非只看空翻。TSLA Optimus与中国手机OEM在同一零件图谱竞争；宁德级电池是共享瓶颈/机会。"
+  },
+  "key_insights": [
+    {
+      "view": "空翻时代本质是关节时代。",
+      "question": "这一两年变了什么？",
+      "answer": "电机+减速器执行器性能跃迁；多数人形演示告别液压怀旧。"
+    },
+    {
+      "view": "共享供应链降低入场，不降低精通。",
+      "question": "手机厂商为何能赢半马？",
+      "answer": "零件与部分算法现成；稀缺的是可靠性与灵巧操作。"
+    },
+    {
+      "view": "接住落叶才是真基准。",
+      "question": "什么取代表演？",
+      "answer": "富接触操作+放量良率——硬件词典已有，产品化未完成。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Robotics",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "执行器/供应链重建是演示之下的可投层——低，早期"
+    },
+    {
+      "ticker": "TSLA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Optimus同处电机/结构学习曲线；节目偏行业而非特斯拉专论——低"
+    },
+    {
+      "ticker": "Private:CATL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "经由宁德/LG/亿纬提及的EV电池供应链重叠主题；纯正映射弱——低置信"
+    }
+  ],
+  "golden_quotes": [
+    "机甲都出来了",
+    "空翻",
+    "谐波减速器"
+  ],
+  "chronology": {
+    "subject": "人形硬件 · 执行器 · 供应链",
+    "events": [
+      {
+        "date": "2010s",
+        "event": "液压Atlas时代空翻惊艳观众"
+      },
+      {
+        "date": "2020s",
+        "event": "电机关节跃迁，舞蹈/武术演示规模化"
+      },
+      {
+        "date": "2020s",
+        "event": "手机/车企用共享供应链入局人形"
+      },
+      {
+        "date": "2026",
+        "event": "机器人半马热潮与荣耀成绩讨论"
+      },
+      {
+        "date": "2026",
+        "event": "行业争论：组装门槛低 vs 产品化门槛高"
+      },
+      {
+        "date": "2026-05-08",
+        "event": "硅谷101 EP181拆解"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep181",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

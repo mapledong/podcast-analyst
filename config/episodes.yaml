@@ -1879,6 +1879,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=Fko6aJvRC4c
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: sv101-ep186
+  episode_number: 186
+  title: Cook's Exit, Apple's New AI Power Map, and the Privacy Balance | WWDC26
+  guest: On-site guests / industry observers
+  guest_role: WWDC attendees · Apple watchers
+  date: '2026-06-12'
+  duration_minutes: 45
+  youtube_url: https://www.youtube.com/watch?v=hIdvhl8PUwc
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-hermes
   episode_number: 185
   title: Hermès
@@ -1899,6 +1909,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=Fu_1_oTwhhU
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: sv101-ep185
+  episode_number: 185
+  title: 'The Rise of SpaceX: Everything for Mars | Visiting Starbase and HQ'
+  guest: Lewis Hong and others
+  guest_role: Former SpaceX executive · Silicon Valley 101 field team
+  date: '2026-06-05'
+  duration_minutes: 75
+  youtube_url: https://www.youtube.com/watch?v=x2meJPOn9ws
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-novo-nordisk-ozempic
   episode_number: 184
   title: Novo Nordisk (Ozempic)
@@ -1937,6 +1957,17 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=-wsUV8jbDxE
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: sv101-ep183
+  episode_number: 183
+  title: 'Tian Yuandong Again: RSI at a $4.65B Valuation and AI Self-Evolution | Neolabs'
+  guest: Tian Yuandong (Yuandong Tian)
+  guest_role: Co-founder, Recursive Superintelligence (RSI) · former Meta FAIR research
+    director
+  date: '2026-05-22'
+  duration_minutes: 110
+  youtube_url: https://www.youtube.com/watch?v=F7oNfszczVc
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-visa
   episode_number: 182
   title: Visa
@@ -1956,6 +1987,17 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=suCMElcAOo0
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: sv101-ep182
+  episode_number: 182
+  title: 'Conversation with Qualcomm: Agents, 6G, and the Quiet Winner Behind Physical
+    AI'
+  guest: Xu Hao (徐晧)
+  guest_role: Qualcomm Global VP
+  date: '2026-05-15'
+  duration_minutes: 40
+  youtube_url: https://www.youtube.com/watch?v=eAYx6CHstNw
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-charlie-munger
   episode_number: 181
   title: Charlie Munger
@@ -1975,6 +2017,17 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=D8POUUBHgoU
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: sv101-ep181
+  episode_number: 181
+  title: 'Inside the Robot Body, Mass Production, and Supply Chains: After Flips,
+    Catch a Falling Leaf'
+  guest: Industry engineers / supply-chain voices
+  guest_role: Robotics hardware practitioners · Silicon Valley 101 (Chen Qian)
+  date: '2026-05-08'
+  duration_minutes: 45
+  youtube_url: https://www.youtube.com/watch?v=DZIhQeFEdXI
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-jensen-huang
   episode_number: 180
   title: NVIDIA CEO Jensen Huang

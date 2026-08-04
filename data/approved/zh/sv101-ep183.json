@@ -1,0 +1,122 @@
+{
+  "episode_id": "sv101-ep183",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 183,
+    "title": "再访田渊栋：46.5亿美金估值的RSI，与AI自进化｜Neolabs特辑【101视频播客】",
+    "guest": "田渊栋",
+    "guest_role": "Recursive Superintelligence（RSI）联合创始人 · 前Meta FAIR研究总监",
+    "date": "2026-05-22",
+    "duration_minutes": 110,
+    "youtube_url": "https://www.youtube.com/watch?v=F7oNfszczVc",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=F7oNfszczVc",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:RSI",
+    "META",
+    "Private:Anthropic",
+    "GOOGL"
+  ],
+  "conclusion": "离开Meta FAIR数月后，田渊栋官宣加入Recursive Superintelligence（RSI）：8位联合创始人，融资6.5亿美元，估值46.5亿美元，尚无产品。叙事是递归自我改进——用AI自动化研究来让AI更强——靠MetaMind/Salesforce、DeepMind校友与Cresta操盘手等人脉卖给顶级资本。他强调最顶级资本还是看人，runway大约一到三年算力烧钱，并把自动化研究机器当作可产品化的secret sauce；同时点评Anthropic/OpenAI/谷歌的编程Agent变局。",
+  "background": "旧金山视频播客再访：为何在Meta待近11年后离开、如何看Muse Spark与强制蒸馏争议、世界模型与LeCun AMI Labs、以及Anthropic编程领先能否在Codex与Antigravity追赶下延续。",
+  "important_facts": [
+    "融资：无产品先拿到6.5亿美金、估值46.5亿；田渊栋称顶级资本看人与快速改道执行力。联合创始人谱系含Richard Socher/MetaMind—Salesforce脉络、Cresta操盘手转向递归愿景、Tim Rocktäschel（Meta→DeepMind）对融资口碑贡献大。内部进展“好于预期”；runway大约一两年到两三年，因GPU消耗现金。",
+    "技术押注：recursive self improvement / 自动化研究循环——做出能自动研究与理解的machinery，结果可展示发表，方法可作黑盒secret sauce；并讨论latent reasoning。目标是自进化系统，而非单一聊天演示。",
+    "行业观察：Anthropic商业化与上市叙事强；编程Agent位次不稳，OpenAI Codex追赶、谷歌Antigravity入场。Meta章节：近11年，感到大厂不需要那么多人、要找意义；从校友视角评论蒸馏争议与Muse Spark。"
+  ],
+  "mental_model": {
+    "name": "团队赌注 × 递归闭环 × 算力跑道",
+    "components": "前沿AI在产品难写清时，种子轮清在创始人图谱；公司是有限GPU runway下把自我改进产品化的研究工厂。",
+    "application": "Private:RSI是高beta人才复合体——下轮前看联合创始人黏性与“wow”演示。META人才外流值得观察；三强编程竞赛定天气。"
+  },
+  "key_insights": [
+    {
+      "view": "顶级资本仍先买人。",
+      "question": "为何无产品估46.5亿？",
+      "answer": "路线图几周过期；投资人买能每周改瞄准且已在Meta/DeepMind/Salesforce证明过的团队。"
+    },
+    {
+      "view": "自动研究就是产品。",
+      "question": "交付什么？",
+      "answer": "能持续产出惊艳研究结果、方法保密的machinery——研究即产品。"
+    },
+    {
+      "view": "编程Agent王座不稳。",
+      "question": "Anthropic能一直领先吗？",
+      "answer": "商业动能真实，但Codex/Antigravity说明位置可翻——RSI不押在今日聊天榜。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:RSI",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "履历+递归SI叙事拿到超大种子；仍无产品、算力跑道有限——低置信"
+    },
+    {
+      "ticker": "META",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "FAIR人才流向neolab是信号；蒸馏争议属文化风险——低置信"
+    },
+    {
+      "ticker": "Private:Anthropic",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "节目描绘其2026编程商业化/上市叙事偏强——有争议，低置信"
+    }
+  ],
+  "golden_quotes": [
+    "最顶级的资本还是看人",
+    "Recursive self improvement",
+    "大厂不需要那么多人了"
+  ],
+  "chronology": {
+    "subject": "RSI · 田渊栋 · 递归自进化",
+    "events": [
+      {
+        "date": "~2015–2025",
+        "event": "田渊栋在Meta FAIR约11年"
+      },
+      {
+        "date": "2025",
+        "event": "离开Meta，接触多家neolab"
+      },
+      {
+        "date": "2025–2026",
+        "event": "RSI八位联合创始人组建"
+      },
+      {
+        "date": "2026",
+        "event": "融资6.5亿美元，估值46.5亿"
+      },
+      {
+        "date": "2026",
+        "event": "内部进展好于预期；runway约1–3年"
+      },
+      {
+        "date": "2026",
+        "event": "行业竞逐编程Agent/自动研究"
+      },
+      {
+        "date": "2026-05-22",
+        "event": "硅谷101 EP183专访"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep183",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

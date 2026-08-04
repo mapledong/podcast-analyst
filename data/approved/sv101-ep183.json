@@ -1,0 +1,122 @@
+{
+  "episode_id": "sv101-ep183",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 183,
+    "title": "Tian Yuandong Again: RSI at a $4.65B Valuation and AI Self-Evolution | Neolabs",
+    "guest": "Tian Yuandong (Yuandong Tian)",
+    "guest_role": "Co-founder, Recursive Superintelligence (RSI) · former Meta FAIR research director",
+    "date": "2026-05-22",
+    "duration_minutes": 110,
+    "youtube_url": "https://www.youtube.com/watch?v=F7oNfszczVc",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=F7oNfszczVc",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:RSI",
+    "META",
+    "Private:Anthropic",
+    "GOOGL"
+  ],
+  "conclusion": "Months after Meta FAIR exit, Yuandong Tian joins Recursive Superintelligence (RSI): eight co-founders, $650M raised, $4.65B valuation, no product yet. Thesis is recursive self-improvement — AI that automates research to strengthen AI — sold on team pedigree (MetaMind/Salesforce, DeepMind alumni, Cresta operators). He frames top capital as still betting people in a fast-moving field, runway as 1–3 years of compute, and auto-research machinery as the productized secret sauce amid coding-agent wars and Anthropic/OpenAI/Google shifts.",
+  "background": "San Francisco video podcast revisit after a prior layoff interview. Conversation ranges across why leave Meta after ~11 years, how Muse Spark/distillation controversies look from inside alumni networks, world models vs LeCun's AMI Labs, and whether Anthropic's coding lead lasts as Codex and Google Antigravity catch up.",
+  "important_facts": [
+    "RSI raise: $650M at $4.65B with eight co-founders before product — Tian argues top capital buys people and execution adaptability when roadmaps rot in weeks. Co-founder fabric includes Richard Socher/MetaMind–Salesforce lineage, Cresta-building operators into recursive vision, Tim Rocktäschel (Meta→DeepMind) credited for fundraising credibility. Internal progress 'better than expected'; runway roughly 1–3 years because GPUs eat cash.",
+    "Technical bet: recursive self-improvement / automated research loops — build machinery that researches and understands automatically, publishable results with secret-sauce methods as black box; latent reasoning discussed as part of the frontier. Goal is self-improving systems, not a single chat app demo.",
+    "Market color: Anthropic narrative strong on commercialization and IPO path; coding agents contested as OpenAI Codex closes and Google ships Antigravity; Tian says ranking is unstable. Meta chapter: ~11 years, felt the lab no longer needed as many people — exit as chance to find meaning; comments on forced distillation controversies and Muse Spark from an alumni vantage."
+  ],
+  "mental_model": {
+    "name": "Team Bet × Recursive Loop × Compute Runway",
+    "components": "In frontier AI, seed checks clear on founder graphs when products cannot be specified; the company is a research factory that turns self-improvement into a productizable system under a finite GPU runway.",
+    "application": "Private:RSI is a high-beta talent compounder — diligence co-founder cohesion and published 'wow' demos before next raise. META talent outflow remains a watch item; Anthropic/OpenAI/Google coding race sets the competitive weather."
+  },
+  "key_insights": [
+    {
+      "view": "Top capital still underwrites people first.",
+      "question": "Why $4.65B with no product?",
+      "answer": "Roadmaps expire; investors buy teams that can re-aim weekly and already earned trust at Meta/DeepMind/Salesforce exits."
+    },
+    {
+      "view": "Auto-research is the product.",
+      "question": "What ships?",
+      "answer": "A machinery that produces impressive research outcomes while methods stay proprietary — research-as-product."
+    },
+    {
+      "view": "Coding agent leadership is unstable.",
+      "question": "Does Anthropic stay ahead?",
+      "answer": "Commercial momentum is real, but Codex/Antigravity show the slot can flip — RSI avoids hinging on today's chatbot ranking."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:RSI",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Pedigree + recursive SI narrative cleared a huge seed; still pre-product, compute runway finite — low confidence"
+    },
+    {
+      "ticker": "META",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "FAIR alumni leaving to neolabs is a talent signal; distillation controversy is culture risk — low"
+    },
+    {
+      "ticker": "Private:Anthropic",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Episode paints strong 2026 commercial/IPO narrative in coding — contested, low confidence"
+    }
+  ],
+  "golden_quotes": [
+    "Top capital still bets on people.",
+    "Recursive self improvement.",
+    "Big labs don't need that many people anymore."
+  ],
+  "chronology": {
+    "subject": "RSI · Tian Yuandong · recursive SI",
+    "events": [
+      {
+        "date": "~2015–2025",
+        "event": "Tian ~11 years at Meta FAIR"
+      },
+      {
+        "date": "2025",
+        "event": "Meta layoff/exit; explores neolab options"
+      },
+      {
+        "date": "2025–2026",
+        "event": "RSI forms with eight co-founders"
+      },
+      {
+        "date": "2026",
+        "event": "Raises $650M at $4.65B valuation"
+      },
+      {
+        "date": "2026",
+        "event": "Internal progress reportedly ahead of plan; 1–3y runway"
+      },
+      {
+        "date": "2026",
+        "event": "Industry races on coding agents / auto-research"
+      },
+      {
+        "date": "2026-05-22",
+        "event": "Silicon Valley 101 EP183 interview"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep183",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "episode_id": "sv101-ep186",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 186,
+    "title": "库克的离场，苹果新AI权力重构与价值观天平｜WWDC26",
+    "guest": "现场嘉宾/业界观察者",
+    "guest_role": "WWDC现场 · 苹果观察",
+    "date": "2026-06-12",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=hIdvhl8PUwc",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hIdvhl8PUwc",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "AAPL",
+    "GOOGL",
+    "Private:Siri",
+    "MSFT"
+  ],
+  "conclusion": "WWDC26上，Tim Cook卸任前最后一次主持开发者大会，全场近一分钟掌声；以John Ternus为重心的新领导层将如何在AI时代证明苹果仍是定义者而非追赶者，成为外界焦点。节目回溯Apple Intelligence两年来的延期、诉讼与2025年“AI危机”，梳理库克下场、Rockwell接手Siri并向Federighi汇报、Gemini老将Amar Subramanya掌模型、Giannandrea离开的权力版图，以及Private Cloud Compute迁到Google Cloud可信执行环境、App Intents支撑的Agentic Siri路径。库克15年是华尔街蜜月，Ternus必须重回产品证明。",
+  "background": "硅谷101受邀到WWDC现场，对照苹果分发与生态优势 vs. 迟迟没有SOTA模型的落差。讨论焦点包括：一年憋一个大招的产品文化是否不适配AI节奏；PCC如何把设备端隐私理念搬到云端异构硬件；以及Siri能否通过App Intents真正打通第三方应用。",
+  "important_facts": [
+    "2024年6月10日Apple Intelligence发布后多次延期，2025年未交付功能被用作宣传点并引发诉讼。年初由时任COO Jeff Williams主持的秘密会议认定问题在组织与领导力：John Giannandrea失去高层信任；Mike Rockwell接手Siri并向Craig Federighi汇报；Amar Subramanya（谷歌Gemini/Bard工程副总裁，微软仅待5个月）出任模型负责人；Giannandrea最终离开。库克亲自介入AI；John Ternus将于2026年9月后接任CEO。",
+    "WWDC演示强调Agentic Siri与App Intents，让开发者结构化声明功能与数据供Siri工具调用。嘉宾认为生态仍处初期，或先在美国试点。Private Cloud Compute强调无状态计算：设备加密、云端临时推理、任务后清除；新版PCC依赖Intel TDX等可信执行环境，把Apple Silicon安全理念迁移到Google Cloud。",
+    "投资视角：库克15年给巴菲特等丰厚回报但产品亮点争议；新管理层要“重回产品时代”。分发与隐私仍是资产，Gemini合作与挖角显示其在自研与借力之间找平衡。"
+  ],
+  "mental_model": {
+    "name": "AI权力版图 × 隐私计算 × Agentic分发",
+    "components": "拆开谁拥有AI、PCC如何用TEE延伸端侧信任、App Intents如何把装机量变成Agent运行时。用交付节奏与第三方工具深度评价苹果AI。",
+    "application": "看多AAPL需看到更快AI落地与真实App Intents采用；GOOGL同时是竞争者与PCC/Gemini伙伴。隐私叙事依赖TEE性能与监管接受度。"
+  },
+  "key_insights": [
+    {
+      "view": "苹果AI危机首先是组织问题。",
+      "question": "为何重组？",
+      "answer": "完美体验文化叠加一年一版节奏，对抗不了模型周更；Rockwell/Federighi/Subramanya重划归属。"
+    },
+    {
+      "view": "Google Cloud上的PCC是把信任硬件化。",
+      "question": "隐私是表演吗？",
+      "answer": "设计目标是无状态：加密、计算、清除。难点是全球规模机密推理的成本与性能。"
+    },
+    {
+      "view": "App Intents才是安静的Agent策略。",
+      "question": "iPhone时刻在哪？",
+      "answer": "当Siri能端到端可靠调用第三方App。分发是优势，未完成的开发者表面是缺口。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "AAPL",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "分发+隐私+现金仍在；Ternus需把WWDC演示变成可用Siri——中等置信，执行敏感"
+    },
+    {
+      "ticker": "GOOGL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "兼具Gemini伙伴与PCC云底座；苹果依赖是机密计算需求信号——低置信"
+    },
+    {
+      "ticker": "MSFT",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Subramanya短暂停留微软再被苹果挖走是人才流动数据点，非主线论断"
+    }
+  ],
+  "golden_quotes": [
+    "苹果是定义者，而不是追赶者",
+    "Apple Intelligence",
+    "无状态计算"
+  ],
+  "chronology": {
+    "subject": "苹果AI · WWDC26 · 库克交棒",
+    "events": [
+      {
+        "date": "2024-06-10",
+        "event": "WWDC宣布Apple Intelligence"
+      },
+      {
+        "date": "2024–2025",
+        "event": "AI功能多次延期与诉讼反噬"
+      },
+      {
+        "date": "2025",
+        "event": "内部AI危机会议；Rockwell接手Siri"
+      },
+      {
+        "date": "2025–2026",
+        "event": "挖角Amar Subramanya；深化Gemini合作"
+      },
+      {
+        "date": "2026",
+        "event": "PCC向Google Cloud TEE扩展"
+      },
+      {
+        "date": "2026-06",
+        "event": "WWDC26：库克最后一次主持"
+      },
+      {
+        "date": "2026-09",
+        "event": "计划：Ternus接任CEO"
+      },
+      {
+        "date": "2026-06-12",
+        "event": "硅谷101 EP186"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep186",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
