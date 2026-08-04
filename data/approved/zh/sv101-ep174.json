@@ -1,0 +1,118 @@
+{
+  "episode_id": "sv101-ep174",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 174,
+    "title": "中国机器人的全球化野心、“踢馆”硅谷，及Physical AI的爆发准备：对话魔法原子",
+    "guest": "顾诗韬",
+    "guest_role": "魔法原子管理层 · 小米铁蛋班底渊源",
+    "date": "2026-04-18",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=oU_V5GlHq7I",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=oU_V5GlHq7I",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:MagicAtom",
+    "Private:Robotics",
+    "TSLA",
+    "Private:Xiaomi"
+  ],
+  "conclusion": "魔法原子——小米铁蛋班底起家，春晚熊猫机器人出圈，再把发布会开到硅谷——处在中国人形白热化竞赛中。顾诗韬反驳“国内只做本体、硅谷只做大脑”：中国有供应链、工程化与数据引擎优势，且从第一天就要自我造血（提及约1.5亿人民币大订单）。路径是尽快产品化，亚洲卖文娱/教育/巡检，德国靠经销商进工业，远期希望与Optimus有一战之力，并按里程碑提前12–18个月备好资金。",
+  "background": "总裁离职传闻后的专访。讨论中国为何这么早期就卷、B端如何考核交付稳定性，以及价格战为何尚未到来。",
+  "important_facts": [
+    "定位：在硅谷发出中国Physical AI声音并做产业链连接。比较优势——本体/供应链/工程+数据燃料；并非做不出脑子。早期商业化：自我造血优先，提到约1.5亿人民币超大订单。",
+    "出海：亚洲（日韩新）与中国SKU相似；欧洲尤其德国需要强工业经销商（油改电失落的供应链心态）。美国含科研采购、家庭与工业。B端看交付稳定、售后、泛化，而非简单价格战。",
+    "竞争：强化学习运控跃进、VLA/世界模型扎堆发布，拼勤奋与意志。资本：先定中国第一/对标Optimus的愿景，再反推每个里程碑12–18个月资金缓冲（算力、数采、编制）。"
+  ],
+  "mental_model": {
+    "name": "供应链本体 × 早期造血 × 里程碑现金缓冲",
+    "components": "用中国制造密度尽早出货；用真实订单约束叙事；按里程碑预存12–18个月算力/数据现金，而非先融资再做梦。",
+    "application": "中国机器人私募：看订单质量、海外渠道深度与现金纪律。TSLA Optimus是远期对打对象而非近客户。"
+  },
+  "key_insights": [
+    {
+      "view": "分工不是宿命。",
+      "question": "永远只做本体？",
+      "answer": "供应链优势真实，但数据引擎与交付能力也是中国强项——“做不出脑子”是偷懒。"
+    },
+    {
+      "view": "自我造血是中国节奏。",
+      "question": "为何这么早开打？",
+      "answer": "本地资金人才热度+要真实订单；纯烧科研更难被接受。"
+    },
+    {
+      "view": "全球GTM多速并行。",
+      "question": "一种产品打全球？",
+      "answer": "亚洲复制中国爆款；德国要老工业信任；美国实验室仍缺硬件。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:MagicAtom",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "出圈+硅谷品牌+订单叙事；早期执行/关键人风险——低"
+    },
+    {
+      "ticker": "Private:Robotics",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "中国本体竞赛可投；挑选有造血纪律的操盘手——低"
+    },
+    {
+      "ticker": "TSLA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "被点名为远期对标；节目是竞争天气而非特斯拉深挖——低"
+    }
+  ],
+  "golden_quotes": [
+    "自我造血",
+    "中国人永远做不出脑子",
+    "护城河"
+  ],
+  "chronology": {
+    "subject": "魔法原子 · 中国机器人 · 全球化",
+    "events": [
+      {
+        "date": "2020s",
+        "event": "团队源自小米铁蛋相关班底"
+      },
+      {
+        "date": "2026-02",
+        "event": "熊猫机器人借春晚出圈"
+      },
+      {
+        "date": "2026",
+        "event": "前总裁离职等传闻"
+      },
+      {
+        "date": "2026",
+        "event": "硅谷产品发布/行业活动"
+      },
+      {
+        "date": "2026",
+        "event": "约1.5亿订单叙事；海外渠道搭建"
+      },
+      {
+        "date": "2026-04-18",
+        "event": "硅谷101专访"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep174",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

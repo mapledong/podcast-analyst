@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T12:42:34.629Z",
+  "generatedAt": "2026-08-04T12:54:09.995Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -69,7 +69,7 @@
       "accent_color": "#0B4F6C",
       "youtube_url": "https://www.youtube.com/@TheValley101",
       "cover_url": "/covers/silicon-valley-101.jpg",
-      "episodeCount": 15
+      "episodeCount": 19
     }
   ],
   "episodes": [
@@ -8787,6 +8787,56 @@
       "chronologySubject": "Kevin · Pop Mart Craft"
     },
     {
+      "id": "sv101-ep177",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 177,
+      "title": "Inside Data Collection Factories: Why Robot Data Is So Scarce | Robotics Series",
+      "guest": "Sharpa / Mifeng / industry operators",
+      "displayTitle": "Sharpa / Mifeng / industry operators",
+      "displaySubtitle": "Inside Data Collection Factories: Why Robot Data Is So Scarce | Robotics Series",
+      "guestRole": "Robot data platforms · teleop factories · Agibot context",
+      "date": "2026-04-30",
+      "durationMinutes": 45,
+      "readMinutes": 2,
+      "rating": 5,
+      "conclusion": "What robotics envies most about LLMs is data. Host Chen Qian flies to Shanghai teleop factories to show why embodiment data is not on the internet: every high-quality trajectory must be produced. A four-layer pyramid (internet video → mocap → teleop → robot-self) is skewed — teleop may be ~1/10,000 of the pool yet decides real-world success. Sim-to-real and embodiment gaps block cheap scaling; China answers with labor-efficient data factories while Valley bets platforms. Agibot hitting 10k embodied units is volume, not yet the data key.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZvHIuIIZ3Is",
+      "summaryFile": "sv101-ep177.md",
+      "summaryFileZh": "sv101-ep177.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Robotics",
+        "Private:Sharpa",
+        "Private:Agibot",
+        "GOOGL"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Robotics",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Data infra/teleop capacity is the scarce layer under humanoid hype — early, low"
+        },
+        {
+          "ticker": "Private:Sharpa",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Episode guest path on tactile/sim translation; pre-scale — low"
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "DeepMind RT collection history shows infra advantage; not a pure robot pure-play — low"
+        }
+      ],
+      "chronologySubject": "Robot data · teleop · sim-to-real"
+    },
+    {
       "id": "tzs-ep176",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 176,
@@ -8823,6 +8873,155 @@
         }
       ],
       "chronologySubject": "Chen Grey Chan · Pop Mart 4S"
+    },
+    {
+      "id": "sv101-ep176",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 176,
+      "title": "Token Economics: The New Currency War of the AI Era",
+      "guest": "Industry operators / founders (incl. billing & routing voices)",
+      "displayTitle": "Industry operators / founders (incl. billing & routing voices)",
+      "displaySubtitle": "Token Economics: The New Currency War of the AI Era",
+      "guestRole": "AI infra · OpenRouter ecosystem · Chinese model exporters",
+      "date": "2026-04-25",
+      "durationMinutes": 45,
+      "readMinutes": 2,
+      "rating": 5,
+      "conclusion": "Silicon Valley's new flex is Token-maxxing — how many tokens and agents you burn daily. Behind the culture war over unlimited employee usage sits a pricing stack: labs, clouds, routers like OpenRouter, and billing layers like Metronome. Post-OpenClaw, agent jobs explode token spend; Chinese open models win on OpenRouter via 50–70x cheaper tokens, then ride a March 2026 China cloud price hike. Token arbitrage and 'electricity exports' via API turn Guizhou GPUs into cross-border value without shipping boxes.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=ppRvzPXGpEw",
+      "summaryFile": "sv101-ep176.md",
+      "summaryFileZh": "sv101-ep176.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:OpenRouter",
+        "Private:MiniMax",
+        "MSFT",
+        "Private:Anthropic"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:OpenRouter",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Becomes the FX desk of tokens; volume scales with agent era — low"
+        },
+        {
+          "ticker": "Private:MiniMax",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "OpenClaw recommendation + price edge drove usage/equity spike; competition fierce — low"
+        },
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Premium tokens still win hard tasks even as cheap China models take bulk agent load — low"
+        }
+      ],
+      "chronologySubject": "Token economics · OpenRouter · China export"
+    },
+    {
+      "id": "sv101-ep174",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 174,
+      "title": "China's Robot Globalization Ambition and Physical AI Prep: Magic Atom in Silicon Valley",
+      "guest": "Gu Shitao (顾诗韬)",
+      "displayTitle": "Gu Shitao (顾诗韬)",
+      "displaySubtitle": "China's Robot Globalization Ambition and Physical AI Prep: Magic Atom in Silicon Valley",
+      "guestRole": "Magic Atom leadership · Xiaomi Iron Man alumni roots",
+      "date": "2026-04-18",
+      "durationMinutes": 45,
+      "readMinutes": 2,
+      "rating": 5,
+      "conclusion": "Magic Atom — born from Xiaomi Iron Man talent, viral Spring Festival panda bot, then Silicon Valley launch with Jackson Yee and Turing laureates — sits in China's white-hot humanoid race. Gu Shitao rejects 'China only bodies, Valley only brains': China has supply-chain, engineering, and data-engine advantages and must self-fund early (citing a ~¥150M order). Path is productize fast, sell Asia entertainment/education/patrol dogs, use German dealers for industry, and aim to eventually fight Optimus — with 12–18 months cash pre-funded per milestone.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=oU_V5GlHq7I",
+      "summaryFile": "sv101-ep174.md",
+      "summaryFileZh": "sv101-ep174.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:MagicAtom",
+        "Private:Robotics",
+        "TSLA",
+        "Private:Xiaomi"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:MagicAtom",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Viral + SV branding + order narrative; early-stage execution/key-person risk — low"
+        },
+        {
+          "ticker": "Private:Robotics",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "China ontology race is investable theme; pick operators with cashflow discipline — low"
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named long-term rival for Chinese aspirants; episode is competitive weather, not Tesla deep dive — low"
+        }
+      ],
+      "chronologySubject": "Magic Atom · China robots · globalization"
+    },
+    {
+      "id": "sv101-ep173",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 173,
+      "title": "Swallowing Hermès: Family Feuds, Century Capital Wars, and €10B Shares That Vanished",
+      "guest": "Narrative documentary (Nicholas Puech / LVMH saga)",
+      "displayTitle": "Narrative documentary (Nicholas Puech / LVMH saga)",
+      "displaySubtitle": "Swallowing Hermès: Family Feuds, Century Capital Wars, and €10B Shares That Vanished",
+      "guestRole": "Investigative storytelling · luxury governance",
+      "date": "2026-04-16",
+      "durationMinutes": 35,
+      "readMinutes": 2,
+      "rating": 5,
+      "conclusion": "Hermès heir Nicholas Puech alleges ~6M shares (~€10B) vanished via advisor Eric Freymond, pulling LVMH/Arnault into court. The episode braids a personal fraud tale — gardener family, forged transfers, Freymond's Alpine death — into Arnault's decade-long stealth accumulation through equity swaps with Natixis/SocGen/Amundi below disclosure thresholds, timed after CEO Dumas's illness. Latest sting: Hermès Q1 sales −1.4%, intraday stock −14%. Owning the bag or the shares both got harder.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jn_H3vuUC6E",
+      "summaryFile": "sv101-ep173.md",
+      "summaryFileZh": "sv101-ep173.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "RMS.PA",
+        "MC.PA",
+        "Private:LVMH"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "RMS.PA",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "Episode highlights governance/fraud overhang plus fresh Q1 miss and −14% crash — tactical, low confidence"
+        },
+        {
+          "ticker": "MC.PA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Historical stealth accumulation shows Arnault's optionality on Hermès drama; legal overhang cuts both ways — low"
+        },
+        {
+          "ticker": "Private:LVMH",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Same conglomerate narrative as MC for private framing — low"
+        }
+      ],
+      "chronologySubject": "Hermès · LVMH · Puech shares"
     },
     {
       "id": "tzs-ep170",
@@ -13540,6 +13739,41 @@
       "chronologySubject": "Amazon FBA · Aggregators"
     },
     {
+      "id": "bb-mongodb-the-database-platform",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 33,
+      "title": "MongoDB: The Database Platform",
+      "guest": "Rohan Paul",
+      "displayTitle": "MongoDB",
+      "displaySubtitle": "Rohan Paul · Investor, Holocene Advisors · The Database Platform",
+      "guestRole": "Investor, Holocene Advisors",
+      "date": "2021-11-03",
+      "durationMinutes": 45,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Paul frames MongoDB as the internet-era database: document architecture, open-source distribution, and a cloud Atlas motion that is accelerating customer adds from 3,500 to 8,000 per year. Low churn, 72% gross margins, and a $200 billion future market argue the name is still early despite Oracle's four-decade head start.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-mongodb-the-database-platform.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "MDB",
+        "Document Database",
+        "Atlas Cloud"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "MDB",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Paul argues Mongo is a different market than 40-year-old Oracle: 40% growth, 72% gross margins, sub-5% churn, and disproportionate share of new cloud apps — yet investors still pattern-match to mature relational databases and miss the developer land-grab compounding."
+        }
+      ],
+      "chronologySubject": "MongoDB"
+    },
+    {
       "id": "acq-complexity-investing-semiconductors-with-nzs-capital",
       "podcastId": "acquired",
       "episodeNumber": 136,
@@ -13620,6 +13854,42 @@
         }
       ],
       "chronologySubject": "Standard Oil / Rockefeller (1890–1913)"
+    },
+    {
+      "id": "bb-salesforce-the-cloud-saas-pioneer-business-breakdowns-e",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 29,
+      "title": "Salesforce: The Cloud & SaaS Pioneer",
+      "guest": "Salesforce",
+      "displayTitle": "Salesforce",
+      "displaySubtitle": "The Cloud & SaaS Pioneer · Public · CRM",
+      "guestRole": "Public · CRM",
+      "date": "2021-10-06",
+      "durationMinutes": 48,
+      "readMinutes": 5,
+      "rating": 4,
+      "conclusion": "Garrett frames Salesforce as the company that invented cloud SaaS and then compounded it into a front-office platform: recurring bookings at 90%+ retention, multi-cloud attach, and an AppExchange developer network generating roughly $6 of partner revenue for every $1 Salesforce earns. Near-term numbers look secure, but cloud data warehouses and developer-led stacks pose the asymmetric threats that Siebel once faced.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-salesforce-the-cloud-saas-pioneer-business-breakdowns-e.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "CRM",
+        "SNOW",
+        "Cloud SaaS",
+        "Platform Economics"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "CRM",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Garrett argues Salesforce can hit its numbers for five years on SaaS retention, multi-cloud attach, and a $270 billion-scale platform with ~$6 of developer network revenue per $1 of CRM sales — but SMB ease-of-use gaps, cloud-warehouse data decoupling (Snowflake), and developer-bottom-up adoption (Twilio, open source) are credible medium-term share threats; valuation already embeds pioneer status."
+        }
+      ],
+      "chronologySubject": "Salesforce"
     },
     {
       "id": "acq-michael-mauboussin-master-class-moats-skill-luck-decision-making-and-a-whole-lot-more",
@@ -13879,82 +14149,6 @@
       "chronologySubject": "Solana"
     },
     {
-      "id": "acq-ethereum",
-      "podcastId": "acquired",
-      "episodeNumber": 127,
-      "title": "Ethereum",
-      "guest": "Ethereum",
-      "displayTitle": "Ethereum",
-      "displaySubtitle": "Season 8 · Episode 8",
-      "guestRole": "Season 8 · Episode 8",
-      "date": "2021-07-05",
-      "durationMinutes": 184,
-      "readMinutes": 6,
-      "rating": 5,
-      "conclusion": "Ethereum extends Bitcoin's calculator into a Turing-complete world computer — Vitalik Buterin's 2013 white paper after Mastercoin rejected general-purpose scripting. July 2014 crowd sale: ~$18.3M for ~60M ether in two weeks. July 2015 Frontier launch; ICO boom followed (64 ICOs raised >$100M in 2016; 2300 ICOs ~$11B in H1 2018). 2016 DAO hack forced hard fork (ETH vs. ETC). Mid-2021: ~$350B+ ETH market cap, gas $50–70, throughput ~Raspberry Pi — Eth2 proof-of-stake/sharding still pending. Packy McCormick bull case: EIP-1559 fee burn, DeFi/NFT composability; bear: scalability trilemma, mining pool concentration, government risk. Rated 3/5: strong history and business insight, standard Acquired depth for the era — not a definitive reference vs. dedicated biographies or technical white papers.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-ethereum.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Ethereum",
-        "Smart Contracts",
-        "DeFi"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "ETH",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "ETH tied to gas burn, DeFi/NFT activity, Eth2 delivery. Monitor L2 migration; not investment advice — grade protocol not token."
-        },
-        {
-          "ticker": "COIN",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Exchange revenue correlates with ETH/BTC trading volumes and ICO-era retail participation — regulatory overhang persists."
-        }
-      ],
-      "chronologySubject": "Ethereum"
-    },
-    {
-      "id": "acq-special-ho-nam-from-altos-ventures-a-different-approach-to-vc",
-      "podcastId": "acquired",
-      "episodeNumber": 126,
-      "title": "Ho Nam from Altos Ventures — A Different Approach to VC",
-      "guest": "Ho Nam from Altos Ventures — A Different Approach to VC",
-      "displayTitle": "Ho Nam from Altos Ventures — A Different Approach to VC",
-      "displaySubtitle": "Season 8",
-      "guestRole": "Season 8",
-      "date": "2021-06-20",
-      "durationMinutes": 111,
-      "readMinutes": 6,
-      "rating": 3,
-      "conclusion": "Ho Nam applies Berkshire-style patience to early-stage tech: own meaningful stakes, ignore markups, optimize for DPI. Altos's Roblox path — ~$1.5M into a ~$500M round, then ~$2.5B private round, IPO near ~$60B market cap — shows compounding in the out years, not seed-stage optionality. Ho rejects standard 2% management-fee economics, cross-fund dogma, and valuation anchoring; he leads secondary-heavy rounds, holds through IPO pullbacks (Coupang), and registers as an RIA when LP rules block the strategy. The fox-and-hedgehog filter (Jim Collins) and Phil Fisher scuttlebutt separate special businesses from good stories. For LPs, the lesson is structural alignment beats headline IRR. Rated 3/5: strong history and business insight, standard Acquired depth for the era — not a definitive reference vs. dedicated biographies or technical white papers.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-special-ho-nam-from-altos-ventures-a-different-approach-to-vc.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Altos Ventures",
-        "Value-Oriented VC",
-        "Concentrated Bets"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "RBLX",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Roblox remains the canonical Altos out-year compounding case — verify whether UGC/platform engagement supports the ~$60B+ public valuation Ho sized into at cents-on-the-dollar entry; user growth and developer economics are the operating proof points."
-        }
-      ],
-      "chronologySubject": "Ho Nam · Altos Ventures"
-    },
-    {
       "id": "fnd-159-andy-grove-intel",
       "podcastId": "founders",
       "episodeNumber": 159,
@@ -14104,77 +14298,6 @@
       "chronologySubject": "David · Li Auto Global 50"
     },
     {
-      "id": "bb-mongodb-the-database-platform",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 33,
-      "title": "MongoDB: The Database Platform",
-      "guest": "Rohan Paul",
-      "displayTitle": "MongoDB",
-      "displaySubtitle": "Rohan Paul · Investor, Holocene Advisors · The Database Platform",
-      "guestRole": "Investor, Holocene Advisors",
-      "date": "2021-11-03",
-      "durationMinutes": 45,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Paul frames MongoDB as the internet-era database: document architecture, open-source distribution, and a cloud Atlas motion that is accelerating customer adds from 3,500 to 8,000 per year. Low churn, 72% gross margins, and a $200 billion future market argue the name is still early despite Oracle's four-decade head start.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-mongodb-the-database-platform.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "MDB",
-        "Document Database",
-        "Atlas Cloud"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "MDB",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Paul argues Mongo is a different market than 40-year-old Oracle: 40% growth, 72% gross margins, sub-5% churn, and disproportionate share of new cloud apps — yet investors still pattern-match to mature relational databases and miss the developer land-grab compounding."
-        }
-      ],
-      "chronologySubject": "MongoDB"
-    },
-    {
-      "id": "bb-salesforce-the-cloud-saas-pioneer-business-breakdowns-e",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 29,
-      "title": "Salesforce: The Cloud & SaaS Pioneer",
-      "guest": "Salesforce",
-      "displayTitle": "Salesforce",
-      "displaySubtitle": "The Cloud & SaaS Pioneer · Public · CRM",
-      "guestRole": "Public · CRM",
-      "date": "2021-10-06",
-      "durationMinutes": 48,
-      "readMinutes": 5,
-      "rating": 4,
-      "conclusion": "Garrett frames Salesforce as the company that invented cloud SaaS and then compounded it into a front-office platform: recurring bookings at 90%+ retention, multi-cloud attach, and an AppExchange developer network generating roughly $6 of partner revenue for every $1 Salesforce earns. Near-term numbers look secure, but cloud data warehouses and developer-led stacks pose the asymmetric threats that Siebel once faced.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-salesforce-the-cloud-saas-pioneer-business-breakdowns-e.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "CRM",
-        "SNOW",
-        "Cloud SaaS",
-        "Platform Economics"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "CRM",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Garrett argues Salesforce can hit its numbers for five years on SaaS retention, multi-cloud attach, and a $270 billion-scale platform with ~$6 of developer network revenue per $1 of CRM sales — but SMB ease-of-use gaps, cloud-warehouse data decoupling (Snowflake), and developer-bottom-up adoption (Twilio, open source) are credible medium-term share threats; valuation already embeds pioneer status."
-        }
-      ],
-      "chronologySubject": "Salesforce"
-    },
-    {
       "id": "bb-datadog-the-realtime-data-monitor",
       "podcastId": "business-breakdowns",
       "episodeNumber": 25,
@@ -14208,6 +14331,47 @@
         }
       ],
       "chronologySubject": "Datadog"
+    },
+    {
+      "id": "acq-ethereum",
+      "podcastId": "acquired",
+      "episodeNumber": 127,
+      "title": "Ethereum",
+      "guest": "Ethereum",
+      "displayTitle": "Ethereum",
+      "displaySubtitle": "Season 8 · Episode 8",
+      "guestRole": "Season 8 · Episode 8",
+      "date": "2021-07-05",
+      "durationMinutes": 184,
+      "readMinutes": 6,
+      "rating": 5,
+      "conclusion": "Ethereum extends Bitcoin's calculator into a Turing-complete world computer — Vitalik Buterin's 2013 white paper after Mastercoin rejected general-purpose scripting. July 2014 crowd sale: ~$18.3M for ~60M ether in two weeks. July 2015 Frontier launch; ICO boom followed (64 ICOs raised >$100M in 2016; 2300 ICOs ~$11B in H1 2018). 2016 DAO hack forced hard fork (ETH vs. ETC). Mid-2021: ~$350B+ ETH market cap, gas $50–70, throughput ~Raspberry Pi — Eth2 proof-of-stake/sharding still pending. Packy McCormick bull case: EIP-1559 fee burn, DeFi/NFT composability; bear: scalability trilemma, mining pool concentration, government risk. Rated 3/5: strong history and business insight, standard Acquired depth for the era — not a definitive reference vs. dedicated biographies or technical white papers.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-ethereum.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Ethereum",
+        "Smart Contracts",
+        "DeFi"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "ETH",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "ETH tied to gas burn, DeFi/NFT activity, Eth2 delivery. Monitor L2 migration; not investment advice — grade protocol not token."
+        },
+        {
+          "ticker": "COIN",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Exchange revenue correlates with ETH/BTC trading volumes and ICO-era retail participation — regulatory overhang persists."
+        }
+      ],
+      "chronologySubject": "Ethereum"
     },
     {
       "id": "bb-formula-one-the-iconic-motor-sport",
@@ -14244,6 +14408,41 @@
         }
       ],
       "chronologySubject": "Formula One"
+    },
+    {
+      "id": "acq-special-ho-nam-from-altos-ventures-a-different-approach-to-vc",
+      "podcastId": "acquired",
+      "episodeNumber": 126,
+      "title": "Ho Nam from Altos Ventures — A Different Approach to VC",
+      "guest": "Ho Nam from Altos Ventures — A Different Approach to VC",
+      "displayTitle": "Ho Nam from Altos Ventures — A Different Approach to VC",
+      "displaySubtitle": "Season 8",
+      "guestRole": "Season 8",
+      "date": "2021-06-20",
+      "durationMinutes": 111,
+      "readMinutes": 6,
+      "rating": 3,
+      "conclusion": "Ho Nam applies Berkshire-style patience to early-stage tech: own meaningful stakes, ignore markups, optimize for DPI. Altos's Roblox path — ~$1.5M into a ~$500M round, then ~$2.5B private round, IPO near ~$60B market cap — shows compounding in the out years, not seed-stage optionality. Ho rejects standard 2% management-fee economics, cross-fund dogma, and valuation anchoring; he leads secondary-heavy rounds, holds through IPO pullbacks (Coupang), and registers as an RIA when LP rules block the strategy. The fox-and-hedgehog filter (Jim Collins) and Phil Fisher scuttlebutt separate special businesses from good stories. For LPs, the lesson is structural alignment beats headline IRR. Rated 3/5: strong history and business insight, standard Acquired depth for the era — not a definitive reference vs. dedicated biographies or technical white papers.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-special-ho-nam-from-altos-ventures-a-different-approach-to-vc.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Altos Ventures",
+        "Value-Oriented VC",
+        "Concentrated Bets"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "RBLX",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Roblox remains the canonical Altos out-year compounding case — verify whether UGC/platform engagement supports the ~$60B+ public valuation Ho sized into at cents-on-the-dollar entry; user growth and developer economics are the operating proof points."
+        }
+      ],
+      "chronologySubject": "Ho Nam · Altos Ventures"
     },
     {
       "id": "acq-berkshire-hathaway-part-iii",

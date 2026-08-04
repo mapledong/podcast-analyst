@@ -1,0 +1,118 @@
+{
+  "episode_id": "sv101-ep176",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 176,
+    "title": "Token Economics: The New Currency War of the AI Era",
+    "guest": "Industry operators / founders (incl. billing & routing voices)",
+    "guest_role": "AI infra · OpenRouter ecosystem · Chinese model exporters",
+    "date": "2026-04-25",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=ppRvzPXGpEw",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ppRvzPXGpEw",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:OpenRouter",
+    "Private:MiniMax",
+    "MSFT",
+    "Private:Anthropic"
+  ],
+  "conclusion": "Silicon Valley's new flex is Token-maxxing — how many tokens and agents you burn daily. Behind the culture war over unlimited employee usage sits a pricing stack: labs, clouds, routers like OpenRouter, and billing layers like Metronome. Post-OpenClaw, agent jobs explode token spend; Chinese open models win on OpenRouter via 50–70x cheaper tokens, then ride a March 2026 China cloud price hike. Token arbitrage and 'electricity exports' via API turn Guizhou GPUs into cross-border value without shipping boxes.",
+  "background": "Explainer on why giants push usage metrics, how token prices form, why MiniMax/Kimi/Zhipu caught a bid after OpenClaw, and whether cheap China tokens are durable as power and capacity tighten.",
+  "important_facts": [
+    "Culture: founders rage if a $500k engineer spent only ~$5k tokens; others call raw token volume a bad KPI (Jellyfish CEO). Consensus middle: under-using AI loses. OpenClaw-class agents jump spend from 10ks to millions of tokens; Claude for tiny tasks can cost $10–20.",
+    "China angle: on some tasks US–China price gaps 50–70x; MiniMax recommended inside OpenClaw setup; Zhipu/MiniMax equities ripped as open-model calls surged. March 2026: Tencent/Alibaba/Baidu cloud AI prices up ~30% in ~10 days after open-model token demand crossed a capability threshold.",
+    "Stack: routers + agent products (Genspark/Manus) assign hard/easy tasks to minimize cost; Metronome separates usage event streams from pricing/contracts. Macro metaphor: London dev hitting MiniMax burns China grid power locally while value settles as API — 'power export' without customs. Durability of cheap tokens questioned as capacity queues appear."
+  ],
+  "mental_model": {
+    "name": "Usage Culture × Price Ladder × Cross-Border Token Trade",
+    "components": "Separate status games (Token-maxxing) from unit economics; map lab→cloud→router→agent margins; treat China open weights as a commodity export of electricity+compute.",
+    "application": "Watch OpenRouter share and China model ARPU after cloud hikes. Anthropic/OpenAI premium holds for hard tasks; arbitrage compresses easy tokens. Billing infra (Metronome-class) is picks-and-shovels."
+  },
+  "key_insights": [
+    {
+      "view": "Tokens became corporate status and P&L at once.",
+      "question": "Is maxxing rational?",
+      "answer": "As culture maybe; as KPI often waste — but zero usage is competitive suicide."
+    },
+    {
+      "view": "China sells cheap inference into agent demand.",
+      "question": "Why OpenRouter dominance?",
+      "answer": "Good-enough instruction following at 50–70x lower price when agents burn millions of tokens."
+    },
+    {
+      "view": "Token export is electricity export by another name.",
+      "question": "Is the discount durable?",
+      "answer": "Only while power/capacity and open-model gaps persist; March cloud hikes are the tell."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:OpenRouter",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Becomes the FX desk of tokens; volume scales with agent era — low"
+    },
+    {
+      "ticker": "Private:MiniMax",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "OpenClaw recommendation + price edge drove usage/equity spike; competition fierce — low"
+    },
+    {
+      "ticker": "Private:Anthropic",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Premium tokens still win hard tasks even as cheap China models take bulk agent load — low"
+    }
+  ],
+  "golden_quotes": [
+    "Token-maxxing.",
+    "Token arbitrage.",
+    "How many tokens did you burn today?"
+  ],
+  "chronology": {
+    "subject": "Token economics · OpenRouter · China export",
+    "events": [
+      {
+        "date": "2025–2026",
+        "event": "Token-maxxing culture spreads in Valley firms"
+      },
+      {
+        "date": "2026",
+        "event": "OpenClaw-class agents explode token consumption"
+      },
+      {
+        "date": "2026",
+        "event": "Chinese open models climb OpenRouter on price"
+      },
+      {
+        "date": "2026-03",
+        "event": "Tencent/Alibaba/Baidu AI cloud prices ~+30% in ~10 days"
+      },
+      {
+        "date": "2026",
+        "event": "Billing/routing layers (Metronome etc.) professionalize"
+      },
+      {
+        "date": "2026-04-25",
+        "event": "Silicon Valley 101 token economics episode"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep176",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

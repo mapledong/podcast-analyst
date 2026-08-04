@@ -1,0 +1,118 @@
+{
+  "episode_id": "sv101-ep177",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 177,
+    "title": "Inside Data Collection Factories: Why Robot Data Is So Scarce | Robotics Series",
+    "guest": "Sharpa / Mifeng / industry operators",
+    "guest_role": "Robot data platforms · teleop factories · Agibot context",
+    "date": "2026-04-30",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=ZvHIuIIZ3Is",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ZvHIuIIZ3Is",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:Robotics",
+    "Private:Sharpa",
+    "Private:Agibot",
+    "GOOGL"
+  ],
+  "conclusion": "What robotics envies most about LLMs is data. Host Chen Qian flies to Shanghai teleop factories to show why embodiment data is not on the internet: every high-quality trajectory must be produced. A four-layer pyramid (internet video → mocap → teleop → robot-self) is skewed — teleop may be ~1/10,000 of the pool yet decides real-world success. Sim-to-real and embodiment gaps block cheap scaling; China answers with labor-efficient data factories while Valley bets platforms. Agibot hitting 10k embodied units is volume, not yet the data key.",
+  "background": "Robotics series episode after dexterous hands and open/closed models. Guests from Sharpa and Mifeng discuss Tacmap-style tactile sim bridges, 100k–1M hour customer asks, and why human teleoperators cannot feel what the robot feels.",
+  "important_facts": [
+    "DeepMind RT-1 lore: 13 robots collecting for 17 months in office/kitchen — still tiny vs LLM scrapes. Teleop is hard because operators lack robot proprioception/tactile feedback; mocap/YouTube miss robot-state. Mifeng pitches physical-AI data infra: ~2M teleop hours capacity in 2026 plus ~8M hours planned other paradigms.",
+    "Gaps: Sim-to-Real (physics/contact mismatch), Embodiment Gap (human hand ≠ robot hand; occlusion corrupts state), Functional Retargeting (copying motion shape ≠ task intent). Tacmap translates fingertip deformation maps to help fine skills but inherits sim gaps. For complex tasks, trajectory ratios ~ teleop:mocap:web ≈ 1:100:10000 — quality over raw hours.",
+    "Strategy split: Chinese OEMs industrialize teleop labor into factories as a moat; Valley faces expensive labor so pushes simulation and platformization. Goals differ — industrial 100% success vs consumer generalization with human handoff — so data mixes differ. Agibot claimed 10k embodied robots by late March; data key still open."
+  ],
+  "mental_model": {
+    "name": "Data Pyramid × Teleop Scarcity × Factory vs Platform",
+    "components": "Rank data by embodiment fidelity; accept that the rarest teleop slice unlocks deployment; choose China-style labor factories or Valley-style sim/platforms based on wage and goal (yield vs generality).",
+    "application": "Diligence robotics on who owns teleop capacity and quality pipelines, not only model demos. GOOGL/DeepMind RT history shows even giants under-collect. Prefer integrators that treat data ops as product."
+  },
+  "key_insights": [
+    {
+      "view": "Robot scaling is blocked by a data desert, not FLOPs alone.",
+      "question": "Why can't LLMs' web scrape transfer?",
+      "answer": "Internet has human video, not robot-on-task state with force/tactile loops."
+    },
+    {
+      "view": "Teleop is the 0.01% that matters.",
+      "question": "Why not just scale YouTube?",
+      "answer": "Pyramid ratios bury teleop, but real contact success still hinges on it."
+    },
+    {
+      "view": "China's edge may be data factories.",
+      "question": "What's the moat?",
+      "answer": "Cheap, organized teleop labor + full-stack collection vs Valley's sim-heavy path."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Robotics",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Data infra/teleop capacity is the scarce layer under humanoid hype — early, low"
+    },
+    {
+      "ticker": "Private:Sharpa",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Episode guest path on tactile/sim translation; pre-scale — low"
+    },
+    {
+      "ticker": "GOOGL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "DeepMind RT collection history shows infra advantage; not a pure robot pure-play — low"
+    }
+  ],
+  "golden_quotes": [
+    "We have no data for training robots.",
+    "Data desert.",
+    "Teleoperation."
+  ],
+  "chronology": {
+    "subject": "Robot data · teleop · sim-to-real",
+    "events": [
+      {
+        "date": "2020s",
+        "event": "DeepMind RT-1 multi-robot multi-month collection"
+      },
+      {
+        "date": "2024–2026",
+        "event": "Embodied AI boom exposes data desert"
+      },
+      {
+        "date": "2026",
+        "event": "Customers request 100k–1M+ teleop hours"
+      },
+      {
+        "date": "2026",
+        "event": "Mifeng targets ~2M teleop + ~8M other hours"
+      },
+      {
+        "date": "2026-03",
+        "event": "Agibot claims 10k embodied robot production"
+      },
+      {
+        "date": "2026-04-30",
+        "event": "Silicon Valley 101 Shanghai data-factory episode"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep177",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

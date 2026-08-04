@@ -1,0 +1,118 @@
+{
+  "episode_id": "sv101-ep177",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 177,
+    "title": "揭秘数采工厂：稀缺的机器人数据，到底难在哪儿？｜机器人特辑",
+    "guest": "Sharpa/觅蜂等业内人士",
+    "guest_role": "机器人数采平台 · 遥操工厂 · 智元语境",
+    "date": "2026-04-30",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=ZvHIuIIZ3Is",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ZvHIuIIZ3Is",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:Robotics",
+    "Private:Sharpa",
+    "Private:Agibot",
+    "GOOGL"
+  ],
+  "conclusion": "机器人最羡慕大模型的是数据。主持人陈茜飞到上海数采工厂，展示具身数据不在互联网上：每条高质量轨迹都要从零生产。四层金字塔（网络视频→动捕→遥操→真机自操作）严重倾斜——遥操可能只占约万分之一却决定落地成败。Sim-to-Real与具身鸿沟挡住廉价缩放；中国用人力效率做数采工厂，硅谷更押平台与仿真。智元产量破万台是规模信号，数据钥匙仍未找到。",
+  "background": "机器人专辑续集。嘉宾讨论Tacmap式触觉仿真桥、客户百万小时需求，以及人为何感受不到机器人的本体感觉。",
+  "important_facts": [
+    "DeepMind RT一代调动13台机器人在办公/厨房采了17个月，相对LLM语料仍极小。遥操难在操作员缺本体/触觉反馈；动捕与YouTube缺机器人状态。觅蜂押注物理AI数据基建：2026真机遥操产能近200万小时，另规划约800万小时其他范式。",
+    "鸿沟：Sim-to-Real、Embodiment Gap（人手≠机器手、遮挡致状态误差）、Functional Retargeting（模仿动作形状≠理解任务）。复杂任务轨迹比约遥操:动捕:网络≈1:100:10000——质量重于堆小时。",
+    "策略分野：中国本体公司把遥操人力工厂化当护城河；硅谷人力贵更推仿真/平台。目标也不同——工业100%成功率 vs 消费泛化可接管——数据配比随之变化。智元3月底称具身产量破万台。"
+  ],
+  "mental_model": {
+    "name": "数据金字塔 × 遥操稀缺 × 工厂vs平台",
+    "components": "按具身保真度分层；承认最稀缺遥操切片解锁部署；按薪酬与目标在中国式劳动力工厂与硅谷仿真平台间选择。",
+    "application": "尽调机器人看谁掌握遥操产能与质检流水线，而非只看模型演示。DeepMind RT史说明巨头也会欠采。"
+  },
+  "key_insights": [
+    {
+      "view": "机器人缩放卡在数据荒漠，不只算力。",
+      "question": "为何网页抓取用不了？",
+      "answer": "网上是人的视频，不是带力觉/触觉闭环的真机任务状态。"
+    },
+    {
+      "view": "遥操是那关键的万分之一。",
+      "question": "为何不只堆YouTube？",
+      "answer": "金字塔把遥操埋得很深，但真实接触成功仍靠它。"
+    },
+    {
+      "view": "中国优势可能在数采工厂。",
+      "question": "护城河是什么？",
+      "answer": "便宜、组织化的遥操人力+全链路采集，对垒硅谷偏仿真路线。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Robotics",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "数据基建/遥操产能是人形热潮下的稀缺层——早期，低置信"
+    },
+    {
+      "ticker": "Private:Sharpa",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "节目嘉宾路径偏触觉/仿真翻译；尚未规模化——低"
+    },
+    {
+      "ticker": "GOOGL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "DeepMind RT采集史显示基建优势；非纯机器人标的——低"
+    }
+  ],
+  "golden_quotes": [
+    "我们没有用于训练机器人的数据",
+    "数据荒漠",
+    "遥操作"
+  ],
+  "chronology": {
+    "subject": "机器人数据 · 遥操 · sim-to-real",
+    "events": [
+      {
+        "date": "2020s",
+        "event": "DeepMind RT-1多机多月采集"
+      },
+      {
+        "date": "2024–2026",
+        "event": "具身智能热潮暴露数据荒漠"
+      },
+      {
+        "date": "2026",
+        "event": "客户提出十万到百万小时级遥操需求"
+      },
+      {
+        "date": "2026",
+        "event": "觅蜂规划约200万遥操+800万其他小时"
+      },
+      {
+        "date": "2026-03",
+        "event": "智元称具身机器人产量破万台"
+      },
+      {
+        "date": "2026-04-30",
+        "event": "硅谷101上海数采工厂特辑"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep177",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

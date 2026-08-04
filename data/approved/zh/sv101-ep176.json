@@ -1,0 +1,118 @@
+{
+  "episode_id": "sv101-ep176",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 176,
+    "title": "Token经济学：AI时代的新货币战争",
+    "guest": "业内操盘手/创始人（计费与路由等）",
+    "guest_role": "AI infra · OpenRouter生态 · 中国模型出海",
+    "date": "2026-04-25",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=ppRvzPXGpEw",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ppRvzPXGpEw",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:OpenRouter",
+    "Private:MiniMax",
+    "MSFT",
+    "Private:Anthropic"
+  ],
+  "conclusion": "硅谷新炫富是Token-maxxing——每天烧掉多少token、调度多少agent。无限鼓励员工用量的文化战背后，是实验室→云→OpenRouter类路由→Metronome类计费的定价栈。OpenClaw之后agent任务把消耗从万级打到百万级；中国开源模型凭约50–70倍价差在OpenRouter霸榜，又遭遇2026年3月国内云AI约10天涨价30%。Token套利与“电力出海”叙事：贵州GPU本地耗电，价值经API跨境结算。",
+  "background": "解释大厂为何卷用量指标、token如何定价、MiniMax/Kimi/智谱为何在OpenClaw后股价躁动，以及便宜中国token能否持续。",
+  "important_facts": [
+    "文化：有创始人为50万年薪工程师只花约5000元token而暴怒；也有人（Jellyfish CEO）称纯用量是错误指标。中间共识：不用AI会被淘汰。OpenClaw级agent可烧数千万token；用最贵Claude做小事也可能十几二十美元。",
+    "中国线：部分任务中美价差50–70倍；MiniMax在OpenClaw安装流程获recommended标识；开源调用上升推高智谱/MiniMax等股价。2026年3月腾讯云/阿里云/百度智能云AI算力约10天涨价30%左右。",
+    "栈：路由与agent产品按难度分发模型控成本；Metronome把用量事件流与定价合同拆开。宏观：伦敦开发者调MiniMax，电在中国本地烧掉，价值以token账单出境——有人称为电力出海。排队与涨价考验折扣可持续性。"
+  ],
+  "mental_model": {
+    "name": "用量文化 × 价格阶梯 × 跨境Token贸易",
+    "components": "区分Token-maxxing身份游戏与单位经济；画出实验室到agent的利润池；把中国开源权重看成电+算力的无形出口。",
+    "application": "跟踪OpenRouter份额与涨价后中国模型ARPU。难任务仍付Anthropic/OpenAI溢价；易任务被套利压缩。计费infra是卖铲人。"
+  },
+  "key_insights": [
+    {
+      "view": "Token同时成了公司身份与损益。",
+      "question": "Maxxing理性吗？",
+      "answer": "当文化或许；当KPI常浪费——但零用量是竞争自杀。"
+    },
+    {
+      "view": "中国把便宜推理卖进agent需求。",
+      "question": "为何OpenRouter吃香？",
+      "answer": "指令遵循够用且价差50–70倍，正好匹配百万级token任务。"
+    },
+    {
+      "view": "Token出海是电力出海的别名。",
+      "question": "折扣能持久吗？",
+      "answer": "只在电力/产能与开源能力缺口仍在时；三月云涨价是信号。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:OpenRouter",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "成为token外汇台；量随agent时代起——低"
+    },
+    {
+      "ticker": "Private:MiniMax",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "OpenClaw推荐+价格优势推高用量/股价；竞争烈——低"
+    },
+    {
+      "ticker": "Private:Anthropic",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "难任务仍吃溢价，即便便宜中国模型吃批量agent——低"
+    }
+  ],
+  "golden_quotes": [
+    "Token-maxxing",
+    "Token套利",
+    "每天烧了多少token"
+  ],
+  "chronology": {
+    "subject": "Token经济 · OpenRouter · 中国出海",
+    "events": [
+      {
+        "date": "2025–2026",
+        "event": "Token-maxxing文化在硅谷公司扩散"
+      },
+      {
+        "date": "2026",
+        "event": "OpenClaw级agent推高token消耗"
+      },
+      {
+        "date": "2026",
+        "event": "中国开源模型凭价格登上OpenRouter"
+      },
+      {
+        "date": "2026-03",
+        "event": "腾讯/阿里/百度AI云约10天涨价约30%"
+      },
+      {
+        "date": "2026",
+        "event": "计费/路由层（Metronome等）专业化"
+      },
+      {
+        "date": "2026-04-25",
+        "event": "硅谷101 Token经济学"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep176",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

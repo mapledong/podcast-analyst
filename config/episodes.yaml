@@ -2104,6 +2104,17 @@ episodes:
   duration_minutes: 203
   youtube_url: ''
   podcast: Acquired
+- id: sv101-ep177
+  episode_number: 177
+  title: 'Inside Data Collection Factories: Why Robot Data Is So Scarce | Robotics
+    Series'
+  guest: Sharpa / Mifeng / industry operators
+  guest_role: Robot data platforms · teleop factories · Agibot context
+  date: '2026-04-30'
+  duration_minutes: 45
+  youtube_url: https://www.youtube.com/watch?v=ZvHIuIIZ3Is
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-uber-ceo-dara-khosrowshahi
   episode_number: 176
   title: Uber CEO Dara Khosrowshahi
@@ -2124,6 +2135,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=lqMnWASTTvk
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: sv101-ep176
+  episode_number: 176
+  title: 'Token Economics: The New Currency War of the AI Era'
+  guest: Industry operators / founders (incl. billing & routing voices)
+  guest_role: AI infra · OpenRouter ecosystem · Chinese model exporters
+  date: '2026-04-25'
+  duration_minutes: 45
+  youtube_url: https://www.youtube.com/watch?v=ppRvzPXGpEw
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-lockheed-martin
   episode_number: 175
   title: Lockheed Martin
@@ -2142,6 +2163,17 @@ episodes:
   duration_minutes: 99
   youtube_url: ''
   podcast: Acquired
+- id: sv101-ep174
+  episode_number: 174
+  title: 'China''s Robot Globalization Ambition and Physical AI Prep: Magic Atom in
+    Silicon Valley'
+  guest: Gu Shitao (顾诗韬)
+  guest_role: Magic Atom leadership · Xiaomi Iron Man alumni roots
+  date: '2026-04-18'
+  duration_minutes: 45
+  youtube_url: https://www.youtube.com/watch?v=oU_V5GlHq7I
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-benchmarks-mitch-lasky-and-blake-robbins-on-the-art-of-business-in-gaming
   episode_number: 173
   title: Benchmark's Mitch Lasky and Blake Robbins on The Art of Business in Gaming
@@ -2151,6 +2183,17 @@ episodes:
   duration_minutes: 136
   youtube_url: ''
   podcast: Acquired
+- id: sv101-ep173
+  episode_number: 173
+  title: 'Swallowing Hermès: Family Feuds, Century Capital Wars, and €10B Shares That
+    Vanished'
+  guest: Narrative documentary (Nicholas Puech / LVMH saga)
+  guest_role: Investigative storytelling · luxury governance
+  date: '2026-04-16'
+  duration_minutes: 35
+  youtube_url: https://www.youtube.com/watch?v=jn_H3vuUC6E
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-short-the-death-of-sega
   episode_number: 172
   title: The Death of Sega

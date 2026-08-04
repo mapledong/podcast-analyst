@@ -1,0 +1,118 @@
+{
+  "episode_id": "sv101-ep174",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 174,
+    "title": "China's Robot Globalization Ambition and Physical AI Prep: Magic Atom in Silicon Valley",
+    "guest": "Gu Shitao (顾诗韬)",
+    "guest_role": "Magic Atom leadership · Xiaomi Iron Man alumni roots",
+    "date": "2026-04-18",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=oU_V5GlHq7I",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=oU_V5GlHq7I",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:MagicAtom",
+    "Private:Robotics",
+    "TSLA",
+    "Private:Xiaomi"
+  ],
+  "conclusion": "Magic Atom — born from Xiaomi Iron Man talent, viral Spring Festival panda bot, then Silicon Valley launch with Jackson Yee and Turing laureates — sits in China's white-hot humanoid race. Gu Shitao rejects 'China only bodies, Valley only brains': China has supply-chain, engineering, and data-engine advantages and must self-fund early (citing a ~¥150M order). Path is productize fast, sell Asia entertainment/education/patrol dogs, use German dealers for industry, and aim to eventually fight Optimus — with 12–18 months cash pre-funded per milestone.",
+  "background": "Interview after presidency churn rumors. Covers why China competes so early, B-end buyers scoring delivery stability not just demos, and why price wars are premature while VLA/world-model releases cluster.",
+  "important_facts": [
+    "Positioning: SV event to project China's Physical AI voice and supply-chain links. Comparative advantage framing — China dense in ontology/supply/engineering + data fuel; not incapable of 'brains.' Early commercialization: self-hematopoiesis over pure research burn; ~¥150M large order referenced.",
+    "GTM: Asia (JP/KR/SG) mirrors China SKUs (entertainment, edu, inspection dogs); Europe/Germany needs strong industrial distributors after ICE→EV supply-chain gloom. US mix of research labs (under-supplied), home, and industry via dealers. B-end cares about delivery stability, aftersales, generalization vs rule hacks — not 400k vs 200k sticker wars yet.",
+    "Competition: extreme pace — RL loco leaps, clustered VLA/world-model drops, diligence and willpower as moats. Capital strategy: set China-#1 / Optimus-rival ambition then reverse-engineer 12–18 month funding buffers per milestone (compute, data, headcount). Domestic AI/embodied enthusiasm absorbs talent/capital even in soft macro."
+  ],
+  "mental_model": {
+    "name": "Supply-Chain Body × Early Cashflow × Milestone Cash Buffer",
+    "components": "Use China manufacturing density to ship ontologies early; force commercial orders before AGI narratives; pre-fund 12–18 months of compute/data per milestone instead of raise-then-dream.",
+    "application": "Private China robot names: score order quality, overseas channel depth, and cash runway discipline. TSLA Optimus is the explicit long-term sparring partner, not the near-term customer."
+  },
+  "key_insights": [
+    {
+      "view": "Division of labor ≠ destiny.",
+      "question": "Only bodies forever?",
+      "answer": "Gu: supply-chain edge is real, but data engines and delivery capability are also Chinese strengths — 'can't make brains' is lazy."
+    },
+    {
+      "view": "Self-hematopoiesis is the China tempo.",
+      "question": "Why compete so early?",
+      "answer": "Local capital/talent heat + need for real orders; research-only burn is culturally harder."
+    },
+    {
+      "view": "Global GTM is multi-speed.",
+      "question": "One product worldwide?",
+      "answer": "Asia copies China hits; Germany needs legacy industrial trust; US labs still hungry for hardware."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:MagicAtom",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Viral + SV branding + order narrative; early-stage execution/key-person risk — low"
+    },
+    {
+      "ticker": "Private:Robotics",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "China ontology race is investable theme; pick operators with cashflow discipline — low"
+    },
+    {
+      "ticker": "TSLA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named long-term rival for Chinese aspirants; episode is competitive weather, not Tesla deep dive — low"
+    }
+  ],
+  "golden_quotes": [
+    "Self-hematopoiesis.",
+    "China can never make the brains — that's not true.",
+    "Moat."
+  ],
+  "chronology": {
+    "subject": "Magic Atom · China robots · globalization",
+    "events": [
+      {
+        "date": "2020s",
+        "event": "Team roots in Xiaomi Iron Man work"
+      },
+      {
+        "date": "2026-02",
+        "event": "Panda robot viral via Spring Festival stage"
+      },
+      {
+        "date": "2026",
+        "event": "Leadership churn rumors (ex-president)"
+      },
+      {
+        "date": "2026",
+        "event": "Silicon Valley product launch / industry summit"
+      },
+      {
+        "date": "2026",
+        "event": "Large ~¥150M order narrative; overseas channel build"
+      },
+      {
+        "date": "2026-04-18",
+        "event": "Silicon Valley 101 interview episode"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep174",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

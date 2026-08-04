@@ -1,0 +1,125 @@
+{
+  "episode_id": "sv101-ep173",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 173,
+    "title": "Swallowing Hermès: Family Feuds, Century Capital Wars, and €10B Shares That Vanished",
+    "guest": "Narrative documentary (Nicholas Puech / LVMH saga)",
+    "guest_role": "Investigative storytelling · luxury governance",
+    "date": "2026-04-16",
+    "duration_minutes": 35,
+    "youtube_url": "https://www.youtube.com/watch?v=jn_H3vuUC6E",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=jn_H3vuUC6E",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "RMS.PA",
+    "MC.PA",
+    "Private:LVMH"
+  ],
+  "conclusion": "Hermès heir Nicholas Puech alleges ~6M shares (~€10B) vanished via advisor Eric Freymond, pulling LVMH/Arnault into court. The episode braids a personal fraud tale — gardener family, forged transfers, Freymond's Alpine death — into Arnault's decade-long stealth accumulation through equity swaps with Natixis/SocGen/Amundi below disclosure thresholds, timed after CEO Dumas's illness. Latest sting: Hermès Q1 sales −1.4%, intraday stock −14%. Owning the bag or the shares both got harder.",
+  "background": "Luxury soap-opera meets capital markets structure: how cash-settled swaps flipped to physical delivery, how an heir's advisor allegedly fed the float, and why family control myths meet activist/regulator limits.",
+  "important_facts": [
+    "Framing: Birkin scarcity culture vs family absurdity — 6M Hermès shares (~€10B; '200+ high-speed train cars of Birkins') disappear from fifth-generation heir Nicholas Puech. He sues ex-advisor Freymond and LVMH/Arnault (May prior year), suspecting a setup despite little operational overlap between houses.",
+    "Personal thread: pandemic-era gardener household gifted 50+ properties; gardener's wife catches Freymond lying about a CHF1M transfer → audit → missing shares. Freymond accused of aggravated breach of trust; accounts/art frozen; dies by train near Swiss chalet two weeks after questioning (ruled suicide). Probe: 2001 LVMH Geneva contact; 2008 ~4.8M shares into Dilico then SocGen swap leg at ~€86.66 vs >€1600 now.",
+    "Macro war: Arnault builds stake via three banks — Natixis ~5.0M (4.7%), SocGen ~4.8M (4.5%), Amundi ~3.2M (3.0%) — each under banner thresholds; switches cash settlement to physical after June 2010 when legendary CEO Dumas is terminally ill. Oct 23, 2010 disclosure shock. Coda: Apr 15 print Q1 sales €4.07B (−1.4%) and −14% intraday crash — largest in Hermès history cited."
+  ],
+  "mental_model": {
+    "name": "Family Custody Risk × Stealth Swap Accumulation × Brand Multiple Fragility",
+    "components": "Separate heir operational security from brand mystique; map equity-swap scaffolding that stays under 5% prints; remember luxury multiples still reprice on growth misses.",
+    "application": "RMS longs need governance/float literacy, not only Birkin waitlists. MC/LVMH history shows multi-year optionality on family disputes. Event risk around French luxury earnings remains fat-tailed."
+  },
+  "key_insights": [
+    {
+      "view": "The vanished block is both crime story and float story.",
+      "question": "How do €10B shares go quiet?",
+      "answer": "Trusted advisor + opaque entities + swap plumbing — not a single exchange print."
+    },
+    {
+      "view": "Arnault's campaign was regulatory judo.",
+      "question": "Why three banks?",
+      "answer": "Keep each sleeve under disclosure thresholds until physical settlement at Hermès's weakest hour."
+    },
+    {
+      "view": "Even Hermès equity is not a platinum bag.",
+      "question": "What's the 2026 sting?",
+      "answer": "Q1 miss triggered a record intraday −14% — scarcity branding ≠ earnings immunity."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "RMS.PA",
+      "direction": "Short",
+      "confidence": "Low",
+      "thesis": "Episode highlights governance/fraud overhang plus fresh Q1 miss and −14% crash — tactical, low confidence"
+    },
+    {
+      "ticker": "MC.PA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Historical stealth accumulation shows Arnault's optionality on Hermès drama; legal overhang cuts both ways — low"
+    },
+    {
+      "ticker": "Private:LVMH",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Same conglomerate narrative as MC for private framing — low"
+    }
+  ],
+  "golden_quotes": [
+    "6 million shares.",
+    "Vanished into thin air.",
+    "Birkin bag."
+  ],
+  "chronology": {
+    "subject": "Hermès · LVMH · Puech shares",
+    "events": [
+      {
+        "date": "2001",
+        "event": "LVMH Geneva contact approaches Freymond"
+      },
+      {
+        "date": "2008",
+        "event": "~4.8M Hermès shares moved into Dilico / swap chain"
+      },
+      {
+        "date": "2010-06",
+        "event": "CEO Dumas illness; swaps shift toward physical"
+      },
+      {
+        "date": "2010-10-23",
+        "event": "LVMH stake disclosure rocks Hermès"
+      },
+      {
+        "date": "2022",
+        "event": "Gardener tip triggers Puech audit"
+      },
+      {
+        "date": "2025",
+        "event": "Puech sues Freymond and LVMH/Arnault; Freymond dies"
+      },
+      {
+        "date": "2026-04-15",
+        "event": "Hermès Q1 sales −1.4%; stock −14% intraday"
+      },
+      {
+        "date": "2026-04-16",
+        "event": "Silicon Valley 101 Hermès saga episode"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep173",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

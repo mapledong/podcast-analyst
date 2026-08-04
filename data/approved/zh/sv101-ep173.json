@@ -1,0 +1,125 @@
+{
+  "episode_id": "sv101-ep173",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 173,
+    "title": "吞噬爱马仕：豪门恩怨、世纪资本恶战与凭空消失的百亿股份",
+    "guest": "叙事纪录片（尼古拉斯·皮埃奇 / LVMH线）",
+    "guest_role": "调查叙事 · 奢侈品治理",
+    "date": "2026-04-16",
+    "duration_minutes": 35,
+    "youtube_url": "https://www.youtube.com/watch?v=jn_H3vuUC6E",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=jn_H3vuUC6E",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "RMS.PA",
+    "MC.PA",
+    "Private:LVMH"
+  ],
+  "conclusion": "爱马仕继承人尼古拉斯·皮埃奇指控约600万股（约100亿欧元）经由顾问埃里克·弗雷蒙德“消失”，并把LVMH与阿尔诺告上法庭。节目把园丁家庭、伪造转账、顾问阿尔卑斯山车祸/自杀，与阿尔诺用法国外贸银行/兴业/东方汇理在举牌线以下做股权互换、趁杜马斯病重改为实物交割的十年偷袭拼在一起。近刺：爱马仕Q1销售−1.4%，盘中暴跌14%。皮包与股票都不再稳。",
+  "background": "奢侈品狗血与资本市场结构课：现金结算如何变成股票、继承人顾问如何疑似输送筹码，以及家族控制神话碰到监管与财报时的脆弱。",
+  "important_facts": [
+    "开场：铂金包候补文化 vs 家族荒诞——第五代继承人皮埃奇名下约600万股爱马仕（约100亿欧元）消失；他起诉前顾问弗雷蒙德与LVMH/阿尔诺，尽管两家业务往来不多。",
+    "个人线：疫情中与庄园园丁家庭相依，赠超50处房产；园丁妻子揭穿顾问未转100万瑞郎→审计→发现股份异常。弗雷蒙德涉加重滥用信任，账户与艺术品被冻；问询两周后在瑞士木屋附近被火车撞死（认定自杀）。调查指向2001年LVMH日内瓦接触、2008年约480万股进入Dilico再进兴业互换，成交均价约86.66欧元对比如今1600+欧元。",
+    "商战线：阿尔诺经三家银行建仓——法国外贸约500万股（4.7%）、兴业约480万（4.5%）、东方汇理约320万（3%），均在举牌线下；2010年6月杜马斯患绝症后改实物交割，10月23日披露震撼市场。结尾：4月15日Q1销售40.70亿欧元（−1.4%），股价盘中一度−14%，称史上最大盘中跌幅。"
+  ],
+  "mental_model": {
+    "name": "家族保管风险 × 隐蔽互换建仓 × 品牌估值脆弱",
+    "components": "把继承人资产安全与品牌神话拆开；看清5%以下互换袖筒；记住奢侈品倍数仍会因增长不及预期重估。",
+    "application": "RMS多头需要治理/流通盘素养，而非只看Birkin排队。MC/LVMH历史显示对家族纠纷的多年期权。法国奢侈品财报事件风险肥尾。"
+  },
+  "key_insights": [
+    {
+      "view": "消失的持股既是罪案也是流通盘故事。",
+      "question": "百亿股份如何悄无声息？",
+      "answer": "可信顾问+不透明实体+互换管道——不是单笔交易所成交。"
+    },
+    {
+      "view": "阿尔诺战役是监管柔道。",
+      "question": "为何三家银行？",
+      "answer": "每只袖筒压在披露线下，直到爱马仕最脆弱时刻实物交割。"
+    },
+    {
+      "view": "爱马仕股票也不是铂金包。",
+      "question": "2026的刺痛？",
+      "answer": "Q1不及预期触发盘中−14%——稀缺品牌≠财报免疫。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "RMS.PA",
+      "direction": "Short",
+      "confidence": "Low",
+      "thesis": "治理/欺诈阴影叠加Q1不及预期与−14%暴跌——战术性，低置信"
+    },
+    {
+      "ticker": "MC.PA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "历史隐蔽建仓显示阿尔诺对爱马仕戏剧的期权；法律阴影双向——低"
+    },
+    {
+      "ticker": "Private:LVMH",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "与MC同一集团叙事的私募表述——低"
+    }
+  ],
+  "golden_quotes": [
+    "600万股",
+    "凭空消失",
+    "铂金包"
+  ],
+  "chronology": {
+    "subject": "爱马仕 · LVMH · 皮埃奇股份",
+    "events": [
+      {
+        "date": "2001",
+        "event": "LVMH日内瓦接触弗雷蒙德"
+      },
+      {
+        "date": "2008",
+        "event": "约480万股进入Dilico/互换链条"
+      },
+      {
+        "date": "2010-06",
+        "event": "杜马斯病重；互换转向实物"
+      },
+      {
+        "date": "2010-10-23",
+        "event": "LVMH持股披露震动爱马仕"
+      },
+      {
+        "date": "2022",
+        "event": "园丁线报触发皮埃奇审计"
+      },
+      {
+        "date": "2025",
+        "event": "皮埃奇起诉；弗雷蒙德死亡"
+      },
+      {
+        "date": "2026-04-15",
+        "event": "爱马仕Q1销售−1.4%；股价盘中−14%"
+      },
+      {
+        "date": "2026-04-16",
+        "event": "硅谷101爱马仕特辑"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 sv101 youtube",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep173",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
