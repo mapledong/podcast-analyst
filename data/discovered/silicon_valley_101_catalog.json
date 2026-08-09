@@ -3,6 +3,14 @@
   "total": 196,
   "episodes": [
     {
+      "id": "sv101-ep197",
+      "episode_number": 197,
+      "title": "对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+      "youtube_id": "svNElhOYajQ",
+      "youtube_url": "https://www.youtube.com/watch?v=svNElhOYajQ",
+      "is_short": false
+    },
+    {
       "id": "sv101-ep196",
       "episode_number": 196,
       "title": "“榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场",

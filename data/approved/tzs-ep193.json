@@ -1,0 +1,113 @@
+{
+  "episode_id": "tzs-ep193",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 193,
+    "title": "E193 AI Chips × Value Investing: From Beginner to Practitioner | Yongqing with SMIC Co-founder Xie Zhifeng",
+    "guest": "Xie Zhifeng (谢志峰)",
+    "guest_role": "SMIC co-founder · 38+ year semiconductor operator",
+    "date": "2026-08-02",
+    "duration_minutes": 95,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6a6f302b1b5e24969ce7a80a"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:SMIC",
+    "0981.HK",
+    "NVDA",
+    "TSM"
+  ],
+  "conclusion": "SMIC co-founder Xie Zhifeng returns to teach how to study chips as a value investor: circle of competence, ten-year financials, monopoly/scarce assets, and Mr. Market — then overlay semiconductor specifics (design vs foundry vs memory, cycles, buyer-to-seller power flips when five applications boom). Common losses come from buying strength without understanding and from dabbling. Focus beats being a generalist; China's memory (ChangXin) and foundry capacity politics are case studies in knowing 'how many jin and liang.'",
+  "background": "Follow-up to a May episode (~20k plays). Yongqing asks for a research methodology rather than ticker tips: how Xie learned across US/Singapore/Taiwan/Mainland over ~40 years, and how Buffett/Graham tools meet wafer realities.",
+  "important_facts": [
+    "Method triad Xie stresses: don't invest what you don't understand; dissect what you do; prefer monopolistic/ scarce positions; always read ~10 years of statements — one quarter is gambling. Graham's Intelligent Investor + Mr. Market must be internalized so price deviations become actionable versus stubborn intrinsic ranges.",
+    "Loss patterns: (1) enter because prices rose / dinner tips / 30-minute AI chats — first wave profits then leveraged wipeouts; (2) endless chase of 0→0.1 tech novelty while under-allocating time to few companies that matter. Xie prefers specialist focus over 'complete oil' generalism — 40-year scoreboard favors focus.",
+    "Chip overlay: GPU/CPU/memory/foundry/materials each have different competitive factors; today's era flips to seller's market — TSMC/SMIC allocate capacity. Case: ChangXin as China's listed memory scarcity vs CXMT DRAM lane — study one name deeply. Learning posture: daily incremental study; reject 'already know' or 'can never learn.' Macro: five applications booming reverse customer power."
+  ],
+  "mental_model": {
+    "name": "Value Skeleton × Sector Anatomy × Focused Capacity",
+    "components": "Keep Graham/Buffett as worldview; map the six semiconductor layers separately; spend scarce research hours on monopolistic bottlenecks; treat capacity allocation regimes as part of intrinsic value.",
+    "application": "Chip portfolios: underwrite 10-year ROIC/cycle history before AI narratives. Prefer scarce domestic bottlenecks you can actually diligence. Fade tip-driven momentum without process. SMIC/TSMC capacity politics are first-order, not footnotes."
+  },
+  "key_insights": [
+    {
+      "view": "Without ten-year statements you are not value investing.",
+      "question": "What replaces quarterly vibes?",
+      "answer": "Trend of margins, inventory, cash cycles, and valuation bands across a decade — then Mr. Market deviations."
+    },
+    {
+      "view": "Chips need value tools plus sector physics.",
+      "question": "Can Buffett alone work?",
+      "answer": "Neither 'chips can't be valued' nor 'ignore foundry cycles' — combine."
+    },
+    {
+      "view": "Focus is the edge after 40 years.",
+      "question": "Why not cover everything AI?",
+      "answer": "Generalists skim 0.1 tech; specialists know jin/liang on the few that compound."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "0981.HK",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Seller's-market foundry allocator in China AI buildout; still geopolitics/cycle heavy — low"
+    },
+    {
+      "ticker": "TSM",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Global capacity king in the same seller's market flip Xie describes — medium"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Design-layer beneficiary of application boom; episode is methodology not NVDA deep dive — low"
+    }
+  ],
+  "golden_quotes": [
+    "Don't invest in what you don't understand.",
+    "Look at ten years of financials.",
+    "Focus beats being a generalist."
+  ],
+  "chronology": {
+    "subject": "Semiconductor investing methodology · Xie Zhifeng",
+    "events": [
+      {
+        "date": "~1980s–2020s",
+        "event": "Xie's ~38–40 year path US→Singapore→Taiwan→Mainland"
+      },
+      {
+        "date": "2026-05",
+        "event": "Prior TZS chip episode (~20k plays)"
+      },
+      {
+        "date": "2026",
+        "event": "Sector volatility; five-application boom narrative"
+      },
+      {
+        "date": "2026",
+        "event": "Foundry capacity flips toward seller allocation"
+      },
+      {
+        "date": "2026-08-02",
+        "event": "TZS E193 methodology sequel"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly TZS whisper",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/small+tzs-ep193",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

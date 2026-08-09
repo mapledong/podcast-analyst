@@ -1,0 +1,120 @@
+{
+  "episode_id": "fnd-427-how-raymond-plank-built-a-50-billion-oil-company",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 427,
+    "title": "How Raymond Plank Built a $50 Billion Oil Company",
+    "guest": null,
+    "guest_role": "Solo biography episode (Raymond Plank / Apache)",
+    "date": "2026-08-01",
+    "duration_minutes": 48,
+    "youtube_url": "https://www.youtube.com/watch?v=UpuinNtK6c4",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=UpuinNtK6c4",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:Apache",
+    "Private:RaymondPlank",
+    "XOM"
+  ],
+  "conclusion": "Senra digests Raymond Plank's memoir: Apache founded with $250k in 1954 became ~$50B by mid-2008. Path ran through Minneapolis tax/accounting for oil investors, WWII-era drilling incentives that pulled highly taxed capital into wells, then long-horizon operatorship versus impatient partners. Plank's maxims — get the plane, don't conglomerate-kill acquired owners, sprinkle analogies, keep learning into the 90s — turn a postwar oil partnership into a compounding machine built on seizing neglected drilling opportunity.",
+  "background": "Founders episode on Apache Corporation's founder rather than a pure company teardown. Emphasis on unexpected adjacency (bookkeeping → oil), partner schisms over time horizon, and anti-1960s-conglomerate acquisition discipline.",
+  "important_facts": [
+    "Apache began with $250,000 in 1954; by mid-2008 that stake of capital had compounded toward a $50B enterprise narrative Plank frames as proof of human learning capacity into his 90s. Origin: maple-syrup/entrepreneurial Minnesota youth → tax & accounting service for small businesses → oil-investor clients reveal well economics after wartime under-drilling plus government tax incentives for domestic search.",
+    "Insight: highly taxed individuals were incentivized into oil & gas; Plank expands services then into operating via Apache. Partner Truman Anderson conflict — 'values are not created equal' — short personal impatience vs Plank's long Apache horizon, complete with ashtray-smashing arguments. Acquisition rule: avoid era conglomerates' error of overlaying corporate overhead on founder-operators; buy, leave operators running, centralize only major capital calls.",
+    "Operating edges: personal aircraft as deal-speed weapon ('get the plane'); persuasion via analogy without scripts; belief that markets rarely pause where you expect. Late-life learning claim — ninth decade faster learning — closes the memoir loop Senra loves: capacity exceeds early self-belief."
+  ],
+  "mental_model": {
+    "name": "Adjacency Insight × Time-Horizon Conflict × Operator Autonomy",
+    "components": "Enter via services that see the cash flows; exploit policy-driven capital into neglected drilling; win partner wars on decades not quarters; acquire without smothering operators; buy personal leverage (plane) that compresses deal cycle time.",
+    "application": "Energy and PE operators: map service businesses adjacent to CapEx cycles. Diligence founder teams for horizon mismatch early. Prefer holdcos that keep unit P&Ls entrepreneurial. Personal logistics that shrink meeting latency still compound."
+  },
+  "key_insights": [
+    {
+      "view": "The fortune started as a tax practice.",
+      "question": "Where was the unfair look?",
+      "answer": "Accounting for Minneapolis oil investors surfaced mispriced drilling after war underinvestment + tax incentives."
+    },
+    {
+      "view": "Partner conflict is a feature of long games.",
+      "question": "What broke Truman vs Raymond?",
+      "answer": "Impatient personal drive versus multi-decade Apache horizon — values not created equal."
+    },
+    {
+      "view": "Don't conglomerate the soul out of sellers.",
+      "question": "How did Apache buy differently?",
+      "answer": "Avoided 1960s overhead overlays; left operators running with only high-bar capital gates."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Apache",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Historical compounder case study; modern ticker/path differs — low, narrative"
+    },
+    {
+      "ticker": "Private:RaymondPlank",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Founder playbook episode; not a security — low"
+    },
+    {
+      "ticker": "XOM",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Broad integrated-oil contrast set; episode is Apache-origin story not Exxon deep dive — low"
+    }
+  ],
+  "golden_quotes": [
+    "Get the plane.",
+    "Values are not created equal.",
+    "Little did I know accounting would lead to Apache."
+  ],
+  "chronology": {
+    "subject": "Raymond Plank · Apache Corporation",
+    "events": [
+      {
+        "date": "1954",
+        "event": "Apache founded with $250k"
+      },
+      {
+        "date": "1950s",
+        "event": "Tax/accounting adjacency into oil partnerships"
+      },
+      {
+        "date": "1950s–60s",
+        "event": "Partner schism over time horizon; operatorship focus"
+      },
+      {
+        "date": "1960s",
+        "event": "Acquisition style avoids conglomerate overhead trap"
+      },
+      {
+        "date": "mid-2008",
+        "event": "Plank frames ~$50B outcome from $250k start"
+      },
+      {
+        "date": "later life",
+        "event": "Memoir written in 90s emphasizing lifelong learning"
+      },
+      {
+        "date": "2026-08-01",
+        "event": "Founders #427 episode"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Founders",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+fnd-427-how-raymond-plank-built-a-50-billion-oil-company",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

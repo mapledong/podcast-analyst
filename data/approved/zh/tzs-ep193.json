@@ -1,0 +1,113 @@
+{
+  "episode_id": "tzs-ep193",
+  "podcast": "投资实战派",
+  "host": "永庆 & 大卫",
+  "metadata": {
+    "episode_number": 193,
+    "title": "E193 Ai芯片x价值投资，如何从入门到精通？ | 永庆对话中芯国际联合创始人谢志峰",
+    "guest": "谢志峰",
+    "guest_role": "中芯国际联合创始人 · 近40年半导体产业经验",
+    "date": "2026-08-02",
+    "duration_minutes": 95,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6a6f302b1b5e24969ce7a80a"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:SMIC",
+    "0981.HK",
+    "NVDA",
+    "TSM"
+  ],
+  "conclusion": "中芯国际联合创始人谢志峰返场，把芯片研究教成价值投资功课：能力圈、十年财报、垄断/稀缺、市场先生，再叠上半导体分部（设计/代工/存储等）与周期，以及五种应用爆发后产能从买方市场翻成卖方市场。常见亏钱来自追涨不懂与样样沾一点。专注胜过万金油；长存/长鑫与代工产能分配都是“知道几斤几两”的案例。",
+  "background": "5月那期约2万播放后的方法论续集。永庆要的不是报票，而是谢博士如何用近40年美/新/台/大陆经历，把格雷厄姆/巴菲特工具接到晶圆现实。",
+  "important_facts": [
+    "方法论：不懂不投、懂了拆投、找垄断/稀缺，并一定看约十年财报——只看一季是赌博。把《聪明的投资者》与市场先生内化，才能在价格偏离固执的内在价值区间时买卖。",
+    "亏钱画像：因上涨/饭局八卦/AI闲聊30分钟就买——先赚后加杠杆更惨；以及追0到0.1的新技术新鲜感，却不在少数关键公司上花够时间。谢博士选择做专家而非万金油——四十年结果站在专注一边。",
+    "芯片叠加：GPU/CPU/存储/代工/材料竞争要素各异；今朝五种应用齐爆，台积电/中芯国际“愿意给谁产能谁就有产”。案例：长鑫做内存稀缺需研究透再谈价。学习姿态：每天进步一点点，拒绝“都懂了”或“肯定学不会”。"
+  ],
+  "mental_model": {
+    "name": "价值骨架 × 产业解剖 × 专注产能",
+    "components": "格雷厄姆/巴菲特作世界观；半导体六块分开拆；研究时间砸在垄断瓶颈；把产能分配制度写进内在价值。",
+    "application": "芯片组合先看十年ROIC/周期再听AI故事。只买能尽调的稀缺瓶颈。无流程的消息仓淡化。中芯/台积产能政治是一阶变量。"
+  },
+  "key_insights": [
+    {
+      "view": "不看十年报表就不叫价值投资。",
+      "question": "用什么替换季度情绪？",
+      "answer": "利润率、存货、现金周期与估值带的十年趋势，再加上市场先生偏离。"
+    },
+    {
+      "view": "芯片要价值工具加产业物理。",
+      "question": "只靠巴菲特行吗？",
+      "answer": "既不能说芯片不能估值，也不能忽略代工周期——要合并。"
+    },
+    {
+      "view": "四十年后边缘在专注。",
+      "question": "为何不覆盖所有AI？",
+      "answer": "万金油只蹭到0.1技术；专家知道少数能复利的标的几斤几两。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "0981.HK",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "中国AI建设下的卖方市场代工分配者；地缘与周期仍重——低"
+    },
+    {
+      "ticker": "TSM",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "同一卖方市场翻转中的全球产能之王——中等"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "应用爆发下的设计层受益；本期是方法论非英伟达深挖——低"
+    }
+  ],
+  "golden_quotes": [
+    "不懂不投",
+    "一定要看十年的财务报表",
+    "我喜欢做专家"
+  ],
+  "chronology": {
+    "subject": "芯片投资方法论 · 谢志峰",
+    "events": [
+      {
+        "date": "~1980s–2020s",
+        "event": "谢博士近40年美/新/台/大陆产业路径"
+      },
+      {
+        "date": "2026-05",
+        "event": "投资实战派上一期芯片节目（约2万播放）"
+      },
+      {
+        "date": "2026",
+        "event": "行业波动；五种应用爆发叙事"
+      },
+      {
+        "date": "2026",
+        "event": "代工产能转向卖方分配"
+      },
+      {
+        "date": "2026-08-02",
+        "event": "投资实战派 E193 方法论续集"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly TZS whisper",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/small+tzs-ep193",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

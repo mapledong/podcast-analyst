@@ -1,6 +1,15 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
+- id: ep485
+  episode_number: 485
+  title: Gavin Baker — AI Market Jitters
+  guest: Gavin Baker
+  guest_role: Investor / AI infrastructure commentator (Atreides context)
+  date: '2026-08-04'
+  duration_minutes: 65
+  youtube_url: https://www.youtube.com/watch?v=NGsi2PC4y68
+  podcast: Invest Like the Best
 - id: ep484
   episode_number: 484
   title: How to Make an Abundant Future
@@ -472,6 +481,15 @@ episodes:
   duration_minutes: 80
   youtube_url: https://www.youtube.com/watch?v=o3rrGzTDH4k
   podcast: Invest Like the Best
+- id: fnd-427-how-raymond-plank-built-a-50-billion-oil-company
+  episode_number: 427
+  title: How Raymond Plank Built a $50 Billion Oil Company
+  guest: null
+  guest_role: Solo biography episode (Raymond Plank / Apache)
+  date: '2026-08-01'
+  duration_minutes: 48
+  youtube_url: https://www.youtube.com/watch?v=UpuinNtK6c4
+  podcast: Founders
 - id: ep426
   episode_number: 426
   title: Inside Apollo
@@ -1575,6 +1593,17 @@ episodes:
   duration_minutes: 234
   youtube_url: ''
   podcast: Acquired
+- id: sv101-ep197
+  episode_number: 197
+  title: 'Conversation with Ying Sheng: xAI, the Romance of Infra, SGLang, Open Source,
+    Equity, and Zhen Huan'
+  guest: Ying Sheng
+  guest_role: RadixArk founder · SGLang creator · former xAI inference lead
+  date: '2026-08-05'
+  duration_minutes: 106
+  youtube_url: https://www.youtube.com/watch?v=svNElhOYajQ
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-indian-premier-league-cricket
   episode_number: 196
   title: Indian Premier League Cricket
@@ -1665,6 +1694,17 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=tnvyMcmtAiw
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: tzs-ep193
+  episode_number: 193
+  title: 'E193 AI Chips × Value Investing: From Beginner to Practitioner | Yongqing
+    with SMIC Co-founder Xie Zhifeng'
+  guest: Xie Zhifeng (谢志峰)
+  guest_role: SMIC co-founder · 38+ year semiconductor operator
+  date: '2026-08-02'
+  duration_minutes: 95
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a6f302b1b5e24969ce7a80a
 - id: acq-meta
   episode_number: 192
   title: Meta

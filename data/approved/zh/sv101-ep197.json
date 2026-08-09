@@ -1,0 +1,122 @@
+{
+  "episode_id": "sv101-ep197",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 197,
+    "title": "对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+    "guest": "盛颖",
+    "guest_role": "RadixArk创始人 · SGLang发起人 · 前xAI推理负责人",
+    "date": "2026-08-05",
+    "duration_minutes": 106,
+    "youtube_url": "https://www.youtube.com/watch?v=svNElhOYajQ",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=svNElhOYajQ",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 5
+  },
+  "keywords": [
+    "Private:RadixArk",
+    "Private:SGLang",
+    "Private:xAI",
+    "NVDA"
+  ],
+  "conclusion": "盛颖——交大ACM班、哥大/斯坦福CS、LMSYS核心、SGLang创始人、xAI Grok推理共同负责人——在几乎集齐算力巨头的1亿美元种子轮后创办RadixArk。她把Infra本身当作产品而非模型公司的附属；坚持SGLang归属LMSYS社区、公司贡献全开源、不做private fork；并把推理服务当成起点而非长远核心。ADHD是手册不是疾病，《甄嬛传》里写证明，用高强度天性追求与强力AI共存的开放底座。",
+  "background": "上期SGLang/RadixArk技术片的人物篇。覆盖为何离开Databricks加入xAI推广SGLang、志愿开源交付崩溃、与Baseten/Fireworks的竞合姿态，以及LMSYS作为终生事业的平行线。",
+  "important_facts": [
+    "轨迹：形式化/PL研究（IJCAR最佳论文相关高光）→ ChatGPT前在谷歌PaLM/LaMDA时期看见模型潜力 → LMSYS夜间周末贡献 → 创办SGLang → Databricks难以随意开发 → 2024年10月加入xAI共同领导Grok推理 → 孵化RadixArk并完成约1亿美元种子轮，投资方几乎集齐硅谷算力巨头。",
+    "理念：以模型为目标的公司会在infra美感上妥协；盛颖要的是与Infra的浪漫——Infra不是辅助，本身就是产品。自称必须intense；ADHD是特点/手册。开源纪律：SGLang属LMSYS社区，公司无private fork；推理不是长远核心，故不把Baseten（节目提及3亿美元融资、估值50亿量级）/Fireworks当死敌。",
+    "组织：2024年中志愿带宽撑不住爆发需求，低空飞过或交付失败，焦虑必须把中空状态填成公司。终局：让只有巨头才有的前沿Infra变成行业底座；LMSYS是若公司走不到底仍会终生做的严肃事业；与强AI共存前提高提是人类平等团结。"
+  ],
+  "mental_model": {
+    "name": "Infra即产品 × 开源纪律 × 高强度手册",
+    "components": "拒绝系统软件二等公民；引擎留在社区、商业化做相邻难题；志愿带宽崩了就公司化；为强AI共享Infra的世界设计。",
+    "application": "尽调AI Infra看是否真开源、推理托管是楔子还是身份。NVDA等生态仍是Day-0门槛。人才：给intense创始人结构，而非磨平。"
+  },
+  "key_insights": [
+    {
+      "view": "Infra本身就是产品。",
+      "question": "为何不甘当模型公司后勤？",
+      "answer": "模型优先会牺牲系统美感；她要栈本身成为手艺与公司。"
+    },
+    {
+      "view": "开源撞上交付墙。",
+      "question": "为何公司化？",
+      "answer": "夜间周末LMSYS无法满足爆发的合作需求——中空必须被全职填上。"
+    },
+    {
+      "view": "别跟用户在托管上死磕。",
+      "question": "和Baseten？",
+      "answer": "引擎开源；长远不靠租GPU——竞合优于零和推理SaaS。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:RadixArk",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "1亿美元种子+开源SGLang特许+芯片战略股东；非推理核心仍早——低"
+    },
+    {
+      "ticker": "Private:SGLang",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "社区引擎成为Day-0默认；价值经RadixArk/生态沉淀——低"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "开放推理引擎放大已装GPU效用——低"
+    }
+  ],
+  "golden_quotes": [
+    "Infra本身在我眼中就是产品",
+    "我是个必须intense的人",
+    "甄嬛传"
+  ],
+  "chronology": {
+    "subject": "盛颖 · SGLang · RadixArk",
+    "events": [
+      {
+        "date": "2022前",
+        "event": "形式化/PL研究高光"
+      },
+      {
+        "date": "2022",
+        "event": "ChatGPT前看见大模型潜力"
+      },
+      {
+        "date": "2023–2024",
+        "event": "LMSYS+SGLang志愿式爆发"
+      },
+      {
+        "date": "2024",
+        "event": "Databricks经历；交付焦虑升温"
+      },
+      {
+        "date": "2024-10",
+        "event": "加入xAI共同领导Grok推理"
+      },
+      {
+        "date": "2026",
+        "event": "RadixArk约1亿美元种子轮"
+      },
+      {
+        "date": "2026-08-05",
+        "event": "硅谷101 EP197专访"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly sv101",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/manual+sv101-ep197",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "episode_id": "ep485",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 485,
+    "title": "Gavin Baker — AI Market Jitters",
+    "guest": "Gavin Baker",
+    "guest_role": "Investor / AI infrastructure commentator (Atreides context)",
+    "date": "2026-08-04",
+    "duration_minutes": 65,
+    "youtube_url": "https://www.youtube.com/watch?v=NGsi2PC4y68",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=NGsi2PC4y68",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "colossus": "https://colossus.com/"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "NVDA",
+    "MSFT",
+    "META",
+    "Private:Anthropic"
+  ],
+  "conclusion": "Gavin Baker returns amid AI equity jitters: NVDA at a decade-low forward PE while the tape prices overvaluation, hyperscaler operating cash flow accelerating even as July narrative flipped on open-source mix (GLM/Kimi) and token-index flattening. He argues CapEx cuts are not the base case — telemetry into Meta plans held, SpaceX/installed-base stories confuse capacity reads — and that sample-efficient continual learning is the real long-horizon risk/opportunity. China decoupling plus HBM LTA politics favor NVDA's current stack; industry must tell its growth story better to Main Street.",
+  "background": "Two months after the prior Baker conversation, model-release cadence has compressed further (Grok 4.5, open models). Patrick pressure-tests whether cheapening AI semis are a value trap or a buyable dislocation versus improving fundamentals and still-opaque Anthropic/OpenAI/inference-cloud cash flows (Fireworks, Baseten).",
+  "important_facts": [
+    "Baker notes NVDA trading at its lowest forward PE in ~10 years while 'the market 100% thinks they're significantly overvalued.' Visibility gap: public markets miss Anthropic/OpenAI and US open-source inference clouds monetizing tokens. Silica-style token indices dipped/flattened as mix shifted toward cheaper open models (GLM 5.2, Kimi) after a freak-out — not pure demand death; frontier tokens still carry debated 80–95% inference margins.",
+    "Hyperscaler operating cash flow (MSFT/META/AMZN) is accelerating at scale; MSFT brought a huge June capacity slug that barely showed in Q2. CapEx-cut panic misread: they 'didn't cut CapEx'; SpaceX installed-base speculation and raise chatter muddy the signal. Meta CapEx telemetry hadn't shifted when freak-outs peaked. Open-source acceleration (incl. China models) is real but coexisted with continued US lab shipping.",
+    "Long-horizon: solving continual/sample-efficient learning could discontinuity demand curves (train on far fewer tokens then learn in the wild) — SSI and new labs chasing August-era demos; Baker frames this as amazing for the world yet hard to price. Supply chain: breaking HBM LTAs risks share loss across ≥4 memory players + startups (Etched). China understanding is hard under decoupling; learning-by-doing cycles can't be teleported. Political risk: deep-red pro-growth states still need the industry to narrate benefits."
+  ],
+  "mental_model": {
+    "name": "Fundamentals vs Narrative Mix × CapEx Telemetry × Learning Discontinuity",
+    "components": "Separate price/PE panic from OCF and capacity adds; read token-index dips as mix shifts toward cheap open inference; keep optionality for sample-efficient learning that rewrites token demand; treat HBM contracts and China opacity as structural, not weekly noise.",
+    "application": "Prefer adding NVDA/hyperscaler AI exposure on narrative freak-outs when OCF/CapEx telemetry still rises. Fade pure 'CapEx cliff' takes without shipment evidence. Track open-model mix for inference margins more than for AGI timelines. Underwrite China as a parallel stack, not a single global price."
+  },
+  "key_insights": [
+    {
+      "view": "Cheapest forward PE meets loudest overvaluation chorus.",
+      "question": "Is the tape smarter than cash flows?",
+      "answer": "Baker: underlying fundamentals improving; markets lack Anthropic/OpenAI/open inference-cloud visibility that would reframe growth."
+    },
+    {
+      "view": "July freak-out was a confluence, not a CapEx capitulation.",
+      "question": "Did hyperscalers blink?",
+      "answer": "OCF accelerating; Meta telemetry steady; June capacity still ramping into prints — narrative flipped before the P&L did."
+    },
+    {
+      "view": "Sample-efficient learning is the real regime risk.",
+      "question": "What would break the token flywheel?",
+      "answer": "If models learn in the wild after thinner pretraining, demand asymptotes — world-positive, stock-ambiguous."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Decade-low forward PE vs improving AI fundies and HBM/stack lock-in; open-source mix is margin noise more than demand collapse — medium"
+    },
+    {
+      "ticker": "MSFT",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "OCF acceleration + large June capacity adds support continued AI infra spend — medium"
+    },
+    {
+      "ticker": "META",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "CapEx telemetry held through freak-out; still execution/PR sensitive — low"
+    }
+  ],
+  "golden_quotes": [
+    "I want to be scared.",
+    "Nvidia's at its lowest forward PE of the last 10 years.",
+    "They didn't cut CapEx."
+  ],
+  "chronology": {
+    "subject": "AI market jitters · CapEx · open-source mix",
+    "events": [
+      {
+        "date": "2026-06",
+        "event": "Prior Baker ILTB episode; Anthropic strength helps market look past worries"
+      },
+      {
+        "date": "2026-06",
+        "event": "Microsoft brings large capacity online (limited Q2 print impact)"
+      },
+      {
+        "date": "2026-07",
+        "event": "Open-source freak-out (GLM/Kimi); token-index mix shift; narrative flips"
+      },
+      {
+        "date": "2026-07–08",
+        "event": "Hyperscaler OCF acceleration visible even as equity jitters rise"
+      },
+      {
+        "date": "2026-08",
+        "event": "SSI/new-lab sample-efficient learning milestones watched"
+      },
+      {
+        "date": "2026-08-04",
+        "event": "ILTB EP485 with Gavin Baker"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly ILTB",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+ep485",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
