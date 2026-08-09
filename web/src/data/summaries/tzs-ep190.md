@@ -2,7 +2,7 @@
 
 ## *AI Research Workflow Fully Disclosed: Ideas, Deep Work, and Tracking in One Pipeline*
 
-**★★★★☆** · 4/5
+**★★★☆☆** · 3/5
 
 **Podcast** Practical Investments · **Date** Jul 6, 2026 · **Duration** 62 min · **Read** ≈4 min
 

@@ -4,28 +4,28 @@
 
 **★★★☆☆** · 3/5
 
-**播客** 张小珺商业访谈录 · **日期** 2026年5月27日 · **时长** 139 分钟 · **阅读** ≈4 分钟
+**Podcast** 张小珺商业访谈录 · **Date** May 27, 2026 · **Duration** 139 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 雨森 · 创投观察者
+**Guest** 雨森 · 创投观察者
 
-**收听** [YouTube](https://www.youtube.com/watch?v=XEhf371Aeso) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=XEhf371Aeso) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** Harness · 字节跳动 · 2026
-> ### 结论
+**Topics** Harness · 字节跳动 · 2026
+> ### Conclusion
 >
 > 雨森在中国基金创投观察中重构 2026 框架：对 AI 回报的谨慎判断遭遇早期打脸是前沿曲线陡峭时的常态。可投资主线不在裸模型，而在 Harness 层——沙箱、检查点与反馈闭环让较弱模型完成长任务。在字节分发规则内极难击败字节；边际在巨头忽视的正交细分与中国硬件供应链。二级市场投资者应将其读作私募地图——API 毛利压缩，编排与工作流数据复利。
 
 ---
 
-## 背景
+## Background
 
 > 139 分钟创投观察节目中，张小珺回访雨森 2026 年 1 月对 AI 股票回报的谨慎判断——英伟达引领反弹使观点显得过早错误，雨森视之为职业风险。他梳理 O1、DeepSeek 冲击与美国超大规模叙事。Harness（模型外编排）在 2026 年更重要：沙箱、持久智能体电脑与任务检查点解锁长任务。编程飞轮以真实修复信号重训模型（Claude Code）。下一字节之争：在字节主场难赢；机会在娱乐、工具与巨头低估的硬件细分。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 雨森 2025 年末预期 2026 年 AI 股权消化；英伟达等强势反弹——他将「打脸」视为前沿市场快时的常态。O1 与 DeepSeek 叙事剧烈摆动；底层开支与编程智能体采用持续。教训：区分交易叙事与基础设施建设周期。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *模型 × Harness × 分发护城河*
+## Mental Model · *模型 × Harness × 分发护城河*
 
-> **构成**
+> **Components**
 >
 > 前沿模型必要非充分——Harness、沙箱与反馈闭环拥有任务完成度。字节式分发护城河阻挡正面克隆；边际在正交细分与硬件供应链。早期 VC 观点在 S 曲线陡峭时常显错误——押注层级非季度叙事。
 >
-> **应用**
+> **Application**
 >
 > 私有 Harness/编排标的：关注编程与运维中的数据飞轮证明。上市巨头（GOOGL、META）：模型加 Harness 加分发胜出；单 API 毛利压缩。中国硬件与边缘 AI 受益若应用层碎片化。勿按广告网络逻辑估值「下一字节」——寻找平台忽视品类。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 2026 属于 Harness，即便模型仍关键。
 >
-> **问** 雨森看到的风投边际在哪？
+> **Q** 雨森看到的风投边际在哪？
 >
-> **答** 长任务需编排——沙箱、持久电脑、检查点——非更大上下文窗口 alone。Harness 收集重训模型的反馈（编程修复、失败步骤）。投资者应绘制技术栈：模型商品化风险上升；Harness 与工作流数据护城河加深。
+> **A** 长任务需编排——沙箱、持久电脑、检查点——非更大上下文窗口 alone。Harness 收集重训模型的反馈（编程修复、失败步骤）。投资者应绘制技术栈：模型商品化风险上升；Harness 与工作流数据护城河加深。
 
 > **2.** 下一字节不是字节 2.0。
 >
-> **问** 雨森从辩论中学到什么？
+> **Q** 雨森从辩论中学到什么？
 >
-> **答** 在字节主场赢需其分发与广告栈——新人难复制。基金仍赴上海找克隆；更好 hunt 是正交娱乐/工具与海外细分。应用创业者应做巨头不投的事，非复制信息流。
+> **A** 在字节主场赢需其分发与广告栈——新人难复制。基金仍赴上海找克隆；更好 hunt 是正交娱乐/工具与海外细分。应用创业者应做巨头不投的事，非复制信息流。
 
 > **3.** 早期看错优于晚期才对。
 >
-> **问** 如何读他 2026 谨慎判断？
+> **Q** 如何读他 2026 谨慎判断？
 >
-> **答** 公募 AI 因资本开支与编程智能体反弹，其观点指金融化风险——二者可并存。早期投资人须在共识前发声；频繁打脸信号快市场与充裕 deal flow。公募投资者：勿交易其择时；提取 Harness 与硬件结构性主题。
+> **A** 公募 AI 因资本开支与编程智能体反弹，其观点指金融化风险——二者可并存。早期投资人须在共识前发声；频繁打脸信号快市场与充裕 deal flow。公募投资者：勿交易其择时；提取 Harness 与硬件结构性主题。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. Harness** · 🟡 WATCH · ●●○ Medium
 >
@@ -87,17 +87,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「被打脸对早期投资人是常态——往往说明行业还在快速移动。」
+> "被打脸对早期投资人是常态——往往说明行业还在快速移动。"
 
-> 「模型外面的 Harness 层，是 2026 风投边际形成的地方。」
+> "模型外面的 Harness 层，是 2026 风投边际形成的地方。"
 
-> 「在字节的游戏里打不过字节——要找它结构上缺席的战场。」
+> "在字节的游戏里打不过字节——要找它结构上缺席的战场。"
 
 ---
 
-## 时间线
+## Chronology
 
 > *雨森 · 创投观察 2026*
 >
@@ -114,9 +114,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 雨森 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=XEhf371Aeso)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 雨森. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=XEhf371Aeso) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

@@ -2,24 +2,24 @@
 
 ## *E190 AI投研流程全公开：点子、研究、跟踪一条龙*
 
-**★★★★☆** · 4/5
+**★★★☆☆** · 3/5
 
-**播客** 投资实战派 · **日期** 2026年7月6日 · **时长** 62 分钟 · **阅读** ≈4 分钟
+**Podcast** 投资实战派 · **Date** Jul 6, 2026 · **Duration** 62 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 永庆 · 投资实战派主理人 · 知识星球季度交流
+**Guest** 永庆 · 投资实战派主理人 · 知识星球季度交流
 
-**收听**  · [小宇宙](https://www.xiaoyuzhoufm.com/episode/6a4b8daf2e335a35a80ef059) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** TSM · AI投研 · 中际旭创 · 中际旭创（300308.SZ）
-> ### 结论
+**Topics** TSM · AI投研 · 中际旭创 · Zhongji Innolight (300308.SZ)
+> ### Conclusion
 >
 > 永庆把投资实战派的 AI 投研流水线从头拆开——点子获取、深度研究、持续跟踪——作为 2026「AI 助力」版对第 188 期 SOP 的升级。AI 擅长叠大师观点、规则筛选、周报摘要与信息源迭代；弱项仍是现实世界调研。网上信息挖掘大约 50–85 分封顶；真正边际来自高认知交流，不熟公司未到约 150 万字覆盖前不宜重仓。
 
 ---
 
-## 背景
+## Background
 
 > 第 190 期为知识星球季度主题交流，永庆向成员演示团队如何把 AI 嵌进他在 188 期勾勒的完整投研环（点子→筛选→深度覆盖→调研→跟踪）。今年标题关键词是 AI 助力。
 >
@@ -27,7 +27,7 @@
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 点子层 AI 任务：每周跟踪国内外投资大佬（播客、持仓类公开信息、策略标签）；能力圈发现覆盖消费、互联网、制造、周期等，并写明 A/B/C 规则（如周期：历史 PB 低估、行业/价格近底部、新增产能不大；供给紧+新需求；内卷结束信号）；另有回购金额/市值占比、高股息等策略筛单。
 
@@ -38,64 +38,64 @@
 
 ---
 
-## 思维模型 · *AI 助理 × 多声部投委会 × 人类认知天花板*
+## Mental Model · *AI 助理 × 多声部投委会 × 人类认知天花板*
 
-> **构成**
+> **Components**
 >
 > 用写清要求的 SOP 积木自动化点子、规则筛选与跟踪。强制多人格评估以压力测试信念。调研与识别「网上共识错了」仍归人类。仓位深度仍按 188 期约 150 万字门槛。
 >
-> **应用**
+> **Application**
 >
 > 搭个人 AI 投研台：大佬跟踪、行业规则引擎、回购/股息扫描、周报 ITR——每块写要求。用星球/一手卷宗做 RAG，而非 PR 博客。光模块类成长股作「喂给 AI 大师」的评分样例，不作冲动推荐。当爆款公号论点与既有调研冲突时，升级为网外专家核对。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** AI 是存量与跟踪的研究助理，不是调研替身。
 >
-> **问** SOP 里 AI 最有用在哪？
+> **Q** SOP 里 AI 最有用在哪？
 >
-> **答** 永庆把它用在点子聚合、规则筛选、语料驱动的大师模拟，以及同步团队的周报摘要。访谈与网外认知仍需人，因为网上挖掘有硬顶。
+> **A** 永庆把它用在点子聚合、规则筛选、语料驱动的大师模拟，以及同步团队的周报摘要。访谈与网外认知仍需人，因为网上挖掘有硬顶。
 
 > **2.** 一句「像巴菲特思考」没用；语料才造就 agent。
 >
-> **问** 如何有效模拟大师？
+> **Q** 如何有效模拟大师？
 >
-> **答** 先装入原则、访谈、推特与栏目资料库，让 agent 动态跟踪该思维，再让它给机会打分——成长光模块、交易型标的或管理层质量——并与自我、市场观点并排。
+> **A** 先装入原则、访谈、推特与栏目资料库，让 agent 动态跟踪该思维，再让它给机会打分——成长光模块、交易型标的或管理层质量——并与自我、市场观点并排。
 
 > **3.** 覆盖深度仍决定仓位。
 >
-> **问** 上了 AI 之后什么不能省？
+> **Q** 上了 AI 之后什么不能省？
 >
-> **答** 不熟公司未到约 150 万字材料前不应重仓——AI 可加速阅读计划，但不能给薄档案开 50% 仓位许可证。核心仍是把更重要的问题想清楚，并找到高认知的人。
+> **A** 不熟公司未到约 150 万字材料前不应重仓——AI 可加速阅读计划，但不能给薄档案开 50% 仓位许可证。核心仍是把更重要的问题想清楚，并找到高认知的人。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. TSM** · 🟢 LONG · ●○○ Low
 >
 > 190 期 AI SOP 加速覆盖 188 期已框定的 AI 链简单体——仅当大师模拟+多维跟踪+约 150 万字深度过关后 Long，而非因周报点名
 
-> **2. 中际旭创（300308.SZ）** · 🟢 LONG · ●○○ Low
+> **2. Zhongji Innolight (300308.SZ)** · 🟢 LONG · ●○○ Low
 >
 > 中际旭创（300308.SZ）：光模块被用作向 AI 大师 agent 喂成长股框架的样例——仅当规则筛选、多声部评估与覆盖深度过关后 Long；视为流程演示非 tip
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「核心任务应该是把更重要的问题想清楚」
+> "核心任务应该是把更重要的问题想清楚"
 
-> 「很多重要的信息他可能不在网上」
+> "很多重要的信息他可能不在网上"
 
-> 「不要对不熟的公司太重仓」
+> "不要对不熟的公司太重仓"
 
 ---
 
-## 时间线
+## Chronology
 
 > *永庆 · AI 投研流水线*
 >
@@ -112,9 +112,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 永庆 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听原节目获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 永庆. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

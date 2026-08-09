@@ -2,30 +2,30 @@
 
 ## *从蒸汽机到无人驾驶3｜和孟醒聊特斯拉FSD进化史*
 
-**★★★★☆** · 4/5
+**★★★☆☆** · 3/5
 
-**播客** 张小珺商业访谈录 · **日期** 2024年8月18日 · **时长** 75 分钟 · **阅读** ≈2 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Aug 18, 2024 · **Duration** 75 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 孟醒 · 自动驾驶创业者
+**Guest** 孟醒 · 自动驾驶创业者
 
-**收听** [YouTube](https://www.youtube.com/watch?v=uTj7nDasNGg) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=uTj7nDasNGg) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** TSLA · FSD · 端到端 · 自动驾驶
-> ### 结论
+**Topics** TSLA · FSD · 端到端 · 自动驾驶
+> ### Conclusion
 >
 > 孟醒特斯拉 FSD 进化史（蒸汽机到无人驾驶第 3 集）梳理规则栈经神经网络到端到端视觉——特斯拉每次转型最早喊出。FSD v12 统一网络取代模块化管线；数据飞轮与自研硅仍是护城河。投资者应观望特斯拉（TSLA）干预里程与 FSD 收入确认，行业抄架构难匹车队规模。
 
 ---
 
-## 背景
+## Background
 
 > 张小珺 2024 年 8 月 18 日与孟醒续自动驾驶史系列——聚焦特斯拉 FSD 脉络。孟醒走过 Occupancy Network、BEV 融合、影子模式与向端端驾驶策略（车队视频训练）转变。特斯拉在神经网络足够时删除手工模块的意愿是反复出现的课；中国 OEM 现模仿但数据量与迭代速度落后。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 模块化到端到端：孟醒解释特斯拉以单一网络 FSD v12 退役感知-规划栈——架构简化降错误复合。TSLA 观望关键干预间里程为证非 release note。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *架构简化 × 车队数据 × 转型先发*
+## Mental Model · *架构简化 × 车队数据 × 转型先发*
 
-> **构成**
+> **Components**
 >
 > 端到端去除拼接点失败。影子模式把里程变标签。最先正确转型胜死栈上 incremental 补丁。
 >
-> **应用**
+> **Application**
 >
 > 特斯拉（TSLA）：观望 FSD v12+ 干预趋势与订阅 attach——自主期权按数据规模定价。宣称端到端却无透明里程的 OEM 低配。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** FSD v12 删除管线。
 >
-> **问** 特斯拉最新栈何变？
+> **Q** 特斯拉最新栈何变？
 >
-> **答** 孟醒称统一网络取代模块化感知-规划交接——少拼接幻觉。行业抄袭者交 demo；特斯拉指标清则车队 OTA。
+> **A** 孟醒称统一网络取代模块化感知-规划交接——少拼接幻觉。行业抄袭者交 demo；特斯拉指标清则车队 OTA。
 
 > **2.** 影子模式是秘密工厂。
 >
-> **问** 特斯拉如何规模化标注？
+> **Q** 特斯拉如何规模化标注？
 >
-> **答** 车队影子驾驶比较人与策略——分歧变训练信号。数据量护城河比开源权重难克隆。
+> **A** 车队影子驾驶比较人与策略——分歧变训练信号。数据量护城河比开源权重难克隆。
 
 > **3.** 蒸汽机到自驾是转型纪律。
 >
-> **问** 为何给投资者讲历史系列？
+> **Q** 为何给投资者讲历史系列？
 >
-> **答** 每次范式转换杀死沉没成本 incumbent——孟醒弧显示特斯拉指标赢则弃模块。投资者应资助数据飞轮非激光雷达地图怀旧。
+> **A** 每次范式转换杀死沉没成本 incumbent——孟醒弧显示特斯拉指标赢则弃模块。投资者应资助数据飞轮非激光雷达地图怀旧。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. TSLA** · 🟡 WATCH · ●●○ Medium
 >
@@ -79,17 +79,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「使得它可以變得更符合我們人類對於產品的習慣和要求」
+> "使得它可以變得更符合我們人類對於產品的習慣和要求"
 
-> 「那這些能力可能已經在埋在歷史存在的數據過程中」
+> "那這些能力可能已經在埋在歷史存在的數據過程中"
 
-> 「先後在美國和中國創辦了兩家人工智能出創公司」
+> "先後在美國和中國創辦了兩家人工智能出創公司"
 
 ---
 
-## 时间线
+## Chronology
 
 > *孟醒 · 特斯拉 FSD 史*
 >
@@ -108,9 +108,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 孟醒 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=uTj7nDasNGg)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 孟醒. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=uTj7nDasNGg) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

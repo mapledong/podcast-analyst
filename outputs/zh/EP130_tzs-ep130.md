@@ -2,30 +2,30 @@
 
 ## *二十四年All in的茅台人生｜对话张亚群*
 
-**★★★★☆** · 4/5
+**★★★☆☆** · 3/5
 
-**播客** 投资实战派 · **日期** 2025年6月29日 · **时长** 56 分钟 · **阅读** ≈2 分钟
+**Podcast** 投资实战派 · **Date** Jun 29, 2025 · **Duration** 56 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 张亚群 · 茅台经销商、24年茅台从业者
+**Guest** 张亚群 · 茅台经销商、24年茅台从业者
 
-**收听**  · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** 贵州茅台（600519.SZ） · 茅台 · 白酒 · 渠道
-> ### 结论
+**Topics** Kweichow Moutai (600519.SZ) · 茅台 · 白酒 · 渠道
+> ### Conclusion
 >
 > 张亚群 24 年茅台经销商人生揭示渠道现实——批价、关系资本与政策周期塑造贵州茅台（600519.SZ）胜于工厂参观。All in 茅台生态教会库存风险与送礼经济波动。投资者应观望贵州茅台（600519.SZ）经销商健康、直营占比与批价溢价作草根信号。
 
 ---
 
-## 背景
+## Background
 
 > 投资实战派第 130 期（2025 年 6 月 29 日）访谈张亚群——24 年茅台从业者与经销商。口述史：入经销体系、黄金十年、反腐与渠道改革冲击、i茅台 数字化转型。张亚群人性化 600519.SZ 论点——品牌是宗教直至批价裂缝；经销商是温度计。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 经销商温度计：张亚群称批价与经销商现金流领先财报——贵州茅台（600519.SZ）投资者应跟草根库存非仅出厂价上调。
 
@@ -36,60 +36,60 @@
 
 ---
 
-## 思维模型 · *经销商批价 × 政策周期 × 渠道改革*
+## Mental Model · *经销商批价 × 政策周期 × 渠道改革*
 
-> **构成**
+> **Components**
 >
 > 茅台盈利经经销商再到财报。批价是实时需求。改革抬透明度、压 legacy 租金。
 >
-> **应用**
+> **Application**
 >
 > 贵州茅台（600519.SZ）：观望批价利差与经销商情绪——护城河论点加 PE 安全边际。经销商同步去库存且折价扩大则减仓。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 经销商先感受需求。
 >
-> **问** 无渠道声音投资者漏什么？
+> **Q** 无渠道声音投资者漏什么？
 >
-> **答** 张亚群指库存与批价动在季报前——24 年经销商透镜是 600519.SZ 渠道健康领先指标。
+> **A** 张亚群指库存与批价动在季报前——24 年经销商透镜是 600519.SZ 渠道健康领先指标。
 
 > **2.** 渠道改革改租金分配。
 >
-> **问** i茅台 何意？
+> **Q** i茅台 何意？
 >
-> **答** 数字直营抬透明度或压经销商毛利——对公司控制利好、过渡期批价波动 mixed。
+> **A** 数字直营抬透明度或压经销商毛利——对公司控制利好、过渡期批价波动 mixed。
 
 > **3.** 品牌宗教有周期信徒。
 >
-> **问** 张亚群确认护城河吗？
+> **Q** 张亚群确认护城河吗？
 >
-> **答** 终身 all in 支撑仪式品牌——但张经历下行；公开投资者仍要批价与估值纪律非仅故事。
+> **A** 终身 all in 支撑仪式品牌——但张经历下行；公开投资者仍要批价与估值纪律非仅故事。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
-> **1. 贵州茅台（600519.SZ）** · 🟡 WATCH · ●●○ Medium
+> **1. Kweichow Moutai (600519.SZ)** · 🟡 WATCH · ●●○ Medium
 >
 > 贵州茅台（600519.SZ）：24 年经销商张亚群——观望批价与经销商健康作草根需求信号
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「之所以我來待班的是因為我們現在剛剛在普通機場接到張亞群老師」
+> "之所以我來待班的是因為我們現在剛剛在普通機場接到張亞群老師"
 
-> 「可能很多熟悉茅台的投資者朋友都已經很了解張亞群老師了」
+> "可能很多熟悉茅台的投資者朋友都已經很了解張亞群老師了"
 
-> 「因為大家也可能知道最近的茅台的市場價格有一些波動」
+> "因為大家也可能知道最近的茅台的市場價格有一些波動"
 
 ---
 
-## 时间线
+## Chronology
 
 > *张亚群 · 茅台经销商*
 >
@@ -108,9 +108,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 张亚群 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听原节目获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 张亚群. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

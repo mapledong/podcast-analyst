@@ -2,30 +2,30 @@
 
 ## *如何投资高增长科技股？25年经验的美股分析师投资框架*
 
-**★★★★☆** · 4/5
+**★★★☆☆** · 3/5
 
-**播客** 投资实战派 · **日期** 2025年5月5日 · **时长** 75 分钟 · **阅读** ≈2 分钟
+**Podcast** 投资实战派 · **Date** May 5, 2025 · **Duration** 75 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 永庆 · 投资实战派嘉宾、美股分析师
+**Guest** 永庆 · 投资实战派嘉宾、美股分析师
 
-**收听**  · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** NVDA · GOOGL · 科技股 · 成长投资
-> ### 结论
+**Topics** NVDA · GOOGL · 科技股 · 成长投资
+> ### Conclusion
 >
 > 永庆 25 年美股分析师高增长科技股框架——按持久护城河、再投资跑道与估值对叙事峰值建仓。NVDA 与 GOOGL 示范盛宴房东；勿在错价追 agent 套壳。投资者应观望 NVDA 数据中心节奏与 GOOGL AI ARPU，守精选 50 仓位纪律。
 
 ---
 
-## 背景
+## Background
 
 > 投资实战派第 116 期（2025 年 5 月 5 日）永庆分享资深美股分析师如何投高增长科技——源自 25 年覆盖半导体与互联网。清单：TAM 诚实、毛利结构、管理层资本配置与倍数纪律。以 NVDA AI 周期与 GOOGL 房东论点为 live 例；警示散户无算盘追盛宴叙事。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 成长框架：永庆排序护城河耐久、再投资 ROI 与入场倍数——数据中心增长与毛利 justify capex boom 时观望 NVDA；非每个 AI 名配 NVDA 倍数。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *护城河 × 再投资跑道 × 倍数纪律*
+## Mental Model · *护城河 × 再投资跑道 × 倍数纪律*
 
-> **构成**
+> **Components**
 >
 > 高增长投资要三 yes：持久优势、资本回报、合理价。房东与 infra 盛宴；套壳泡沫。定仓位非嫁故事。
 >
-> **应用**
+> **Application**
 >
 > 英伟达（NVDA）：观望数据中心收入与毛利——增长与供给对齐时看多。Alphabet（GOOGL）：观望广告与云上 AI 变现抬升——对投机 agent 的 barbell。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 非每只 AI 股都是 NVDA。
 >
-> **问** 永庆核心警示？
+> **Q** 永庆核心警示？
 >
-> **答** 25 年教盛宴叙事高估 mediocrity——对任何高增长名用 NVDA/GOOGL 清单：护城河、再投资、倍数。
+> **A** 25 年教盛宴叙事高估 mediocrity——对任何高增长名用 NVDA/GOOGL 清单：护城河、再投资、倍数。
 
 > **2.** GOOGL 是公开 AI barbell 腿。
 >
-> **问** 为何与 NVDA 并提？
+> **Q** 为何与 NVDA 并提？
 >
-> **答** NVDA 是算力盛宴；GOOGL 是分发房东——合盖 AI 栈流动性大盘。避免同主题超配重复计。
+> **A** NVDA 是算力盛宴；GOOGL 是分发房东——合盖 AI 栈流动性大盘。避免同主题超配重复计。
 
 > **3.** 成长投资要有卖出规则。
 >
-> **问** 与价值投资何异？
+> **Q** 与价值投资何异？
 >
-> **答** 永庆在增长放缓或竞争伤毛利时减仓即使故事仍好听——高增长须比白酒复利更快 thesis kill switch。
+> **A** 永庆在增长放缓或竞争伤毛利时减仓即使故事仍好听——高增长须比白酒复利更快 thesis kill switch。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. NVDA** · 🟡 WATCH · ●●○ Medium
 >
@@ -83,17 +83,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「其实有可能这些公司都会经历一个」
+> "其实有可能这些公司都会经历一个"
 
-> 「我觉得这个还是企业家精神跟我们」
+> "我觉得这个还是企业家精神跟我们"
 
-> 「持续迭代需要有一个好的管理团队能够把这个公司经营的比较好,」
+> "持续迭代需要有一个好的管理团队能够把这个公司经营的比较好,"
 
 ---
 
-## 时间线
+## Chronology
 
 > *永庆 · 成长科技框架*
 >
@@ -110,9 +110,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 永庆 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听原节目获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 永庆. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

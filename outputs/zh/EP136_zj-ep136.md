@@ -4,28 +4,28 @@
 
 **★★★☆☆** · 3/5
 
-**播客** 张小珺商业访谈录 · **日期** 2026年4月14日 · **时长** 83 分钟 · **阅读** ≈4 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Apr 14, 2026 · **Duration** 83 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 广密 · AI 行业观察者
+**Guest** 广密 · AI 行业观察者
 
-**收听** [YouTube](https://www.youtube.com/watch?v=u1Lzp-7Ybn8) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=u1Lzp-7Ybn8) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** Anthropic · GOOGL · MSFT · 编程
-> ### 结论
+**Topics** Anthropic · GOOGL · MSFT · 编程
+> ### Conclusion
 >
 > 广密将编程框定为 AGI 第二幕：Sonnet 4.5–4.6 一季度能力跃升超过 2025 全年，前沿实验室 70–80% 新代码由 AI 撰写，重度用户每日 Token 消耗数百美元。Anthropic 年化收入或在头部 100–200 万用户中超越 OpenAI；前沿双雄合计年底或达 800–1000 亿美元、次年 2000 亿+。编程难度 8–9/10 仍是最高基准，模型即操作系统、Harness 层复利。投资者应超配 Anthropic 编程飞轮，视 Google/微软为分发赌注，勿假设约 90% 知识工作自动化已定价。
 
 ---
 
-## 背景
+## Background
 
 > 83 分钟 LLM 季报第 9 期中，张小珺对话广密谈编程作为 AGI 第二幕。Anthropic Sonnet 4.5 至 4.6 将一年进展压缩进一季度；研究员称 70–80% 代码现由 AI 撰写。重度用户每日 Token 数百美元。广密认为 Anthropic 年化收入或在头部 100–200 万用户中超越 OpenAI，OpenAI 加 Anthropic 合计年底或 800–1000 亿美元、次年 2000 亿+。编程难度 8–9/10，高于多数知识任务，成前沿基准。三巨头约每 100 天轮换龙头；模型成操作系统。约 90% 知识工作或可自动化，但扩散与组织重构滞后于能力。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** Sonnet 4.5–4.6 跃升：广密称 2026 年一季度 Anthropic 编程线进展超过 2025 全年——前沿实验室 70–80% 新代码由 AI 撰写，重度用户每日 Token 数百美元。编程难度 8–9/10，是主流知识任务最高难度，亦 AGI 第二幕绑定基准。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *编程难度 × 年化收入飞轮 × 模型即 OS*
+## Mental Model · *编程难度 × 年化收入飞轮 × 模型即 OS*
 
-> **构成**
+> **Components**
 >
 > 难度 8–9/10 的编程是 AGI 基准——赢编程者赢 OS 层。头部 100–200 万用户年化收入竞赛信号真实付费意愿，非 demo 流量。约 100 天龙头轮换意味护城河在 Harness 加数据飞轮，非单次发布。约 90% 知识工作自动化是上限；仅编程智能体已落地处定价。
 >
-> **应用**
+> **Application**
 >
 > 私有 Anthropic：若编程年化收入在重度用户中超 OpenAI 且 Sonnet 节奏保持则看多——单位分析是每工程师 Token 深度。Alphabet（GOOGL）：观望——Gemini 加分发须匹配编程 Harness 深度，否则沦为 commodity OS 宿主。微软（MSFT）：观望——Copilot 分发大但编程智能体反馈或偏向纯实验室。低配忽视前沿实验室 70–80% AI 写码的叙事。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 编程是 AGI 第二幕，非垂直功能。
 >
-> **问** 广密为何将编程置于其他 AI 场景之上？
+> **Q** 广密为何将编程置于其他 AI 场景之上？
 >
-> **答** 难度 8–9/10 使编程是最难主流知识任务——解决它意味约 90% 案头工作连锁自动化。Sonnet 4.5–4.6 一季度进展超 2025 全年；前沿实验室 70–80% AI 写码是相变非增量 Copilot。模型即 OS 意味赢家设定 API、Harness 默认与下游训练数据闭环。
+> **A** 难度 8–9/10 使编程是最难主流知识任务——解决它意味约 90% 案头工作连锁自动化。Sonnet 4.5–4.6 一季度进展超 2025 全年；前沿实验室 70–80% AI 写码是相变非增量 Copilot。模型即 OS 意味赢家设定 API、Harness 默认与下游训练数据闭环。
 
 > **2.** Anthropic 或在重度用户年化收入赛中领先。
 >
-> **问** 投资者如何读 OpenAI 与 Anthropic 收入？
+> **Q** 投资者如何读 OpenAI 与 Anthropic 收入？
 >
-> **答** 头部 100–200 万用户驱动不成比例 Token 支出——编程重度用户每日数百美元。广密见 Anthropic 年化收入或在该 cohort 超 OpenAI，合计前沿年底 800–1000 亿、次年 2000 亿+。押注复利编程反馈数据者，非头条用户数。
+> **A** 头部 100–200 万用户驱动不成比例 Token 支出——编程重度用户每日数百美元。广密见 Anthropic 年化收入或在该 cohort 超 OpenAI，合计前沿年底 800–1000 亿、次年 2000 亿+。押注复利编程反馈数据者，非头条用户数。
 
 > **3.** 龙头约每 100 天轮换——护城河是飞轮。
 >
-> **问** 三巨头轮换是否杀死持久护城河？
+> **Q** 三巨头轮换是否杀死持久护城河？
 >
-> **答** 基准龙头约季度互换，但编程智能体形成自我改进闭环——真实修复信号重训模型。某实验室规模化捕获工程师工作流数据后，追赶似马车追汽车。裸模型 API 商品化时模型外 Harness（沙箱、检查点）或捕获价值。
+> **A** 基准龙头约季度互换，但编程智能体形成自我改进闭环——真实修复信号重训模型。某实验室规模化捕获工程师工作流数据后，追赶似马车追汽车。裸模型 API 商品化时模型外 Harness（沙箱、检查点）或捕获价值。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. Anthropic** · 🟢 LONG · ●●○ Medium
 >
@@ -87,17 +87,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「是不是就可以把白領知識工作者的大部分任務都可以自動化了」
+> "是不是就可以把白領知識工作者的大部分任務都可以自動化了"
 
-> 「去年可能一個系統當中可能還有七八成的代碼是人寫的」
+> "去年可能一個系統當中可能還有七八成的代碼是人寫的"
 
-> 「那如果有魄力就像小渣那樣放手交給團隊也可能也可以」
+> "那如果有魄力就像小渣那樣放手交給團隊也可能也可以"
 
 ---
 
-## 时间线
+## Chronology
 
 > *广密 · LLM 季报第 9 期*
 >
@@ -114,9 +114,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 广密 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=u1Lzp-7Ybn8)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 广密. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=u1Lzp-7Ybn8) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

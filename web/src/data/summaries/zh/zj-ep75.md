@@ -2,30 +2,30 @@
 
 ## *和OpenAI前研究员吴翼解读o1：吹响了开挖第二座金矿的号角*
 
-**★★★★☆** · 4/5
+**★★★☆☆** · 3/5
 
-**播客** 张小珺商业访谈录 · **日期** 2024年9月22日 · **时长** 68 分钟 · **阅读** ≈2 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Sep 22, 2024 · **Duration** 68 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 吴翼 · OpenAI前研究员、清华大学助理教授
+**Guest** 吴翼 · OpenAI前研究员、清华大学助理教授
 
-**收听** [YouTube](https://www.youtube.com/watch?v=8fDHQAVWInI) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=8fDHQAVWInI) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** GOOGL · OpenAI · O1 · 推理
-> ### 结论
+**Topics** GOOGL · OpenAI · O1 · 推理
+> ### Conclusion
 >
 > 吴翼 o1 解读称测试时算力为第二金矿——预训练 scaling 之后，思维链 RL 在推理变现。o1 预览将 AI 经济学转向付费思考 token；GOOGL 须在 Gemini 匹配而 Private:OpenAI 握先发定价。投资者应观望 GOOGL 推理档 ARPU 与 Private:OpenAI o1/o3 节奏作能力基准。
 
 ---
 
-## 背景
+## Background
 
 > 张小珺 2024 年 9 月 22 日访谈吴翼（OpenAI 前研究员）解释 OpenAI o1——思维链 RL、隐藏推理 token 与安全含义。吴翼框 o1 为开挖推理时算力的号角：用户与企业为更长内部斟酌付费。节目早于 R1 开源但建立 GOOGL 与中国实验室现加入的推理赛投资透镜。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 第二金矿：吴翼称预训练 scaling 回报递减——o1 推理 RL 经测试时 flop 开新收入矿脉。Private:OpenAI 捕获溢价；GOOGL 与同行须产品化否则失 API 价差。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *测试时金矿 × 隐藏 CoT 定价 × 推理 ARPU*
+## Mental Model · *测试时金矿 × 隐藏 CoT 定价 × 推理 ARPU*
 
-> **构成**
+> **Components**
 >
 > 预训练盛宴成熟；推理思考是下一矿脉。隐藏 CoT 支撑溢价档。房东 bundle 否则失 spread 给开源 R1。
 >
-> **应用**
+> **Application**
 >
 > Alphabet（GOOGL）：观望 Gemini 推理 SKU 与企业定价——o1/R1 商品化时守 ARPU。Private:OpenAI：观望 o 系列节奏作公开市场无法完全获得的私募推理基准。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** o1 吹响第二金矿号角。
 >
-> **问** 吴翼第二金矿何意？
+> **Q** 吴翼第二金矿何意？
 >
-> **答** 预训练 scaling 定律后，推理时改善推理的 RL 造新经济层——客户为思考时间非仅权重付费。将 capex 从仅训练重框为训练加推理。
+> **A** 预训练 scaling 定律后，推理时改善推理的 RL 造新经济层——客户为思考时间非仅权重付费。将 capex 从仅训练重框为训练加推理。
 
 > **2.** 隐藏推理是定价功能。
 >
-> **问** 为何隐藏思维链？
+> **Q** 为何隐藏思维链？
 >
-> **答** 吴翼指安全与竞争——但经济学上 enable 计量斟酌。投资者应将推理 token 作 ARPU 驱动非仅成本中心。
+> **A** 吴翼指安全与竞争——但经济学上 enable 计量斟酌。投资者应将推理 token 作 ARPU 驱动非仅成本中心。
 
 > **3.** GOOGL 须产品化深思。
 >
-> **问** 公开投资者如何参与？
+> **Q** 公开投资者如何参与？
 >
-> **答** 云、Workspace 与搜索 AI Overviews 的 Gemini 推理——GOOGL bundle 进既有房东 ARPU。失败模式是免费搜索赠送 o1 级能力。
+> **A** 云、Workspace 与搜索 AI Overviews 的 Gemini 推理——GOOGL bundle 进既有房东 ARPU。失败模式是免费搜索赠送 o1 级能力。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. GOOGL** · 🟡 WATCH · ●●○ Medium
 >
@@ -83,17 +83,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「但是在专用领域上进行训练得到了更好的数学模型」
+> "但是在专用领域上进行训练得到了更好的数学模型"
 
-> 「如果一个问题有这样的一种特别好的对称的性质」
+> "如果一个问题有这样的一种特别好的对称的性质"
 
-> 「是因为当你知道每个模块的方向是什么样的时候」
+> "是因为当你知道每个模块的方向是什么样的时候"
 
 ---
 
-## 时间线
+## Chronology
 
 > *吴翼 · OpenAI o1*
 >
@@ -112,9 +112,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 吴翼 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=8fDHQAVWInI)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 吴翼. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=8fDHQAVWInI) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

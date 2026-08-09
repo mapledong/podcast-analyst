@@ -33,6 +33,12 @@ sections:
     required: true
     fields:
       - overall
+    guidance: >
+      Default every episode to 3★ unless it clearly earns more. 4★ = unusually strong
+      insight, rare access, or a durable framework you would cite later. 5★ = landmark
+      reference episode only (re-listen / teach from years later) — not "great guest" or
+      "recent and topical." Recency alone never justifies 5★. Stay inside
+      rating_distribution caps; prefer leaving headroom over filling every 5★ slot.
 
   - id: header_meta
     title: "Header Metadata"
@@ -215,8 +221,12 @@ rating_distribution:
   four_star_max_pct: 0.30
   default_rating: 3
   guidance: >
-    Most episodes earn 3★. Reserve 4★ for unusually strong insight; 5★ for landmark
-    reference episodes only. Caps are enforced per podcast (~20% at 5★, ~30% at 4★).
-    Chinese podcasts: curated targets in config/chinese_episode_ratings.yaml; run
-    scripts/apply_chinese_podcast_ratings.py after seed/refine (also called from
-    refine_chinese_pilot.py).
+    Default is 3★ for a solid, useful episode. 4★ is uncommon: unusually strong insight,
+    rare guest access, or a durable framework. 5★ is rare and reserved for landmark
+    reference episodes you would re-listen to or cite years later — not merely excellent
+    guests, timely topics, or newly published episodes. Do not inflate recent episodes
+    to 5★; when in doubt, rate 3★ (or 4★ at most). Caps are enforced per podcast
+    (≤ floor(n×20%) at 5★, ≤ floor(n×30%) at 4★); leave headroom when possible so new
+    true landmarks can still earn 5★. Chinese/bilingual shows: curated targets in
+    config/chinese_episode_ratings.yaml; run scripts/apply_chinese_podcast_ratings.py
+    after seed/refine (also called from refine_chinese_pilot.py).

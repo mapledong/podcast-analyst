@@ -4,28 +4,28 @@
 
 **★★★★☆** · 4/5
 
-**播客** 投资实战派 · **日期** 2025年6月15日 · **时长** 119 分钟 · **阅读** ≈2 分钟
+**Podcast** 投资实战派 · **Date** Jun 15, 2025 · **Duration** 119 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 杨禹琦、叶子、小欧 · 消费投资人与消费者嘉宾
+**Guest** 杨禹琦、叶子、小欧 · 消费投资人与消费者嘉宾
 
-**收听**  · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** 老铺黄金（6181.HK） · 老铺黄金 · 新消费 · 奢侈品
-> ### 结论
+**Topics** Laopu Gold (6181.HK) · 老铺黄金 · 新消费 · 奢侈品
+> ### Conclusion
 >
 > 老铺黄金（6181.HK）节目辩论古法工艺溢价还是智商税——古法金饰靠文化奢侈与店体验非仅商品金条。嘉宾分歧 ASP 提升可持续性与金价 beta。投资者应观望老铺黄金（6181.HK）同店增长、毛利对金价与库存天数，判新消费奢侈 fad 或复利器。
 
 ---
 
-## 背景
+## Background
 
 > 投资实战派第 127 期（2025 年 6 月 15 日）与消费投资人与顾客聊老铺黄金——新消费系列。老铺对工艺与文化叙事定价高于 melt value；门店似 luxury boutique。争论：真品牌护城河或周期性黄金 hype 加精美包装。对比传统金店与泡泡玛特式情感溢价。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 工艺溢价论点：老铺黄金（6181.HK）卖传承金艺——品牌持续则 ASP 为 bullion 数倍。金价波动时观望毛利——库存重估风险。
 
@@ -36,60 +36,60 @@
 
 ---
 
-## 思维模型 · *工艺溢价 × 金价 Beta × 体验零售*
+## Mental Model · *工艺溢价 × 金价 Beta × 体验零售*
 
-> **构成**
+> **Components**
 >
 > 传承故事 justify ASP 超 melt。金价仍驱动库存 mark。体验店 scale 至稀缺稀释。
 >
-> **应用**
+> **Application**
 >
 > 老铺黄金（6181.HK）：观望 SSSG 与剔除金价波动的毛利——复利论点需重复情感购买非仅 bullion rally。无店效 rapid 扩店则减仓。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 老铺卖故事非克数。
 >
-> **问** 工艺溢价是否真实？
+> **Q** 工艺溢价是否真实？
 >
-> **答** 嘉宾指古法定位与 boutique UX——若顾客为设计回头则 6181.HK 是品牌玩法；若仅黄金狂热则是杠杆 bullion 代理。
+> **A** 嘉宾指古法定位与 boutique UX——若顾客为设计回头则 6181.HK 是品牌玩法；若仅黄金狂热则是杠杆 bullion 代理。
 
 > **2.** 金价是隐藏 beta。
 >
-> **问** 投资者低估何风险？
+> **Q** 投资者低估何风险？
 >
-> **答** 金价升可美化收入掩盖弱 SSSG——主持警告定价 6181.HK 时剥离商品波动对经营表现。
+> **A** 金价升可美化收入掩盖弱 SSSG——主持警告定价 6181.HK 时剥离商品波动对经营表现。
 
 > **3.** 新消费奢侈需稀缺纪律。
 >
-> **问** 老铺如何比泡泡玛特？
+> **Q** 老铺如何比泡泡玛特？
 >
-> **答** 二者卖情感溢价——老铺绑金属周期，泡泡玛特绑 IP 管线。老铺黄金（6181.HK）投资者需如泡泡玛特（9992.HK）IP 命中率般的店效纪律。
+> **A** 二者卖情感溢价——老铺绑金属周期，泡泡玛特绑 IP 管线。老铺黄金（6181.HK）投资者需如泡泡玛特（9992.HK）IP 命中率般的店效纪律。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
-> **1. 老铺黄金（6181.HK）** · 🟡 WATCH · ●●○ Medium
+> **1. Laopu Gold (6181.HK)** · 🟡 WATCH · ●●○ Medium
 >
 > 老铺黄金（6181.HK）：古法溢价辩论——观望 SSSG 与毛利对金价 beta 判 fad 或复利
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「這個待會我們可以在節目上再進行一個深度的一個分享」
+> "這個待會我們可以在節目上再進行一個深度的一個分享"
 
-> 「當然這家公司我其實在跟很多圈裡的朋友分享的時候」
+> "當然這家公司我其實在跟很多圈裡的朋友分享的時候"
 
-> 「傳出來說這家公司有很不錯的這樣的一個業績表現」
+> "傳出來說這家公司有很不錯的這樣的一個業績表現"
 
 ---
 
-## 时间线
+## Chronology
 
 > *投资实战派 · 老铺黄金*
 >
@@ -106,9 +106,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 杨禹琦、叶子、小欧 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听原节目获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 杨禹琦、叶子、小欧. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

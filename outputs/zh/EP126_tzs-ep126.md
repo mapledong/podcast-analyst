@@ -4,28 +4,28 @@
 
 **★★★☆☆** · 3/5
 
-**播客** 投资实战派 · **日期** 2025年8月15日 · **时长** 93 分钟 · **阅读** ≈4 分钟
+**Podcast** 投资实战派 · **Date** Aug 15, 2025 · **Duration** 93 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 大卫 · 投资实战派主理人
+**Guest** 大卫 · 投资实战派主理人
 
-**收听** [YouTube](https://www.youtube.com/watch?v=4NDIYC9mOFM) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen** [YouTube](https://www.youtube.com/watch?v=4NDIYC9mOFM) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** BYDDY · 电动车制造 · 应付账款 · 资产负债表
-> ### 结论
+**Topics** BYDDY · 电动车制造 · 应付账款 · 资产负债表
+> ### Conclusion
 >
 > 大宗商品研究员泄水主张比亚迪是制造规模冠军非恒大——销量从 2019 年约 46 万辆增至 2024 年约 427 万辆，应付账款约 2400 亿/总资产约 7800 亿（约 30%）增 6.7 倍对收入约 6 倍，比例稳定。应付账款为资产重型汽车营运资本，非地产式 fraud。投资者应观望比亚迪（BYDDY）价格战加剧时供应商条款是否仍属行业常态。
 
 ---
 
-## 背景
+## Background
 
 > 5 月 27 日节目：大卫主持泄水——晚宴上泄水称比亚迪或为中国三十年最佳制造公司，触发本期深谈。魏建军恒大类比令市场担忧高应付与供应商压力（含传闻约 10% 降价要求）。泄水翻开比亚迪 2024 年报：总资产约 7800 亿、应付约 2400 亿（约 30%）。2019 年以来销量约 46 万至约 427 万（约 9 倍），应付增约 6.7 倍、收入约 6 倍——比例较 2019–21 稳定。他对比同行与行业常态；制造应付不同于开发商预售负债。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 销量规模：比亚迪 2019 年约 46 万辆至 2024 年约 427 万辆——五年约 9 倍，全球新能源龙头轨迹。收入约增 6 倍；应付约增 6.7 倍——非较销量指数更快膨胀，反驳魏建军 headline 搅动「恒大式」叙事。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *销量 9 倍 × 应付 6.7 倍 × 行业常态营运资本*
+## Mental Model · *销量 9 倍 × 应付 6.7 倍 × 行业常态营运资本*
 
-> **构成**
+> **Components**
 >
 > 制造规模抬应付随收入——比增速非仅水平。汽车应付是供应商信贷非预售 fraud。若比例稳定且车交付则恒大类比失效。
 >
-> **应用**
+> **Application**
 >
 > 比亚迪（BYDDY）：观望应付天数对同行与价格战净利——比例稳定且销量增则制造论点成立；供应商反弹或毛利崩则减。勿无年报 reconciliation 信截图会计。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 比亚迪是制造复利器，非开发商欺诈。
 >
-> **问** 为何拒绝恒大类比？
+> **Q** 为何拒绝恒大类比？
 >
-> **答** 泄水将应付增速（约 6.7 倍）对收入（约 6 倍）与销量（约 9 倍）自 2019 匹配——开发商爆雷见应付或负债跑赢交付物。比亚迪出货约 427 万辆；恒大停滞。
+> **A** 泄水将应付增速（约 6.7 倍）对收入（约 6 倍）与销量（约 9 倍）自 2019 匹配——开发商爆雷见应付或负债跑赢交付物。比亚迪出货约 427 万辆；恒大停滞。
 
 > **2.** 比增速，非吓人绝对额。
 >
-> **问** 如何读 2400 亿应付？
+> **Q** 如何读 2400 亿应付？
 >
-> **答** 在约 7800 亿资产（约 30%）对 2019 比例随规模平——汽车 OEM 用供应商融资。行业 peer 比第二；viral 约 5100 亿数需报表毛净语境。
+> **A** 在约 7800 亿资产（约 30%）对 2019 比例随规模平——汽车 OEM 用供应商融资。行业 peer 比第二；viral 约 5100 亿数需报表毛净语境。
 
 > **3.** 价格战是真风险，非应付。
 >
-> **问** 股票投资者应盯什么？
+> **Q** 股票投资者应盯什么？
 >
-> **答** 魏建军审视下毛利与供应商容忍——若比亚迪压供应商却无份额增益，舆论反弹。BYDDY 论点在销量增加固稳营运资本比，非资产负债表 scare trade。
+> **A** 魏建军审视下毛利与供应商容忍——若比亚迪压供应商却无份额增益，舆论反弹。BYDDY 论点在销量增加固稳营运资本比，非资产负债表 scare trade。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. BYDDY** · 🟡 WATCH · ●●○ Medium
 >
@@ -79,17 +79,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「包括这个法兰莉的长牛对这些公司大家也可以参照的一期听一下因为今天我们这期呢是集中来聊了一条别按底」
+> "包括这个法兰莉的长牛对这些公司大家也可以参照的一期听一下因为今天我们这期呢是集中来聊了一条别按底"
 
-> 「其实是需要时间的啊他摆脱这个所谓的大家里面这个通通通通通往北车概念对吧然后那么便宜车概念」
+> "其实是需要时间的啊他摆脱这个所谓的大家里面这个通通通通通往北车概念对吧然后那么便宜车概念"
 
-> 「那我今天講了這些我的分享啊這些主要是來自於這個三本書啊我對這個三本書的那種的一個理解」
+> "那我今天講了這些我的分享啊這些主要是來自於這個三本書啊我對這個三本書的那種的一個理解"
 
 ---
 
-## 时间线
+## Chronology
 
 > *泄水 · 比亚迪制造*
 >
@@ -106,9 +106,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 大卫 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=4NDIYC9mOFM)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 大卫. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=4NDIYC9mOFM) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

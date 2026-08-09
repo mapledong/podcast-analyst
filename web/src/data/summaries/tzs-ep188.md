@@ -2,7 +2,7 @@
 
 ## *How to Do "Deep" Investment Research: Process, Key Points and Pitfalls*
 
-**★★★★☆** · 4/5
+**★★★☆☆** · 3/5
 
 **Podcast** Practical Investments · **Date** Jun 21, 2026 · **Duration** 116 min · **Read** ≈3 min
 

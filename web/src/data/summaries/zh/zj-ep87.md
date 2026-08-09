@@ -4,28 +4,28 @@
 
 **★★★★★** · 5/5
 
-**播客** 张小珺商业访谈录 · **日期** 2025年1月2日 · **时长** 180 分钟 · **阅读** ≈3 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Jan 2, 2025 · **Duration** 180 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 李想 · 理想汽车创始人兼CEO
+**Guest** 李想 · 理想汽车创始人兼CEO
 
-**收听** [YouTube](https://www.youtube.com/watch?v=mbiPeZnmz9A) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=mbiPeZnmz9A) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** LI · AI · MEGA · AGENT
-> ### 结论
+**Topics** LI · AI · MEGA · AGENT
+> ### Conclusion
 >
 > 李想播客版（2025 年 1 月）呈现宅男创始人视角：AI、MEGA 惨痛课、家庭作减熵、游戏作产品天梯训练。理想押 Agent OS 与领域模型胜通用 Agent；MEGA 纯电挫折考验第二幕执行。投资者应观望理想（LI）AI 产品化与 MEGA 调整后的纯电复苏——创始人清晰仍是护城河直至价格战侵蚀毛利。
 
 ---
 
-## 背景
+## Background
 
 > 张小珺与李想三小时播客版（2025 年 1 月 2 日）异于视频 AI Talk——更个人：宅男青春、游戏天梯隐喻、家庭哲学与坦诚 MEGA 复盘。李想把游戏排位磨练与产品迭代纪律相连，称 AI 须成用户愿付费的生产工具。MEGA 发布教训是时机与定位傲慢；李想加码聚焦 SKU 加软件。节目人性化 LI 论点：有可见失败模式的执行溢价。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 宅男到 CEO 天梯：李想将游戏段位映射产品梯队——游戏耐心与反馈环滋养理想 SKU 战略。AI 部分预告 Agent OS：编排胜上帝模型；车需领域 VLA 非通用聊天。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *游戏天梯纪律 × MEGA 重置 × 生产工具 AI*
+## Mental Model · *游戏天梯纪律 × MEGA 重置 × 生产工具 AI*
 
-> **构成**
+> **Components**
 >
 > 创始人心理塑造产品节奏。痛苦 SKU 失误是数据非末日，若学习复利。AI 赢在付费行动非聊天新奇。
 >
-> **应用**
+> **Application**
 >
 > 理想（LI）：观望 MEGA 后纯电订单与 Agent OS 变现信号——看多需第二款爆款加软件 attach。AI 投入无收入路径且 ASP 崩则减仓。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 游戏训练产品天梯思维。
 >
-> **问** 李想为何倚重游戏隐喻？
+> **Q** 李想为何倚重游戏隐喻？
 >
-> **答** 排位进步教反馈下迭代——李想用于车型梯队与 AI 路线图。读 LI 应跟 SKU 命中率与 MEGA 后学习速度，非仅创始人魅力。
+> **A** 排位进步教反馈下迭代——李想用于车型梯队与 AI 路线图。读 LI 应跟 SKU 命中率与 MEGA 后学习速度，非仅创始人魅力。
 
 > **2.** MEGA 是必要失败。
 >
-> **问** 市场如何给 MEGA 失手定价？
+> **Q** 市场如何给 MEGA 失手定价？
 >
-> **答** 李想视 MEGA 为时机定位错误非战略放弃纯电——观望下一款纯电 SKU 是否显示 reposition。狗熊会弃电；英雄调天梯。
+> **A** 李想视 MEGA 为时机定位错误非战略放弃纯电——观望下一款纯电 SKU 是否显示 reposition。狗熊会弃电；英雄调天梯。
 
 > **3.** AI 须是生产工具。
 >
-> **问** 相对完整 AI Talk 重复何 AI 论点？
+> **Q** 相对完整 AI Talk 重复何 AI 论点？
 >
-> **答** 信息与辅助 AI 不减工作时长——有付费的生产工具证价值。LI 投资案需软件收入 mix，对齐李想 Agent OS 与 VLA 赌注。
+> **A** 信息与辅助 AI 不减工作时长——有付费的生产工具证价值。LI 投资案需软件收入 mix，对齐李想 Agent OS 与 VLA 赌注。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. LI** · 🟡 WATCH · ●●○ Medium
 >
@@ -79,17 +79,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「还意味着其实对用户的体验和价值发生了革命性的一个变化」
+> "还意味着其实对用户的体验和价值发生了革命性的一个变化"
 
-> 「过去两年对人工智能完整的技术与产品观的思考」
+> "过去两年对人工智能完整的技术与产品观的思考"
 
-> 「而不需要靠这种密集的提示词的这样的一个方式」
+> "而不需要靠这种密集的提示词的这样的一个方式"
 
 ---
 
-## 时间线
+## Chronology
 
 > *李想 · 播客版*
 >
@@ -108,9 +108,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 李想 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=mbiPeZnmz9A)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 李想. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=mbiPeZnmz9A) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

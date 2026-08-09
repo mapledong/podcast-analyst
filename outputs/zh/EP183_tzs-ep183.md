@@ -4,28 +4,28 @@
 
 **★★★☆☆** · 3/5
 
-**播客** 投资实战派 · **日期** 2026年5月11日 · **时长** 120 分钟 · **阅读** ≈4 分钟
+**Podcast** 投资实战派 · **Date** May 11, 2026 · **Duration** 120 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 永庆、吴晓波 · 投资实战派联合创始人、财经作家
+**Guest** 永庆、吴晓波 · 投资实战派联合创始人、财经作家
 
-**收听** [YouTube](https://www.youtube.com/watch?v=-wsUV8jbDxE) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen** [YouTube](https://www.youtube.com/watch?v=-wsUV8jbDxE) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** BRK.B · TSM · 周期思维 · 内在价值
-> ### 结论
+**Topics** BRK.B · TSM · 周期思维 · 内在价值
+> ### Conclusion
 >
 > 永庆与吴晓波 120 分钟对谈周期思维——企业生命周期、产业生命周期、资本周期与情绪周期互锁。他梳理四大亏损陷阱，区分内在价值与价格，并指公募基金在顶部峰值重仓板块。理性估值须配对预期回报，非叙事热度。伯克希尔（BRK.B）看多作周期纪律复利器；台积电（TSM）观望作半导体资本开支波动的资本周期风向标。
 
 ---
 
-## 背景
+## Background
 
 > 120 分钟跨节目对谈中，投资实战派联合创始人永庆与吴晓波论周期。四透镜：企业生命周期（创始人到官僚化）、产业生命周期（成长到整合）、资本周期（资金过剩与枯竭）、情绪周期（贪婪恐惧超调）。四大亏损陷阱——情绪顶部买入、基本面衰败仍持有、周期股过度杠杆、混淆价格与价值——跨时代复发。公募基金历史上在顶部峰值重仓热门板块。永庆坚持理性估值须转化为预期回报数学；BRK.B 体现周期耐心，TSM 标示全球晶圆厂资本周期摆动。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 四周期：企业、产业、资本、情绪——永庆与吴晓波勾勒四层叠加方式；错判一层放大回撤。企业生命周期衰败（官僚化）常在产业 S 曲线第 10–15 年与产业成熟及情绪峰值叠加。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *四周期 × 四陷阱 × 预期回报*
+## Mental Model · *四周期 × 四陷阱 × 预期回报*
 
-> **构成**
+> **Components**
 >
 > 周期叠加——企业、产业、资本、情绪——错一层放大亏损。四陷阱复发：追热、否认衰败、周期杠杆、价格价值混淆。公募最大权重信号顶部。理性估值=周期情景下预期回报，非口号便宜。
 >
-> **应用**
+> **Application**
 >
 > 伯克希尔（BRK.B）：看多——情绪峰值时周期耐心与现金期权性。台积电（TSM）：观望——资本周期风向标；晶圆厂资本开支摆动驱动盈利方差。公募峰值重仓你所在板块时减仓；企业生命周期未衰且预期回报过门槛时加仓。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 周期叠加；漏一层代价高昂。
 >
-> **问** 永庆周期框架是什么？
+> **Q** 永庆周期框架是什么？
 >
-> **答** 企业、产业、资本、情绪周期互锁——成熟产业情绪顶加资本收紧是最差叠加。与吴晓波合作强调教陷阱非预测日期。配置前先标定各周期位置。
+> **A** 企业、产业、资本、情绪周期互锁——成熟产业情绪顶加资本收紧是最差叠加。与吴晓波合作强调教陷阱非预测日期。配置前先标定各周期位置。
 
 > **2.** 公募峰值重仓是逆向信号。
 >
-> **问** 如何用基金配置数据？
+> **Q** 如何用基金配置数据？
 >
-> **答** 历史模式：基金在顶部最大权重热门板块——可测情绪极端。加仓前配对四陷阱检查清单。预期回报须随价格下跌改善，非仅叙事转熊。
+> **A** 历史模式：基金在顶部最大权重热门板块——可测情绪极端。加仓前配对四陷阱检查清单。预期回报须随价格下跌改善，非仅叙事转熊。
 
 > **3.** 内在价值需预期回报数学。
 >
-> **问** 与低 PE 价值标签何异？
+> **Q** 与低 PE 价值标签何异？
 >
-> **答** 周期情景下动态内在价值——现金流、再投资、衰败风险——须产出过门槛预期回报。PE 便宜若企业生命周期衰败仍是价值陷阱。BRK.B 以纪律穿越四周期胜出。
+> **A** 周期情景下动态内在价值——现金流、再投资、衰败风险——须产出过门槛预期回报。PE 便宜若企业生命周期衰败仍是价值陷阱。BRK.B 以纪律穿越四周期胜出。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. BRK.B** · 🟢 LONG · ●●○ Medium
 >
@@ -83,17 +83,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「我們要實別這些特徵其實就方便我們做大區間的資產配置」
+> "我們要實別這些特徵其實就方便我們做大區間的資產配置"
 
-> 「我覺得對於大家來講是一個比較容易實超的一個做法」
+> "我覺得對於大家來講是一個比較容易實超的一個做法"
 
-> 「以及最好是把紅大蓄勢跟你的公司業務結合起來」
+> "以及最好是把紅大蓄勢跟你的公司業務結合起來"
 
 ---
 
-## 时间线
+## Chronology
 
 > *永庆 × 吴晓波 · 周期思维*
 >
@@ -110,9 +110,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 永庆、吴晓波 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=-wsUV8jbDxE)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 永庆、吴晓波. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=-wsUV8jbDxE) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

@@ -4,28 +4,28 @@
 
 **★★★★★** · 5/5
 
-**播客** 投资实战派 · **日期** 2026年2月2日 · **时长** 236 分钟 · **阅读** ≈3 分钟
+**Podcast** 投资实战派 · **Date** Feb 2, 2026 · **Duration** 236 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 胡维 · 投资实战派好友、苹果研究者
+**Guest** 胡维 · 投资实战派好友、苹果研究者
 
-**收听** [YouTube](https://www.youtube.com/watch?v=zYdRq7lGjcE) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen** [YouTube](https://www.youtube.com/watch?v=zYdRq7lGjcE) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** AAPL · 苹果文化 · 护城河 · 乔布斯遗产
-> ### 结论
+**Topics** AAPL · 苹果文化 · 护城河 · 乔布斯遗产
+> ### Conclusion
 >
 > 2026 年 2 月 2 日录制的 236 分钟节目中，嘉宾胡炜主张苹果护城河是乔布斯时代文化——设计执念、整合与说不的勇气——非规格竞赛。约 2.36 亿台设备与服务附着将文化复利为定价权与生态锁定。投资者应观望苹果（AAPL）后乔布斯文化能否在 AI 硬件转变威胁整合叙事时维持创新节奏。
 
 ---
 
-## 背景
+## Background
 
 > 投资实战派用 236 分钟与胡炜拆解文化作竞争优势。乔布斯遗产：端到端控制、少 SKU、工业设计如信仰——文化拒绝委员会式功能膨胀。胡炜将护城河映射至生态切换成本加品牌信任，非季度 AI benchmark 胜负。2026 年 2 月 2 日录制恰逢 Vision 与 AI iPhone 周期检验文化适应或僵化。服务占比与约 2.36 亿活跃设备锚定现金流耐久。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 236 分钟文化深谈：胡炜称苹果边际是组织——谁说不、团队如何整合硬件-软件-服务，非单品英雄主义。乔布斯文化以流程存活：评审仪式、设计中心 PM 层级、保密减泄露妥协。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *乔布斯文化 × 整合护城河 × 说不纪律*
+## Mental Model · *乔布斯文化 × 整合护城河 × 说不纪律*
 
-> **构成**
+> **Components**
 >
 > 文化产出专注与整合——少 SKU、高打磨。生态锁定将文化转为切换成本。说不纪律避免 commodity 功能赛。
 >
-> **应用**
+> **Application**
 >
 > 苹果（AAPL）：观望服务附着与 AI 功能出货节奏——若 NPS 与 ARPU 升且无 SKU 爆炸则文化护城河 intact。若文化似官僚阻碍端侧 AI parity 则减仓。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 文化即产品护城河。
 >
-> **问** 为何 236 分钟谈文化非芯片？
+> **Q** 为何 236 分钟谈文化非芯片？
 >
-> **答** 胡炜主张苹果耐久边际是决策方式——整合与拒绝——非年度 SoC 领先。对手复制规格；复制文化要数十年。投资者跟踪 NPS 与留存非仅跑分。
+> **A** 胡炜主张苹果耐久边际是决策方式——整合与拒绝——非年度 SoC 领先。对手复制规格；复制文化要数十年。投资者跟踪 NPS 与留存非仅跑分。
 
 > **2.** 生态将文化转为现金流。
 >
-> **问** 文化如何击中模型？
+> **Q** 文化如何击中模型？
 >
-> **答** 约 2.36 亿活跃设备经服务与配件变现——文化使用户留围墙花园。切换成本是 UX 一致性非合同。
+> **A** 约 2.36 亿活跃设备经服务与配件变现——文化使用户留围墙花园。切换成本是 UX 一致性非合同。
 
 > **3.** AI 周期是文化压力测试。
 >
-> **问** 2026 最大风险？
+> **Q** 2026 最大风险？
 >
-> **答** 若端侧 AI 需开放或更快迭代，乔布斯时代保密与说不或落后中国 OEM 节奏。AAPL 观望 WWDC 交付对传闻跳票。
+> **A** 若端侧 AI 需开放或更快迭代，乔布斯时代保密与说不或落后中国 OEM 节奏。AAPL 观望 WWDC 交付对传闻跳票。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. AAPL** · 🟡 WATCH · ●●○ Medium
 >
@@ -79,17 +79,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「苹果的护城河是文化——谁说不、硬件怎么碰软件。」
+> "苹果的护城河是文化——谁说不、硬件怎么碰软件。"
 
-> 「文化跑不了分；你看留存和服务附着。」
+> "文化跑不了分；你看留存和服务附着。"
 
-> 「二百三十六分钟因为芯片年年变；文化才复利。」
+> "二百三十六分钟因为芯片年年变；文化才复利。"
 
 ---
 
-## 时间线
+## Chronology
 
 > *胡炜 · 苹果文化*
 >
@@ -106,9 +106,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 胡维 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=zYdRq7lGjcE)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 胡维. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=zYdRq7lGjcE) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

@@ -4,28 +4,28 @@
 
 **★★★☆☆** · 3/5
 
-**播客** 投资实战派 · **日期** 2026年1月4日 · **时长** 85 分钟 · **阅读** ≈2 分钟
+**Podcast** 投资实战派 · **Date** Jan 4, 2026 · **Duration** 85 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 马铮 · 消费品投资专家
+**Guest** 马铮 · 消费品投资专家
 
-**收听**  · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** 贵州茅台（600519.SZ） · 白酒 · 休闲食品 · 渠道
-> ### 结论
+**Topics** Kweichow Moutai (600519.SZ) · 白酒 · 休闲食品 · 渠道
+> ### Conclusion
 >
 > 马铮消费品框架论白酒与休闲零食强调用户价值与渠道革命——产品须以重复效用赢货架非仅返利。贵州茅台（600519.SZ）是仪式用户价值；零食以口味留存与 DTC mix 胜。投资者应观望贵州茅台（600519.SZ）批价与年轻用户替代，随渠道数字化重塑酒与食。
 
 ---
 
-## 背景
+## Background
 
 > 投资实战派第 165 期（2026 年 1 月 4 日）——永庆与消费品投资人马铮谈白酒对零食。框架：用户价值（消费者为何复购）、渠道革命（DTC、会员、便利店）与毛利结构。白酒仪式对零食习惯频次——600519.SZ 面临代际逆风；零食面临激烈 SKU 竞争。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 用户价值透镜：马铮定义可投资消费为重复效用——贵州茅台（600519.SZ）仪式与送礼场景；零食需口味留存与便利价位包装创新。
 
@@ -36,60 +36,60 @@
 
 ---
 
-## 思维模型 · *用户价值 × 渠道革命 × 频次经济学*
+## Mental Model · *用户价值 × 渠道革命 × 频次经济学*
 
-> **构成**
+> **Components**
 >
 > 消费护城河是复购理由。渠道数字化扁平化。白酒低频定价权；零食高频执行。
 >
-> **应用**
+> **Application**
 >
 > 贵州茅台（600519.SZ）：观望批价与年轻替代——护城河加估值纪律看多。零食敞口多在私有；上市锚仍是茅台作酒类用户价值基准。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 用户价值胜渠道返利。
 >
-> **问** 马铮第一滤镜？
+> **Q** 马铮第一滤镜？
 >
-> **答** 若消费者说不清为何复购则模型靠返利脆弱——茅台过仪式关；弱零食补贴结束即败。
+> **A** 若消费者说不清为何复购则模型靠返利脆弱——茅台过仪式关；弱零食补贴结束即败。
 
 > **2.** 渠道革命重分毛利。
 >
-> **问** 数字化如何伤/助 600519.SZ？
+> **Q** 数字化如何伤/助 600519.SZ？
 >
-> **答** i茅台 抬透明度或稳出厂价控制——伤经销商租金、需求 hold 则公司捕获毛利。
+> **A** i茅台 抬透明度或稳出厂价控制——伤经销商租金、需求 hold 则公司捕获毛利。
 
 > **3.** 白酒与零食不同物种。
 >
-> **问** 为何放一起谈？
+> **Q** 为何放一起谈？
 >
-> **答** 同渠道革命主题——投资者学勿把零食周转指标 port 到白酒 PE；600519.SZ 仍是定价权复利器伴人口风险。
+> **A** 同渠道革命主题——投资者学勿把零食周转指标 port 到白酒 PE；600519.SZ 仍是定价权复利器伴人口风险。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
-> **1. 贵州茅台（600519.SZ）** · 🟡 WATCH · ●●○ Medium
+> **1. Kweichow Moutai (600519.SZ)** · 🟡 WATCH · ●●○ Medium
 >
 > 贵州茅台（600519.SZ）：马铮用户价值框架——观望批价与渠道革命作仪式品牌遇代际变迁
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「自行求搜索使沾派三个字找到我们里面会有一系列的演报和我们播客的文字版」
+> "自行求搜索使沾派三个字找到我们里面会有一系列的演报和我们播客的文字版"
 
-> 「那你就可以在这个单品上有非常大的一个降本的一个优势」
+> "那你就可以在这个单品上有非常大的一个降本的一个优势"
 
-> 「当然更多的节目呢也欢迎大家持续的跟踪我们的频道」
+> "当然更多的节目呢也欢迎大家持续的跟踪我们的频道"
 
 ---
 
-## 时间线
+## Chronology
 
 > *马铮 · 消费用户价值*
 >
@@ -106,9 +106,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 马铮 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听原节目获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 马铮. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

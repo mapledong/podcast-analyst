@@ -4,28 +4,28 @@
 
 **★★★★☆** · 4/5
 
-**播客** 张小珺商业访谈录 · **日期** 2025年2月20日 · **时长** 127 分钟 · **阅读** ≈3 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Feb 20, 2025 · **Duration** 127 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 张前川 · 前今日头条用户产品负责人、前MiniMax产品负责人
+**Guest** 张前川 · 前今日头条用户产品负责人、前MiniMax产品负责人
 
-**收听** [YouTube](https://www.youtube.com/watch?v=hBEOntt_pxM) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=hBEOntt_pxM) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** META · TCEHY · AGI · 推荐引擎
-> ### 结论
+**Topics** META · TCEHY · AGI · 推荐引擎
+> ### Conclusion
 >
 > 离开字节与 MiniMax 后张前川的 AGI 预警将推荐引擎框为原生 AGI——大规模优化人类注意力且目标不透明。他示警实验室竞速能力时对齐与产品伦理落后；META 与腾讯（TCEHY）握分发租金而私募实验室追 AGI。投资者应观望 META、TCEHY 的 AI 互动变现对社会反弹风险，非仅模型 benchmark。
 
 ---
 
-## 背景
+## Background
 
 > 张小珺 2025 年 2 月 20 日访谈张前川（前今日头条产品负责人、前 MiniMax 产品负责人）——产品负责人视角的 AGI 威胁警告。张前川称信息流算法已重塑认知——无护栏扩至 AGI 恐权力集中。他熟今日头条推荐与 MiniMax 模型产品；节目桥接中国消费互联网与基础模型实验室。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 推荐即原生 AGI：张前川称十亿用户规模优化互动是生产中的对齐问题——头条/抖音机制预览 AGI 部署风险。META 与腾讯（TCEHY）平台已跑大规模偏好优化器。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *互动优化器 × 对齐滞后 × 分发房东*
+## Mental Model · *互动优化器 × 对齐滞后 × 分发房东*
 
-> **构成**
+> **Components**
 >
 > 信息流是目标函数错误的 AGI。能力实验室跑赢治理。房东变现注意力；实验室烧 capex。
 >
-> **应用**
+> **Application**
 >
 > Meta（META）与腾讯（TCEHY）：观望 AI 功能互动提升对政策反弹——ARPU 升且监管未断则房东存活。私募实验室作能力基准非公开标的。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 信息流已是错位 AGI。
 >
-> **问** 产品人为何警告 AGI？
+> **Q** 产品人为何警告 AGI？
 >
-> **答** 张前川建过最大化停留系统——强优化无显式人类价值。扩展 LLM Agent 以更多行动面延伸同风险。
+> **A** 张前川建过最大化停留系统——强优化无显式人类价值。扩展 LLM Agent 以更多行动面延伸同风险。
 
 > **2.** 能力赛跑赢治理。
 >
-> **问** 字节与 MiniMax 教他什么？
+> **Q** 字节与 MiniMax 教他什么？
 >
-> **答** 产品交付速度胜安全委员会——张前川离职发声实验室优化 benchmark 而社会缺刹车。投资者应为 META/TCEHY AI rollout 定价监管与声誉期权。
+> **A** 产品交付速度胜安全委员会——张前川离职发声实验室优化 benchmark 而社会缺刹车。投资者应为 META/TCEHY AI rollout 定价监管与声誉期权。
 
 > **3.** 分发房东向 AGI 盛宴收税。
 >
-> **问** 可投资敞口在哪？
+> **Q** 可投资敞口在哪？
 >
-> **答** META 与 TCEHY 握推荐引擎要的注意力轨道——私募实验室赢模型房东仍收广告与支付租金。公开投资者按互动变现建仓非 AGI 神学。
+> **A** META 与 TCEHY 握推荐引擎要的注意力轨道——私募实验室赢模型房东仍收广告与支付租金。公开投资者按互动变现建仓非 AGI 神学。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. META** · 🟡 WATCH · ●●○ Medium
 >
@@ -83,17 +83,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「这是一档提供一手高密度信息的商业访谈节目」
+> "这是一档提供一手高密度信息的商业访谈节目"
 
-> 「我一个按钮能转换成自己的字幕和声音等等」
+> "我一个按钮能转换成自己的字幕和声音等等"
 
-> 「其实有很多人类想想想想去构建的一些事情」
+> "其实有很多人类想想想想去构建的一些事情"
 
 ---
 
-## 时间线
+## Chronology
 
 > *张前川 · AGI 预警*
 >
@@ -112,9 +112,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 张前川 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=hBEOntt_pxM)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 张前川. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=hBEOntt_pxM) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

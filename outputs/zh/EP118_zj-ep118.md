@@ -4,28 +4,28 @@
 
 **★★★☆☆** · 3/5
 
-**播客** 张小珺商业访谈录 · **日期** 2025年10月30日 · **时长** 166 分钟 · **阅读** ≈4 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Oct 30, 2025 · **Duration** 166 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 李想 · 理想汽车创始人兼CEO
+**Guest** 李想 · 理想汽车创始人兼CEO
 
-**收听** [YouTube](https://www.youtube.com/watch?v=RxXVq7-sJzM) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=RxXVq7-sJzM) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** LI · CEO大模型 · MOE · VLA
-> ### 结论
+**Topics** LI · CEO大模型 · MOE · VLA
+> ### Conclusion
 >
 > 李想将自身框为 CEO 大模型 MoE——技术、产品、组织专家——押注五年内出现 Agent OS 而非通用 Agent。AI 须从信息工具、辅助工具升级为愿付费的生产工具；理想在拥抱 DeepSeek 后自研领域 VLA，端侧 3.2B 八专家 MoE。投资者应观望理想（LI）VLA 车队落地与 Agent OS 变现，勿将聊天 Copilot 当作自动驾驶验证。
 
 ---
 
-## 背景
+## Background
 
 > 张小珺与李想第二次三小时 AI Talk（2025 年 10 月完整版）将 CEO 视作 MoE——向技术、产品、组织专家路由。李想称人类是更小的模型、擅长减熵；AI 擅长大规模信息但今日聊天产品仍是信息工具，工作时长未减。生产工具需行动、付费意愿与领域数据——Cursor 与 Deep Research 是早期样例。DeepSeek 后理想重组：办公 Lang 加 Agent OS、车机手机端端 VL、驾驶与工厂 VLA。VLA 训练分预训练（V/L/VL 联合）、后训练模仿（驾校类比）、RL 与世界模型数据——3.2B MoE 蒸馏上 Orin-X 与 Thor-U。规模居中；仅当用户需求与技术交汇时才调组织。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** CEO 即 MoE：李想称张小珺调用技术、产品、组织三位专家，镜像混合专家。DeepSeek V3 的 671B MoE 验证研究优先流水线：研究→研发→能力表达→业务价值。理想用于端端、VLM、VLA——海外自动驾驶论文引用理想驾驶研究。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *CEO MoE × 工具分层 × 领域 VLA*
+## Mental Model · *CEO MoE × 工具分层 × 领域 VLA*
 
-> **构成**
+> **Components**
 >
 > MoE 路由专长——CEO 勿单线程决策。AI 产品分层：信息（参考）、辅助（体验）、生产（付费行动）。Agent OS 先于通用 Agent；VLA 需开源模型没有的车域交通语义。
 >
-> **应用**
+> **Application**
 >
 > 理想（LI）：观望 VLA 部署节奏与付费 Agent OS 信号——生产工具试金石是付费意愿非 demo 里程。对比特斯拉 FSD 数据规模；若 3.2B MoE 上车且 attention 交互透明则超配。若组织追逐通用 LLM 而无用户需求触发则低配。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 无通用 Agent——五年内 Agent OS。
 >
-> **问** 李想为何否定通用 Agent 时间表？
+> **Q** 李想为何否定通用 Agent 时间表？
 >
-> **答** 苹果先有 Mac 与生态再有 iPhone——李想见 Agent OS 为调用工具的编排层非一模型包打天下。Manus 经浏览 SEC 与投行报告迈向生产工具，但无领域数据的广度会失败。车需带 3D/高清 V token 与交通语义的 VLA——OpenAI 与 DeepSeek 不训此类数据。
+> **A** 苹果先有 Mac 与生态再有 iPhone——李想见 Agent OS 为调用工具的编排层非一模型包打天下。Manus 经浏览 SEC 与投行报告迈向生产工具，但无领域数据的广度会失败。车需带 3D/高清 V token 与交通语义的 VLA——OpenAI 与 DeepSeek 不训此类数据。
 
 > **2.** 生产工具需行动与付费。
 >
-> **问** 为何 AI 变好工作时长仍升？
+> **Q** 为何 AI 变好工作时长仍升？
 >
-> **答** 聊天 AI 须输出 next token——索引网页错误时常增熵。辅助 ADAS 与语音导航有帮助但不替代 KPI 工作。生产工具代你行动；同事自付 Cursor 与 Deep Research——李想试金石。无行动则 O3 级推理仍停策略幻灯片非产出。
+> **A** 聊天 AI 须输出 next token——索引网页错误时常增熵。辅助 ADAS 与语音导航有帮助但不替代 KPI 工作。生产工具代你行动；同事自付 Cursor 与 Deep Research——李想试金石。无行动则 O3 级推理仍停策略幻灯片非产出。
 
 > **3.** DeepSeek 加速理想模型赌注。
 >
-> **问** DeepSeek 后何变？
+> **Q** DeepSeek 后何变？
 >
-> **答** 一月决策基于开源权重如 Linux 对 Android——对内 Lang 加 Agent OS，驾驶专有 VLA。DeepSeek V3 研究优先 MoE 纪律；陈伟比李想预期更坚决推 VLA 与多模态加速。重组对齐三条模型流与三项业务——基础模型是基础设施非单一聊天机器人。
+> **A** 一月决策基于开源权重如 Linux 对 Android——对内 Lang 加 Agent OS，驾驶专有 VLA。DeepSeek V3 研究优先 MoE 纪律；陈伟比李想预期更坚决推 VLA 与多模态加速。重组对齐三条模型流与三项业务——基础模型是基础设施非单一聊天机器人。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. LI** · 🟡 WATCH · ●●○ Medium
 >
@@ -79,17 +79,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「我觉得我们的能力和给予公企带来的价值还没有表现出来」
+> "我觉得我们的能力和给予公企带来的价值还没有表现出来"
 
-> 「但是你明显都看到这个过程和结果已经开始有问题了」
+> "但是你明显都看到这个过程和结果已经开始有问题了"
 
-> 「我们是端道端上唯一给你展示的端道端是怎么工作的」
+> "我们是端道端上唯一给你展示的端道端是怎么工作的"
 
 ---
 
-## 时间线
+## Chronology
 
 > *李想 · 理想 AI Talk 第二季*
 >
@@ -108,9 +108,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 李想 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=RxXVq7-sJzM)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 李想. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=RxXVq7-sJzM) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

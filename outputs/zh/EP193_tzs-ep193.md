@@ -2,30 +2,30 @@
 
 ## *E193 Ai芯片x价值投资，如何从入门到精通？ | 永庆对话中芯国际联合创始人谢志峰*
 
-**★★★★★** · 5/5
+**★★★★☆** · 4/5
 
-**播客** 投资实战派 · **日期** 2026年8月2日 · **时长** 95 分钟 · **阅读** ≈3 分钟
+**Podcast** 投资实战派 · **Date** Aug 2, 2026 · **Duration** 95 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 谢志峰 · 中芯国际联合创始人 · 近40年半导体产业经验
+**Guest** 谢志峰 · 中芯国际联合创始人 · 近40年半导体产业经验
 
-**收听**  · [小宇宙](https://www.xiaoyuzhoufm.com/episode/6a6f302b1b5e24969ce7a80a) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** SMIC · 中芯国际（0981.HK） · NVDA · TSM
-> ### 结论
+**Topics** SMIC · SMIC (0981.HK) · NVDA · TSM
+> ### Conclusion
 >
 > 中芯国际联合创始人谢志峰返场，把芯片研究教成价值投资功课：能力圈、十年财报、垄断/稀缺、市场先生，再叠上半导体分部（设计/代工/存储等）与周期，以及五种应用爆发后产能从买方市场翻成卖方市场。常见亏钱来自追涨不懂与样样沾一点。专注胜过万金油；长存/长鑫与代工产能分配都是“知道几斤几两”的案例。
 
 ---
 
-## 背景
+## Background
 
 > 5月那期约2万播放后的方法论续集。永庆要的不是报票，而是谢博士如何用近40年美/新/台/大陆经历，把格雷厄姆/巴菲特工具接到晶圆现实。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 方法论：不懂不投、懂了拆投、找垄断/稀缺，并一定看约十年财报——只看一季是赌博。把《聪明的投资者》与市场先生内化，才能在价格偏离固执的内在价值区间时买卖。
 
@@ -36,44 +36,44 @@
 
 ---
 
-## 思维模型 · *价值骨架 × 产业解剖 × 专注产能*
+## Mental Model · *价值骨架 × 产业解剖 × 专注产能*
 
-> **构成**
+> **Components**
 >
 > 格雷厄姆/巴菲特作世界观；半导体六块分开拆；研究时间砸在垄断瓶颈；把产能分配制度写进内在价值。
 >
-> **应用**
+> **Application**
 >
 > 芯片组合先看十年ROIC/周期再听AI故事。只买能尽调的稀缺瓶颈。无流程的消息仓淡化。中芯/台积产能政治是一阶变量。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 不看十年报表就不叫价值投资。
 >
-> **问** 用什么替换季度情绪？
+> **Q** 用什么替换季度情绪？
 >
-> **答** 利润率、存货、现金周期与估值带的十年趋势，再加上市场先生偏离。
+> **A** 利润率、存货、现金周期与估值带的十年趋势，再加上市场先生偏离。
 
 > **2.** 芯片要价值工具加产业物理。
 >
-> **问** 只靠巴菲特行吗？
+> **Q** 只靠巴菲特行吗？
 >
-> **答** 既不能说芯片不能估值，也不能忽略代工周期——要合并。
+> **A** 既不能说芯片不能估值，也不能忽略代工周期——要合并。
 
 > **3.** 四十年后边缘在专注。
 >
-> **问** 为何不覆盖所有AI？
+> **Q** 为何不覆盖所有AI？
 >
-> **答** 万金油只蹭到0.1技术；专家知道少数能复利的标的几斤几两。
+> **A** 万金油只蹭到0.1技术；专家知道少数能复利的标的几斤几两。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
-> **1. 中芯国际（0981.HK）** · 🟢 LONG · ●○○ Low
+> **1. SMIC (0981.HK)** · 🟢 LONG · ●○○ Low
 >
 > 中国AI建设下的卖方市场代工分配者；地缘与周期仍重——低
 
@@ -87,17 +87,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「不懂不投」
+> "不懂不投"
 
-> 「一定要看十年的财务报表」
+> "一定要看十年的财务报表"
 
-> 「我喜欢做专家」
+> "我喜欢做专家"
 
 ---
 
-## 时间线
+## Chronology
 
 > *芯片投资方法论 · 谢志峰*
 >
@@ -114,9 +114,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 谢志峰 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听原节目获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 谢志峰. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

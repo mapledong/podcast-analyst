@@ -4,28 +4,28 @@
 
 **★★★☆☆** · 3/5
 
-**播客** 投资实战派 · **日期** 2026年1月31日 · **时长** 101 分钟 · **阅读** ≈3 分钟
+**Podcast** 投资实战派 · **Date** Jan 31, 2026 · **Duration** 101 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 陈格雷 · 《超级IP孵化原理》作者、盒成动漫创始人
+**Guest** 陈格雷 · 《超级IP孵化原理》作者、盒成动漫创始人
 
-**收听** [YouTube](https://www.youtube.com/watch?v=lqMnWASTTvk) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen** [YouTube](https://www.youtube.com/watch?v=lqMnWASTTvk) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** 泡泡玛特（9992.HK） · 泡泡玛特 · IP · 4S
-> ### 结论
+**Topics** Pop Mart (9992.HK) · 泡泡玛特 · IP · 4S
+> ### Conclusion
 >
 > 泡泡玛特十五年老兵陈灰常阐述 4S IP 框架——Story、Style、Spirit、Social——为 Labubu 与全球盲盒规模背后可复用打法，2026 年 1 月 31 日录制。工艺与角色深度胜追趋势 SKU。投资者应观望泡泡玛特（9992.HK）4S 管线能否在巨头授权商进入收藏玩具时维持海外占比与 ASP。
 
 ---
 
-## 背景
+## Background
 
 > 投资实战派主持陈灰常，十五年泡泡玛特内部人，谈 IP 工业化。4S 框架：Story（世界观）、Style（视觉识别）、Spirit（情感钩子）、Social（社群粉丝）——量产盲盒前各关卡。陈对比泡泡玛特雕塑师主导孵化与服装式周转。2026 年 1 月 31 日录制紧随全球扩张与毛利辩论。IP 成熟需数年；4S 是角色筛选操作系统非营销口号。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 4S IP 框架：陈灰常 Story-Style-Spirit-Social 清单在规模化前过滤 IP——十五年泡泡玛特经验告知哪些角色活过全球零售对国内 hype 周期。Labubu 等同辈经多年孵化通过 4S 关卡，解释 ASP 韧性对时尚玩具。
 
@@ -36,60 +36,60 @@
 
 ---
 
-## 思维模型 · *4S IP 关卡 × 十五年孵化 × 社群仪式*
+## Mental Model · *4S IP 关卡 × 十五年孵化 × 社群仪式*
 
-> **构成**
+> **Components**
 >
 > Story 与 Style 获注意；Spirit 与 Social 驱动复购。数年孵化胜趋势 SKU。全球规模检验 4S 可移植性。
 >
-> **应用**
+> **Application**
 >
 > 泡泡玛特（9992.HK）：观望新 IP 过 4S 关卡与海外搭载——若管理层为量 shortcut Social 层则减仓。对比 DIS 特许经营深度；9992.HK 交易管线质量非仅门店数。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 4S 是运营过滤器，非品牌术语。
 >
-> **问** 4S 运营上改变什么？
+> **Q** 4S 运营上改变什么？
 >
-> **答** 陈以 Story-Style-Spirit-Social 作工厂 MOQ 前 go/no-go——Spirit 弱则复购率死即使 Style 可爱。 十五年失败沉淀清单。
+> **A** 陈以 Story-Style-Spirit-Social 作工厂 MOQ 前 go/no-go——Spirit 弱则复购率死即使 Style 可爱。 十五年失败沉淀清单。
 
 > **2.** Social 层是盲盒护城河。
 >
-> **问** Social 对投资者为何重要？
+> **Q** Social 对投资者为何重要？
 >
-> **答** 交换与拆盒仪式造有机营销——毛利流向有社群腿的 IP。应用与海外店须承载 Social 非仅卖盒。
+> **A** 交换与拆盒仪式造有机营销——毛利流向有社群腿的 IP。应用与海外店须承载 Social 非仅卖盒。
 
 > **3.** 全球扩张检验 Story 可移植性。
 >
-> **问** 2026 海外推进风险？
+> **Q** 2026 海外推进风险？
 >
-> **答** 4S 或需本地 Story 适配——Spirit 钩子因文化异。观望海外复购与二级市场溢价作 4S 验证指标。
+> **A** 4S 或需本地 Story 适配——Spirit 钩子因文化异。观望海外复购与二级市场溢价作 4S 验证指标。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
-> **1. 泡泡玛特（9992.HK）** · 🟡 WATCH · ●●○ Medium
+> **1. Pop Mart (9992.HK)** · 🟡 WATCH · ●●○ Medium
 >
 > 泡泡玛特（9992.HK）：陈灰常十五年 4S IP 框架——观望海外占比与管线深度对吉祥物放量玩法
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「電影是這樣就是兩個朝天第一現在他的電影不是已經交給了那個」
+> "電影是這樣就是兩個朝天第一現在他的電影不是已經交給了那個"
 
-> 「那麼其實說白了這個小成功因為他做是靠他自己原來的文化價值」
+> "那麼其實說白了這個小成功因為他做是靠他自己原來的文化價值"
 
-> 「並且有長期重夜的成哥雷先生跟我們來錄這一個話題」
+> "並且有長期重夜的成哥雷先生跟我們來錄這一個話題"
 
 ---
 
-## 时间线
+## Chronology
 
 > *陈灰常 · 泡泡玛特 4S*
 >
@@ -106,9 +106,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 陈格雷 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=lqMnWASTTvk)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 陈格雷. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=lqMnWASTTvk) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

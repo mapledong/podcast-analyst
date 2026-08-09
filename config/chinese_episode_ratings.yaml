@@ -1,6 +1,13 @@
-# Curated star ratings for Chinese podcasts (config/template.yaml rating_distribution).
-# Per podcast: 5★ ≤ floor(n×20%), 4★ ≤ floor(n×30%), default 3★.
-# n=30 per podcast after batch 6 (caps: 6×5★, 9×4★).
+# Curated star ratings for Chinese + bilingual podcasts.
+# Enforced with config/template.yaml rating_distribution:
+#   5★ ≤ floor(n × 20%), 4★ ≤ floor(n × 30%), default 3★.
+#
+# Rubric (same for all shows):
+#   3★ — solid, useful episode; default
+#   4★ — unusually strong insight, rare guest access, or durable framework
+#   5★ — landmark reference episode (re-listen / cite years later)
+# Do NOT default new episodes to 5★ because they are recent.
+# Prefer leaving 5★/4★ headroom when curated lists allow.
 
 zhang-xiaojun:
   podcast: Zhang Xiaojun Podcast
@@ -12,38 +19,49 @@ zhang-xiaojun:
     - zj-ep87   # Li Xiang 3hr podcast cut — AI/product founder arc
     - zj-ep70   # He Xiaopeng FSD blood-sea — XPEV/TSLA strategic
   four_star:
-    - zj-ep138  # Luo Fuli — agent paradigm / post-training
+    - zj-ep148  # You Kaichao — open infra / vLLM co-design
+    - zj-ep146  # Physical Intelligence Ke Liyiming — 4hr Pi
     - zj-ep145  # SpaceX oral history with former executive
     - zj-ep141  # Freda LP — token economics & org design
-    - zj-ep79   # Robotaxi event debrief — TSLA/UBER timely
-    - zj-ep93   # Zhang Qianchuan AGI warning — contrarian safety
-    - zj-ep89   # DeepSeek-R1/Kimi/o1 report walkthrough
+    - zj-ep138  # Luo Fuli — agent paradigm / post-training
+    - zj-ep79   # Robotaxi event debrief
+    - zj-ep93   # Zhang Qianchuan AGI warning
+    - zj-ep89   # DeepSeek-R1/Kimi/o1 report
     - zj-ep88   # Wu Yi Operator — physical-world agent
-    - zj-ep72   # Tesla FSD evolution with Meng Xing
-    - zj-ep75   # Wu Yi o1 second gold mine
-  # batch4 zj-ep121/120/109/104 default 3★
-  # batch5 zj-ep118/108/96/122/125 default 3★
-  # batch6 zj-ep94 default 3★
+  # Recent zj-ep149/147 and older batches default 3★ unless listed
 
 touzi-shizhanpai:
   podcast: Practical Investments
   five_star:
     - tzs-ep185  # SMIC co-founder — 40-year semiconductor arc
     - tzs-ep184  # CAR-T science + capacity economics with CEO
-    - tzs-ep170  # Apple culture & moat — 236m deep dive with PPT
-    - tzs-ep128  # AD chips NVDA vs domestic — timely physical AI
+    - tzs-ep170  # Apple culture & moat — 236m deep dive
+    - tzs-ep128  # AD chips NVDA vs domestic
     - tzs-ep166  # Consumer internet 25yr review + 2026 outlook
-    - tzs-ep125  # Pop Mart IP deep dive — 9992.HK anchor
+    - tzs-ep125  # Pop Mart IP deep dive
   four_star:
-    - tzs-ep179  # Yongqing framework — capital cycles anchor episode
+    - tzs-ep193  # Chip × value-investing methodology sequel (strong, not landmark)
+    - tzs-ep192  # Compounding / risk / patience with Ruiyuan PM
+    - tzs-ep191  # Four AI semiconductor frontiers
+    - tzs-ep186  # Value vs momentum discipline
     - tzs-ep180  # Pop Mart deep dive with Jeff
-    - tzs-ep186  # Value vs momentum — clear investor discipline
-    - tzs-ep127  # Laopu Gold luxury consumer thesis
-    - tzs-ep133  # Eastroc Beverage counter-cyclical growth
-    - tzs-ep137  # Nongfu/Midea/Anta channel secrets
-    - tzs-ep116  # High-growth tech stock framework
-    - tzs-ep155  # Dining consumer mosaic — Moutai/chain brands
-    - tzs-ep130  # 24yr Moutai dealer insider channel view
-  # batch4 tzs-ep176/167/158/126 default 3★
-  # batch5 tzs-ep156/146/115/109/34 default 3★
-  # batch6 tzs-ep165 default 3★
+    - tzs-ep179  # Yongqing capital-cycle framework
+    - tzs-ep127  # Laopu Gold
+    - tzs-ep133  # Eastroc Beverage
+    - tzs-ep137  # Nongfu/Midea/Anta channels
+  # tzs-ep189/190 and most others default 3★
+
+silicon-valley-101:
+  podcast: Silicon Valley 101
+  five_star:
+    - sv101-ep196  # AI Infra / SGLang·RadixArk — core infra reference
+    - sv101-ep185  # SpaceX rise / Starbase field piece
+    - sv101-ep173  # Hermès × LVMH capital-war narrative
+  four_star:
+    - sv101-ep183  # Tian Yuandong / RSI neolab — strong, leave 5★ headroom
+    - sv101-ep197  # Ying Sheng interview — strong follow-on, not sole landmark
+    - sv101-ep192  # SK Hynix chaebol / HBM
+    - sv101-ep186  # WWDC26 / Cook succession & Apple AI
+    - sv101-ep176  # Token economics
+    - sv101-ep181  # Robot body / supply chain teardown
+  # Remaining sv101-ep* default 3★ (FIFA shorts, sports, etc.)

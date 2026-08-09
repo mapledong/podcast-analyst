@@ -2,7 +2,7 @@
 
 ## *E193 AI Chips × Value Investing: From Beginner to Practitioner | Yongqing with SMIC Co-founder Xie Zhifeng*
 
-**★★★★★** · 5/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** Aug 2, 2026 · **Duration** 95 min · **Read** ≈2 min
 

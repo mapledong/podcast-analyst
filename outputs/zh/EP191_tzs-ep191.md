@@ -2,24 +2,24 @@
 
 ## *E191 AI四大半导体新方向：技术、机会与泡沫 | David × 方亮*
 
-**★★★★★** · 5/5
+**★★★★☆** · 4/5
 
-**播客** 投资实战派 · **日期** 2026年7月19日 · **时长** 70 分钟 · **阅读** ≈4 分钟
+**Podcast** 投资实战派 · **Date** Jul 19, 2026 · **Duration** 70 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 方亮 · 行律智能 · 战略发展总监（良率管理软硬件）
+**Guest** 方亮 · 行律智能 · 战略发展总监（良率管理软硬件）
 
-**收听**  · [小宇宙](https://www.xiaoyuzhoufm.com/episode/6a5c5d4ca3fec224d59fcb23) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** TSM · 超透镜 · 玻璃基板 · 碳化硅
-> ### 结论
+**Topics** TSM · 超透镜 · 玻璃基板 · 碳化硅
+> ### Conclusion
 >
 > 方亮把市场热议的四个半导体重主题——超透镜、玻璃基板、混合键合、碳化硅——按「还原事实 → 三到五年产业判断 → 投资逻辑（不荐股）」拆开。超透镜=超表面光学，已有手机 CIS 样例但苹果等大厂尚未全面采用；玻璃基板相对有机载板在 CTE/刚度上有优势，量产起源约 2026、产品落地或更靠后，Rubin 玻璃传言被泼冷水；混合键合与先进封装同频；碳化硅被评为四者中商业化前景最实，国内大量玩家仍卡在 6 寸向 8/12 寸爬坡。
 
 ---
 
-## 背景
+## Background
 
 > 第 191 期由大卫主持，邀请 2024 年 3 月第 26 期嘉宾方亮复访。方亮已离开一级市场机构，加入半导体创业公司行律智能，任战略发展总监，向晶圆厂/封装厂提供良率管理相关软硬件方案。
 >
@@ -27,7 +27,7 @@
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 超透镜（metalens / 超表面光学）：把传统透镜功能压到超薄结构，可与 CIS 结合；业内已有搭在小米手机前摄 CIS 的样例叙事，但苹果等尚未全面采用，技术路线与良率仍未完全「修成」。优势是更易做薄、部分光学自由度，约束是材料/工艺与系统集成。
 
@@ -38,42 +38,42 @@
 
 ---
 
-## 思维模型 · *还原事实 × 三到五年产业时钟 × 逻辑链非荐股*
+## Mental Model · *还原事实 × 三到五年产业时钟 × 逻辑链非荐股*
 
-> **构成**
+> **Components**
 >
 > 先定义技术与所处阶段，再看国内外代表玩家与可颠覆点，最后标出需持续跟踪的中点。用「量产起源 vs 产品渗透」区分叙事泡沫。商业化成熟度排序指导研究优先级，而非短期主题炒作。
 >
-> **应用**
+> **Application**
 >
 > 跟踪先进封装时拆开玻璃基板/混合键合的真实客户导入时间表；对超透镜看 CIS 渗透与大客户导入而非概念机；对碳化硅盯衬底寸级与良率，而非只数国内上市公司数量。把方亮的良率软件视角当作工艺爬坡领先指标。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 四个名词要先还原，再谈泡沫。
 >
-> **问** 市场错在哪？
+> **Q** 市场错在哪？
 >
-> **答** 超透镜、玻璃基板、混合键合、碳化硅常被捆成「AI 半导体重主题」一揽子炒作。方亮要求先讲清各自物理与产业阶段，再做三到五年判断——否则容易把实验室进度当成已量产。
+> **A** 超透镜、玻璃基板、混合键合、碳化硅常被捆成「AI 半导体重主题」一揽子炒作。方亮要求先讲清各自物理与产业阶段，再做三到五年判断——否则容易把实验室进度当成已量产。
 
 > **2.** 玻璃基板是时钟问题，不是「有没有」。
 >
-> **问** 该怎么看玻璃叙事？
+> **Q** 该怎么看玻璃叙事？
 >
-> **答** CTE/刚度优势真实，但量产起源约 2026、产品使用更靠后；把未证实的代际全盘玻璃化当成既成事实，属于需戳破的传言区间。
+> **A** CTE/刚度优势真实，但量产起源约 2026、产品使用更靠后；把未证实的代际全盘玻璃化当成既成事实，属于需戳破的传言区间。
 
 > **3.** 碳化硅商业化最实，寸级爬坡决定谁赢。
 >
-> **问** 研究优先级怎么排？
+> **Q** 研究优先级怎么排？
 >
-> **答** 四者中碳化硅需求与工艺路径最清晰；国内玩家大量仍在 6 寸，真正差异在 8/12 寸良率与扩产——适合做中期产业跟踪，而非口号式主题。
+> **A** 四者中碳化硅需求与工艺路径最清晰；国内玩家大量仍在 6 寸，真正差异在 8/12 寸良率与扩产——适合做中期产业跟踪，而非口号式主题。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. TSM** · 🟢 LONG · ●○○ Low
 >
@@ -85,17 +85,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「我们的目标是把事实说清楚，然后给大家一个三到五年的产业判断」
+> "我们的目标是把事实说清楚，然后给大家一个三到五年的产业判断"
 
-> 「这四个里面最有商业化前景的还是碳化硅」
+> "这四个里面最有商业化前景的还是碳化硅"
 
-> 「仅仅做举例说明并不是投资建议」
+> "仅仅做举例说明并不是投资建议"
 
 ---
 
-## 时间线
+## Chronology
 
 > *方亮 · 半导体四主题复访*
 >
@@ -112,9 +112,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 方亮 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听原节目获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 方亮. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

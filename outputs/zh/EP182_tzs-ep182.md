@@ -4,28 +4,28 @@
 
 **★★★☆☆** · 3/5
 
-**播客** 投资实战派 · **日期** 2026年5月4日 · **时长** 87 分钟 · **阅读** ≈4 分钟
+**Podcast** 投资实战派 · **Date** May 4, 2026 · **Duration** 87 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 嘉宾 · 创新药投资者
+**Guest** 嘉宾 · 创新药投资者
 
-**收听** [YouTube](https://www.youtube.com/watch?v=suCMElcAOo0) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen** [YouTube](https://www.youtube.com/watch?v=suCMElcAOo0) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** 科济药业（2171.HK） · NVS · 生物科技 · 创新药
-> ### 结论
+**Topics** CARsgen (2171.HK) · NVS · 生物科技 · 创新药
+> ### Conclusion
 >
 > 永庆的生物科技复盘将创新药框定为时间之敌——BD 溢价与 GLP-1/ADC 羊群交易背离诺华式纪律。专利悬崖遇疗法骤然替代；巴菲特 2020 年研究制药业未买入。四季度生物科技基金配置处历史低位，百济神州规模（市值约 2000 亿美元）远超较小同行。投资者应观望科济药业（2171.HK）产能与支付闸门、诺华（NVS）资本配置纪律对比跟风肿瘤赌注。
 
 ---
 
-## 背景
+## Background
 
 > 87 分钟投资实战派节目中，永庆复盘生物科技失误与行业结构。创新药与时间赛跑——临床窗口、专利悬崖与标准疗法骤变（GLP-1 肥胖、ADC 浪潮）可一夜抹去数年 BD 溢价。他对比诺华（NVS）资本纪律与追逐热门模态的羊群。巴菲特 2020 年考察制药业未买——专利悬崖加替代风险。四季度生物科技基金配置处历史低位，百济神州市值约 2000 亿美元远超中国较小 biotech。科济药业（2171.HK）处永庆所指细胞疗法经济学：科学验证不等于可及规模。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 时间为敌：创新药面临专利悬崖与疗法骤然替代——GLP-1 与 ADC 羊群显示标准变迁时 BD 溢价多快压缩。永庆警告无久期数学的估值致命；诺华（NVS）纪律模型偏好分阶段赌注非叙事羊群。
 
@@ -36,44 +36,44 @@
 
 ---
 
-## 思维模型 · *久期风险 × BD 溢价 × 替代羊群*
+## Mental Model · *久期风险 × BD 溢价 × 替代羊群*
 
-> **构成**
+> **Components**
 >
 > 创新药是被专利悬崖与标准疗法跳跃缩短的长久期期权——时间是敌人。羊群轮动（GLP-1、ADC）时 BD 价不等于价值。纪律（NVS）胜叙事 sizing；巴菲特 2020 年不买是警示寓言。
 >
-> **应用**
+> **Application**
 >
 > 诺华（NVS）：观望资本配置对比 GLP-1/ADC 羊群——波动 biotech 中纪律溢价。科济药业（2171.HK）：观望产能与报销，非仅科学头条。百济神州规模作参照——较小同行需替代感知建模。四季度历史低位配置：仅在有明确久期论点时逆向。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 无久期数学的 BD 溢价是陷阱。
 >
-> **问** 永庆为何称创新药为时间之敌？
+> **Q** 永庆为何称创新药为时间之敌？
 >
-> **答** 专利悬崖与疗法骤变（GLP-1、ADC）抹去数年跑道——峰值叙事买入的 BD 常输给替代。诺华式分阶段纪律胜羊群模态交易。建模退出年份，非仅峰值销售。
+> **A** 专利悬崖与疗法骤变（GLP-1、ADC）抹去数年跑道——峰值叙事买入的 BD 常输给替代。诺华式分阶段纪律胜羊群模态交易。建模退出年份，非仅峰值销售。
 
 > **2.** 巴菲特 2020 年不买仍具教益。
 >
-> **问** 公募投资者应学什么？
+> **Q** 公募投资者应学什么？
 >
-> **答** 巴菲特研究制药业后走开——专利悬崖加替代恐惧。四季度历史低位诱惑逆向者，但无替代情景是接飞刀。偏好有制造与支付规模的平台（百济神州约 2000 亿美元市值）胜单资产希望。
+> **A** 巴菲特研究制药业后走开——专利悬崖加替代恐惧。四季度历史低位诱惑逆向者，但无替代情景是接飞刀。偏好有制造与支付规模的平台（百济神州约 2000 亿美元市值）胜单资产希望。
 
 > **3.** 中国 biotech 按规模两极分化。
 >
-> **问** 此处如何读 2171.HK？
+> **Q** 此处如何读 2171.HK？
 >
-> **答** 科济药业处细胞疗法经济学——疗效已证、可及受限。百济神州约 2000 亿美元市值展示赢家形态；较小名需 NRDL 与产能里程碑。2171.HK 观望契合此前 CAR-T 场次科学已证、经济学待规模论点。
+> **A** 科济药业处细胞疗法经济学——疗效已证、可及受限。百济神州约 2000 亿美元市值展示赢家形态；较小名需 NRDL 与产能里程碑。2171.HK 观望契合此前 CAR-T 场次科学已证、经济学待规模论点。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
-> **1. 科济药业（2171.HK）** · 🟡 WATCH · ●●○ Medium
+> **1. CARsgen (2171.HK)** · 🟡 WATCH · ●●○ Medium
 >
 > 科济药业（2171.HK）：生物科技复盘视角——创新药面临时间/替代风险；CAR-T 上行系于产能与 NRDL，非仅 BD 溢价
 
@@ -83,17 +83,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「這個我們實在拍基本上已經說到第五期的醫療戰體」
+> "這個我們實在拍基本上已經說到第五期的醫療戰體"
 
-> 「所以我本歌開始就在一下麥方吃起了一年半的時間」
+> "所以我本歌開始就在一下麥方吃起了一年半的時間"
 
-> 「所以當我現在去談論到我的所謂的投資框架的時候」
+> "所以當我現在去談論到我的所謂的投資框架的時候"
 
 ---
 
-## 时间线
+## Chronology
 
 > *永庆 · 生物科技复盘*
 >
@@ -110,9 +110,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 嘉宾 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=suCMElcAOo0)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 嘉宾. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=suCMElcAOo0) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

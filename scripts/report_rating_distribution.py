@@ -13,7 +13,15 @@ from src.template_config import template_path_for_podcast  # noqa: E402
 from src.validate import load_template_config, rating_distribution_stats, validate_rating_distribution  # noqa: E402
 
 APPROVED = ROOT / "data" / "approved"
-PODCASTS = ("Acquired", "Invest Like the Best", "Founders", "Business Breakdowns")
+PODCASTS = (
+    "Acquired",
+    "Invest Like the Best",
+    "Founders",
+    "Business Breakdowns",
+    "Zhang Xiaojun Podcast",
+    "Practical Investments",
+    "Silicon Valley 101",
+)
 
 
 def main() -> int:

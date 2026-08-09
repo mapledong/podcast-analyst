@@ -2,7 +2,7 @@
 
 ## *Portfolio Manager, RuYuan HK Connect New Value Fund*
 
-**★★★★★** · 5/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** Jul 26, 2026 · **Duration** 98 min · **Read** ≈3 min
 

@@ -2,30 +2,30 @@
 
 ## *E188 如何做"深度"投研：流程、要点和注意事项*
 
-**★★★★☆** · 4/5
+**★★★☆☆** · 3/5
 
-**播客** 投资实战派 · **日期** 2026年6月21日 · **时长** 116 分钟 · **阅读** ≈4 分钟
+**Podcast** 投资实战派 · **Date** Jun 21, 2026 · **Duration** 116 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 永庆 · 投资实战派主理人、买方研究负责人
+**Guest** 永庆 · 投资实战派主理人、买方研究负责人
 
-**收听** [YouTube](https://www.youtube.com/watch?v=P3nyLRPMBTw) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen** [YouTube](https://www.youtube.com/watch?v=P3nyLRPMBTw) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** TSM · NVDA · 投研流程 · 价值投资
-> ### 结论
+**Topics** TSM · NVDA · 投研流程 · 价值投资
+> ### Conclusion
 >
 > 永庆将买方深度投研拆解为可重复 SOP——先认清资金、生意与市场，再谈标的。点子漏斗从根据地覆盖、筛选、约 150 万字公开资料整理、360 度调研到纪律跟踪；AI 可加速草稿但 PR 垃圾进仍垃圾出。追求三年资金 10–15% 回报者：观望 TSM、NVDA 作 AI 链「简单体」样板，按流程定仓位而非单季运气。
 
 ---
 
-## 背景
+## Background
 
 > 投资实战派第 188 期（2026 年 6 月 21 日）为吴晓波频道直播回放，永庆讲授如何做深度投研——流程、要点与信息源。好投资需自知资金属性、理解企业与市场；完整买方 SOP 含点子获取（根据地、瓶颈链、抄作业 13F、同行交流）、快速筛选、深度覆盖模块（产业史、单位经济、管理层、竞争格局、财务、市场估值）、调研验证与持续跟踪。强调：规则化决策胜过听一条 headline 买彩票；输入干净时 AI 可完成约七成准备。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 三透镜框架：资金属性（三年以上、目标约 10–15%）、生意质量（成长/高质量均衡/深度价值三类，本期偏高质量）、市场语境（板块轮动与估值 regime）。投研 SOP：点子→筛选→深度覆盖→调研验证→跟踪异常——如打游戏先开地图再开战。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *自知 × 生意 × 市场 × SOP 纪律*
+## Mental Model · *自知 × 生意 × 市场 × SOP 纪律*
 
-> **构成**
+> **Components**
 >
 > 优势非随机 tip——是流程：绘制产业地图、明确为何能赢、只跟踪移动论点之事。上升链中的 dominant 简单体胜过多数资金的 heroic 十倍股。框架外因运气加仓是账户失血主因。
 >
-> **应用**
+> **Application**
 >
 > 台积电（TSM）：观望作 AI 链简单体——瓶颈扩散与基金经理 clustering 信号持久 relevance；SOP 过关后再定仓。英伟达（NVDA）：观望作算力第一环 landlord——全流程覆盖后再把单季 momentum 当论点验证。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 流程胜过彩票，即使一次运气赚钱。
 >
-> **问** 为何单季好财报买入危险？
+> **Q** 为何单季好财报买入危险？
 >
-> **答** 永庆称无 prior 地图时单季 strong print 仍是赌——可能赚但 workflow 错。机构记录点子来源、筛选理由与覆盖结论，避免 +30% 后无框架加码。
+> **A** 永庆称无 prior 地图时单季 strong print 仍是赌——可能赚但 workflow 错。机构记录点子来源、筛选理由与覆盖结论，避免 +30% 后无框架加码。
 
 > **2.** 简单体优先；难题可选。
 >
-> **问** 散户如何应对 AI 半导体？
+> **Q** 散户如何应对 AI 半导体？
 >
-> **答** 芯片周期里 NVDA/ASML/TSM 在存储成 HBM 难题前是「简单体」。精通一两家全流程——理想约 10 倍 PE、10% 增长、5% 股息——好过二十个不懂的 5% 仓位。
+> **A** 芯片周期里 NVDA/ASML/TSM 在存储成 HBM 难题前是「简单体」。精通一两家全流程——理想约 10 倍 PE、10% 增长、5% 股息——好过二十个不懂的 5% 仓位。
 
 > **3.** AI 是研究助手，非研究替代。
 >
-> **问** AI 如何嵌入 SOP？
+> **Q** AI 如何嵌入 SOP？
 >
-> **答** 喂 primary source（非 PR）时模型可达约 75–85 分财务框架与阅读计划。建 curated 资料库、模拟投资大师问题集，人类负责实地校验与 edge 识别。
+> **A** 喂 primary source（非 PR）时模型可达约 75–85 分财务框架与阅读计划。建 curated 资料库、模拟投资大师问题集，人类负责实地校验与 edge 识别。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. TSM** · 🟢 LONG · ●●○ Medium
 >
@@ -83,17 +83,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「投资的过程特别像打游戏开地图」
+> "投资的过程特别像打游戏开地图"
 
-> 「你如果基于只是单季度数据很好你就买了其实赔钱概率比较高」
+> "你如果基于只是单季度数据很好你就买了其实赔钱概率比较高"
 
-> 「把简单体做明白就已经很厉害了」
+> "把简单体做明白就已经很厉害了"
 
 ---
 
-## 时间线
+## Chronology
 
 > *永庆 · 深度投研 SOP*
 >
@@ -110,9 +110,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 永庆 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=P3nyLRPMBTw)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 永庆. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=P3nyLRPMBTw) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

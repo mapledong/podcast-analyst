@@ -4,28 +4,28 @@
 
 **★★★★★** · 5/5
 
-**播客** 投资实战派 · **日期** 2026年5月24日 · **时长** 108 分钟 · **阅读** ≈4 分钟
+**Podcast** 投资实战派 · **Date** May 24, 2026 · **Duration** 108 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 李宗海、齐长松 · 科济药业CEO、临床专家
+**Guest** 李宗海、齐长松 · 科济药业CEO、临床专家
 
-**收听** [YouTube](https://www.youtube.com/watch?v=YGy8A_KWWNM) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen** [YouTube](https://www.youtube.com/watch?v=YGy8A_KWWNM) · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** 科济药业（2171.HK） · CAR-T · 创新药
-> ### 结论
+**Topics** CARsgen (2171.HK) · CAR-T · 创新药
+> ### Conclusion
 >
 > 大卫与科济药业 CEO 李宗海、肿瘤专家齐长松的 CAR-T 深谈显示：疗效已证但经济学受产能约束——年产约一千至二千剂仅覆盖极少数六位数晚期需求，由医生而非价格 alone 配置稀缺位次。投资者须将产能爬坡、患者筛选生物标志物与 NRDL 报销一并建模；科济药业（2171.HK）是对制造规模化与支付可及的赌注，非仅科学头条。
 
 ---
 
-## 背景
+## Background
 
 > 108 分钟投资实战派节目中，大卫启动创新疗法系列，科学家与临床医生对谈。李、齐解释 CAR-T 机制、适应症选择与真实世界分诊。产能主导：成功晚期淋巴瘤项目年产仅约一千至二千剂，对比六位数适用人群——供需失衡迫使医生按体能状态、肿瘤负荷与抗原表达筛选最高获益患者。医保与国家谈判仍是大规模可及性门槛。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** CAR-T 生产规模：李框定当前单项目年产约一千至二千剂——远低于晚期淋巴瘤/骨髓瘤患者池（中国保守六位数 incidence）。稀缺配给先于价格辩论——临床优先体能好、肿瘤负荷低、靶点抗原表达强者。
 
@@ -36,44 +36,44 @@
 
 ---
 
-## 思维模型 · *科学验证 × 产能瓶颈 × 支付闸门*
+## Mental Model · *科学验证 × 产能瓶颈 × 支付闸门*
 
-> **构成**
+> **Components**
 >
 > 疗效可真实而可及仍精英——CAR-T 是硬吞吐量上限的工厂医学。产能未 10–100 倍前由医生分诊替代市场出清。报销解锁 TAM；无报销则收入仍小众溢价。
 >
-> **应用**
+> **Application**
 >
 > 科济药业（2171.HK）：产能翻倍且 NRDL 路径可信则看多——盯每季度发货剂量与中心激活。跨国 CAR-T 龙头（礼来等）：制造与支付团队规模优势。勿按美国峰值销售模板估值中国 CAR-T——供给与支付闸门主导。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** CAR-T 稀缺配给是近期现实。
 >
-> **问** 为何由医生而非市场配置剂量？
+> **Q** 为何由医生而非市场配置剂量？
 >
-> **答** 年产约 1–2 千对比六位数需求时，肿瘤科医生筛选最可能获益者——体能、抗原密度、疾病节奏。高价次于空位稀缺。自动化与位次扩张前，收入随批次而非流行病学幻灯片增长。
+> **A** 年产约 1–2 千对比六位数需求时，肿瘤科医生筛选最可能获益者——体能、抗原密度、疾病节奏。高价次于空位稀缺。自动化与位次扩张前，收入随批次而非流行病学幻灯片增长。
 
 > **2.** 医保谈判是需求开关。
 >
-> **问** 2171.HK 如何走出小众？
+> **Q** 2171.HK 如何走出小众？
 >
-> **答** 自付支撑早期采用者；中国大规模可及需国家报销与医院路径标准化。李称正推动覆盖——投资者应为 NRDL 对话设里程碑，非仅临床 readout。报销失败则 CAR-T 仍是奢侈品，无论缓解率。
+> **A** 自付支撑早期采用者；中国大规模可及需国家报销与医院路径标准化。李称正推动覆盖——投资者应为 NRDL 对话设里程碑，非仅临床 readout。报销失败则 CAR-T 仍是奢侈品，无论缓解率。
 
 > **3.** 下一代靶点拓宽科学但收紧运营。
 >
-> **问** 如何读管线扩张？
+> **Q** 如何读管线扩张？
 >
-> **答** BCMA、GPRC5D 与实体瘤尝试扩大生物学 addressable 但每适应症增 GMP 复杂度。规模龙头靠共享制造平台复利；单资产 biotech 每适应症阶跃资本开支。跟踪单批次周期时间与失败率，非靶点数量 alone。
+> **A** BCMA、GPRC5D 与实体瘤尝试扩大生物学 addressable 但每适应症增 GMP 复杂度。规模龙头靠共享制造平台复利；单资产 biotech 每适应症阶跃资本开支。跟踪单批次周期时间与失败率，非靶点数量 alone。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
-> **1. 科济药业（2171.HK）** · 🟡 WATCH · ●●○ Medium
+> **1. CARsgen (2171.HK)** · 🟡 WATCH · ●●○ Medium
 >
 > 科济药业（2171.HK）：CAR-T 疗效已证但年产约 1–2 千剂对比巨大患者池——上行系于产能爬坡与 NRDL 报销，非科学 alone
 
@@ -83,17 +83,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「因為我們前面大幅換者仍然是在這種常為資料失敗就是我們三線或者是三線以後的換者」
+> "因為我們前面大幅換者仍然是在這種常為資料失敗就是我們三線或者是三線以後的換者"
 
-> 「這個目前在基礎領域和一些早期臨床領域的話實際上也是已經看到了非常大的一個潛力」
+> "這個目前在基礎領域和一些早期臨床領域的話實際上也是已經看到了非常大的一個潛力"
 
-> 「這種生存期的延長實際上在這些有限的換者當中還是能夠看到非常明顯的這種改善的」
+> "這種生存期的延長實際上在這些有限的換者當中還是能夠看到非常明顯的這種改善的"
 
 ---
 
-## 时间线
+## Chronology
 
 > *CAR-T · 科济药业与临床*
 >
@@ -110,9 +110,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 李宗海、齐长松 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=YGy8A_KWWNM)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 李宗海、齐长松. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=YGy8A_KWWNM) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

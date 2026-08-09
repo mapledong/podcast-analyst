@@ -2,24 +2,24 @@
 
 ## *对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”*
 
-**★★★★★** · 5/5
+**★★★★☆** · 4/5
 
-**播客** 张小珺商业访谈录 · **日期** 2026年7月28日 · **时长** 180 分钟 · **阅读** ≈4 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Jul 28, 2026 · **Duration** 180 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 游凯超 · Inferact 联合创始人 / 前首席科学家 · vLLM 核心维护者
+**Guest** 游凯超 · Inferact 联合创始人 / 前首席科学家 · vLLM 核心维护者
 
-**收听**  · [小宇宙](https://www.xiaoyuzhoufm.com/episode/6a66ed17a3fec224d5a3f744) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** Inferact · VLLM · NVDA · 开源推理
-> ### 结论
+**Topics** Inferact · VLLM · NVDA · 开源推理
+> ### Conclusion
 >
 > 游凯超把 vLLM 从伯克利校园开源项目讲成三年叙事：PagedAttention 论文 → 开源社区 → Inferact（vLLM 核心团队公司）年初 1.5 亿美元种子轮、估值约 8 亿美元。维护者放弃大量个人诱惑，坚持开源；说服加盟的话术是——若项目失败会后悔一辈子。技术主线是模型×硬件×推理引擎的联合设计（co-design）：在模型结构与加速器快速迭代时，开源推理引擎是屏蔽复杂性、让服务可复现的底座。商业化与社区情怀的张力贯穿全场。
 
 ---
 
-## 背景
+## Background
 
 > 张小珺用约三小时访谈 Inferact 联合创始人、前首席科学家游凯超——清华背景，vLLM 核心维护者之一。公司由 Simon Mo、Woosuk Kwon、Kaichao You、Roger Wang 及伯克利系 Ion Stoica 等共同创立，使命是把 vLLM 做成世界级 AI 推理引擎、让推理更便宜更快。
 >
@@ -27,7 +27,7 @@
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** vLLM 路径：大模型推理系统（PagedAttention + continuous batching 等）从论文原型开源，在 Ion Stoica 等推动下当成重要社区项目维护；支持数百种模型架构与大量加速器，生产环境被广泛采用。游凯超主动加入，追求「意义」而非短期金钱/权力。
 
@@ -38,42 +38,42 @@
 
 ---
 
-## 思维模型 · *开源引擎底座 × 模型-硬件 Co-design × 社区公司化*
+## Mental Model · *开源引擎底座 × 模型-硬件 Co-design × 社区公司化*
 
-> **构成**
+> **Components**
 >
 > 用开源推理栈承接模型与硅的双向爆炸。把 PagedAttention 类创新做成可复现生态系统而非单篇论文。公司化融资加速，但优化与支持仍回流社区。用「后悔一辈子」筛选真正认同历史意义的维护者。
 >
-> **应用**
+> **Application**
 >
 > 推理基础设施投资区分闭源加速栈与开源引擎生态位。跟踪 vLLM/Inferact 对新型号与新加速器的 day-zero 覆盖作为采用领先指标。算力股受益于更便宜的推理扩散；专用 ASIC 叙事要问是否抽中「硬件彩票」且有软件栈承接。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 如果 vLLM 失败，会后悔一辈子。
 >
-> **问** 为何放弃诱惑坚持开源？
+> **Q** 为何放弃诱惑坚持开源？
 >
-> **答** 游凯超追求事情的历史意义；说服加盟用的是失败后悔框架。开源维护者共同特征是在物质基本保障后追精神需求，而非短期现金或头衔。
+> **A** 游凯超追求事情的历史意义；说服加盟用的是失败后悔框架。开源维护者共同特征是在物质基本保障后追精神需求，而非短期现金或头衔。
 
 > **2.** 推理引擎是模型与硬件之间的屏蔽层。
 >
-> **问** Co-design 时代 Infra 做什么？
+> **Q** Co-design 时代 Infra 做什么？
 >
-> **答** 模型结构与加速器都在变；PagedAttention、continuous batching 等把高效推理做成系统。开源引擎让用户在多样硬件上仍能跑通服务，并成为厂商联调的接口。
+> **A** 模型结构与加速器都在变；PagedAttention、continuous batching 等把高效推理做成系统。开源引擎让用户在多样硬件上仍能跑通服务，并成为厂商联调的接口。
 
 > **3.** 社区项目公司化是责任跃迁，不是背叛开源。
 >
-> **问** 1.5 亿种子轮改变什么？
+> **Q** 1.5 亿种子轮改变什么？
 >
-> **答** Inferact 用资本加速把 vLLM 做成世界级推理引擎；宣称优化回流社区、加深架构与硬件覆盖——张力在商业化节奏与社区情感之间，需持续兑现。
+> **A** Inferact 用资本加速把 vLLM 做成世界级推理引擎；宣称优化回流社区、加深架构与硬件覆盖——张力在商业化节奏与社区情感之间，需持续兑现。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. Inferact** · 🟢 LONG · ●●○ Medium
 >
@@ -85,17 +85,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「后悔一辈子」
+> "后悔一辈子"
 
-> 「开源」
+> "开源"
 
-> 「Co-design」
+> "Co-design"
 
 ---
 
-## 时间线
+## Chronology
 
 > *游凯超 · vLLM / Inferact*
 >
@@ -114,9 +114,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 游凯超 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听原节目获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 游凯超. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

@@ -4,28 +4,28 @@
 
 **★★★★☆** · 4/5
 
-**播客** 张小珺商业访谈录 · **日期** 2026年4月24日 · **时长** 217 分钟 · **阅读** ≈4 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Apr 24, 2026 · **Duration** 217 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 罗福莉 · AI 研究员
+**Guest** 罗福莉 · AI 研究员
 
-**收听** [YouTube](https://www.youtube.com/watch?v=vG1RBqn1sG4) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=vG1RBqn1sG4) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** Anthropic · GOOGL · 后训练 · OPENCLAW
-> ### 结论
+**Topics** Anthropic · GOOGL · 后训练 · OPENCLAW
+> ### Conclusion
 >
 > 前达摩/DeepSeek、现小米 MiMo 后训练负责人罗福莉认为行业进入后训练时代——首次使用 OpenClaw 在凌晨 2 点至 6 点完成真实工作，成她的转折时刻。她扁平化组织：共享 Mac Mini、群聊、不设用量 KPI。GPU 约 3:1:1 分配研究/后训练/推理。智能体框架众多但自进化智能体仍待解；后训练须有预训练世界观。投资者应关注 Anthropic 编程后训练飞轮与 Google 组织设计能否匹配推理经济学。
 
 ---
 
-## 背景
+## Background
 
 > 217 分钟节目中，张小珺对话罗福莉谈智能体时代的后训练。罗福莉曾任达摩、DeepSeek 后训练负责人，现牵头小米 MiMo。OpenClaw 时刻——首次凌晨 2 点至 6 点严肃使用智能体通宵工作——与他人 ChatGPT 时刻同类：交互震撼非单篇论文突破。她主张扁平团队：工位 Mac Mini、共享群聊、刻意不设 Token 用量 KPI。内部 GPU 约 3:1:1 分配研究、后训练、推理。智能体框架如俱乐部般 proliferate，自进化智能体仍未解。无预训练世界观的后训练会失败——基座先验决定上限。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** OpenClaw 时刻：罗福莉首次变革性智能体体验在凌晨 2–6 点——自主通宵工作非 demo 聊天。她将后训练框定为预训练规模定律平台期后的绑定时代；达摩、DeepSeek、小米 MiMo 经历提供中国实验室 RLHF、工具调用与编程智能体横截面视角。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *后训练时代 × 扁平组织 × GPU 3:1:1*
+## Mental Model · *后训练时代 × 扁平组织 × GPU 3:1:1*
 
-> **构成**
+> **Components**
 >
 > 预训练设世界观；后训练设智能体行为——规模定律边际递减后的时代切换。扁平 Mac Mini 组织无用量 KPI 扭曲地 dogfood 智能体。GPU 3:1:1 定价研究、后训练、推理一体——智能体收入升则后训练份额升。自进化智能体未解——人类反馈闭环仍护城河。
 >
-> **应用**
+> **Application**
 >
 > 私有 Anthropic：看多编程后训练飞轮与 Claude Code 真实反馈数据。Alphabet（GOOGL）：观望——须资助后训练而不饿死推理毛利；规模化扁平组织难。智能体框架创业：俱乐部多、自进化赢家少——押数据闭环非 prompt 包装。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 后训练是时代；预训练是地基。
 >
-> **问** 罗福莉框架中何者变化？
+> **Q** 罗福莉框架中何者变化？
 >
-> **答** 基座供世界观与知识；后训练供能动性——工具、编程、通宵任务。无预训练先验则 RLHF/SFT 追浅层行为。GPU 约 3:1:1 反映产品化后后训练支出升，非仅实验室论文。
+> **A** 基座供世界观与知识；后训练供能动性——工具、编程、通宵任务。无预训练先验则 RLHF/SFT 追浅层行为。GPU 约 3:1:1 反映产品化后后训练支出升，非仅实验室论文。
 
 > **2.** OpenClaw 时刻是交互震撼，如 ChatGPT。
 >
-> **问** 为何强调凌晨 2–6 点首次使用？
+> **Q** 为何强调凌晨 2–6 点首次使用？
 >
-> **答** 突破感于自主通宵工作非 benchmark 发布——与苏宇语言智能体论点同型。产品时刻滞后论文；投资者应跟踪 dogfood 时长与任务完成度非参数量。
+> **A** 突破感于自主通宵工作非 benchmark 发布——与苏宇语言智能体论点同型。产品时刻滞后论文；投资者应跟踪 dogfood 时长与任务完成度非参数量。
 
 > **3.** 自进化智能体在框架俱乐部中仍 TBD。
 >
-> **问** 风投边际在哪？
+> **Q** 风投边际在哪？
 >
-> **答** 数十智能体框架似社交俱乐部——编排无复利学习。真自进化需闭环反馈（编程修复、形式证明）。未解前，扁平组织加真实负载的后训练团队胜包装创业。
+> **A** 数十智能体框架似社交俱乐部——编排无复利学习。真自进化需闭环反馈（编程修复、形式证明）。未解前，扁平组织加真实负载的后训练团队胜包装创业。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. GOOGL** · 🟡 WATCH · ●●○ Medium
 >
@@ -83,17 +83,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「就我觉得第一个关键点是不再是算法工程师在作这个事成」
+> "就我觉得第一个关键点是不再是算法工程师在作这个事成"
 
-> 「對就比如說很多團隊會把羅斯拜克當作一個很正常的事情」
+> "對就比如說很多團隊會把羅斯拜克當作一個很正常的事情"
 
-> 「你剛才也提到一替的模型可能是未來競爭的一個路場圈」
+> "你剛才也提到一替的模型可能是未來競爭的一個路場圈"
 
 ---
 
-## 时间线
+## Chronology
 
 > *罗福莉 · 后训练时代*
 >
@@ -110,9 +110,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 罗福莉 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=vG1RBqn1sG4)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 罗福莉. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=vG1RBqn1sG4) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

@@ -4,28 +4,28 @@
 
 **★★★★☆** · 4/5
 
-**播客** 投资实战派 · **日期** 2025年7月10日 · **时长** 88 分钟 · **阅读** ≈2 分钟
+**Podcast** 投资实战派 · **Date** Jul 10, 2025 · **Duration** 88 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 大卫 · 投资实战派主理人
+**Guest** 大卫 · 投资实战派主理人
 
-**收听**  · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** 东鹏饮料（605499.SH） · 东鹏饮料 · 功能饮料 · 新消费
-> ### 结论
+**Topics** Eastroc Beverage (605499.SH) · 东鹏饮料 · 功能饮料 · 新消费
+> ### Conclusion
 >
 > 东鹏饮料（605499.SH）以逆势高成长脱颖而出——功能能量饮靠渠道深度与红牛替代定位抢份额。大卫强调供应链与经销商忠诚对汽水巨头。投资者应观望东鹏（605499.SH）量增、毛利稳定与华中华东渗透，随能量饮 TAM 扩大。
 
 ---
 
-## 背景
+## Background
 
 > 投资实战派第 133 期（2025 年 7 月 10 日）新消费系列谈东鹏——中国快速成长能量饮挑战者。框架：功能饮用户价值（提神、专注）、激进渠道返利与华南向北扩张。逆势增长意味消费降级推 value 能量对咖啡；风险是价格战与红牛商标动态。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 逆势增长：东鹏饮料（605499.SH）宏观疲软时抢份额——能量饮场景对司机与零工 resilient。竞品补贴货架时观望量与 ASP。
 
@@ -36,60 +36,60 @@
 
 ---
 
-## 思维模型 · *功能场景 × 渠道深度 × 逆势份额*
+## Mental Model · *功能场景 × 渠道深度 × 逆势份额*
 
-> **构成**
+> **Components**
 >
 > 能量饮靠占位与习惯胜非仅品牌。经销商忠诚 scale 区域。下行周期可抬 value 功能对 premium 咖啡。
 >
-> **应用**
+> **Application**
 >
 > 东鹏饮料（605499.SH）：观望北向扩张与毛利——看多论点是全国能量第二与渠道复利。库存 bloating 或返利战则减仓。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 能量饮是 resilient 场景。
 >
-> **问** 为何逆势？
+> **Q** 为何逆势？
 >
-> **答** 大卫指零工与物流从业者保持功能开支——东鹏捕获红牛替代需求，消费者从星巴克降级非从咖啡因降级。
+> **A** 大卫指零工与物流从业者保持功能开支——东鹏捕获红牛替代需求，消费者从星巴克降级非从咖啡因降级。
 
 > **2.** 渠道胜 billboard。
 >
-> **问** 真护城河是什么？
+> **Q** 真护城河是什么？
 >
-> **答** 冰柜占位与经销商利润分享——东鹏（605499.SH）增长是 route-to-market 故事；投资者应看渠道库存健康非仅卖方增长模型。
+> **A** 冰柜占位与经销商利润分享——东鹏（605499.SH）增长是 route-to-market 故事；投资者应看渠道库存健康非仅卖方增长模型。
 
 > **3.** 全国扩张是第二幕。
 >
-> **问** 何证复利对区域 fad？
+> **Q** 何证复利对区域 fad？
 >
-> **答** 传统强势区以北成功——若新省 SSSG 与量 hold 则东鹏得全国倍数；否则仍区域交易。
+> **A** 传统强势区以北成功——若新省 SSSG 与量 hold 则东鹏得全国倍数；否则仍区域交易。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
-> **1. 东鹏饮料（605499.SH）** · 🟡 WATCH · ●●○ Medium
+> **1. Eastroc Beverage (605499.SH)** · 🟡 WATCH · ●●○ Medium
 >
 > 东鹏饮料（605499.SH）：逆势能量饮增长——观望渠道渗透与扩张中毛利
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「再加上本身林董事长对于数据化的」
+> "再加上本身林董事长对于数据化的"
 
-> 「尤其这种二级公司有一些这个今久不衰的生命力的公司,」
+> "尤其这种二级公司有一些这个今久不衰的生命力的公司,"
 
-> 「然后我大概是这个比如公司一到两亿的规模投进去的,」
+> "然后我大概是这个比如公司一到两亿的规模投进去的,"
 
 ---
 
-## 时间线
+## Chronology
 
 > *大卫 · 东鹏饮料*
 >
@@ -106,9 +106,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 大卫 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听原节目获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 大卫. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

@@ -2,7 +2,7 @@
 
 ## *Strategy Director, Xinglv Intelligent (yield software + inspection)*
 
-**★★★★★** · 5/5
+**★★★★☆** · 4/5
 
 **Podcast** Practical Investments · **Date** Jul 19, 2026 · **Duration** 70 min · **Read** ≈3 min
 

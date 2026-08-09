@@ -4,28 +4,28 @@
 
 **★★★☆☆** · 3/5
 
-**播客** 张小珺商业访谈录 · **日期** 2025年7月7日 · **时长** 177 分钟 · **阅读** ≈4 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Jul 7, 2025 · **Duration** 177 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 余凯 · 地平线创始人兼CEO
+**Guest** 余凯 · 地平线创始人兼CEO
 
-**收听** [YouTube](https://www.youtube.com/watch?v=853ETjAecz4) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=853ETjAecz4) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** 地平线（9660.HK） · 地平线 · 自动驾驶芯片 · 第一性原理
-> ### 结论
+**Topics** Horizon Robotics (9660.HK) · 地平线 · 自动驾驶芯片 · 第一性原理
+> ### Conclusion
 >
 > 余凯三十年口述史将地平线框为具社会智慧的 2B 科学家创始人——在无竞争处竞争、不在悬崖边跳舞。2015 年创立时个人锚定英伟达与特斯拉，经客户优先熬过现金舆论；现中国九成以上智驾主机厂引用地平线方案。投资者应观望地平线（9660.HK）出货量与上车率随物理智能资本开支上升，非只看科学家履历。
 
 ---
 
-## 背景
+## Background
 
 > 张小珺录制余凯职业弧：慕尼黑博士、西门子、NEC 深度学习重镇、百度研究院 2B 销售模式，2015 年中国 AI 浪潮创立地平线。余凯融物理学第一性原理与社会智慧——翘课读历史美学，敲遍百度各产品门。地平线 2019 战略聚焦回答创业三问：客户是谁、痛点何、不可复制解法——按此优先级。两大信条：永远在没有竞争的地方竞争；多花精力想风险而非机会。节目是江湖（人情）非刀光剑影——长安联合开发、故意输球与客户信任经地狱级考验换来。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 三十年路径：余凯从德国经 NEC（Yann LeCun Torch 脉络）到百度研究院——2B 向搜索、广告、社区卖 ML。2015 年 7 月地平线：个人押注英伟达、特斯拉与全身心地平线；后超 102 家投资机构。科学家创业常缺客户第一——余凯经百度敲门与车企淬炼学会。
 
@@ -36,60 +36,60 @@
 
 ---
 
-## 思维模型 · *2B 共情 × 无竞争赛场 × 避崖*
+## Mental Model · *2B 共情 × 无竞争赛场 × 避崖*
 
-> **构成**
+> **Components**
 >
 > 科学家靠客户共情赢车规芯片非 2C 魅力。在白空间竞争；抄袭者到前拉宽护城河。风险优先胜英雄主义末段 pivot。第一性原理物理思维胜类比羊群。
 >
-> **应用**
+> **Application**
 >
 > 地平线（9660.HK）：观望 OEM 设计赢单管线与百万辆质量记录——9660.HK 看 2B 搭载非消费 hype。若管理层追逐通用 AI 云而放弃车规硅则低配。对比英伟达汽车收入为定价天花板。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 江湖是人情，非厮杀。
 >
-> **问** 余凯为何强调社会智慧？
+> **Q** 余凯为何强调社会智慧？
 >
-> **答** 2B 车规芯片需共情——理解长安痛点、联合驻场、甚至优雅输球。不会敲产品门的学术明星商业化失败。余凯翘课读人文滋养第一性原理商业阅读——反直觉但更接近真相。
+> **A** 2B 车规芯片需共情——理解长安痛点、联合驻场、甚至优雅输球。不会敲产品门的学术明星商业化失败。余凯翘课读人文滋养第一性原理商业阅读——反直觉但更接近真相。
 
 > **2.** 在无竞争处竞争。
 >
-> **问** 地平线战略第一行是什么？
+> **Q** 地平线战略第一行是什么？
 >
-> **答** 中国汽车智驾计算曾无本土供应商——余凯占位并在巨头本土化前加深。信条二：不到悬崖才动——2019 聚焦在现金健康时主动。投资者应将收入映射 OEM SOP 赢单非 PPT。
+> **A** 中国汽车智驾计算曾无本土供应商——余凯占位并在巨头本土化前加深。信条二：不到悬崖才动——2019 聚焦在现金健康时主动。投资者应将收入映射 OEM SOP 赢单非 PPT。
 
 > **3.** 客户一、痛点二、护城河三。
 >
-> **问** 科学家创业如何排序？
+> **Q** 科学家创业如何排序？
 >
-> **答** 多数 AI 创业未点名买家就讲技术——余凯将客户清晰置于痛点与防御之上。李想 crisp 回答客户（奶爸）；地平线回答 OEM 算力。9660.HK 论点取决于九成主机厂引用能否转为持续 ASP 与毛利。
+> **A** 多数 AI 创业未点名买家就讲技术——余凯将客户清晰置于痛点与防御之上。李想 crisp 回答客户（奶爸）；地平线回答 OEM 算力。9660.HK 论点取决于九成主机厂引用能否转为持续 ASP 与毛利。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
-> **1. 地平线（9660.HK）** · 🟡 WATCH · ●●○ Medium
+> **1. Horizon Robotics (9660.HK)** · 🟡 WATCH · ●●○ Medium
 >
 > 地平线（9660.HK）：余凯三十年 2B 历程——观望中国 OEM 智驾芯片搭载与规模化质量验证随物理智能资本开支上升
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「那在五到十年我們會展開我們的機器人的整個的庫大跟開放生態」
+> "那在五到十年我們會展開我們的機器人的整個的庫大跟開放生態"
 
-> 「那麼我認為未來的機器人其實是存在無性感擴的這種可能性」
+> "那麼我認為未來的機器人其實是存在無性感擴的這種可能性"
 
-> 「因為這個世界其實主機廠它也需要的是足夠好的產品」
+> "因為這個世界其實主機廠它也需要的是足夠好的產品"
 
 ---
 
-## 时间线
+## Chronology
 
 > *余凯 · 地平线*
 >
@@ -108,9 +108,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 余凯 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=853ETjAecz4)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 余凯. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=853ETjAecz4) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

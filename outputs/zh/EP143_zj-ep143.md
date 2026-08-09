@@ -4,28 +4,28 @@
 
 **★★★★★** · 5/5
 
-**播客** 张小珺商业访谈录 · **日期** 2026年5月28日 · **时长** 86 分钟 · **阅读** ≈5 分钟
+**Podcast** 张小珺商业访谈录 · **Date** May 28, 2026 · **Duration** 86 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 何小鹏 · 小鹏汽车董事长兼 CEO
+**Guest** 何小鹏 · 小鹏汽车董事长兼 CEO
 
-**收听** [YouTube](https://www.youtube.com/watch?v=rUjaLPE3mME) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=rUjaLPE3mME) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** XPEV · 人形机器人 · 物理世界
-> ### 结论
+**Topics** XPEV · 人形机器人 · 物理世界
+> ### Conclusion
 >
 > 何小鹏传达的是资本配置重置：旧机器人栈累计「小几十个亿」（非数百亿）因无法泛化而停掉，资本集中到自评胜率约两成、但成功将重写公司边界的人形 IRON。泛人工智能含智驾与机器人，占公司 15%–20%；物理世界数据采集年刚性成本接近 10 亿以上，是大语言模型经济学不具备的硬开支。节目不是把人形机器人当确定趋势——而是要求投资者把小鹏汽车拆成汽车基本盘现金流、昂贵的期权与只有少数玩家能长期承受的物理数据壁垒来估值。
 
 ---
 
-## 背景
+## Background
 
 > 86 分钟对话中，何小鹏复盘小鹏机器人与智驾大转向。上一代机器人累计投入「小几十个亿」——他纠正「数百亿」误传——约 2025 年因机器人无法在陌生场馆泛化而关停。资本集中押注人形 IRON，自评胜率约两成但回报极高。泛人工智能覆盖智驾与机器人，占公司资源 15%–20%。物理世界数据采集单独一项年刚性成本接近 10 亿以上——比模型权重更硬的壁垒。L4 纯视觉捷径内部未达预期；GX 车型转向是产品与市场匹配的诚实调整。他将汽车基本盘现金流与机器人期权分开——投资者须独立建模。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 旧机器人路线累计「小几十个亿」（非数百亿），约 2025 年因无法泛化停掉——继续投入是沉没成本陷阱，尽管组织止损痛苦。单次物理世界训练数据量达数十到数百 TB；规模化下每项数据工作流决策可耗数千万人民币。人形成功将重新定义小鹏，超越传统车企整车厂叙事。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *止损旧栈 × 低胜率期权 × 物理世界数据壁垒*
+## Mental Model · *止损旧栈 × 低胜率期权 × 物理世界数据壁垒*
 
-> **构成**
+> **Components**
 >
 > 技术路线被证伪时，沉没成本不应绑架资本配置——旧栈「小几十个亿」买的是教训，非期权。人形是典型的两成胜率、十倍回报期权，关键绩效指标须与汽车核心分开。物理世界人工智能竞争本质是数据飞轮：真实场景采集、标注、迭代——比架构更难复制。泛人工智能占公司 15%–20%，仅当汽车现金流覆盖现金消耗才可持续。
 >
-> **应用**
+> **Application**
 >
 > 小鹏汽车（XPEV）建模：汽车核心加 15%–20% 泛人工智能现金消耗与约两成 IRON 期权。物理数据年 10 亿以上是硬约束——须靠整车毛利率与销量支撑。英伟达（NVDA）受益于训练支出，与人形赢家无关。下调 L4 线性落地预期；重视 L2+ 渗透率与 GX 交付对近端收入的贡献。对比 Tesla Optimus 与 Figure 的场景密度——制造优势不等于场景优势。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 旧栈「小几十个亿」是买教训——停掉才是理性选择。
 >
-> **问** 为何大型车企难以及时止损？
+> **Q** 为何大型车企难以及时止损？
 >
-> **答** 组织惯性、人才绑定与叙事压力使止损像公开失败。何小鹏强调 CEO 须承担短期舆论代价并重配资本——IRON 约两成胜率仍优于继续修补已证伪、已耗「小几十个亿」的旧架构。仅当整车毛利率与销量覆盖刚性数据成本时，才可持续 15%–20% 泛人工智能现金消耗。
+> **A** 组织惯性、人才绑定与叙事压力使止损像公开失败。何小鹏强调 CEO 须承担短期舆论代价并重配资本——IRON 约两成胜率仍优于继续修补已证伪、已耗「小几十个亿」的旧架构。仅当整车毛利率与销量覆盖刚性数据成本时，才可持续 15%–20% 泛人工智能现金消耗。
 
 > **2.** 物理世界数据成本是被低估的壁垒——年刚性 10 亿以上。
 >
-> **问** 为何机器人人工智能比大语言模型更烧钱？
+> **Q** 为何机器人人工智能比大语言模型更烧钱？
 >
-> **答** 文本数据充裕；物理场景需设备、合规、长尾覆盖。他将年度刚性投入定在接近 10 亿以上——投资者须单列建模。只有多场景入口且能持续现金消耗的玩家能留在牌桌。
+> **A** 文本数据充裕；物理场景需设备、合规、长尾覆盖。他将年度刚性投入定在接近 10 亿以上——投资者须单列建模。只有多场景入口且能持续现金消耗的玩家能留在牌桌。
 
 > **3.** L4 捷径思维已修正；GX 转向是产品诚实。
 >
-> **问** 对智驾投资意味着什么？
+> **Q** 对智驾投资意味着什么？
 >
-> **答** 端到端视觉非万能钥匙——监管、地图、安全冗余仍约束落地节奏。投资者应降低「20XX 年 L4 大规模商用」线性预期，更关注 L2+ 采用率、GX 交付数据与近端平均售价贡献。
+> **A** 端到端视觉非万能钥匙——监管、地图、安全冗余仍约束落地节奏。投资者应降低「20XX 年 L4 大规模商用」线性预期，更关注 L2+ 采用率、GX 交付数据与近端平均售价贡献。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. XPEV** · 🟢 LONG · ●●○ Medium
 >
@@ -83,17 +83,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「旧机器人那条路花了小几十个亿，必须停——不停才是最大的浪费。」
+> "旧机器人那条路花了小几十个亿，必须停——不停才是最大的浪费。"
 
-> 「IRON 这个项目，我自己评估胜率大概两成，但成了就是另一家公司。」
+> "IRON 这个项目，我自己评估胜率大概两成，但成了就是另一家公司。"
 
-> 「物理世界的 AI，数据才是真的贵，一年接近十个亿以上。」
+> "物理世界的 AI，数据才是真的贵，一年接近十个亿以上。"
 
 ---
 
-## 时间线
+## Chronology
 
 > *何小鹏 · 机器人与智驾转向*
 >
@@ -110,9 +110,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 何小鹏 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=rUjaLPE3mME)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 何小鹏. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=rUjaLPE3mME) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

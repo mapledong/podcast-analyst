@@ -4,28 +4,28 @@
 
 **★★★☆☆** · 3/5
 
-**播客** 张小珺商业访谈录 · **日期** 2025年3月16日 · **时长** 120 分钟 · **阅读** ≈4 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Mar 16, 2025 · **Duration** 120 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 郎咸朋 · 理想汽车智能驾驶负责人
+**Guest** 郎咸朋 · 理想汽车智能驾驶负责人
 
-**收听** [YouTube](https://www.youtube.com/watch?v=qtugoE1xQZk) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=qtugoE1xQZk) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** TSLA · 自动驾驶 · 端到端 · 纯视觉
-> ### 结论
+**Topics** TSLA · 自动驾驶 · 端到端 · 纯视觉
+> ### Conclusion
 >
 > 郎咸朋十年回顾称特斯拉最早最准喊出纯视觉、弃高精地图——行业在激光雷达加轨道隐喻上浪费数年。端到端与生成式融合取代后处理拼接；算力不足时特斯拉自研芯片。投资者应观望特斯拉（TSLA）FSD 里程与芯片节奏作为中国团队追赶的基准，非 legacy 激光雷达地图栈。
 
 ---
 
-## 背景
+## Background
 
 > 理想汽车副总裁郎咸朋（2024 年 12 月录制）梳理中国自动驾驶从 2014–15 年百度激光雷达加高精地图「虚拟轨道」经 BEV（2018）至今日端到端浪潮。高精地图在日均变动的 970 万公里普通道路上无法扩展；特斯拉纯视觉立场曾遭嘲笑现被验证。郎咸朋引特斯拉端到端哲学——在统一画布融合相机特征再反投物体保一致性，对比逐相机检测拼接。30 TOPS 英伟达芯片跑不动视频网络后自研 FSD 芯片，现数百 TOPS。谈话是技术科普：规则→感知栈→BEV→端到端→世界模型。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 2014 轨道隐喻已死：早期 AV 想象虚拟轨道加 360° 激光雷达如地铁——仅高速公路 30 万公里可行，非中国 970 万公里普通道路与日更施工。高精地图刷新经济学扼杀该路径；特斯拉 2018 纯视觉宣言正确且超前，多数 incumbent 无法 pivot 沉没激光雷达投入。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *纯视觉 × 端到端融合 × 硅协同*
+## Mental Model · *纯视觉 × 端到端融合 × 硅协同*
 
-> **构成**
+> **Components**
 >
 > 高精地图无法扩展至动态路网。统一 BEV 融合胜逐相机拼接——对象是 consistency 非补丁。GPU 不够则垂直整合硅——自动驾驶算力绑定。
 >
-> **应用**
+> **Application**
 >
 > 特斯拉（TSLA）：观望 FSD 收入确认与每干预里程趋势——设定全球 AD 期权估值天花板。中国 OEM AD 赌注为衍生；仍卖激光雷达地图拐杖作主栈的供应商低配。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 特斯拉最先看见纯视觉。
 >
-> **问** 郎咸朋为何抬高特斯拉 2018 判断？
+> **Q** 郎咸朋为何抬高特斯拉 2018 判断？
 >
-> **答** 行业大脑 wired 于激光雷达轨道——特斯拉在看似荒谬时喊不要高精地图、不要激光雷达、纯视觉。郎咸朋将同行分为不信者、信但转不了身者、故意者。最先正确且超前胜在死架构上 incremental 修补。
+> **A** 行业大脑 wired 于激光雷达轨道——特斯拉在看似荒谬时喊不要高精地图、不要激光雷达、纯视觉。郎咸朋将同行分为不信者、信但转不了身者、故意者。最先正确且超前胜在死架构上 incremental 修补。
 
 > **2.** 端到端胜后融合补丁。
 >
-> **问** 特斯拉 BEV 洞察是什么？
+> **Q** 特斯拉 BEV 洞察是什么？
 >
-> **答** 在一张画布拼接相机特征、整体检测、反投——物体保持一致，对比合并逐相机局部框。郎咸朋类比偏好生成式修复胜 LLM 幻觉打地鼠。架构选择重于 transformer 细节。
+> **A** 在一张画布拼接相机特征、整体检测、反投——物体保持一致，对比合并逐相机局部框。郎咸朋类比偏好生成式修复胜 LLM 幻觉打地鼠。架构选择重于 transformer 细节。
 
 > **3.** 硅跟随算法饥渴。
 >
-> **问** 特斯拉为何造 FSD 芯片？
+> **Q** 特斯拉为何造 FSD 芯片？
 >
-> **答** 视频网络超 30 TOPS 英伟达部件——特斯拉垂直整合至 72+ TOPS 代际。郎咸朋十年叙事将算力波（2013 DL 复兴）与传感器定律绑：相机与算法进步时激光雷达拐杖 ROI 失守。
+> **A** 视频网络超 30 TOPS 英伟达部件——特斯拉垂直整合至 72+ TOPS 代际。郎咸朋十年叙事将算力波（2013 DL 复兴）与传感器定律绑：相机与算法进步时激光雷达拐杖 ROI 失守。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. TSLA** · 🟡 WATCH · ●●○ Medium
 >
@@ -79,17 +79,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「而不是说我来我来去用一些地位的层次来安抚你什么的」
+> "而不是说我来我来去用一些地位的层次来安抚你什么的"
 
-> 「就是你导航是我们开车一个非常重要的这样一个方式」
+> "就是你导航是我们开车一个非常重要的这样一个方式"
 
-> 「我们也不是说把所有的客户题到最后让你全背一遍」
+> "我们也不是说把所有的客户题到最后让你全背一遍"
 
 ---
 
-## 时间线
+## Chronology
 
 > *郎咸朋 · 自动驾驶十年*
 >
@@ -106,9 +106,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 郎咸朋 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=qtugoE1xQZk)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 郎咸朋. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=qtugoE1xQZk) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

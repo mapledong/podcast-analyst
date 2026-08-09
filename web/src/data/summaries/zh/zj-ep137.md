@@ -4,28 +4,28 @@
 
 **★★★☆☆** · 3/5
 
-**播客** 张小珺商业访谈录 · **日期** 2026年4月20日 · **时长** 264 分钟 · **阅读** ≈4 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Apr 20, 2026 · **Duration** 264 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 洪乐潼 · AI for Math 研究者
+**Guest** 洪乐潼 · AI for Math 研究者
 
-**收听** [YouTube](https://www.youtube.com/watch?v=bv8ghyTFF9w) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=bv8ghyTFF9w) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** Action · GOOGL · AI · 形式化证明
-> ### 结论
+**Topics** Action · GOOGL · AI · 形式化证明
+> ### Conclusion
 >
 > 洪乐桐认为 AI 数学进入工业化：Action 完成 16 亿美元 A 轮，产品化 Lean 形式化证明流程——起草大纲、形式化、证明或留 sorry——将研究数学变为可验证流水线。数学是结构语言非 trivia；有界注意力优于无限上下文。2020 年 graphs-catch-and-proof 论文与 B Capital 融资信号风投信念，俄亥俄州立教授加盟。投资者应视 Action 为定理证明 Harness 标的；若形式化数学成模型能力层，Google 受益。
 
 ---
 
-## 背景
+## Background
 
 > 264 分钟节目中，张小珺对话洪乐桐谈 AI 数学。其公司 Action 完成 16 亿美元 A 轮，工业化 Lean 形式化证明：研究者起草大纲、Lean 形式化陈述、完成证明或标记 sorry。她对比自由注意力（模型漫游）与有界注意力（结构化证明步骤）——数学是结构语言非计算技巧。2020 年 graphs-catch-and-proof 论文锚定技术路径。B Capital 参与融资；俄亥俄州立教授离职加盟。论点：形式验证解锁可信 AI 推理，超越数学奥林匹克 benchmark。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** Action 16 亿美元 A 轮：洪乐桐公司完成 16 亿美元 A 轮产品化 Lean 形式化证明——流程为起草大纲→Lean 形式化→证明或留 sorry。B Capital 参投；俄亥俄州立教授离职加盟。规模信号风投视定理证明为基础设施非小众 demo。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *形式化证明流水线 × 有界注意力 × 结构数学*
+## Mental Model · *形式化证明流水线 × 有界注意力 × 结构数学*
 
-> **构成**
+> **Components**
 >
 > Lean 工作流（大纲→形式化→证明/sorry）将数学变为工厂可验证产出——信任胜过 benchmark 分数。每子目标有界注意力优于无限上下文求可靠。数学作结构语言联结代码验证与科学推理——16 亿美元 A 轮定价基础设施非奥赛奖牌。
 >
-> **应用**
+> **Application**
 >
 > 私有 Action：关注研究者与编程智能体栈中 Lean Harness 采用——16 亿美元轮抬高执行门槛。Alphabet（GOOGL）：Gemini 中形式推理可差异化科学与代码路径。勿仅按 trivia benchmark 估 AI 数学；按验证吞吐量与 sorry 率下降定价。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 形式化证明是产品，非 benchmark 数学。
 >
-> **问** Action 16 亿美元轮实际买什么？
+> **Q** Action 16 亿美元轮实际买什么？
 >
-> **答** 工业化 Lean 流水线——大纲、形式化、证明或 sorry——使数学机器可检。洪工作流瞄准研究级证明非奥赛噱头。验证吞吐量与 sorry 削减是 KPI；资本资助工程师-研究员团队（含前 OSU 教职员）闭环。
+> **A** 工业化 Lean 流水线——大纲、形式化、证明或 sorry——使数学机器可检。洪工作流瞄准研究级证明非奥赛噱头。验证吞吐量与 sorry 削减是 KPI；资本资助工程师-研究员团队（含前 OSU 教职员）闭环。
 
 > **2.** 有界注意力胜过上下文军备竞赛。
 >
-> **问** 洪乐桐为何强调注意力结构？
+> **Q** 洪乐桐为何强调注意力结构？
 >
-> **答** 自由注意力使模型漫游；证明步骤需紧子目标范围——每项 Lean 义务有界。数学作结构语言意味可靠来自形式系统非更长 prompt。平行于编程智能体 Harness 设计：编排胜过裸 Token。
+> **A** 自由注意力使模型漫游；证明步骤需紧子目标范围——每项 Lean 义务有界。数学作结构语言意味可靠来自形式系统非更长 prompt。平行于编程智能体 Harness 设计：编排胜过裸 Token。
 
 > **3.** AI 数学与编程 AGI 收敛。
 >
-> **问** 公募投资者如何连点？
+> **Q** 公募投资者如何连点？
 >
-> **答** 定理证明与程序验证共享 Lean 类形式栈——Action 融资验证 chat 外基础设施需求。GOOGL 与前沿实验室或整合形式推理；研究者采用则 Action 捕获垂直工作流。盯 sorry 率与证明吞吐量，非 leaderboard 奖牌。
+> **A** 定理证明与程序验证共享 Lean 类形式栈——Action 融资验证 chat 外基础设施需求。GOOGL 与前沿实验室或整合形式推理；研究者采用则 Action 捕获垂直工作流。盯 sorry 率与证明吞吐量，非 leaderboard 奖牌。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. GOOGL** · 🟡 WATCH · ●●○ Medium
 >
@@ -83,17 +83,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「数学是结构语言——不是 trivia，是可机器检验的逻辑。」
+> "数学是结构语言——不是 trivia，是可机器检验的逻辑。"
 
-> 「起草大纲、Lean 形式化、然后证明或标 sorry——这就是流水线。」
+> "起草大纲、Lean 形式化、然后证明或标 sorry——这就是流水线。"
 
-> 「每个子目标的有界注意力，胜过无限上下文自由漫游。」
+> "每个子目标的有界注意力，胜过无限上下文自由漫游。"
 
 ---
 
-## 时间线
+## Chronology
 
 > *洪乐桐 · AI 数学*
 >
@@ -110,9 +110,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 洪乐潼 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=bv8ghyTFF9w)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 洪乐潼. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=bv8ghyTFF9w) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

@@ -4,28 +4,28 @@
 
 **★★★★★** · 5/5
 
-**播客** 投资实战派 · **日期** 2025年6月5日 · **时长** 108 分钟 · **阅读** ≈2 分钟
+**Podcast** 投资实战派 · **Date** Jun 5, 2025 · **Duration** 108 min · **Read** ≈1 min
 
-**主持人** 永庆 & 大卫
+**Host** 永庆 & 大卫
 
-**嘉宾** 大卫 · 投资实战派主理人
+**Guest** 大卫 · 投资实战派主理人
 
-**收听**  · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1718660227)
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1718660227)
 
-**主题** 泡泡玛特（9992.HK） · 泡泡玛特 · IP · 潮玩
-> ### 结论
+**Topics** Pop Mart (9992.HK) · 泡泡玛特 · IP · 潮玩
+> ### Conclusion
 >
 > 泡泡玛特（9992.HK）节目问美丽泡泡还是塑料茅台——IP 飞轮与盲盒稀缺驱动复购；怀疑者见无 Spirit 深度的 fad SKU。大卫以 IP 更新率与海外同店框复利对泡沫。投资者应观望泡泡玛特（9992.HK）Labubu 级管线与国际店效，非仅中国商场 hype。
 
 ---
 
-## 背景
+## Background
 
 > 投资实战派第 125 期（2025 年 6 月 5 日）新消费系列深度聊泡泡玛特——中国消费上市中独特的 IP 收藏纯标的。大卫将情感溢价比茅台仪式与塑料商品化风险。Labubu 全球破圈考验泡泡玛特是平台还是一次性吉祥物工厂。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** IP 复利考验：泡泡玛特（9992.HK）需 recurring 角色命中——观望新 IP 成功率与艺术家管线非仅盲盒收入。Labubu 证全球口味；下一 IP 验证平台论点。
 
@@ -36,60 +36,60 @@
 
 ---
 
-## 思维模型 · *IP 更新率 × 盲盒稀缺 × 海外 SSSG*
+## Mental Model · *IP 更新率 × 盲盒稀缺 × 海外 SSSG*
 
-> **构成**
+> **Components**
 >
 > 复利需管线深度非单一吉祥物。盲盒 gamify 分发。全球 SSSG 证 IP 超中国 fad。
 >
-> **应用**
+> **Application**
 >
 > 泡泡玛特（9992.HK）：观望 Labubu 后 IP 节奏与海外店效——看多论点是全球收藏平台。SKU 泛滥无角色故事则减仓。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** IP 管线枯竭则美丽泡泡。
 >
-> **问** 主持如何分多空？
+> **Q** 主持如何分多空？
 >
-> **答** 大卫问泡泡玛特是 Disney 式更新还是塑料 fad——泡泡玛特（9992.HK）多头需第二、第三个全球 IP 胜非 Labubu 外推。
+> **A** 大卫问泡泡玛特是 Disney 式更新还是塑料 fad——泡泡玛特（9992.HK）多头需第二、第三个全球 IP 胜非 Labubu 外推。
 
 > **2.** 塑料茅台是稀缺经济学。
 >
-> **问** 为何比茅台？
+> **Q** 为何比茅台？
 >
-> **答** 二者卖仪式与稀缺——茅台喝、泡泡玛特摆。可投资差异是 IP 须更快更新；季度跟命中率。
+> **A** 二者卖仪式与稀缺——茅台喝、泡泡玛特摆。可投资差异是 IP 须更快更新；季度跟命中率。
 
 > **3.** 海外证全球化。
 >
-> **问** 现最关键指标？
+> **Q** 现最关键指标？
 >
-> **答** 国际同店与本地发售——若海外复购 hold 则 9992.HK 配平台倍数；若仅游客则回归 fad 倍数。
+> **A** 国际同店与本地发售——若海外复购 hold 则 9992.HK 配平台倍数；若仅游客则回归 fad 倍数。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
-> **1. 泡泡玛特（9992.HK）** · 🟡 WATCH · ●●○ Medium
+> **1. Pop Mart (9992.HK)** · 🟡 WATCH · ●●○ Medium
 >
 > 泡泡玛特（9992.HK）：泡泡对塑料茅台辩论——观望 IP 管线与海外 SSSG 作复利验证
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「其实我是把投资实战派作为我一开始的一个教学的这样的一个内容来进行收听的」
+> "其实我是把投资实战派作为我一开始的一个教学的这样的一个内容来进行收听的"
 
-> 「因为日方的这个傲慢和对中国可能企业的这个不了解和缺乏一个信任的」
+> "因为日方的这个傲慢和对中国可能企业的这个不了解和缺乏一个信任的"
 
-> 「那么泡马克是什么时候开始真正进入到这个潮玩的这个载道里面来的」
+> "那么泡马克是什么时候开始真正进入到这个潮玩的这个载道里面来的"
 
 ---
 
-## 时间线
+## Chronology
 
 > *大卫 · 泡泡玛特*
 >
@@ -106,9 +106,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 投资实战派、永庆 & 大卫 或 大卫 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听原节目获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 投资实战派, 永庆 & 大卫, or 大卫. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

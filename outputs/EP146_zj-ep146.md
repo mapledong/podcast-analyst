@@ -2,7 +2,7 @@
 
 ## *Researcher, Physical Intelligence (π) · RL / Core Papers*
 
-**★★★★★** · 5/5
+**★★★★☆** · 4/5
 
 **Podcast** Zhang Xiaojun Podcast · **Date** Jul 16, 2026 · **Duration** 228 min · **Read** ≈4 min
 

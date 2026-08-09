@@ -2,24 +2,24 @@
 
 ## *Physical Intelligence（π）研究员 · 强化学习 / 核心论文作者*
 
-**★★★★★** · 5/5
+**★★★★☆** · 4/5
 
-**播客** 张小珺商业访谈录 · **日期** 2026年7月16日 · **时长** 228 分钟 · **阅读** ≈5 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Jul 16, 2026 · **Duration** 228 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 柯丽一鸣 · Physical Intelligence（π）研究员 · 强化学习 / 核心论文作者
+**Guest** 柯丽一鸣 · Physical Intelligence（π）研究员 · 强化学习 / 核心论文作者
 
-**收听**  · [小宇宙](https://www.xiaoyuzhoufm.com/episode/6a57a05da4972c496dfc67f1) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** Physical Intelligence · 机器人学习 · VLA
-> ### 结论
+**Topics** Physical Intelligence · 机器人学习 · VLA
+> ### Conclusion
 >
 > 柯丽一鸣把 Physical Intelligence 讲成机器人赛道的「开源大脑」赌注：成立约两年、估值超 50 亿美元，π 系列（π0 能力 → π0.5 泛化 → π0.6 表现）被全球团队盯着，部分人期待它成为机器人界的 OpenAI——π0.7 在录制后才发布。节目一半是江湖族谱（斯坦福 / CMU / 华大等门派，Diffusion Policy、ACT/Aloha），一半是研究手艺：视觉、大模型、强化学习与硬件必须同桌。她个人里程碑是机器人能组装造自己；硬件更保密，软件相对可公开；中国学术密、产业飞轮偏慢。
 
 ---
 
-## 背景
+## Background
 
 > 张小珺用 228 分钟对话 Physical Intelligence（π / Pi）研究员柯丽一鸣——主攻强化学习，亦是公司核心论文作者之一。课余她写小说，访谈因此在技术细节与「江湖、门派、主角」的文化叙事之间切换。
 >
@@ -27,7 +27,7 @@
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** Physical Intelligence：成立约两年，估值超 50 亿美元，被部分业界视为机器人领域 OpenAI 候选人。开源节奏：π0=能力，π0.5=泛化，π0.6=表现（柯丽一鸣强化学习团队高参与度工作，追求方法简洁与可用表现）。π0.7 录制后发布，技术细节由主持人补在 show notes。
 
@@ -38,42 +38,42 @@
 
 ---
 
-## 思维模型 · *开源机器大脑 × 跨学科堆叠 × 自我组装里程碑*
+## Mental Model · *开源机器大脑 × 跨学科堆叠 × 自我组装里程碑*
 
-> **构成**
+> **Components**
 >
 > 用公开模型把能力→泛化→表现写成行业议程。打破机器人孤岛，把视觉、基础模型、强化学习与硬件合成一条链。用「能否做有用的事」而非「能否动」衡量进度；把自我组装视为超越单任务演示的物种延续里程碑。
 >
-> **应用**
+> **Application**
 >
 > 实体 AI 投资应区分人形皮肤叙事与大脑/基础模型公司（如 Physical Intelligence）。用 π0.x 公开论文节奏与任务表现作领先指标。中国机器人勿只数论文——要看产业耦合与真实任务数据飞轮。上市代理：算力与人形 OEM 受益于大脑解锁机队，但稀缺资产仍是可泛化操作能力。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** π 系列是公开路线图：能力、泛化、表现。
 >
-> **问** Physical Intelligence 在智力上交付什么？
+> **Q** Physical Intelligence 在智力上交付什么？
 >
-> **答** π0 立能力，π0.5 推跨任务泛化，π0.6 回答「差不多会做之后如何真正做好」——强化学习组用简洁方法抬表现。π0.7 在访谈之后。
+> **A** π0 立能力，π0.5 推跨任务泛化，π0.6 回答「差不多会做之后如何真正做好」——强化学习组用简洁方法抬表现。π0.7 在访谈之后。
 
 > **2.** 机器人需要 NLP 式端到端跃迁，并拉齐所有相邻手艺。
 >
-> **问** 为何进度慢于语言模型？
+> **Q** 为何进度慢于语言模型？
 >
-> **答** 机器人资本密集且历史上孤岛化。成功需要视觉数据实践、大模型训练经验、经典控制精度与硬件供应链同桌，而不是只靠动作算法。
+> **A** 机器人资本密集且历史上孤岛化。成功需要视觉数据实践、大模型训练经验、经典控制精度与硬件供应链同桌，而不是只靠动作算法。
 
 > **3.** 自我建造是连续性里程碑。
 >
-> **问** 她个人兴奋点是什么？
+> **Q** 她个人兴奋点是什么？
 >
-> **答** 她明确不做「只为做人形」——机器人组装造自己才像物种延续。在那之前，有用的真实世界能力仍比「能动的硬件」更稀缺。
+> **A** 她明确不做「只为做人形」——机器人组装造自己才像物种延续。在那之前，有用的真实世界能力仍比「能动的硬件」更稀缺。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. Physical Intelligence** · 🟢 LONG · ●●○ Medium
 >
@@ -85,17 +85,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「我确实一直很想做的就是机器人可以造自己」
+> "我确实一直很想做的就是机器人可以造自己"
 
-> 「第一篇是派林它的关键词应该就是能力」
+> "第一篇是派林它的关键词应该就是能力"
 
-> 「你想它做一点有意义的事很难」
+> "你想它做一点有意义的事很难"
 
 ---
 
-## 时间线
+## Chronology
 
 > *柯丽一鸣 · Physical Intelligence*
 >
@@ -114,9 +114,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 柯丽一鸣 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听原节目获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 柯丽一鸣. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

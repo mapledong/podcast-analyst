@@ -2,24 +2,24 @@
 
 ## *和蚂蚁灵波沈宇军聊：机器人原生基础模型，大脑、身体与数据*
 
-**★★★★★** · 5/5
+**★★★☆☆** · 3/5
 
-**播客** 张小珺商业访谈录 · **日期** 2026年7月22日 · **时长** 113 分钟 · **阅读** ≈4 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Jul 22, 2026 · **Duration** 113 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 沈宇军 · 蚂蚁灵波 · 首席科学家（汤晓鸥一脉）
+**Guest** 沈宇军 · 蚂蚁灵波 · 首席科学家（汤晓鸥一脉）
 
-**收听**  · [小宇宙](https://www.xiaoyuzhoufm.com/episode/6a5f79b3a3fec224d5a128cd) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** 蚂蚁灵波 · 机器人基础模型 · NVDA
-> ### 结论
+**Topics** 蚂蚁灵波 · 机器人基础模型 · NVDA
+> ### Conclusion
 >
 > 在上一集 Physical Intelligence（π）之后，张小珺转向本土「大脑优先」样本：蚂蚁集团孵化的蚂蚁灵波首席科学家沈宇军。行业反直觉——中国一批团队从机器人大脑出发再补本体；沈宇军判断当下大脑落后于身体，身体不可泛化，机器人要有自己的模型则数据必须撑得住 scale-up。VA2.0 被框成机器人原生路线（含 MoE 与因果注意力等栈），从随机初始化做控制底座；机器人的 GPT-1 moment 仍未到来，中美思路在融合中对照。
 
 ---
 
-## 背景
+## Background
 
 > 2026 年中国科技出现一批从机器人大脑出发的公司，与「海外做脑、中国做本体」的刻板印象相反。上集访谈 π 研究员柯丽一鸣；本集请蚂蚁灵波（蚂蚁孵化）手续科学家沈宇军，刚发布第二代具身/机器人基座模型，谈如何从随机初始化搭机器人底座、以及 GPT-1 moment 在哪里。
 >
@@ -27,7 +27,7 @@
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 定位：蚂蚁灵波做机器人原生基础模型（VA 系列，访谈聚焦 VA2.0），强调从随机初始化训练控制/具身底座，而非只做上层微调。相对 π 的开源大脑叙事，灵波是本土「脑优先」产业化样本，背靠蚂蚁孵化资源。
 
@@ -38,42 +38,42 @@
 
 ---
 
-## 思维模型 · *脑优先 × 身体不可泛化 × 数据撑模型*
+## Mental Model · *脑优先 × 身体不可泛化 × 数据撑模型*
 
-> **构成**
+> **Components**
 >
 > 先承认本体硬件易「能动」、大脑能力落后。用自研基座模型追求跨本体泛化，而不是换皮肤式堆硬件。数据飞轮必须匹配模型野心；原生架构（MoE/因果注意力等）是方法，scale 是胜负手。
 >
-> **应用**
+> **Application**
 >
 > 具身投资区分「人形皮肤」与「原生大脑」公司；用公开模型版本与任务泛化、而非融资叙事，对照 π 与灵波。评估中国脑优先实验室时看数据闭环能否支撑自研预训练，而非只数论文或演示视频。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** 大脑落后于身体——反直觉但决定研究议程。
 >
-> **问** 中国脑优先实验室在赌什么？
+> **Q** 中国脑优先实验室在赌什么？
 >
-> **答** 硬件能动相对容易；可泛化智能仍稀缺。从大脑出发补本体，是对「中国只会做本体」叙事的翻转，也解释为何灵波把基座模型当主产品。
+> **A** 硬件能动相对容易；可泛化智能仍稀缺。从大脑出发补本体，是对「中国只会做本体」叙事的翻转，也解释为何灵波把基座模型当主产品。
 
 > **2.** 有自己的模型，就必须有撑得住的数据。
 >
-> **问** 瓶颈是稀有演示还是数据？
+> **Q** 瓶颈是稀有演示还是数据？
 >
-> **答** 沈宇军明确：观点不变则数据必须支撑自研模型；如何把数据 scale 好，比囤稀有硬件更关键。
+> **A** 沈宇军明确：观点不变则数据必须支撑自研模型；如何把数据 scale 好，比囤稀有硬件更关键。
 
 > **3.** 机器人 GPT-1 moment 仍未定价。
 >
-> **问** VA2.0 意味着什么？
+> **Q** VA2.0 意味着什么？
 >
-> **答** 原生 MoE + 因果注意力等是通往机器人 GPT 路线的工程选择；是否已跨过可类比 GPT-1 的门槛，节目保持开放——下一跳可能是数据原生。
+> **A** 原生 MoE + 因果注意力等是通往机器人 GPT 路线的工程选择；是否已跨过可类比 GPT-1 的门槛，节目保持开放——下一跳可能是数据原生。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. 蚂蚁灵波** · 🟢 LONG · ●●○ Medium
 >
@@ -85,17 +85,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「大脑可能是目前是落后于本体的」
+> "大脑可能是目前是落后于本体的"
 
-> 「他的数据必须要支撑」
+> "他的数据必须要支撑"
 
-> 「机器人的GPT1 Moment到底在哪里」
+> "机器人的GPT1 Moment到底在哪里"
 
 ---
 
-## 时间线
+## Chronology
 
 > *沈宇军 · 蚂蚁灵波*
 >
@@ -116,9 +116,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 沈宇军 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听原节目获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 沈宇军. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

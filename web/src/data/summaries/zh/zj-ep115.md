@@ -4,28 +4,28 @@
 
 **★★★★★** · 5/5
 
-**播客** 张小珺商业访谈录 · **日期** 2025年4月19日 · **时长** 180 分钟 · **阅读** ≈3 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Apr 19, 2025 · **Duration** 180 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 姚顺雨 · OpenAI研究员（访谈时）
+**Guest** 姚顺雨 · OpenAI研究员（访谈时）
 
-**收听** [YouTube](https://www.youtube.com/watch?v=gQgKkUsx5q0) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=gQgKkUsx5q0) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** GOOGL · OpenAI · AGENT · RL
-> ### 结论
+**Topics** GOOGL · OpenAI · AGENT · RL
+> ### Conclusion
 >
 > 姚顺雨三小时 OpenAI Agent 回顾将 AI 下半场框为在环境中行动的系统——非更大聊天模型。六年 RL 与工具调用研究汇聚于超级应用编排与有界自主；多数上行留于私募 OpenAI，公开投资者经 Alphabet（GOOGL）向盛宴收税。投资者应观望 GOOGL 的 Gemini Agent 分发与 Private:OpenAI 的产品节奏作 Agent 经济学基准。
 
 ---
 
-## 背景
+## Background
 
 > 张小珺 2025 年 4 月 19 日访谈姚顺雨（录制时为 OpenAI 研究员）梳理六年 Agent 研究——从学术 RL 到 ChatGPT 工具与电脑操作 Agent。姚顺雨称 AI 上半场是语言与感知；下半场是人与系统：规划、调 API、栖居产品面的 Agent。他讨论吞噬应用边界的超级应用论、单极模型实验室对多元部署，以及环境设计重于参数量。节目为投资者衡量 Agent 资本开支对应用收入的技术哲学。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** 六年 Agent 弧：姚顺雨从 RL 基础经工具调用与多步规划追溯——OpenAI 轨迹镜像研究优先产品化。下半场 AI 指改变世界状态的系统非自动补全；超级应用隐喻是一个编排器调用多服务。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *AI 下半场 × 环境设计 × 超级应用编排*
+## Mental Model · *AI 下半场 × 环境设计 × 超级应用编排*
 
-> **构成**
+> **Components**
 >
 > 上半场：语言与感知。下半场：环境中行动的 Agent。超级应用靠编排胜非全知单模型。私募实验室握研究期权；hyperscaler 握分发租金。
 >
-> **应用**
+> **Application**
 >
 > Alphabet（GOOGL）：观望搜索、Workspace、Android 的 Agent 功能——行动层变现则房东论点成立。Private:OpenAI：观望产品发布作私募非对称基准；公开投资者难获同等入场。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** AI 下半场是环境中行动。
 >
-> **问** 聊天时代后何变？
+> **Q** 聊天时代后何变？
 >
-> **答** 姚顺雨称扩展语言解决信息；下一波是规划、用工具、持久状态的 Agent——RL 与环境设计主导。投资者应跟完成任务付费意愿非仅 token 量。
+> **A** 姚顺雨称扩展语言解决信息；下一波是规划、用工具、持久状态的 Agent——RL 与环境设计主导。投资者应跟完成任务付费意愿非仅 token 量。
 
 > **2.** 超级应用吞噬单用途 App。
 >
-> **问** Agent 如何重塑分发？
+> **Q** Agent 如何重塑分发？
 >
-> **答** 一个编排器调旅行、电商、生产力 API 压缩应用孤岛——类微信超级应用逻辑全球化。赢家握编排层或成其后的付费工具；输家是薄 UI 套壳。
+> **A** 一个编排器调旅行、电商、生产力 API 压缩应用孤岛——类微信超级应用逻辑全球化。赢家握编排层或成其后的付费工具；输家是薄 UI 套壳。
 
 > **3.** 单极研究、多元部署。
 >
-> **问** 为何并列 OpenAI 私募与 GOOGL 公开？
+> **Q** 为何并列 OpenAI 私募与 GOOGL 公开？
 >
-> **答** OpenAI 集中前沿 Agent 研究；GOOGL 等经数十亿设备部署。公开市场得分发房东、失多数私募 AGI 期权——姚顺雨弧解释 Agent 叙事如何分裂盛宴（infra）与泡沫（套壳）。
+> **A** OpenAI 集中前沿 Agent 研究；GOOGL 等经数十亿设备部署。公开市场得分发房东、失多数私募 AGI 期权——姚顺雨弧解释 Agent 叙事如何分裂盛宴（infra）与泡沫（套壳）。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. GOOGL** · 🟡 WATCH · ●●○ Medium
 >
@@ -83,17 +83,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「就是說我們應該把電腦或者互聯網作為一個環境」
+> "就是說我們應該把電腦或者互聯網作為一個環境"
 
-> 「你需要把自然語言處理和強化學習的邊界給打通」
+> "你需要把自然語言處理和強化學習的邊界給打通"
 
-> 「我從你的文章語言裡整體能讀到一種反叛精神」
+> "我從你的文章語言裡整體能讀到一種反叛精神"
 
 ---
 
-## 时间线
+## Chronology
 
 > *姚顺雨 · OpenAI Agent 研究*
 >
@@ -112,9 +112,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 姚顺雨 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=gQgKkUsx5q0)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 姚顺雨. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=gQgKkUsx5q0) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

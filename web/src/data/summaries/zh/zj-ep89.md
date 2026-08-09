@@ -4,28 +4,28 @@
 
 **★★★★☆** · 4/5
 
-**播客** 张小珺商业访谈录 · **日期** 2025年1月26日 · **时长** 85 分钟 · **阅读** ≈2 分钟
+**Podcast** 张小珺商业访谈录 · **Date** Jan 26, 2025 · **Duration** 85 min · **Read** ≈1 min
 
-**主持人** 张小珺
+**Host** 张小珺
 
-**嘉宾** 广密 · AI研究员
+**Guest** 广密 · AI研究员
 
-**收听** [YouTube](https://www.youtube.com/watch?v=0AImqp6KznY) · [小宇宙](https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+**Listen** [YouTube](https://www.youtube.com/watch?v=0AImqp6KznY) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
 
-**主题** GOOGL · DEEPSEEK-R1 · O1 · 推理
-> ### 结论
+**Topics** GOOGL · DEEPSEEK-R1 · O1 · 推理
+> ### Conclusion
 >
 > 广密逐句讲解 DeepSeek-R1、Kimi K1.5、OpenAI o1 技术报告——最优美算法最干净：思维链 RL、蒸馏与测试时算力取代纯 scaling。DeepSeek 开源压 GOOGL Gemini 定价；o1 证付费推理档。投资者应观望 GOOGL 搜索与云推理变现，R1 级模型压缩 API 毛利。
 
 ---
 
-## 背景
+## Background
 
 > 张小珺 2025 年 1 月 26 日与广密拆解 DeepSeek-R1、月之暗面 Kimi K1.5、OpenAI o1 技术报告——「最优美最干净的算法」。广密解释 GRPO、拒绝采样、长 CoT 强化学习及测试时算力为预训练后第二金矿。中国开源发布改变 Alphabet（GOOGL）与私募 OpenAI 竞争动态。
 
 ---
 
-## 关键事实
+## Key Facts
 
 > **F1** R1 机制：DeepSeek-R1 用 RL 引出推理减重度人工 CoT 标注——开源权重 disrupt API 租金。Kimi K1.5 并行长上下文推理；o1 验证推理重任务的溢价定价。
 
@@ -36,42 +36,42 @@
 
 ---
 
-## 思维模型 · *测试时算力 × 开源 R1 商品化 × 推理 ARPU*
+## Mental Model · *测试时算力 × 开源 R1 商品化 × 推理 ARPU*
 
-> **构成**
+> **Components**
 >
 > 第二金矿是推理时思考非仅预训练。开源 R1 压缩 API 价差。房东将推理 bundle 进既有 ARPU。
 >
-> **应用**
+> **Application**
 >
 > Alphabet（GOOGL）：观望 Gemini 推理档定价与搜索 AI 变现——DeepSeek-R1 级开源时守毛利。推理抬云与广告 yield 且 capex 未螺旋则看多。
 
 ---
 
 
-## 核心洞察
+## Key Insights
 
 > **1.** R1 是思考上的 RL 非仅更多数据。
 >
-> **问** DeepSeek-R1 核心技巧？
+> **Q** DeepSeek-R1 核心技巧？
 >
-> **答** 广密解释 GRPO 与奖励有效推理链的 RL——减依赖人工 CoT 标注。开源迫 GOOGL 与同行竞 $/推理 token。
+> **A** 广密解释 GRPO 与奖励有效推理链的 RL——减依赖人工 CoT 标注。开源迫 GOOGL 与同行竞 $/推理 token。
 
 > **2.** o1 证付费推理档。
 >
-> **问** 为何同集含 OpenAI o1？
+> **Q** 为何同集含 OpenAI o1？
 >
-> **答** o1 将测试时算力商业化——用户为更长思考付费。广密框架：最干净算法在推理变现；仅预训练 scale 则商品化。
+> **A** o1 将测试时算力商业化——用户为更长思考付费。广密框架：最干净算法在推理变现；仅预训练 scale 则商品化。
 
 > **3.** Kimi K1.5 缩小中国推理差距。
 >
-> **问** Kimi 在三部曲中何位？
+> **Q** Kimi 在三部曲中何位？
 >
-> **答** K1.5 示 Moonshot 在长 CoT 与多模态推理竞争——投资者勿将推理当美国独有护城河；GOOGL 全球以分发加模型竞争。
+> **A** K1.5 示 Moonshot 在长 CoT 与多模态推理竞争——投资者勿将推理当美国独有护城河；GOOGL 全球以分发加模型竞争。
 
 ---
 
-## 投资启示
+## Investment Ideas
 
 > **1. GOOGL** · 🟡 WATCH · ●●○ Medium
 >
@@ -79,17 +79,17 @@
 
 ---
 
-## 金句
+## Golden Quotes
 
-> 「去年有谷歌以及斯坦福的一些研究员提出来的方法」
+> "去年有谷歌以及斯坦福的一些研究员提出来的方法"
 
-> 「这样子我们希望说就是不管是以文字的形式丢进去」
+> "这样子我们希望说就是不管是以文字的形式丢进去"
 
-> 「然后大概是一个晚上就把早期的实验全都做完了」
+> "然后大概是一个晚上就把早期的实验全都做完了"
 
 ---
 
-## 时间线
+## Chronology
 
 > *广密 · 推理报告*
 >
@@ -108,9 +108,9 @@
 
 ---
 
-## 免责声明
+## Disclaimer
 
-- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 广密 无隶属或合作关系，仅供个人研究与学习。
-- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
-- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=0AImqp6KznY)获取完整语境。
-- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by 张小珺商业访谈录, 张小珺, or 广密. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=0AImqp6KznY) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.
