@@ -1,0 +1,115 @@
+{
+  "episode_id": "zj-ep150",
+  "podcast": "Zhang Xiaojun Podcast",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 150,
+    "title": "4 Hours with NVIDIA VP Ming-Yu Liu: Kung Fu, Cosmos 3, Open World Models, Jensen, and Not Needing to Beat Every Opponent",
+    "guest": "Ming-Yu Liu (刘洺堉)",
+    "guest_role": "Vice President of Research, NVIDIA · Cosmos / world-model lead",
+    "date": "2026-08-12",
+    "duration_minutes": 216,
+    "youtube_url": "https://www.youtube.com/watch?v=zawGTDLtWFY",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=zawGTDLtWFY",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6a7cbeb017676351c5710266"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "NVDA",
+    "Private:Cosmos",
+    "TSM"
+  ],
+  "conclusion": "NVIDIA research VP Ming-Yu Liu sits for four hours a month after Jensen's China trip: Cosmos 3 as an open world model for Physical AI, a 20-year arc inside a chip company, and Jensen's GSD label. He treats other labs as partners — you don't need to defeat opponents — and open-sources model, trainer, and some synthetic data while frontier labs close up. OpenAI's Sora-to-coding pivot is the contrast. Classmates went to MediaTek and TSMC; he wants Thor, Isaac, and Cosmos to help robot/hands work in China rather than fight every customer.",
+  "background": "Zhang's long interview with NVIDIA VP of Research Ming-Yu Liu — NCTU wireless comms in Hsinchu, then US PhD after seeing 0-to-1 work he wasn't doing in protocols. Inside NVIDIA he is described as an engineering leader more than a typical researcher. Topics: Cosmos 3, kung fu lineage (Xu Ji / Liu Yunqiao / Li Shuwen), Physical AI versus consumer video, and how a systems company does research when the product is infrastructure.",
+  "important_facts": [
+    "Cosmos 3 is NVIDIA's open world model: they open-source the model, the training framework, and part of the synthetic data, and say a better downstream model should also be open. Path ran Transfer (make sim video more real) → Reason → Cosmo-style pixel-change ≈ action-change. Personal mandate is Physical AI — chores, dangerous labor, dexterous hands he noticed more on this China trip — not competing with Sora-like consumer video.",
+    "Org contrast: frontier labs have gone closed, papers hiding the key bits. Liu: NVIDIA was a design house that needed partners, so 'take care of others' is industrial structure, not a slogan. Jensen's one-line on him is GSD. OpenAI/Anthropic-class labs productized research; NVIDIA research must serve Thor, Isaac, and developer tools. He reads OpenAI's Sora de-emphasis as a coding-agent token-volume bet (24–48h agents vs a minute of chat) — defend everywhere and strength thins.",
+    "Bio: NCTU Hsinchu wireless classmates → MediaTek/TSMC; he left for US PhD because protocol speedups felt incremental versus 0-to-1 US work. Early NVIDIA pitch was data-driven graphics (novel-in, movie-out) that traditional pipelines cannot staff. Kung fu since 18 under Xu Ji in the Li Shuwen / Cangzhou line — the same long-horizon craft metaphor as world models. 20-year quest: stay inside a massive infrastructure company and still ship open science."
+  ],
+  "mental_model": {
+    "name": "Open World Model × Partner-Not-Opponent × Physical-AI Mandate",
+    "components": "Publish weights, trainer, and some data so the Physical AI stack compounds. Refuse opponent framing because NVIDIA's original design-house P&L required customers to win. Put research behind robots/hands/sim, not a closed consumer video race. Accept that labs will pivot (Sora→coding) when token economics shift.",
+    "application": "NVDA is a Physical AI tools vendor (Thor/Isaac/Cosmos) as much as a GPU monopoly. Track whether Cosmos stays actually open when customers ship better models. TSMC/MediaTek remain the classmate industrial base. Fade 'NVIDIA must beat OpenAI at Sora' takes — Liu explicitly will not fight every front."
+  },
+  "key_insights": [
+    {
+      "view": "You don't need to defeat your opponents.",
+      "question": "Why open-source a world model inside NVIDIA?",
+      "answer": "A better model built on their work should also be open; partners, not opponents. Design-house history makes customer success the P&L."
+    },
+    {
+      "view": "Physical AI is the assigned quest.",
+      "question": "Why not chase Sora?",
+      "answer": "Hands, chores, dangerous labor, Thor/Isaac. OpenAI's coding pivot shows even labs cannot defend everywhere."
+    },
+    {
+      "view": "GSD is the internal review.",
+      "question": "What kind of researcher survives at NVIDIA?",
+      "answer": "An engineering leader who ships Cosmos inside a systems company — not a paper-only identity."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Cosmos/Thor/Isaac extend the stack into Physical AI while staying the partner layer — medium"
+    },
+    {
+      "ticker": "TSM",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Classmate industrial base and the foundry behind any Physical AI silicon NVIDIA does not keep in-house — low"
+    }
+  ],
+  "golden_quotes": [
+    "You don't need to defeat your opponents",
+    "Everything we do is open source",
+    "GSD — getting shit done."
+  ],
+  "chronology": {
+    "subject": "Ming-Yu Liu · Cosmos · Physical AI",
+    "events": [
+      {
+        "date": "age 18+",
+        "event": "Begins Chinese kung fu; later studies under Xu Ji"
+      },
+      {
+        "date": "Hsinchu years",
+        "event": "NCTU wireless; classmates to MediaTek/TSMC"
+      },
+      {
+        "date": "US PhD",
+        "event": "Leaves protocol work for 0-to-1 research"
+      },
+      {
+        "date": "NVIDIA years",
+        "event": "Joins on data-driven graphics; becomes VP of Research"
+      },
+      {
+        "date": "2024–2026",
+        "event": "World-model path: Transfer / Reason / Cosmos"
+      },
+      {
+        "date": "2026",
+        "event": "Cosmos 3 released open; Jensen China trip ~1 month before taping"
+      },
+      {
+        "date": "2026-08-12",
+        "event": "Zhang Xiaojun 4-hour interview (ep150)"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly ZJ ep150 EN captions",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/en-US/manual+zj-ep150",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "episode_id": "zj-ep150",
+  "podcast": "张小珺商业访谈录",
+  "host": "张小珺",
+  "metadata": {
+    "episode_number": 150,
+    "title": "对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手",
+    "guest": "刘洺堉",
+    "guest_role": "英伟达研究副总裁 · Cosmos / 世界模型负责人",
+    "date": "2026-08-12",
+    "duration_minutes": 216,
+    "youtube_url": "https://www.youtube.com/watch?v=zawGTDLtWFY",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=zawGTDLtWFY",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6a7cbeb017676351c5710266"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "NVDA",
+    "Private:Cosmos",
+    "TSM"
+  ],
+  "conclusion": "英伟达研究副总裁刘洺堉在黄仁勋访华约一个月后做了四小时长谈：Cosmos 3 是面向 Physical AI 的开源世界模型；他在芯片公司内部走了二十年研究，被黄仁勋标成 GSD。他不把别的实验室当对手——You don't need to defeat your opponents——并开源模型、训练框架和部分合成数据。对照是 OpenAI 从 Sora 转向 coding（兵法：无所不备则无所不寡）。同学去了联发科/台积电；他希望 Thor、Isaac、Cosmos 帮中国机器人/灵巧手，而不是和每个客户抢同一件事。",
+  "background": "张小珺长访英伟达研究副总裁刘洺堉——新竹交大无线通讯，后因觉得协议加速是增量、美国课题才是 0 到 1 而出国读博。公司内部说他更像工程负责人。话题覆盖 Cosmos 3、功夫师承（徐纪/刘云樵/李书文）、Physical AI 对消费级视频，以及基础设施公司如何做研究。",
+  "important_facts": [
+    "Cosmos 3：开源模型、训练框架和部分合成数据，并希望别人做出更好的模型也保持开源。路径是 Transfer（让仿真视频更接近真实）→ Reason → 像素变化接近动作变化。个人任务是 Physical AI——家务、危险劳动、他此行看到更多的灵巧手——而不是去打 Sora 式消费视频。",
+    "组织对照：前沿实验室近年闭源、论文藏关键。刘：英伟达早期是 design house，必须让伙伴赢，所以 take care of others 是工业结构。黄仁勋给他的评价是 GSD。OpenAI 把 Sora 资源抽向 coding agent（24–48 小时 token 对一分钟聊天）——无所不备则无所不寡。",
+    "履历：交大新竹同学去联发科/台积电；他出国是因为协议加速不够 0 到 1。加入英伟达的早期叙事是数据驱动图形（小说进、电影出）。18 岁起练功夫。二十年课题：待在巨大基础设施公司里仍然把科学开源出去。"
+  ],
+  "mental_model": {
+    "name": "开源世界模型 × 伙伴非对手 × Physical AI 任务",
+    "components": "权重、训练器和部分数据公开，让 Physical AI 栈复利。拒绝对手叙事，因为 design house 的利润表要求客户赢。研究对准机器人/手/仿真，而不是闭源消费视频竞赛。",
+    "application": "NVDA 是 Physical AI 工具商（Thor/Isaac/Cosmos），不只是 GPU 垄断。看 Cosmos 在客户做出更好模型后是否仍真开源。TSM 仍是同学那条工业底座。"
+  },
+  "key_insights": [
+    {
+      "view": "你不需要击败所有对手。",
+      "question": "为什么在英伟达里开源世界模型？",
+      "answer": "用他们的工作做出更好的模型也应该开源；伙伴不是对手。Design house 历史让客户成功变成利润表。"
+    },
+    {
+      "view": "Physical AI 才是任务。",
+      "question": "为什么不追 Sora？",
+      "answer": "手、家务、危险劳动、Thor/Isaac。OpenAI 的 coding 转向说明实验室也不能处处设防。"
+    },
+    {
+      "view": "内部评价是 GSD。",
+      "question": "什么样的研究者能在英伟达活下来？",
+      "answer": "能在系统公司里把 Cosmos 做出来的工程负责人，而不是只写论文。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Cosmos/Thor/Isaac 把栈延伸到 Physical AI，同时继续做伙伴层 — medium"
+    },
+    {
+      "ticker": "TSM",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "同学所在的代工底座，也是英伟达不自制的 Physical AI 硅所在 — low"
+    }
+  ],
+  "golden_quotes": [
+    "You don't need to defeat your opponents",
+    "Everything we do is open source",
+    "GSD — getting shit done."
+  ],
+  "chronology": {
+    "subject": "刘洺堉 · Cosmos · Physical AI",
+    "events": [
+      {
+        "date": "18岁起",
+        "event": "开始练中国功夫，后随徐纪"
+      },
+      {
+        "date": "新竹年代",
+        "event": "交大无线通讯；同学去联发科/台积电"
+      },
+      {
+        "date": "美国博士",
+        "event": "离开协议工作，转向 0 到 1 研究"
+      },
+      {
+        "date": "英伟达年代",
+        "event": "以数据驱动图形加入，做到研究副总裁"
+      },
+      {
+        "date": "2024–2026",
+        "event": "世界模型路径：Transfer / Reason / Cosmos"
+      },
+      {
+        "date": "2026",
+        "event": "Cosmos 3 开源；访谈前约一个月黄仁勋访华"
+      },
+      {
+        "date": "2026-08-12",
+        "event": "张小珺 ep150 四小时访谈"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly ZJ ep150",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/en-US/manual+zj-ep150",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

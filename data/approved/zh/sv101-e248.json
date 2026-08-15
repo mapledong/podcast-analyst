@@ -1,0 +1,107 @@
+{
+  "episode_id": "sv101-e248",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 248,
+    "title": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE",
+    "guest": "彭新宇",
+    "guest_role": "阿里巴巴集团副总裁 · 瓴羊 CEO",
+    "date": "2026-08-10",
+    "duration_minutes": 64,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+      "fireside": "https://sv101.fireside.fm/261"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "BABA",
+    "MSFT",
+    "AMZN"
+  ],
+  "conclusion": "泓君对阿里副总裁、瓴羊 CEO 彭新宇，检验 FDE 是不是换了名字的驻场。企业软件老规律——花 1 美元买软件、再花 6 美元用起来——正是巨头在抢的池子：OpenAI 成立部署公司，Anthropic 与黑石/高盛 15 亿美元合资，微软 Frontier（25 亿美元、6000 工程师），亚马逊数十亿。彭的分界是交付业务结果而不是功能：催发货/缺配件投诉要走 260 多步，能盖住 95%。瓴羊卖 4+X（营销、销售、客服、运营，加上客户的数据和权限），人设按 5–10 年最佳岗位预置。",
+  "background": "上一期 FDE 节目后，评论区分成「AI 真在落地」和「20 年前的驻场换皮」。彭是阿里数据中台方法论创立者，在 FDE 这个词流行前就做了五年，帮几百家大中型企业搭数据平台，现在把瓴羊做成消费流通上的企业增长 agent。",
+  "important_facts": [
+    "开场：客户花 1 美元买软件、大约 6 美元用起来；这 6 美元解释了巨头为何冲进实施。2026 上半年：OpenAI 成立部署公司；Anthropic 与黑石、高盛 15 亿美元合资；微软 Frontier Company 25 亿美元、6000 工程师，自称超越 FDE；亚马逊投入数十亿做类似组织。OpenAI 旧金山中级 FDE 底薪 16–28 万美元，大约比传统解决方案工程师高 60%——彭说溢价来自三种能力叠在一起（AI 锐度、行业深度、数据宽度），不是改名涨薪。",
+    "FDE 对驻场：交付业务效果，不是交付功能。三条——有业务数字的问题（评测/指标）、企业数据能被 agent 调用且不泄密、岗位标杆预置（最佳客服/投手/销售，按 5–10 年水平起步）。例子：说好送电饭煲却缺配件，内部系统加京东/天猫加补件，大约 260 步，盖住 95% 以上。一家制造企业销售试点：最落后的省变成最先进，agent 把事前事中事后（路线、材料、系统回写）串起来，原来半天加晚上两小时的活被吃掉。",
+    "产品：4+X——四个预置 agent（营销、销售、客服、运营）加 X＝这家企业的数据资产、审批和资金权限。彭把世界分成「加 AI」（旧 SaaS/工具变成给 AI 用，人不用登录）和「AI 加」（在人多钱多的客服/营销/采购上重做）。行业经验仍有壁垒；十年岗位可能被压到一两年。对国内客户，他用 CSM/客户成功来翻译 FDE。"
+  ],
+  "mental_model": {
+    "name": "那 6 美元 × 结果导向 FDE × 4+X",
+    "components": "钱在实施，不在席位许可。能改 P&L 而不是保系统绿灯的人才值 FDE 溢价。把 260 步例外路径和 5–10 年岗位写进 agent，再把这家企业的数据与限额接成 X。",
+    "application": "BABA/瓴羊是中国流通上的 FDE/agent 附着，不是聊天框。微软 Frontier 和亚马逊的部署开支确认这 6 美元池子。尽调任何「FDE」公司：有没有像 260 步催发货这样的 95% 路径，还是在出租人力。"
+  },
+  "key_insights": [
+    {
+      "view": "那 6 美元才是市场。",
+      "question": "为什么 2026 上半年每家巨头都立部署组织？",
+      "answer": "软件从来不是利润表。实施才是。AI 是在抢这 6 美元，所以 OpenAI/Anthropic/微软/亚马逊都在养军队。"
+    },
+    {
+      "view": "催发货要走 260 步。",
+      "question": "中国式 FDE 和聊天机器人差在哪？",
+      "answer": "京东/天猫、配件、内部工单。盖不住 95% 这条路径，就还是驻场。"
+    },
+    {
+      "view": "卖的是 4+X，不是丢一个模型。",
+      "question": "瓴羊到底卖什么？",
+      "answer": "四个最佳岗位 agent，加上客户的数据和资金权限。没有 X，agent 上不了岗。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "BABA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "瓴羊是阿里在中国流通上的 FDE/agent 附着——260 步运营和 4+X，不是聊天 SKU — medium"
+    },
+    {
+      "ticker": "MSFT",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Frontier Company（25 亿美元、6000 人）是同一层 6 美元赌注 — low"
+    }
+  ],
+  "golden_quotes": [
+    "客戶每花1美元去買軟件",
+    "大概有260多步",
+    "以業務結果為導向"
+  ],
+  "chronology": {
+    "subject": "瓴羊 · FDE · 企业 agent",
+    "events": [
+      {
+        "date": "数据中台年代",
+        "event": "彭的方法论；几百家大中型数据平台"
+      },
+      {
+        "date": "约2021–26",
+        "event": "FDE 这个词流行前已做五年"
+      },
+      {
+        "date": "2026上半年",
+        "event": "OpenAI 部署；Anthropic 15 亿合资；微软 Frontier；亚马逊数十亿"
+      },
+      {
+        "date": "2026",
+        "event": "瓴羊 4+X；260 步催发货；制造省试点"
+      },
+      {
+        "date": "2026-08-10",
+        "event": "硅谷101 E248 访彭新宇"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly SV101 E248",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/small+sv101-e248",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

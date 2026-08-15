@@ -1,6 +1,15 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
+- id: ep486
+  episode_number: 486
+  title: Eric Vishria — Sandcastles & Silicon
+  guest: Eric Vishria
+  guest_role: General Partner, Benchmark
+  date: '2026-08-11'
+  duration_minutes: 66
+  youtube_url: https://www.youtube.com/watch?v=0e7aG_MIHlQ
+  podcast: Invest Like the Best
 - id: ep485
   episode_number: 485
   title: Gavin Baker — AI Market Jitters
@@ -472,6 +481,15 @@ episodes:
   duration_minutes: 45
   youtube_url: https://www.youtube.com/watch?v=15dCw7lxqRk
   podcast: Invest Like the Best
+- id: fnd-428-how-claude-shannon-worked
+  episode_number: 428
+  title: How Claude Shannon Worked
+  guest: null
+  guest_role: Solo biography episode (Claude Shannon / A Mind at Play)
+  date: '2026-08-09'
+  duration_minutes: 51
+  youtube_url: https://www.youtube.com/watch?v=I2nCGnoNCvk
+  podcast: Founders
 - id: ep427
   episode_number: 427
   title: The Gift and The Curse of Staying Private
@@ -1179,6 +1197,17 @@ episodes:
   duration_minutes: 47
   youtube_url: ''
   podcast: Business Breakdowns
+- id: sv101-e248
+  episode_number: 248
+  title: 'A ''Where Is My Order'' AI Has to Run 260 Steps: Alibaba Lingyang CEO Peng
+    Xinyu on Chinese FDE'
+  guest: Peng Xinyu (彭新宇)
+  guest_role: Alibaba VP · CEO of Lingyang (瓴羊)
+  date: '2026-08-10'
+  duration_minutes: 64
+  youtube_url: ''
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: bb-toast-sticky-saas
   episode_number: 247
   title: 'Toast: Sticky SaaS'
@@ -1395,6 +1424,15 @@ episodes:
   duration_minutes: 45
   youtube_url: https://www.youtube.com/watch?v=rnq6k3eswHQ
   podcast: Business Breakdowns
+- id: acq-disney-the-renaissance-and-the-empire
+  episode_number: 213
+  title: 'Disney: The Renaissance and the Empire'
+  guest: The Walt Disney Company
+  guest_role: 'Season 19 · Part 2: Renaissance to streaming empire'
+  date: '2026-08-09'
+  duration_minutes: 273
+  youtube_url: https://www.youtube.com/watch?v=01QR2tmxSD4
+  podcast: Acquired
 - id: bb-goosehead-insuring-coverage
   episode_number: 212
   title: 'Goosehead: Insuring Coverage'
@@ -1584,6 +1622,17 @@ episodes:
   duration_minutes: 217
   youtube_url: ''
   podcast: Acquired
+- id: sv101-ep199
+  episode_number: 199
+  title: 'From DeepSeek and Kimi to Jensen''s Coalition: What Model ''Open Source''
+    Actually Opens'
+  guest: Yiwen
+  guest_role: SV101 presenter · open-weight explainer
+  date: '2026-08-13'
+  duration_minutes: 45
+  youtube_url: https://www.youtube.com/watch?v=NEHcGq80GQ0
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-the-steve-ballmer-interview
   episode_number: 198
   title: The Steve Ballmer Interview
@@ -1593,6 +1642,16 @@ episodes:
   duration_minutes: 176
   youtube_url: ''
   podcast: Acquired
+- id: sv101-ep198
+  episode_number: 198
+  title: 'Cerebras: Wafer-Scale Chips, Skipping HBM, and a Near-$100B IPO'
+  guest: Andrew Feldman / Cerebras early investors
+  guest_role: Cerebras CEO and early backers (SV101 documentary)
+  date: '2026-08-11'
+  duration_minutes: 80
+  youtube_url: https://www.youtube.com/watch?v=l5K_icg5JQA
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-epic-systems-mychart
   episode_number: 197
   title: Epic Systems (MyChart)
@@ -1682,6 +1741,17 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=jXZGeF6sJOc
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: tzs-ep194
+  episode_number: 194
+  title: 'E194 Holding Amazon for a Decade-Plus: Nomad''s Strategy and Post-Mortem
+    | Global 1% Investors'
+  guest: Toby
+  guest_role: Study-group presenter on Nomad Investment (Nick & Zack)
+  date: '2026-08-09'
+  duration_minutes: 86
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a780c60000a55a9bb05109a
 - id: acq-ikea
   episode_number: 193
   title: IKEA
@@ -2551,6 +2621,17 @@ episodes:
   duration_minutes: 87
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep150
+  episode_number: 150
+  title: '4 Hours with NVIDIA VP Ming-Yu Liu: Kung Fu, Cosmos 3, Open World Models,
+    Jensen, and Not Needing to Beat Every Opponent'
+  guest: Ming-Yu Liu (刘洺堉)
+  guest_role: Vice President of Research, NVIDIA · Cosmos / world-model lead
+  date: '2026-08-12'
+  duration_minutes: 216
+  youtube_url: https://www.youtube.com/watch?v=zawGTDLtWFY
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a7cbeb017676351c5710266
 - id: acq-nvidia-the-machine-learning-company-2006-2022
   episode_number: 149
   title: 'Nvidia Part II: The Machine Learning Company (2006-2022)'

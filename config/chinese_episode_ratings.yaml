@@ -28,6 +28,7 @@ zhang-xiaojun:
     - zj-ep93   # Zhang Qianchuan AGI warning
     - zj-ep89   # DeepSeek-R1/Kimi/o1 report
     - zj-ep88   # Wu Yi Operator — physical-world agent
+    - zj-ep150  # 4hr NVIDIA VP Ming-Yu Liu / Cosmos 3 — rare access, not a 5★ landmark
   # Recent zj-ep149/147 and older batches default 3★ unless listed
 
 touzi-shizhanpai:

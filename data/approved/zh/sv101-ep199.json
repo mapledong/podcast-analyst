@@ -1,0 +1,116 @@
+{
+  "episode_id": "sv101-ep199",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 199,
+    "title": "从DeepSeek、Kimi到“黄仁勋联盟”：AI模型开源，到底“开”了什么？",
+    "guest": "Yiwen",
+    "guest_role": "硅谷101主讲 · 开源权重解说",
+    "date": "2026-08-13",
+    "duration_minutes": 45,
+    "youtube_url": "https://www.youtube.com/watch?v=NEHcGq80GQ0",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=NEHcGq80GQ0",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:DeepSeek",
+    "Private:Moonshot",
+    "NVDA",
+    "META"
+  ],
+  "conclusion": "硅谷101把 DeepSeek V4 Pro、Kimi K3、MiniMax H3 和更便宜的 V4 Flash 为何让美国实验室恐慌讲清楚——黄仁勋人生第一条推文，把除 Anthropic 以外的美国玩家赶进开源权重联盟。「开源」不是训练配方：多数公司只放权重、推理代码和公关式报告；DeepSeek/Kimi 连基础设施（DeepEP、FlashMLA、MoonEP、FlashKDA、AgentEnv）和 MIT 级许可证一起给了。Kimi K3 加了 1 亿月活/2000 万美元收入的品牌门槛，以及托管年收入超 2000 万美元要另签。铲子赢家是英伟达/AMD/云；Anthropic 以安全和蒸馏为由不进。",
+  "background": "一簇中国开源权重发布后的 Yiwen 解说。七段流水线、许可证分类（MIT、Apache 2.0、Modified MIT、Llama Community、Kimi K3 License），以及阿里/智谱/千问如何用免费权重当云入口。另有一期播客讨论同一争论。",
+  "important_facts": [
+    "流水线拆成七段：数据配比、架构/参数、Infra（DeepSeek DeepGEMM；Kimi FlashKDA/MoonEP）、训练、后训练、评测、发布。通常不开放的是数据配方、中途策略、内部工具链。Meta：Llama 1–3 还有技术报告，Llama 4 只剩短博客。DeepSeek V3/R1 和这一波 V4 Pro/Flash 写出 MoE、MLA、FP8，并开源 DeepEP/FlashMLA——Open Weights 的 Plus。Kimi K3 对等：详细报告加 MoonEP、FlashKDA、AgentEnv，对准通信、计算、智能体环境三个卡点。",
+    "许可证：DeepSeek 从自家协议转到 V3/R1 的 MIT。千问从自定义走到 Apache 2.0；阿里称将开放旗舰 Qwen3.8-Max 权重。智谱从 GLM-4-0414 起 MIT。Kimi K2 是 Modified MIT，K3 换成新协议——多数人仍免费，但月活超 1 亿或月收入超 2000 万美元要显著标注，做模型托管且滚动 12 个月收入超 2000 万美元必须另签。Llama Community License：月活超 7 亿要额外授权，还禁止用输出训练其他大模型。Meta 300 亿参数 Muse Glimmer 用了 Apache 2.0，并预告 Muse Spark 1.2 开放权重。",
+    "钱和政治：免费权重仍能带动 API、私有化部署和云（千问是阿里的入口）。英伟达/AMD/Baseten 在人人可部署时卖更多铲子。黄仁勋第一条推文召集美国开源权重；Altman、Pichai 发声支持；Anthropic 长文说并不主张禁止，但担心前沿权重安全，以及中国模型蒸馏美国闭源——该先管蒸馏。反对者认为这是在护闭源 API。OpenAI/Anthropic 越狱事件加上未来接近 Fable 5 的本地权重，是治理恐惧。"
+  ],
+  "mental_model": {
+    "name": "权重点不等于配方 × 许可证即护城河 × 铲子需求",
+    "components": "看有没有把 Infra 和真报告放出来，而不是看「开源」两个字。读许可证里的月活/收入触发器。钱跟到云附着和 GPU 小时。把「除 Anthropic 外的美国联盟」当成产业政策加安全叙事。",
+    "application": "中国 MIT 级权重扩散时做多铲子层（NVDA）。META 的 Apache 小模型是它是否真重开的信号。BABA/千问是云漏斗。Anthropic 的坚持在企业转向中国开源权重时是产品风险。"
+  },
+  "key_insights": [
+    {
+      "view": "开源通常只开权重，不开厨房。",
+      "question": "DeepSeek/Kimi 多给了什么？",
+      "answer": "基础设施组件和真报告（MLA、FP8、MoonEP）——Open Weights Plus——数据配方仍保密。"
+    },
+    {
+      "view": "许可证才是商业模式。",
+      "question": "谁不能白嫖？",
+      "answer": "Kimi 的 2000 万美元托管条款和 Llama 的 7 亿月活门槛防云厂商白嫖。MIT/Apache 已是中国默认。"
+    },
+    {
+      "view": "黄仁勋把除 Anthropic 外的人都赶进场。",
+      "question": "为什么组联盟？",
+      "answer": "中国开源权重大节奏让市场恐慌。Anthropic 讲安全和蒸馏；其余人怕栈被 MIT 许可的中国模型拿走。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "MIT 级权重被更多人本地部署/微调/推理就是铲子需求 — medium"
+    },
+    {
+      "ticker": "META",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Muse Glimmer 的 Apache 2.0 和预告的 Spark 权重是重开信号；Llama 社区许可曾是乌龙 — low"
+    }
+  ],
+  "golden_quotes": [
+    "中国刚刚抹平了",
+    "开放权重并不等于放弃商业化",
+    "黄仁勋亲自下场发表了人生第一条推文"
+  ],
+  "chronology": {
+    "subject": "开源权重 · DeepSeek · Kimi · 美国联盟",
+    "events": [
+      {
+        "date": "Llama 1–3",
+        "event": "Meta 仍发真正的技术报告"
+      },
+      {
+        "date": "Llama 4",
+        "event": "只剩短博客，更保守"
+      },
+      {
+        "date": "V3/R1",
+        "event": "DeepSeek MIT + Infra 震撼"
+      },
+      {
+        "date": "2025+",
+        "event": "智谱 GLM MIT；千问转 Apache 2.0"
+      },
+      {
+        "date": "2026-08",
+        "event": "V4 Pro/Flash、Kimi K3、MiniMax H3；黄仁勋第一条推文"
+      },
+      {
+        "date": "2026-08",
+        "event": "阿里称将开放 Qwen3.8-Max 权重"
+      },
+      {
+        "date": "2026-08-13",
+        "event": "硅谷101解说上线"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly SV101 open-source",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/zh/manual+sv101-ep199",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "episode_id": "sv101-ep198",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 198,
+    "title": "Cerebras: Wafer-Scale Chips, Skipping HBM, and a Near-$100B IPO",
+    "guest": "Andrew Feldman / Cerebras early investors",
+    "guest_role": "Cerebras CEO and early backers (SV101 documentary)",
+    "date": "2026-08-11",
+    "duration_minutes": 80,
+    "youtube_url": "https://www.youtube.com/watch?v=l5K_icg5JQA",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=l5K_icg5JQA",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Cerebras",
+    "NVDA",
+    "TSM"
+  ],
+  "conclusion": "SV101 traces Cerebras from a 2015 whiteboard to a May 2026 IPO that printed $55.5B raised, $311 first-day close (+68%), and a peak near $100B. The bet was a wafer-scale engine — 58× a top GPU — that skips HBM, CoWoS, and TSMC 3nm, the three scarcest AI-chip bottlenecks. Baidu's early scaling-law work (300M-param LM, later carried to OpenAI by Dario) created the demand; G42's $1B+ Condor Galaxy both scaled the company and almost killed the first listing. Inference cloud now claims >2000 tok/s versus 200–300, and Feldman will partner every hyperscaler except NVIDIA.",
+  "background": "Documentary-style episode with early investor Zhou Nan, ex-NVIDIA/Baidu researcher Greg Diamos, and product execs. Arc: SeaMicro five leave AMD after the $334M sale, hide for three years at ~$8M/month burn, ship WSE-1 in 2019, live on DOE labs, then G42, OpenAI, AWS, and the IPO.",
+  "important_facts": [
+    "2014–15 origin: Baidu Silicon Valley lab ($300M) trains a then-largest 300M-param LM in three months and writes the empirical scaling-law paper Dario later takes to OpenAI. Same year five SeaMicro/AMD engineers (Feldman, Lauterbach, James, Lie, Fricker) decide one wafer should be the chip — area ~58× the largest GPU, on-die SRAM instead of HBM hops. Yield trick: 1–1.5% spare cores plus on-chip fabric, scaled from H100's 144/132 spare-core idea to a whole wafer. 2016–mid-2019 stealth: ~$8M/month burn, ~$300M over three years, 25kW on a dinner-plate, first customers 'maybe a dozen' CS-1s.",
+    "Proof then scale: WSE-1 at Hot Chips 2019 (45k+ mm², 400k cores, 18GB on-die SRAM vs tens of MB on peer GPUs); $272M E round. DOE labs (Argonne COVID, Livermore fusion, NETL ~500× vs their supercomputer). WSE-2 (2021, 7nm, 850k cores, 2.6T transistors); CS-2 trains a 20B model on one box (2022); CHM exhibit. Series F Nov 2021 at $4B. G42 Condor Galaxy 2023: >$1B, 4 exaflops, a 6.5-ft box built in 10 days — also the customer that blew up the first IPO attempt. Gen-3 sales 'in the tens of thousands' after gen-1 teens and gen-2 ~300.",
+    "2024–26 product stack: chip → CS system → Andromeda (16× CS-2, 13.5M cores, >1 exaflop, 500kW) → Cerebras Inference (Aug 2024, OpenAI-API compatible, >2000 tok/s vs 200–300). Mar 2026 AWS: others do prefill, Cerebras does serial decode — every hyperscaler except NVIDIA. S-1 refiled Apr 17, 2026; lists May 14; IPO range $120–160, prints $200/$300/$380, closes $311 (+68%), $5.55B raised, session cap ~$100B (~25× Series C for the interviewed investor). Supply: all on TSMC 5nm including a 750MW OpenAI commitment, but they skip HBM, CoWoS, and 3nm."
+  ],
+  "mental_model": {
+    "name": "Wafer-Scale × Skip the Three Bottlenecks × Decode Specialist",
+    "components": "Put compute, memory, and fabric on one wafer so you do not buy HBM/CoWoS/3nm. Survive a three-year stealth burn with national-lab proof. Let one huge customer (G42) create scale and political risk. In the agent era, sell tokens/second via API and split prefill/decode with hyperscalers who are not NVIDIA.",
+    "application": "Treat Cerebras as an inference-speed vendor, not a CUDA replacement. TSMC 5nm allocation is the hidden share-of-market. NVDA remains the default train/prefill stack Feldman will not partner. OpenAI 750MW is both demand and concentration risk."
+  },
+  "key_insights": [
+    {
+      "view": "The hard problem was moving data, not FLOPs.",
+      "question": "Why a whole wafer?",
+      "answer": "HBM and multi-GPU hops dominate. 58× area and on-die SRAM make the transfer disappear — if you can hide ~46 defects with spare cores."
+    },
+    {
+      "view": "G42 both made and nearly unmade the IPO.",
+      "question": "What did one customer change?",
+      "answer": ">$1B Condor Galaxy turned lab science into commercial scale and then into a listing delay. Concentration is the point."
+    },
+    {
+      "view": "Partner everyone except NVIDIA.",
+      "question": "How do they live next to CUDA?",
+      "answer": "Split prefill (parallel, others' chips) and decode (serial, wafer). Sell 2000+ tok/s agents, not a training monopoly."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Cerebras",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Wafer-scale inference speed plus hyperscaler decode split; IPO showed demand, TSMC 5nm and OpenAI 750MW are the constraints — medium"
+    },
+    {
+      "ticker": "TSM",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Only foundry that can make the wafer-scale part; even a CUDA rebel still buys 5nm — medium"
+    }
+  ],
+  "golden_quotes": [
+    "当别人说“这个问题解决不了”的时候",
+    "市值一度接近千亿美元",
+    "除了英伟达"
+  ],
+  "chronology": {
+    "subject": "Cerebras · wafer-scale · IPO",
+    "events": [
+      {
+        "date": "2012",
+        "event": "AMD buys SeaMicro for $334M; five later leave"
+      },
+      {
+        "date": "2014–15",
+        "event": "Baidu 300M LM + scaling-law paper; Cerebras whiteboard"
+      },
+      {
+        "date": "2016–2019",
+        "event": "Stealth, ~$8M/month burn, ~$300M, first WSE works"
+      },
+      {
+        "date": "2019-08",
+        "event": "Hot Chips WSE-1; $272M E; unicorn"
+      },
+      {
+        "date": "2021–22",
+        "event": "WSE-2; Series F $4B; CHM exhibit; 20B-param single-box train"
+      },
+      {
+        "date": "2023",
+        "event": "G42 Condor Galaxy >$1B / 4 exaflops"
+      },
+      {
+        "date": "2024",
+        "event": "WSE-3; Inference API"
+      },
+      {
+        "date": "2026-03",
+        "event": "AWS prefill/decode split"
+      },
+      {
+        "date": "2026-05-14",
+        "event": "IPO $311 close, $5.55B raised, ~$100B peak cap"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly SV101 Cerebras",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/zh/manual+sv101-ep198",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,7 +1,25 @@
 {
   "podcast": "硅谷101",
-  "total": 196,
+  "total": 198,
   "episodes": [
+    {
+      "id": "sv101-ep199",
+      "episode_number": 199,
+      "title": "从DeepSeek、Kimi到“黄仁勋联盟”：AI模型开源，到底“开”了什么？",
+      "youtube_id": "NEHcGq80GQ0",
+      "youtube_url": "https://www.youtube.com/watch?v=NEHcGq80GQ0",
+      "is_short": false,
+      "duration_minutes_est": 45
+    },
+    {
+      "id": "sv101-ep198",
+      "episode_number": 198,
+      "title": "挑战GPU、绕过HBM，深挖史上最大芯片背后的Cerebras",
+      "youtube_id": "l5K_icg5JQA",
+      "youtube_url": "https://www.youtube.com/watch?v=l5K_icg5JQA",
+      "is_short": false,
+      "duration_minutes_est": 80
+    },
     {
       "id": "sv101-ep197",
       "episode_number": 197,

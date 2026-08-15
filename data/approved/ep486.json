@@ -1,0 +1,118 @@
+{
+  "episode_id": "ep486",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 486,
+    "title": "Eric Vishria — Sandcastles & Silicon",
+    "guest": "Eric Vishria",
+    "guest_role": "General Partner, Benchmark",
+    "date": "2026-08-11",
+    "duration_minutes": 66,
+    "youtube_url": "https://www.youtube.com/watch?v=0e7aG_MIHlQ",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0e7aG_MIHlQ",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "colossus": "https://colossus.com/episode/sandcastles-and-silicon/"
+    }
+  },
+  "episode_rating": {
+    "overall": 4
+  },
+  "keywords": [
+    "NVDA",
+    "AMZN",
+    "Private:Fireworks",
+    "SNOW"
+  ],
+  "conclusion": "Eric Vishria of Benchmark says SaaS CEOs now destroy equity by hitting last year's plan while AI resets the opportunity set daily. Fireworks taught him inference is hard: 5x speed versus AWS, Azure, and GCP on the same open-source model and NVIDIA silicon, plus hidden throughput. The 2014 call that Amazon would crush 85% margin software at 8% cloud economics was wrong — Snowflake, Databricks, and Datadog became hundred-billion names on AWS. He expects an AI oligopoly plus specialist winners, with energy the binding constraint and an unannounced CPU bet for GPU-generated code.",
+  "background": "Patrick returns to Benchmark GP Eric Vishria after Fireworks and Sierra became the firm's working telescopes on AI. The hour covers why hyperscaler inference looks slow next to a specialist, why the old AWS-kills-SaaS narrative failed, how CEOs should invert the 8-to-5 operating day, Cerebras as a cautionary compute board story, and why Hinton's 2016 radiology call still misleads unemployment forecasts.",
+  "important_facts": [
+    "Fireworks versus the big three plus neo-clouds: same stock open-source models and NVIDIA hardware, yet Vishria cites ~5x visible speed and a multiple-x throughput gap that only shows in unit economics — specialists pay cloud margins and still make money, so running 2–4T-parameter models efficiently is the scarce skill, not access to weights.",
+    "2014–now enterprise history is his anti-zero-sum slide: investors feared AWS would offer the same software at ~8% gross margin and erase 85% SaaS annuities. Instead Snowflake out-Amazoned Redshift on Amazon; Confluent, Elastic, Databricks, and Datadog (now a ~$100B name) grew on the same cloud. He maps a 40/30/20 hyperscaler split plus Cloudflare as another $100B specialist — and expects AI to rhyme, including 'crazy' $100B smaller winners, if energy/power/shell/chips can scale.",
+    "Operating inversion: hitting the plan is the bug. Anne Lee Skates's cut — CEOs running the old business 8 a.m.–5 p.m. and AI from 5–8 must flip it. He is dismissive of vibe-coding as the SaaS threat. Compute side: an unannounced new-CPU investment because LLMs emit code that still runs on baggage-laden x86; Cerebras 2019 board memory (chip 'melting,' ~$500M in) makes him refuse more of that category. Hinton 2016 radiology: capability was right, Jevons demand for more imaging made the job-loss call wrong — same setup he sees in unemployment takes."
+  ],
+  "mental_model": {
+    "name": "Specialist Inference × Anti-Zero-Sum Cloud × Plan Inversion",
+    "components": "Treat serving efficiency as a company, not a cloud SKU. Read AI market structure through the 2014–2024 SaaS-on-AWS surprise (oligopoly plus $100B specialists). Force CEOs to put AI in daylight hours. Fade wafer-scale science projects without customers; watch energy before 'capital ran out.'",
+    "application": "Prefer inference specialists and app layers that can out-execute hyperscalers on the same NVIDIA stack. Do not short AMZN/SNOW solely because clouds can copy features. Size NVDA as the shared substrate. Treat 'we hit plan' SaaS prints as a yellow flag if AI work is after-hours only."
+  },
+  "key_insights": [
+    {
+      "view": "Hitting the plan now destroys equity value.",
+      "question": "What should CEOs invert?",
+      "answer": "Stop treating last year's roadmap as the job. Put AI in the 8-to-5 block and run the legacy P&L after hours — the old playbook compounds the wrong business."
+    },
+    {
+      "view": "Same model, same NVIDIA, 5x gap.",
+      "question": "Why don't AWS/Azure/GCP just win inference?",
+      "answer": "Serving 2–4T-parameter models efficiently is hard. Fireworks' speed and hidden throughput show a specialist can pay cloud margins and still earn — weights are not the moat."
+    },
+    {
+      "view": "The AWS-kills-SaaS call was the tell.",
+      "question": "Why will AI have room for many winners?",
+      "answer": "Snowflake, Databricks, and Datadog grew on Amazon. Expect a hyperscaler oligopoly plus Cloudflare-class $100B specialists — zero-sum thinking undersizes the market."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Shared substrate under Fireworks and the clouds; specialist 5x gaps still run on NVIDIA silicon — medium"
+    },
+    {
+      "ticker": "AMZN",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "The 2014 crush-SaaS fear was wrong; AWS remains the platform specialists out-execute on, not a feature copier that zeros ISVs — medium"
+    },
+    {
+      "ticker": "SNOW",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Exhibit A for out-Amazoning Amazon on Amazon; AI era can rhyme if the company puts the new workload in daylight hours — low"
+    }
+  ],
+  "golden_quotes": [
+    "Every single day that you are hitting your plan, you are destroying equity value.",
+    "The performance difference for a Fireworks versus a cloud provider is like 5x.",
+    "You're out-Amazoning Amazon on Amazon."
+  ],
+  "chronology": {
+    "subject": "Benchmark · Fireworks · AI market structure",
+    "events": [
+      {
+        "date": "2014–2016",
+        "event": "Consensus fear: AWS 8% GM crushes 85% SaaS annuities"
+      },
+      {
+        "date": "2016",
+        "event": "Hinton says stop training radiologists; imaging demand later rises (Jevons)"
+      },
+      {
+        "date": "2019",
+        "event": "Cerebras board: wafer-scale chip failing/'melting' after ~$500M"
+      },
+      {
+        "date": "2024–2026",
+        "event": "Fireworks and Sierra become Benchmark's AI telescopes"
+      },
+      {
+        "date": "2026-08",
+        "event": "Unannounced new-CPU investment for GPU-emitted code"
+      },
+      {
+        "date": "2026-08-11",
+        "event": "ILTB EP.486 Sandcastles & Silicon"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly ILTB Vishria",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+ep486",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

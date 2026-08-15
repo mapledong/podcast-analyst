@@ -1,0 +1,107 @@
+{
+  "episode_id": "sv101-e248",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 248,
+    "title": "A 'Where Is My Order' AI Has to Run 260 Steps: Alibaba Lingyang CEO Peng Xinyu on Chinese FDE",
+    "guest": "Peng Xinyu (彭新宇)",
+    "guest_role": "Alibaba VP · CEO of Lingyang (瓴羊)",
+    "date": "2026-08-10",
+    "duration_minutes": 64,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+      "fireside": "https://sv101.fireside.fm/261"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "BABA",
+    "MSFT",
+    "AMZN"
+  ],
+  "conclusion": "Hongjun sits with Alibaba VP and Lingyang CEO Peng Xinyu to test whether FDE is just on-site staff with a new name. The old enterprise rule — $1 of software, $6 to make it run — is what hyperscalers are reallocating: OpenAI's deploy arm, Anthropic's $1.5B Blackstone/Goldman JV, Microsoft Frontier ($2.5B, 6,000 engineers), Amazon billions. Peng's distinction is outcome not features: a missing-part / late-ship complaint is 260+ steps and 95% of cases. Lingyang ships 4+X agents (marketing, sales, CS, ops plus the customer's data and permissions) preset at a 5–10 year 'best on the desk.'",
+  "background": "Follow-up to an earlier FDE episode after comments split between 'AI is landing' and 'this is 20-year-old resident engineering.' Peng founded Alibaba's data-middle-platform method, spent five years (before the FDE label) putting data platforms into hundreds of mid/large firms, and now runs Lingyang as an enterprise-growth agent shop for consumer circulation.",
+  "important_facts": [
+    "Hongjun's open: buyers spend $1 on software and ~$6 implementing it; that $6 is why every giant rushed 'implementation.' 1H26 tells: OpenAI stood up a deploy company; Anthropic a $1.5B JV with Blackstone and Goldman; Microsoft Frontier Company with $2.5B and 6,000 engineers, claiming to go beyond FDE; Amazon 'billions' into a similar org. OpenAI SF mid-level FDE base $160–280k, ~60% above classic solutions engineers — Peng says the premium is scarcity of three stacked skills (AI sharpness, industry depth, data breadth), not a renamed staff-aug title.",
+    "FDE versus resident ops: deliver a business result, not a feature. Three design rules — a measurable business goal (eval/metrics), enterprise data the agent can call without leaking, and a job-benchmark preset (best CS / best media buyer / best salesperson as a 5–10 year starter). The viral ops example: a customer who was promised a rice cooker and is missing a part is ~260 steps across internal systems plus JD/Tmall and extra SKUs; that path covers ≥95% of cases. A manufacturing sales pilot turned the worst province into the best after an agent stitched pre/during/post (routing, leave-behinds, CRM writeback) that used to eat half the day plus two night hours.",
+    "Product: 4+X — four preset agents (marketing, sales, CS, operations) plus X = that firm's data assets, approval limits, and capital permissions. Peng splits the world into +AI (old SaaS/tools get an AI user so humans stop logging in) and AI+ (rebuild CS/marketing/buying around where people and money already sit). Industry experience still has a barrier; the time to climb a 10-year desk may compress to 1–2 years. CSM/customer-success language is how he translates FDE for Chinese buyers."
+  ],
+  "mental_model": {
+    "name": "The $6 Layer × Outcome FDE × 4+X Agents",
+    "components": "The money is implementation, not the seat license. Staff who can change the P&L (not keep the system green) earn the FDE premium. Encode the 260-step exception path and a 5–10 year desk into an agent, then attach that firm's data and limits as X.",
+    "application": "BABA/Lingyang is a China FDE/agent attach on circulation, not a chatbot. MSFT Frontier and AMZN deploy spend confirm the $6 pool. Diligence any 'FDE' shop on whether they own a 95% path like the 260-step ship complaint or are renting bodies."
+  },
+  "key_insights": [
+    {
+      "view": "The $6 is the market.",
+      "question": "Why did every giant stand up a deploy org in 1H26?",
+      "answer": "Software was never the P&L. Implementation was. AI is a fight over that six dollars, which is why OpenAI/Anthropic/MSFT/AMZN all hired an army."
+    },
+    {
+      "view": "A late shipment is 260 steps.",
+      "question": "What makes Chinese FDE different from a chatbot?",
+      "answer": "JD/Tmall, spare parts, and internal tickets. Cover 95% of that path or you are still doing resident ops."
+    },
+    {
+      "view": "4+X, not a model drop.",
+      "question": "What does Lingyang actually sell?",
+      "answer": "Four best-on-the-desk agents plus the customer's data and money permissions. Without X the agent cannot go to work."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "BABA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Lingyang is Alibaba's FDE/agent attach on China circulation — 260-step ops and 4+X, not a chat SKU — medium"
+    },
+    {
+      "ticker": "MSFT",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Frontier Company ($2.5B, 6k engineers) is the same $6-layer bet in the US — low"
+    }
+  ],
+  "golden_quotes": [
+    "客戶每花1美元去買軟件",
+    "大概有260多步",
+    "以業務結果為導向"
+  ],
+  "chronology": {
+    "subject": "Lingyang · FDE · enterprise agents",
+    "events": [
+      {
+        "date": "data-middle-platform years",
+        "event": "Peng's methodology; hundreds of mid/large data platforms"
+      },
+      {
+        "date": "~2021–26",
+        "event": "Five years of the work before the FDE label"
+      },
+      {
+        "date": "1H 2026",
+        "event": "OpenAI deploy; Anthropic $1.5B JV; MSFT Frontier $2.5B/6k; Amazon billions"
+      },
+      {
+        "date": "2026",
+        "event": "Lingyang 4+X agents; 260-step ship/CS path; manufacturing-province pilot"
+      },
+      {
+        "date": "2026-08-10",
+        "event": "SV101 E248 with Peng Xinyu"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly SV101 E248 whisper",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper/small+sv101-e248",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
