@@ -1,0 +1,112 @@
+{
+  "episode_id": "sv101-ep200",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 200,
+    "title": "Ex-DeepMind Cao Yuan: AI for Science Is Exploding — and Verification Is the Bottleneck",
+    "guest": "Cao Yuan (曹原)",
+    "guest_role": "Former DeepMind scientist · cofounder, Unreasonable Labs AI",
+    "date": "2026-08-14",
+    "duration_minutes": 110,
+    "youtube_url": "https://www.youtube.com/watch?v=H35nVgNGyo8",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=H35nVgNGyo8",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "GOOGL",
+    "Private:OpenAI",
+    "Private:Anthropic",
+    "Private:UnreasonableLabs"
+  ],
+  "conclusion": "Chen Xi sits with ex-DeepMind scientist Cao Yuan the week Jeff Dean leaves Google with Oriol, Sanjay, and Quoc to found Discovery Loop. Cao's own Unreasonable Labs is AI for knowledge and science. The bottleneck is verification: once the model-to-experiment loop closes, iteration explodes. OpenAI Astra claimed 10 long-open math problems; Anthropic's unreleased research Claude moved a Riemann-related zero lower bound from 41.6% to 67.2%. Gemini 3.1 Pro faded versus OpenAI, Anthropic, and Chinese open models. A Nobel is 20–30 years; conceptual abstraction is AGI's last mile. Do not treat Google as dead — it still has the full stack.",
+  "background": "Presenter Chen Xi (陈茜), not Hongjun on camera. Guest left DeepMind, cofounded Unreasonable Labs AI for knowledge creation and R&D. Tape opens on Jeff Dean's first-week-of-August exit and the Gemini concentration after the Gemini project started 3–4 years ago. Topics: self-evolving science loops, AI math/physics, and whether uninterpretable proofs count.",
+  "important_facts": [
+    "Timing: Jeff Dean announced he would leave Google with other executives to start Discovery Loop, aimed at accelerating life-science and other research — recorded the day after the news. Cao reads three layers: (1) Gemini-era 'concentrate force' created internal conflict after years of separate teams; (2) last ~6 months Gemini lagged — 3.1 Pro was still respectable early 2026, then 3.5/3.6 Flash looked flat while Anthropic, OpenAI, and Chinese open models jumped, and a 3.x Pro still unpublished; (3) Dean/Oriol/Sanjay/Quoc's Discovery Loop is the natural next step after math and coding — knowledge discovery / recursive self-improvement, a new Neolab. He rejects 'Google is over': chips, infra, data, talent, and consumer distribution are still in-house.",
+    "Science scores on the tape: OpenAI Astra derived 10 math problems humans had left open a long time. An unreleased Anthropic research Claude pushed a Riemann-conjecture-related zero lower bound from 41.6% to 67.2%. Cao's bottleneck is verification — the model-to-experiment loop. Math has gone from proof-scarce to proof-surplus; a correct black-box result still needs human understanding. Conceptual abstraction is 'maybe AGI's last mile.' Nobel: at least 20–30 years. Unreasonable Labs is AI for knowledge creation, science, and R&D — same neighborhood as Discovery Loop.",
+    "Org/product: after Gemini became the max project, Google had to centralize. Catching Anthropic-style coding-agent economics is still hard. Cao wants an outer mechanism that helps models generate different ideas (not just more samples). Human role is awkward once the loop works. Exploit vs explore / value function is the research-method talk; last-mile science is still conceptual, not more tokens."
+  ],
+  "mental_model": {
+    "name": "Verification Loop × Proof Surplus × Full-Stack Google",
+    "components": "AI-for-science value is the closed loop from model to experiment. Until verification breaks, you cannot iterate. Math already over-produces proofs humans cannot digest. Score labs on hard problems (Astra's 10; Riemann 41.6→67.2), not chat Elo. Treat Dean's Discovery Loop as the same bet as Unreasonable Labs, not as Google dying. Gemini concentration explains talent exits; the company still owns chip-to-distribution. Nobel timelines are decades because conceptual abstraction is the last mile.",
+    "application": "GOOGL is a priority/org story, not a 'Dean left so fade the stack' story. OpenAI/Anthropic science models are the capability prints. Private science startups (Unreasonable Labs, Discovery Loop) are the 2026–27 formation. Do not underwrite 'AI wins a Nobel this cycle.' Fade Gemini-only product takes while 3.x Pro is missing and Flash is flat."
+  },
+  "key_insights": [
+    {
+      "view": "Verification is the science bottleneck.",
+      "question": "What has to break?",
+      "answer": "The model-to-experiment loop. Once verification works, iteration is fast. Until then, more proofs just pile up."
+    },
+    {
+      "view": "Google is not over because four people left.",
+      "question": "How should we read Dean's exit?",
+      "answer": "Gemini concentration plus a lagging 3.x line. The company still has chips, infra, data, and distribution. Discovery Loop is the next science bet, same neighborhood as Cao's startup."
+    },
+    {
+      "view": "A black-box proof is only partly meaningful.",
+      "question": "What is the last mile?",
+      "answer": "Conceptual abstraction humans can judge. Cao puts a Nobel at 20–30 years, not this product cycle."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "GOOGL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Full stack still in-house; Dean exit is Gemini priority/org, not a death print — low"
+    },
+    {
+      "ticker": "Private:UnreasonableLabs",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Same AI-for-science neighborhood as Discovery Loop; verification-loop startup, unproven — low"
+    }
+  ],
+  "golden_quotes": [
+    "最难对于AI for Science肯定是verification",
+    "我觉得至少得二三十年",
+    "概念抽象的过程我认为可能是AGI的最后的last mile"
+  ],
+  "chronology": {
+    "subject": "AI for Science · DeepMind · Discovery Loop",
+    "events": [
+      {
+        "date": "Gemini project +3–4y",
+        "event": "Google concentrates talent; internal conflict"
+      },
+      {
+        "date": "early 2026",
+        "event": "Gemini 3.1 Pro still respectable on rankings"
+      },
+      {
+        "date": "2026 H1",
+        "event": "3.5/3.6 Flash flat; 3.x Pro unpublished; OpenAI/Anthropic/China jump"
+      },
+      {
+        "date": "2026-08 week 1",
+        "event": "Jeff Dean + execs leave for Discovery Loop"
+      },
+      {
+        "date": "tape day",
+        "event": "OpenAI Astra 10 open problems; Anthropic research Claude Riemann 41.6%→67.2%"
+      },
+      {
+        "date": "2026-08-14",
+        "event": "SV101 Chen Xi × Cao Yuan posts"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly SV101 Cao Yuan",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/zh/manual+sv101-ep200",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

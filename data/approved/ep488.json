@@ -1,0 +1,107 @@
+{
+  "episode_id": "ep488",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 488,
+    "title": "Neil Movva — Making AI 10x Cheaper",
+    "guest": "Neil Movva",
+    "guest_role": "Founder, Sal Research (ex-NVIDIA kernel engineer)",
+    "date": "2026-08-25",
+    "duration_minutes": 78,
+    "youtube_url": "https://www.youtube.com/watch?v=uyzqxIoiobU",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=uyzqxIoiobU",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "colossus": "https://colossus.com/episode/from-transistor-to-token/"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "NVDA",
+    "Private:SalResearch",
+    "Private:Fireworks"
+  ],
+  "conclusion": "Neil Movva (ex-NVIDIA kernels) runs Sal Research as a 'token factory': an API whose job is the cheapest possible tokens, not low-latency Cursor-class chat. He will use every chip, every US power site, and every stack layer; 10× cheaper tokens is a new category. Background vs realtime mix ends 2026 around 50/50 and he wants 90/10 background. Fireworks/Together/Baseten optimized for Cursor latency; he wants throughput. Wafer allocation at TSMC is the gate for Etched-class ASICs. Cerebras-style SRAM/HBM tradeoffs are evaluated, not worshipped.",
+  "background": "Patrick wants a supply-side tour from transistor to token. Movva's first job was NVIDIA kernels; he hires for love of performance engineering, not years of CUDA. Theme of the company is abundance — treat intelligence as a commodity, not an expensive consultant.",
+  "important_facts": [
+    "Product: Sal Research is a token factory API for open (and customer-sovereign) models. Thesis: whenever something is 10× cheaper it is a new category. He will squeeze more tokens from the same NVIDIA GPU than anyone else, starting at kernels, then every chip/power/land lever in the US. Contrast: Baseten, Fireworks, Together chased low-latency because of Cursor; he thinks that was right a year ago and is now the wrong scarcity.",
+    "Workload mix: humans cannot consume 10× more interactive tokens; the slack is background/proactive agents. He forecasts ~50/50 background vs realtime by year-end, then 9010 in favor of background. Long-context (200k) is not the model's core strength if pretrain was 8–16k. Cybersecurity batch (Fable/Mythos-style sweep of every line of code) is the kind of job that wants cheap tokens, not 100ms chat.",
+    "Hardware: happy to buy a good fraction of any new chip if TSMC wafers exist — Etched, d-Matrix, etc. fail first on allocation, not ideas. Cerebras: on-die SRAM vs HBM (~10 TB/s on Blackwell-class vs much higher on wafer-scale, different capacity). He will not pretend CUDA years are a hiring filter. Customers increasingly want to own/sovereign the intelligence they depend on."
+  ],
+  "mental_model": {
+    "name": "Token Factory × Background Mix × Wafer Gate",
+    "components": "Compete on dollars per token and throughput, not Cursor-class latency. Humans cannot consume 10x more interactive tokens; slack is background and proactive agents. Movva ends 2026 around 50/50 realtime vs background and wants 9010 background. Fireworks, Together, and Baseten optimized for last year's Cursor pull. New ASICs (Etched, d-Matrix) die first on TSMC wafer allocation, not ideas. Cerebras SRAM vs HBM is a capacity/bandwidth trade, not a religion. Hire for performance obsession, not CUDA years. Customers want sovereign/open weights they can own.",
+    "application": "Do not assume latency vendors win the next inference dollar. NVDA remains the default substrate he still squeezes first. Size ASIC startups on wafers they can actually get. Background-token jobs (whole-codebase security sweeps, hour-to-week sandboxes) are the 2026–27 tell. Treat Sal Research as a cheap-token factory, not another chat API. Long-context 200k is not magic if pretrain was 8–16k."
+  },
+  "key_insights": [
+    {
+      "view": "10× cheaper tokens is a new product.",
+      "question": "Why not just be another inference API?",
+      "answer": "Interactive humans are saturated. Background agents and whole-codebase sweeps need a factory, not a chat box."
+    },
+    {
+      "view": "Latency vendors optimized for Cursor.",
+      "question": "Is that still the scarce job?",
+      "answer": "Movva says that was last year's pull. He wants cheapest tokens and 9010 background."
+    },
+    {
+      "view": "ASICs die at TSMC, not in the deck.",
+      "question": "What does he diligence first?",
+      "answer": "Wafer allocation. He will buy a slice of any chip that can actually ship."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Default substrate he still squeezes first; new chips are options around it — medium"
+    },
+    {
+      "ticker": "Private:SalResearch",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Token-factory bet if background mix actually goes 9010; unproven vs Fireworks-class incumbents — low"
+    }
+  ],
+  "golden_quotes": [
+    "My job is to make the tokens as cheap as humanly possible.",
+    "Sal research is a token factory.",
+    "Whenever you make something 10 times cheaper, it's a new product category."
+  ],
+  "chronology": {
+    "subject": "Sal Research · token cost · inference mix",
+    "events": [
+      {
+        "date": "college / early career",
+        "event": "Movva's first job: NVIDIA GPU kernels"
+      },
+      {
+        "date": "~2025",
+        "event": "Fireworks/Together/Baseten pulled to Cursor low-latency"
+      },
+      {
+        "date": "2026",
+        "event": "Sal Research token-factory API; sovereignty/open-weight demand"
+      },
+      {
+        "date": "2026 YE",
+        "event": "Movva's 50/50 background vs realtime forecast"
+      },
+      {
+        "date": "2026-08-25",
+        "event": "ILTB EP.488"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly ILTB Movva",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+ep488",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

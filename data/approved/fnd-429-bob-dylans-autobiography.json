@@ -1,0 +1,100 @@
+{
+  "episode_id": "fnd-429-bob-dylans-autobiography",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 429,
+    "title": "Bob Dylan's Autobiography",
+    "guest": null,
+    "guest_role": "Solo biography (Chronicles, Volume One)",
+    "date": "2026-08-16",
+    "duration_minutes": 60,
+    "youtube_url": "https://www.youtube.com/watch?v=N6kHJVl7_ss",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=N6kHJVl7_ss",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:BobDylan",
+    "Private:ColumbiaRecords",
+    "Private:JohnHammond"
+  ],
+  "conclusion": "Senra reads Chronicles Volume One as a founder book Dylan wrote every word of, with no editor. The arc is Minnesota to a 1,200-mile hitchhike into 1961 New York, a $100 Leeds Music advance, and John Hammond signing a kid who had two original songs. Folk was 'junky, second-rate'; Hammond had faith in things to come. Dylan practiced in public — he could never sit in a room alone — and spent eight or nine months absorbing every folk album in store booths before Columbia.",
+  "background": "Founders treatment of the autobiography Senra calls one of the best-written he has read. Emphasis is on hunger, public practice, and a talent scout who ignored the category stigma — not a discography recap.",
+  "important_facts": [
+    "Book starts at the 1961 Columbia signing. In-house publicist Billy interviews him; Hammond is the scout who had heard two originals and still had a 'premonition there would be more.' Leeds Music: $100 against future royalties. About two years from arriving in New York from Minnesota to the Columbia deal.",
+    "The trip itself is the hunger scene: no money, 1,200 miles hitchhiking. Before New York he spent eight or nine months in record-store listening booths because he could not afford the albums. Folk was considered junky and only on small labels; Hammond followed his own ear anyway.",
+    "Work method: 'I could never sit in a room and just play all by myself. I needed to play for people and all the time… I practiced in public.' Sights on the Gaslight. Senra's operator takeaway is public reps plus a patron who underwrites the unproven catalog — Dylan wrote the book himself, no ghost, no editor."
+  ],
+  "mental_model": {
+    "name": "Public Practice × Patron Scout × Category Stigma",
+    "components": "Get the reps in front of people — Dylan says he could never sit in a room and play alone, so Gaslight hours became the method and his life became what he practiced. Find the Hammond who ignores that folk is 'junky, second-rate' and only on small labels. Hitchhiking 1,200 miles with no money is the hunger filter; eight or nine months of store-booth listening is the unpaid R&D. A $100 Leeds advance against future royalties is the whole publishing deal when the scout has heard two songs and a premonition. Write the primary source yourself: Chronicles has no ghost and no editor.",
+    "application": "Creative businesses: diligence the scout and the hunger, not the first two songs. Do not wait for a private rehearsal standard. Small advances can be the entire deal if the optionality is the unwritten catalog. Prefer founder-written primary sources over cleaned biographies. Columbia is the institutional hook; the operator lesson is public reps plus a patron who underwrites stigma."
+  },
+  "key_insights": [
+    {
+      "view": "Hammond bet two songs.",
+      "question": "What did the scout actually buy?",
+      "answer": "A premonition of more songs, not a finished catalog. Folk's bad reputation was the discount."
+    },
+    {
+      "view": "He practiced in public.",
+      "question": "How did Dylan get good?",
+      "answer": "He could not play alone. Gaslight hours plus eight or nine months of booth listening."
+    },
+    {
+      "view": "The book is the primary source.",
+      "question": "Why does Senra care about no editor?",
+      "answer": "The founder wrote every word. That is the point of reading Chronicles instead of a biography."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:ColumbiaRecords",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Hammond's option on an unproven folk catalog is the only institutional hook — low"
+    }
+  ],
+  "golden_quotes": [
+    "I could never sit in a room and just play all by myself.",
+    "You could say that I practiced in public and my whole life was becoming what I practice.",
+    "He wrote every single word himself."
+  ],
+  "chronology": {
+    "subject": "Bob Dylan · Chronicles · Columbia",
+    "events": [
+      {
+        "date": "pre-1961",
+        "event": "8–9 months of folk-album booth listening; 1,200-mile hitchhike"
+      },
+      {
+        "date": "1961",
+        "event": "New York; Hammond; Leeds $100; Columbia signing"
+      },
+      {
+        "date": "Gaslight years",
+        "event": "Public practice as the whole method"
+      },
+      {
+        "date": "2004",
+        "event": "Chronicles Volume One published"
+      },
+      {
+        "date": "2026-08-16",
+        "event": "Founders #429"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Founders Dylan",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+fnd-429",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "episode_id": "sv101-e249",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 249,
+    "title": "E249 Token经济转点：从Token Maxing到Token Efficient，OpenClaw与Hermes",
+    "guest": "黄东旭 · 张宏江",
+    "guest_role": "Llama Ventures / PingCAP联创CTO · Llama Ventures高级技术合伙人；微软亚洲研究院创始成员、前金山CEO",
+    "date": "2026-08-19",
+    "duration_minutes": 87,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+      "fireside": "https://sv101.fireside.fm/262"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "UBER",
+    "META",
+    "Private:DeepSeek",
+    "Private:OpenClaw"
+  ],
+  "conclusion": "泓君这期2026带子：市场从模型榜转到Agent工程。Uber四个月烧穿全年AI预算，额度又收回；Meta在限制远程办公的Token。一位嘉宾最猛的时候一天四五百美元，已经花了14万，还是Claude Code Pro Max。配方不再是「永远最强模型」：内部门户写着Opus 4.5很贵。中国开源权重（DeepSeek、GLM、Kimi）已经近到能进同一套工作流。OpenClaw（Peter，大约一周）把Claude Code/Codex的loop送给普通人；Hermes是会写Skill的精设计版本。Keep building。",
+  "background": "Fireside E249，不是YouTube曹原/影子债那两期。嘉宾：黄东旭（PingCAP联创CTO，Llama Ventures）和张宏江（微软亚洲研究院创始成员、智源创始人、前金山CEO、美国国家工程院外籍院士、Llama Ventures）。框是Token Maxing→Token Efficient。2025是Agent元年，2026是工程年。",
+  "important_facts": [
+    "成本打印：Uber给员工发Token额度，后来因成本收回——四个月把全年AI预算烧穿。Meta计划限制远程办公的Token消耗。泓君去一家NAS/落地团队，内部门户写着「Opus 4.5很贵，先用别的模型」。黄东旭或张宏江说去年11月用最强Agent做最复杂软件：一天四五百美元，已经14万，还是Claude Code Pro Max。开场问题：最大化Token、无脑用最强模型，还是不是市场最优解。",
+    "OpenClaw对Hermes：Peter大约一周做出OpenClaw。张宏江读成模型过了一道坎——有经验的架构师能很快立起系统，包括黄东旭说三个月能做出最复杂的分布式数据库。OpenClaw是集市：谁有想法就往里丢，Peter代码也不看，Agent说没问题就行。稳定性和代码质量是槽点。Hermes是精心设计的架构：入职体验更好，反思更多，成功run会变成Skill，loop自己长出最佳实践。OpenClaw把Claude Code/Codex（agentic loop+工具）降门槛送给普通人。",
+    "便宜又聪明的模型：DeepSeek、GLM、Kimi逼近第一梯队，硅谷公司开始搭进工作流。黄东旭是Slug（Kimi CLI，钱与超；后来改名，他仍叫Slug）的第一位天使和最早用户之一——把Slack的频道想法搬到Agent。口播里的本地栈：DeepSeek V4和智谱GLM 5.2。管理学比喻：公司不可能全是张宏江级专家——头部模型加便宜开源才是编制。收尾：Keep building / get hands on。从研究进工程，从模型进Agent。"
+  ],
+  "mental_model": {
+    "name": "Token节约搭配 × 消费级Agent Loop × 精设计对集市",
+    "components": "2026是工程不是Elo。Uber/Meta撞上预算墙、Opus 4.5要警告条的时候，Token Maxing就死了。像公司一样排班：头部模型当合伙人，DeepSeek/GLM/Kimi当便宜的班子。OpenClaw证明一周架构就能送出消费级loop；Hermes是会写Skill的产品化版本。Slug/Kimi CLI是多Agent的Slack。上手比等学够了再动手重要。",
+    "application": "UBER是烧钱警示，不是网约车论点。META限制远程Token是成本纪律。DeepSeek/GLM进工作流是2026的推理搭配。不要按「永远Claude Opus」坐席估值。尽调OpenClaw类集市看有没有review；Hermes类看Skill会不会复利。PingCAP三个月数据库是Agent能力打印，不是TiDB模型。"
+  },
+  "key_insights": [
+    {
+      "view": "Token Maxing撞墙了。",
+      "question": "2026年变了什么？",
+      "answer": "Uber四个月烧穿全年AI预算。Meta在限制远程Token。内部门户已经写Opus 4.5很贵。"
+    },
+    {
+      "view": "OpenClaw是消费级门口。",
+      "question": "一周的仓库为什么重要？",
+      "answer": "它把Claude Code的agentic loop送给普通人。张宏江说这标志着模型跨进工程。Hermes是会写Skill的精设计分叉。"
+    },
+    {
+      "view": "像公司一样给模型排班。",
+      "question": "永远用最强的？",
+      "answer": "不。头部加便宜的DeepSeek/GLM/Kimi。Slug是Agent的Slack。本地V4/GLM 5.2已经在用。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "META",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "限制远程办公Token是Maxing年之后的成本纪律打印 — low"
+    },
+    {
+      "ticker": "Private:DeepSeek",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "便宜的近前沿权重已经和Opus坐在同一套硅谷工作流里，是搭配里的初级工程师层 — medium"
+    }
+  ],
+  "golden_quotes": [
+    "Uber四個月燒穿了全年的AI預算",
+    "從Token Maxing到Token Efficient",
+    "Keep building"
+  ],
+  "chronology": {
+    "subject": "Token Maxing · OpenClaw · Hermes",
+    "events": [
+      {
+        "date": "2025",
+        "event": "Agent元年；Claude Code / Codex loop"
+      },
+      {
+        "date": "2025-11",
+        "event": "嘉宾用最强Agent做最难软件，一天烧四五百美元"
+      },
+      {
+        "date": "2026",
+        "event": "Peter约一周做出OpenClaw；Hermes作为精设计替代"
+      },
+      {
+        "date": "2026",
+        "event": "Uber四个月烧穿预算；Meta限制远程Token；Opus 4.5警告"
+      },
+      {
+        "date": "2026-08-19",
+        "event": "硅谷101 E249 Fireside"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly 硅谷101 E249",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small+sv101-e249",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,6 +1,24 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
+- id: ep488
+  episode_number: 488
+  title: Neil Movva — Making AI 10x Cheaper
+  guest: Neil Movva
+  guest_role: Founder, Sal Research (ex-NVIDIA kernel engineer)
+  date: '2026-08-25'
+  duration_minutes: 78
+  youtube_url: https://www.youtube.com/watch?v=uyzqxIoiobU
+  podcast: Invest Like the Best
+- id: ep487
+  episode_number: 487
+  title: Ben Thompson — Winners, Losers, and an AI Boom Running Out of Money
+  guest: Ben Thompson
+  guest_role: Stratechery / aggregation-theory analyst
+  date: '2026-08-18'
+  duration_minutes: 76
+  youtube_url: https://www.youtube.com/watch?v=h-0NZ-oIjlk
+  podcast: Invest Like the Best
 - id: ep486
   episode_number: 486
   title: Eric Vishria — Sandcastles & Silicon
@@ -472,6 +490,15 @@ episodes:
   duration_minutes: 78
   youtube_url: https://www.youtube.com/watch?v=p-aE0mkUWYM
   podcast: Invest Like the Best
+- id: fnd-430-how-to-write-ads-that-sell
+  episode_number: 430
+  title: How to Write Ads That Sell
+  guest: null
+  guest_role: Solo (Claude Hopkins — Scientific Advertising / My Life in Advertising)
+  date: '2026-08-23'
+  duration_minutes: 64
+  youtube_url: https://www.youtube.com/watch?v=9YrcSWczGdg
+  podcast: Founders
 - id: ep429
   episode_number: 429
   title: Keys to Successful Growth Investing
@@ -481,6 +508,15 @@ episodes:
   duration_minutes: 45
   youtube_url: https://www.youtube.com/watch?v=15dCw7lxqRk
   podcast: Invest Like the Best
+- id: fnd-429-bob-dylans-autobiography
+  episode_number: 429
+  title: Bob Dylan's Autobiography
+  guest: null
+  guest_role: Solo biography (Chronicles, Volume One)
+  date: '2026-08-16'
+  duration_minutes: 60
+  youtube_url: https://www.youtube.com/watch?v=N6kHJVl7_ss
+  podcast: Founders
 - id: fnd-428-how-claude-shannon-worked
   episode_number: 428
   title: How Claude Shannon Worked
@@ -1188,6 +1224,18 @@ episodes:
   duration_minutes: 70
   youtube_url: https://www.youtube.com/watch?v=zt9e6vVBdP4
   podcast: Founders
+- id: sv101-e249
+  episode_number: 249
+  title: 'Token Maxing to Token Efficient: OpenClaw, Hermes, and Why Uber Burned a
+    Year of AI Budget in Four Months'
+  guest: Huang Dongxu (黄东旭) · Zhang Hongjiang (张宏江)
+  guest_role: Llama Ventures / PingCAP CTO · Llama Ventures senior tech partner; former
+    Kingsoft CEO, MSRA founding member
+  date: '2026-08-19'
+  duration_minutes: 87
+  youtube_url: ''
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: bb-applied-intuition-a-billion-intelligent-machines
   episode_number: 248
   title: 'Applied Intuition: A Billion Intelligent Machines'
@@ -1604,6 +1652,17 @@ episodes:
   duration_minutes: 250
   youtube_url: ''
   podcast: Acquired
+- id: sv101-ep201
+  episode_number: 201
+  title: 'The $1.65T That ''Disappeared'': Hyperscaler Shadow Borrowing for AI Data
+    Centers'
+  guest: Chen Xi (陈茜)
+  guest_role: SV101 presenter · data-center debt explainer
+  date: '2026-08-21'
+  duration_minutes: 65
+  youtube_url: https://www.youtube.com/watch?v=89ThCi5qq-A
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-the-jamie-dimon-interview
   episode_number: 200
   title: The Jamie Dimon Interview
@@ -1613,6 +1672,17 @@ episodes:
   duration_minutes: 68
   youtube_url: ''
   podcast: Acquired
+- id: sv101-ep200
+  episode_number: 200
+  title: 'Ex-DeepMind Cao Yuan: AI for Science Is Exploding — and Verification Is
+    the Bottleneck'
+  guest: Cao Yuan (曹原)
+  guest_role: Former DeepMind scientist · cofounder, Unreasonable Labs AI
+  date: '2026-08-14'
+  duration_minutes: 110
+  youtube_url: https://www.youtube.com/watch?v=H35nVgNGyo8
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-google
   episode_number: 199
   title: 'Google Part I: Origins of Search'
@@ -1692,6 +1762,18 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=cB_X6AImPjQ
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: tzs-ep196
+  episode_number: 196
+  title: 'Physical AI: Jensen''s ChatGPT Moment, Four Robot Types, and Why the Brain
+    Is Still the Bottleneck'
+  guest: Xiao X (小X)
+  guest_role: Sell-side / coverage of humanoid and Physical-AI supply chain since
+    2022
+  date: '2026-08-25'
+  duration_minutes: 73
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a8cf80a1352af56ff3b7e2d
 - id: acq-tsmc-founder-morris-chang
   episode_number: 195
   title: TSMC Founder Morris Chang
@@ -1713,6 +1795,17 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=Hq4jFGd4YxE
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: tzs-ep195
+  episode_number: 195
+  title: Xu Yang Leaves Anta's Main Brand, Super-Anta vs Decathlon Math, and Nike
+    Taking China Online Back
+  guest: A-Fu (阿富)
+  guest_role: Sports-apparel operator / returning TZS category guest
+  date: '2026-08-16'
+  duration_minutes: 111
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a7ee36017676351c571e2e7
 - id: acq-mars-inc-the-chocolate-story
   episode_number: 194
   title: Mars Inc. (the chocolate story)
@@ -2612,6 +2705,16 @@ episodes:
   duration_minutes: 71
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep151
+  episode_number: 151
+  title: A 17-Year-Old's ICML Paper, Wasted Cloud Money, and Betting on Being Happy
+  guest: Su Tinghao (苏廷昊)
+  guest_role: High-school junior/senior · independent pretrain / attention research
+  date: '2026-08-19'
+  duration_minutes: 70
+  youtube_url: https://www.youtube.com/watch?v=UTDalAEU274
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a8472b95aeb2a5712e8de78
 - id: acq-arena-show-part-i-idea-dinner-yc-continuity
   episode_number: 150
   title: 'Arena Show Part I: Idea Dinner + YC Continuity'

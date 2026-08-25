@@ -1,0 +1,122 @@
+{
+  "episode_id": "sv101-ep201",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 201,
+    "title": "“消失”的1.65万亿美元：数据中心影子借贷与AI次贷隐患",
+    "guest": "陈茜",
+    "guest_role": "硅谷101主讲 · 数据中心债务解说",
+    "date": "2026-08-21",
+    "duration_minutes": 65,
+    "youtube_url": "https://www.youtube.com/watch?v=89ThCi5qq-A",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=89ThCi5qq-A",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "ORCL",
+    "META",
+    "MSFT",
+    "AMZN"
+  ],
+  "conclusion": "陈茜把美国五大数据中心1.65万亿美元债务按BIS的「影子借贷」拆开——亚马逊、微软、谷歌、Meta、甲骨文把杠杆藏起来，好让报表干净。回购从2021年四季度480亿掉到2026年一季度46亿。Epoch：经营现金流年增约23%、资本开支年增约70%，2026年三季度交叉；摩根士丹利算到2028年2.9万亿数据中心开支里有1.5万亿要靠外部资金。Oracle是承压名字（资本开支212亿→557亿，标普BBB降到BBB-）。Meta的Hyperion SPV借了273亿，表上只记23.7亿——再付6.581%而不是大约5.5%的无担保成本，只为不并表。",
+  "background": "陈茜翻完hyperscaler申报后的解说。五种藏债工具、Blue Owl在SaaS赎回挤兑（40%赎回、兑付不到15%）后转向数据中心、以及这像不像次贷。微软是例外：2024年至今没发过公开债，总债务还降了。招股书只写「一般公司用途」，从不写数据中心。",
+  "important_facts": [
+    "现金对盖楼：五家合计回购2021年四季度480亿峰值→去年四季度129亿→2026年一季度46亿，约少九成。还在回购的只剩微软；谷歌一季度起停；Meta连续三季零回购；Oracle上一财年不到1亿；亚马逊2022年年中后再没买。Epoch（6月）：经营现金流年增约23%、资本开支约70%，2026年三季度交叉——斜率不变则2027年前「集体返贫」。摩根士丹利：2028年前全球数据中心资本开支约2.9万亿，现金流覆盖1.4万亿，外部要1.5万亿。发债2020–24年均约280亿→2025年1083亿→2026年初到7月底快2000亿（约6倍）。微软2024年至今一笔公开债都没发。招股书里找不到「数据中心」「人工智能」——Meta 300亿和Oracle 2026年2月那笔都写一般公司用途（Oracle次日还写了分红和回购）。",
+    "为什么不继续发公开债：（1）超额认购摊薄——亚马逊从去年11月5.3倍掉到2026年7月1.6倍，同一窗口堆了几百亿；（2）新发concession从2025年中位数2.25个基点涨到2026年12个基点，亚马逊长端多给18–21个基点；（3）「进现金、几乎不欠债、回购」和股东的默契破了；（4）表内债决定评级。Oracle资本开支一年从212亿涨到557亿；7月标普从BBB降到BBB-，离垃圾级一档，保险和养老金可能买不了。它们要更多钱、更长期限（机房回收要十几二十年）、以及别那么显眼——公开投资级一样都给不全。",
+    "私募信贷在SaaS变酸后来补洞：Blue Owl基金连续两季遭到40%赎回、只兑付不到15%，股价从24美元跌到9美元。国际清算银行7月：私募信贷给SaaS的贷款里60%借给了同时向七家以上机构借钱的企业，十年前不到10%。软件股从2025年9月高点跌了近四成，尽管微软M365增速从15%升到19%。数据中心证券化从2022年13亿涨到现在300–400亿，约20倍。案例：Meta Hyperion——路易斯安那Laidley LLC / Beignet Investor发273亿，顶上是Blue Owl的OSNL，特拉华壳公司六个星期内注册齐，不用向证监会递招股书。Blue Owl间接持Beignet Investor 63%、产权公司80%；Meta的20%就是表上那笔23.7亿，所以272.9亿、票息6.581%、2049年5月到期的债不并表。Pelican Leap从2029年起租，初始4年，残值担保上限约280亿。Meta自己发同样期限大约5.5%——为了干净报表一年大约多付3亿美元利息。7月得州埃尔帕索Sopaipilla再发125亿、票息7.534%、2048年到期，80%换成贝莱德；不到一年两笔合计将近400亿。"
+  ],
+  "mental_model": {
+    "name": "影子借贷 × 评级悬崖 × 残值担保",
+    "components": "巨头要更多钱、更长期限、以及干净合并报表。公开投资级更慢、更贵、而且全记在表上——所以SPV+租赁+残值担保能把273亿移出Meta，同时钱还是Meta出。干净的代价大约100个基点（5.5%对6.581%）和低一档评级（AA-的主体、A+的券）。Oracle是表内警告：资本开支跳升加BBB-。Blue Owl在赎回冻结后把SaaS信用风险回收进数据中心纸。回购崩塌才是经营现金流留在楼里的真实信号。",
+    "application": "ORCL是承压的公开打印（评级、资本开支、招股书错位）。META的Hyperion/Sopaipilla是隐藏杠杆——模型里要把租赁+残值算进去，即使GAAP干净。MSFT不发债还回购是这条带子上的质量例外。AMZN的concession和1.6倍认购说明公开窗口在累。不要把1.65万亿当成「消失了」；它仍是Meta托底、Blue Owl/贝莱德持有。SaaS贷款到期墙（2027年底前11%、2028年底前再20%）才是这批纸存在的原因。"
+  },
+  "key_insights": [
+    {
+      "view": "债并没有消失。",
+      "question": "Hyperion的273亿去哪了？",
+      "answer": "特拉华Beignet SPV，和Blue Owl八二开，租赁加约280亿残值担保仍在Meta。不并表，仍是Meta的义务。"
+    },
+    {
+      "view": "公开投资级给不齐三样。",
+      "question": "巨头要什么？",
+      "answer": "更多钱、10–20年期限、以及干净报表。所以它们付6.581%而不是5.5%。"
+    },
+    {
+      "view": "Oracle已经站在悬崖上。",
+      "question": "谁是承压名字？",
+      "answer": "资本开支212亿→557亿，标普BBB→BBB-。微软是没发债的例外。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "ORCL",
+      "direction": "Short",
+      "confidence": "Medium",
+      "thesis": "表内资本开支跳升和BBB-打印；离失去投资级买家只差一档 — medium"
+    },
+    {
+      "ticker": "META",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Hyperion残值仍是Meta的；一年多付约3亿利息是干净报表的代价，不是免费杠杆 — low"
+    },
+    {
+      "ticker": "MSFT",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "唯一还在回购、2024年至今没发公开债的名字——这条带子上的质量例外 — medium"
+    }
+  ],
+  "golden_quotes": [
+    "1.65万亿美元",
+    "它们将在明年就会“集体返贫”",
+    "一般公司用途"
+  ],
+  "chronology": {
+    "subject": "超大规模数据中心债 · SPV · Blue Owl",
+    "events": [
+      {
+        "date": "2021 Q4",
+        "event": "五家回购单季峰值480亿"
+      },
+      {
+        "date": "2022–2025",
+        "event": "发债年均280亿→2025年1083亿；数据中心证券13亿→300–400亿"
+      },
+      {
+        "date": "2025-12",
+        "event": "Blue Owl拒Oracle密歇根项目，PIMCO接走"
+      },
+      {
+        "date": "2026上半年",
+        "event": "Blue Owl基金40%赎回、兑付不到15%；股价24→9美元"
+      },
+      {
+        "date": "2026-07",
+        "event": "Oracle BBB→BBB-；亚马逊认购1.6倍；Meta Sopaipilla 125亿"
+      },
+      {
+        "date": "2026 Q1–Q3",
+        "event": "回购46亿；Epoch收支交叉；年内已发近2000亿"
+      },
+      {
+        "date": "2026-08-21",
+        "event": "硅谷101影子借贷解说上线"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly SV101 影子借贷",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/zh/manual+sv101-ep201",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

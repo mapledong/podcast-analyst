@@ -1,0 +1,112 @@
+{
+  "episode_id": "sv101-ep200",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 200,
+    "title": "对话前DeepMind曹原：AI for Science爆发，一个新时代到来了",
+    "guest": "曹原",
+    "guest_role": "前DeepMind科学家 · Unreasonable Labs AI 联创",
+    "date": "2026-08-14",
+    "duration_minutes": 110,
+    "youtube_url": "https://www.youtube.com/watch?v=H35nVgNGyo8",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=H35nVgNGyo8",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "GOOGL",
+    "Private:OpenAI",
+    "Private:Anthropic",
+    "Private:UnreasonableLabs"
+  ],
+  "conclusion": "陈茜在Jeff Dean带着Oriol、Sanjay、Quoc离开Google成立Discovery Loop的当周，采访前DeepMind科学家曹原。他自己的Unreasonable Labs做AI for知识与科学。卡点是验证：模型到实验的闭环一旦打通，迭代会爆炸。OpenAI Astra号称推出10道长期未解数学题；Anthropic未发布的科研版Claude把黎曼相关零点下界从41.6%推到67.2%。Gemini 3.1 Pro相对OpenAI、Anthropic和中国开源已经掉队。诺奖要二三十年；概念抽象是AGI最后一英里。不要把Google读成死了——全栈还在自己手里。",
+  "background": "出镜是陈茜，不是泓君。嘉宾离开DeepMind后联创Unreasonable Labs AI，做知识创造与研发。开场是8月第一周Jeff Dean离职，以及Gemini项目三四年前开始后的集中力量。话题：科学自进化闭环、AI数学/物理，以及不可解释的证明算不算发现。",
+  "important_facts": [
+    "时间：Jeff Dean宣布带高管出走做Discovery Loop，加速生命科学等研究——录制就在消息第二天。曹原分三层：（1）Gemini成为最大项目后「集中力量」带来内部冲突；（2）过去半年Gemini落后——年初3.1 Pro还像样，随后3.5/3.6 Flash平平，3.x Pro还没正式发布，Anthropic、OpenAI和中国开源在往前冲；（3）Dean/Oriol/Sanjay/Quoc做Discovery Loop，是数学和编程之后的自然下一步——知识发现/递归自我改进，想做新的Neolab。他否认「Google时代结束」：芯片、基建、数据、人才、分发都还在体内。",
+    "科学成绩：OpenAI Astra推出10道人类长期未解数学题。Anthropic未发布科研版Claude把黎曼猜想相关零点下界从41.6%推进到67.2%。曹原的瓶颈是验证——模型到实验的loop。数学已从证明稀缺进入证明过剩；黑盒结果正确仍要人理解。概念抽象「可能是AGI最后一英里」。诺奖：至少二三十年。Unreasonable Labs做AI for知识创造、科学和研发，和Discovery Loop是同一片邻域。",
+    "组织/产品：Gemini项目之后Google必须集中。要追上Anthropic那种coding agent商业模式仍然很难。曹原希望外面有一层机制，帮模型产生不一样的想法。闭环一旦成立，人的角色会尴尬。方法论是exploit vs explore/价值函数；科学的最后一英里仍是概念，不是更多token。"
+  ],
+  "mental_model": {
+    "name": "验证闭环 × 证明过剩 × 全栈Google",
+    "components": "AI for Science的价值是模型到实验的闭环。验证不破，就不能快迭代。数学已经过量生产人类消化不了的证明。用难题（Astra的10道、黎曼41.6→67.2）给实验室打分，而不是聊天榜。Dean的Discovery Loop和Unreasonable Labs是同一类赌注，不是Google死了。Gemini集中解释人才出走；公司仍有芯片到分发。诺奖时间表是几十年，因为概念抽象才是最后一英里。",
+    "application": "GOOGL是优先级/组织故事，不是「Dean走了就空栈」。OpenAI/Anthropic的科学模型是能力打印。科学创业公司（Unreasonable Labs、Discovery Loop）是2026–27的编队。不要按「这轮AI拿诺奖」来估值。3.x Pro缺席、Flash平平的时候，少写Gemini-only产品故事。"
+  },
+  "key_insights": [
+    {
+      "view": "验证才是科学卡点。",
+      "question": "什么必须破？",
+      "answer": "模型到实验的闭环。验证一通，迭代就快。在此之前，更多证明只是堆起来。"
+    },
+    {
+      "view": "四个人离开不等于Google结束。",
+      "question": "怎么读Dean出走？",
+      "answer": "Gemini集中加上3.x线落后。公司仍有芯片、基建、数据和分发。Discovery Loop是下一笔科学赌注，和曹原的公司同一邻域。"
+    },
+    {
+      "view": "黑盒证明只有部分意义。",
+      "question": "最后一英里是什么？",
+      "answer": "人类能评判的概念抽象。曹原把诺奖放在二三十年，不是这一个产品周期。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "GOOGL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "全栈仍在体内；Dean出走是Gemini优先级/组织问题，不是死亡打印 — low"
+    },
+    {
+      "ticker": "Private:UnreasonableLabs",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "和Discovery Loop同一片AI for Science邻域；验证闭环创业，尚未验证 — low"
+    }
+  ],
+  "golden_quotes": [
+    "最难对于AI for Science肯定是verification",
+    "我觉得至少得二三十年",
+    "概念抽象的过程我认为可能是AGI的最后的last mile"
+  ],
+  "chronology": {
+    "subject": "AI for Science · DeepMind · Discovery Loop",
+    "events": [
+      {
+        "date": "Gemini项目+3–4年",
+        "event": "Google集中人才，内部冲突"
+      },
+      {
+        "date": "2026年初",
+        "event": "Gemini 3.1 Pro在榜上仍像样"
+      },
+      {
+        "date": "2026上半年",
+        "event": "3.5/3.6 Flash平平；3.x Pro未发；OpenAI/Anthropic/中国开源往前"
+      },
+      {
+        "date": "2026-08第一周",
+        "event": "Jeff Dean等出走成立Discovery Loop"
+      },
+      {
+        "date": "录制当日",
+        "event": "OpenAI Astra 10道题；Anthropic科研Claude黎曼41.6%→67.2%"
+      },
+      {
+        "date": "2026-08-14",
+        "event": "硅谷101 陈茜×曹原上线"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly SV101 曹原",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/zh/manual+sv101-ep200",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

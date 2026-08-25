@@ -1,0 +1,120 @@
+# EP.151 — Su Tinghao (苏廷昊)
+
+## *A 17-Year-Old's ICML Paper, Wasted Cloud Money, and Betting on Being Happy*
+
+**★★★☆☆** · 3/5
+
+**Podcast** Zhang Xiaojun Podcast · **Date** Aug 19, 2026 · **Duration** 70 min · **Read** ≈4 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Su Tinghao (苏廷昊) · High-school junior/senior · independent pretrain / attention research
+
+**Listen** [YouTube](https://www.youtube.com/watch?v=UTDalAEU274) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** OpenAI · GOOGL · EDUCATION
+> ### Conclusion
+>
+> Zhang Xiaojun's first high-school guest: Su Tinghao, born 2009, 17, at Hong Kong's German Swiss International School, with an attention paper at an ICML 2026 Korea mini-track (host: MATRAC). He burned cloud money — 1,500 gone on three unsaved runs, and cried — after pricing even a 0.25–1B 'best small model' at 100k to a million-plus. Karpathy's ≈20-hour GPT videos plus a 2025 thirty-paper month got him in. Not a lab-stock thesis: classmates lose meaning because AI is better at everything; he bets on being happy, then leaves for rural teaching after Korea.
+
+---
+
+## Background
+
+> Cute, first-of-kind ZJ tape. Shanghai-born, to Hong Kong in grade 2–3, rising senior. Path: mocked an OpenAI-style natural-language-to-game demo, then GPT shipped; Andrew Ng intro; Karpathy from-scratch GPT; 30 papers in 30 days; own Transformer plus Muon / gated attention. After ICML he goes to a village to catch insects and leave AI for a bit.
+
+---
+
+## Key Facts
+
+> **F1** Bio and venue: born 2009, now 17, German Swiss International School in Hong Kong, Shanghai until grade 2–3. High-school independent pretrain work; attention paper taken by ICML 2026 Korea Mini-track (Zhang's intro says MATRAC). First time the show opens a high-school AI world. After the Korea meeting he stops in a city a few days, then rural volunteer teaching — catch insects, another human world, a reminder to leave AI.
+
+> **F2** How he got in: after ChatGPT-era videos he watched an OpenAI-group demo write a small game in natural language and laughed — programs were dead, one input one output, from coding contests. Then GPT released and wrote essays and poems. Andrew Ng's course got him in the door. The prior year (2025) he sat through Andrej Karpathy's ≈20-hour YouTube series on writing a GPT from scratch, could not follow, then challenged himself to one ML paper a day for 30 days. The Transformer paper was hard then suddenly clear; lottery-ticket hypothesis was the math-hard one he still liked.
+
+> **F3** Compute and tears: he wanted the world's best tiny model (1B / 0.5B / 0.25B), priced GPU and tokens, and found even that was 100k-plus to a million, so he implemented newer papers (Muon, gated attention) on his own Transformer. A bad hyperparameter pass: 1,500 wasted because he trained three models at once and none saved — 'training is an expensive game,' he cried. Metaphor: post-train shapes a body; pretrain is better material for later sculpting, a bit of magic. Meaning: classmates lose the point of life because AI may do anything better; after a sad stretch he decides to make himself, people he likes, and everyone happy — 'being happy is the root of being human' — and not to worry about an uncontrollable AI.
+
+
+---
+
+## Mental Model · *One-Paper Days × Tiny-Model Price Shock × Happiness Bet*
+
+> **Components**
+>
+> A 17-year-old can get from Karpathy videos to an ICML mini-track with 30 papers in 30 days and an attention tweak. The binding constraint is still dollars: three unsaved runs ate 1,500, and a 'best 0.25B' still looks like 100k–1M. Pretrain is material quality; post-train is sculpture. The peer effect is a meaning crash — AI is better at the contest — resolved not by a career hedge but by rural teaching and 'be happy.' Google's Transformer paper remains the aesthetic on-ramp.
+>
+> **Application**
+>
+> Not a stock episode. OpenAI is the origin shock (demo then GPT). GOOGL is the Transformer paper he calls beautiful, not a Gemini take. Education/talent: the next ICML authors may be international-school kids with a cloud bill, not lab internships. Fade 'high-school paper = AGI lab' — he is still crying over checkpoints that did not save. The durable line is meaning, not architecture.
+
+---
+
+
+## Key Insights
+
+> **1.** Training is an expensive game.
+>
+> **Q** What did the 1,500 teach?
+>
+> **A** Three models at once, none saved. Even a 0.25–1B 'best small model' was 100k to a million, so he implemented papers on his own code instead.
+
+> **2.** Thirty days, one paper a day.
+>
+> **Q** How did a high-schooler reach ICML?
+>
+> **A** Karpathy's ≈20 hours, then a 2025 paper streak. Transformer clicked; he shipped an attention piece to a Korea mini-track.
+
+> **3.** Be happy is the root.
+>
+> **Q** What is the peer-crisis answer?
+>
+> **A** AI may out-do you at everything. He stopped catastrophizing, then left for village teaching after ICML.
+
+---
+
+## Investment Ideas
+
+> **1. OpenAI** · 🟢 LONG · ●○○ Low
+>
+> The origin shock — NL-to-game demo then GPT — that pulled a 17-year-old into pretrain; not a valuation tape — low
+
+> **2. GOOGL** · 🟢 LONG · ●○○ Low
+>
+> The Transformer paper is the one he calls suddenly clear; a talent on-ramp, not a Gemini print — low
+
+---
+
+## Golden Quotes
+
+> "開心才是人之根本"
+
+> "不管你做什麼AI可能都比你做得要更好"
+
+> "30天就是每天讀一個論文"
+
+---
+
+## Chronology
+
+> *Su Tinghao · ICML · high-school pretrain*
+>
+> **2009** Born; Shanghai until grade 2–3, then Hong Kong GIS
+>
+> **ChatGPT era** Mocks NL-to-game demo; GPT later writes essays/poems
+>
+> **2025** Karpathy ≈20h; 30 papers in 30 days; own Transformer + new papers
+>
+> **failed runs** 1,500 wasted on three unsaved models; cries
+>
+> **2026-08** ICML Korea mini-track; then rural teaching
+>
+> **2026-08-19** Zhang Xiaojun EP.151
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Podcast, Zhang Xiaojun, or Su Tinghao (苏廷昊). It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=UTDalAEU274) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

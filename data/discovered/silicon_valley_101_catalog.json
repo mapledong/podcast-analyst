@@ -1,7 +1,25 @@
 {
   "podcast": "硅谷101",
-  "total": 198,
+  "total": 201,
   "episodes": [
+    {
+      "id": "sv101-ep201",
+      "episode_number": 201,
+      "title": "“消失”的1.65万亿美元：数据中心影子借贷与AI次贷隐患",
+      "youtube_id": "89ThCi5qq-A",
+      "youtube_url": "https://www.youtube.com/watch?v=89ThCi5qq-A",
+      "is_short": false,
+      "duration_minutes_est": 65
+    },
+    {
+      "id": "sv101-ep200",
+      "episode_number": 200,
+      "title": "对话前DeepMind曹原：AI for Science爆发，一个新时代到来了",
+      "youtube_id": "H35nVgNGyo8",
+      "youtube_url": "https://www.youtube.com/watch?v=H35nVgNGyo8",
+      "is_short": false,
+      "duration_minutes_est": 110
+    },
     {
       "id": "sv101-ep199",
       "episode_number": 199,

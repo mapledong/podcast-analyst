@@ -1,0 +1,104 @@
+{
+  "episode_id": "fnd-430-how-to-write-ads-that-sell",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 430,
+    "title": "How to Write Ads That Sell",
+    "guest": null,
+    "guest_role": "Solo (Claude Hopkins — Scientific Advertising / My Life in Advertising)",
+    "date": "2026-08-23",
+    "duration_minutes": 64,
+    "youtube_url": "https://www.youtube.com/watch?v=9YrcSWczGdg",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=9YrcSWczGdg",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:ClaudeHopkins",
+    "Private:Schlitz",
+    "Private:Ogilvy"
+  ],
+  "conclusion": "Senra rereads Claude Hopkins — Scientific Advertising plus the autobiography My Life in Advertising that Ogilvy treated as foundation stone. The method is research before copy: Hopkins visits the Schlitz brewery (then fifth in share), writes down filtered-air cooling, 4,000-foot wells, six-month aging, and a mother yeast from 1,200 experiments — specifics every brewer already did, which nobody had advertised. He claims he worked twice as long as anyone in the field and that pioneers owe a written trail. Senra is stealing headline craft for short clips.",
+  "background": "Return to Hopkins ~5 years after first read, via David Ogilvy's endorsement. Senra wants to compress a 3–6 minute founder clip into one headline. The episode is a principles tape, not a media-holding thesis.",
+  "important_facts": [
+    "Two books sold together: Scientific Advertising (earlier) and My Life in Advertising. Preface: this is a business story for successors, not a memoir; 'any man who learns more about anything than others owes a statement.' Hopkins says he lived in a vortex of advertising and worked twice as long as anybody else in the field.",
+    "Schlitz case: hired when the beer was fifth in share. First step is research, not slogans. Brewery tour — plate-glass rooms with beer dripping over pipes in filtered air, 4,000-foot artisan wells, six-month vats, lab mother yeast developed through 1,200 experiments. The facts were industry-standard; the ad was being first to say them specifically.",
+    "Senra's use-case: his interview show lives in 3–6 minute clips; he is rereading Hopkins to distill one line / one headline. Ogilvy (garbled as 'Olgrevy' in captions) built an agency on these books. Recurring Hopkins ideas: test, record research, blaze the trail, specifics over adjectives."
+  ],
+  "mental_model": {
+    "name": "Research First × Specifics Everyone Has × Tested Copy",
+    "components": "Walk the factory before you write a line. Hopkins's Schlitz tour produced filtered-air cooling rooms, 4,000-foot artisan wells, six-month aging vats, and a mother yeast from 1,200 experiments — facts every brewer already had. Being first to say them specifically was the ad. Record the research: pioneers owe a written trail; Lasker locked Scientific Advertising in a safe for 20 years because it gave away the firm's secrets. Ogilvy later treated both books as the foundation of his agency. Senra is stealing the same compression for 3–6 minute founder clips: one headline, then the proof. Hopkins claims he worked twice as long as anyone in the field.",
+    "application": "Any consumer brand still hiding process facts (purity, wells, aging, lab counts) has a Hopkins ad sitting in the plant. Do not start with a slogan. Founder media: distill to one sentence. Treat 'we do what everyone does, we just say it' as a real campaign, not a cynic's joke. The autobiography is the obligation to successors, not a memoir."
+  },
+  "key_insights": [
+    {
+      "view": "Research is the first ad step.",
+      "question": "What did Hopkins do at Schlitz?",
+      "answer": "He toured the brewery and wrote the 4,000-foot wells and 1,200 yeast experiments — facts rivals also had."
+    },
+    {
+      "view": "Pioneers owe a written trail.",
+      "question": "Why two books?",
+      "answer": "Scientific Advertising is the manual; the autobiography is the obligation to successors."
+    },
+    {
+      "view": "Headlines are compression.",
+      "question": "Why is Senra rereading now?",
+      "answer": "To turn 3–6 minute founder clips into one line. Ogilvy already treated Hopkins as the foundation."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Schlitz",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "The teaching case: fifth-share beer whose unused process facts became the ad — low"
+    }
+  ],
+  "golden_quotes": [
+    "The chief object behind every episode is to offer helpful suggestions to those who will follow me.",
+    "Every pioneer should blaze his trail.",
+    "The results of research should be recorded."
+  ],
+  "chronology": {
+    "subject": "Claude Hopkins · Scientific Advertising",
+    "events": [
+      {
+        "date": "early career",
+        "event": "Hopkins enters advertising; claims 2× hours vs peers"
+      },
+      {
+        "date": "Schlitz campaign",
+        "event": "Fifth-share brewer; process-fact ads from the plant tour"
+      },
+      {
+        "date": "Scientific Advertising",
+        "event": "Manual published decades before the autobiography"
+      },
+      {
+        "date": "My Life in Advertising",
+        "event": "Autobiography; Ogilvy later treats both as foundation"
+      },
+      {
+        "date": "~2021",
+        "event": "Senra's first read"
+      },
+      {
+        "date": "2026-08-23",
+        "event": "Founders #430 reread"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Founders Hopkins",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+fnd-430",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
