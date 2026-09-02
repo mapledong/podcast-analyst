@@ -1,0 +1,113 @@
+{
+  "episode_id": "ep489",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 489,
+    "title": "Sarah Guo — No Priors, Just Conviction",
+    "guest": "Sarah Guo",
+    "guest_role": "Founder, Conviction",
+    "date": "2026-09-01",
+    "duration_minutes": 59,
+    "youtube_url": "https://www.youtube.com/watch?v=hY6S__xeCjg",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hY6S__xeCjg",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "colossus": "https://colossus.com/episode/no-priors-just-conviction/"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Conviction",
+    "NVDA",
+    "Private:SundayRobotics"
+  ],
+  "conclusion": "Sarah Guo is long the AI wager and will not tap the brakes: a friend wants to, but is going 90 mph. Conviction's edge is staying close to ~250 frontier builders — not a backtest. She wants high-agency people plus risk capital so open-source and US industrial policy do not collapse into a two-lab monolith. Compute is the constraint: $750B-class spend empties individual ownership. Sunday Robotics (Tony Zhao, Chenxi; Stanford / Toyota / DeepMind / Tesla) is the physical-world print. She raised on execute-like-hell, not a polished deck. Abundant intelligence is not inevitable when supply chains are fragile.",
+  "background": "First ILTB with Guo as Conviction founder (also known from No Priors). Patrick pushes on frenzy, the lab-vs-everyone-else wager, LP ranking, and how you invest when you cannot backtest. Topics: talent race, robotics, biology, open source, and what changes in the next year.",
+  "important_facts": [
+    "Positioning: Guo answers 'I'm a long' on the AI wager. The fear is missing the opportunity versus repeating every boom-bust. Partner Mike maps ~250 entrepreneurs/researchers who actually show up and push the frontier; the firm's job is to know and support them, not just take first meetings. An LP survey of who fancy LPs most want to invest with had Conviction #1 or #2. She rejects a two-lab monolith: high-agency people plus the right risk capital can change open-source and industrial-policy outcomes.",
+    "Compute and product: major labs are so compute-intensive that a $750B spend plus thousands of people makes ownership feel thin. First-year hunt was technology-forward — workflows and professions that fit the models, which many LPs called nonsense versus customer-problem-first. Robotics example: she and partner Pranav met Tony Zhao and Chenxi at Sunday Robotics as Stanford PhDs after Toyota Research, DeepMind, and Tesla. Book also spans biology, defense, and law; she spends days-to-weeks grounding each domain. Open source is a policy and ecosystem question, not a slogan.",
+    "Firm-building: she raised by saying there are things she imagines about culture, then 'we'll go execute like hell and figure it out' — hard for LPs, which she values. Parents taught integrity, independence of thought, and family/team focus. She starts at conviction and works backwards (Mike climbs to it). Debates inside the firm and a biology opportunity close the hour. Abundant intelligence is not inevitable if compute stays scarce and supply chains stay fragile."
+  ],
+  "mental_model": {
+    "name": "No-Backtest Long × 250-Person Map × Compute Independence",
+    "components": "You cannot backtest this cycle; the mistake is hitting the brakes at 90 mph or repeating every bust. Map the ~250 people who actually push the frontier and stay close. Bet high-agency founders plus risk capital against a two-lab monolith. Treat $750B compute as the constraint that empties individual ownership. Hunt workflows the models already fit, not only customer-problem decks. Physical-world (Sunday Robotics) and biology are the non-obvious books. Raise on execute-like-hell, not a polished prior.",
+    "application": "Conviction is the private vehicle. NVDA remains the compute substrate of the $750B problem. Sunday Robotics is the humanoid/physical tell from this tape. Fade 'abundant intelligence is inevitable' if power, wafers, and policy stay tight. Do not wait for a backtest to size the AI book. Open-source industrial policy is a second-order bet, not a trading signal today."
+  },
+  "key_insights": [
+    {
+      "view": "You cannot backtest this.",
+      "question": "Brake or miss it?",
+      "answer": "A friend wants to brake and still goes 90 mph. Guo is a long. Missing it and repeating every bust are both live."
+    },
+    {
+      "view": "Know the 250.",
+      "question": "What is the firm actually?",
+      "answer": "Proximity to the builders who show up, not a meeting machine. LPs already rank them #1 or #2."
+    },
+    {
+      "view": "Compute empties ownership.",
+      "question": "Why independence?",
+      "answer": "$750B spend plus thousands of heads. Fragile supply chains make compute independence a national and firm problem."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Conviction",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "The 250-person map plus execute-like-hell raise is the product; LP demand is already #1/#2 — medium"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Default substrate under the $750B compute constraint she names; not a new chip thesis — low"
+    },
+    {
+      "ticker": "Private:SundayRobotics",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named physical-world bet (Zhao/Chenxi, Stanford/Tesla/DeepMind path) — low"
+    }
+  ],
+  "golden_quotes": [
+    "I keep saying I want to press the brakes as hard as I can, but I'm not doing it.",
+    "Yes, I'm a long.",
+    "We'll go execute like hell and figure it out."
+  ],
+  "chronology": {
+    "subject": "Conviction · AI wager · compute",
+    "events": [
+      {
+        "date": "firm year 1",
+        "event": "Hunt workflows that already fit the models"
+      },
+      {
+        "date": "Stanford years",
+        "event": "Meet Tony Zhao and Chenxi (later Sunday Robotics)"
+      },
+      {
+        "date": "raise",
+        "event": "Pitch: execute like hell, not a polished prior"
+      },
+      {
+        "date": "LP survey",
+        "event": "Conviction #1 or #2 among fancy LPs"
+      },
+      {
+        "date": "2026-09-01",
+        "event": "ILTB EP.489"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly ILTB Guo",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+ep489",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "episode_id": "sv101-e250",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 250,
+    "title": "E250 mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
+    "guest": "英博",
+    "guest_role": "艾博生物创始人、董事长兼CEO；前Moderna mRNA",
+    "date": "2026-08-27",
+    "duration_minutes": 77,
+    "youtube_url": "https://www.youtube.com/watch?v=G-1qbtXJKyQ",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=G-1qbtXJKyQ",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+      "fireside": "https://sv101.fireside.fm/263"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "MRNA",
+    "MRK",
+    "BNTX",
+    "Private:Abogen"
+  ],
+  "conclusion": "Yushan采访艾博生物CEO英博（前Moderna）。Moderna因INTerpath-001盘中暴涨超过200%：个性化mRNA疫苗联合默沙东Keytruda，黑色素瘤切除后的无复发生存优于单用PD-1。这把Moderna从传染病天花板改写成肿瘤。科学是一张通缉令——测序肿瘤、挑新抗原、写一条mRNA、LNP包裹。难的是CMC：一人一药、不能交叉污染，还要卡在术后4–6周窗口。英博看5–10年：PD-1已获批的适应症都会陆续配上mRNA疫苗。手术刀+个性化针+PD-1是栈。BioNTech和中国公司走不同路线；AI帮挑抗原，不替代工厂。",
+  "background": "Fireside E250，YouTube同题。出镜Yushan。嘉宾在Moderna和波士顿之后创立艾博。读出前一个周末的off-site已经把华尔街剩余叙事标成肿瘤而非新冠疫苗。",
+  "important_facts": [
+    "打印：Moderna与默沙东INTerpath-001三期——黑色素瘤切除后个性化mRNA+Keytruda，无复发生存优于单用PD-1。口播和开场都说股价盘中暴涨超过200%，生科里很少见。英博：这证实Moderna不是封顶的传染病公司；加上肿瘤就是星辰大海，治疗性定价也不是预防针的定价。2010年按mRNA平台成立。无论下一读出成败，他们给这个品类趟出了路。",
+    "产品怎么做：切除、测序肿瘤特有突变，一部分变成新抗原（身体没见过的蛋白），排序后写成患者专属mRNA，LNP递送，训练T细胞清残留。Keytruda松开PD-1刹车，疫苗给敌人起名。英博的5–10年栈：手术刀+个性化疫苗+PD-1，PD-1已获批的适应症都会陆续配上mRNA疫苗。癌症疫苗探索了几十年；跨过三期才是新门口。",
+    "CMC才是极限：个性化疗法是工艺和监管的边。业界要4–6周把药做出来，刚好卡在术后恢复窗口；耽误了肿瘤细胞会重新长。一千多个病人的试验不是同一天一千份——商业化是一台机器对一个病人，又要及时又不能交叉污染。波士顿之后英博不怕未知，生物科技本来就动荡。这期里AI的活是抗原排序，不是替代工厂。Moderna、BioNTech和中国名字（艾博）押不同技术路线。"
+  ],
+  "mental_model": {
+    "name": "通缉令疫苗 × 4–6周CMC × 配PD-1",
+    "components": "三期是配对：给新抗原起名，再松开刹车。200%是天花板改写（传染病→肿瘤），不是新冠再来一次。稀缺资产是4–6周一人一药、批次不混的工厂。AI排序抗原。5–10年是每一张PD-1标签，不是一次黑色素瘤赢。艾博是讲这个故事的中国/前Moderna操盘手。",
+    "application": "MRNA是点名的三期和200%打印。MRK是Keytruda配臂，不是疫苗公司。BNTX是带子上另一条西方路线。Private:Abogen是英博的车。CMC没在商业量级打进窗口之前，不要写「每一种癌一支苗」。传染病-only的Moderna模型可以淡。"
+  },
+  "key_insights": [
+    {
+      "view": "200%是天花板改写。",
+      "question": "INTerpath-001证明了什么？",
+      "answer": "个性化mRNA+Keytruda在黑色素瘤无复发上赢了单用PD-1。Moderna现在是肿瘤故事。"
+    },
+    {
+      "view": "CMC才是真三期。",
+      "question": "为什么是4–6周？",
+      "answer": "术后恢复是唯一的空窗。一人一药，不能交叉污染。错过肿瘤会回来。"
+    },
+    {
+      "view": "PD-1标签就是地图。",
+      "question": "英博5–10年押什么？",
+      "answer": "每个已获批的PD-1适应症都配上mRNA疫苗。刀+针+PD-1。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "MRNA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "INTerpath-001和200%打印把天花板改成肿瘤；下一考是CMC窗口 — medium"
+    },
+    {
+      "ticker": "MRK",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Keytruda是配臂；疫苗需要刹车被松开 — low"
+    },
+    {
+      "ticker": "Private:Abogen",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "前Moderna的中国操盘手，技术路线不同；对MRNA/BNTX尚未验证 — low"
+    }
+  ],
+  "golden_quotes": [
+    "一度暴涨超过200%",
+    "业界认为4到6周是一个最佳的期间",
+    "5到10年PD-1获批的适应症"
+  ],
+  "chronology": {
+    "subject": "mRNA肿瘤疫苗 · Moderna · 艾博",
+    "events": [
+      {
+        "date": "2010",
+        "event": "Moderna按mRNA平台成立"
+      },
+      {
+        "date": "2006+",
+        "event": "英博做mRNA；后离开Moderna创立艾博"
+      },
+      {
+        "date": "读出前周末",
+        "event": "艾博off-site：华尔街剩余叙事是肿瘤"
+      },
+      {
+        "date": "2026-08-19",
+        "event": "INTerpath-001；MRNA盘中+200%"
+      },
+      {
+        "date": "2026-08-27",
+        "event": "硅谷101 E250 / YouTube 英博"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly 硅谷101 E250",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/zh/manual+sv101-e250",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

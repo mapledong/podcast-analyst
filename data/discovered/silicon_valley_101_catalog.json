@@ -1,7 +1,16 @@
 {
   "podcast": "硅谷101",
-  "total": 201,
+  "total": 202,
   "episodes": [
+    {
+      "id": "sv101-ep202",
+      "episode_number": 202,
+      "title": "AI可解释性与对齐：黑箱、人格、幻觉与金门大桥Claude",
+      "youtube_id": "J5_90lWxM_o",
+      "youtube_url": "https://www.youtube.com/watch?v=J5_90lWxM_o",
+      "is_short": false,
+      "duration_minutes_est": 50
+    },
     {
       "id": "sv101-ep201",
       "episode_number": 201,

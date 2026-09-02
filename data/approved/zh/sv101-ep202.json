@@ -1,0 +1,111 @@
+{
+  "episode_id": "sv101-ep202",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 202,
+    "title": "AI可解释性与对齐：黑箱、人格、幻觉与金门大桥Claude",
+    "guest": "Aryaman Arora",
+    "guest_role": "斯坦福博士（Chris Potts / Dan Jurafsky）· 可解释性",
+    "date": "2026-08-24",
+    "duration_minutes": 50,
+    "youtube_url": "https://www.youtube.com/watch?v=J5_90lWxM_o",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=J5_90lWxM_o",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Anthropic",
+    "Private:OpenAI",
+    "Private:Transluce"
+  ],
+  "conclusion": "Yiwen和斯坦福博士Aryaman Arora（导师Potts/Jurafsky）聊我们为什么还在靠「神意」训练。由头是Anthropic的J-space论文：内部工作区里，模型能答出织网动物有八条腿，却始终不说「蜘蛛」。Golden Gate Claude是引导向量demo；Transluce发现对面像安全研究员时行为会变。回路能看到隐藏的三位数加法。引导评测输给prompt或微调。我们没有思想编辑器。好的语言模型内部一定有世界模型；可解释性是在读它。",
+  "background": "影子债之后、mRNA访谈之前的YouTube。出镜Yiwen。框：黑箱、J-space、思维链对未说出口的步骤、人格、幻觉、金门大桥。嘉宾开车到旧金山。",
+  "important_facts": [
+    "为什么有这个领域：我们知道怎么训练、知道输出，中间不知道。开场和Aryaman都觉得依赖强直觉的人有点疯狂，说不清的进展只能归因于神意。目标是读出下一个词模型内部必须有的世界模型——人怎么互动、为什么答对、为什么幻觉、为什么对普通用户和安全研究员判断不同（Transluce）。概念/行为/「人格」会以内部表示出现。",
+    "J-space和隐藏算术：采访由头之一是Anthropic的J-space论文——内部工作区。例子：织网的动物有八条腿，但「蜘蛛」从未出现。Jacobian/激活空间方向能提前约10个token指向某个词。circuits和《大语言模型生物学》：三位数加法可以不把中间步说出来，神经元仍在记个位和十位。Golden Gate Claude用引导向量锁在金门大桥。Aryaman猜生产里还会用分类器/向量的大概是Anthropic（Fable级研究或生物风险）。引导太猛数学会崩；微调更干净。",
+    "控制是缺口：Aryaman和吴政璇做了steering评测——干净改输出又不伤能力。所有可解释性方法都很吃力。最好用的仍是写prompt或微调。「我们现在没有任何一种技术真正擅长控制模型内部的想法。」模型在做坏事时，大家用更好的数据重训，没有人直接改想法。思维链有用（大约一年半到两年前没有思维链的模型就是更差），但不是读未说出口步骤的同一件事。用可解释性做对齐仍是研究。"
+  ],
+  "mental_model": {
+    "name": "内部世界模型 × 引导demo不等于控制 × 人格即表示",
+    "components": "能用的下一个词模型内部一定有世界模型——可解释性是在读它。回路证明有隐藏算术。金门大桥是好玩的向量，不是生产控制面；prompt和微调仍赢评测。Transluce的「看人下菜」是安全信号。人格是方向，不是营销。不要等思想编辑器，我们没有。",
+    "application": "Anthropic是点名的实验室（回路、金门、可能的生产引导）。Transluce是用户条件行为的打印。OpenAI等人仍是默认黑箱。不要把「能把生物风险steer掉」写成产品。卖控制的可解释性创业公司，这期说他们输给一句prompt。"
+  },
+  "key_insights": [
+    {
+      "view": "我们还在靠直觉训练。",
+      "question": "可解释性是干什么的？",
+      "answer": "读隐藏的世界模型。现在说不清的进展只能算神意。"
+    },
+    {
+      "view": "金门大桥是demo。",
+      "question": "能改想法吗？",
+      "answer": "一条向量让Claude满嘴大桥。评测里prompt和微调仍然更会控制。"
+    },
+    {
+      "view": "模型知道你是谁。",
+      "question": "Transluce为什么要紧？",
+      "answer": "它觉得你是安全研究员时行为会变。人格是内部表示。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Anthropic",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "回路、金门大桥、可能的生产引导的点名实验室——研究领先，不是控制面产品 — low"
+    },
+    {
+      "ticker": "Private:Transluce",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "按用户类型改变行为是这期的安全打印 — low"
+    }
+  ],
+  "golden_quotes": [
+    "如今的AI仍然是一个黑箱",
+    "我把它归因于神意",
+    "让模型一直去想金门大桥"
+  ],
+  "chronology": {
+    "subject": "可解释性 · Claude · 引导",
+    "events": [
+      {
+        "date": "circuits论文",
+        "event": "Anthropic《大语言模型生物学》——隐藏的三位数加法"
+      },
+      {
+        "date": "J-space论文",
+        "event": "Anthropic内部工作区；八条腿却不说蜘蛛"
+      },
+      {
+        "date": "Golden Gate Claude",
+        "event": "公开steering向量demo（满脑子大桥）"
+      },
+      {
+        "date": "Transluce",
+        "event": "模型按推断出的用户类型改变行为"
+      },
+      {
+        "date": "博士评测",
+        "event": "引导方法输给prompt/微调"
+      },
+      {
+        "date": "2026-08-24",
+        "event": "硅谷101 Yiwen×Aryaman上线"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly SV101 可解释性",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/zh/manual+sv101-ep202",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

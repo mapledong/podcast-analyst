@@ -1,0 +1,115 @@
+{
+  "episode_id": "sv101-e250",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 250,
+    "title": "mRNA's Second Front: Abogen CEO Ying Bo on Moderna's Melanoma Phase 3 and Personalized Cancer Vaccines",
+    "guest": "Ying Bo (英博)",
+    "guest_role": "Founder, chairman & CEO, Abogen Biosciences (艾博生物); ex-Moderna mRNA",
+    "date": "2026-08-27",
+    "duration_minutes": 77,
+    "youtube_url": "https://www.youtube.com/watch?v=G-1qbtXJKyQ",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=G-1qbtXJKyQ",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+      "fireside": "https://sv101.fireside.fm/263"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "MRNA",
+    "MRK",
+    "BNTX",
+    "Private:Abogen"
+  ],
+  "conclusion": "Yushan sits with Abogen CEO Ying Bo, ex-Moderna, as Moderna ripped >200% on INTerpath-001: personalized mRNA plus Merck's Keytruda beat PD-1 alone on melanoma recurrence. That recuts Moderna from an infectious-disease ceiling to oncology. The science is a wanted poster — sequence the tumor, pick neoantigens, write one mRNA, wrap it in LNP. The hard part is CMC: one drug per patient, no cross-contamination, in the 4–6 week post-op window. Ying's 5–10 year line: every PD-1 indication gets an mRNA vaccine. Knife + shot + PD-1. BioNTech and Chinese shops take different routes; AI ranks antigens, not the plant.",
+  "background": "Fireside E250 / matching YouTube. Presenter Yushan. Guest founded Abogen after Moderna and Boston years. Off-site the weekend before the readout had already marked oncology, not COVID vaccines, as the Street's residual. Same episode as the 8/27 audio.",
+  "important_facts": [
+    "Print: Moderna + Merck INTerpath-001 Phase 3 — personalized mRNA + Keytruda after melanoma resection, better recurrence-free survival than PD-1 alone. Tape (and cold open) says the stock ripped more than 200% intraday, rare for biotech. Ying: that confirms Moderna is not a capped infectious-disease name; add oncology and the TAM is 'stars and sea,' and therapeutic pricing is not prophylactic pricing. Founded 2010 on an mRNA platform. Whatever the next readout, they opened a road for the class.",
+    "How the product works: resect, sequence tumor-specific mutations, some become neoantigens (proteins the body has never seen), rank them, write a patient-specific mRNA, LNP-deliver, train T cells on residual disease. Keytruda releases the PD-1 brake; the vaccine names the enemy. Ying's stack in 5–10 years: scalpel + personalized vaccine + PD-1, and every approved PD-1 indication should sequentially get an mRNA vaccine. Cancer vaccines are decades old; Phase 3 is the new door.",
+    "CMC is the limit: personalized therapy is the edge of process and of regulation. Industry wants drug in 4–6 weeks so treatment starts in the normal recovery window; miss it and the tumor grows back. A 1,000-patient trial is not 1,000 units on one day — commercial scale is one machine per patient, on-time, no cross-contamination. Ying does not fear the unknown after Boston; biotech is supposed to be turbulent. AI's job on this tape is antigen ranking, not replacing the plant. Moderna, BioNTech, and Chinese names (Abogen) are on different technical bets."
+  ],
+  "mental_model": {
+    "name": "Wanted-Poster Vaccine × 4–6 Week CMC × PD-1 Pairing",
+    "components": "The Phase 3 is a pairing: name the neoantigen and release the brake. The 200% print is a ceiling change (infectious → oncology), not a COVID encore. The scarce asset is a plant that ships one SKU per patient in 4–6 weeks without mixing batches. AI ranks antigens. 5–10 years means every PD-1 label, not one melanoma win. Abogen is the China/ex-Moderna operator telling the story.",
+    "application": "MRNA is the named Phase 3 and the 200% print. MRK is the Keytruda pairing, not a vaccine company. BNTX is the other Western route on the tape. Private:Abogen is Ying's vehicle. Do not underwrite 'one vaccine for every cancer' until CMC hits the window at commercial volume. Fade infectious-disease-only models of Moderna."
+  },
+  "key_insights": [
+    {
+      "view": "The 200% is a ceiling change.",
+      "question": "What did INTerpath-001 prove?",
+      "answer": "Personalized mRNA + Keytruda beat PD-1 alone on melanoma RFS. Moderna is an oncology story now."
+    },
+    {
+      "view": "CMC is the real Phase 3.",
+      "question": "Why 4–6 weeks?",
+      "answer": "Post-op recovery is the only free window. One drug per patient, no cross-contamination. Miss it and the tumor returns."
+    },
+    {
+      "view": "PD-1 labels are the map.",
+      "question": "What does Ying underwrite for 5–10 years?",
+      "answer": "Every approved PD-1 indication gets an mRNA vaccine. Knife + shot + PD-1."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "MRNA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "INTerpath-001 + 200% print recuts the ceiling to oncology; CMC window is the next test — medium"
+    },
+    {
+      "ticker": "MRK",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Keytruda is the pairing arm; the vaccine needs the brake released — low"
+    },
+    {
+      "ticker": "Private:Abogen",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Ex-Moderna China operator on a different technical route; unproven vs MRNA/BNTX — low"
+    }
+  ],
+  "golden_quotes": [
+    "一度暴涨超过200%",
+    "业界认为4到6周是一个最佳的期间",
+    "5到10年PD-1获批的适应症"
+  ],
+  "chronology": {
+    "subject": "mRNA cancer vaccine · Moderna · Abogen",
+    "events": [
+      {
+        "date": "2010",
+        "event": "Moderna founded on mRNA platform"
+      },
+      {
+        "date": "2006+",
+        "event": "Ying Bo in mRNA; later leaves Moderna for Abogen"
+      },
+      {
+        "date": "weekend before readout",
+        "event": "Abogen off-site: Street residual is oncology, not infectious"
+      },
+      {
+        "date": "2026-08-19",
+        "event": "INTerpath-001; MRNA +200% intraday"
+      },
+      {
+        "date": "2026-08-27",
+        "event": "SV101 E250 / YouTube with Ying Bo"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly SV101 E250 mRNA",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/zh/manual+sv101-e250",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
