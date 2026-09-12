@@ -1,0 +1,126 @@
+# EP.153 — Zeng Ming (曾鸣)
+
+## *Zeng Ming on Industry History: Companies Die, and OpenAI/Anthropic Are Probably Not the Native-Era Winners*
+
+**★★★★☆** · 4/5
+
+**Podcast** Zhang Xiaojun Podcast · **Date** Sep 3, 2026 · **Duration** 154 min · **Read** ≈5 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Zeng Ming (曾鸣) · Strategist · former Alibaba chief of staff · CKGSB / Hupan
+
+**Listen** [YouTube](https://www.youtube.com/watch?v=69iJSe2n3ls) · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** OpenAI · Anthropic · BABA
+> ### Conclusion
+>
+> Zeng Ming (ex-Alibaba chief of staff) gives Zhang a three-stage history of general-purpose tech. Stage one becomes social infrastructure — 2026 is done, he says, because token is the consensus (Jensen's factory, Sam selling tokens). Model firms are AOL-class access, the future AI cloud; public infra only works as oligopoly plus hard regulation. Stage two is a flood of apps for eight to ten years. Stage three is native. OpenAI and Anthropic are remarkable and still probably not those winners. We are earlier than Yahoo, waiting for the Agent browser. The industrial firm dies. Nobody in the wave is safe.
+
+---
+
+## Background
+
+> 154 minutes. Zeng built strategy at Alibaba and helped start CKGSB and Hupan; book on the tape is 智能. Outline: cruel commercial laws, new platforms do not come from old ones, the firm dies, excellent is not excellence, a strategy-generation system, no giant is safe, creation is making something from nothing. YouTube captions off; whisper-small. Names corrected (曾鸣, 科层制, 同质化, 强监管, Yahoo, AOL, Anthropic). Zhang wanted this industry-history pass after a run of model-paper episodes.
+
+---
+
+## Key Facts
+
+> **F1** Three stages, from steam to mobile. (1) Society accepts the tech as infrastructure. (2) A flood of apps — Toutiao and joke apps before Douyin. (3) Native apps that run the new world. BlackBerry still had about 40% of US smartphones in 2010 versus iPhone in the 20s; iPhone 4 plus the App Store flipped it. Stage two can last 8–10 years and you cannot skip it. 2026 is his flag that stage one is basically finished: Jensen at GTC calling NVIDIA a token factory, Sam saying OpenAI sells tokens. He spent 2–3 years thinking we should buy Yahoo; by early 2026 he had walked back to the browser. Agents share capability the way 1992 websites shared information. The next two years' prize is a browser that standardizes agents. Yahoo 1995–2000; Google started as Yahoo's algorithm vendor. A $100–110B name in 2000 is about a $1T name today at 8%. AOL (1988) peaked near $220B in 2000, above Yahoo, then Time Warner took it past $300B — and disappeared. Google (1998) hit $100B in 2005.
+
+> **F2** Model firms: Anthropic and OpenAI are probably not the native-era winners. Lu Qi in 2024 said an AGI company would be 5x or 10x Google; Zeng hears a $10T company, not necessarily these two. Stage-one firms rarely live to stage two; stage two rarely to stage three. Stage one is usable-or-not science; stage two is product and new application tech. Public infrastructure has one working model: oligopoly plus government regulation. This year's scoreboard: Anthropic ahead, OpenAI catching, Google dropped on org and tech. ByteDance is first-tier in China and has a shot at being an AI cloud; Doubao is not the native app. Tencent graphs and Alibaba goods-graphs can be rewritten. How many firms cross eras well? It is not how many — it is whether any do. Basically none.
+
+> **F3** The firm dies. Hierarchy is an industrial-revolution tool; it will not be called a company. NewLab exists because researchers like lab, not company or university. One-person companies are a phase — one person can do what dozens did, then those people still organize. Upgrade the mind or replace the people. Excellent is a path most people can walk; excellence (Collins) is rarer. Strategy line: look 10 years, think 3, do 1 — creation lives in the 3-year window. Agent entry could start inside 3 years. Nobody is safe in the wave. Homogeneous supply cannot earn fat profit.
+
+
+---
+
+## Mental Model · *Three Stages × AOL Not Google × Firm Dies*
+
+> **Components**
+>
+> Read AI as a general-purpose tech with the same three innings as steam, electricity, and mobile. 2026 closes inning one because token is the unit. Treat model labs as access/cloud (AOL at $220B, then gone), not as the native app. Public infra clears as oligopoly plus a regulator. The missing product is the Agent browser that drops create and consume costs the way HTML did. Stage-one science orgs do not become stage-two product orgs. Old platforms matched information; new ones match capability to need — too different to be born inside the old graph. The industrial firm is the wrong vessel; NewLab and post-company teams are the vessel. Look 10, think 3, do 1. A $100B name in 2000 is about $1T today at 8% — first-wave size is not last-wave identity.
+>
+> **Application**
+>
+> Private:OpenAI and Private:Anthropic are the named stage-one lead pair — Long only as AI-cloud infra, not as the Douyin of the 2030s. A $10T winner may exist and still not be them. BABA is Zeng's home cycle and a goods-graph that can be rewritten; do not treat Alibaba as safe because it all-in AI. ByteDance is the China name he will allow as a possible AI cloud, with Doubao explicitly not the native app. Fade any deck that prices a model lab as the native-era winner, or a one-person company as the end of organization. The two-year Agent-browser gap is the open slot. Homogeneous tokens will not pay fat margins; that is the cruel line for founders still pricing a model API like a consumer brand.
+
+---
+
+
+## Key Insights
+
+> **1.** 2026 ends stage one.
+>
+> **Q** Where are we vs Yahoo?
+>
+> **A** Token is the consensus. Jensen sells a factory; Sam sells tokens. Zeng walked back from buy-Yahoo to we do not even have the browser yet.
+
+> **2.** AOL can be $220B and still vanish.
+>
+> **Q** Are OpenAI and Anthropic the native winners?
+>
+> **A** No. Remarkable, maybe still alive later, probably not the native-era winners. Stage-one firms rarely live to stage two.
+
+> **3.** The company dies.
+>
+> **Q** What replaces hierarchy?
+>
+> **A** Not a one-person firm forever. NewLab-like teams of people who can already do the work of dozens. Upgrade the mind or replace the people. Kids already will not sit with the old boss face.
+
+---
+
+## Investment Ideas
+
+> **1. OpenAI** · 🟢 LONG · ●○○ Low
+>
+> Named AOL-class access / future AI cloud; he says they are probably not the native-era winner — low
+
+> **2. Anthropic** · 🟢 LONG · ●○○ Low
+>
+> The 2026 stage-one lead on this tape; same infra-oligopoly box, not the Douyin of the next era — low
+
+> **3. BABA** · 🟢 LONG · ●○○ Low
+>
+> His home cycle; goods-graph can be rewritten and no giant is safe — low
+
+---
+
+## Golden Quotes
+
+> "公司会消亡"
+
+> "不是原生应用阶段的大赢家"
+
+> "在巨浪面前没有人是安全的"
+
+---
+
+## Chronology
+
+> *AI stages · AOL · post-company*
+>
+> **1988–2000** AOL service → ≈$220B peak, then Time Warner >$300B
+>
+> **1992 / 1995–2000** Website boom; Yahoo glory; Google as Yahoo's vendor
+>
+> **2010** BlackBerry ≈40% US smartphones vs iPhone ≈20s
+>
+> **2024** Lu Qi: AGI co 5–10x Google
+>
+> **2026 early** Token consensus; Jensen token factory; Sam sells tokens
+>
+> **next 2–3y** Agent browser / entry may appear
+>
+> **2026-09-03** 张小珺 EP.153 Zeng Ming
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Podcast, Zhang Xiaojun, or Zeng Ming (曾鸣). It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the [original episode](https://www.youtube.com/watch?v=69iJSe2n3ls) for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

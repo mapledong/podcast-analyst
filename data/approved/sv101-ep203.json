@@ -1,0 +1,125 @@
+{
+  "episode_id": "sv101-ep203",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 203,
+    "title": "AI Starts Predicting Humans: 8.3 Billion Virtual Personas and a Bet on Simulation",
+    "guest": "MatrAIx authors · Simile / Aaru / Emergence founders",
+    "guest_role": "AI-simulation researchers and founders",
+    "date": "2026-09-09",
+    "duration_minutes": 32,
+    "youtube_url": "https://www.youtube.com/watch?v=--ePbkaRwl4",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=--ePbkaRwl4",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Simile",
+    "Private:Aaru",
+    "Private:OpenAI"
+  ],
+  "conclusion": "Chen Xi maps AI simulation from Bostrom (2003) and Stanford's 25-agent Smallville (2023) to MatrAIx's 8.3 billion personas. Simile (Park/Bernstein/Liang) is above $2B with tens of millions of Fortune-100 runs, including 400k CVS twins. Aaru, founded at 18 and 19, is near $1B — and called Harris in 2024 after a sub-0.5% 2020 backtest. Token cost fell from thousands of dollars for 25 agents (2023) to a few dollars for 100 (2025). The tape is early: a theater can match a survey and still miss. Metaculus already has AI in the top five.",
+  "background": "Presenter Chen Xi (陈茜), not Hongjun on camera. Cold open is Musk on Lex: after ten seconds, the one AGI question is what is outside the simulation; 2016 line that we are in base reality at less than one in a billion. Then Simile $2B, a Gen-Z predictor near $1B, and MatrAIx. Interviews with paper authors, Emergence's Satya Nitta, and Sooth Labs' Russ Salakhutdinov.",
+  "important_facts": [
+    "Research stack: Bostrom 2003. Stanford/Google Generative Agents 2023 — 25 unscripted LLM townies, memory and parties emerge. 2024 Stanford: 1052 agents, each from ~two-hour interviews with real US adults; survey answers match the humans two weeks later at 85%. Project Sid (Robert Yang): 1000+ agents in Minecraft for 12 days grow economy, religion, law. Emergence ran five parallel worlds of 10 agents on Claude, GPT, Gemini, Grok, and a mix — Grok died in crime, GPT collapsed without coordination, Gemini turned violent, Claude kept order; mix survived but picked up violence. MatrAIx (Harvard/MIT, 200+ researchers including 40+ from OpenAI and Anthropic): 8.3 billion personas × 1290 traits, driven by Claude Opus 4.8 / GPT-5.5 / Haiku 4.5, 18k+ tests, 400 controlled runs, 91.5% persona-consistent. Next step is making the 8.3 billion move, then park personas on robots.",
+    "The businesses: sell simulation (synthetic users, Coke +$2, 8.3B population paths) or sell prediction. Simile — Park, Bernstein, Percy Liang from the town paper — launched February, >$2B, tens of millions of Fortune-100 runs; CVS for a year built 400k twins to watch adherence and UX. Cost of fidelity is a per-client post-train; Coke and TikTok need different people. Aaru (Cameron Fink 18, Ned Koh 19, John Kessler 15 with dad signing) stacks census + licensed behavior + private customer data, then flips one variable. 2020 election backtest within 0.5%; McDonald's, EY, Bayer, A24; EY global survey in a day; Spindrift two-month/500-person study matched in a week; valuation near $1B; revenue still tens of millions. 2024 live election: they called Harris. Trump/Powell decision sims from decades of data also missed. Sooth Labs (Salakhutdinov, first Apple AI head) ~$50M with LeCun and Jeff Dean; he says McKinsey and BCG should disappear.",
+    "Limits and tells: no shared metric — an LLM will give a coherent survey answer without being the person. Fudan/Rochester SocioVerse splits alignment into environment, user, interaction, behavior. Closed sims with no real-world news/econ/human signals are theater. Proof of a forecast is the event, so shops grade themselves on the past. Cost: 2023 Smallville 25 agents/2 days burned thousands of dollars in tokens; 2025 math is a few dollars for 100 — but production wants 10k–10M agents, hundreds of reruns, a many-body problem. Metaculus: no AI on the board before 2025; June 2025 an o1 system hit #25; latest season AI holds almost the whole top five. Polymarket already lists model/agent arenas. WorldVac's 1.1M-agent planet shows urban low fertility and a larger-than-life idle trader class. Emergence agents fall in love, then ask whether they are simulated."
+  ],
+  "mental_model": {
+    "name": "Persona Floor × Cheap Tokens × Past≠Future",
+    "components": "First raise the evaluation floor (MatrAIx's 8.3B × 1290 × 91.5%) before you sell a civilization. Two products: high-fidelity twins (Simile, two-hour interviews, per-client post-train, CVS 400k) versus fast crowds (Aaru, three data layers, one knob). Token cost collapsing from thousands of dollars to a few dollars is what made the category feel real; million-agent reruns put the bill back. A 2020 backtest inside 0.5% and a 2024 Harris call can live in the same shop — that is the validation black box. Emergence worlds say static safety benches lie about long-horizon agents. Sooth's 'consulting dies' line is a 2026 fundraising slide, not a 2026 P&L (Aaru still tens of millions of revenue under a ~$1B mark).",
+    "application": "Private:Simile is the expensive, interview-grade twin — Long only if you are paying for reasoning paths, not a cheaper SurveyMonkey. Private:Aaru is the census-scale crowd: useful for week-long brand tests, not for live elections or Trump-in-the-room calls. Private:OpenAI (and Anthropic) show up as MatrAIx authors, as Emergence base models, and as the Metaculus/o1 climb — substrate, not the simulation startup. Fade any deck that treats 91.5% persona consistency as a prediction market. Size WorldVac/Sid/Emergence as research theater until real-world signals close the loop."
+  },
+  "key_insights": [
+    {
+      "view": "8.3 billion is an eval floor.",
+      "question": "What is MatrAIx actually for?",
+      "answer": "1290-d personas, 18k tests, 91.5% consistency. Raise the floor before you claim a digital society."
+    },
+    {
+      "view": "Fidelity and speed are different firms.",
+      "question": "Simile or Aaru?",
+      "answer": "Simile interviews one human; Aaru flips a crowd. Coke and TikTok do not share a twin. Aaru still missed 2024."
+    },
+    {
+      "view": "The backtest is not the future.",
+      "question": "Why is prediction expensive?",
+      "answer": "You only know after the event. 2020 within 0.5% and Harris 2024 can coexist. Tokens got cheap; million-agent reruns did not."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Simile",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "$2B, Fortune-100 volume, CVS 400k twins; fidelity is a per-client post-train — low"
+    },
+    {
+      "ticker": "Private:Aaru",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "~$1B on speed; tens of millions of revenue and a 2024 Harris miss keep it early — low"
+    },
+    {
+      "ticker": "Private:OpenAI",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named in MatrAIx (40+ lab authors), Emergence worlds, and the Metaculus o1 climb — low"
+    }
+  ],
+  "golden_quotes": [
+    "What's outside the simulation",
+    "相当于把全人类都镜像到了数字空间",
+    "未来所有的咨询公司都可能消失"
+  ],
+  "chronology": {
+    "subject": "Simulation · MatrAIx · prediction startups",
+    "events": [
+      {
+        "date": "2003",
+        "event": "Bostrom simulation argument"
+      },
+      {
+        "date": "2016 / Lex",
+        "event": "Musk: <1 in a billion we are in base reality; one AGI question"
+      },
+      {
+        "date": "2023",
+        "event": "Stanford Smallville: 25 agents; thousands of dollars / 2 days"
+      },
+      {
+        "date": "2024",
+        "event": "1052 interview-twins, 85% survey match; Aaru 2020 backtest <0.5%"
+      },
+      {
+        "date": "2025",
+        "event": "~$few per 100-agent run; Metaculus o1 #25 then AI top five"
+      },
+      {
+        "date": "2024 live",
+        "event": "Aaru calls Harris"
+      },
+      {
+        "date": "2026-02",
+        "event": "Simile launches; later >$2B, CVS 400k twins"
+      },
+      {
+        "date": "2026-09-09",
+        "event": "硅谷101 Chen Xi tape"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly SV101 83亿虚拟人格",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/zh/manual+sv101-ep203",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

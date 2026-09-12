@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T16:19:32.105Z",
+  "generatedAt": "2026-09-12T12:25:06.493Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -69,56 +69,56 @@
       "accent_color": "#0B4F6C",
       "youtube_url": "https://www.youtube.com/@TheValley101",
       "cover_url": "/covers/silicon-valley-101.jpg",
-      "episodeCount": 28
+      "episodeCount": 27
     }
   ],
   "episodes": [
     {
-      "id": "ep489",
+      "id": "ep490",
       "podcastId": "invest-like-the-best",
-      "episodeNumber": 489,
-      "title": "Sarah Guo — No Priors, Just Conviction",
-      "guest": "Sarah Guo",
-      "displayTitle": "Sarah Guo",
-      "displaySubtitle": "Founder, Conviction",
-      "guestRole": "Founder, Conviction",
-      "date": "2026-09-01",
-      "durationMinutes": 59,
-      "readMinutes": 3,
+      "episodeNumber": 490,
+      "title": "Walter Russell Mead — How America Keeps Winning",
+      "guest": "Walter Russell Mead",
+      "displayTitle": "Walter Russell Mead",
+      "displaySubtitle": "Bard / Hudson Institute · WSJ Global View",
+      "guestRole": "Bard / Hudson Institute · WSJ Global View",
+      "date": "2026-09-08",
+      "durationMinutes": 78,
+      "readMinutes": 5,
       "rating": 3,
-      "conclusion": "Sarah Guo is long the AI wager and will not tap the brakes: a friend wants to, but is going 90 mph. Conviction's edge is staying close to ~250 frontier builders — not a backtest. She wants high-agency people plus risk capital so open-source and US industrial policy do not collapse into a two-lab monolith. Compute is the constraint: $750B-class spend empties individual ownership. Sunday Robotics (Tony Zhao, Chenxi; Stanford / Toyota / DeepMind / Tesla) is the physical-world print. She raised on execute-like-hell, not a polished deck. Abundant intelligence is not inevitable when supply chains are fragile.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=hY6S__xeCjg",
-      "summaryFile": "ep489.md",
+      "conclusion": "Mead's three-century scoreboard is ten letters: UP to UK to US. Maritime hobbits keep beating centralized land empires — Louis XIV, Napoleon, Germany, the Soviets, now China. Pax Americana after 1945 and 1990 is crumbling; American power is not. Xi's nightmare is a US counter-blockade: no oil, no soy, no exports. Market-cap one through twenty is already US tech, but those firms still need the world. Trump's hand mixes Jeffersonians and Jacksonians. Isolationism plus dead Hormuz deterrence is the risk, not China inventing a new sea order.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=v-2BdiL6r74",
+      "summaryFile": "ep490.md",
       "availableLocales": [
         "en"
       ],
       "defaultLocale": "en",
       "keywords": [
-        "Private:Conviction",
-        "NVDA",
-        "Private:SundayRobotics"
+        "TSM",
+        "GOOGL",
+        "XLE"
       ],
       "investmentIdeas": [
         {
-          "ticker": "Private:Conviction",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "The 250-person map plus execute-like-hell raise is the product; LP demand is already #1/#2 — medium"
-        },
-        {
-          "ticker": "NVDA",
+          "ticker": "GOOGL",
           "direction": "Long",
           "confidence": "Low",
-          "thesis": "Default substrate under the $750B compute constraint she names; not a new chip thesis — low"
+          "thesis": "Named 1990s 'global company' now inside the technosphere fight; US already owns market-cap 1–20 — low"
         },
         {
-          "ticker": "Private:SundayRobotics",
+          "ticker": "TSM",
           "direction": "Long",
           "confidence": "Low",
-          "thesis": "Named physical-world bet (Zhao/Chenxi, Stanford/Tesla/DeepMind path) — low"
+          "thesis": "Soft-blockade and Japan are the tape, not a D-Day clock; Ukraine drones vs a navy is 'good news for Taiwan' — low"
+        },
+        {
+          "ticker": "XLE",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Hormuz and Gulf desal risk is why outside power still has to hold Iran; not a shale print — low"
         }
       ],
-      "chronologySubject": "Conviction · AI wager · compute"
+      "chronologySubject": "Maritime order · China · Taiwan"
     },
     {
       "id": "ep488",
@@ -2534,6 +2534,47 @@
       "chronologySubject": "Sixth Street"
     },
     {
+      "id": "fnd-432-the-mind-of-napoleon",
+      "podcastId": "founders",
+      "episodeNumber": 432,
+      "title": "#432 The Mind of Napoleon",
+      "guest": null,
+      "displayTitle": "#432 The Mind of Napoleon",
+      "displaySubtitle": "Solo biography (Napoleon / J. Christopher Herold ed.)",
+      "guestRole": "Solo biography (Napoleon / J. Christopher Herold ed.)",
+      "date": "2026-09-05",
+      "durationMinutes": 56,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Senra's second Napoleon tape is Herold's 1955 The Mind of Napoleon — about 300 pages of the man talking. Destiny is the doctrine: sacrifice comfort and happiness; every thought is a step to action. Luck is exploiting accidents, not chance. Men move by fear and self-interest. Success makes the great man. He dictated army bulletins himself and 21 sheets for Josephine's water-cure. Founders after World War II still study him the way they later study Churchill. This is a methods tape, not a Waterloo chronology.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=AuRDLXuLZE8",
+      "summaryFile": "fnd-432-the-mind-of-napoleon.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AAPL",
+        "BRK.B",
+        "Private:Napoleon"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AAPL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Jobs-as-own-marketer is the operator print Senra maps onto Napoleon; not a new iPhone thesis — low"
+        },
+        {
+          "ticker": "BRK.B",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Buffett/Munger cynicism and opportunity-driven lines are the living shelf, not a 1800s replay — low"
+        }
+      ],
+      "chronologySubject": "Napoleon · destiny · propaganda"
+    },
+    {
       "id": "ep431",
       "podcastId": "invest-like-the-best",
       "episodeNumber": 431,
@@ -2579,47 +2620,6 @@
         }
       ],
       "chronologySubject": "SKIMS"
-    },
-    {
-      "id": "fnd-431-how-henry-singleton-worked",
-      "podcastId": "founders",
-      "episodeNumber": 431,
-      "title": "How Henry Singleton Worked",
-      "guest": null,
-      "displayTitle": "How Henry Singleton Worked",
-      "displaySubtitle": "Solo biography (Henry Singleton / Teledyne)",
-      "guestRole": "Solo biography (Henry Singleton / Teledyne)",
-      "date": "2026-08-31",
-      "durationMinutes": 49,
-      "readMinutes": 3,
-      "rating": 3,
-      "conclusion": "Senra rereads Henry Singleton as the CEO Buffett said most bosses are unprepared to be: a capital allocator, not a Carnegie Hall musician suddenly chairing the Fed. Teledyne (captions: Teladine) compounded 20.4% a year from 1963 to 1990 — $1 became $180. Munger called the returns utterly ridiculous. Singleton bought 130 companies in 1961–69 with pricey conglomerate stock, then flipped to aggressive buybacks when the stock was cheap, eventually owning over 90%. No dividends, cash flow over earnings, decentralized ops, never split the stock, the Sphinx to analysts. Insurance float was the largest book, the same tool Buffett used.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=fC6ICHKJBXU",
-      "summaryFile": "fnd-431-how-henry-singleton-worked.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "TDY",
-        "BRK.B",
-        "Private:HenrySingleton"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "TDY",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "The surviving Teledyne name; the tape is Singleton's allocation machine, not today's multiple — low"
-        },
-        {
-          "ticker": "BRK.B",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "The float-and-allocate peer Senra pairs with Singleton — low"
-        }
-      ],
-      "chronologySubject": "Henry Singleton · Teledyne · capital allocation"
     },
     {
       "id": "ep430",
@@ -5803,56 +5803,6 @@
       "chronologySubject": "Jeff Bezos · Amazon Shareholder Letters"
     },
     {
-      "id": "sv101-e250",
-      "podcastId": "silicon-valley-101",
-      "episodeNumber": 250,
-      "title": "mRNA's Second Front: Abogen CEO Ying Bo on Moderna's Melanoma Phase 3 and Personalized Cancer Vaccines",
-      "guest": "Ying Bo (英博)",
-      "displayTitle": "Ying Bo (英博)",
-      "displaySubtitle": "mRNA's Second Front: Abogen CEO Ying Bo on Moderna's Melanoma Phase 3 and Personalized Cancer Vaccines",
-      "guestRole": "Founder, chairman & CEO, Abogen Biosciences (艾博生物); ex-Moderna mRNA",
-      "date": "2026-08-27",
-      "durationMinutes": 77,
-      "readMinutes": 3,
-      "rating": 3,
-      "conclusion": "Yushan sits with Abogen CEO Ying Bo, ex-Moderna, as Moderna ripped >200% on INTerpath-001: personalized mRNA plus Merck's Keytruda beat PD-1 alone on melanoma recurrence. That recuts Moderna from an infectious-disease ceiling to oncology. The science is a wanted poster — sequence the tumor, pick neoantigens, write one mRNA, wrap it in LNP. The hard part is CMC: one drug per patient, no cross-contamination, in the 4–6 week post-op window. Ying's 5–10 year line: every PD-1 indication gets an mRNA vaccine. Knife + shot + PD-1. BioNTech and Chinese shops take different routes; AI ranks antigens, not the plant.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=G-1qbtXJKyQ",
-      "summaryFile": "sv101-e250.md",
-      "summaryFileZh": "sv101-e250.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "MRNA",
-        "MRK",
-        "BNTX",
-        "Private:Abogen"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "MRNA",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "INTerpath-001 + 200% print recuts the ceiling to oncology; CMC window is the next test — medium"
-        },
-        {
-          "ticker": "MRK",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Keytruda is the pairing arm; the vaccine needs the brake released — low"
-        },
-        {
-          "ticker": "Private:Abogen",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Ex-Moderna China operator on a different technical route; unproven vs MRNA/BNTX — low"
-        }
-      ],
-      "chronologySubject": "mRNA cancer vaccine · Moderna · Abogen"
-    },
-    {
       "id": "sv101-e249",
       "podcastId": "silicon-valley-101",
       "episodeNumber": 249,
@@ -5940,47 +5890,53 @@
       "chronologySubject": "Lingyang · FDE · enterprise agents"
     },
     {
-      "id": "sv101-ep202",
+      "id": "sv101-ep203",
       "podcastId": "silicon-valley-101",
-      "episodeNumber": 202,
-      "title": "AI Interpretability: Black Boxes, Personalities, Hallucinations, and Golden Gate Claude",
-      "guest": "Aryaman Arora",
-      "displayTitle": "Aryaman Arora",
-      "displaySubtitle": "AI Interpretability: Black Boxes, Personalities, Hallucinations, and Golden Gate Claude",
-      "guestRole": "Stanford PhD (Chris Potts / Dan Jurafsky) · interpretability",
-      "date": "2026-08-24",
-      "durationMinutes": 50,
-      "readMinutes": 3,
+      "episodeNumber": 203,
+      "title": "AI Starts Predicting Humans: 8.3 Billion Virtual Personas and a Bet on Simulation",
+      "guest": "MatrAIx authors · Simile / Aaru / Emergence founders",
+      "displayTitle": "MatrAIx authors · Simile / Aaru / Emergence founders",
+      "displaySubtitle": "AI Starts Predicting Humans: 8.3 Billion Virtual Personas and a Bet on Simulation",
+      "guestRole": "AI-simulation researchers and founders",
+      "date": "2026-09-09",
+      "durationMinutes": 32,
+      "readMinutes": 5,
       "rating": 3,
-      "conclusion": "Yiwen sits with Stanford PhD Aryaman Arora (Potts/Jurafsky) on why we still train by 'divine intuition.' Anthropic's J-space paper is the occasion: an internal workspace where a model can answer 'eight legs' for a web-weaving animal without ever saying spider. Golden Gate Claude was a steering-vector demo; Transluce showed behavior changes when the user looks like a safety researcher. Circuits see hidden three-digit add. Steering benches lose to a prompt or a finetune. We have no thought-editor. A good LM must contain a world model; interpretability is trying to read it.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=J5_90lWxM_o",
-      "summaryFile": "sv101-ep202.md",
-      "summaryFileZh": "sv101-ep202.md",
+      "conclusion": "Chen Xi maps AI simulation from Bostrom (2003) and Stanford's 25-agent Smallville (2023) to MatrAIx's 8.3 billion personas. Simile (Park/Bernstein/Liang) is above $2B with tens of millions of Fortune-100 runs, including 400k CVS twins. Aaru, founded at 18 and 19, is near $1B — and called Harris in 2024 after a sub-0.5% 2020 backtest. Token cost fell from thousands of dollars for 25 agents (2023) to a few dollars for 100 (2025). The tape is early: a theater can match a survey and still miss. Metaculus already has AI in the top five.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=--ePbkaRwl4",
+      "summaryFile": "sv101-ep203.md",
+      "summaryFileZh": "sv101-ep203.md",
       "availableLocales": [
         "en",
         "zh"
       ],
       "defaultLocale": "en",
       "keywords": [
-        "Private:Anthropic",
-        "Private:OpenAI",
-        "Private:Transluce"
+        "Private:Simile",
+        "Private:Aaru",
+        "Private:OpenAI"
       ],
       "investmentIdeas": [
         {
-          "ticker": "Private:Anthropic",
+          "ticker": "Private:Simile",
           "direction": "Long",
           "confidence": "Low",
-          "thesis": "Named owner of circuits, Golden Gate, and possible production steering — research lead, not a control-plane product — low"
+          "thesis": "$2B, Fortune-100 volume, CVS 400k twins; fidelity is a per-client post-train — low"
         },
         {
-          "ticker": "Private:Transluce",
+          "ticker": "Private:Aaru",
           "direction": "Long",
           "confidence": "Low",
-          "thesis": "User-conditioned behavior is the safety print on this tape — low"
+          "thesis": "~$1B on speed; tens of millions of revenue and a 2024 Harris miss keep it early — low"
+        },
+        {
+          "ticker": "Private:OpenAI",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named in MatrAIx (40+ lab authors), Emergence worlds, and the Metaculus o1 climb — low"
         }
       ],
-      "chronologySubject": "Interpretability · Claude · steering"
+      "chronologySubject": "Simulation · MatrAIx · prediction startups"
     },
     {
       "id": "sv101-ep201",
@@ -6164,6 +6120,55 @@
       "chronologySubject": "Cerebras · wafer-scale · IPO"
     },
     {
+      "id": "tzs-ep198",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 198,
+      "title": "Capital-Returns Thinking and Smart Money: Yongqing with Dai Bin",
+      "guest": "Dai Bin (戴斌)",
+      "displayTitle": "Dai Bin (戴斌)",
+      "displaySubtitle": "Capital-Returns Thinking and Smart Money: Yongqing with Dai Bin",
+      "guestRole": "Public-markets PM · MA200 / 雪球",
+      "date": "2026-09-06",
+      "durationMinutes": 92,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Dai Bin (NJU physics, CAS semiconductors, 3.5 years PE then 12.5 years public at one firm) patches Graham net-nets and an MSCI-style quality pool with Marathon's Capital Returns as the weighting frame. Four stages become capex/depreciation bands, insider buybacks, and fund crowding. Mutual-fund electronics/AI was already above 60% by Q2. The miss is AI hardware: he sized NVIDIA off 18 million servers and a 30–50% attach at ~$3T when the stock was ~$2T, then capex ran 2,000 to 9,000. Storage and MLCC were the catchable layer. Cheaper tokens are the next pair, not another GPU hero call.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep198.md",
+      "summaryFileZh": "tzs-ep198.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NVDA",
+        "TCEHY",
+        "TSLA"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named miss (18M servers → ~$3T vs ~$2T; capex 2k→9k). He is not short; next work is the chain, not a new hero call — low"
+        },
+        {
+          "ticker": "TCEHY",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Cash improved ahead of the P&L around the 2023 internet low after cutting people and lines — low"
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Lingang near-free land was the policy catfish that built the local chain; a tell, not a 2026 model — low"
+        }
+      ],
+      "chronologySubject": "Dai Bin · Capital Returns · AI miss"
+    },
+    {
       "id": "acq-disney-the-renaissance-and-the-empire",
       "podcastId": "acquired",
       "episodeNumber": 213,
@@ -6253,49 +6258,6 @@
         }
       ],
       "chronologySubject": "Ying Sheng · SGLang · RadixArk"
-    },
-    {
-      "id": "tzs-ep197",
-      "podcastId": "touzi-shizhanpai",
-      "episodeNumber": 197,
-      "title": "Why Value Investing When Every School Has a Pitch: Yongqing on 自由×无用",
-      "guest": "Kathleen (凯瑟琳)",
-      "displayTitle": "Kathleen (凯瑟琳)",
-      "displaySubtitle": "Why Value Investing When Every School Has a Pitch: Yongqing on 自由×无用",
-      "guestRole": "Host, 自由×无用 (crossover; Yongqing is the guest)",
-      "date": "2026-09-02",
-      "durationMinutes": 65,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Kathleen's 自由×无用 crossover lets Yongqing explain the method before the ticker. The street proverb is seven lose, two flat, one wins. He opened around 2014 on charts and Chan lun, then in 2016 sat a PE job that screened 300-plus names to three deals. A Beida value class (Chang Jin, Li Lu's partner) ran 2016–2020. After 2023 he cut to high-quality-company value: few names compound, research compounds on durable trades (top consumer, internet, copper/gold/oil), and capital must last two to three years. Moutai 400 to 2700 was watched, not owned. Ability circle is not 'good company.'",
-      "youtubeUrl": "",
-      "summaryFile": "tzs-ep197.md",
-      "summaryFileZh": "tzs-ep197.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "600519.SZ",
-        "TCEHY",
-        "AAPL"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "600519.SZ",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "The 400-to-2700 bystander print; buy only when not expensive and the circle is real, not because it is a good company — low"
-        },
-        {
-          "ticker": "TCEHY",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Named as a high-quality, transparent boss who still takes the earnings call — low"
-        }
-      ],
-      "chronologySubject": "Yongqing · value path · Moutai"
     },
     {
       "id": "sv101-ep196",
@@ -8722,6 +8684,7 @@
       "keywords": [
         "600519.SZ",
         "PDD",
+        "Moutai",
         "Channel Reform"
       ],
       "investmentIdeas": [
@@ -8937,47 +8900,53 @@
       "chronologySubject": "David · Dining Insights"
     },
     {
-      "id": "zj-ep152",
+      "id": "zj-ep153",
       "podcastId": "zhang-xiaojun",
-      "episodeNumber": 152,
-      "title": "Reading the Kimi K3 Tech Report: Attention Aesthetics, Multi-Teacher Distill, Open MoE",
-      "guest": "Sun Yutao (孙宇涛)",
-      "displayTitle": "Sun Yutao (孙宇涛)",
-      "displaySubtitle": "Reading the Kimi K3 Tech Report: Attention Aesthetics, Multi-Teacher Distill, Open MoE",
-      "guestRole": "Tsinghua CS PhD candidate · incoming scholar, Shanghai Innovation Institute",
-      "date": "2026-08-26",
-      "durationMinutes": 124,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "Zhang Xiaojun's paper-club tape: Tsinghua PhD Sun Yutao (architecture/pretrain since 2023) walks Kimi K3 after they waited for the right guest. K3 is an effectively scaled 2.8T fully open MoE — about 100B active, 1M context — larger than other Chinese open models at ship. Fake scale is standing up 2.8T and training 100B tokens. K2 reused a DeepSeek-V3-class stack; K3 is the architecture episode: hybrid attention, gated attention on MLA, latent MoE dispatch, on-policy distillation instead of merging RL rewards. His hot take: after Theseus-ship replacements, frontier models are refinements, not human-scale inventions.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=axFwKz1X0is",
-      "summaryFile": "zj-ep152.md",
-      "summaryFileZh": "zj-ep152.md",
+      "episodeNumber": 153,
+      "title": "Zeng Ming on Industry History: Companies Die, and OpenAI/Anthropic Are Probably Not the Native-Era Winners",
+      "guest": "Zeng Ming (曾鸣)",
+      "displayTitle": "Zeng Ming (曾鸣)",
+      "displaySubtitle": "Zeng Ming on Industry History: Companies Die, and OpenAI/Anthropic Are Probably Not the Native-Era Winners",
+      "guestRole": "Strategist · former Alibaba chief of staff · CKGSB / Hupan",
+      "date": "2026-09-03",
+      "durationMinutes": 154,
+      "readMinutes": 5,
+      "rating": 4,
+      "conclusion": "Zeng Ming (ex-Alibaba chief of staff) gives Zhang a three-stage history of general-purpose tech. Stage one becomes social infrastructure — 2026 is done, he says, because token is the consensus (Jensen's factory, Sam selling tokens). Model firms are AOL-class access, the future AI cloud; public infra only works as oligopoly plus hard regulation. Stage two is a flood of apps for eight to ten years. Stage three is native. OpenAI and Anthropic are remarkable and still probably not those winners. We are earlier than Yahoo, waiting for the Agent browser. The industrial firm dies. Nobody in the wave is safe.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=69iJSe2n3ls",
+      "summaryFile": "zj-ep153.md",
+      "summaryFileZh": "zj-ep153.md",
       "availableLocales": [
         "en",
         "zh"
       ],
       "defaultLocale": "en",
       "keywords": [
-        "Private:Moonshot",
-        "Private:DeepSeek",
-        "NVDA"
+        "Private:OpenAI",
+        "Private:Anthropic",
+        "BABA"
       ],
       "investmentIdeas": [
         {
-          "ticker": "Private:Moonshot",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Named 2.8T / ~100B-active open MoE with a real architecture delta vs K2; scale is only as good as the tokens — medium"
-        },
-        {
-          "ticker": "Private:DeepSeek",
+          "ticker": "Private:OpenAI",
           "direction": "Long",
           "confidence": "Low",
-          "thesis": "The V3-class stack K2 copied, and the V4 lab that already walked off MLA — low"
+          "thesis": "Named AOL-class access / future AI cloud; he says they are probably not the native-era winner — low"
+        },
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The 2026 stage-one lead on this tape; same infra-oligopoly box, not the Douyin of the next era — low"
+        },
+        {
+          "ticker": "BABA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "His home cycle; goods-graph can be rewritten and no giant is safe — low"
         }
       ],
-      "chronologySubject": "Kimi K3 · open MoE · architecture"
+      "chronologySubject": "AI stages · AOL · post-company"
     },
     {
       "id": "zj-ep151",

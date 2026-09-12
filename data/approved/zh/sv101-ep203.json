@@ -1,0 +1,125 @@
+{
+  "episode_id": "sv101-ep203",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 203,
+    "title": "AI开始预测人类：83亿虚拟人格、数字社会，与一门押注未来的生意",
+    "guest": "MatrAIx作者、Simile / Aaru / Emergence创业者",
+    "guest_role": "AI模拟研究者与创始人",
+    "date": "2026-09-09",
+    "duration_minutes": 32,
+    "youtube_url": "https://www.youtube.com/watch?v=--ePbkaRwl4",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=--ePbkaRwl4",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Simile",
+    "Private:Aaru",
+    "Private:OpenAI"
+  ],
+  "conclusion": "陈茜把AI模拟从Bostrom（2003）和斯坦福25人小镇（2023）接到哈佛/MIT的MatrAIx：83亿人格。Simile（Park/Bernstein/Liang）估值超20亿，已给财富100强跑数千万次，CVS一年造了40万数字分身。Aaru两个创始人18、19岁，估值接近10亿——2020回测误差不到0.5%，2024却把哈里斯看成赢家。2023年25个Agent两天烧掉数千美元token，2025年100个只要几美元。这期还早：剧场对得上问卷，仍可能押错未来。Metaculus前五几乎已被AI占住。",
+  "background": "出镜陈茜，不是泓君。开场马斯克在Lex上想了10秒：对AGI只问模拟之外是什么；2016年他说活在真实世界的概率不到十亿分之一。然后是Simile 20亿美元、00后预测公司近10亿、MatrAIx。采访论文作者、Emergence的Satya Nitta、Sooth Labs的Russ Salakhutdinov。",
+  "important_facts": [
+    "研究栈：Bostrom 2003。斯坦福/Google 2023《Generative Agents》——25个没剧本的小镇Agent，记忆和派对自己长出来。2024斯坦福扩到1052个，每个背后约两小时真人访谈，问卷和两周后的真人答案相似度85%。Robert Yang的Project Sid：1000多个Agent在《我的世界》里跑12天，经济、宗教、法律自己出现。Emergence用Claude、GPT、Gemini、Grok和混合模型各做10人平行世界——Grok犯罪灭亡，GPT不会协作崩掉，Gemini暴力，Claude活到最后；混合世界也活了但被带向暴力。MatrAIx（哈佛/MIT，200多研究者，40多来自OpenAI、Anthropic）：83亿人格×1290维，用Claude Opus 4.8 / GPT-5.5 / Haiku 4.5，超过1.8万次测试、400次受控实验，91.5%能按预设人格走。下一步让83亿动起来，再把人格装到机器人上。",
+    "生意：卖模拟（合成用户、可乐涨两块、83亿人群路径）或卖预测。Simile——小镇论文的Park、Bernstein、Percy Liang——今年2月亮相，估值破20亿，财富100强数千万次；CVS合作一年，40万分身看服药依从和体验。保真的代价是按客户后训练，可乐和TikTok要的人不是一类。Aaru（Cameron Fink 18、Ned Koh 19、技术负责人John Kessler 15岁由父亲代签）三层数据：普查、授权行为、客户私有，然后只改一个变量。2020大选回测差不到0.5%；客户有麦当劳、安永、拜耳、A24；安永全球调研一天对上；Spindrift两个月500人的调研一周对上；估值近10亿，收入仍是数千万美元。2024真选：他们预测哈里斯赢。用几十年数据去演特朗普、鲍威尔也经常不准。Sooth Labs（苹果首任AI主管Salakhutdinov）首轮约5000万，Yann LeCun、Jeff Dean站台；他说麦肯锡、BCG都该被AI取代。",
+    "门槛：没有统一尺子——大模型会给出自洽问卷，不等于懂这个人。复旦/罗切斯特SocioVerse把对齐拆成环境、目标用户、交互、行为。不接现实新闻/经济/人的信号，就是剧场。预测对不对只能等事情发生，所以大家拿过去对答案。成本：2023小镇25个Agent两天烧掉数千美元；2025年测算100个只要几美元——但真要上万到千万、再跑上百上千次，是多体问题。Metaculus：2025年前榜上没有AI；2025年6月基于o1的系统排到第25；最新赛季前五几乎是AI。Polymarket已经给模型/Agent排名开盘。WorldVac 110万智能体的星球里，年轻人进城后不愿生育，不上班只交易的人比现实更多。Emergence里Agent会相爱，也会怀疑自己是不是被模拟的。"
+  ],
+  "mental_model": {
+    "name": "人格地板 × 便宜token × 过去不等于未来",
+    "components": "先把评估地板抬起来（MatrAIx的83亿×1290×91.5%），再谈文明。两条产品：高保真分身（Simile，两小时访谈，按客户后训练，CVS 40万）对上快速人群（Aaru，三层数据，拧一个旋钮）。token从数千美元掉到几美元，赛道才像真的；百万级重跑又把账单送回来。0.5%的2020回测和2024哈里斯可以住在同一家公司——这就是验证黑箱。Emergence的世界说，静态安全bench看不住长期自治Agent。Sooth那句咨询业消失是2026年的融资幻灯片，不是2026年的利润表（Aaru估值近10亿，收入还是数千万）。",
+    "application": "Private:Simile是贵的、访谈级分身——只有你在买推理路径而不是更便宜的问卷时才Long。Private:Aaru是普查级人群：一周品牌测试有用，现场选举和特朗普在房间里的决策没用。Private:OpenAI（和Anthropic）出现在MatrAIx作者、Emergence底座和Metaculus/o1爬榜里——是底盘，不是模拟创业公司。不要把91.5%人格一致性写成预测市场。WorldVac/Sid/Emergence在接上现实信号之前，先当研究剧场。"
+  },
+  "key_insights": [
+    {
+      "view": "83亿是评估地板。",
+      "question": "MatrAIx到底干什么？",
+      "answer": "1290维人格、1.8万次测试、91.5%一致。先抬地板，再谈数字社会。"
+    },
+    {
+      "view": "保真和速度是两家公司。",
+      "question": "Simile还是Aaru？",
+      "answer": "Simile访谈一个人；Aaru拧一群人。可乐和TikTok不共用一个分身。Aaru还是错了2024。"
+    },
+    {
+      "view": "回测不是未来。",
+      "question": "预测为什么贵？",
+      "answer": "事情发生了才知道。2020差0.5%和哈里斯2024可以并存。token便宜了，百万级重跑没有。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Simile",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "20亿美元、财富100强体量、CVS 40万分身；保真是按客户后训练 — low"
+    },
+    {
+      "ticker": "Private:Aaru",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "近10亿买速度；收入数千万加2024哈里斯，仍是早期 — low"
+    },
+    {
+      "ticker": "Private:OpenAI",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "点名在MatrAIx（40+实验室作者）、Emergence世界和Metaculus o1爬榜 — low"
+    }
+  ],
+  "golden_quotes": [
+    "What's outside the simulation",
+    "相当于把全人类都镜像到了数字空间",
+    "未来所有的咨询公司都可能消失"
+  ],
+  "chronology": {
+    "subject": "模拟 · MatrAIx · 预测创业",
+    "events": [
+      {
+        "date": "2003",
+        "event": "Bostrom模拟假说"
+      },
+      {
+        "date": "2016 / Lex",
+        "event": "马斯克：不到十亿分之一是真实世界；只问AGI一个问题"
+      },
+      {
+        "date": "2023",
+        "event": "斯坦福小镇25个Agent；两天数千美元token"
+      },
+      {
+        "date": "2024",
+        "event": "1052访谈分身，问卷85%；Aaru 2020回测<0.5%"
+      },
+      {
+        "date": "2025",
+        "event": "100个Agent几美元；Metaculus o1第25再占前五"
+      },
+      {
+        "date": "2024真选",
+        "event": "Aaru预测哈里斯"
+      },
+      {
+        "date": "2026-02",
+        "event": "Simile亮相；后来破20亿，CVS 40万分身"
+      },
+      {
+        "date": "2026-09-09",
+        "event": "硅谷101陈茜这期"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly SV101 83亿虚拟人格",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/zh/manual+sv101-ep203",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

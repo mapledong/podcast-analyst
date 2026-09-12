@@ -1,14 +1,14 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
-- id: ep489
-  episode_number: 489
-  title: Sarah Guo — No Priors, Just Conviction
-  guest: Sarah Guo
-  guest_role: Founder, Conviction
-  date: '2026-09-01'
-  duration_minutes: 59
-  youtube_url: https://www.youtube.com/watch?v=hY6S__xeCjg
+- id: ep490
+  episode_number: 490
+  title: Walter Russell Mead — How America Keeps Winning
+  guest: Walter Russell Mead
+  guest_role: Bard / Hudson Institute · WSJ Global View
+  date: '2026-09-08'
+  duration_minutes: 78
+  youtube_url: https://www.youtube.com/watch?v=v-2BdiL6r74
   podcast: Invest Like the Best
 - id: ep488
   episode_number: 488
@@ -481,6 +481,15 @@ episodes:
   duration_minutes: 74
   youtube_url: https://www.youtube.com/watch?v=zPFor81KJx0
   podcast: Invest Like the Best
+- id: fnd-432-the-mind-of-napoleon
+  episode_number: 432
+  title: '#432 The Mind of Napoleon'
+  guest: null
+  guest_role: Solo biography (Napoleon / J. Christopher Herold ed.)
+  date: '2026-09-05'
+  duration_minutes: 56
+  youtube_url: https://www.youtube.com/watch?v=AuRDLXuLZE8
+  podcast: Founders
 - id: ep431
   episode_number: 431
   title: Building SKIMS
@@ -490,15 +499,6 @@ episodes:
   duration_minutes: 91
   youtube_url: https://www.youtube.com/watch?v=eNIwtH5-Lq8
   podcast: Invest Like the Best
-- id: fnd-431-how-henry-singleton-worked
-  episode_number: 431
-  title: How Henry Singleton Worked
-  guest: null
-  guest_role: Solo biography (Henry Singleton / Teledyne)
-  date: '2026-08-31'
-  duration_minutes: 49
-  youtube_url: https://www.youtube.com/watch?v=fC6ICHKJBXU
-  podcast: Founders
 - id: ep430
   episode_number: 430
   title: Music & Markets
@@ -1242,17 +1242,6 @@ episodes:
   duration_minutes: 70
   youtube_url: https://www.youtube.com/watch?v=zt9e6vVBdP4
   podcast: Founders
-- id: sv101-e250
-  episode_number: 250
-  title: 'mRNA''s Second Front: Abogen CEO Ying Bo on Moderna''s Melanoma Phase 3
-    and Personalized Cancer Vaccines'
-  guest: Ying Bo (英博)
-  guest_role: Founder, chairman & CEO, Abogen Biosciences (艾博生物); ex-Moderna mRNA
-  date: '2026-08-27'
-  duration_minutes: 77
-  youtube_url: https://www.youtube.com/watch?v=G-1qbtXJKyQ
-  podcast: Silicon Valley 101
-  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: sv101-e249
   episode_number: 249
   title: 'Token Maxing to Token Efficient: OpenClaw, Hermes, and Why Uber Burned a
@@ -1663,6 +1652,16 @@ episodes:
   duration_minutes: 205
   youtube_url: ''
   podcast: Acquired
+- id: sv101-ep203
+  episode_number: 203
+  title: 'AI Starts Predicting Humans: 8.3 Billion Virtual Personas and a Bet on Simulation'
+  guest: MatrAIx authors · Simile / Aaru / Emergence founders
+  guest_role: AI-simulation researchers and founders
+  date: '2026-09-09'
+  duration_minutes: 32
+  youtube_url: https://www.youtube.com/watch?v=--ePbkaRwl4
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-google-the-ai-company
   episode_number: 202
   title: 'Google Part III: The AI Company'
@@ -1672,17 +1671,6 @@ episodes:
   duration_minutes: 243
   youtube_url: ''
   podcast: Acquired
-- id: sv101-ep202
-  episode_number: 202
-  title: 'AI Interpretability: Black Boxes, Personalities, Hallucinations, and Golden
-    Gate Claude'
-  guest: Aryaman Arora
-  guest_role: Stanford PhD (Chris Potts / Dan Jurafsky) · interpretability
-  date: '2026-08-24'
-  duration_minutes: 50
-  youtube_url: https://www.youtube.com/watch?v=J5_90lWxM_o
-  podcast: Silicon Valley 101
-  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: acq-alphabet-inc
   episode_number: 201
   title: 'Google Part II: Alphabet'
@@ -1762,6 +1750,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=l5K_icg5JQA
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: tzs-ep198
+  episode_number: 198
+  title: 'Capital-Returns Thinking and Smart Money: Yongqing with Dai Bin'
+  guest: Dai Bin (戴斌)
+  guest_role: Public-markets PM · MA200 / 雪球
+  date: '2026-09-06'
+  duration_minutes: 92
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a9d2c42f03e74ee6b05db4f
 - id: acq-epic-systems-mychart
   episode_number: 197
   title: Epic Systems (MyChart)
@@ -1782,16 +1780,6 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=svNElhOYajQ
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
-- id: tzs-ep197
-  episode_number: 197
-  title: 'Why Value Investing When Every School Has a Pitch: Yongqing on 自由×无用'
-  guest: Kathleen (凯瑟琳)
-  guest_role: Host, 自由×无用 (crossover; Yongqing is the guest)
-  date: '2026-09-02'
-  duration_minutes: 65
-  youtube_url: ''
-  podcast: Practical Investments
-  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a97fb86f03e74ee6b03ef89
 - id: acq-indian-premier-league-cricket
   episode_number: 196
   title: Indian Premier League Cricket
@@ -2737,6 +2725,17 @@ episodes:
   duration_minutes: 78
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep153
+  episode_number: 153
+  title: 'Zeng Ming on Industry History: Companies Die, and OpenAI/Anthropic Are Probably
+    Not the Native-Era Winners'
+  guest: Zeng Ming (曾鸣)
+  guest_role: Strategist · former Alibaba chief of staff · CKGSB / Hupan
+  date: '2026-09-03'
+  duration_minutes: 154
+  youtube_url: https://www.youtube.com/watch?v=69iJSe2n3ls
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a97f287f03e74ee6b03ea5b
 - id: acq-capital-efficient-growth-with-zoom-ceo-eric-yuan-veeva-ceo-peter-gassner
   episode_number: 152
   title: Capital-Efficient Growth (with Zoom CEO Eric Yuan & Veeva CEO Peter Gassner)
@@ -2746,17 +2745,6 @@ episodes:
   duration_minutes: 68
   youtube_url: ''
   podcast: Acquired
-- id: zj-ep152
-  episode_number: 152
-  title: 'Reading the Kimi K3 Tech Report: Attention Aesthetics, Multi-Teacher Distill,
-    Open MoE'
-  guest: Sun Yutao (孙宇涛)
-  guest_role: Tsinghua CS PhD candidate · incoming scholar, Shanghai Innovation Institute
-  date: '2026-08-26'
-  duration_minutes: 124
-  youtube_url: https://www.youtube.com/watch?v=axFwKz1X0is
-  podcast: Zhang Xiaojun Podcast
-  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6a8eadd61352af56ff3c6017
 - id: acq-arena-show-part-ii-brooks-running-with-ceo-jim-weber
   episode_number: 151
   title: 'Arena Show Part II: Brooks Running'

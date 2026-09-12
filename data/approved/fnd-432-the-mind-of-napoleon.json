@@ -1,0 +1,110 @@
+{
+  "episode_id": "fnd-432-the-mind-of-napoleon",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 432,
+    "title": "#432 The Mind of Napoleon",
+    "guest": null,
+    "guest_role": "Solo biography (Napoleon / J. Christopher Herold ed.)",
+    "date": "2026-09-05",
+    "duration_minutes": 56,
+    "youtube_url": "https://www.youtube.com/watch?v=AuRDLXuLZE8",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=AuRDLXuLZE8",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "AAPL",
+    "BRK.B",
+    "Private:Napoleon"
+  ],
+  "conclusion": "Senra's second Napoleon tape is Herold's 1955 The Mind of Napoleon — about 300 pages of the man talking. Destiny is the doctrine: sacrifice comfort and happiness; every thought is a step to action. Luck is exploiting accidents, not chance. Men move by fear and self-interest. Success makes the great man. He dictated army bulletins himself and 21 sheets for Josephine's water-cure. Founders after World War II still study him the way they later study Churchill. This is a methods tape, not a Waterloo chronology.",
+  "background": "Follow-on to episode 294 (Napoleon: A Concise Biography, 130–140 pages). Senra wants the primary voice: Lauren Powell Jobs' line that the best way to understand someone is to listen to them. Pre-WWII founders kept rereading Napoleon; after the war Churchill joins the shelf. Themes: destiny, will, propaganda, contradictions dated by year.",
+  "important_facts": [
+    "Book and doctrine: first published 1955, ~300 pages grouped by theme, Napoleon speaking. Chief doctrine, repeated: sacrifice comfort, self-interest, and happiness to destiny; destiny must be fulfilled. Work is his element — he has known the limits of his legs and eyes, never of working capacity. Inaction is unbearable. Luck is a consecutive series of great actions, the ability to exploit accidents; shallow men believe in luck, strong men in cause and effect (Emerson). Andreessen's malleable-world line from episode 50 is the modern rhyme. Immortality: to live without glory, without a trace, is not to have lived. Men of genius are meteors consumed lighting their century.",
+    "Psychology and method: men are moved by two levers, fear and self-interest — the advertising founders (Lasker, Hopkins, Ogilvy) later sell the same way. Start by believing the worst; people would have to be exceptional rascals to match his assumption (Munger/Cicero cynicism; episode 286). His wife could have died and it would not have interrupted plans for a quarter of an hour. Suicide is a Monday-night mood that steals Saturday. 'It is success which makes the great man' — Britain had to recognize Washington because he won. All great events hang by a single thread; the less clever man neglects one thing and misses everything (LBJ: if you do everything you will win). Imagination rules the world. Senra's Readwise pile is 20,000+ highlights; he keeps tying this book to episode 214 (Isaacson/Jobs), 251 (Franklin/Washington, 250–300 pages), and 299 (Jobs archive).",
+    "Propaganda and contradiction: 1806 he wants no book censorship; a footnote says in 1810 he established it. He informs the Pope he can depose him as predecessors did. 'The masses must be guided without their noticing it' — ink and paper. He dictated all important army bulletins to inform, counter rumor, mislead the enemy, and stir enthusiasm; he was his own minister of propaganda. When shaved he skipped French papers: they only say what he tells them. The art of ruling is making others work — then he dictates 21 large sheets for Josephine's water-cure itinerary. Jobs came back to Apple and sat a long Wednesday three-hour marketing meeting because great products still need a great marketing company; Senra's read of Insanely Simple is that no Missouri billboard shipped without Steve. Same instinct, different stakes."
+  ],
+  "mental_model": {
+    "name": "Destiny Then Action × Own Propaganda × Dated Contradictions",
+    "components": "First name the destiny, then spend the thought as a step to an act. Treat luck as exploited accidents. Move people with fear and self-interest, not product features. Success, not permission, makes the great man — Washington vs Britain. Do the communications yourself: bulletins, Wednesday marketing, every external page. Expect hypocrisy; Herold dates the quotes so 1806 no-censorship sits next to 1810 censorship. Micromanage the message; try not to dictate 21 sheets of spa itinerary. Study the man in his own words (294 for the life, 432 for the mind).",
+    "application": "AAPL is the Jobs rhyme Senra keeps pressing — own the marketing meeting, ship no billboard you have not seen. BRK.B is the Buffett/Munger shelf this tape keeps opening (opportunity-driven, cynicism about human nature, do not go where you will die). Private:Napoleon is the methods object, not a security. Fade founders who wait for luck or outsource the story. Do not copy unlimited-power information control as a product strategy; copy the 'do it yourself' part. A quote without a year is how you miss the contradiction."
+  },
+  "key_insights": [
+    {
+      "view": "Thought is only a step.",
+      "question": "What is the doctrine?",
+      "answer": "Find the destiny, then act. Work has no known limit. Inaction is the thing he cannot bear."
+    },
+    {
+      "view": "Success makes the great man.",
+      "question": "Why did Britain recognize Washington?",
+      "answer": "Because he won. Permission follows the result. Imagination rules; plans stay as projects."
+    },
+    {
+      "view": "Be your own minister of propaganda.",
+      "question": "Who writes the bulletin?",
+      "answer": "Napoleon dictated them. Jobs took Wednesday. French papers only said what he told them."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "AAPL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Jobs-as-own-marketer is the operator print Senra maps onto Napoleon; not a new iPhone thesis — low"
+    },
+    {
+      "ticker": "BRK.B",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Buffett/Munger cynicism and opportunity-driven lines are the living shelf, not a 1800s replay — low"
+    }
+  ],
+  "golden_quotes": [
+    "Destiny must be fulfilled that is my chief Doctrine",
+    "It is Success which makes the great man",
+    "Work he said is my element"
+  ],
+  "chronology": {
+    "subject": "Napoleon · destiny · propaganda",
+    "events": [
+      {
+        "date": "1955",
+        "event": "Herold publishes The Mind of Napoleon (~300 pages)"
+      },
+      {
+        "date": "EP.294",
+        "event": "Senra's first Napoleon tape (130–140 page bio)"
+      },
+      {
+        "date": "1806 / 1810",
+        "event": "No book censorship, then he establishes it"
+      },
+      {
+        "date": "Josephine trip",
+        "event": "Dictates 21 large sheets of itinerary"
+      },
+      {
+        "date": "Jobs return",
+        "event": "Wednesday ~3-hour marketing meeting; every billboard"
+      },
+      {
+        "date": "2026-09-05",
+        "event": "Founders #432"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Founders Napoleon",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+fnd-432-the-mind-of-napoleon",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "episode_id": "tzs-ep198",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 198,
+    "title": "Capital-Returns Thinking and Smart Money: Yongqing with Dai Bin",
+    "guest": "Dai Bin (戴斌)",
+    "guest_role": "Public-markets PM · MA200 / 雪球",
+    "date": "2026-09-06",
+    "duration_minutes": 92,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6a9d2c42f03e74ee6b05db4f"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "NVDA",
+    "TCEHY",
+    "TSLA"
+  ],
+  "conclusion": "Dai Bin (NJU physics, CAS semiconductors, 3.5 years PE then 12.5 years public at one firm) patches Graham net-nets and an MSCI-style quality pool with Marathon's Capital Returns as the weighting frame. Four stages become capex/depreciation bands, insider buybacks, and fund crowding. Mutual-fund electronics/AI was already above 60% by Q2. The miss is AI hardware: he sized NVIDIA off 18 million servers and a 30–50% attach at ~$3T when the stock was ~$2T, then capex ran 2,000 to 9,000. Storage and MLCC were the catchable layer. Cheaper tokens are the next pair, not another GPU hero call.",
+  "background": "Recorded 2026-08-02, published as TZS E198. Both hosts like Edward Chancellor's Capital Returns (Marathon). Dai's public ID MA200 is a 2019 bear-market nod to Paul Tudor Jones's 200-day line after research-desk averaging-down. Whisper-small; names corrected (戴斌, 熊市, 段永平, MSCI, capex).",
+  "important_facts": [
+    "Path: same firm the whole way — 3.5 years on Shanghai development-zone SMEs, then 12.5 years on the public book from early 2014. First HK profits were Graham net-nets (thermal power while coal fell). 2018 broke it: property peaked, foreign capital left, cyclicals de-rated, bad governance hurt. He built an MSCI-style pool when China was being added (the index shop wanted about $20,000 a year for the methodology) and rode white horses until 2021, when consumer PBs sat above 10x. A Xueqiu friend gifted Capital Returns in 2018; he read it in 2022. That book explained both the net-net wins and the quality losses. Yongqing hit the same book around 2021 after PDD-class names had already run and given it back.",
+    "Working frame: how the company produces cash, and how the stock is priced. Four stages. Tight: demand > supply, cash heals, PB still deep. Boom: second-line prints heal; a 1x plant can be funded by selling 4–5x equity. Overbuild: capex lands on linear demand; the tape can already be through a moving average. Washout: only industries that rebalance loop — leveraged property and PV often do not. Capex/depreciation bands: mature cement 0.5–0.8 low, 0.8–1.2 hot; lithium-class 1–2x bottom, 4–5x top; early innings 2–3x / 10x. NEV looked early in 2018 and mature by 2024. Some PCB names already print 10x. Cash leads the P&L: Tencent improved around the 2023 internet low after cutting people and losing lines. Real (not option) insider adds cluster as Q4 turns into Q1. Conch and Yangtze Power rarely mistime peer purchases. Q2 mutual funds: electronics/AI already above 60%, consumer and internet at historic lows. 2023 digital-economy / compute-electricity preceded the AI print. Tesla's near-free Lingang land was the catfish that built the local chain.",
+    "The miss: after GPT he valued NVIDIA off about 18 million servers a year and a 30% or 50% AI attach and got ~$3T when the stock was ~$2T; it later looked like $4–5T. He then stopped tracking. Capex 2,000 to 9,000 (about 3–4x) plus memory's 2018 low / 2023 dip was the layer the frame could have caught. Claude on NVIDIA filings pointed at energy and optical counterparties. He is not pounding a short. Next sleeve: cheaper tokens into old industries that already have a first line (storage, MLCC, cloud) — pair research, CATL-mix versus an all-in storage name. Demand patches: a third of sales abroad (appliances yes, custom furniture no); a large-displacement motorcycle he watched in 2019 at ~100k units versus 10M+ bikes now does on the order of 100k a month. Duan Yongping sold Vanke around a few hundred billion when the industry later went to tens of trillions, then bought Yahoo/Alibaba and Apple."
+  ],
+  "mental_model": {
+    "name": "Cash Mechanism × Pricing Loop × Pair the Miss",
+    "components": "First ask how cash is born and given back. Then ask which of Marathon's four stages the industry is in, and put numbers on it (capex/depreciation bands by maturity, cash vs P&L, insider cash adds, fund crowding). Smart money is the industrialist who buys a plant by replacement cost (Conch, Yangtze Power), not the fund forced by inflows. National-team and NDRC/MOF tells are China-specific. Do not assume every industry loops — property and PV can sit in bankruptcy. When the frame misses a new demand shock (NVIDIA 18M servers → $3T), drop down a layer to the capex chain (memory, optical, power) instead of arguing with the GPU multiple. Pair a proven cash compounder with the skinny second-curve name. Keep a third of the story for overseas or a new use-case; supply-only thinking pays dividends, not excess.",
+    "application": "NVDA is the named miss — 18M servers, 30–50% attach, $3T vs $2T, later $4–5T, capex 2,000→9,000. Do not use this tape as a fresh GPU buy; use it as track the 10-K counterparties. TCEHY is the 2023 cash-leads-P&L print after the cuts. TSLA is the 2019 Lingang policy catfish, not a 2026 delivery model. Fade mutual-fund electronics/AI at above 60% as a crowding tell, not as a short by itself. Storage and MLCC are the next capital-cycle sleeve if tokens get cheap. Custom furniture without an export door is the trap versus appliances. A third of sales abroad is the extra demand door the book does not require but China now does."
+  },
+  "key_insights": [
+    {
+      "view": "Two objects: cash and price.",
+      "question": "What did Capital Returns add?",
+      "answer": "He already knew quality and cheap. The book told him when to weight them. Four stages plus capex/depreciation bands are the job."
+    },
+    {
+      "view": "Crowding is public.",
+      "question": "Where is the hot money?",
+      "answer": "Q2 mutual funds: electronics/AI already above 60%. Consumer and internet at historic lows. National-team adds move bigger ranges."
+    },
+    {
+      "view": "The frame missed the GPU, not the chain.",
+      "question": "What did 2023–25 teach?",
+      "answer": "18M servers and a 30–50% attach got ~$3T and then he stopped watching. Capex 2,000→9,000 and memory/optical were the catchable layer."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named miss (18M servers → ~$3T vs ~$2T; capex 2k→9k). He is not short; next work is the chain, not a new hero call — low"
+    },
+    {
+      "ticker": "TCEHY",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Cash improved ahead of the P&L around the 2023 internet low after cutting people and lines — low"
+    },
+    {
+      "ticker": "TSLA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Lingang near-free land was the policy catfish that built the local chain; a tell, not a 2026 model — low"
+    }
+  ],
+  "golden_quotes": [
+    "要用200日线来提示机会和风险",
+    "电子或者AI相关的几乎占了60%以上的比例",
+    "对一些AI硬件我是相当于是错过的方向了"
+  ],
+  "chronology": {
+    "subject": "Dai Bin · Capital Returns · AI miss",
+    "events": [
+      {
+        "date": "2014",
+        "event": "Moves from 3.5y PE to the public book (same firm)"
+      },
+      {
+        "date": "2018",
+        "event": "HK net-nets break; Capital Returns gifted; property + foreign outflow"
+      },
+      {
+        "date": "2019",
+        "event": "MA200 / Tudor Jones 200-day; Tesla Lingang land"
+      },
+      {
+        "date": "2021–22",
+        "event": "Quality/white-horse PB >10x; reads Capital Returns"
+      },
+      {
+        "date": "2023",
+        "event": "Digital-economy policy; GPT; NVIDIA ~$2T vs his ~$3T; Tencent cash heals"
+      },
+      {
+        "date": "2025",
+        "event": "Notices capex 2,000→9,000; Claude on NVIDIA counterparties"
+      },
+      {
+        "date": "2026 Q2",
+        "event": "Mutual-fund electronics/AI >60%"
+      },
+      {
+        "date": "2026-08-02",
+        "event": "Recorded; aired as TZS E198"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly TZS 戴斌 资本回报",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small+tzs-ep198",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
