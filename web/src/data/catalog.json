@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T15:11:23.783Z",
+  "generatedAt": "2026-10-27T15:15:46.145Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -59,7 +59,7 @@
       "accent_color": "#1A5F4A",
       "youtube_url": "https://www.youtube.com/results?search_query=投资实战派",
       "cover_url": "/covers/touzi-shizhanpai.jpg",
-      "episodeCount": 43
+      "episodeCount": 44
     },
     {
       "id": "silicon-valley-101",
@@ -6990,6 +6990,55 @@
       "chronologySubject": "Simulation · MatrAIx · prediction startups"
     },
     {
+      "id": "tzs-ep202",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 202,
+      "title": "Forty Years of China Sportswear: Li Ning vs Anta — Yongqing with Huang Ziyi",
+      "guest": "Huang Ziyi (黄子懿)",
+      "displayTitle": "Huang Ziyi (黄子懿)",
+      "displaySubtitle": "Forty Years of China Sportswear: Li Ning vs Anta — Yongqing with Huang Ziyi",
+      "guestRole": "Sanlian reporter · author, Xie Bang",
+      "date": "2026-10-04",
+      "durationMinutes": 136,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Yongqing sits with Huang Ziyi on forty years of China sportswear. The book grew from a late-2021 Jinjiang cover to ~1,500 files. Path: 1980s farm shoes, 1990s Nike/Adidas orders, 1997 crisis, 2000 brands, 2008 Olympic inventory. Ding is four meetings a month, 400–500 crisis store walks, and FILA kept independent after Kappa doubled then died on wholesale. Li Ning is the milder PPT shop. Qiaodan's Feiying PB is a manager-led carbon plate at 80–90% of Nike function, cheaper. Nike/Adidas are the OEM school and the ceiling they could not jump without a foreign plate.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep202.md",
+      "summaryFileZh": "tzs-ep202.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "2331.HK",
+        "2020.HK",
+        "NKE"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "2020.HK",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "FILA independence plus Ding's store-walking cluster is the 40-year winner on this tape — medium"
+        },
+        {
+          "ticker": "2331.HK",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "The milder PPT house and the brand Ding could not catch without a foreign plate — low"
+        },
+        {
+          "ticker": "NKE",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "OEM school and the 80–90% function bar Feiying still chased — low"
+        }
+      ],
+      "chronologySubject": "Jinjiang sportswear · Anta · Li Ning · FILA"
+    },
+    {
       "id": "sv101-ep201",
       "podcastId": "silicon-valley-101",
       "episodeNumber": 201,
@@ -7540,49 +7589,6 @@
       "chronologySubject": "Physical AI · Tesla robot · supply chain"
     },
     {
-      "id": "tzs-ep195",
-      "podcastId": "touzi-shizhanpai",
-      "episodeNumber": 195,
-      "title": "Xu Yang Leaves Anta's Main Brand, Super-Anta vs Decathlon Math, and Nike Taking China Online Back",
-      "guest": "A-Fu (阿富)",
-      "displayTitle": "A-Fu (阿富)",
-      "displaySubtitle": "Xu Yang Leaves Anta's Main Brand, Super-Anta vs Decathlon Math, and Nike Taking China Online Back",
-      "guestRole": "Sports-apparel operator / returning TZS category guest",
-      "date": "2026-08-16",
-      "durationMinutes": 111,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "A-Fu is back on 8/8: Xu Yang — Anta lifer, 2006 marketing, 2013 basketball GM, 2019–22 Arc'teryx — left the main brand on 2026-07-15 ('other arrangements'). Super Anta printed ¥500–600k per store-month against Decathlon's ~¥4.53M. If he could not lift Anta / Super Anta / Champion / SV, A-Fu says nobody inside will. Anta still cannot hold above 20% off versus Nike; Fila and Arc'teryx do the premium work. Nike's global book is roughly flat — NA +5%, EMEA +3%, APAC/LatAm 0 — but Greater China −11%, and HQ is taking Tmall back from Taobo and Pou Sheng.",
-      "youtubeUrl": "",
-      "summaryFile": "tzs-ep195.md",
-      "summaryFileZh": "tzs-ep195.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "2020.HK",
-        "NKE",
-        "Apparel"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "2020.HK",
-          "direction": "Short",
-          "confidence": "Low",
-          "thesis": "Main-brand ceiling: Xu Yang out 2026-07-15, Super Anta at ¥0.5–0.6M/store-month vs Decathlon ¥4.53M; Fila/Arc'teryx still work but the optionality on Anta-logo bets is dead — low"
-        },
-        {
-          "ticker": "NKE",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Global roughly flat with NA/EMEA up; the −11% Greater China print is the hole, and taking Taobo/Pou Sheng online back is the control fix — low"
-        }
-      ],
-      "chronologySubject": "Xu Yang · Anta main · Nike China"
-    },
-    {
       "id": "bb-applied-intuition-a-billion-intelligent-machines",
       "podcastId": "business-breakdowns",
       "episodeNumber": 248,
@@ -7679,6 +7685,49 @@
         }
       ],
       "chronologySubject": "Kiwi · Two Generations of Chinese AI · Moonshot"
+    },
+    {
+      "id": "tzs-ep195",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 195,
+      "title": "Xu Yang Leaves Anta's Main Brand, Super-Anta vs Decathlon Math, and Nike Taking China Online Back",
+      "guest": "A-Fu (阿富)",
+      "displayTitle": "A-Fu (阿富)",
+      "displaySubtitle": "Xu Yang Leaves Anta's Main Brand, Super-Anta vs Decathlon Math, and Nike Taking China Online Back",
+      "guestRole": "Sports-apparel operator / returning TZS category guest",
+      "date": "2026-08-16",
+      "durationMinutes": 111,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "A-Fu is back on 8/8: Xu Yang — Anta lifer, 2006 marketing, 2013 basketball GM, 2019–22 Arc'teryx — left the main brand on 2026-07-15 ('other arrangements'). Super Anta printed ¥500–600k per store-month against Decathlon's ~¥4.53M. If he could not lift Anta / Super Anta / Champion / SV, A-Fu says nobody inside will. Anta still cannot hold above 20% off versus Nike; Fila and Arc'teryx do the premium work. Nike's global book is roughly flat — NA +5%, EMEA +3%, APAC/LatAm 0 — but Greater China −11%, and HQ is taking Tmall back from Taobo and Pou Sheng.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep195.md",
+      "summaryFileZh": "tzs-ep195.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "2020.HK",
+        "NKE",
+        "Apparel"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "2020.HK",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "Main-brand ceiling: Xu Yang out 2026-07-15, Super Anta at ¥0.5–0.6M/store-month vs Decathlon ¥4.53M; Fila/Arc'teryx still work but the optionality on Anta-logo bets is dead — low"
+        },
+        {
+          "ticker": "NKE",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Global roughly flat with NA/EMEA up; the −11% Greater China print is the hole, and taking Taobo/Pou Sheng online back is the control fix — low"
+        }
+      ],
+      "chronologySubject": "Xu Yang · Anta main · Nike China"
     },
     {
       "id": "sv101-ep194",
@@ -13519,47 +13568,6 @@
       "chronologySubject": "Platform Power Framework (Helmer & Shi)"
     },
     {
-      "id": "acq-nvidia-the-gpu-company-1993-2006",
-      "podcastId": "acquired",
-      "episodeNumber": 147,
-      "title": "Nvidia Part I: The GPU Company (1993-2006)",
-      "guest": "Nvidia Part I: The GPU Company (1993-2006)",
-      "displayTitle": "Nvidia",
-      "displaySubtitle": "Part I: The GPU Company (1993-2006) · Season 10 · Episode 5",
-      "guestRole": "Season 10 · Episode 5",
-      "date": "2022-03-27",
-      "durationMinutes": 120,
-      "readMinutes": 6,
-      "rating": 4,
-      "conclusion": "Nvidia Part I traces Jensen Huang from 1963 Taiwan through two near-death crises: 90 funded GPU clones in 1993, then Microsoft's Direct3D triangle standard vs Nvidia's quadrilateral bet that nearly bankrupted the company in 1997. The RIVA 128 escape — $1M emulator bet, tape-out without silicon prototypes, ~100,000 units — and TSMC partnership (Jensen's letter to Morris Chang) established a six-month ship cadence Microsoft could not replicate. Programmable shaders (CG with Microsoft, GeForce 256, Xbox GPU) created developer-facing differentiation Intel integrated graphics could not absorb. By 2006 Nvidia had ~83% standalone GPU share but little Hamilton Helmer \"power\" — commodity cycles, Xbox margin extraction, and AMD-ATI acquisition looming. Sequoia's $2M at $6M post in 1993 became among history's greatest venture outcomes via Jensen's reinvention discipline, not the original graphics-card thesis.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-nvidia-the-gpu-company-1993-2006.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "GPU Computing",
-        "Semiconductor Strategy",
-        "Programmable Shaders"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "NVDA",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Part I frames origin of reinvention culture and TSMC dependency — modern NVDA power (CUDA, data center) begins Part II; historical lesson: hardware share without platform lock-in is cyclical until software moat arrives."
-        },
-        {
-          "ticker": "MSFT",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "DirectX/Xbox let Microsoft harvest GPU industry innovation without fab or six-month ship cycles — platform owners often capture more rent than component winners in early standards wars."
-        }
-      ],
-      "chronologySubject": "Nvidia (GPU era)"
-    },
-    {
       "id": "fnd-233-elon-musk-peter-thiel-max-levchin-paypal",
       "podcastId": "founders",
       "episodeNumber": 233,
@@ -14993,6 +15001,47 @@
         }
       ],
       "chronologySubject": "Block (Square)"
+    },
+    {
+      "id": "acq-nvidia-the-gpu-company-1993-2006",
+      "podcastId": "acquired",
+      "episodeNumber": 147,
+      "title": "Nvidia Part I: The GPU Company (1993-2006)",
+      "guest": "Nvidia Part I: The GPU Company (1993-2006)",
+      "displayTitle": "Nvidia",
+      "displaySubtitle": "Part I: The GPU Company (1993-2006) · Season 10 · Episode 5",
+      "guestRole": "Season 10 · Episode 5",
+      "date": "2022-03-27",
+      "durationMinutes": 120,
+      "readMinutes": 6,
+      "rating": 4,
+      "conclusion": "Nvidia Part I traces Jensen Huang from 1963 Taiwan through two near-death crises: 90 funded GPU clones in 1993, then Microsoft's Direct3D triangle standard vs Nvidia's quadrilateral bet that nearly bankrupted the company in 1997. The RIVA 128 escape — $1M emulator bet, tape-out without silicon prototypes, ~100,000 units — and TSMC partnership (Jensen's letter to Morris Chang) established a six-month ship cadence Microsoft could not replicate. Programmable shaders (CG with Microsoft, GeForce 256, Xbox GPU) created developer-facing differentiation Intel integrated graphics could not absorb. By 2006 Nvidia had ~83% standalone GPU share but little Hamilton Helmer \"power\" — commodity cycles, Xbox margin extraction, and AMD-ATI acquisition looming. Sequoia's $2M at $6M post in 1993 became among history's greatest venture outcomes via Jensen's reinvention discipline, not the original graphics-card thesis.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-nvidia-the-gpu-company-1993-2006.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "GPU Computing",
+        "Semiconductor Strategy",
+        "Programmable Shaders"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NVDA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Part I frames origin of reinvention culture and TSMC dependency — modern NVDA power (CUDA, data center) begins Part II; historical lesson: hardware share without platform lock-in is cyclical until software moat arrives."
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "DirectX/Xbox let Microsoft harvest GPU industry innovation without fab or six-month ship cycles — platform owners often capture more rent than component winners in early standards wars."
+        }
+      ],
+      "chronologySubject": "Nvidia (GPU era)"
     },
     {
       "id": "acq-altimeter-with-brad-gerstner",
@@ -16769,47 +16818,6 @@
       "chronologySubject": "Slack / Salesforce acquisition"
     },
     {
-      "id": "acq-virgin-galactic",
-      "podcastId": "acquired",
-      "episodeNumber": 110,
-      "title": "Virgin Galactic",
-      "guest": "Virgin Galactic",
-      "displayTitle": "Virgin Galactic",
-      "displaySubtitle": "Season 7 · Episode 6",
-      "guestRole": "Season 7 · Episode 6",
-      "date": "2020-11-22",
-      "durationMinutes": 108,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Virgin Galactic's story spans Peter Diamandis's 1996 $10M XPRIZE (won 2004 by Burt Rutan's SpaceShipOne after Paul Allen's ~$20M secret funding) to Richard Branson's 2004 \"screw it, let's do it\" acquisition the night before the prize flight. Tickets started at $200,000; ~600 paid full price plus deposits on \"One Small Step.\" Sixteen years and $1B+ R&D later, suborbital tourism still awaits routine passenger flights — Branson SPAC'd the company in 2019 with Chamath (VG Acquisition Corp). Bull case: 1.8M humans with $10M+ net worth × 10% uptake × $250K ≈ $50B lifetime revenue potential; bear case: SpaceX reached orbit routinely while Virgin delayed through 2020 COVID and 15th postponement culture. Feather reentry and White Knight mothership design remain ingenious; capitalization and market-existence risk do not — ASCEND 2020 live episode compares SpaceX orbital cadence to 16 years of Virgin schedule slips and November 2020 COVID test delay.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-virgin-galactic.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Space Tourism",
-        "XPRIZE",
-        "SPAC Financing"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "SPCE",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "High-beta call on suborbital tourism execution; November 2020 test delay and 16-year slip history keep bear case alive despite preorder backlog."
-        },
-        {
-          "ticker": "SPACE",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Private SpaceX not investable here — episode uses as execution benchmark; orbital launch revenue vs. Virgin tourism TAM contrast."
-        }
-      ],
-      "chronologySubject": "Virgin Galactic"
-    },
-    {
       "id": "fnd-132-edwin-land-steve-jobs-s-hero",
       "podcastId": "founders",
       "episodeNumber": 132,
@@ -17674,6 +17682,47 @@
         }
       ],
       "chronologySubject": "CrowdStrike"
+    },
+    {
+      "id": "acq-virgin-galactic",
+      "podcastId": "acquired",
+      "episodeNumber": 110,
+      "title": "Virgin Galactic",
+      "guest": "Virgin Galactic",
+      "displayTitle": "Virgin Galactic",
+      "displaySubtitle": "Season 7 · Episode 6",
+      "guestRole": "Season 7 · Episode 6",
+      "date": "2020-11-22",
+      "durationMinutes": 108,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Virgin Galactic's story spans Peter Diamandis's 1996 $10M XPRIZE (won 2004 by Burt Rutan's SpaceShipOne after Paul Allen's ~$20M secret funding) to Richard Branson's 2004 \"screw it, let's do it\" acquisition the night before the prize flight. Tickets started at $200,000; ~600 paid full price plus deposits on \"One Small Step.\" Sixteen years and $1B+ R&D later, suborbital tourism still awaits routine passenger flights — Branson SPAC'd the company in 2019 with Chamath (VG Acquisition Corp). Bull case: 1.8M humans with $10M+ net worth × 10% uptake × $250K ≈ $50B lifetime revenue potential; bear case: SpaceX reached orbit routinely while Virgin delayed through 2020 COVID and 15th postponement culture. Feather reentry and White Knight mothership design remain ingenious; capitalization and market-existence risk do not — ASCEND 2020 live episode compares SpaceX orbital cadence to 16 years of Virgin schedule slips and November 2020 COVID test delay.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-virgin-galactic.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Space Tourism",
+        "XPRIZE",
+        "SPAC Financing"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "SPCE",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "High-beta call on suborbital tourism execution; November 2020 test delay and 16-year slip history keep bear case alive despite preorder backlog."
+        },
+        {
+          "ticker": "SPACE",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Private SpaceX not investable here — episode uses as execution benchmark; orbital launch revenue vs. Virgin tourism TAM contrast."
+        }
+      ],
+      "chronologySubject": "Virgin Galactic"
     },
     {
       "id": "acq-superhuman",

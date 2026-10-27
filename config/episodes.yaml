@@ -1889,6 +1889,16 @@ episodes:
   duration_minutes: 243
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep202
+  episode_number: 202
+  title: 'Forty Years of China Sportswear: Li Ning vs Anta — Yongqing with Huang Ziyi'
+  guest: Huang Ziyi (黄子懿)
+  guest_role: Sanlian reporter · author, Xie Bang
+  date: '2026-10-04'
+  duration_minutes: 136
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6ac06a35195d838e2aeccdab
 - id: acq-alphabet-inc
   episode_number: 201
   title: 'Google Part II: Alphabet'
