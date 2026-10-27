@@ -1834,6 +1834,16 @@ episodes:
   duration_minutes: 181
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep206
+  episode_number: 206
+  title: 'China''s Financial Circuit: Yongqing with Wang Li on the Five Essays'
+  guest: Wang Li
+  guest_role: Banker · author, Inside the Industry
+  date: '2026-10-25'
+  duration_minutes: 81
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6adb5a5997726cd46756ae29
 - id: acq-10-years-of-acquired-with-michael-lewis
   episode_number: 205
   title: 10 Years of Acquired (with Michael Lewis)
@@ -1843,6 +1853,16 @@ episodes:
   duration_minutes: 165
   youtube_url: ''
   podcast: Acquired
+- id: tzs-ep205
+  episode_number: 205
+  title: 'Ten Years of Strategy: Yongqing with ex-CEIBS Fund Manager Luo Jiaming'
+  guest: Luo Jiaming
+  guest_role: Former CEIBS Fund manager (~8.5 years); HKU physics
+  date: '2026-10-21'
+  duration_minutes: 114
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6ad8f109b381c0fcba19c29c
 - id: acq-coca-cola
   episode_number: 204
   title: Coca-Cola
@@ -1861,6 +1881,16 @@ episodes:
   duration_minutes: 55
   youtube_url: https://www.youtube.com/watch?v=wDtXE7lowH8
   podcast: Business Breakdowns
+- id: tzs-ep204
+  episode_number: 204
+  title: 'A Global 1% Company: Fuyao Glass — Yongqing with Auto Veteran Yan'
+  guest: Yan
+  guest_role: Auto product manager, ~7 years; 5 years at Hesai lidar
+  date: '2026-10-18'
+  duration_minutes: 116
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6ad44b890e4e410a05be8631
 - id: acq-trader-joes
   episode_number: 203
   title: Trader Joe’s
@@ -1880,6 +1910,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=--ePbkaRwl4
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: tzs-ep203
+  episode_number: 203
+  title: 'Beauty-Industry Reality: Business, Data, and Filings — David with Xiao Z'
+  guest: Xiao Z
+  guest_role: Ex-sell-side consumer; now market research at a leading beauty company
+  date: '2026-10-11'
+  duration_minutes: 90
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6acb86c2195d838e2af035d9
 - id: acq-google-the-ai-company
   episode_number: 202
   title: 'Google Part III: The AI Company'
@@ -2965,6 +3005,16 @@ episodes:
   youtube_url: ''
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: zj-ep155
+  episode_number: 155
+  title: 'Qian Cheng / Ecovacs: Father, Son, and a Farming-Civilization Robot Shop'
+  guest: Qian Cheng (David)
+  guest_role: CEO, Ecovacs; second generation
+  date: '2026-10-21'
+  duration_minutes: 120
+  youtube_url: https://www.youtube.com/watch?v=86wFCPat2GY
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6ad4dacd641ef406308d86e5
 - id: acq-the-playbook-lessons-from-200-company-stories
   episode_number: 154
   title: 'The Playbook: Lessons from 200+ Company Stories'
@@ -2974,6 +3024,16 @@ episodes:
   duration_minutes: 64
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep154
+  episode_number: 154
+  title: 'Lindon Gao / Dyna: Fog, Disagreement, and Full-Stack Robotics'
+  guest: Lindon Gao
+  guest_role: Founder & CEO, Dyna Robotics
+  date: '2026-10-15'
+  duration_minutes: 171
+  youtube_url: https://www.youtube.com/watch?v=iDaxRNIddME
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6acf81f0195d838e2af1e281
 - id: acq-american-dynamism-with-katherine-boyle
   episode_number: 153
   title: American Dynamism (with Katherine Boyle)

@@ -1,0 +1,111 @@
+{
+  "episode_id": "zj-ep154",
+  "podcast": "Zhang Xiaojun Podcast",
+  "host": "Zhang Xiaojun",
+  "metadata": {
+    "episode_number": 154,
+    "title": "Lindon Gao / Dyna: Fog, Disagreement, and Full-Stack Robotics",
+    "guest": "Lindon Gao",
+    "guest_role": "Founder & CEO, Dyna Robotics",
+    "date": "2026-10-15",
+    "duration_minutes": 171,
+    "youtube_url": "https://www.youtube.com/watch?v=iDaxRNIddME",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=iDaxRNIddME",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6acf81f0195d838e2af1e281"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Dyna",
+    "Private:Physical Intelligence",
+    "AMZN"
+  ],
+  "conclusion": "Zhang Xiaojun has Lindon Gao on a 171-minute Dyna tape. US labs bet the brain; China bets the supply chain. Dyna calls itself full-stack proto-research. Lindon: China-born, US at 11, game shop at 14, NYU medicine then Stern, banking, then Caber in the 2017 Amazon-Go year — 150 VCs, a hundred-plus nos, 'we are cockroaches,' ~six years and a ~¥350 million mark. Team split: 落地 versus research. He says a useful robot does not need general intelligence. Physical Intelligence is the AGI foil; Amazon Go is the 2017 foil.",
+  "background": "E154, Oct 15, 171 minutes. Lindon visits Shanghai ~once or twice a year (local team). Both sides of the Pacific feel noisy: releases, raises, no convergence. Meditations / Wang Yangming sit in the title; the audible file is identity — 落地 versus research — and the cockroach raise after Caber. Physical Intelligence is the AGI foil; Amazon Go is the 2017 foil. Quotes below are the audible strings.",
+  "important_facts": [
+    "Route: brain-only (US) versus body-only (China) on a 171-minute tape. Dyna refuses the split. Proto-research means the map is fog and you still ship a stack. Identity crisis on the tape: half the team wanted落地, half wanted research. Lindon's line: smelling money is survival; the dream is open sea. He will not call those a fight. Shanghai and the Valley both feel 浮躁 — every lab dropping a clip and raising.",
+    "Founder clock: 14-year-old game market, sold the site. Parents let him drop NYU medicine after two years for Stern, then IB because everyone wanted IB (~2 years), then Caber — unmanned retail in 2017 when Amazon Go made fifty-plus clones. He says they were among the few left. 150 meetings that year; later 60-plus investors; a hundred-plus nos; ~six years; ~¥10 million-class checks and a 3.5亿 figure on the tape. Cockroach is the internal name. 2021 is when the next turn becomes visible on the file.",
+    "Product: most people equate a general robot with Physical Intelligence being 'solved.' Lindon: product definition — a robot can be useful before intelligence is general. Diligence Dyna as a long fog, not a 2026 humanoid print. PI is the foil, not a customer. Do not mark AMZN on one Shanghai visit. He was 14 on the first game-account shop, two years in NYU medicine, then Stern and about two years of banking before Caber. Amazon Go in 2017 spawned fifty-plus clones; he says they were among the few left. Later 60-plus investors and a 千万-class check sit next to the 3.5亿 mark. 2021 is when the next turn becomes visible. Shanghai once or twice a year is the local-team cadence, not a China-pivot."
+  ],
+  "mental_model": {
+    "name": "Full-Stack Fog × Cockroach Raise × Useful Before AGI",
+    "components": "Refuse US-brain / China-body. Keep research and落地 in one identity. Survive a hundred nos (2017 retail → Dyna). Useful beats general. Tesla and PI are the two compares: one stack, one brain-max. The identity fight is the long part of the 171 minutes: half the team wanted落地, half wanted research, and Lindon will not call money-scent and star-sea a split. Both Shanghai and the Valley feel noisy — clips and raises, no convergence. Caber in 2017 was the Amazon-Go copycat year with 150 meetings and a hundred-plus nos; cockroach is the internal name that survived ~six years and a 3.5亿-class mark. Product definition is the punchline: a robot can be useful before intelligence is general. Physical Intelligence is the foil that waits for AGI in the body; Amazon Go is the foil that already shipped a store.",
+    "application": "Private:Dyna is a fog-route private. PI is the general-intelligence foil. AMZN is the 2017 Go / Caber foil. Do not buy a 2026 robot week."
+  },
+  "key_insights": [
+    {
+      "view": "Full-stack is the third party.",
+      "question": "Brain or body?",
+      "answer": "US waits on the body; China waits on the brain. Dyna wants both. That split is the identity fight."
+    },
+    {
+      "view": "Cockroaches take a hundred nos.",
+      "question": "What did Caber teach?",
+      "answer": "2017 Amazon-Go clones. 150 VCs. Six years. ¥350 million-class mark. Same refusal muscle."
+    },
+    {
+      "view": "Useful before general.",
+      "question": "What about Physical Intelligence?",
+      "answer": "He will not wait for AGI in the body. Tesla is the other stack that agrees."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Dyna",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Full-stack fog after a hundred-nos retail life; not a 2026 humanoid print — low"
+    },
+    {
+      "ticker": "AMZN",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Amazon Go year is the Caber foil on this tape, not a robot multiple — low"
+    }
+  ],
+  "golden_quotes": [
+    "我们是蟑螂",
+    "全站派",
+    "大脑派"
+  ],
+  "chronology": {
+    "subject": "Dyna · Caber · brain vs body",
+    "events": [
+      {
+        "date": "age 11–14",
+        "event": "US; first game-account shop"
+      },
+      {
+        "date": "2010s",
+        "event": "NYU medicine → Stern → ~2 years IB"
+      },
+      {
+        "date": "2017",
+        "event": "Caber / Amazon Go year; 150 VCs"
+      },
+      {
+        "date": "2017–23",
+        "event": "~six years, 100+ nos, cockroach line"
+      },
+      {
+        "date": "2021",
+        "event": "Next-turn visibility on the tape"
+      },
+      {
+        "date": "2026-10-15",
+        "event": "E154 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window ZJ E154",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

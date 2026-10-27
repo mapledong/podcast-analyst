@@ -1,0 +1,114 @@
+{
+  "episode_id": "tzs-ep205",
+  "podcast": "投资实战派",
+  "host": "永庆 & David",
+  "metadata": {
+    "episode_number": 205,
+    "title": "E205 十年投资策略的实践、演变 | 永庆对谈前中欧基金经理罗佳明",
+    "guest": "罗佳明",
+    "guest_role": "前中欧基金经理（约8年半）；港大物理",
+    "date": "2026-10-21",
+    "duration_minutes": 114,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6ad8f109b381c0fcba19c29c"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "TCEHY",
+    "600519.SZ",
+    "NVDA"
+  ],
+  "conclusion": "永庆请来刚离开中欧基金（2018年初起大约8年半）的罗佳明，他可能在香港做自己的小产品。深圳小孩，港大物理，2006–08年碳化硅论文大约20年后才在车上看到。毕马威、野村/汇丰、银河国际，再买方。2015年10月开始管钱。2006年牛市超短线，2008年亏回去——所以没去读博。2016年熊市后腾讯已经出坑，他还在坑里。带子是价值假设、供需错配的周期（双语年轻人、碳化硅）和出海。英伟达是他研究过的材料变成功率名字；茅台是他和腾讯并排的老灯。",
+  "background": "E205，8月29日录。罗是实战派听友。永庆想听他怎么过「老灯」弱周期。Whisper把中欧/罗佳明听成中国基金/罗家明。",
+  "important_facts": [
+    "时钟：2006年港大空档牛市——一周量级几十万，2008年还回去，差点去美国读博。物理当职业是一篇碳化硅光电论文耗两年；市场显得更宽。2008年招不到人，毕马威审计，并购咨询，野村汇丰研究，银河国际资管，2018年1月中欧基金，大约8年半，上个月离开，也许在香港做小产品。2015年10月是他认领的P&L起点——带子上超过十年。",
+    "第一次改写2016：2015年买了一堆便宜的，熊市「还没走完」腾讯已经出坑。巴菲特便宜好公司开始像操作不是口号。这期的周期是供需缺口——和双语快脑子年轻人在高潮、或碳化硅等二十年变成汽车零件是同一类。出海是他和永庆标的另一只袖子。不要把「价值」听成永不卖老灯。",
+    "票：腾讯是2016年爬出来的打印。茅台是他和腾讯并排的老灯。英伟达是论文大约20年后的功率，不是2006年的交易账户。内地基金之后的香港小产品是履历打印——双语、物理、2008年疤。尽调下一本是不是便宜好公司已经离开坑底时仍会买。"
+  ],
+  "mental_model": {
+    "name": "2008年疤 × 便宜好公司 × 二十年材料",
+    "components": "2006年超短线2008年还回去。2015年10月管钱。2016年腾讯出坑改写便宜质量。碳化硅等了大约20年。周期是供给缺口。出海是另一只袖子。香港小产品是下一考。",
+    "application": "TCEHY是2016档案。600519.SZ是他和腾讯并排的老灯。NVDA是碳化硅到功率的钟。不要因为他坐过中欧就买每一个老灯。"
+  },
+  "key_insights": [
+    {
+      "view": "2008年是他没当成物理学家的原因。",
+      "question": "博士的门怎么关的？",
+      "answer": "2006年赚的2008年还回去。他想弄懂机制，不想再在一片晶圆论文上耗两年。"
+    },
+    {
+      "view": "2016年改写了便宜好公司。",
+      "question": "腾讯做了什么？",
+      "answer": "他还在等熊市「结束」，它已经在新高。这就是带子上的巴菲特课。"
+    },
+    {
+      "view": "碳化硅等了二十年。",
+      "question": "为什么提论文？",
+      "answer": "材料和周期押韵：需求来得晚。英伟达是那口钟，不是2006年的超短线。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "TCEHY",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "2016 climb-out is his cheap-quality print — low"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "SiC thesis ~20 years later as a power name — low"
+    }
+  ],
+  "golden_quotes": [
+    "2015年10月份就开始管钱了",
+    "8年半",
+    "碳化硅"
+  ],
+  "chronology": {
+    "subject": "Luo · 2008 · 2016 Tencent · SiC",
+    "events": [
+      {
+        "date": "2006–08",
+        "event": "HKU SiC; bull scalp then 2008 give-back"
+      },
+      {
+        "date": "2008–15",
+        "event": "KPMG, Nomura/HSBC, Galaxy International"
+      },
+      {
+        "date": "2015-10",
+        "event": "Starts running money"
+      },
+      {
+        "date": "2016",
+        "event": "Tencent out of the pit; cheap-quality rewrite"
+      },
+      {
+        "date": "2018-01",
+        "event": "Joins CEIBS Fund; ~8.5 years"
+      },
+      {
+        "date": "2026-08",
+        "event": "Leaves; E205 taping Aug 29"
+      },
+      {
+        "date": "2026-10-21",
+        "event": "E205 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 投资实战派 E205",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

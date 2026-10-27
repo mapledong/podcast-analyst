@@ -1,0 +1,120 @@
+# EP.154 — Lindon Gao
+
+## *154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择*
+
+**★★★☆☆** · 3/5
+
+**播客** 张小珺商业访谈录 · **日期** 2026年10月15日 · **时长** 171 分钟 · **阅读** ≈3 分钟
+
+**主持人** 张小珺
+
+**嘉宾** Lindon Gao · Dyna Robotics 创始人兼CEO
+
+**收听** [YouTube](https://www.youtube.com/watch?v=V0IB8iMzrLQ) · [小宇宙](https://www.xiaoyuzhoufm.com/episode/6acf81f0195d838e2af1e281) · [Apple 播客](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**主题** Dyna · Physical Intelligence · AMZN
+> ### 结论
+>
+> 张小珺用171分钟问Lindon。美国赌大脑等身体，中国赌供应链等大脑。Dyna自称全站——原型研究，不是演示周。Lindon：中国出生，11岁去美国，14岁卖游戏账号，纽大医学两年再Stern，投行大约两年，2017年Caber无人零售（Amazon Go仿品年，见150个VC，后来60多个，被拒一百多次，「我们是蟑螂」），大约六年、口播3.5亿量级。团队裂过：落地对研究。闻得到钱和星辰大海是一条路。Physical Intelligence是「身体里的通用智能」对照——他说好用的机器人不必先通用。亚马逊Go是2017年Caber对照。
+
+---
+
+## 背景
+
+> E154，10月15日。Lindon一年回上海一两次（有本地团队）。太平洋两边都吵：发布、融资、不收敛。标题里的《沉思录》/阳明在可听文件里变成身份和路线。
+
+---
+
+## 关键事实
+
+> **F1** 路线：只赌大脑（美国）对只赌身体（中国）。Dyna不选边。原型研究是地图有雾仍交出一栈。带子上的身份危机：一半要落地，一半要研究。Lindon：闻钱是活；梦想是海。他不把这两句当打架。上海和谷都浮躁——每家丢片段、都在融。
+
+> **F2** 创始人钟：14岁游戏市场，网站卖掉。父母由他从纽大医学两年转到Stern，再因人人都去投行去了大约两年，然后Caber——2017年Amazon Go带出五十多家仿品。他说他们是少有的还活着的。那年150个会面；后来60多个投资人；一百多次不；大约六年；千万级支票和口播3.5亿。蟑螂是队内名字。2021年是档案上下一转看得见的年份。
+
+> **F3** 产品：多数人把通用机器人写成Physical Intelligence已经「解决」。Lindon：产品定义——智能未通用也可以好用。亚马逊Go是2017年Caber对照。把Dyna当长雾尽调，不当2026人形打印。PI是对照不是客户。不要用一次上海访问去标AMZN。
+
+
+---
+
+## 思维模型 · *全站迷雾 × 蟑螂融资 × 好用先于通用*
+
+> **构成**
+>
+> 拒绝美国大脑/中国身体。研究和落地放在一个身份里。活过一百次不（2017零售→Dyna）。好用压过通用。亚马逊Go和PI是两个比较：零售雾，一脑。
+>
+> **应用**
+>
+> Private:Dyna是雾路私募。PI是通用智能对照。AMZN是2017年Caber对照。不要买2026机器人周。
+
+---
+
+
+## 核心洞察
+
+> **1.** 全站是第三方。
+>
+> **问** 大脑还是身体？
+>
+> **答** 美国等身体；中国等大脑。Dyna两个都要。这个分裂就是身份架。
+
+> **2.** 蟑螂吃得下一百次不。
+>
+> **问** Caber教了什么？
+>
+> **答** 2017年Amazon Go仿品。150个VC。六年。3.5亿量级。同一块拒绝肌。
+
+> **3.** 好用先于通用。
+>
+> **问** Physical Intelligence呢？
+>
+> **答** 他不等身体里的AGI。特斯拉是另一个同意的栈。
+
+---
+
+## 投资启示
+
+> **1. Dyna** · 🟢 LONG · ●○○ Low
+>
+> Full-stack fog after a hundred-nos retail life; not a 2026 humanoid print — low
+
+> **2. AMZN** · 🟢 LONG · ●○○ Low
+>
+> Amazon Go year is the Caber foil on this tape, not a robot multiple — low
+
+---
+
+## 金句
+
+> 「我们是蟑螂」
+
+> 「全站派」
+
+> 「大脑派」
+
+---
+
+## 时间线
+
+> *Dyna · Caber · brain vs body*
+>
+> **age 11–14** US; first game-account shop
+>
+> **2010s** NYU medicine → Stern → ≈2 years IB
+>
+> **2017** Caber / Amazon Go year; 150 VCs
+>
+> **2017–23** ~six years, 100+ nos, cockroach line
+>
+> **2021** Next-turn visibility on the tape
+>
+> **2026-10-15** E154 publishes
+>
+
+---
+
+## 免责声明
+
+- **独立笔记。** 本摘要与 张小珺商业访谈录、张小珺 或 Lindon Gao 无隶属或合作关系，仅供个人研究与学习。
+- **原创内容。** 播客音频及嘉宾言论版权归原权利人所有；此处引用短句仅为评论目的，并非逐字稿。
+- **非投资建议。** 本文不构成任何投资、法律或专业建议。 请收听[原节目](https://www.youtube.com/watch?v=V0IB8iMzrLQ)获取完整语境。
+- **纠错与下架。** 若您是权利人并认为本摘要不当使用您的内容，请通过 podcast-analyst 项目联系申请复核或下架。

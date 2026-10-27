@@ -1,0 +1,110 @@
+{
+  "episode_id": "tzs-ep204",
+  "podcast": "投资实战派",
+  "host": "永庆 & David",
+  "metadata": {
+    "episode_number": 204,
+    "title": "E204 全球1%公司：福耀玻璃的护城河、战略选择 | 永庆对话汽车资深从业者Yan",
+    "guest": "Yan",
+    "guest_role": "汽车产品经理约7年；禾赛激光雷达5年",
+    "date": "2026-10-18",
+    "duration_minutes": 116,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6ad44b890e4e410a05be8631"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "3606.HK",
+    "F",
+    "TSLA"
+  ],
+  "conclusion": "永庆把福耀叫全球1%：20年大约40%毛利、净利20%+、大约4个点股息，而过去两三年汽车零部件账在国内价格战里崩了。燕（汽车七年，禾赛五年）看激光雷达毛利从70%–80%落到40%，宁德从40%落到20%出头——福耀没有。国内份额70%以上；去年配套大约4000万辆、全球大约40%（美国30%+，欧洲大约20%）；再投20%–25%产能瞄着5000万辆、世界一年产量的一半。ROE二十年在20%以上；收入利润年化10%+，利润还快一个点。福特是美国OEM账；特斯拉是电动玻璃需求。他指出股价走得比利润表弱。",
+  "background": "E204，9月18日录。燕在北大/归奖课上把福耀当资本配置范本。永庆说宁德以后再做。Whisper把福耀/禾赛听成抚药/河赛。",
+  "important_facts": [
+    "份额和规模：国内70%以上。官方去年配套大约4000万辆；燕读成全球大约40%，海外收入曾大约35%。美国大约三分之一，欧洲大约20%。集团再加20%–25%产能，瞄着5000万辆——世界一年产量的一半。这就是巨人打印。ROE二十多年在20%以上。收入年化10%以上，利润还快一个点。4个点股息加一轮资本开支，是「有没有票」的问题，因为零部件衰退里图比账弱。",
+    "毛利对同行：福耀20年大约40%毛利、净利20%+。禾赛开局70%–80%，后来在40%坐了几年。宁德开局40%出头，滑到20%出头。燕的第一问：一块玻璃为什么能拿住「科技」毛利。第二问：复利还能不能买。第三问：它是教材——周期、资本、以及没有跟着同行用份额换死亡。",
+    "行业：已经给全球平台开过模，汽车玻璃就不是大宗。福特级美国销量和特斯拉级电动玻璃（HUD、车顶、减重）坐在同一条线上。国内电车价格战砸了很多零部件账；福耀这张没有。尽调20%–25%扩产：要么是5000万辆抢份额，要么是看错周期。不要用弱一年的图去标20年40%毛利。"
+  ],
+  "mental_model": {
+    "name": "平台玻璃 × 二十年40% × 扩产",
+    "components": "国内70%以上，配套4000万辆。激光雷达和电芯压缩时仍拿40%毛利。再加20%–25%产能瞄5000万辆。ROE>20%，增长10%+，股息4%。零部件战争里图可以落后于账。",
+    "application": "3606.HK是1%档案。F是美国OEM账。TSLA是电动玻璃不是福耀倍数。尽调扩产，不要尽调一年价格战。"
+  },
+  "key_insights": [
+    {
+      "view": "20年40%毛利才是怪事。",
+      "question": "燕在禾赛看到什么？",
+      "answer": "激光雷达70%–80%再40%。宁德40%到20%。福耀没滑。净利仍20%+。"
+    },
+    {
+      "view": "4000万辆，再往5000万。",
+      "question": "有多全球？",
+      "answer": "中国70%以上，美国大约三分之一，欧洲大约20%。20%–25%扩产瞄世界一半产量。"
+    },
+    {
+      "view": "股票落后于档案。",
+      "question": "有没有票？",
+      "answer": "4个点股息加衰退里的资本开支。不要用弱一年标20年的账。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "3606.HK",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "20-year 40% GM, >70% China, 40M cars toward 50M — the weak tape is the ask — medium"
+    },
+    {
+      "ticker": "TSLA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "EV glass/HUD/roof sit on Fuyao's line, not a glass multiple — low"
+    }
+  ],
+  "golden_quotes": [
+    "70%以上",
+    "4000万辆车",
+    "4个点的股息"
+  ],
+  "chronology": {
+    "subject": "Fuyao · share · 20-year margins",
+    "events": [
+      {
+        "date": "2000s–20s",
+        "event": "~40% GM, ROE >20%, ~10%+ sales/profit CAGR"
+      },
+      {
+        "date": "2020s",
+        "event": "Overseas revenue ~35%; last-year attach ~40M cars"
+      },
+      {
+        "date": "2024–26",
+        "event": "China EV parts war; Fuyao book holds"
+      },
+      {
+        "date": "2026",
+        "event": "20–25% capacity add toward 50M vehicles"
+      },
+      {
+        "date": "2026-09-18",
+        "event": "E204 taping"
+      },
+      {
+        "date": "2026-10-18",
+        "event": "E204 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 投资实战派 E204",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

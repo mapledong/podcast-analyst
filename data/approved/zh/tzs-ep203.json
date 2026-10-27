@@ -1,0 +1,110 @@
+{
+  "episode_id": "tzs-ep203",
+  "podcast": "投资实战派",
+  "host": "永庆 & David",
+  "metadata": {
+    "episode_number": 203,
+    "title": "E203 美妆行业真相：穿透业务、数据与财报 | David对话消费行业专家小Z",
+    "guest": "小Z",
+    "guest_role": "前卖方消费品；现头部美妆企业市场洞察",
+    "date": "2026-10-11",
+    "duration_minutes": 90,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6acb86c2195d838e2af035d9"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "EL",
+    "LRLCY",
+    "NVDA"
+  ],
+  "conclusion": "David在双十一前请小Z。美妆卖的是变美预期不是成分，毛利可以离开成本；又是日耗复购，手紧时口红反而好卖。狭义四大块大约4000亿，泛美妆大约7000亿。点名的一家已经88%线上/12%线下，用抖音爆款去铺CS和经销。18–25岁一年可以买20次以上；35–50岁渗透大约30%。白酒是稳定对照。雅诗兰黛、泡泡玛特、耐克坐在同一层「预期加周期」架子上，不是公式。",
+  "background": "E203，8月15日录。小Z卖方八年（美妆潮玩餐饮教育，也做过腾讯阿里网易框架），现在在头部美妆做市场洞察。David要财报加柜台体感。Whisper把小Z听成小子余/小杰。",
+  "important_facts": [
+    "两件怪事：SKU是一张预期的脸，定价可以离开BOM；很多线一天内复购。周期紧时口红仍打印。狭义四大块大约4000亿；加上口服、身体和周边，小Z到大约7000亿。18–25岁女性购买频次20次以上。35岁以后渗透大约30%——还开着的板。家庭可能一半预算留在熟牌子，另一半再逛。白酒是「瓶子几十年不变」，他说美妆抄不了。",
+    "渠道：消费品里电商化最深。带子上一家财报88%线上/12%线下——抖音打爆，再进批发和CS把利润结构扳平。街上吵80%还是90%线上；他给那家的线下不到10%。618和双十一才是他们真看的两个打印。新鲜是消费者要的，也是从不重复时最差的生意。离开卖方是为了看一个组织怎么过顺境和逆境，不是再拆一张利润表。",
+    "名字：雅诗兰黛是同一套预期数学上的全球精品。泡泡玛特是另一种高毛利「我要那张脸」，不是面霜。耐克是运动里的复购加品牌，不是口红同行。珀莱雅这类国产坐在抖音到CS的渠道故事里。尽调谁占住35–50岁缺口，谁能把抖音SKU带下线还不毁结构。高毛利是开场，不是结尾——时尚风险是另一半。"
+  ],
+  "mental_model": {
+    "name": "预期定价 × 复购 × 抖音到CS",
+    "components": "卖未来的脸，不卖分子。狭义4000亿/泛7000亿。18–25已经复购；35–50大约30%渗透。88/12是一家的结构。白酒是反模型。手紧时口红是周期打印。",
+    "application": "EL和LRLCY是精品对照。NVDA是欧莱雅的算力彩蛋不是美妆倍数。看谁落下35–50岁，谁在抖音之后还活着。"
+  },
+  "key_insights": [
+    {
+      "view": "美妆是标了价的感觉。",
+      "question": "毛利为什么能离开成本？",
+      "answer": "卖的是一张预期的脸。手紧时口红仍好用。白酒是相反的模型。"
+    },
+    {
+      "view": "狭义4000亿，加上身体大约7000亿。",
+      "question": "中国有多大？",
+      "answer": "四大传统块对泛美妆。18–25买20次以上；35–50只进了大约30%。"
+    },
+    {
+      "view": "先抖音再CS。",
+      "question": "88/12是什么？",
+      "answer": "有一家88%线上。动作是把经销和CS种上，别让利润全在直播。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "EL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Prestige incumbent on the same expectation math; mix risk is the Douyin half — low"
+    },
+    {
+      "ticker": "LRLCY",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "The other prestige name on the tape; Nvidia tie-in is color, not the multiple — low"
+    }
+  ],
+  "golden_quotes": [
+    "4000亿左右的市场规模",
+    "88%是来自于线上的收入",
+    "他卖的从来不是成分"
+  ],
+  "chronology": {
+    "subject": "China beauty · channel · age slabs",
+    "events": [
+      {
+        "date": "2018–26",
+        "event": "Xiao Z eight years sell-side consumer"
+      },
+      {
+        "date": "2026",
+        "event": "Inside a leading beauty company, market research"
+      },
+      {
+        "date": "2026",
+        "event": "Narrow beauty ~¥400B; fan-beauty ~¥700B"
+      },
+      {
+        "date": "2026",
+        "event": "Named brand 88% online / 12% offline"
+      },
+      {
+        "date": "2026-08-15",
+        "event": "Tape, ahead of Singles' Day"
+      },
+      {
+        "date": "2026-10-11",
+        "event": "E203 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 投资实战派 E203",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "episode_id": "tzs-ep206",
+  "podcast": "投资实战派",
+  "host": "永庆 & David",
+  "metadata": {
+    "episode_number": 206,
+    "title": "E206 中国金融大循环的转型、路径、投资机会 | 永庆对谈《置身业内》作者王礼",
+    "guest": "王礼",
+    "guest_role": "银行从业者 · 《置身业内》作者",
+    "date": "2026-10-25",
+    "duration_minutes": 81,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6adb5a5997726cd46756ae29"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "1398.HK",
+    "WFC",
+    "600519.SZ"
+  ],
+  "conclusion": "永庆要的是5–10年结构：居民财富还在长，存款利率在下，钱离开银行账本去权益和保险——增长降速、储户变老之后的美国1980年代对照。王礼（大行和小行，支行到总行）写了七章：科技、绿色、普惠、养老、数字五篇，外加房地产和城投当第六面，不当原罪。过去20年他画50%–60%的贷款仍走银行，带子上另有60%–70%；英国银行对企业贷款大约4%。沪深300便宜；茅台16–20倍、公募持仓很少；AI和光学是例外。工行是旧循环的股票；富国银行是点名的美国银行个案；茅台是空仓老灯。",
+  "background": "E206，8月23日录。书名口播是《自身业内》。王做过支行行长、分行行长。永庆：1%产业客人，不是策略幻灯片。",
+  "important_facts": [
+    "5–10年主张：利率下了，存款留不住家庭。权益和保险是接收管。美国1980年代是点名的押韵——增长慢、储户老、更要回报。王写书是因为绿和数字能找到单篇，五篇加房地产/城投侧面没有一本。前五章是大文章；第六章把房地产和地方政府债写成修过你还在走的路的基建金融，不只是坏残差。",
+    "旧循环的存量：他20年漫画里50%–60%的信用仍是银行贷款；带子上另一句是60%–70%。英国银行对企业大约4%是对照。所以工行这类资产负债表是起点票，富国银行是点名的美国比较不是增长倍数。居民和个人贷款偏弱——钱多项目少。",
+    "便宜的风险资产：沪深300低；老灯茅台/东鹏/美的公募持仓很少；AI和光学「很懵」且贵。平静复利里一年10个点的复合是思想实验，旁边是A500波动。数字金融是五篇之一——阿里坐在管道上，不是工行。尽调存款到权益的管子，不要尽调一年银行净息差。"
+  ],
+  "mental_model": {
+    "name": "离开存折 × 五篇大文章 × 便宜的沪深300",
+    "components": "利率下、财富上，5–10年离开银行账本。五篇加房地产/城投当历史。50%–70%信用仍是银行形，英国企业贷大约4%。沪深300和茅台16–20倍是空仓打印。数字是其中一篇。",
+    "application": "1398.HK是旧循环。WFC是点名的美国银行个案。600519.SZ是空仓老灯。不要因为存款可能离开就买每家银行。"
+  },
+  "key_insights": [
+    {
+      "view": "家庭会离开存折。",
+      "question": "5–10年搬什么？",
+      "answer": "利率下、财富上，美国1980年代押韵。权益和保险接。"
+    },
+    {
+      "view": "五篇，外加那条路。",
+      "question": "为什么还有一章？",
+      "answer": "房地产和城投修过基建。王不会只把它们归档成罪。"
+    },
+    {
+      "view": "沪深300是空的。",
+      "question": "钱在哪？",
+      "answer": "不在茅台16–20倍。AI/光学是拥挤的例外。贷款存量仍在银行。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "1398.HK",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Stock of the old 50–70% loan circuit as deposits may leave — low"
+    },
+    {
+      "ticker": "WFC",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named US bank case (Buffett letter / retail shift), not a China NIM — low"
+    }
+  ],
+  "golden_quotes": [
+    "五篇大文章",
+    "5到10年",
+    "自身业内中国金融转型的大文章与新路径"
+  ],
+  "chronology": {
+    "subject": "Five essays · deposit exit · HS300",
+    "events": [
+      {
+        "date": "1980s",
+        "event": "US analog: slower growth, older savers"
+      },
+      {
+        "date": "2000s–20s",
+        "event": "China credit 50–70% bank-shaped in his cartoon"
+      },
+      {
+        "date": "2023–26",
+        "event": "Five essays + book"
+      },
+      {
+        "date": "2026-08-23",
+        "event": "E206 taping"
+      },
+      {
+        "date": "2026-10-25",
+        "event": "E206 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 投资实战派 E206",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
