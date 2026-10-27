@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T12:25:06.493Z",
+  "generatedAt": "2026-10-27T15:11:23.783Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -9,7 +9,7 @@
       "accent_color": "#C45D3E",
       "youtube_url": "https://www.youtube.com/@ILTB_Podcast",
       "cover_url": "/covers/invest-like-the-best.jpg",
-      "episodeCount": 69
+      "episodeCount": 76
     },
     {
       "id": "acquired",
@@ -19,7 +19,7 @@
       "accent_color": "#1B3A4B",
       "youtube_url": "https://www.youtube.com/@AcquiredFM",
       "cover_url": "/covers/acquired.jpg",
-      "episodeCount": 213
+      "episodeCount": 215
     },
     {
       "id": "founders",
@@ -29,7 +29,7 @@
       "accent_color": "#2D5016",
       "youtube_url": "https://www.youtube.com/@founderspodcast1",
       "cover_url": "/covers/founders.jpg",
-      "episodeCount": 80
+      "episodeCount": 86
     },
     {
       "id": "business-breakdowns",
@@ -39,7 +39,7 @@
       "accent_color": "#0068B3",
       "youtube_url": "https://www.youtube.com/@joincolossus",
       "cover_url": "/covers/business-breakdowns.jpg",
-      "episodeCount": 54
+      "episodeCount": 55
     },
     {
       "id": "zhang-xiaojun",
@@ -59,7 +59,7 @@
       "accent_color": "#1A5F4A",
       "youtube_url": "https://www.youtube.com/results?search_query=投资实战派",
       "cover_url": "/covers/touzi-shizhanpai.jpg",
-      "episodeCount": 40
+      "episodeCount": 43
     },
     {
       "id": "silicon-valley-101",
@@ -69,10 +69,375 @@
       "accent_color": "#0B4F6C",
       "youtube_url": "https://www.youtube.com/@TheValley101",
       "cover_url": "/covers/silicon-valley-101.jpg",
-      "episodeCount": 27
+      "episodeCount": 34
     }
   ],
   "episodes": [
+    {
+      "id": "ep497",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 497,
+      "title": "Cliff Sosin — Owning the Complements to Intelligence",
+      "guest": "Cliff Sosin",
+      "displayTitle": "Cliff Sosin",
+      "displaySubtitle": "Founder, CAS Investment Partners",
+      "guestRole": "Founder, CAS Investment Partners",
+      "date": "2026-10-27",
+      "durationMinutes": 60,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Sosin treats intelligence as a ratio, not an unbounded tree: cheap enough IQ colors in the facts, then you have to touch the world. Own the complements — data, attention, density, scale, licenses — not the frontier token. Meta is the cartoon: $250 billion of revenue and $250 billion of spend, almost all intelligence, with data and attention left if IQ falls ~100x in five years. His book is still ~80% Carvana plus Hilton Grand Vacations and ~5% Meta. He will not pick railroad tycoons; he wants what comes after the rails. Labs look like Cogent if good-enough tokens commoditize.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EH6DsNT455M",
+      "summaryFile": "ep497.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "CVNA",
+        "META",
+        "HGV"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "CVNA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "~80% of the book: brand plus infrastructure, time to wire agents before a clean-sheet rival — medium"
+        },
+        {
+          "ticker": "META",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named complement (data + attention) on a $250B spend book if IQ falls ~100x — low"
+        },
+        {
+          "ticker": "HGV",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The 'vacations' name next to Carvana in the five-name book — low"
+        }
+      ],
+      "chronologySubject": "Complements · Carvana · Meta"
+    },
+    {
+      "id": "bb-affirm-the-internets-american-express",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 249,
+      "title": "Affirm: The Internet's American Express",
+      "guest": "Fraser Christie",
+      "displayTitle": "Affirm",
+      "displaySubtitle": "Fraser Christie · Founder & CIO, Sandstone Global Investment · The Internet's American Express",
+      "guestRole": "Founder & CIO, Sandstone Global Investment",
+      "date": "2026-10-22",
+      "durationMinutes": 71,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Christie reads Affirm as the internet's American Express: a merchant-integrated payment network that also writes the loan, not a virtual-card lender. About $50 billion GMV, still growing over 30% at two to three times the size of a few years ago, ~50% US BNPL share, ~4% blended gross profit on GMV. Roughly 70% of volume is interest-bearing (4–6% of GMV) versus pay-in-X at 1–3%. Card is already ~20% of GMV and doubling. Target is $100 billion GMV at >25% growth, with Edge and agents extra. The stock still trades like a lender; he wants the Amex multiple.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=0ngCUPM06RE",
+      "summaryFile": "bb-affirm-the-internets-american-express.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AFRM",
+        "AXP",
+        "SHOP"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AFRM",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "$50B GMV +30%, ~4% GP/GMV, ~50% US BNPL, card 20% and doubling; still priced as a lender — medium"
+        },
+        {
+          "ticker": "AXP",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named analog: network plus credit, which is why Amex never got the Visa/Mastercard multiple — low"
+        },
+        {
+          "ticker": "SHOP",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Shop Pay installments is Affirm white-label; one of two logos that took equity — low"
+        }
+      ],
+      "chronologySubject": "Affirm · BNPL network · Max Levchin"
+    },
+    {
+      "id": "ep496",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 496,
+      "title": "Christina Cacioppo — Building an Enduring Software Company in the Age of AI",
+      "guest": "Christina Cacioppo",
+      "displayTitle": "Christina Cacioppo",
+      "displaySubtitle": "Founder & CEO, Vanta",
+      "guestRole": "Founder & CEO, Vanta",
+      "date": "2026-10-20",
+      "durationMinutes": 57,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Cacioppo started Vanta on SOC 2 and a 101 billboard; eight years later it is ~16,000 customers and five products on a 400-tool trust graph. SaaS multiples compressed to a third or a quarter even as she still runs a fast, high-margin book. She will not sell marked-up Claude tokens — buyers ask if she is 4x Claude — so Vanta eats token cost and pushes the agent from ~25% of customers toward 75%. The $250B pitch is recruiting theater; she still manages to ARR. Endgame is a long independent security company in a high-excitement, low-trust AI year.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sQaM5oPlUYs",
+      "summaryFile": "ep496.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Vanta",
+        "CRWD",
+        "PLTR"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Vanta",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "16k customers, 400-tool graph, agent at 25%→75% while eating tokens; ARR over $250B theater — medium"
+        },
+        {
+          "ticker": "CRWD",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named as the better enterprise white-hat/patch shop; Vanta stays mid-market — low"
+        }
+      ],
+      "chronologySubject": "Vanta · agents · talent war"
+    },
+    {
+      "id": "ep495",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 495,
+      "title": "David Vélez — Building Nubank and the Future of Global Banking",
+      "guest": "David Vélez",
+      "displayTitle": "David Vélez",
+      "displaySubtitle": "Founder & CEO, Nubank",
+      "guestRole": "Founder & CEO, Nubank",
+      "date": "2026-10-13",
+      "durationMinutes": 71,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Vélez says retail banking is still Blockbuster: a $10 trillion industry, ~90% still in branches, every neobank together under 10%. Nubank already runs 140 million customers on 10,000 people against incumbents at 100 million customers, 100,000 staff, and 6,000 branches — cost-to-serve about 3% of a traditional bank, before AI. Brazil is the print: ~120 million customers, 65% of adults, ~60% primary. The US launch and a stablecoin account into 35-plus countries are the next decade. Bear case is three LatAm countries and no more Brazilians. Bull is 100 countries on real-time rails, open finance, and their own credit model.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Rs40uGRyXC8",
+      "summaryFile": "ep495.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NU",
+        "AMZN",
+        "JPM"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NU",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "140M / 3% cost-to-serve / primary-account Brazil is the proof; US + 35-country stablecoin is the next decade — medium"
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named consumer-obsession template since the seed years, not a new retail print — low"
+        }
+      ],
+      "chronologySubject": "Nubank · Brazil primary · US launch"
+    },
+    {
+      "id": "ep494",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 494,
+      "title": "Andrew Huberman — The Frontier of Neurotechnology",
+      "guest": "Andrew Huberman",
+      "displayTitle": "Andrew Huberman",
+      "displaySubtitle": "Stanford neuroscientist · Huberman Lab",
+      "guestRole": "Stanford neuroscientist · Huberman Lab",
+      "date": "2026-10-06",
+      "durationMinutes": 72,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Huberman's tape is not another sleep protocol. Meta, OpenAI, and Anthropic are, in his view, future biotech firms whose real race is reading and writing the brain without opening the skull. Sleep is the on-ramp: an MIT eye mask 7–12 months out already drives extraocular muscles and lifts REM; Eight Sleep already writes via temperature. A penny-sized vagal stimulator sits under the neck; he gives it 12 months before about 20% of the founder class asks for one. Caffeine, GLP-1s, and Adderall are blunt. The health circus is a clown show; 2027–28 should get quieter.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_QSX3BF9UX0",
+      "summaryFile": "ep494.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "META",
+        "Private:Neuralink",
+        "Private:EightSleep"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "META",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named LLM name he says becomes a biotech company; Zuck is in the four athletes of brain exploration — low"
+        },
+        {
+          "ticker": "Private:Neuralink",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "McDougall, Chang-adjacent speech work, under-skin implants; the invasive pole of the read/write race — low"
+        },
+        {
+          "ticker": "Private:EightSleep",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Already writes to the nervous system via night temperature for REM/deep; contrast with Whoop/Aura, which do not measure REM — low"
+        }
+      ],
+      "chronologySubject": "Neurotech · sleep · labs as biotech"
+    },
+    {
+      "id": "ep493",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 493,
+      "title": "Noah Shinn — Building Instinct: The Personal Agent",
+      "guest": "Noah Shinn",
+      "displayTitle": "Noah Shinn",
+      "displaySubtitle": "Founder, Instinct",
+      "guestRole": "Founder, Instinct",
+      "date": "2026-09-28",
+      "durationMinutes": 71,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Shinn is shipping a personal agent that already transacts — text, call, email, no new app. Invite-only, five invites, $0 of marketing, and 10–11% day-over-day from a 200-person start; eBay listed invites at $300. Volume is already over $1B a year on a tiny base, half of it travel. Three weeks in, 40% have handed over a card and one sensitive share prints about 80% retention. The raise is about $1B at roughly $10B with Sequoia, Benchmark, and Coatue. Compute needed doubles about every week. He wants a merchant take-rate, not ads.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Am7IWP8IpEc",
+      "summaryFile": "ep493.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Instinct",
+        "AAPL",
+        "UBER",
+        "AMZN"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Instinct",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Invite-only 10–11% day-over-day, $1B-plus volume on a tiny base, ~$10B raise; trust ramp is the product — medium"
+        },
+        {
+          "ticker": "UBER",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named ride example: a car always waiting because the agent has the calendar should raise trip volume as checkout friction goes to zero — low"
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Apple Pay is his free-to-user, merchant-pays model; 30% in-app is the top of the take-rate curve he is mapping — low"
+        }
+      ],
+      "chronologySubject": "Instinct · personal agent · take-rate"
+    },
+    {
+      "id": "ep492",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 492,
+      "title": "Gabe Stengel — Building Investing Superintelligence",
+      "guest": "Gabe Stengel",
+      "displayTitle": "Gabe Stengel",
+      "displaySubtitle": "Co-founder & CEO, Rogo",
+      "guestRole": "Co-founder & CEO, Rogo",
+      "date": "2026-09-22",
+      "durationMinutes": 64,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Stengel is wiring frontier models into deal plumbing, not chatting about stocks. o1 Pro made search usable; Opus 4.5 late in 2025 started doing junior-banker work. The wedge is M&A — markup a deck in 20 minutes, not two days — because private markets still run on humans. Forty Series A firms passed; Keith Rabois called it Harvey for finance. Seat prices like Bloomberg today, pay-per-SIM later. In ten years he wants 90% of a bank's value in software the firm owns. Labs going from $100B to $1T will not build the data room.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=B0illwrqUG0",
+      "summaryFile": "ep492.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Rogo",
+        "JPM",
+        "GS"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Rogo",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Dealmaker ICP plus last-mile plumbing he says labs will skip; 40 Series A nos, then Rabois, $5B-revenue path — medium"
+        },
+        {
+          "ticker": "JPM",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named bank now hunting SMB M&A because a banker can be a deal team of one; the 90/10 EV flip is the longer tape — low"
+        },
+        {
+          "ticker": "GS",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named distribution channel and TMT analyst farm; more seats and more small deals if the MD can ship five pages in 10 minutes — low"
+        }
+      ],
+      "chronologySubject": "Rogo · deal AI · bank EV"
+    },
+    {
+      "id": "ep491",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 491,
+      "title": "Michael Moritz — Lessons From 40 Years of Investing and Writing",
+      "guest": "Michael Moritz",
+      "displayTitle": "Michael Moritz",
+      "displaySubtitle": "Former Sequoia chairman · Ausländer memoir",
+      "guestRole": "Former Sequoia chairman · Ausländer memoir",
+      "date": "2026-09-16",
+      "durationMinutes": 72,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Moritz reads his own first 14 years the way he read Iacocca and Sequoia founders: refugee grit from Nazi Germany to Wales, a Bavarian-judge grandfather who trusted the state and vanished east, a cattle trader who left 72 hours before the war. Extra passports still feel necessary. The favorite bet was Sequoia itself — Valentine's 1985 hire, Israel then China then Heritage, one fund clawed back to par. He is a great-person man; Elon may be America's greatest industrialist. Time's computer-of-the-year piece never let him repair Jobs. The kindest act was marrying him.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=mlWX7RltfDE",
+      "summaryFile": "ep491.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Sequoia",
+        "AAPL",
+        "TSLA"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Sequoia",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Named favorite investment: 1985 Valentine hire, 2012–13 handoff, Israel/China/Heritage, one fund fought back to par for non-profit LPs — medium"
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Arthur Rock day-one Apple plus the Time/Jobs rupture; this tape is character history, not a unit forecast — low"
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Early X.com partner; he calls Elon maybe the greatest industrialist in American history, now able to run more than one company — low"
+        }
+      ],
+      "chronologySubject": "Outsider · Sequoia · great persons"
+    },
     {
       "id": "ep490",
       "podcastId": "invest-like-the-best",
@@ -2393,6 +2758,100 @@
       "chronologySubject": "Mark Bertolini"
     },
     {
+      "id": "fnd-438-james-garfields-extraordinary-rise",
+      "podcastId": "founders",
+      "episodeNumber": 438,
+      "title": "#438 James Garfield's Extraordinary Rise",
+      "guest": "James A. Garfield",
+      "displayTitle": "James A. Garfield",
+      "displaySubtitle": "#438 James Garfield's Extraordinary Rise",
+      "guestRole": "Solo biography (Candice Millard, Destiny of the Republic)",
+      "date": "2026-10-26",
+      "durationMinutes": 38,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Senra's Millard tape: Destiny of the Republic — madness, medicine, and the murder of a president. Garfield is 20th president for 199 days. Log-cabin Ohio, fatherless before two, janitor to pay year one of college, professor of languages and math, original proof in the New England Journal of Education as a sitting congressman. He will not seek the White House. The convention drafts him. A bullet and 1881 medicine finish what he would not campaign for.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=NhO7Y-QWH6c",
+      "summaryFile": "fnd-438-james-garfields-extraordinary-rise.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "UNH",
+        "JNJ",
+        "BRK.B"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "UNH",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Medicine-quality rhyme: bad care kills the wounded principal; not an 1881 insurer print — low"
+        },
+        {
+          "ticker": "JNJ",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Same medical-system foil Millard is writing toward — low"
+        },
+        {
+          "ticker": "BRK.B",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Character compounder; drafted leadership, not a campaign — low"
+        }
+      ],
+      "chronologySubject": "Janitor · Middle Creek · 199 days"
+    },
+    {
+      "id": "fnd-437-the-tycoons",
+      "podcastId": "founders",
+      "episodeNumber": 437,
+      "title": "#437 The Tycoons: Carnegie, Rockefeller, Gould & Morgan",
+      "guest": "Carnegie / Rockefeller / Gould / Morgan",
+      "displayTitle": "Carnegie / Rockefeller / Gould / Morgan",
+      "displaySubtitle": "#437 The Tycoons: Carnegie, Rockefeller, Gould & Morgan",
+      "guestRole": "Solo biography (The Tycoons / Charles R. Morris)",
+      "date": "2026-10-13",
+      "durationMinutes": 54,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Senra's four-man tape: Carnegie, Rockefeller, Gould, and Morgan in their late 20s as the Civil War ends. Three come with flaming swords — speed, experiment, creative destruction. Morgan is the regulator against ruinous competition. Carnegie: cut costs, take share, gain scale; profits follow. Gould: railroads and telegraph, always attacking. Rockefeller: maybe the greatest of the four. They were never friends. The American boom's personal stamps last into the 20th century.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=v9KYuIrJnZA",
+      "summaryFile": "fnd-437-the-tycoons.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "XOM",
+        "UNP",
+        "JPM"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "XOM",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Rockefeller residual: cost and volume over gentlemanly oil profits — low"
+        },
+        {
+          "ticker": "UNP",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Gould's arena: railroads as the period's infrastructure weapon — low"
+        },
+        {
+          "ticker": "JPM",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Morgan as the regulator against ruinous competition — low"
+        }
+      ],
+      "chronologySubject": "Four men · Civil War end · American scale"
+    },
+    {
       "id": "ep436",
       "podcastId": "invest-like-the-best",
       "episodeNumber": 436,
@@ -2438,6 +2897,53 @@
         }
       ],
       "chronologySubject": "Marblegate and the U.S. middle market"
+    },
+    {
+      "id": "fnd-436-ari-emanuels-autobiography",
+      "podcastId": "founders",
+      "episodeNumber": 436,
+      "title": "#436 Ari Emanuel's Autobiography",
+      "guest": "Ari Emanuel",
+      "displayTitle": "Ari Emanuel",
+      "displaySubtitle": "Solo biography (The Green Light / Roll the Calls)",
+      "guestRole": "Solo biography (The Green Light / Roll the Calls)",
+      "date": "2026-10-05",
+      "durationMinutes": 69,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Senra calls Roll the Calls one of the craziest founder autobiographies he has read. Ari's philosophy is rage first, questions later — Ben Franklin on the knuckles: there is no little enemy. Mail room at 26, too old, he stays. Ten calls a day until the no becomes a meeting. Endeavor is the later machine; the tape is the occupational hazard as the product. Dissatisfaction is the species superpower. Rage means something will get done.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6mhN6WkZnXc",
+      "summaryFile": "fnd-436-ari-emanuels-autobiography.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "LYV",
+        "DKNG",
+        "DIS"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "LYV",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Live-events cousin of the Emanuel heat machine; tickets and buildings compound the same rage-to-action OS — low"
+        },
+        {
+          "ticker": "DKNG",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Sports-wagering layer on the live inventory his world books — low"
+        },
+        {
+          "ticker": "DIS",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Studio/talent foil the agent either feeds or fights; not a streaming print — low"
+        }
+      ],
+      "chronologySubject": "Rage · mail room · 10 calls"
     },
     {
       "id": "ep435",
@@ -2487,6 +2993,100 @@
       "chronologySubject": "Abstract Ventures"
     },
     {
+      "id": "fnd-435-mark-zuckerbergs-empire",
+      "podcastId": "founders",
+      "episodeNumber": 435,
+      "title": "#435 Mark Zuckerberg's Empire",
+      "guest": "Mark Zuckerberg",
+      "displayTitle": "Mark Zuckerberg",
+      "displaySubtitle": "Solo (Jeremy Stern profile: Mark)",
+      "guestRole": "Solo (Jeremy Stern profile: Mark)",
+      "date": "2026-09-28",
+      "durationMinutes": 41,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Senra skips the book and reads Jeremy Stern's profile: a journey to the heart of history's largest non-territorial empire. Parents say Donna was the nerd; Mark had the passion early. 3.6 billion users, $1.6 trillion, majority voting control that no president can remove. Revenue well above $200 billion. Capex this year tops every military but US, China, and Russia. Facebook, Instagram, and WhatsApp each outrun living Christians. He does not abdicate.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=sCGxLh8Sg-8",
+      "summaryFile": "fnd-435-mark-zuckerbergs-empire.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "META",
+        "Private:OpenAI",
+        "GOOGL"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "META",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "3.6B users, $1.6T, $200B+ sales, dual-class forever CEO, capex vs every army but three — medium"
+        },
+        {
+          "ticker": "Private:OpenAI",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named AI race he is 'behind' on; the spend is the answer — low"
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Other advertising-and-AI court in the same species-scale fight — low"
+        }
+      ],
+      "chronologySubject": "Parents · voting lock · capex empire"
+    },
+    {
+      "id": "fnd-434-sam-walton",
+      "podcastId": "founders",
+      "episodeNumber": 434,
+      "title": "#434 Sam Walton",
+      "guest": "Sam Walton",
+      "displayTitle": "Sam Walton",
+      "displaySubtitle": "Solo biography (Vance Trimble / how he worked)",
+      "guestRole": "Solo biography (Vance Trimble / how he worked)",
+      "date": "2026-09-21",
+      "durationMinutes": 49,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Senra uses Vance Trimble's 40-year-old Sam Walton — written before Made in America — as a how-he-worked tape, not a childhood bio. The 1980s public discovers the richest American is an Arkansas five-and-dime man, not a Rockefeller. JCPenney in 1940 (1,500 stores, $300 million) teaches small-town satisfaction and wrap-the-box thrift. Newport is stolen by the landlord. He starts again. Saturday mornings, store walks, and borrowed ideas become Walmart.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dAx0W29-FWE",
+      "summaryFile": "fnd-434-sam-walton.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "WMT",
+        "JCP",
+        "TGT"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "WMT",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Small-town density plus stolen ideas plus Saturday operating system; Trimble's how-he-worked tape — medium"
+        },
+        {
+          "ticker": "JCP",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "1940 classroom: 1,500 stores, $300M, Penney rewrapping the box; not a turnaround print — low"
+        },
+        {
+          "ticker": "TGT",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named later discount foil of the city map he would have walked — low"
+        }
+      ],
+      "chronologySubject": "Penney · Newport · Saturday OS"
+    },
+    {
       "id": "ep433",
       "podcastId": "invest-like-the-best",
       "episodeNumber": 433,
@@ -2532,6 +3132,53 @@
         }
       ],
       "chronologySubject": "Sixth Street"
+    },
+    {
+      "id": "fnd-433-how-michael-bloomberg-works",
+      "podcastId": "founders",
+      "episodeNumber": 433,
+      "title": "#433 How Michael Bloomberg Works",
+      "guest": "Michael Bloomberg",
+      "displayTitle": "Michael Bloomberg",
+      "displaySubtitle": "Solo biography (Bloomberg by Bloomberg)",
+      "guestRole": "Solo biography (Bloomberg by Bloomberg)",
+      "date": "2026-09-14",
+      "durationMinutes": 48,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Senra reads Bloomberg by Bloomberg as a fire-then-build tape. At 39, Gutfreund ends 15 years of 12-hour, six-day Salomon weeks with $10 million and a shove. He never looks back. $300,000 of his own money becomes a $4 million bet and a six-month promise of a machine that does not exist. Merrill is the first customer. Hardware is disposable; the product is answers at a keystroke. He does not want fair fights. Later he is giving away hundreds of millions a year and still owns nearly all of it.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1iH5YpzPZi8",
+      "summaryFile": "fnd-433-how-michael-bloomberg-works.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Bloomberg",
+        "GS",
+        "AAPL"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Bloomberg",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Terminal as answers-at-a-key; still ~98% owned; $200–700M/year giving as the cash tell — medium"
+        },
+        {
+          "ticker": "GS",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The other offer on the tape; he picked Salomon heat over Goldman polish — low"
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Jobs brick rhyme for the firing; not a unit forecast — low"
+        }
+      ],
+      "chronologySubject": "Salomon fire · terminal · unfair fights"
     },
     {
       "id": "fnd-432-the-mind-of-napoleon",
@@ -5803,6 +6450,410 @@
       "chronologySubject": "Jeff Bezos · Amazon Shareholder Letters"
     },
     {
+      "id": "sv101-waitan-agent-trust",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 265,
+      "title": "Waitan Roundtable: Dare You Hand the Wallet to an Agent?",
+      "guest": "Han Xinyi · Jorn Lambert · Liu Zuohu · Zhou Jingren",
+      "displayTitle": "Han Xinyi · Jorn Lambert · Liu Zuohu · Zhou Jingren",
+      "displaySubtitle": "Waitan Roundtable: Dare You Hand the Wallet to an Agent?",
+      "guestRole": "Ant CEO · Mastercard CPO · OPPO CPO · Alibaba chief scientist",
+      "date": "2026-09-17",
+      "durationMinutes": 36,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Waitan table: Ant CEO Han, Mastercard CPO Jorn Lambert, OPPO's Liu Zuohu, Alibaba scientist Zhou Jingren. Two rails — finish a human task, or machine-to-machine pay. Only Han has paid: ~40 yuan of snacks via 阿福. The others browse and stop at the card. Xiaobu purchases roughly doubled off a small base. Merchants and users wait on each other. Ant tries to be the catalyst. Jorn ships KYA — Know Your Agent — the same afternoon. Trust, not model IQ, is the gate.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=2oIrZM6e8Ro",
+      "summaryFile": "sv101-waitan-agent-trust.md",
+      "summaryFileZh": "sv101-waitan-agent-trust.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "BABA",
+        "MA",
+        "Private:Ant"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "MA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "KYA and a machine-pay rail are the trust layer the table says is missing — medium"
+        },
+        {
+          "ticker": "BABA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Zhou plus Alibaba's graph sit on the decide side; checkout is still Ant/Mastercard — low"
+        }
+      ],
+      "chronologySubject": "Agent checkout · KYA · Waitan"
+    },
+    {
+      "id": "sv101-ep256",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 256,
+      "title": "GPT-6 Astra: Agents, Robots, and Pharma — Who Gets Rewritten First?",
+      "guest": "Xu Huazhe · Bill Zhu · Wang Sheng",
+      "displayTitle": "Xu Huazhe · Bill Zhu · Wang Sheng",
+      "displaySubtitle": "GPT-6 Astra: Agents, Robots, and Pharma — Who Gets Rewritten First?",
+      "guestRole": "Poke Robotics / Tsinghua · Pokee.ai CEO · UW / Apodex",
+      "date": "2026-10-19",
+      "durationMinutes": 80,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Hongjun's Astra month: Meta Muse hits US App Store #1; Instinct goes $2.5B to $10B in a month; TypeSafe's Jev raises $870 million in 24 days at $7.5 billion. Claude finds an ART enzyme in 21 hours; Biohub plus DeepMind/DOE/NIH put $1.8 billion on virtual cells. Guests Xu Huazhe, Bill Zhu, and Wang Sheng say the robot demo is the shock — a split stem, a better Golden Gate — and labels must carry cause, not 'I grasped.' Consumer agents still stall at a bill.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=lsANSvYQks0",
+      "summaryFile": "sv101-ep256.md",
+      "summaryFileZh": "sv101-ep256.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "META",
+        "GOOGL",
+        "Private:OpenAI",
+        "Private:Instinct"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "META",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Muse to US #1 and Biohub $1.8B are the two Astra-month checks — low"
+        },
+        {
+          "ticker": "Private:Instinct",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "$2.5B to $10B in a month is a consumer-agent mark, not a take-rate — low"
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "DeepMind/Isomorphic on the $1.8B virtual-cell stack with Biohub/DOE/NIH — low"
+        }
+      ],
+      "chronologySubject": "Astra · Muse · Instinct · virtual cells"
+    },
+    {
+      "id": "acq-seinfeld",
+      "podcastId": "acquired",
+      "episodeNumber": 215,
+      "title": "Seinfeld",
+      "guest": "Seinfeld",
+      "displayTitle": "Seinfeld",
+      "displaySubtitle": "Fall 2026 · off-network sitcom as a power-law studio",
+      "guestRole": "Fall 2026 · off-network sitcom as a power-law studio",
+      "date": "2026-10-18",
+      "durationMinutes": 230,
+      "readMinutes": 7,
+      "rating": 3,
+      "conclusion": "Seinfeld is Acquired's argument that a stand-up's NBC meeting plus Fin-Syn ownership built a venture-style cap table. Jerry and Larry David keep the back end; Castle Rock (Coca-Cola $30 million at founding, later Turner cash) is the studio. First-run fees look small next to 1995 local syndication above $500 million, 1998's $1.1 billion cycle, and $1.6 billion already booked before the finale. That finale does 76.3 million viewers — 58% of the night — and $2 million spots, 54% above the 1998 Super Bowl's $1.3 million. Hulu pays $150 million for five years in 2015; Netflix's 2019 license is the largest dead-show check a streamer has written, well over $500 million. In 2026 Ben still counts 60 to 72 million Americans watching. Sony is the current distributor. NBC (Comcast) never owned the library.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Wm53dMsn5dk",
+      "summaryFile": "acq-seinfeld.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NFLX",
+        "CMCSA",
+        "SONY"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NFLX",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "2019 $500M+ Seinfeld license and 60–72M still watching are library-duration prints, not a new-comedy multiple — low"
+        },
+        {
+          "ticker": "CMCSA",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "NBC rented the finale at Super Bowl rates and never owned the backend Fin-Syn reserved for Castle Rock — low"
+        },
+        {
+          "ticker": "SONY",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Current Seinfeld distributor on a tape that still clears streamer-record rents — low"
+        }
+      ],
+      "chronologySubject": "Seinfeld · Fin-Syn to Netflix"
+    },
+    {
+      "id": "sv101-ep255",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 255,
+      "title": "Models Get Smarter. Users Don't Feel It. Zhang Kuo on Accio Work's 107 Tasks",
+      "guest": "Zhang Kuo",
+      "displayTitle": "Zhang Kuo",
+      "displaySubtitle": "President, Alibaba.com / Accio Work",
+      "guestRole": "President, Alibaba.com / Accio Work",
+      "date": "2026-10-08",
+      "durationMinutes": 46,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Yiwen has Zhang Kuo back six months after Accio Work. Coding agents around him are ~99% penetrated; business agents are early because the grade is not a compile. Search +20%, multimodal +130%. Sourcing now includes a design pack, supplier chat, and 'agentic trade.' They ran 107 live merchant tasks with no babysitter. Accio Work hits the same pass rate at about one-third the cost of Codex or Claude Code via a small post-trained Qwen. A useful merchant AI is one they can afford every day.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Fhx_qNS2P8g",
+      "summaryFile": "sv101-ep255.md",
+      "summaryFileZh": "sv101-ep255.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "BABA",
+        "AMZN",
+        "Private:OpenAI"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "BABA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Accio on Alibaba.com/1688, +130% multimodal, 107-task cost at 1/3 of Claude Code — medium"
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Outbound shelf for the same merchants, not the agent — low"
+        }
+      ],
+      "chronologySubject": "Accio Work · 107 tasks · token routing"
+    },
+    {
+      "id": "sv101-ep254",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 254,
+      "title": "Super El Niño: Will Daily Goods Actually Get More Expensive?",
+      "guest": "Zhang Siqi",
+      "displayTitle": "Zhang Siqi",
+      "displaySubtitle": "Super El Niño: Will Daily Goods Actually Get More Expensive?",
+      "guestRole": "Commodity researcher, ~13 years, softs and base metals",
+      "date": "2026-09-29",
+      "durationMinutes": 62,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "Mahu and Zhang Siqi refuse the 'El Niño equals inflation' button. Goldman Sept 7: Bloomberg Ag spot +24% y/y, wheat +41%, then soy oil, corn, cotton, sugar; palm and rubber futures ripped too. Hormuz and the Black Sea share the residual. This Niño may run into next February. Weather is one of five price factors. A 1–2% global miss bites only when stocks are thin and exporters are few. Nitrogen-via-gas is a long chain, not a single click.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=INQvcDh-RFQ",
+      "summaryFile": "sv101-ep254.md",
+      "summaryFileZh": "sv101-ep254.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "ADM",
+        "DE",
+        "MOS"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "ADM",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Crush and origination sit on the five-factor stack, not on a Niño emoji — low"
+        },
+        {
+          "ticker": "DE",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Equipment follows planted acres and farmer cash, the slow side of the same calendar — low"
+        }
+      ],
+      "chronologySubject": "El Niño · ag prices · five factors"
+    },
+    {
+      "id": "sv101-ep253",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 253,
+      "title": "Who Writes, Sells, and Grades the Exam? The AI Data Industry",
+      "guest": "He Yunzhong · Sun Yiyou",
+      "displayTitle": "He Yunzhong · Sun Yiyou",
+      "displaySubtitle": "Who Writes, Sells, and Grades the Exam? The AI Data Industry",
+      "guestRole": "Scale AI post-training/eval research · Berkeley postdoc, Agents' Last Exam",
+      "date": "2026-09-27",
+      "durationMinutes": 58,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Yiwen maps data vendors under the labs. AfterQuery goes from a $300 million April A-round to $3.2 billion by September — 10x, fastest YC-to-unicorn on the tape. Scale was marked above $29 billion on Meta's stake; Mercor $10 billion last October. The SKU is rubrics, RL environments, and exams, not image labels. He Yunzhong (Scale, personal views) and Sun Yiyou (Berkeley, Agents' Last Exam: 150+ tasks, 50+ industries, v2 toward 1,000+) say hour-long agent jobs break LMArena-style voting.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=I-rLxiIGf-4",
+      "summaryFile": "sv101-ep253.md",
+      "summaryFileZh": "sv101-ep253.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "META",
+        "Private:Scale AI",
+        "Private:AfterQuery",
+        "Private:Mercor"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "META",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Scale marked >$29B on the minority print — a data-supply headline, not Meta's core multiple — low"
+        },
+        {
+          "ticker": "Private:AfterQuery",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "$300M to $3.2B in <6 months is scarcity of expert exams, not proven earnings — low"
+        }
+      ],
+      "chronologySubject": "AI data vendors · Scale · AfterQuery · ALE"
+    },
+    {
+      "id": "sv101-ep252",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 252,
+      "title": "Eight Sleep: A $3,000 Cover, Temperature, and Sleep as Preventive Care",
+      "guest": "Eight Sleep founders (Alex / Matteo)",
+      "displayTitle": "Eight Sleep founders (Alex / Matteo)",
+      "displaySubtitle": "Eight Sleep: A $3,000 Cover, Temperature, and Sleep as Preventive Care",
+      "guestRole": "Founders, Eight Sleep",
+      "date": "2026-09-23",
+      "durationMinutes": 55,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "English SV101 sit-down with Eight Sleep. A mattress cover that heats and cools, then adds snore and sleep-onset help, lists around $3,000. They claim ~30% better sleep and 80–90% couple attach on dual-zone. The line is six hours that out-rest eight, plus tracking for 8 billion people someday. Apple was not in wearables when they started. Cancer 'full body scanning' and apnea are the medical hop — a vision, not a clearance.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=wqI7kJQEnV8",
+      "summaryFile": "sv101-ep252.md",
+      "summaryFileZh": "sv101-ep252.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Eight Sleep",
+        "AAPL",
+        "Private:Whoop"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Eight Sleep",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "$3,000 cover and couple attach are real; cancer-scan talk is not a 2026 P&L — low"
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Wearable timing compare: absent at founding, now the consumer sleep UI — low"
+        }
+      ],
+      "chronologySubject": "Eight Sleep · cover to clinical hop"
+    },
+    {
+      "id": "sv101-ep251",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 251,
+      "title": "Inference Chips: Groq, Cerebras, OpenAI's First Chip, and Bill Dally's Design Lens",
+      "guest": "Mark · Ziyang",
+      "displayTitle": "Mark · Ziyang",
+      "displaySubtitle": "Inference Chips: Groq, Cerebras, OpenAI's First Chip, and Bill Dally's Design Lens",
+      "guestRole": "Inference-chip hardware/systems (Bill Dally student) · Annapurna/Trainium software",
+      "date": "2026-09-15",
+      "durationMinutes": 92,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Hongjun sits with Mark (Dally student) and Ziyang (Trainium software) on June 24 — the day OpenAI ships its first inference chip, on a memory choice they would not have made. Training is an unquantifiable cluster bet. Inference is dollars per million tokens versus GPU plus power. Bandwidth beats peak FLOPs. Groq (2016) puts weights in SRAM; Cerebras is ~800 mm² wafer-scale at 750–2000 tok/s versus ~100 on a GPU. Yield can scrap nine of ten. Agent tokens are not for eyes, so speed has no 100 tok/s ceiling.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=aS69y40BoyM",
+      "summaryFile": "sv101-ep251.md",
+      "summaryFileZh": "sv101-ep251.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NVDA",
+        "AMZN",
+        "Private:Groq",
+        "Private:OpenAI"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Still the HBM default and Dally's house; decode is bandwidth, not a GPU funeral — medium"
+        },
+        {
+          "ticker": "Private:Groq",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "2016 SRAM-on-die path, 9–10 years in, the named alternative to HBM decode — low"
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Trainium/Annapurna is the compiler guest's last job — custom silicon, not retail — low"
+        }
+      ],
+      "chronologySubject": "Inference silicon · Groq · Cerebras · OpenAI"
+    },
+    {
+      "id": "acq-the-home-depot",
+      "podcastId": "acquired",
+      "episodeNumber": 214,
+      "title": "The Home Depot",
+      "guest": "The Home Depot",
+      "displayTitle": "The Home Depot",
+      "displaySubtitle": "Fall 2026 · warehouse DIY and pro retail",
+      "guestRole": "Fall 2026 · warehouse DIY and pro retail",
+      "date": "2026-09-13",
+      "durationMinutes": 215,
+      "readMinutes": 7,
+      "rating": 3,
+      "conclusion": "Home Depot is Ben and David's S&P 500 total-return monster: $1,000 at the 1981 IPO, one year after Apple, beats a held Apple stake if you reinvest dividends at nearly 25% a year for 45 years and becomes about $17 million versus $170,000 in the index. The founders are retailers and a banker, not contractors — Bernie Marcus, Arthur Blank, and Ken Langone, fired from Handy Dan in 1978. The box is five times a hardware store. Today they count about 2,400 stores, 470,000 people, roughly half pro, $14 billion of net income on a mid-30s gross margin, 90% owned real estate, and a $350 billion cap. Ross Perot's walk on $2 million for 70% is the $223 billion Cadillac joke. Lowe's is smaller. The US home-improvement pile they helped make is now about $600 billion.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=6Kq5e49MD6U",
+      "summaryFile": "acq-the-home-depot.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "HD",
+        "LOW",
+        "AMZN"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "HD",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Owned boxes, ~half pro, $14B net, and 45-year 25% compounding still match the warehouse model — medium"
+        },
+        {
+          "ticker": "LOW",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "The tape's size and culture compare leaves Lowe's as the smaller copy of the same aisle — low"
+        }
+      ],
+      "chronologySubject": "Home Depot · warehouse to $350B"
+    },
+    {
       "id": "sv101-e249",
       "podcastId": "silicon-valley-101",
       "episodeNumber": 249,
@@ -5989,6 +7040,49 @@
       "chronologySubject": "Hyperscaler DC debt · SPV · Blue Owl"
     },
     {
+      "id": "tzs-ep201",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 201,
+      "title": "Consensus and Chips: From Cyclicals to AI — David with Teacher Xiao X",
+      "guest": "Teacher Xiao X",
+      "displayTitle": "Teacher Xiao X",
+      "displaySubtitle": "Buy-side ETF / active-book researcher; ex-futures and sell-side macro",
+      "guestRole": "Buy-side ETF / active-book researcher; ex-futures and sell-side macro",
+      "date": "2026-09-27",
+      "durationMinutes": 68,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "David brings Xiao X back from E174. Gold crashed $5,600 to $4,400 in days; silver tagged $1,200 then lost 1.3 in a week. Jan–Jun 2026 is two planets: AI versus everything. Nine of ten daily top reads are AI; the crowded global top-50 is ~90% AI. Aluminum still fell 30–40%. Same frame — more bids than offers, thin chips. Cyclicals peaked into February; AI took the bid. After a mid-year unwind he still says the industry is there. A value PM rarely rotates this fast; a strategist does.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep201.md",
+      "summaryFileZh": "tzs-ep201.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NVDA",
+        "300308.SZ",
+        "Private:OpenAI"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Global pole of the 1H26 AI bid after cyclicals dumped in February — low"
+        },
+        {
+          "ticker": "300308.SZ",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "A-share optical way to sit in the same crowded 90% — low"
+        }
+      ],
+      "chronologySubject": "Consensus-and-chips · cyclicals to AI"
+    },
+    {
       "id": "sv101-ep200",
       "podcastId": "silicon-valley-101",
       "episodeNumber": 200,
@@ -6033,6 +7127,49 @@
       "chronologySubject": "AI for Science · DeepMind · Discovery Loop"
     },
     {
+      "id": "tzs-ep200",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 200,
+      "title": "AI Chips, China Compute, and The Rise of Ascend: Yongqing with Fang Xingdong",
+      "guest": "Fang Xingdong",
+      "displayTitle": "Fang Xingdong",
+      "displaySubtitle": "ZJU professor · author, The Rise of Ascend",
+      "guestRole": "ZJU professor · author, The Rise of Ascend",
+      "date": "2026-09-20",
+      "durationMinutes": 92,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Yongqing has Fang Xingdong on Ascend — book three of a six-product Huawei series begun when the 2019 tech war hit. The list is HarmonyOS, Euler, Gauss DB, Kirin, Ascend, Kunpeng. They guessed five years and ~300 interviews; it is becoming eight years and ~500 two-hour talks he does himself. Euler 2023, Harmony last year, Ascend now; Kunpeng slipped from 2020. Ascend project 2017, next to 4G/5G. Xu Zhijun: he has the full picture, so he does not panic. Nvidia is the global compare; SMIC is the sanctioned fab. Fang will not call it solved until all six ship.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep200.md",
+      "summaryFileZh": "tzs-ep200.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Huawei",
+        "0981.HK",
+        "NVDA"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "0981.HK",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Sanctioned fab next to the Kunpeng slip — the factory half of Fang's six — low"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Still the top bin China cannot buy; Ascend is the substitute clock, not a 2026 replacement — medium"
+        }
+      ],
+      "chronologySubject": "Huawei six products · Ascend book"
+    },
+    {
       "id": "sv101-ep199",
       "podcastId": "silicon-valley-101",
       "episodeNumber": 199,
@@ -6075,6 +7212,56 @@
         }
       ],
       "chronologySubject": "Open weights · DeepSeek · Kimi · US coalition"
+    },
+    {
+      "id": "tzs-ep199",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 199,
+      "title": "The Edge of AI Research: David with Gangdisi's Chief FDE",
+      "guest": "Laobai (老白)",
+      "displayTitle": "Laobai (老白)",
+      "displaySubtitle": "The Edge of AI Research: David with Gangdisi's Chief FDE",
+      "guestRole": "Chief FDE, Gangdisi (岗底斯)",
+      "date": "2026-09-13",
+      "durationMinutes": 80,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "David sits with Gangdisi FDE Laobai. Shop in 2019, AI terminal June 2023, briefs that year, client reports in 2024–25, and a 2026 self-train loop he calls a near-100% deliverable. FDEs are finance people — Palantir coined the title; OpenAI/Anthropic hire for the business. A K3-class model at 2.8 trillion parameters still leaves 3,000 function points, about 30 in use. H200 cost on the tape: 1.5 million to 5.5 million. The buy button stays human. They staff the eager 20% of a 20/60/20 shop.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep199.md",
+      "summaryFileZh": "tzs-ep199.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Gangdisi",
+        "Private:OpenAI",
+        "NVDA",
+        "PLTR"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Gangdisi",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "2019 shop, 2023 terminal, 2026 self-train — a 20% attach story, not a 100% delivery multiple — low"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "H200 cost on the tape 1.5M to 5.5M is their infra marker — low"
+        },
+        {
+          "ticker": "PLTR",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "FDE brand they refuse: Palantir glow versus finance people plus an agent — low"
+        }
+      ],
+      "chronologySubject": "Gangdisi · FDE · AI research terminal"
     },
     {
       "id": "sv101-ep198",
@@ -6353,6 +7540,97 @@
       "chronologySubject": "Physical AI · Tesla robot · supply chain"
     },
     {
+      "id": "tzs-ep195",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 195,
+      "title": "Xu Yang Leaves Anta's Main Brand, Super-Anta vs Decathlon Math, and Nike Taking China Online Back",
+      "guest": "A-Fu (阿富)",
+      "displayTitle": "A-Fu (阿富)",
+      "displaySubtitle": "Xu Yang Leaves Anta's Main Brand, Super-Anta vs Decathlon Math, and Nike Taking China Online Back",
+      "guestRole": "Sports-apparel operator / returning TZS category guest",
+      "date": "2026-08-16",
+      "durationMinutes": 111,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "A-Fu is back on 8/8: Xu Yang — Anta lifer, 2006 marketing, 2013 basketball GM, 2019–22 Arc'teryx — left the main brand on 2026-07-15 ('other arrangements'). Super Anta printed ¥500–600k per store-month against Decathlon's ~¥4.53M. If he could not lift Anta / Super Anta / Champion / SV, A-Fu says nobody inside will. Anta still cannot hold above 20% off versus Nike; Fila and Arc'teryx do the premium work. Nike's global book is roughly flat — NA +5%, EMEA +3%, APAC/LatAm 0 — but Greater China −11%, and HQ is taking Tmall back from Taobo and Pou Sheng.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep195.md",
+      "summaryFileZh": "tzs-ep195.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "2020.HK",
+        "NKE",
+        "Apparel"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "2020.HK",
+          "direction": "Short",
+          "confidence": "Low",
+          "thesis": "Main-brand ceiling: Xu Yang out 2026-07-15, Super Anta at ¥0.5–0.6M/store-month vs Decathlon ¥4.53M; Fila/Arc'teryx still work but the optionality on Anta-logo bets is dead — low"
+        },
+        {
+          "ticker": "NKE",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Global roughly flat with NA/EMEA up; the −11% Greater China print is the hole, and taking Taobo/Pou Sheng online back is the control fix — low"
+        }
+      ],
+      "chronologySubject": "Xu Yang · Anta main · Nike China"
+    },
+    {
+      "id": "bb-applied-intuition-a-billion-intelligent-machines",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 248,
+      "title": "Applied Intuition: A Billion Intelligent Machines",
+      "guest": "Qasar Younis & Peter Ludwig",
+      "displayTitle": "Applied Intuition",
+      "displaySubtitle": "Qasar Younis & Peter Ludwig · Co-founders, Applied Intuition · A Billion Intelligent Machines",
+      "guestRole": "Co-founders, Applied Intuition",
+      "date": "2026-07-27",
+      "durationMinutes": 47,
+      "readMinutes": 3,
+      "rating": 5,
+      "conclusion": "Applied Intuition positions as the horizontal intelligence layer for machines — Nvidia sells chips into everyone else's hardware; Applied sells brains and the tools to build those brains into automotive, defense, mining, agriculture, trucking, and robotics without owning any end machine. Mission: a billion intelligent machines. Stack evolved tools → onboard OS → vertical autonomy → Dana, a new agentic platform that lowers the barrier to physical AI. Raised ~$1B yet remains self-funding (growth outran spend). Category leader claim in a market founders argue will dwarf digital AI over 25 years.",
+      "youtubeUrl": "",
+      "summaryFile": "bb-applied-intuition-a-billion-intelligent-machines.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Applied Intuition",
+        "Physical AI",
+        "NVDA",
+        "DE"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Applied Intuition",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Self-funding physical-AI category leader selling brains/tools across auto/defense/industrial; Dana + proprietary data loop + ~$1B dry powder optionality — primary episode long"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Founders explicitly analogize Applied to Nvidia's horizontal chip model — physical AI deployment still needs edge silicon; NVDA remains the liquid proxy for machine intelligence infra"
+        },
+        {
+          "ticker": "DE",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Ag/construction OEM cited as cousin markets to auto autonomy — intelligence attach on combines/mines/trucks is the demand pull Applied sells into; DE as public ag-automation proxy"
+        }
+      ],
+      "chronologySubject": "Applied Intuition"
+    },
+    {
       "id": "sv101-ep195",
       "podcastId": "silicon-valley-101",
       "episodeNumber": 195,
@@ -6401,49 +7679,6 @@
         }
       ],
       "chronologySubject": "Kiwi · Two Generations of Chinese AI · Moonshot"
-    },
-    {
-      "id": "tzs-ep195",
-      "podcastId": "touzi-shizhanpai",
-      "episodeNumber": 195,
-      "title": "Xu Yang Leaves Anta's Main Brand, Super-Anta vs Decathlon Math, and Nike Taking China Online Back",
-      "guest": "A-Fu (阿富)",
-      "displayTitle": "A-Fu (阿富)",
-      "displaySubtitle": "Xu Yang Leaves Anta's Main Brand, Super-Anta vs Decathlon Math, and Nike Taking China Online Back",
-      "guestRole": "Sports-apparel operator / returning TZS category guest",
-      "date": "2026-08-16",
-      "durationMinutes": 111,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "A-Fu is back on 8/8: Xu Yang — Anta lifer, 2006 marketing, 2013 basketball GM, 2019–22 Arc'teryx — left the main brand on 2026-07-15 ('other arrangements'). Super Anta printed ¥500–600k per store-month against Decathlon's ~¥4.53M. If he could not lift Anta / Super Anta / Champion / SV, A-Fu says nobody inside will. Anta still cannot hold above 20% off versus Nike; Fila and Arc'teryx do the premium work. Nike's global book is roughly flat — NA +5%, EMEA +3%, APAC/LatAm 0 — but Greater China −11%, and HQ is taking Tmall back from Taobo and Pou Sheng.",
-      "youtubeUrl": "",
-      "summaryFile": "tzs-ep195.md",
-      "summaryFileZh": "tzs-ep195.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "2020.HK",
-        "NKE",
-        "Apparel"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "2020.HK",
-          "direction": "Short",
-          "confidence": "Low",
-          "thesis": "Main-brand ceiling: Xu Yang out 2026-07-15, Super Anta at ¥0.5–0.6M/store-month vs Decathlon ¥4.53M; Fila/Arc'teryx still work but the optionality on Anta-logo bets is dead — low"
-        },
-        {
-          "ticker": "NKE",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Global roughly flat with NA/EMEA up; the −11% Greater China print is the hole, and taking Taobo/Pou Sheng online back is the control fix — low"
-        }
-      ],
-      "chronologySubject": "Xu Yang · Anta main · Nike China"
     },
     {
       "id": "sv101-ep194",
@@ -6631,54 +7866,6 @@
         }
       ],
       "chronologySubject": "Semiconductor investing methodology · Xie Zhifeng"
-    },
-    {
-      "id": "bb-applied-intuition-a-billion-intelligent-machines",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 248,
-      "title": "Applied Intuition: A Billion Intelligent Machines",
-      "guest": "Qasar Younis & Peter Ludwig",
-      "displayTitle": "Applied Intuition",
-      "displaySubtitle": "Qasar Younis & Peter Ludwig · Co-founders, Applied Intuition · A Billion Intelligent Machines",
-      "guestRole": "Co-founders, Applied Intuition",
-      "date": "2026-07-27",
-      "durationMinutes": 47,
-      "readMinutes": 3,
-      "rating": 5,
-      "conclusion": "Applied Intuition positions as the horizontal intelligence layer for machines — Nvidia sells chips into everyone else's hardware; Applied sells brains and the tools to build those brains into automotive, defense, mining, agriculture, trucking, and robotics without owning any end machine. Mission: a billion intelligent machines. Stack evolved tools → onboard OS → vertical autonomy → Dana, a new agentic platform that lowers the barrier to physical AI. Raised ~$1B yet remains self-funding (growth outran spend). Category leader claim in a market founders argue will dwarf digital AI over 25 years.",
-      "youtubeUrl": "",
-      "summaryFile": "bb-applied-intuition-a-billion-intelligent-machines.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Private:Applied Intuition",
-        "Physical AI",
-        "NVDA",
-        "DE"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "Private:Applied Intuition",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Self-funding physical-AI category leader selling brains/tools across auto/defense/industrial; Dana + proprietary data loop + ~$1B dry powder optionality — primary episode long"
-        },
-        {
-          "ticker": "NVDA",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Founders explicitly analogize Applied to Nvidia's horizontal chip model — physical AI deployment still needs edge silicon; NVDA remains the liquid proxy for machine intelligence infra"
-        },
-        {
-          "ticker": "DE",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Ag/construction OEM cited as cousin markets to auto autonomy — intelligence attach on combines/mines/trucks is the demand pull Applied sells into; DE as public ag-automation proxy"
-        }
-      ],
-      "chronologySubject": "Applied Intuition"
     },
     {
       "id": "tzs-ep192",
@@ -7061,41 +8248,6 @@
       "chronologySubject": "Semiconductor cycles & AI stack"
     },
     {
-      "id": "acq-the-walt-disney-company",
-      "podcastId": "acquired",
-      "episodeNumber": 212,
-      "title": "The Walt Disney Company",
-      "guest": "The Walt Disney Company",
-      "displayTitle": "The Walt Disney Company",
-      "displaySubtitle": "Season 19 · Episode 4 · Part 1: Walt's Era",
-      "guestRole": "Season 19 · Episode 4 · Part 1: Walt's Era",
-      "date": "2026-06-21",
-      "durationMinutes": 271,
-      "readMinutes": 5,
-      "rating": 5,
-      "conclusion": "Disney is less a Hollywood studio than a flywheel company born when Walt fused art and commerce in Marceline — betting the farm on synchronized sound, Snow White, and eventually Disneyland while competitors treated animation as a fad. Ben and David trace Kansas City failures to the 1923 Alice Comedies contract, Mickey-driven consumer products, the 1937 Snow White cathedral ($1.5M cost, $8M rentals, first soundtrack album, 2,183 SKUs), ABC-financed Disneyland (1955), and today's parks segment (~$36B revenue, ~$10B profit — double studio profit). Part 1 ends on Walt's era; the Renaissance awaits Part 2.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-the-walt-disney-company.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Flywheel",
-        "Theme Parks",
-        "Media IP"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "DIS",
-          "direction": "Long",
-          "confidence": "High",
-          "thesis": "Parks (~$10B profit) anchor the flywheel Part 1 explains — IP refreshes (Marvel, Star Wars) feed physical monetization; Seven Powers on heritage IP and counterpositioning explain why Paramount cannot replicate a century of affection"
-        }
-      ],
-      "chronologySubject": "The Walt Disney Company · Walt's Era"
-    },
-    {
       "id": "tzs-ep188",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 188,
@@ -7279,6 +8431,41 @@
         }
       ],
       "chronologySubject": "Tanyue School · Innovative Education · Super High Schoolers"
+    },
+    {
+      "id": "acq-the-walt-disney-company",
+      "podcastId": "acquired",
+      "episodeNumber": 212,
+      "title": "The Walt Disney Company",
+      "guest": "The Walt Disney Company",
+      "displayTitle": "The Walt Disney Company",
+      "displaySubtitle": "Season 19 · Episode 4 · Part 1: Walt's Era",
+      "guestRole": "Season 19 · Episode 4 · Part 1: Walt's Era",
+      "date": "2026-06-21",
+      "durationMinutes": 271,
+      "readMinutes": 5,
+      "rating": 5,
+      "conclusion": "Disney is less a Hollywood studio than a flywheel company born when Walt fused art and commerce in Marceline — betting the farm on synchronized sound, Snow White, and eventually Disneyland while competitors treated animation as a fad. Ben and David trace Kansas City failures to the 1923 Alice Comedies contract, Mickey-driven consumer products, the 1937 Snow White cathedral ($1.5M cost, $8M rentals, first soundtrack album, 2,183 SKUs), ABC-financed Disneyland (1955), and today's parks segment (~$36B revenue, ~$10B profit — double studio profit). Part 1 ends on Walt's era; the Renaissance awaits Part 2.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-the-walt-disney-company.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Flywheel",
+        "Theme Parks",
+        "Media IP"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "DIS",
+          "direction": "Long",
+          "confidence": "High",
+          "thesis": "Parks (~$10B profit) anchor the flywheel Part 1 explains — IP refreshes (Marvel, Star Wars) feed physical monetization; Seven Powers on heritage IP and counterpositioning explain why Paramount cannot replicate a century of affection"
+        }
+      ],
+      "chronologySubject": "The Walt Disney Company · Walt's Era"
     },
     {
       "id": "tzs-ep186",
@@ -9121,49 +10308,6 @@
         }
       ],
       "chronologySubject": "You Kaichao · vLLM / Inferact"
-    },
-    {
-      "id": "zj-ep147",
-      "podcastId": "invest-like-the-best",
-      "episodeNumber": 147,
-      "title": "Ant Lingbo's Shen Yujun on Robot-Native Foundation Models: Brain, Body, and Data",
-      "guest": "Shen Yujun",
-      "displayTitle": "Shen Yujun",
-      "displaySubtitle": "Chief Scientist, Ant Lingbo (Tang Xiao'ou lineage)",
-      "guestRole": "Chief Scientist, Ant Lingbo (Tang Xiao'ou lineage)",
-      "date": "2026-07-22",
-      "durationMinutes": 113,
-      "readMinutes": 3,
-      "rating": 3,
-      "conclusion": "After last episode's Physical Intelligence (π) deep dive, Zhang turns to a domestic brain-first sample: Shen Yujun, chief scientist at Ant-incubated Ant Lingbo. The industry twist — Chinese teams starting from robot brains then filling in bodies. Shen argues the brain currently lags the body, bodies do not generalize, and if robots must own their own models, data must support scale-up. VA2.0 is framed as a robot-native stack (incl. MoE and causal attention), trained from random initialization; the robot GPT-1 moment remains open, with US–China approaches in dialogue.",
-      "youtubeUrl": "",
-      "summaryFile": "zj-ep147.md",
-      "summaryFileZh": "zj-ep147.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Private:Ant Lingbo",
-        "Robot Foundation Models",
-        "NVDA"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "Private:Ant Lingbo",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Ant-incubated domestic robot-native base-model lab; VA2.0 release window + brain-first narrative vs π — Long as a scarce China 'brain' observation name"
-        },
-        {
-          "ticker": "NVDA",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "Robot-native pretraining and fleet inference still consume accelerators — Lingbo/π-class bases expand GPU demand even while OEMs stay private"
-        }
-      ],
-      "chronologySubject": "Shen Yujun · Ant Lingbo"
     },
     {
       "id": "bb-databricks-from-data-to-decisions",
@@ -12416,41 +13560,6 @@
       "chronologySubject": "Nvidia (GPU era)"
     },
     {
-      "id": "acq-altimeter-with-brad-gerstner",
-      "podcastId": "acquired",
-      "episodeNumber": 146,
-      "title": "Altimeter (with Brad Gerstner)",
-      "guest": "Altimeter (with Brad Gerstner)",
-      "displayTitle": "Altimeter",
-      "displaySubtitle": "Brad Gerstner · Season 10 · Episode 4",
-      "guestRole": "Season 10 · Episode 4",
-      "date": "2022-03-14",
-      "durationMinutes": 113,
-      "readMinutes": 4,
-      "rating": 4,
-      "conclusion": "Altimeter pioneered the venture-plus-hedge-fund model Brad Gerstner built after selling RateSpecial to Expedia/IAC in 2007 and launching with ~$3M during the financial crisis. Snowflake — led at ~$175M valuation in 2012, IPO ~$4.4B, ~$100B market cap at episode time — remains over half of Altimeter's public book, proving lifecycle capital can hold winners through IPO. Three pillars: consumer internet (Google traffic arbitrage), cloud/SaaS (MongoDB, Snowflake), and travel (Booking/Expedia heritage). ~30 people vs Sequoia's thousands; Brad refuses to compete at seed — instead offers concentrated capital, capital-markets expertise (SPACs, direct listings), and founder-friendly secondaries. Invest America proposes every newborn receive a brokerage account — policy idea beyond pure returns.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-altimeter-with-brad-gerstner.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Crossover Investing",
-        "Altimeter Capital",
-        "SNOW"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "SNOW",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Altimeter's largest disclosed public position — lifecycle fund economics tied to Snowflake multiple; monitor cloud data warehouse growth and net retention as proxy for crossover hold thesis."
-        }
-      ],
-      "chronologySubject": "Altimeter Capital"
-    },
-    {
       "id": "fnd-233-elon-musk-peter-thiel-max-levchin-paypal",
       "podcastId": "founders",
       "episodeNumber": 233,
@@ -12490,6 +13599,49 @@
         }
       ],
       "chronologySubject": "PayPal · Jimmy Soni · The Founders"
+    },
+    {
+      "id": "zj-ep147",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 147,
+      "title": "Ant Lingbo's Shen Yujun on Robot-Native Foundation Models: Brain, Body, and Data",
+      "guest": "Shen Yujun",
+      "displayTitle": "Shen Yujun",
+      "displaySubtitle": "Chief Scientist, Ant Lingbo (Tang Xiao'ou lineage)",
+      "guestRole": "Chief Scientist, Ant Lingbo (Tang Xiao'ou lineage)",
+      "date": "2026-07-22",
+      "durationMinutes": 113,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "After last episode's Physical Intelligence (π) deep dive, Zhang turns to a domestic brain-first sample: Shen Yujun, chief scientist at Ant-incubated Ant Lingbo. The industry twist — Chinese teams starting from robot brains then filling in bodies. Shen argues the brain currently lags the body, bodies do not generalize, and if robots must own their own models, data must support scale-up. VA2.0 is framed as a robot-native stack (incl. MoE and causal attention), trained from random initialization; the robot GPT-1 moment remains open, with US–China approaches in dialogue.",
+      "youtubeUrl": "",
+      "summaryFile": "zj-ep147.md",
+      "summaryFileZh": "zj-ep147.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Ant Lingbo",
+        "Robot Foundation Models",
+        "NVDA"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Ant Lingbo",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Ant-incubated domestic robot-native base-model lab; VA2.0 release window + brain-first narrative vs π — Long as a scarce China 'brain' observation name"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Robot-native pretraining and fleet inference still consume accelerators — Lingbo/π-class bases expand GPU demand even while OEMs stay private"
+        }
+      ],
+      "chronologySubject": "Shen Yujun · Ant Lingbo"
     },
     {
       "id": "tzs-ep146",
@@ -13841,6 +14993,41 @@
         }
       ],
       "chronologySubject": "Block (Square)"
+    },
+    {
+      "id": "acq-altimeter-with-brad-gerstner",
+      "podcastId": "acquired",
+      "episodeNumber": 146,
+      "title": "Altimeter (with Brad Gerstner)",
+      "guest": "Altimeter (with Brad Gerstner)",
+      "displayTitle": "Altimeter",
+      "displaySubtitle": "Brad Gerstner · Season 10 · Episode 4",
+      "guestRole": "Season 10 · Episode 4",
+      "date": "2022-03-14",
+      "durationMinutes": 113,
+      "readMinutes": 4,
+      "rating": 4,
+      "conclusion": "Altimeter pioneered the venture-plus-hedge-fund model Brad Gerstner built after selling RateSpecial to Expedia/IAC in 2007 and launching with ~$3M during the financial crisis. Snowflake — led at ~$175M valuation in 2012, IPO ~$4.4B, ~$100B market cap at episode time — remains over half of Altimeter's public book, proving lifecycle capital can hold winners through IPO. Three pillars: consumer internet (Google traffic arbitrage), cloud/SaaS (MongoDB, Snowflake), and travel (Booking/Expedia heritage). ~30 people vs Sequoia's thousands; Brad refuses to compete at seed — instead offers concentrated capital, capital-markets expertise (SPACs, direct listings), and founder-friendly secondaries. Invest America proposes every newborn receive a brokerage account — policy idea beyond pure returns.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-altimeter-with-brad-gerstner.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Crossover Investing",
+        "Altimeter Capital",
+        "SNOW"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "SNOW",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Altimeter's largest disclosed public position — lifecycle fund economics tied to Snowflake multiple; monitor cloud data warehouse growth and net retention as proxy for crossover hold thesis."
+        }
+      ],
+      "chronologySubject": "Altimeter Capital"
     },
     {
       "id": "acq-sony",

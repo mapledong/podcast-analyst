@@ -1,0 +1,117 @@
+{
+  "episode_id": "tzs-ep199",
+  "podcast": "投资实战派",
+  "host": "永庆 & David",
+  "metadata": {
+    "episode_number": 199,
+    "title": "E199 AI投研的边界、能力与实战卡点 | David对话岗底斯首席FDE",
+    "guest": "老白",
+    "guest_role": "岗底斯首席FDE",
+    "date": "2026-09-13",
+    "duration_minutes": 80,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6aa3ce2f492687f6aad86b6d"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Gangdisi",
+    "Private:OpenAI",
+    "NVDA",
+    "PLTR"
+  ],
+  "conclusion": "David对岗底斯首席FDE老白。2019年建店，ChatGPT之后2023年6月上AI投研终端，那年写纪要，24–25年给客户写报告，2026年自称能自我训练并交出接近100%的交付件。他的FDE全是金融人不是工程师——Palantir发明了头衔，OpenAI/Anthropic招的是懂业务的。点名的K3大约2.8万亿参数，3000个功能点日常只用大约30个。H200成本口播从两年前150万到现在550万。买不买仍是人。他们只服务20/60/20里最想用的那20%。",
+  "background": "投资实战派E199，8月28日录，9月13日发。小宇宙音频whisper-small（岗底斯/实战派会被听成钢地斯/使账派）。David最近三四个月深用AI投研，想找既自己用又给客户配人的人。开场拿Palantir的FDE开玩笑。",
+  "important_facts": [
+    "时钟：老白模糊算法出身，找不到工作，2019年建岗底斯。三年堆数据，2023年6月——OpenAI消费级爆发几个月后——上自己的AI投研终端。2023年用AI写纪要。24–25年给客户写行业、个股、投资报告。2026年自我训练，口播接近100%交付。K3大约2.8万亿参数。H200成本口播：两年前150万，现在550万（当他们的标记，不当街上的价）。",
+    "FDE：Palantir把光环注册了。老白说OpenAI和Anthropic的职位几乎不问代码，要懂业务。他团队没有一个技术出身——开FanBot类Agent，听得懂3G报和行业词。淘宝招鞋厂的人当小二；他招基金经理。产品摊大：大约3000个功能点，日常大约30个；4月聊过40个Skill，后来工作集大约14–20个；一次20个Agent、19个MCP。面更大不是研究更好。",
+    "风格和20%：价值、成长、趋势店用不同的数据、提示和文件训同一个Agent。有客户从不让AI选股，只看能在几天内带动股价的上游数据。判断力——买还是过——AI退不了休。用户口播20%想住进去、60%看看、20%不用。他们服务前20%。100亿以上大约1800只是点名的池子。当「大家」都到80%能力，边就搬家。"
+  ],
+  "mental_model": {
+    "name": "懂行的FDE × 小Skill面 × 人按买键",
+    "components": "招听得懂客户的金融人，再让Agent写看板。3000个功能里留30个。2019年数据加2023年6月终端加2026年自训是时钟。K3 2.8万亿和上涨的H200账单是基建打印。风格住在数据饮食里，不在更厚的报告堆里。20/60/20的店只为前20%付钱。买键留在基金经理手里。",
+    "application": "岗底斯是私募投研终端——尽调20%附着，不要尽调100%交付。OpenAI是2023扳机和FDE职位比较。NVDA是H200成本标记。PLTR是他们拒绝复制的FDE光环。不要写「AI选股」。"
+  },
+  "key_insights": [
+    {
+      "view": "FDE是基金经理不是编译器。",
+      "question": "为什么没有工程师？",
+      "answer": "OpenAI/Anthropic招业务。他的班子是金融加FanBot。淘宝鞋厂小二是比喻。"
+    },
+    {
+      "view": "3000个功能，用30个。",
+      "question": "产品课是什么？",
+      "answer": "4月40个Skill对后来14–20的工作集。20个Agent和19个MCP写不出更好的备忘。"
+    },
+    {
+      "view": "AI不按买。",
+      "question": "环在哪停？",
+      "answer": "数据和训练可以有风格。判断力不行。他们只服务最想用的20%。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Gangdisi",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "2019 shop, 2023 terminal, 2026 self-train — a 20% attach story, not a 100% delivery multiple — low"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "H200 cost on the tape 1.5M to 5.5M is their infra marker — low"
+    },
+    {
+      "ticker": "PLTR",
+      "direction": "Short",
+      "confidence": "Low",
+      "thesis": "FDE brand they refuse: Palantir glow versus finance people plus an agent — low"
+    }
+  ],
+  "golden_quotes": [
+    "2019年我们建立了这个钢地斯",
+    "100%的一个结果",
+    "没有一个是技术出身"
+  ],
+  "chronology": {
+    "subject": "Gangdisi · FDE · AI research terminal",
+    "events": [
+      {
+        "date": "2019",
+        "event": "Gangdisi founded; start of the data pile"
+      },
+      {
+        "date": "2023-06",
+        "event": "AI research terminal after the OpenAI consumer break"
+      },
+      {
+        "date": "2024–25",
+        "event": "AI writes client industry and stock reports"
+      },
+      {
+        "date": "2026",
+        "event": "Self-train loop; near-100% deliverable claim"
+      },
+      {
+        "date": "2026-08-28",
+        "event": "Taping with David"
+      },
+      {
+        "date": "2026-09-13",
+        "event": "E199 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 投资实战派 E199",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

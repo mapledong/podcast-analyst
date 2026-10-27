@@ -1,6 +1,70 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
+- id: ep497
+  episode_number: 497
+  title: Cliff Sosin — Owning the Complements to Intelligence
+  guest: Cliff Sosin
+  guest_role: Founder, CAS Investment Partners
+  date: '2026-10-27'
+  duration_minutes: 60
+  youtube_url: https://www.youtube.com/watch?v=EH6DsNT455M
+  podcast: Invest Like the Best
+- id: ep496
+  episode_number: 496
+  title: Christina Cacioppo — Building an Enduring Software Company in the Age of
+    AI
+  guest: Christina Cacioppo
+  guest_role: Founder & CEO, Vanta
+  date: '2026-10-20'
+  duration_minutes: 57
+  youtube_url: https://www.youtube.com/watch?v=sQaM5oPlUYs
+  podcast: Invest Like the Best
+- id: ep495
+  episode_number: 495
+  title: David Vélez — Building Nubank and the Future of Global Banking
+  guest: David Vélez
+  guest_role: Founder & CEO, Nubank
+  date: '2026-10-13'
+  duration_minutes: 71
+  youtube_url: https://www.youtube.com/watch?v=Rs40uGRyXC8
+  podcast: Invest Like the Best
+- id: ep494
+  episode_number: 494
+  title: Andrew Huberman — The Frontier of Neurotechnology
+  guest: Andrew Huberman
+  guest_role: Stanford neuroscientist · Huberman Lab
+  date: '2026-10-06'
+  duration_minutes: 72
+  youtube_url: https://www.youtube.com/watch?v=_QSX3BF9UX0
+  podcast: Invest Like the Best
+- id: ep493
+  episode_number: 493
+  title: 'Noah Shinn — Building Instinct: The Personal Agent'
+  guest: Noah Shinn
+  guest_role: Founder, Instinct
+  date: '2026-09-28'
+  duration_minutes: 71
+  youtube_url: https://www.youtube.com/watch?v=Am7IWP8IpEc
+  podcast: Invest Like the Best
+- id: ep492
+  episode_number: 492
+  title: Gabe Stengel — Building Investing Superintelligence
+  guest: Gabe Stengel
+  guest_role: Co-founder & CEO, Rogo
+  date: '2026-09-22'
+  duration_minutes: 64
+  youtube_url: https://www.youtube.com/watch?v=B0illwrqUG0
+  podcast: Invest Like the Best
+- id: ep491
+  episode_number: 491
+  title: Michael Moritz — Lessons From 40 Years of Investing and Writing
+  guest: Michael Moritz
+  guest_role: Former Sequoia chairman · Ausländer memoir
+  date: '2026-09-16'
+  duration_minutes: 72
+  youtube_url: https://www.youtube.com/watch?v=mlWX7RltfDE
+  podcast: Invest Like the Best
 - id: ep490
   episode_number: 490
   title: Walter Russell Mead — How America Keeps Winning
@@ -454,6 +518,24 @@ episodes:
   duration_minutes: 98
   youtube_url: https://www.youtube.com/watch?v=937hn2TW-d0
   podcast: Invest Like the Best
+- id: fnd-438-james-garfields-extraordinary-rise
+  episode_number: 438
+  title: '#438 James Garfield''s Extraordinary Rise'
+  guest: James A. Garfield
+  guest_role: Solo biography (Candice Millard, Destiny of the Republic)
+  date: '2026-10-26'
+  duration_minutes: 38
+  youtube_url: https://www.youtube.com/watch?v=NhO7Y-QWH6c
+  podcast: Founders
+- id: fnd-437-the-tycoons
+  episode_number: 437
+  title: '#437 The Tycoons: Carnegie, Rockefeller, Gould & Morgan'
+  guest: Carnegie / Rockefeller / Gould / Morgan
+  guest_role: Solo biography (The Tycoons / Charles R. Morris)
+  date: '2026-10-13'
+  duration_minutes: 54
+  youtube_url: https://www.youtube.com/watch?v=v9KYuIrJnZA
+  podcast: Founders
 - id: ep436
   episode_number: 436
   title: Full-Contact Capitalism
@@ -463,6 +545,15 @@ episodes:
   duration_minutes: 94
   youtube_url: https://www.youtube.com/watch?v=M7E9euLwWtE
   podcast: Invest Like the Best
+- id: fnd-436-ari-emanuels-autobiography
+  episode_number: 436
+  title: '#436 Ari Emanuel''s Autobiography'
+  guest: Ari Emanuel
+  guest_role: Solo biography (The Green Light / Roll the Calls)
+  date: '2026-10-05'
+  duration_minutes: 69
+  youtube_url: https://www.youtube.com/watch?v=6mhN6WkZnXc
+  podcast: Founders
 - id: ep435
   episode_number: 435
   title: Building Abstract
@@ -472,6 +563,24 @@ episodes:
   duration_minutes: 113
   youtube_url: https://www.youtube.com/watch?v=QEICTvGNKrY
   podcast: Invest Like the Best
+- id: fnd-435-mark-zuckerbergs-empire
+  episode_number: 435
+  title: '#435 Mark Zuckerberg''s Empire'
+  guest: Mark Zuckerberg
+  guest_role: 'Solo (Jeremy Stern profile: Mark)'
+  date: '2026-09-28'
+  duration_minutes: 41
+  youtube_url: https://www.youtube.com/watch?v=sCGxLh8Sg-8
+  podcast: Founders
+- id: fnd-434-sam-walton
+  episode_number: 434
+  title: '#434 Sam Walton'
+  guest: Sam Walton
+  guest_role: Solo biography (Vance Trimble / how he worked)
+  date: '2026-09-21'
+  duration_minutes: 49
+  youtube_url: https://www.youtube.com/watch?v=dAx0W29-FWE
+  podcast: Founders
 - id: ep433
   episode_number: 433
   title: Building Sixth Street
@@ -481,6 +590,15 @@ episodes:
   duration_minutes: 74
   youtube_url: https://www.youtube.com/watch?v=zPFor81KJx0
   podcast: Invest Like the Best
+- id: fnd-433-how-michael-bloomberg-works
+  episode_number: 433
+  title: '#433 How Michael Bloomberg Works'
+  guest: Michael Bloomberg
+  guest_role: Solo biography (Bloomberg by Bloomberg)
+  date: '2026-09-14'
+  duration_minutes: 48
+  youtube_url: https://www.youtube.com/watch?v=1iH5YpzPZi8
+  podcast: Founders
 - id: fnd-432-the-mind-of-napoleon
   episode_number: 432
   title: '#432 The Mind of Napoleon'
@@ -1242,6 +1360,79 @@ episodes:
   duration_minutes: 70
   youtube_url: https://www.youtube.com/watch?v=zt9e6vVBdP4
   podcast: Founders
+- id: sv101-waitan-agent-trust
+  episode_number: 265
+  title: 'Waitan Roundtable: Dare You Hand the Wallet to an Agent?'
+  guest: Han Xinyi · Jorn Lambert · Liu Zuohu · Zhou Jingren
+  guest_role: Ant CEO · Mastercard CPO · OPPO CPO · Alibaba chief scientist
+  date: '2026-09-17'
+  duration_minutes: 36
+  youtube_url: https://www.youtube.com/watch?v=2oIrZM6e8Ro
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: sv101-ep256
+  episode_number: 256
+  title: 'GPT-6 Astra: Agents, Robots, and Pharma — Who Gets Rewritten First?'
+  guest: Xu Huazhe · Bill Zhu · Wang Sheng
+  guest_role: Poke Robotics / Tsinghua · Pokee.ai CEO · UW / Apodex
+  date: '2026-10-19'
+  duration_minutes: 80
+  youtube_url: https://www.youtube.com/watch?v=lsANSvYQks0
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: sv101-ep255
+  episode_number: 255
+  title: Models Get Smarter. Users Don't Feel It. Zhang Kuo on Accio Work's 107 Tasks
+  guest: Zhang Kuo
+  guest_role: President, Alibaba.com / Accio Work
+  date: '2026-10-08'
+  duration_minutes: 46
+  youtube_url: https://www.youtube.com/watch?v=Fhx_qNS2P8g
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: sv101-ep254
+  episode_number: 254
+  title: 'Super El Niño: Will Daily Goods Actually Get More Expensive?'
+  guest: Zhang Siqi
+  guest_role: Commodity researcher, ~13 years, softs and base metals
+  date: '2026-09-29'
+  duration_minutes: 62
+  youtube_url: https://www.youtube.com/watch?v=INQvcDh-RFQ
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: sv101-ep253
+  episode_number: 253
+  title: Who Writes, Sells, and Grades the Exam? The AI Data Industry
+  guest: He Yunzhong · Sun Yiyou
+  guest_role: Scale AI post-training/eval research · Berkeley postdoc, Agents' Last
+    Exam
+  date: '2026-09-27'
+  duration_minutes: 58
+  youtube_url: https://www.youtube.com/watch?v=I-rLxiIGf-4
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: sv101-ep252
+  episode_number: 252
+  title: 'Eight Sleep: A $3,000 Cover, Temperature, and Sleep as Preventive Care'
+  guest: Eight Sleep founders (Alex / Matteo)
+  guest_role: Founders, Eight Sleep
+  date: '2026-09-23'
+  duration_minutes: 55
+  youtube_url: https://www.youtube.com/watch?v=wqI7kJQEnV8
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: sv101-ep251
+  episode_number: 251
+  title: 'Inference Chips: Groq, Cerebras, OpenAI''s First Chip, and Bill Dally''s
+    Design Lens'
+  guest: Mark · Ziyang
+  guest_role: Inference-chip hardware/systems (Bill Dally student) · Annapurna/Trainium
+    software
+  date: '2026-09-15'
+  duration_minutes: 92
+  youtube_url: https://www.youtube.com/watch?v=aS69y40BoyM
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: sv101-e249
   episode_number: 249
   title: 'Token Maxing to Token Efficient: OpenClaw, Hermes, and Why Uber Burned a
@@ -1254,6 +1445,15 @@ episodes:
   youtube_url: ''
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: bb-affirm-the-internets-american-express
+  episode_number: 249
+  title: 'Affirm: The Internet''s American Express'
+  guest: Fraser Christie
+  guest_role: Founder & CIO, Sandstone Global Investment
+  date: '2026-10-22'
+  duration_minutes: 71
+  youtube_url: https://www.youtube.com/watch?v=0ngCUPM06RE
+  podcast: Business Breakdowns
 - id: bb-applied-intuition-a-billion-intelligent-machines
   episode_number: 248
   title: 'Applied Intuition: A Billion Intelligent Machines'
@@ -1490,6 +1690,24 @@ episodes:
   duration_minutes: 45
   youtube_url: https://www.youtube.com/watch?v=rnq6k3eswHQ
   podcast: Business Breakdowns
+- id: acq-seinfeld
+  episode_number: 215
+  title: Seinfeld
+  guest: Seinfeld
+  guest_role: Fall 2026 · off-network sitcom as a power-law studio
+  date: '2026-10-18'
+  duration_minutes: 230
+  youtube_url: https://www.youtube.com/watch?v=Wm53dMsn5dk
+  podcast: Acquired
+- id: acq-the-home-depot
+  episode_number: 214
+  title: The Home Depot
+  guest: The Home Depot
+  guest_role: Fall 2026 · warehouse DIY and pro retail
+  date: '2026-09-13'
+  duration_minutes: 215
+  youtube_url: https://www.youtube.com/watch?v=6Kq5e49MD6U
+  podcast: Acquired
 - id: acq-disney-the-renaissance-and-the-empire
   episode_number: 213
   title: 'Disney: The Renaissance and the Empire'
@@ -1691,6 +1909,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=89ThCi5qq-A
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: tzs-ep201
+  episode_number: 201
+  title: 'Consensus and Chips: From Cyclicals to AI — David with Teacher Xiao X'
+  guest: Teacher Xiao X
+  guest_role: Buy-side ETF / active-book researcher; ex-futures and sell-side macro
+  date: '2026-09-27'
+  duration_minutes: 68
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6ab51d2fe742e36efcbadf5d
 - id: acq-the-jamie-dimon-interview
   episode_number: 200
   title: The Jamie Dimon Interview
@@ -1711,6 +1939,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=H35nVgNGyo8
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: tzs-ep200
+  episode_number: 200
+  title: 'AI Chips, China Compute, and The Rise of Ascend: Yongqing with Fang Xingdong'
+  guest: Fang Xingdong
+  guest_role: ZJU professor · author, The Rise of Ascend
+  date: '2026-09-20'
+  duration_minutes: 92
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6aaf91e20916f6f8b4462bd3
 - id: acq-google
   episode_number: 199
   title: 'Google Part I: Origins of Search'
@@ -1731,6 +1969,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=NEHcGq80GQ0
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: tzs-ep199
+  episode_number: 199
+  title: 'The Edge of AI Research: David with Gangdisi''s Chief FDE'
+  guest: Laobai (老白)
+  guest_role: Chief FDE, Gangdisi (岗底斯)
+  date: '2026-09-13'
+  duration_minutes: 80
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6aa3ce2f492687f6aad86b6d
 - id: acq-the-steve-ballmer-interview
   episode_number: 198
   title: The Steve Ballmer Interview

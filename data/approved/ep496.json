@@ -1,0 +1,110 @@
+{
+  "episode_id": "ep496",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 496,
+    "title": "Christina Cacioppo — Building an Enduring Software Company in the Age of AI",
+    "guest": "Christina Cacioppo",
+    "guest_role": "Founder & CEO, Vanta",
+    "date": "2026-10-20",
+    "duration_minutes": 57,
+    "youtube_url": "https://www.youtube.com/watch?v=sQaM5oPlUYs",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=sQaM5oPlUYs",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Vanta",
+    "CRWD",
+    "PLTR"
+  ],
+  "conclusion": "Cacioppo started Vanta on SOC 2 and a 101 billboard; eight years later it is ~16,000 customers and five products on a 400-tool trust graph. SaaS multiples compressed to a third or a quarter even as she still runs a fast, high-margin book. She will not sell marked-up Claude tokens — buyers ask if she is 4x Claude — so Vanta eats token cost and pushes the agent from ~25% of customers toward 75%. The $250B pitch is recruiting theater; she still manages to ARR. Endgame is a long independent security company in a high-excitement, low-trust AI year.",
+  "background": "Five years after the last ILTB. One-minute history: help companies start security and compliance, then get credit via SOC 2, ISO 27001, HIPAA, questionnaires, and trust centers. Win was execution plus integrations. Hour is about the SaaS-pocalypse multiple, token pricing, agent product, talent wars versus lab/tractor checks, the 101 billboard, and whether Vanta is a $50 billion or $250 billion company.",
+  "important_facts": [
+    "Category win and the multiple. Started ~8 years ago; today ~16,000 customers worldwide and about five products. Integrations into one of 400 tools feed a security data lake they call the trust graph — broader, she says, than other compliance vendors and some security vendors. Patrick's frame: still a very fast, very high-margin SaaS book that four years ago was 'the best business model ever,' now marked at a third or a quarter of the old multiple. She holds two pictures: an 80% growth / 80% margin company can return more cash over a long run than a 160% growth / 30% margin token seller, yet the latter can clear 3x, 4x, even 10x the multiple. Last 12 months felt like the SaaS-pocalypse: 'good job building a system of record, you're now screwed.' Bending Spoons is the grim-reaper joke in the hallway.",
+    "Agent, tokens, pricing. The product is no longer a red-alert dashboard. An agent writes custom off-boarding when someone leaves, asks 'this once / always,' and keeps the user in flow — auto-generating UI when chat is the wrong surface. About 25% of customers are in that loop; the goal is 75% for retention, with commercialization later. Token pricing loses: mark up a Claude token 4x and the buyer asks if you are 4x Claude and goes to try the model. They eat the token bill and take lower margin. Decision-action work uses fewer tokens than coding agents, so they optimize for quality and swap models on task-specific evals written with ex-CISO experts. Outcome/output pricing is what everyone wants (ticket closed, account off-boarded); the overhead of 50 units is why they have not shipped it. Credits that hide a token FX rate get seen through.",
+    "Talent, security, billboard. Top-person total comp is ~10x five years ago and she thinks dispersion should be wider; bands are a joke versus market. A competing pitch: '$6 billion today, Sequoia writes $10 billion next month, someone marks it $25 billion — get in at 6.' She shows candidates the real ARR tape. Tenders are expected even if they feel unhealthy; 99% of big independent US software companies are public, so IPO is a means. CrowdStrike will do enterprise white-hat/patch better; Vanta's lane is customers who will not pay $150,000 for Wiz but will pay $40–50k, starting with AWS/Azure misconfig. French software firms switched to Chinese models when Trump closed Fable to non-Americans — continuity, not nationalism. Mid-2021 'compliance that doesn't suck too much' billboard near Burlingame went viral; they later lost the 101/280 spot after a crayon placement order, and a cash-flow-positive buyer refused $3 million to take a ~$1.5 million contract. Next five years in one word: expansive."
+  ],
+  "mental_model": {
+    "name": "Trust Graph × Eat-the-Tokens × ARR Over Vibes",
+    "components": "Win a new category by shipping and by owning the integrations (400 tools) that make automation and agents possible. The SaaS-pocalypse marked the old 80/80 book at a third or a quarter; do not answer by selling marked-up tokens. Eat model cost, take lower margin, and get 25% of customers into an always-on agent loop on the way to 75%. Outcome pricing is the wish; token and credit schemes put you next to Claude. Hire and pay for high-agency people who already know Vanta and the customer — she would take a worse salesperson with company context. Post-training a model for the press is overhyped; FTE wrappers on five-figure contracts are Palantir cosplay. Security pressure rises because models chain 17 'low' issues instead of quitting after 9,000 tries.",
+    "application": "Private:Vanta is the name: 16,000 customers, five products, ARR as the scoreboard, $250 billion as recruiting talk. CRWD is the named enterprise pentest/patch winner she will not try to beat wall-to-wall; stay in the mid-market Wiz-gap ($40–50k vs $150k). PLTR is the eight-figure FTE analog she says does not map onto five- and six-figure deals. Fade token-priced compliance clones and 'we post-trained a model' decks. Size government and CISO budget that now clears because the ask is attached to AI. The 101 billboard is brand, not a moat — they already lost the spot."
+  },
+  "key_insights": [
+    {
+      "view": "80/80 still compounds. The multiple does not.",
+      "question": "Did the business break, or the tape?",
+      "answer": "Nothing changed about fast growth and high margins. Token sellers can still clear 3–10x the multiple. She lives for the long run."
+    },
+    {
+      "view": "Do not mark up Claude.",
+      "question": "Why eat token cost?",
+      "answer": "Buyers reverse the 4x and try the model. Get 25% → 75% onto the agent, then price."
+    },
+    {
+      "view": "AI is high excitement, low trust.",
+      "question": "What is Vanta at $250B?",
+      "answer": "The connector between companies that must prove they are industrial-grade and the auditors, regulators, and customers who ask."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Vanta",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "16k customers, 400-tool graph, agent at 25%→75% while eating tokens; ARR over $250B theater — medium"
+    },
+    {
+      "ticker": "CRWD",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named as the better enterprise white-hat/patch shop; Vanta stays mid-market — low"
+    }
+  ],
+  "golden_quotes": [
+    "you're really only as good as the last thing you shipped.",
+    "We're eating the token cost right now.",
+    "we're about 16,000 customers, global, with about five products."
+  ],
+  "chronology": {
+    "subject": "Vanta · agents · talent war",
+    "events": [
+      {
+        "date": "~8 years ago",
+        "event": "Found Vanta; start on SOC 2 / audit credit"
+      },
+      {
+        "date": "mid-2021",
+        "event": "'Compliance that doesn't suck too much' billboard; tweet goes viral"
+      },
+      {
+        "date": "2022 crash",
+        "event": "Cheap 101/280 inventory; later lose the spot on a placement order"
+      },
+      {
+        "date": "last 12 months",
+        "event": "SaaS-pocalypse multiple; system-of-record marked down"
+      },
+      {
+        "date": "this year",
+        "event": "Agent flow ~25% of customers; eat token cost; LLM onboarding replaces wizards"
+      },
+      {
+        "date": "2026-10-20",
+        "event": "ILTB EP.496; ~16,000 customers, five products"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly ILTB Cacioppo",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+ep496",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

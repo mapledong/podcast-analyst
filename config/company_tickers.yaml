@@ -47,6 +47,10 @@ aliases:
   农夫山泉: 9633.HK
   美的: 000333.SZ
   安踏: 2020.HK
+  李宁: 2331.HK
+  福耀: 3606.HK
+  福耀玻璃: 3606.HK
+  科沃斯: 603486.SH
   broadcom: AVGO
   coinbase: COIN
   doordash: DASH
@@ -69,6 +73,14 @@ aliases:
   tsmc: TSM
   "taiwan semiconductor": TSM
   walmart: WMT
+  "home depot": HD
+  "the home depot": HD
+  lowe's: LOW
+  lowes: LOW
+  comcast: CMCSA
+  nbc: CMCSA
+  paramount: PARA
+  "paramount global": PARA
   zoom: ZM
   cloudflare: NET
   datadog: DDOG
@@ -148,6 +160,18 @@ china_listings:
   2020.HK:
     zh: 安踏体育
     en: Anta Sports
+  2331.HK:
+    zh: 李宁
+    en: Li Ning
+  3606.HK:
+    zh: 福耀玻璃
+    en: Fuyao Glass
+  603486.SH:
+    zh: 科沃斯
+    en: Ecovacs
+  1398.HK:
+    zh: 工商银行
+    en: ICBC
   000333.SZ:
     zh: 美的集团
     en: Midea Group

@@ -1,0 +1,120 @@
+{
+  "episode_id": "fnd-435-mark-zuckerbergs-empire",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 435,
+    "title": "#435 Mark Zuckerberg's Empire",
+    "guest": "Mark Zuckerberg",
+    "guest_role": "Solo (Jeremy Stern profile: Mark)",
+    "date": "2026-09-28",
+    "duration_minutes": 41,
+    "youtube_url": "https://www.youtube.com/watch?v=sCGxLh8Sg-8",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=sCGxLh8Sg-8",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "META",
+    "Private:OpenAI",
+    "GOOGL"
+  ],
+  "conclusion": "Senra skips the book and reads Jeremy Stern's profile: a journey to the heart of history's largest non-territorial empire. Parents say Donna was the nerd; Mark had the passion early. 3.6 billion users, $1.6 trillion, majority voting control that no president can remove. Revenue well above $200 billion. Capex this year tops every military but US, China, and Russia. Facebook, Instagram, and WhatsApp each outrun living Christians. He does not abdicate.",
+  "background": "Not a book episode. Stern interviews the parents, then the dictator's dilemma: the more the empire grows, the less anyone tells him the truth. Themes: childhood interest, 19-year-old anomaly, AI spend, and the refusal to appoint a regent.",
+  "important_facts": [
+    "House and scale: Edward and Karen look you in the eye. Dad is a ham; mom is shy. Dad would have guessed middle daughter Donna as the smart one. Four bright kids; Mark was in the right place at the right time. Mom: true interest shows in childhood. Empire language from the Aeneid — empire without end. At Harvard the republic-to-empire frame is already in the piece. Today: 3.6 billion users, $1.6 trillion market cap, majority voting control that makes removal effectively impossible. In 50 years he could still be ruler. 300,000 years of biology do not give a 19-year-old the keys to that room.",
+    "Dictator's dilemma: the more power, the more he depends on others for news of his own court; fear and awe make them mute. Heads of state squeeze him over elections and worse, then leave office and die. He is still there. By 30 he networked billions; by 32 the advertising machine; by 42 one in 2.3 living people — more humans than existed in 1965. Annual revenue well above $200 billion. This year's capex exceeds every military budget except the US, China, and Russia. Facebook, Instagram, WhatsApp each have more MAUs than living Christians.",
+    "Stay and spend: peers abdicate, sell, get overthrown, or appoint a regent. Not him. 200 years of peace will not come for free — wake up, hit people, pay them to hit you, another subpoena. The tape says he is behind on AI and is answering with foundational-model spend and the Facebook-to-Meta rename after the Reality Labs years. Senra's founder rhyme is childhood passion plus refusal to leave the field."
+  ],
+  "mental_model": {
+    "name": "Non-Territorial Empire × Dictator's Dilemma × No Regent",
+    "components": "Childhood interest is the tell. Voting control is the moat no state can confiscate. Scale is 3.6 billion people and capex that looks like a defense ministry. The information problem is ancient: the court stops telling the truth. He answers by staying CEO and spending. Peers take the billionaire afterlife. He does not. Keep the method boring enough to repeat every week. Numbers in the room beat stories in the hallway. The founder who will not walk the floor, make the tenth call, or rewrite the Saturday software is already the cartel.",
+    "application": "META is the empire: $1.6T, $200B+ revenue, 3.6B users, dual-class lock. Private:OpenAI is the named AI foil he is 'behind' on. GOOGL is the other ad-and-AI court in the same species war. Do not fade him for 2016 politics — the tape is 50-year control plus capex. Size any 'he will step back' deck as wrong on this founder."
+  },
+  "key_insights": [
+    {
+      "view": "Donna was the nerd.",
+      "question": "What did the parents see?",
+      "answer": "Four bright kids. The tell was early passion, not the brightest child. Right place, right time."
+    },
+    {
+      "view": "He outlives the president.",
+      "question": "What is the voting share for?",
+      "answer": "Removal is effectively impossible. Heads of state rotate. 3.6 billion users stay."
+    },
+    {
+      "view": "No billionaire afterlife.",
+      "question": "Why the capex?",
+      "answer": "Behind on AI is the insult. He spends like a defense ministry and stays CEO."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "META",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "3.6B users, $1.6T, $200B+ sales, dual-class forever CEO, capex vs every army but three — medium"
+    },
+    {
+      "ticker": "Private:OpenAI",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named AI race he is 'behind' on; the spend is the answer — low"
+    },
+    {
+      "ticker": "GOOGL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Other advertising-and-AI court in the same species-scale fight — low"
+    }
+  ],
+  "golden_quotes": [
+    "True interest is revealed early, usually in childhood.",
+    "one day they will be out of office and eventually dead",
+    "200 years of peace will not come for free."
+  ],
+  "chronology": {
+    "subject": "Parents · voting lock · capex empire",
+    "events": [
+      {
+        "date": "Childhood",
+        "event": "Donna the nerd; Mark's passion shows early"
+      },
+      {
+        "date": "Harvard / 19",
+        "event": "Republic-to-empire; statistically anomalous life starts"
+      },
+      {
+        "date": "By 30",
+        "event": "Networked billions in real time"
+      },
+      {
+        "date": "By 32",
+        "event": "Advertising/entertainment machine"
+      },
+      {
+        "date": "By 42",
+        "event": "1 in 2.3 living people; >1965 world population"
+      },
+      {
+        "date": "This year",
+        "event": "Capex > every military but US/China/Russia"
+      },
+      {
+        "date": "2026-09-28",
+        "event": "Founders #435"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Founders Zuck",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+fnd-435",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

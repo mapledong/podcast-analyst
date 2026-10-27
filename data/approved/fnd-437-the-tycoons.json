@@ -1,0 +1,120 @@
+{
+  "episode_id": "fnd-437-the-tycoons",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 437,
+    "title": "#437 The Tycoons: Carnegie, Rockefeller, Gould & Morgan",
+    "guest": "Carnegie / Rockefeller / Gould / Morgan",
+    "guest_role": "Solo biography (The Tycoons / Charles R. Morris)",
+    "date": "2026-10-13",
+    "duration_minutes": 54,
+    "youtube_url": "https://www.youtube.com/watch?v=v9KYuIrJnZA",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=v9KYuIrJnZA",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "XOM",
+    "UNP",
+    "JPM"
+  ],
+  "conclusion": "Senra's four-man tape: Carnegie, Rockefeller, Gould, and Morgan in their late 20s as the Civil War ends. Three come with flaming swords — speed, experiment, creative destruction. Morgan is the regulator against ruinous competition. Carnegie: cut costs, take share, gain scale; profits follow. Gould: railroads and telegraph, always attacking. Rockefeller: maybe the greatest of the four. They were never friends. The American boom's personal stamps last into the 20th century.",
+  "background": "Charles Morris's The Tycoons. Senra jumps past childhood into Lincoln's death: Carnegie 30, Rockefeller 26, Gould 29, Morgan 28. Themes: cartel versus disruption, gentlemanly profits versus flaming swords, and why Morgan exists. Senra wants the parallel to founders who already have a cost weapon before 30 and do not wait for a gentleman's agreement.",
+  "important_facts": [
+    "Cast: all late 20s or early 30s on the first rungs as the war wanes. No others play so large a role in shaping the American boom. They force the pace, drive ever-larger scale, and leave stamps that persist well into the 20th century. Carnegie, Rockefeller, and Gould tap the national taste for speed and experiment — one of history's purest labs of creative destruction. Most businessmen want orderly markets and gentlemanly fair profits. These three come with flaming swords. Morgan stands on the other side: reign in ruinous competition, especially the kind the other three unleash.",
+    "Methods: steel is settling into a comfortable cartel when Carnegie starts disrupting. His plants are always the biggest, most automated, most focused on pushing prices down. Mantra: cut costs, take share, gain scale; profits take care of themselves. Gould is the provocateur, master of public security markets as no one before him, always attacking, always pushing the possible. His arena is railroads and the telegraph — the infrastructure of the period. Rockefeller may have been the greatest of them; Senra lets Morris say it. Carnegie is about 30, Rockefeller 26, Gould 29. They were never friends. Carnegie, Rockefeller, and Gould personify going as far as they can.",
+    "Ages at Lincoln's death: Carnegie 30, Rockefeller 26 already in oil, Gould 29 a securities specialist, Morgan 28 quietly in banking. Senra wants the parallel to 30-year-old founders who already have a weapon. The book is a reminder that American scale was invented by a handful of people who did not wait for a gentleman's agreement. JPM the modern bank is the Morgan rhyme; XOM is the Rockefeller residual; UNP is the Gould rail arena."
+  ],
+  "mental_model": {
+    "name": "Flaming Swords × Cut-Cost Scale × Morgan the Regulator",
+    "components": "Three attackers, one stabilizer. Cost down, share up, scale follows. Infrastructure (rail, wire, oil) is the field. Cartels invite the man with the biggest plant. Public markets are a weapon, not a scoreboard. They will not be friends. Start in your 20s. Keep the method boring enough to repeat every week. Numbers in the room beat stories in the hallway. The founder who will not walk the floor, make the tenth call, or rewrite the Saturday software is already the cartel.",
+    "application": "XOM is the Rockefeller residual — volume and cost, not a gentleman's margin. UNP is Gould's rail-and-right-of-way arena. JPM is Morgan as the anti-ruinous competition franchise. Fade 'orderly market' industrials. Size any 26-year-old with a cost weapon as the Carnegie print, not a late-career dynasty."
+  },
+  "key_insights": [
+    {
+      "view": "Three swords, one regulator.",
+      "question": "Why is Morgan in the book?",
+      "answer": "Someone has to hate ruinous competition. The other three are the fire."
+    },
+    {
+      "view": "Profits take care of themselves.",
+      "question": "What is Carnegie's mantra?",
+      "answer": "Cut costs, take share, gain scale. Biggest plant, lowest price."
+    },
+    {
+      "view": "They were never friends.",
+      "question": "Is this a partnership story?",
+      "answer": "No. Four stamps on one boom. Start in your 20s and do not wait for the cartel."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "XOM",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Rockefeller residual: cost and volume over gentlemanly oil profits — low"
+    },
+    {
+      "ticker": "UNP",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Gould's arena: railroads as the period's infrastructure weapon — low"
+    },
+    {
+      "ticker": "JPM",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Morgan as the regulator against ruinous competition — low"
+    }
+  ],
+  "golden_quotes": [
+    "these three came with flaming swords.",
+    "cut costs, take share, gain scale.",
+    "They were never friends."
+  ],
+  "chronology": {
+    "subject": "Four men · Civil War end · American scale",
+    "events": [
+      {
+        "date": "Lincoln dies",
+        "event": "Carnegie 30, Rockefeller 26, Gould 29, Morgan 28"
+      },
+      {
+        "date": "Steel cartel",
+        "event": "Carnegie starts disrupting with biggest plants"
+      },
+      {
+        "date": "Oil",
+        "event": "Rockefeller already in the industry at 26"
+      },
+      {
+        "date": "Rails/telegraph",
+        "event": "Gould's attack surface"
+      },
+      {
+        "date": "Banking",
+        "event": "Morgan as regulator of ruinous competition"
+      },
+      {
+        "date": "20th c.",
+        "event": "Personal stamps persist"
+      },
+      {
+        "date": "2026-10-13",
+        "event": "Founders #437"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Founders Tycoons",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+fnd-437",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

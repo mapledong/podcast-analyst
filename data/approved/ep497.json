@@ -1,0 +1,120 @@
+{
+  "episode_id": "ep497",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 497,
+    "title": "Cliff Sosin — Owning the Complements to Intelligence",
+    "guest": "Cliff Sosin",
+    "guest_role": "Founder, CAS Investment Partners",
+    "date": "2026-10-27",
+    "duration_minutes": 60,
+    "youtube_url": "https://www.youtube.com/watch?v=EH6DsNT455M",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=EH6DsNT455M",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "CVNA",
+    "META",
+    "HGV"
+  ],
+  "conclusion": "Sosin treats intelligence as a ratio, not an unbounded tree: cheap enough IQ colors in the facts, then you have to touch the world. Own the complements — data, attention, density, scale, licenses — not the frontier token. Meta is the cartoon: $250 billion of revenue and $250 billion of spend, almost all intelligence, with data and attention left if IQ falls ~100x in five years. His book is still ~80% Carvana plus Hilton Grand Vacations and ~5% Meta. He will not pick railroad tycoons; he wants what comes after the rails. Labs look like Cogent if good-enough tokens commoditize.",
+  "background": "Patrick wanted the 'it's just intelligence' riff: amoeba-to-God is the wrong picture. Hour covers Lorenz weather / butterfly effect, why cheap IQ hurts some software and some bank deposits, Meta as personalized TV, labs and Jevons, Cogent as the fiber analog, Carvana hackathons, and why 80% in one name is an owner weight, not a mean-variance weight.",
+  "important_facts": [
+    "Limits of IQ. Intelligence interpolates a thin scatter of facts; math can go to perfect, but most of the world is a complex dynamic system. Lorenz's weather model diverged by day three to five after a technician rounded one decimal — 70° and sunny versus 20° and pouring, the butterfly effect. You cannot simulate the universe without the universe. Cheap enough IQ solves most questions people actually ask, then you need experiments. Mice still take a year; a lab with 5,000 ideas still picks 20; 1% hit rates that are 10x a human are still 1%. He can tell two stories with equal certainty: he uses a gajillion tokens and could use a gajillion more, or cost-per-token collapses and we overbuilt. Programming already commoditized behind the frontier — you would be an idiot to use a frontier model for a support chatbot. Next layers look diamond-shaped: fewer places you need 300 IQ.",
+    "Complements and the book. If IQ is cheap, own data, attention (love, attachment), physical proximity, scale, and — cynically — regulatory capture. Meta from space: $250 billion of revenue and $250 billion of spend, almost all intelligence (data centers, inference, algorithms, code). If the price of intelligence falls by a factor of ~100 in five years, first-principles costs sag while creators and ads get better; people still watch 20-second videos. He does not own Grindr but uses it as the small-team version: 10,000 Google engineers for five years. Cogent routes 30–40% of IP traffic and is still a few-billion-dollar company — the fiber analog if good-enough tokens get very cheap. America just moved about 3% of GDP into the buildout on a dime. Patrick's sketch of the book: ~80% Carvana plus Hilton Grand Vacations, ~5% Meta, five names. Sosin jokes the AI would say he is underweight Carvana — should be 90. He is comfortable because brand and infrastructure leave few truly bad paths, the way Walmart or Home Depot rewarded concentration.",
+    "Agents, prices, Carvana operating system. First-order: agents switch you to the low-cost garbage collector for 50 cents a month. Second-order: the two-house street rolls up the block and wins volume at thinner margins. Deposits get optimized; sweaters do not. Price is a miracle — a signal wrapped in an incentive — and he does not see unlimited IQ replacing it. Prices that sat at $60 a month with a 5% annual bump start moving by the day. Advice to Carvana (they already call offsites pizza parties): everyone vibe-codes, including the board; CEO tells IT the Grok / Meta Muse agent gets read-only on every system, then write, then change-control — years of work, so you want a business with time before a clean-sheet rival meets you. Freestyle-chess era for investing: human plus model still beats either; models eat short timescales first (seconds → months). Education goes bimodal: kids learn foundations without models so they can direct them, then get 100x harder work with models on."
+  ],
+  "mental_model": {
+    "name": "Round-Ball IQ × Complements × Owner Concentration",
+    "components": "Do not treat intelligence as an unbounded scaler. It is a ratio that colors between known facts; weather, cream-in-coffee, and groups of people stay simulation-limited. Once 'good enough' IQ is nearly free, the scarce things are complements: data, attention, physical density, scale, licenses. Meta spends its $250 billion on intelligence and keeps the watch time. Labs can win a cost-leader token print and still sit in a shrinking commodity — Cogent already routes 30–40% of IP traffic. Jevons is a spot on a U-shaped market, not a law. Touching reality (mice, wet labs, robots) has a speed limit. Agents sharpen prices and hand volume to the local low-cost producer. Invest in what the rails enable, not in which railroad tycoon wins. Size Carvana as an owner who already built the vertical stack, not as a mean-variance weight.",
+    "application": "CVNA is ~80% of the book because he thinks the infrastructure and brand leave few disaster paths — pizza-party hackathons and read-only agents are the operating tell, not a new unit-sales model. META is the named complement (data + attention) and ~5% of the book; he does not need costs to go to zero if they sell a few more ads. HGV is the 'vacations' sleeve sitting next to Carvana in Patrick's sketch. Fade frontier-lab equity if the next IQ step has no cancer-scale use that skips the wet lab. Do not pair-trade NVDA on this tape — he is willfully ignorant on the supply stack. Do not let an optimizer shrink an 80% owner weight just because Kelly papers say so."
+  },
+  "key_insights": [
+    {
+      "view": "Intelligence is a ratio, not a tree.",
+      "question": "Why doesn't God-IQ solve the world?",
+      "answer": "Complex systems blow up from one rounded decimal. After cheap enough IQ, you still have to run the experiment."
+    },
+    {
+      "view": "Own the complements.",
+      "question": "What is left when IQ is free?",
+      "answer": "Data, attention, density, scale, licenses. Meta keeps the 20-second video. Cogent shows what a commoditized pipe is worth."
+    },
+    {
+      "view": "80% is an owner weight.",
+      "question": "Why not let the model size the book?",
+      "answer": "He would be 'underweight' Carvana. History of Walmart/Home Depot is concentration. Mean-variance is for average results."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "CVNA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "~80% of the book: brand plus infrastructure, time to wire agents before a clean-sheet rival — medium"
+    },
+    {
+      "ticker": "META",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named complement (data + attention) on a $250B spend book if IQ falls ~100x — low"
+    },
+    {
+      "ticker": "HGV",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "The 'vacations' name next to Carvana in the five-name book — low"
+    }
+  ],
+  "golden_quotes": [
+    "if intelligence becomes cheap and ubiquitous what you want to own are the complements to intelligence",
+    "Price is a miracle, right? Because it's a signal wrapped in an incentive.",
+    "80% of it is in one specific asset"
+  ],
+  "chronology": {
+    "subject": "Complements · Carvana · Meta",
+    "events": [
+      {
+        "date": "Lorenz / chaos",
+        "event": "Weather model diverges after one-decimal rounding"
+      },
+      {
+        "date": "fiber analog",
+        "event": "Cogent routes 30–40% of IP traffic; still a few-billion-dollar firm"
+      },
+      {
+        "date": "AI buildout",
+        "event": "US redeploys ~3% of GDP into the stack"
+      },
+      {
+        "date": "SpaceX day",
+        "event": "Patrick cites investor day as supply-buildout talent signal"
+      },
+      {
+        "date": "CAS book",
+        "event": "~80% Carvana + HGV, ~5% Meta; he jokes underweight vs 90"
+      },
+      {
+        "date": "Carvana ops",
+        "event": "Pizza-party hackathons; read-only agent on every system"
+      },
+      {
+        "date": "2026-10-27",
+        "event": "ILTB EP.497"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly ILTB Sosin",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+ep497",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

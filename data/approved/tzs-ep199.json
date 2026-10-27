@@ -1,0 +1,117 @@
+{
+  "episode_id": "tzs-ep199",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 199,
+    "title": "The Edge of AI Research: David with Gangdisi's Chief FDE",
+    "guest": "Laobai (老白)",
+    "guest_role": "Chief FDE, Gangdisi (岗底斯)",
+    "date": "2026-09-13",
+    "duration_minutes": 80,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6aa3ce2f492687f6aad86b6d"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Gangdisi",
+    "Private:OpenAI",
+    "NVDA",
+    "PLTR"
+  ],
+  "conclusion": "David sits with Gangdisi FDE Laobai. Shop in 2019, AI terminal June 2023, briefs that year, client reports in 2024–25, and a 2026 self-train loop he calls a near-100% deliverable. FDEs are finance people — Palantir coined the title; OpenAI/Anthropic hire for the business. A K3-class model at 2.8 trillion parameters still leaves 3,000 function points, about 30 in use. H200 cost on the tape: 1.5 million to 5.5 million. The buy button stays human. They staff the eager 20% of a 20/60/20 shop.",
+  "background": "Fireside-style 投资实战派 E199, taped Aug 28, published Sept 13. Whisper-small on Xiaoyuzhou audio (names come through as 钢地斯/使账派). David has been deep on AI research for 3–4 months and wanted someone who both uses it and staffs clients. Palantir's FDE boast is the opening joke.",
+  "important_facts": [
+    "Clock: Gangdisi 2019 after Laobai's fuzzy-algorithm youth and a dead job market. Three years of data, then June 2023 — months after OpenAI's consumer break — they ship their own AI research terminal. 2023: AI writes briefs. 2024–25: industry notes, stock work, investment memos for clients. 2026: self-training and what he calls a basically 100% result handed to the user. A K3-class model at 2.8 trillion parameters is the named upgrade. H200 on his cost tape: 1.5 million two years ago, 5.5 million now (treat as their marker, not a street print).",
+    "FDE: Palantir trademarked the glow. Laobai says OpenAI and Anthropic job specs ignore coding and demand domain. His team has zero engineers — they drive FanBot-class agents and know what a 3G filing and a sector word mean. Taobao hired shoe people as xiao'er; he hires PMs. Product sprawl: ~3,000 function points, about 30 in daily use; April talk of 40 skills versus a later 14–20-skill working set; 20 agents and 19 MCP hooks on one pass. More surface area is not more research.",
+    "Style and the 20%: value, growth, and trend shops train the same agent differently — data diet, prompts, files. One client never lets AI pick a stock; he only watches upstream prints that move prices in days. Judgment — buy or pass — is the part AI cannot retire. User split on the tape: 20% want to live in it, 60% watch, 20% refuse. They staff the first 20. A >¥10 billion universe of ~1,800 names is the named pond. When 'everyone' is at 80% capability, the edge moves. 24% gross-margin jumps and a 20-day couch holiday are color, not a model."
+  ],
+  "mental_model": {
+    "name": "Domain FDE × Small Skill Surface × Human Buy Button",
+    "components": "Hire finance people who can hear the client, then let an agent write the board. Keep 30 of 3,000 features. 2019 data plus a June 2023 terminal plus a 2026 self-train loop is the clock. K3 at 2.8T and a rising H200 bill are the infra prints. Style lives in the data diet, not in a bigger report pile. The 20/60/20 shop only pays for the first 20%. The buy button stays with the PM. The 20/60/20 split is why a 100% delivery line still sits on a niche attach.",
+    "application": "Gangdisi is a private research terminal — diligence the 20% attach, not the 100% delivery line. OpenAI is the 2023 trigger and the FDE job-spec compare. NVDA is the H200 cost marker. PLTR is the FDE brand they refuse to copy as a sales glow. Do not underwrite 'AI picks the stock.'"
+  },
+  "key_insights": [
+    {
+      "view": "FDE is a PM, not a compiler.",
+      "question": "Why no engineers?",
+      "answer": "OpenAI/Anthropic hire for the business. His team is finance plus FanBot. Taobao's shoe xiao'er is the metaphor."
+    },
+    {
+      "view": "3,000 features, 30 used.",
+      "question": "What is the product lesson?",
+      "answer": "April 40-skill talk versus a 14–20 working set. 20 agents and 19 MCP hooks do not make a better memo."
+    },
+    {
+      "view": "AI does not press buy.",
+      "question": "Where does the loop stop?",
+      "answer": "Data and training can be styled. Judgment cannot. They only staff the eager 20%."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Gangdisi",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "2019 shop, 2023 terminal, 2026 self-train — a 20% attach story, not a 100% delivery multiple — low"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "H200 cost on the tape 1.5M to 5.5M is their infra marker — low"
+    },
+    {
+      "ticker": "PLTR",
+      "direction": "Short",
+      "confidence": "Low",
+      "thesis": "FDE brand they refuse: Palantir glow versus finance people plus an agent — low"
+    }
+  ],
+  "golden_quotes": [
+    "2019年我们建立了这个钢地斯",
+    "100%的一个结果",
+    "没有一个是技术出身"
+  ],
+  "chronology": {
+    "subject": "Gangdisi · FDE · AI research terminal",
+    "events": [
+      {
+        "date": "2019",
+        "event": "Gangdisi founded; start of the data pile"
+      },
+      {
+        "date": "2023-06",
+        "event": "AI research terminal after the OpenAI consumer break"
+      },
+      {
+        "date": "2024–25",
+        "event": "AI writes client industry and stock reports"
+      },
+      {
+        "date": "2026",
+        "event": "Self-train loop; near-100% deliverable claim"
+      },
+      {
+        "date": "2026-08-28",
+        "event": "Taping with David"
+      },
+      {
+        "date": "2026-09-13",
+        "event": "E199 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window TZS E199 AI research",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

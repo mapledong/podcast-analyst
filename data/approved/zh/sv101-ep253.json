@@ -1,0 +1,109 @@
+{
+  "episode_id": "sv101-ep253",
+  "podcast": "硅谷101",
+  "host": "Yiwen",
+  "metadata": {
+    "episode_number": 253,
+    "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+    "guest": "何允中 · 孙一铀",
+    "guest_role": "Scale AI后训练/评测研究 · 伯克利博士后，Agents' Last Exam",
+    "date": "2026-09-27",
+    "duration_minutes": 58,
+    "youtube_url": "https://www.youtube.com/watch?v=I-rLxiIGf-4",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=I-rLxiIGf-4",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+      "fireside": "https://sv101.fireside.fm/267"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "META",
+    "Private:Scale AI",
+    "Private:AfterQuery",
+    "Private:Mercor"
+  ],
+  "conclusion": "Yiwen把卡在前沿实验室下面的数据商画出来。AfterQuery三个二十多岁，4月A轮3亿美元，9月到32亿——不到半年10倍，带子上YC到独角兽最快。Meta入股时Scale标了超过290亿；Mercor去年10月100亿。SKU不再是图片标签，是专家评分细则、强化学习环境和考试。嘉宾：Scale的何允中（个人观点）和伯克利孙一铀讲Agents' Last Exam——公开150多个任务、50多个行业，v2瞄准1000+。Agent任务要数小时之后，榜单就不是ground truth。",
+  "background": "Fireside E253。Alignment/STORY101 Lab预告。Yiwen问估值跳一个数量级时实验室到底在买什么。何允中：Scale像行业外包的数据研究组。孙一铀：ALE，Berkeley RDI加300多位专家。",
+  "important_facts": [
+    "标价：AfterQuery 4月3亿美元，9月32亿。Scale在Meta少数股权上超过290亿。Mercor去年10月100亿。何允中的分类：招聘出身（Mercor、Handshake）、众包出身的Scale、新合成公司、具身数据转行。产品从打标签变成请专家写Rubric，再搭带工具和反馈的RL环境。",
+    "考试：金融法律垂直榜，加上整段工作流的Agent考。ALE是点名的学术尝试——现在公开150+任务、50+行业，几个月内v2瞄准1000+。何说tech report有随机性；有些榜人们在用但博客不写。孙：真分布是用户体验。LMArena能工作是因为几秒出答案。数小时的Agent活没法让用户开四个窗口打分。",
+    "实验室为什么付钱：后训练和评测才是瓶颈，不是再爬一遍网页。Scale卖数据加方法。新人卖速度和更窄的专家网。具身/机器人数据被单独点名。290亿和32亿这期都没有利润桥——当成专家工时和出题设计的稀缺标价。"
+  ],
+  "mental_model": {
+    "name": "专家工时 × Rubric/RL环境 × 考试捕获",
+    "components": "实验室不再需要更多JPEG。他们要专家写细则，搭Agent能动手的环境。Scale是旧众包基因，Meta标了290亿。AfterQuery是YC速度基因，32亿。Mercor是招聘基因，100亿。ALE想把考试做公开（150→1000）。数小时任务砸了LMArena式投票。",
+    "application": "META是Scale的股权打印，不是数据商经营论点。AfterQuery和Mercor是私募稀缺标价——尽调专家供给和考试是不是真干活。不要把半年10倍写成护城河。"
+  },
+  "key_insights": [
+    {
+      "view": "SKU是考试不是标签。",
+      "question": "实验室在买什么？",
+      "answer": "评分细则、RL环境、长程任务。图片打标是旧生意。"
+    },
+    {
+      "view": "AfterQuery是速度标价。",
+      "question": "六个月做了什么？",
+      "answer": "3亿到32亿。带子上YC到独角兽最快。不是利润故事。"
+    },
+    {
+      "view": "榜单跟不上Agent的时间。",
+      "question": "为什么分数不真？",
+      "answer": "LMArena需要几秒的回答。ALE数小时的活没法同样投票。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "META",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Scale marked >$29B on the minority print — a data-supply headline, not Meta's core multiple — low"
+    },
+    {
+      "ticker": "Private:AfterQuery",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "$300M to $3.2B in <6 months is scarcity of expert exams, not proven earnings — low"
+    }
+  ],
+  "golden_quotes": [
+    "把它的估值推到了32亿美元",
+    "给出的估值超过290亿美元",
+    "Agents’ Last Exam"
+  ],
+  "chronology": {
+    "subject": "AI data vendors · Scale · AfterQuery · ALE",
+    "events": [
+      {
+        "date": "2025-10",
+        "event": "Mercor marked ~$10B"
+      },
+      {
+        "date": "2025",
+        "event": "Meta stake marks Scale above $29B"
+      },
+      {
+        "date": "2026-04",
+        "event": "AfterQuery A-round $300M cap"
+      },
+      {
+        "date": "2026-09",
+        "event": "AfterQuery new round $3.2B"
+      },
+      {
+        "date": "2026-09-27",
+        "event": "SV101 E253 airs; ALE 150+ tasks"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 硅谷101 E253",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube-zh-sv101-ep253",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "episode_id": "ep495",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 495,
+    "title": "David Vélez — Building Nubank and the Future of Global Banking",
+    "guest": "David Vélez",
+    "guest_role": "Founder & CEO, Nubank",
+    "date": "2026-10-13",
+    "duration_minutes": 71,
+    "youtube_url": "https://www.youtube.com/watch?v=Rs40uGRyXC8",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Rs40uGRyXC8",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "colossus": "https://colossus.com/episode/david-v-goliath/"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "NU",
+    "AMZN",
+    "JPM"
+  ],
+  "conclusion": "Vélez says retail banking is still Blockbuster: a $10 trillion industry, ~90% still in branches, every neobank together under 10%. Nubank already runs 140 million customers on 10,000 people against incumbents at 100 million customers, 100,000 staff, and 6,000 branches — cost-to-serve about 3% of a traditional bank, before AI. Brazil is the print: ~120 million customers, 65% of adults, ~60% primary. The US launch and a stablecoin account into 35-plus countries are the next decade. Bear case is three LatAm countries and no more Brazilians. Bull is 100 countries on real-time rails, open finance, and their own credit model.",
+  "background": "Second ILTB with Vélez; last time Nubank had 35 million customers. Frame is why fintech is early, not late: access, cost, and intelligence, then AI on a 13-year credit book. Topics: PIX/UPI rails, a $600 billion US deposit-spread tax, Hyperplane and a home-grown foundation model, US brand-building, flattening the org after Opus 4.6, and founder versus professional-CEO energy.",
+  "important_facts": [
+    "Scale print: 140 million customers and 10,000 employees versus competitors at 100 million customers, 100,000 employees, and 6,000 branches. Cost to serve is about 3% of a traditional incumbent, pre-AI. Brazil is close to 120 million customers — upwards of 65% of adults — and about 60% use Nubank as the primary account, not a second wallet. Mexico is already the second-largest bank in the country and the largest digital bank; Colombia was country three, launched with the president to a 100,000-person stream. The 2013 seed deck was always global retail banking. They are now the largest private financial institution on the continent, with the highest NPS and, in Brazil, the highest ROE. They charge no fees and still print ROE two to three times the big incumbents. US incumbent banks now show higher ROE than many emerging-market banks — 'your margin is my opportunity.'",
+    "Three buckets. Access: 3 billion people still have no credit product; Mexico and Colombia sit at 13% credit-card penetration. They were the first card for 30 million people in Latin America, starting at a $20 line banks called absurd. Cost: $15 trillion of US retail deposits pay about 40 basis points against 4.5–5% rates, a ~$600 billion transfer to fund branches; remittances ~$100 billion leave the US at 5–10% per send; monthly account fees run $5–15. In Mexico and Brazil, about 70% of incumbent deposits pay zero. Intelligence: ~15 million Brazilian customers get a daily ping — the other bank will charge 15% a day, or refinance a 10% loan at 5%. Data is 140 million customers, 20–30,000 points each, across 13 years. ML since 2013 (consumer rates then 500–600% a year); they bought Hyperplane in Palo Alto after ChatGPT because incumbent sales cycles were two years. Vélez says they were first to build a proprietary foundation model on their own data, published the research, and now use it for fraud in Mexico and Colombia and on day one in the US. A license still takes two to three years — ChatGPT cannot get you one.",
+    "Org and map. After missing Opus 4.6 in December 2025 by 60 days, they mapped 120 workflows (coding, KYC, internal audit, regulatory capital) and rebuilt them with evals. Layers went from 10 to 5; Vélez went from one direct report to 20 as the company scaled from 1 million customers to 140 million. Feature tests that took six months now run in weeks. Cash is dying; 70% of Brazilian employment is still small business. Five or six US banks own 60–70% of assets. ~190 currencies become maybe 10 in 10–20 years; dollar stablecoins keep the dollar as reserve. New announcement: US market plus a stablecoin-backed account in upwards of 35 countries. Bear case is saturation in three LatAm countries — 65% of Brazil, 'run out of Brazilians' — and a failed international push. Bull is 100-plus countries while incumbents still own 90% of the $10 trillion pool and Nubank still has a ~50x cost-structure gap, pre-AI."
+  ],
+  "mental_model": {
+    "name": "3% Cost-to-Serve × Primary Account × License-and-Data",
+    "components": "The smartphone removed the branch; AI multiplies the same gap. Global consumer finance is still ~90% incumbent and branch. Win on cost-to-serve (~3% of a traditional bank), then become the primary account (~60% in Brazil), not a second wallet. Three problems: access (3 billion unbanked for credit), cost ($600 billion US deposit spread, remittance take, monthly fees), intelligence (coach the other 99%). Scale matters only with a data culture — Blockbuster had foot traffic and no algorithm. A banking license and 13 years of credit labels are the thing you cannot vibe-code. Hyperplane plus a home-grown foundation model is how Mexico, Colombia, and the US start with a day-one model. Compete in digital water; without ATMs they are a weaker shark. Founder urgency beats a professional-manager overlay when the stack shifts.",
+    "application": "NU is the vehicle: Brazil is the proof, US plus 35-country stablecoin is the next tape. Size the US on brand and primary-account attach, not on Brazil unique users — he names running out of Brazilians as the bear. AMZN is the named customer-obsession template (Disney is the magic analog for a welcome kit). JPM and the five-or-six-bank US oligopoly are the high-ROE branch machine he wants to undercut, not a pair trade. Fade 'fintech is dead'; the scaled neobanks with licenses and data are the book he and Ricky still want. Do not treat a $20 first line as a toy — that is how 30 million people entered credit. Do not assume an AI-native startup eats them before it also has to get regulated."
+  },
+  "key_insights": [
+    {
+      "view": "Fintech is still 10% of a $10T branch industry.",
+      "question": "Late innings or Blockbuster-to-Netflix?",
+      "answer": "All neobanks together are under 10%. Brazil at 65% of adults is the exception, not the world."
+    },
+    {
+      "view": "License plus 13 years of labels beat vibe-coded speed.",
+      "question": "How would you kill Nubank?",
+      "answer": "Move fast while unregulated. Then you still need a license, and they already have 20–30k points on 140 million people."
+    },
+    {
+      "view": "Bear is three countries. Bull is 100.",
+      "question": "What ends the story?",
+      "answer": "Saturate Brazil/Mexico/Colombia and fail the US. Or ride PIX-style rails, open finance, and the credit model abroad."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NU",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "140M / 3% cost-to-serve / primary-account Brazil is the proof; US + 35-country stablecoin is the next decade — medium"
+    },
+    {
+      "ticker": "AMZN",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named consumer-obsession template since the seed years, not a new retail print — low"
+    }
+  ],
+  "golden_quotes": [
+    "Today, we have 140 million customers with 10,000 employees.",
+    "our cost to serve a customer is about 3% of what a traditional income bank is.",
+    "we're going to run out of Brazilians."
+  ],
+  "chronology": {
+    "subject": "Nubank · Brazil primary · US launch",
+    "events": [
+      {
+        "date": "age 8",
+        "event": "Leaves Colombia for Costa Rica"
+      },
+      {
+        "date": "2013",
+        "event": "Seed deck: global retail banking; ML on 500–600% consumer rates"
+      },
+      {
+        "date": "last ILTB",
+        "event": "35 million customers"
+      },
+      {
+        "date": "Hyperplane",
+        "event": "Buy Palo Alto foundation-model team after ChatGPT"
+      },
+      {
+        "date": "Colombia launch",
+        "event": "Event with the president; 100,000 on the stream"
+      },
+      {
+        "date": "Dec 2025",
+        "event": "Opus 4.6 works on Clojure; they notice ~60 days late"
+      },
+      {
+        "date": "post-Opus",
+        "event": "120 workflows remapped; 10 layers → 5; 1 → 20 direct reports"
+      },
+      {
+        "date": "2026-10-13",
+        "event": "140M customers; US + 35-country stablecoin account; ILTB EP.495"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly ILTB Vélez",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+ep495",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

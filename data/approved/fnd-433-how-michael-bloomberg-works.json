@@ -1,0 +1,124 @@
+{
+  "episode_id": "fnd-433-how-michael-bloomberg-works",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 433,
+    "title": "#433 How Michael Bloomberg Works",
+    "guest": "Michael Bloomberg",
+    "guest_role": "Solo biography (Bloomberg by Bloomberg)",
+    "date": "2026-09-14",
+    "duration_minutes": 48,
+    "youtube_url": "https://www.youtube.com/watch?v=1iH5YpzPZi8",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=1iH5YpzPZi8",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Bloomberg",
+    "GS",
+    "AAPL"
+  ],
+  "conclusion": "Senra reads Bloomberg by Bloomberg as a fire-then-build tape. At 39, Gutfreund ends 15 years of 12-hour, six-day Salomon weeks with $10 million and a shove. He never looks back. $300,000 of his own money becomes a $4 million bet and a six-month promise of a machine that does not exist. Merrill is the first customer. Hardware is disposable; the product is answers at a keystroke. He does not want fair fights. Later he is giving away hundreds of millions a year and still owns nearly all of it.",
+  "background": "Solo on the autobiography. Cold open is the Salomon firing. Senra skips most of childhood and starts at Harvard, the $9,000 Salomon offer versus Goldman, Billy Salomon, the 1979 shove into computers, then Innovative Market Systems. Themes: never look over your shoulder, break the problem into pieces, get action.",
+  "important_facts": [
+    "Fire and stake: Gutfreund tells the 39-year-old his life at Salomon is finished. Most of 63 partners stay as employees of the new company; he and about a half-dozen are pushed. $10 million is the consolation. He would have stayed for any job — in 1979 Billy and John already moved him off sales and trading onto computers. He does not visit. Harvard case method is the only schooling he praises. Goldman and Salomon both recruit; Salomon offers $9,000 and he takes the hotter firm. Once finished, gone.",
+    "Build: he puts $300,000 of the windfall in, then $4 million of his $10 million, with almost two dozen families on the line. They sell a product that does not exist and pick a six-month date. The promise expires Saturday, so delivery slips to Monday afternoon. The pitch: the first investment box where a normal person hits a key and gets an answer, including questions they did not know to ask. Later the terminal carries functions from more than 5,000 programmers. He builds hardware until someone else builds it better, then stays on content and analytics. Style is the same then and now: break it into pieces, assign the person best suited, get action. Others plan to plan.",
+    "Scale and edge: a few years after founding, 1990s cash is large enough that he is giving away $200 million a year; early 2000s about $700 million; Senra says the lifetime philanthropic number is over $10 billion. Ownership stays around 98–100%. Expansion rule: start with a little capital you can lose and a few people you can reassign — Time Warner/AOL is the anti-pattern. 'We do not want fair fights.' Jobs's brick line is the rhyme: don't lose faith, don't look back."
+  ],
+  "mental_model": {
+    "name": "Once Finished Gone × Fake the Date × Unfair Fight",
+    "components": "Treat a shove as working capital. Do not visit the old firm. Put your own money in until families depend on you. Sell a date, then work weekends to hit Monday afternoon. Never confuse the device with the business — hardware is a temporary wrapper around answers. Break problems into pieces and act; planning to plan is the enemy. Expand with money you can lose. Enter fights with an edge, not a fair field. Keep the method boring enough to repeat every week. Numbers in the room beat stories in the hallway. The founder who will not walk the floor, make the tenth call, or rewrite the Saturday software is already the cartel.",
+    "application": "Private:Bloomberg is the named terminal and the still-private cash machine. GS is the rejected $9,000-versus-hot-firm fork, not a short. AAPL is the Jobs rhyme on the brick, not an iPhone print. Fade fair-fight decks. Size any data terminal as content first, glass second."
+  },
+  "key_insights": [
+    {
+      "view": "The shove is the gift.",
+      "question": "What did $10 million buy?",
+      "answer": "A chance to stop looking back. He would have stayed for any Salomon job. He never went back."
+    },
+    {
+      "view": "Ship the Monday.",
+      "question": "How do you sell a machine that does not exist?",
+      "answer": "Pick a six-month Saturday, slip to Monday afternoon, and rewrite the software until it boots."
+    },
+    {
+      "view": "No fair fights.",
+      "question": "How does a small shop beat bigger ones?",
+      "answer": "Enter with an advantage. Start experiments with capital you can lose. Keep 98%."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Bloomberg",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Terminal as answers-at-a-key; still ~98% owned; $200–700M/year giving as the cash tell — medium"
+    },
+    {
+      "ticker": "GS",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "The other offer on the tape; he picked Salomon heat over Goldman polish — low"
+    },
+    {
+      "ticker": "AAPL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Jobs brick rhyme for the firing; not a unit forecast — low"
+    }
+  ],
+  "golden_quotes": [
+    "Once finished, gone. Life continues.",
+    "We do not want fair fights.",
+    "I never look over my shoulder."
+  ],
+  "chronology": {
+    "subject": "Salomon fire · terminal · unfair fights",
+    "events": [
+      {
+        "date": "Harvard",
+        "event": "Case method; only schooling he praises"
+      },
+      {
+        "date": "Join",
+        "event": "Salomon $9,000 vs Goldman; takes Salomon"
+      },
+      {
+        "date": "1979",
+        "event": "Moved from sales/trading onto computers"
+      },
+      {
+        "date": "Age 39",
+        "event": "Gutfreund fires him; $10M consolation"
+      },
+      {
+        "date": "Day 1",
+        "event": "$300k in; later $4M of $10M; ~24 families"
+      },
+      {
+        "date": "Month 6",
+        "event": "Saturday promise slips to Monday afternoon"
+      },
+      {
+        "date": "1990s–2000s",
+        "event": "$200M then ~$700M a year given away"
+      },
+      {
+        "date": "2026-09-14",
+        "event": "Founders #433"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Founders Bloomberg",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+fnd-433",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

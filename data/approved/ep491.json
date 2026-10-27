@@ -1,0 +1,129 @@
+{
+  "episode_id": "ep491",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 491,
+    "title": "Michael Moritz — Lessons From 40 Years of Investing and Writing",
+    "guest": "Michael Moritz",
+    "guest_role": "Former Sequoia chairman · Ausländer memoir",
+    "date": "2026-09-16",
+    "duration_minutes": 72,
+    "youtube_url": "https://www.youtube.com/watch?v=mlWX7RltfDE",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=mlWX7RltfDE",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909",
+      "colossus": "https://colossus.com/episode/the-outsider/"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Sequoia",
+    "AAPL",
+    "TSLA"
+  ],
+  "conclusion": "Moritz reads his own first 14 years the way he read Iacocca and Sequoia founders: refugee grit from Nazi Germany to Wales, a Bavarian-judge grandfather who trusted the state and vanished east, a cattle trader who left 72 hours before the war. Extra passports still feel necessary. The favorite bet was Sequoia itself — Valentine's 1985 hire, Israel then China then Heritage, one fund clawed back to par. He is a great-person man; Elon may be America's greatest industrialist. Time's computer-of-the-year piece never let him repair Jobs. The kindest act was marrying him.",
+  "background": "Patrick sits with former Sequoia chairman Michael Moritz on Ausländer, the family memoir. The hour is first-14-years diligence, Time and Jobs, Don Valentine's 1985 hire, taking over Sequoia, the Ferguson ghostwrite, Elon at X.com, AI scale, the San Francisco Standard with Griff Gaffney, and what parenting should imprint.",
+  "important_facts": [
+    "Family and method: Moritz grew up a Jewish-refugee minority in 1960s–70s Wales. Parents left Germany in the 1930s and refused the word survivor — they were never in the camps. Paternal grandfather, a Bavarian judge and Verdun Iron Cross, lost the post in 1933, clung to a pension, and was shipped east. Maternal grandfather, a nearly blind cattle trader, left with 72 hours. Residue: extra passports. First-14-years interviews began at Time on Lee Iacocca, always the outsider under Henry Ford II. Anna, the Catholic nanny, is righteous at Yad Vashem. A French-village series sorted resistors, the silent, and collaborators; COVID Zooms found resistors rare. Bill Deeds told a 22-year-old to go to America; Time hired him with no clips. The Computer-of-the-Year issue — Jobs sure he was Man of the Year — never healed. Intensity fades after the early 30s; the inner outsider does not.",
+    "Sequoia: Don Valentine hired him around 1985 when the firm fit around Patrick's table. Five letters went out; the others said no engineering degree, try PR. Valentine pointed at Tommy Davis and Arthur Rock (Fairchild, Teledyne with Singleton, Intel day one, Apple). Mid-80s venture, he says, a bright 14-to-16-year-old could have done. He took the 1995 firm and stepped down in 2012–13: Israel, China, then Heritage with Kevin and Keith. One broken fund was fought back to par over about 10 years because non-profit LPs should not pay for an index. He ghost-wrote Alex Ferguson (1986–2013, 26 seasons). Early X.com backer. Xiaomi started as a 2010 phone maker and now builds cars he says beat Porsches. Siebel sold for $10B when that was a lot of money; Facebook and Google IPOs were when $100B was a lot; a six-year-old AI company can be worth trillions. Trump common vocabulary is about 2,400 words versus Obama at about 4,500.",
+    "After the chair: he left cold turkey once he was sick. Harriet and he started a foundation about 25 years ago; with Griff Gaffney he launched the San Francisco Standard as a for-profit, center-right local paper with no thumb on news. He still advises Heritage. Two sons in their 30s, grandchildren. His mother, who died weeks before COVID, was sure the police should come for him after the Yahoo IPO. Next book idea is 1940s Iran as fiction mixed with nonfiction. The Stripe memo on what could go right was famously short. Kindest thing anyone did: marry him. Parenting residue: arm children with confidence and freedom. Antisemitism, he says, has 2,500 years of history and will not vanish in 2026 or 2030."
+  ],
+  "mental_model": {
+    "name": "First-14 × Extra Passports × Great Person",
+    "components": "Paint a founder from marks on a canvas, most of them before age 14. Refugee households teach survival, suspicion, and a bolt-hole: never enough passports. Resistors are rare; most people stay silent, which is how bad years happen. Monomania builds companies and ruins families (Evelyn Waugh's pram in the hallway; Frank Auerbach's one day off a year). Venture in the mid-80s had imperfect information and few intermediaries; that edge is gone. The firm you already have can be the best investment if you refuse to rest on old wins and if non-profit LPs get a real attempt at par. Institutions endure, but he still bets the great person — Jobs, Iacocca, Ferguson, Elon.",
+    "application": "Private:Sequoia is the named favorite: 1985 hire, 1995-to-2012/13 run, Israel/China/Heritage, one fund clawed to par. AAPL is the Jobs-and-Rock line from this tape, not a new iPhone print — Time's computer-of-the-year issue is why the friendship never reset. TSLA is the Elon print: early X.com, greatest industrialist in the history of America, and the claim that tools now let rare people run more than one company (Xiaomi 2010 phones to Porsche-beating cars). Do not copy 1985 information edges. Fade awe; keep extra optionality."
+  },
+  "key_insights": [
+    {
+      "view": "The first 14 years are the portrait.",
+      "question": "What is he actually underwriting?",
+      "answer": "Childhood marks, not later polish. Iacocca at Ford, the candy-store tears, his own refugee house. Intensity fades; the outsider does not."
+    },
+    {
+      "view": "Keep a bolt-hole.",
+      "question": "What did the grandfathers teach?",
+      "answer": "The judge waited on a German pension and vanished east. The trader left with 72 hours. Extra passports. 2026 still feels like that year."
+    },
+    {
+      "view": "Great persons still move history.",
+      "question": "Firm or founder?",
+      "answer": "He built an enduring partnership and still picks Elon as the American industrial peak. Ferguson is the 26-season case of one man holding a club together."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Sequoia",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Named favorite investment: 1985 Valentine hire, 2012–13 handoff, Israel/China/Heritage, one fund fought back to par for non-profit LPs — medium"
+    },
+    {
+      "ticker": "AAPL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Arthur Rock day-one Apple plus the Time/Jobs rupture; this tape is character history, not a unit forecast — low"
+    },
+    {
+      "ticker": "TSLA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Early X.com partner; he calls Elon maybe the greatest industrialist in American history, now able to run more than one company — low"
+    }
+  ],
+  "golden_quotes": [
+    "you can never have enough passports.",
+    "I think I've always felt everything is unfinished",
+    "he may well be the greatest industrialist in the history of America."
+  ],
+  "chronology": {
+    "subject": "Outsider · Sequoia · great persons",
+    "events": [
+      {
+        "date": "1930s",
+        "event": "Parents leave Germany; never in the camps"
+      },
+      {
+        "date": "1933",
+        "event": "Paternal grandfather loses Bavarian judgeship; later shipped east"
+      },
+      {
+        "date": "72 hrs pre-war",
+        "event": "Maternal grandparents (cattle trader) escape Germany"
+      },
+      {
+        "date": "~1974",
+        "event": "Time hires 22–23-year-old Moritz; later Computer of the Year / Jobs break"
+      },
+      {
+        "date": "~1985",
+        "event": "Don Valentine hires the journalist into tiny Sequoia"
+      },
+      {
+        "date": "1986–2013",
+        "event": "Ferguson at Manchester United, 26 seasons; Moritz ghost-writes"
+      },
+      {
+        "date": "1995–2012/13",
+        "event": "Runs Sequoia; Israel, China, Heritage; steps down cold turkey"
+      },
+      {
+        "date": "2010",
+        "event": "Xiaomi starts as phones; later cars he says beat Porsches"
+      },
+      {
+        "date": "2026-09-16",
+        "event": "ILTB EP.491 Moritz"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly ILTB Moritz",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+ep491",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

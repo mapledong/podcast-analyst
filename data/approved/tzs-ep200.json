@@ -1,0 +1,114 @@
+{
+  "episode_id": "tzs-ep200",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 200,
+    "title": "AI Chips, China Compute, and The Rise of Ascend: Yongqing with Fang Xingdong",
+    "guest": "Fang Xingdong",
+    "guest_role": "ZJU professor · author, The Rise of Ascend",
+    "date": "2026-09-20",
+    "duration_minutes": 92,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6aaf91e20916f6f8b4462bd3"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Huawei",
+    "0981.HK",
+    "NVDA"
+  ],
+  "conclusion": "Yongqing has Fang Xingdong on Ascend — book three of a six-product Huawei series begun when the 2019 tech war hit. The list is HarmonyOS, Euler, Gauss DB, Kirin, Ascend, Kunpeng. They guessed five years and ~300 interviews; it is becoming eight years and ~500 two-hour talks he does himself. Euler 2023, Harmony last year, Ascend now; Kunpeng slipped from 2020. Ascend project 2017, next to 4G/5G. Xu Zhijun: he has the full picture, so he does not panic. Nvidia is the global compare; SMIC is the sanctioned fab. Fang will not call it solved until all six ship.",
+  "background": "E200, taped Aug 27. Yongqing ties domestic model catch-up, DeepSeek-class papers, and Zhang Xiaojun's 4–5 hour Lindon tape to a compute inflection. Fang: 30 years in internet, now ZJU media dean, still writing the factory. Whisper turns 昇腾/华为 into 生疼/华围 — quotes below are the audible strings. Six books were supposed to land together in 2024. Only Euler, Harmony, and Ascend have, in that order. Kunpeng is the slipped server CPU; Gauss and Kirin are next year's remaining software and phone die. Fang still thinks the 2019 map of what the US could actually cut was right, even if the calendar was not.",
+  "important_facts": [
+    "The series: 2019, Xu Zhijun (20-year friend) and Fang drop a chip-roadmap book and pick six blockade products — three software (Harmony, Euler, Gauss) and three silicon (Kirin, Ascend, Kunpeng). Plan: five years to 2024, ~50 interviews per book, ~300 people. Reality: first book Euler in 2023; Harmony last year; Ascend this year; Kunpeng was slated for 2020 and slipped on semiconductor sanctions, maybe late this year; Gauss and Kirin next year. Interview count toward ~500, ~2 hours each, all by Fang. Eight years instead of five. He still thinks the 2019 call on the six was directionally right. Harmony interviews are the year he compares to farm labor. He will not subcontract the two-hour sittings. Six books were meant to land together in 2024; only three have, in order.",
+    "Ascend: project ~2017, beside the 4G/5G ramp. Fang reads it as the flagship of domestic 'smooth' (compute) rise, not a phone SoC story. Kirin is the handset, Kunpeng the server CPU, Ascend the training/inference part the US can actually cut. 1% company language on the tape is Huawei's partner cut, not a multiple. Xu's 'I hold more complete information' is why he did not join the 2019 gloom inside the firm. Fang's surprise: six years of even mood. 4G and 5G on the same calendar as the 2017 kickoff are why he refuses a fashion reading. Domestic model progress is demand for that die, not a second thesis.",
+    "Stack around the book: domestic models closing a gap; papers and a 4–5 hour Zhang Xiaojun robotics tape as the other 2026 nodes. SMIC (0981.HK) is the named sanctioned foundry path. Nvidia is the part they cannot buy at the top bin. Fang will not say the blockade is over until the six are out — work like a farmer, he says, after the Harmony interview year. 30-year internet career then a dean's chair is the author bio, not a trading desk. Interview 500 versus the planned 300 is the calendar slip counted in hours. Wait for Gauss and Kirin next year before anyone writes that export control is over."
+  ],
+  "mental_model": {
+    "name": "Six-Product Blockade × Interview Clock × Compute Inflection",
+    "components": "Pick the six things the US can actually cut. Time them in interviews, not in press releases — 300 planned, ~500 and counting, two hours each. Software (Harmony/Euler/Gauss) plus three chips. Ascend 2017 is the AI die; Kunpeng slipped because fabs did. Five-year optimism becomes eight. Xu's full-info calm is the cultural print. Nvidia is the missing bin; SMIC is the constrained fab. Do not mark 'solved' until the last book. Count hours, not press days. A book that takes 500 sittings is a factory diary. Harmony is the year he compares to farm work. The 2020 Kunpeng slip is the fab sitting under the AI chapter. 4G/5G on the same calendar as the 2017 kickoff is why this is not a 2026 fashion book. Domestic model catch-up is demand for the same die. Xu's even mood is the management print: partial files panic, the six-product file keeps walking. Wait for Gauss and Kirin before anyone writes solved. Eight years versus five is the cost of being early on a blockade list.",
+    "application": "Huawei is private. 0981.HK is the sanctioned fab next to the Kunpeng delay. NVDA is the bin they cannot buy. Diligence the six-product clock, not a DeepSeek-week headline. Fang's 500 interviews are a history source, not a position. Interview 500 versus the planned 300 is the same slip, counted in hours. The 1% partner cut is Huawei language for who walks with them, not a royalty you can model this year."
+  },
+  "key_insights": [
+    {
+      "view": "Six products, not one chip.",
+      "question": "What was the 2019 bet?",
+      "answer": "Harmony, Euler, Gauss, Kirin, Ascend, Kunpeng. Five years / ~300 talks became eight / ~500. Kunpeng's slip is the fab, not a change of mind on the six."
+    },
+    {
+      "view": "Ascend is the 2017 compute flag.",
+      "question": "Why this book now?",
+      "answer": "Project sits on 4G/5G. Models are catching up. Kunpeng slipped on sanctions. DeepSeek-week headlines are demand color next to a 2017 project code."
+    },
+    {
+      "view": "Xu did not panic because he had the file.",
+      "question": "What is the cultural print?",
+      "answer": "Full information versus partial gloom. Fang is still surprised six years later. Partial-file panic inside Huawei in 2019 is the control group."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "0981.HK",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Sanctioned fab next to the Kunpeng slip — the factory half of Fang's six — low"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Still the top bin China cannot buy; Ascend is the substitute clock, not a 2026 replacement — medium"
+    }
+  ],
+  "golden_quotes": [
+    "2019年科技战发生了",
+    "六款产品",
+    "大概500人的反弹"
+  ],
+  "chronology": {
+    "subject": "Huawei six products · Ascend book",
+    "events": [
+      {
+        "date": "2017",
+        "event": "Ascend project; 4G/5G ramp"
+      },
+      {
+        "date": "2019",
+        "event": "Tech war; six-product book plan, ~300 interviews / 5 years"
+      },
+      {
+        "date": "2023",
+        "event": "Euler book first"
+      },
+      {
+        "date": "2025",
+        "event": "Harmony book"
+      },
+      {
+        "date": "2026",
+        "event": "Ascend book; Kunpeng still slipping"
+      },
+      {
+        "date": "2026-08-27",
+        "event": "E200 taping"
+      },
+      {
+        "date": "2026-09-20",
+        "event": "E200 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window TZS E200 Ascend",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "episode_id": "sv101-ep251",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 251,
+    "title": "Inference Chips: Groq, Cerebras, OpenAI's First Chip, and Bill Dally's Design Lens",
+    "guest": "Mark · Ziyang",
+    "guest_role": "Inference-chip hardware/systems (Bill Dally student) · Annapurna/Trainium software",
+    "date": "2026-09-15",
+    "duration_minutes": 92,
+    "youtube_url": "https://www.youtube.com/watch?v=aS69y40BoyM",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=aS69y40BoyM",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+      "fireside": "https://sv101.fireside.fm/264"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "NVDA",
+    "AMZN",
+    "Private:Groq",
+    "Private:OpenAI"
+  ],
+  "conclusion": "Hongjun sits with Mark (Dally student) and Ziyang (Trainium software) on June 24 — the day OpenAI ships its first inference chip, on a memory choice they would not have made. Training is an unquantifiable cluster bet. Inference is dollars per million tokens versus GPU plus power. Bandwidth beats peak FLOPs. Groq (2016) puts weights in SRAM; Cerebras is ~800 mm² wafer-scale at 750–2000 tok/s versus ~100 on a GPU. Yield can scrap nine of ten. Agent tokens are not for eyes, so speed has no 100 tok/s ceiling.",
+  "background": "Fireside E251 / YouTube. Recorded 2026-06-24. Alignment 2026 plug for Oct 10–11 Sunnyvale. Guests are earlier-stage inference-chip founders using Groq, Cerebras, and Nvidia as the reference set. Mark did Stanford EE under Dally, then three years on general GPU-class silicon in China including hundred-chip supernodes. Ziyang was a scientist on Amazon's Trainium stack from kernels through model sharding. Frame: why inference silicon is not a smaller training GPU. The 1.6T and 128-experts-pick-8 MoE examples are why decode is a memory tax even when prefill looks fine. Alignment 2026 (Oct 10–11, Sunnyvale) is the show ask, not part of the silicon thesis.",
+  "important_facts": [
+    "Business split: training has no direct cash-back, so labs buy the strongest cluster and hope later inference recoups it. Inference is arithmetic a CFO can do — dollars per million tokens in versus GPU depreciation plus electricity out. Guests say the technical obsession flips from FLOPs to bandwidth. Prefill can keep a GPU busy (one HBM load, ten tokens of context in parallel, or a long article). Decode is memory-bound. Arithmetic intensity ('AI') is the named ratio. A 1.6T model and MoE routing (128 experts, pick 8) make the bandwidth hole worse. Human reading tops out near 100 tokens/sec; chain-of-thought and agent-to-agent tokens are not for eyes, so Cerebras-class 750–2000 tok/s still has a job. The tape is dated 2026; treat every cap and percent as of the recording, not as a 2027 model.",
+    "Three paths on the tape. Nvidia/GPU: HBM off-chip, general, the default. Groq, founded 2016, about 9–10 years old at the 2026 taping: put weights next to compute in SRAM — the mature way to collapse the memory wall. Cerebras: one chip the size of a wafer, ~800 mm², wafer-scale before Transformers were obvious. OpenAI's first inference chip lands the same day; guests flag the memory hierarchy as the disagreement and unpack it at the close. Mark reads problems the way Dally does — modern GPU parallelism as a design philosophy, not a brand. Ziyang's Trainium years are the compiler/partition half of the same bill. OpenAI shipping on the taping day is why the memory disagreement is not a footnote — it is the third path on a 92-minute episode.",
+    "Yield is the hidden P&L. On an 800 mm² monster, 30% defect is normal talk; 50% yield might give you 20 good chips. They walk a 30% versus 70% yield argument and end near 'four or five of ten are dead,' sometimes nine of ten. That is why wafer-scale and SRAM-on-die are not just speed brags — they are factory bets. Alignment 2026 (Oct 10–11, Sunnyvale) is the show's offline ask. The guests are building their own inference part, earlier than Groq or Cerebras, so every named path is a competitor and a textbook. That factory math is why a 750–2000 tok/s screenshot is not a cost curve."
+  ],
+  "mental_model": {
+    "name": "Inference Price × Bandwidth Wall × SRAM/Wafer Bets",
+    "components": "Price inference as dollars per million tokens, not as a smaller training GPU. Prefill can use FLOPs; decode is a bandwidth tax. SRAM-on-die (Groq) and wafer-scale (Cerebras) are two ways to move weights next to compute. HBM GPUs remain the default because the factory and software already exist. OpenAI's first chip is a third memory vote. Yield on ~800 mm² die can throw away half the wafers. Agent tokens remove the 100 tok/s human cap, so 750–2000 tok/s is internal thought, not faster chat bubbles. Dally's student plus a Trainium compiler is the hardware/software split the category actually needs. Keep the method weekly: name the bottleneck (bandwidth, exam hours, token bill, trust, weather window) and only then pick the ticker. Numbers on this tape beat category slides. If the guest cannot price the unit — tokens, tasks, hectares, or a 40-yuan checkout — the mark is a story, not a position. Prefill can look GPU-healthy while decode is already a memory tax.",
+    "application": "NVDA stays the default training-and-HBM print; do not read this episode as a GPU-death tape. AMZN is here via Trainium/Annapurna as the software guest's last job — a custom-silicon compare, not a retail thesis. Groq is the SRAM-on-die 2016 clock. OpenAI is the June 24 first-chip headline and the memory disagreement. Diligence wafer-scale on yield, not on tok/s screenshots. Mark's supernode years and Ziyang's Trainium compiler are the two halves of the same bill: a fast SRAM or wafer part without a partition story is a demo. Agent tokens remove the 100 tok/s human cap, so 750–2000 tok/s is more inner thought in the same minute, not a faster chat bubble. Yield on ~800 mm² is why wafer-scale is a factory name, not a tok/s screenshot."
+  },
+  "key_insights": [
+    {
+      "view": "Inference is a priced product.",
+      "question": "Why not the same chip as training?",
+      "answer": "Training is an unquantifiable cluster bet. Inference is dollars per million tokens versus GPU plus power. Bandwidth beats peak FLOPs."
+    },
+    {
+      "view": "Groq and Cerebras move the memory.",
+      "question": "What are the two non-GPU bets?",
+      "answer": "Groq (2016) puts weights in SRAM. Cerebras is ~800 mm² wafer-scale and quotes 750–2000 tok/s versus ~100."
+    },
+    {
+      "view": "OpenAI voted differently on memory.",
+      "question": "Why does the taping date matter?",
+      "answer": "June 24 they ship a first inference chip. Guests say the storage choice is not theirs. Yield on giant die is the other half of the bill."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Still the HBM default and Dally's house; decode is bandwidth, not a GPU funeral — medium"
+    },
+    {
+      "ticker": "Private:Groq",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "2016 SRAM-on-die path, 9–10 years in, the named alternative to HBM decode — low"
+    },
+    {
+      "ticker": "AMZN",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Trainium/Annapurna is the compiler guest's last job — custom silicon, not retail — low"
+    }
+  ],
+  "golden_quotes": [
+    "OpenAI发布了他们第一颗推理芯片",
+    "100Token每秒",
+    "arithmetic intensity"
+  ],
+  "chronology": {
+    "subject": "Inference silicon · Groq · Cerebras · OpenAI",
+    "events": [
+      {
+        "date": "2016",
+        "event": "Groq founded; SRAM-on-die inference path"
+      },
+      {
+        "date": "2017",
+        "event": "Mark starts Stanford EE under Bill Dally"
+      },
+      {
+        "date": "2025",
+        "event": "Groq discussed as late-2025 reference on the tape"
+      },
+      {
+        "date": "2026-06-24",
+        "event": "Taping day; OpenAI first inference chip"
+      },
+      {
+        "date": "2026-09-15",
+        "event": "SV101 E251 airs"
+      },
+      {
+        "date": "2026-10-10",
+        "event": "Alignment 2026 Sunnyvale (show plug)"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window SV101 E251 inference chips",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube-zh-sv101-ep251",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

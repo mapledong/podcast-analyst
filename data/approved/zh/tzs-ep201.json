@@ -1,0 +1,110 @@
+{
+  "episode_id": "tzs-ep201",
+  "podcast": "投资实战派",
+  "host": "永庆 & David",
+  "metadata": {
+    "episode_number": 201,
+    "title": "E201 共识与筹码：从周期股到AI | David对谈小X老师",
+    "guest": "小X老师",
+    "guest_role": "买方ETF/主动管理研究；前期货与卖方宏观",
+    "date": "2026-09-27",
+    "duration_minutes": 68,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6ab51d2fe742e36efcbadf5d"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "NVDA",
+    "300308.SZ",
+    "Private:OpenAI"
+  ],
+  "conclusion": "David把小X从E174的周期带子请回来。黄金刚从5600美元砸到4400；白银摸到1200再一周跌去1.3。2026年1–6月他叫两个星球：AI对其他一切。每日前十阅读9条是AI；全球拥挤前50大约90%是AI。铝的股票照样跌30%–40%。框架不变——买的钱比卖的多、这个价位筹码薄。周期到2月见顶，AI接走买单。年中AI内部瓦解之后他仍说产业在。价值经理通常转不了这么快；策略可以。这就是课。",
+  "background": "E201，8月13日录，9月27日发。E174（2月3日）用共识和筹码讲有色贵金属钢铁化工，背景是委内瑞拉/伊朗/美国。小X：黑色期货，再钢铁煤炭，卖方宏观，现在买方ETF和主动管理。他自己是实战派听友。",
+  "important_facts": [
+    "E174打印：黄金两三天5600到4400；白银到1200再一周跌去1.3——媒体写史上最大单日跌幅。同一窗口涨停跌停。小X用共识和筹码讲有色、贵金属、钢铁、化工，那期很受欢迎。周期随后2月到6–7月走弱。David跟盘时发现小X的注意力已经搬走。",
+    "AI是同一条带子：2026年1–6月AI对非AI不是因子价差，是两个星球。前十文章9/10是AI；全球拥挤前50大约90%。铝的名字同月跌30%–40%。价格涨是因为买单比卖单多、这个位置筹码薄——先K线后故事。周期强，2月后杀；AI接过买单。AI内部年中瓦解（有的名字跌很深，链条上指数仍有5%的日子）对他来说不杀死产业。",
+    "谁能转：David说看长的价值经理通常不能从铜跳到GPU；策略可以。小X的搬家是对象。他点名的风格年（62、63、66、67、89）是「这事发生过」，不是模型。5–6月的投资消费笔记挨着AI抱团。尽调买单和筹码深度，不要尽调板块标签。OpenAI是叙事极；中际旭创（300308.SZ）是A股里坐同一买单的光模块名字。"
+  ],
+  "mental_model": {
+    "name": "共识 × 筹码深度 × 不看标签的买单",
+    "components": "黄金5600→4400和AI 9/10标题是同一套。买单多于卖单、筹码薄，价格走。板块是戏服。2026年上半年两个星球是打印。策略能转；价值经理通常不能。年中AI瓦解如果产业买单还在就是天气。铝跌30–40%是另一个星球。",
+    "application": "NVDA是全球买单极。300308.SZ是A股光模块坐进同一90%拥挤。OpenAI是故事不是筹码堆。不要因为E174好就买铝，也不要因为九成文章同意就买每一个AI名字。"
+  },
+  "key_insights": [
+    {
+      "view": "同一框架，新戏服。",
+      "question": "周期怎么变成AI？",
+      "answer": "买单对卖单和筹码深度。黄金5600→4400和AI 9/10标题是一套方法。"
+    },
+    {
+      "view": "26年上半年两个星球。",
+      "question": "分得有多开？",
+      "answer": "AI对其他一切。铝−30–40%。全球拥挤前50大约90%是AI。"
+    },
+    {
+      "view": "策略会转；价值经理通常不会。",
+      "question": "实战派听友该抄什么？",
+      "answer": "买单搬家时允许自己搬家——不是新的估值宗教。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Global pole of the 1H26 AI bid after cyclicals dumped in February — low"
+    },
+    {
+      "ticker": "300308.SZ",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "A-share optical way to sit in the same crowded 90% — low"
+    }
+  ],
+  "golden_quotes": [
+    "黄金刚从5600美金",
+    "两个星球做投资",
+    "几乎每天10个有9个都是AI相关的"
+  ],
+  "chronology": {
+    "subject": "Consensus-and-chips · cyclicals to AI",
+    "events": [
+      {
+        "date": "2026-02-03",
+        "event": "E174 cyclicals; gold $5600→$4400"
+      },
+      {
+        "date": "2026-02",
+        "event": "Cyclicals roll over; AI takes the bid"
+      },
+      {
+        "date": "2026-01–06",
+        "event": "Two-planet split; 9/10 headlines AI"
+      },
+      {
+        "date": "2026-06",
+        "event": "AI-chain 5% index days; internal unwind starts"
+      },
+      {
+        "date": "2026-08-13",
+        "event": "E201 taping"
+      },
+      {
+        "date": "2026-09-27",
+        "event": "E201 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 投资实战派 E201",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

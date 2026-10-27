@@ -1,0 +1,108 @@
+{
+  "episode_id": "sv101-ep255",
+  "podcast": "Silicon Valley 101",
+  "host": "Yiwen",
+  "metadata": {
+    "episode_number": 255,
+    "title": "Models Get Smarter. Users Don't Feel It. Zhang Kuo on Accio Work's 107 Tasks",
+    "guest": "Zhang Kuo",
+    "guest_role": "President, Alibaba.com / Accio Work",
+    "date": "2026-10-08",
+    "duration_minutes": 46,
+    "youtube_url": "https://www.youtube.com/watch?v=Fhx_qNS2P8g",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Fhx_qNS2P8g",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+      "fireside": "https://sv101.fireside.fm/269"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "BABA",
+    "AMZN",
+    "Private:OpenAI"
+  ],
+  "conclusion": "Yiwen has Zhang Kuo back six months after Accio Work. Coding agents around him are ~99% penetrated; business agents are early because the grade is not a compile. Search +20%, multimodal +130%. Sourcing now includes a design pack, supplier chat, and 'agentic trade.' They ran 107 live merchant tasks with no babysitter. Accio Work hits the same pass rate at about one-third the cost of Codex or Claude Code via a small post-trained Qwen. A useful merchant AI is one they can afford every day.",
+  "background": "Fireside E255. Second visit; March tape had Zhang preferring Claude Cowork to OpenClaw. Yiwen's question: leaderboards are near full marks, merchants do not feel it. Accio sits on Alibaba.com and 1688 — inbound to Amazon/Shopify/eBay or Taobao/JD/Douyin.",
+  "important_facts": [
+    "Two markets: coding agents are a solved penetration story (~99% of engineers he sees). Cowork is copy and calc; commerce is long-horizon, multi-data, and the score arrives in a week or a year. That is why elevator ads in China are full of office agents and why Zhang still says the vertical is early. Claude Cowork made the category noisy; Accio stays on the merchant. The tape is dated 2026; treat every cap and percent as of the recording, not as a 2027 model.",
+    "Product prints: search +20% overall, multimodal +130% — buyers now show the item, not just type it. Sourcing grew backward into market research and a design pack, then forward into supplier negotiation and close ('agentic trade'). Accio Work (April) tries to generalize those jobs. 107 tasks from live quotation-picking and shop work, run with no babysitter.",
+    "Cost: same 107-task pass rate, Accio Work about one-third of Codex / Claude Code, because a post-trained small Qwen is close enough to a frontier top model on the easy slice. Harness plus context still beats a raw frontier call. Zhang: only an AI a merchant can afford is a useful AI. Amazon/Shopify/eBay are the outbound shelves, not the thesis — BABA is the supply graph the agent sits on."
+  ],
+  "mental_model": {
+    "name": "Verifiable Coding × Unverifiable Commerce × Cheap Routing",
+    "components": "Coding is 99% penetrated because Git compiles. Commerce is early because the grade takes a month. Stretch search into a design pack and a close. Measure on 107 real tasks, not MMLU. Route easy work to a small post-trained Qwen until the bill is one-third of Claude Code. Multimodal +130% is the buyer-behavior print. Keep the method weekly: name the bottleneck (bandwidth, exam hours, token bill, trust, weather window) and only then pick the ticker. Numbers on this tape beat category slides. If the guest cannot price the unit — tokens, tasks, hectares, or a 40-yuan checkout — the mark is a story, not a position.",
+    "application": "BABA is Accio plus 1688/Alibaba.com — the graph the agent walks. AMZN is an outbound shelf, not the product. OpenAI/Anthropic show up as the expensive compare Accio is trying to under-price. Diligence merchant willingness to pay, not Elo. 107 tasks are the unit, not Elo. If a merchant cannot run the same jobs next month at a lower token bill, the +130% multimodal print is a search feature, not an agent company. One-third of Claude Code is the only multiple Zhang offers."
+  },
+  "key_insights": [
+    {
+      "view": "Coding is done; commerce is not.",
+      "question": "Why the 99% line?",
+      "answer": "Code is digital and verifiable. A sourcing win is judged in a week or a year."
+    },
+    {
+      "view": "Buyers now show the SKU.",
+      "question": "What moved?",
+      "answer": "Search +20%, multimodal +130%. Then research, design pack, supplier chat, close."
+    },
+    {
+      "view": "One-third the token bill.",
+      "question": "How do 107 tasks change the stack?",
+      "answer": "Same pass rate as Codex/Claude Code at ~1/3 cost via small post-trained Qwen."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "BABA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Accio on Alibaba.com/1688, +130% multimodal, 107-task cost at 1/3 of Claude Code — medium"
+    },
+    {
+      "ticker": "AMZN",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Outbound shelf for the same merchants, not the agent — low"
+    }
+  ],
+  "golden_quotes": [
+    "Coding的市场渗透率我估计有99%",
+    "多模态搜索涨130%",
+    "Accio Work的成本是三分之一"
+  ],
+  "chronology": {
+    "subject": "Accio Work · 107 tasks · token routing",
+    "events": [
+      {
+        "date": "2026-03",
+        "event": "Zhang's first SV101; Accio Work launch; prefers Cowork to OpenClaw"
+      },
+      {
+        "date": "2026-04",
+        "event": "Accio Work pushed to generalize merchant jobs"
+      },
+      {
+        "date": "2026",
+        "event": "Search +20%, multimodal +130%; 107-task bench"
+      },
+      {
+        "date": "2026-10-08",
+        "event": "SV101 E255 airs"
+      },
+      {
+        "date": "2026",
+        "event": "Cost ~1/3 of Codex/Claude Code on same pass rate"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window SV101 E255 Accio",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube-zh-sv101-ep255",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

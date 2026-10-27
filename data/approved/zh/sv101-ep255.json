@@ -1,0 +1,108 @@
+{
+  "episode_id": "sv101-ep255",
+  "podcast": "硅谷101",
+  "host": "Yiwen",
+  "metadata": {
+    "episode_number": 255,
+    "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
+    "guest": "张阔",
+    "guest_role": "阿里国际站总裁 / Accio Work",
+    "date": "2026-10-08",
+    "duration_minutes": 46,
+    "youtube_url": "https://www.youtube.com/watch?v=Fhx_qNS2P8g",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Fhx_qNS2P8g",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+      "fireside": "https://sv101.fireside.fm/269"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "BABA",
+    "AMZN",
+    "Private:OpenAI"
+  ],
+  "conclusion": "Yiwen时隔半年再访张阔。他身边写代码的Agent渗透大约99%；办公/商务Agent才刚开始，因为结果不是一次编译。Alibaba.com搜索+20%，多模态搜索+130%。询盘往前伸到调研和设计文档，往后伸到和工厂聊天、成交，他们叫agentic trade。他们从真生意里整理107个任务，无人值守跑完。同样通过率，Accio Work大约是Codex或Claude Code的三分之一成本，简单活路由给后训练过的小尺寸千问。商家用得起的AI才是有价值的AI。",
+  "background": "Fireside E255。第二次来；3月那期张阔觉得Claude Cowork比OpenClaw更值得看。Yiwen的问题：榜单快满分，商家没有同等体感。Accio坐在Alibaba.com和1688上——进货去Amazon/Shopify/eBay或淘宝京东抖音。",
+  "important_facts": [
+    "两个市场：编码Agent在他眼里大约99%渗透。Cowork还是文案和计算；电商是长程、多数据，分数按一周或一年计。所以中国电梯里全是办公Agent，张阔仍说垂直才开始。Claude Cowork把赛道炒热；Accio仍盯商家。",
+    "产品打印：搜索整体+20%，多模态+130%——买家开始展示商品，不只打字。询盘往回长出市场调研和设计文档，往前长到谈工厂和成交。4月的Accio Work想把这些活泛化。107个任务来自真报价单和店铺活，没有人盯着跑。",
+    "成本：同样107个任务通过率，Accio Work大约是Codex/Claude Code的三分之一，因为后训练过的小千问在简单切片上已经接近头部。Harness加context仍好过生调用。张阔：用得起才有价值。Amazon/Shopify/eBay是出货货架，论点是BABA这张供应图。"
+  ],
+  "mental_model": {
+    "name": "可验证编码 × 不可验证生意 × 便宜路由",
+    "components": "编码99%渗透因为Git能编译。商务早因为分数要一个月。把搜索拉成设计文档和成交。用107个真任务量，不用MMLU。简单活路由给小尺寸后训练千问，直到账单是Claude Code的三分之一。多模态+130%是买家行为打印。",
+    "application": "BABA是Accio加1688/Alibaba.com。AMZN是出货货架。OpenAI/Anthropic是Accio想压过的贵比较。尽调商家愿付，不看Elo。"
+  },
+  "key_insights": [
+    {
+      "view": "编码做完了，商务没有。",
+      "question": "99%那句是什么意思？",
+      "answer": "代码是数字的、可验证的。一单询盘的输赢按一周或一年算。"
+    },
+    {
+      "view": "买家开始展示SKU。",
+      "question": "什么变了？",
+      "answer": "搜索+20%，多模态+130%。然后调研、设计文档、聊工厂、成交。"
+    },
+    {
+      "view": "Token账单的三分之一。",
+      "question": "107个任务改了什么栈？",
+      "answer": "同样通过率，成本大约是Codex/Claude Code的1/3，靠小尺寸后训练千问。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "BABA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Accio on Alibaba.com/1688, +130% multimodal, 107-task cost at 1/3 of Claude Code — medium"
+    },
+    {
+      "ticker": "AMZN",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Outbound shelf for the same merchants, not the agent — low"
+    }
+  ],
+  "golden_quotes": [
+    "Coding的市场渗透率我估计有99%",
+    "多模态搜索涨130%",
+    "Accio Work的成本是三分之一"
+  ],
+  "chronology": {
+    "subject": "Accio Work · 107 tasks · token routing",
+    "events": [
+      {
+        "date": "2026-03",
+        "event": "Zhang's first SV101; Accio Work launch; prefers Cowork to OpenClaw"
+      },
+      {
+        "date": "2026-04",
+        "event": "Accio Work pushed to generalize merchant jobs"
+      },
+      {
+        "date": "2026",
+        "event": "Search +20%, multimodal +130%; 107-task bench"
+      },
+      {
+        "date": "2026-10-08",
+        "event": "SV101 E255 airs"
+      },
+      {
+        "date": "2026",
+        "event": "Cost ~1/3 of Codex/Claude Code on same pass rate"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 硅谷101 E255",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube-zh-sv101-ep255",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

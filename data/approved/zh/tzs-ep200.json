@@ -1,0 +1,114 @@
+{
+  "episode_id": "tzs-ep200",
+  "podcast": "投资实战派",
+  "host": "永庆 & David",
+  "metadata": {
+    "episode_number": 200,
+    "title": "E200 Ai芯片、中国算力和《昇腾崛起》 | 永庆对话方兴东",
+    "guest": "方兴东",
+    "guest_role": "浙大教授 · 《昇腾崛起》作者",
+    "date": "2026-09-20",
+    "duration_minutes": 92,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6aaf91e20916f6f8b4462bd3"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Huawei",
+    "0981.HK",
+    "NVDA"
+  ],
+  "conclusion": "永庆请方兴东讲昇腾——2019年科技战开写的华为六款产品系列第三本。名单是鸿蒙、欧拉、高斯数据库、麒麟、昇腾、鲲鹏。当时估五年、大约300人访谈到2024；现在变成八年、大约500次两小时、他自己谈。欧拉2023，鸿蒙去年，昇腾今年；鲲鹏从2020年往后滑。昇腾2017年立项，挨着4G/5G。徐直军的话：他掌握更完整的信息，所以不慌。英伟达仍是全球比较；中芯是被制裁的厂。六本出齐之前方不说卡脖子解决了。",
+  "background": "E200，8月27日录。永庆把国产模型追赶、DeepSeek类论文、张小珺4–5小时Lindon访谈接到算力拐点。方：互联网30年，现浙大传媒院长，仍在写工厂。Whisper把昇腾/华为听成生疼/华围——金句用听得见的串。",
+  "important_facts": [
+    "系列：2019年，徐直军（20年朋友）和方放下芯片路线书，改成六款卡脖子——三软件（鸿蒙、欧拉、高斯）加三硅（麒麟、昇腾、鲲鹏）。计划五年到2024，每本大约50人、一共大约300人。现实：第一本欧拉2023；鸿蒙去年；昇腾今年；鲲鹏原定2020因半导体制裁往后，也许年底；高斯和麒麟明年。访谈走向大约500次、每次大约两小时、方自己谈。五年变八年。他仍觉得2019年对这六款的方向判断对。",
+    "昇腾：大约2017年立项，挨着4G/5G爬坡。方把它读成国产算力崛起的旗，不是手机SoC。麒麟是手机，鲲鹏是服务器CPU，昇腾是美国真能切断的训练/推理。口播1%公司是华为的伙伴切片。徐直军「我掌握比较完整的信息」是他没加入2019年公司内部前景的原因。方惊讶的是六年情绪平稳。",
+    "书边上的栈：国产模型在缩小差距；论文和张小珺4–5小时机器人访谈是其他2026节点。中芯（0981.HK）是点名的受制裁代工。英伟达是他们买不到的顶部。六本出齐之前方不说封锁结束——鸿蒙访谈那年他说自己像农民。30年互联网再加院长椅是作者简历，不是交易台。"
+  ],
+  "mental_model": {
+    "name": "六款卡脖子 × 访谈时钟 × 算力拐点",
+    "components": "选出美国真能切断的六样。用访谈计时，不用通稿——计划300，现在大约500还在加，每次两小时。软件加三颗芯片。昇腾2017是AI裸片；鲲鹏因为厂滑了。五年乐观变八年。徐的全信息冷静是文化打印。英伟达是缺的档；中芯是受限的厂。最后一本书之前不要标「解决了」。",
+    "application": "华为是私募。0981.HK是鲲鹏延期旁边的受制裁厂。NVDA是买不到的档。尽调六款时钟，不要尽调DeepSeek那一周的标题。方的500次访谈是史料，不是仓位。"
+  },
+  "key_insights": [
+    {
+      "view": "六款产品，不是一颗芯片。",
+      "question": "2019年赌什么？",
+      "answer": "鸿蒙、欧拉、高斯、麒麟、昇腾、鲲鹏。五年/约300次变成八年/约500次。"
+    },
+    {
+      "view": "昇腾是2017年的算力旗。",
+      "question": "为什么是这本书？",
+      "answer": "项目坐在4G/5G上。模型在追。鲲鹏被制裁拖住。"
+    },
+    {
+      "view": "徐不慌是因为他有档案。",
+      "question": "文化打印是什么？",
+      "answer": "完整信息对上局部前景。方六年后仍惊讶。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "0981.HK",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Sanctioned fab next to the Kunpeng slip — the factory half of Fang's six — low"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Still the top bin China cannot buy; Ascend is the substitute clock, not a 2026 replacement — medium"
+    }
+  ],
+  "golden_quotes": [
+    "2019年科技战发生了",
+    "六款产品",
+    "大概500人的反弹"
+  ],
+  "chronology": {
+    "subject": "Huawei six products · Ascend book",
+    "events": [
+      {
+        "date": "2017",
+        "event": "Ascend project; 4G/5G ramp"
+      },
+      {
+        "date": "2019",
+        "event": "Tech war; six-product book plan, ~300 interviews / 5 years"
+      },
+      {
+        "date": "2023",
+        "event": "Euler book first"
+      },
+      {
+        "date": "2025",
+        "event": "Harmony book"
+      },
+      {
+        "date": "2026",
+        "event": "Ascend book; Kunpeng still slipping"
+      },
+      {
+        "date": "2026-08-27",
+        "event": "E200 taping"
+      },
+      {
+        "date": "2026-09-20",
+        "event": "E200 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 投资实战派 E200",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

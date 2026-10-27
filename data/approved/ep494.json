@@ -1,0 +1,128 @@
+{
+  "episode_id": "ep494",
+  "podcast": "Invest Like the Best",
+  "host": "Patrick O'Shaughnessy",
+  "metadata": {
+    "episode_number": 494,
+    "title": "Andrew Huberman — The Frontier of Neurotechnology",
+    "guest": "Andrew Huberman",
+    "guest_role": "Stanford neuroscientist · Huberman Lab",
+    "date": "2026-10-06",
+    "duration_minutes": 72,
+    "youtube_url": "https://www.youtube.com/watch?v=_QSX3BF9UX0",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=_QSX3BF9UX0",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/invest-like-the-best-with-patrick-o-shaughnessy/id1154105909"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "META",
+    "Private:Neuralink",
+    "Private:EightSleep"
+  ],
+  "conclusion": "Huberman's tape is not another sleep protocol. Meta, OpenAI, and Anthropic are, in his view, future biotech firms whose real race is reading and writing the brain without opening the skull. Sleep is the on-ramp: an MIT eye mask 7–12 months out already drives extraocular muscles and lifts REM; Eight Sleep already writes via temperature. A penny-sized vagal stimulator sits under the neck; he gives it 12 months before about 20% of the founder class asks for one. Caffeine, GLP-1s, and Adderall are blunt. The health circus is a clown show; 2027–28 should get quieter.",
+  "background": "Patrick has Huberman on energy, downshifting, and then the thing he has not talked about as much: non-invasive read/write on the nervous system. Topics: sleep skill (thoughts, heart rate, proprioception), an MIT REM mask, Eddie Chang at UCSF, Neuralink's Matt McDougall, GLP-1s, He Jiankui, and why Sam, Zuck, Dario, and Elon are the athletes of brain exploration.",
+  "important_facts": [
+    "Energy and sleep: Elon is the apex of multi-company output and 4–5 hours; copying that is ridiculous. Huberman is great at 7 hours, groggy at 8, fine at 6, one night of 5 is survivable, two nights of 4-to-0 craters him. Grad school was 80–100 hour weeks; first four years of a company is don't die. Downshift: turn thoughts off via sensation, slow the heart with long exhales, forget limb position. An MIT group built an eye mask that measures REM directly — Whoop, Aura, and Eight Sleep do not — and stimulates extraocular muscles from behind the ears. He tried it; 7–12 months from release. Eight Sleep already changes temperature through the night to buy more REM or deep.",
+    "Read/write race: anyone who thinks Meta, OpenAI, and Anthropic are only LLM companies will be surprised — every one becomes a biotech firm whose goal is to read and write the brain non-invasively. Eddie Chang (UCSF neurosurgery chair) maps speech in awake tumor cases and gets locked-in patients talking from planning areas, not the larynx. Neuralink's Matt McDougall sat in the lab; he and his wife have a receiver under the skin to open their door. Deisseroth ramped vagus stim on a suicidally depressed patient who, in the same conversation, felt able to apply for a job. A stimulator smaller than a penny goes under the neck; he guesses that within 12 months about 20% of the founder class will ask for one if it is only as invasive as a piercing. fMRI and EEG stay on the surface. Mayford and Tonegawa: activate tagged neurons in reverse, or all at once, and the animal still does the behavior — textbooks said sequence mattered.",
+    "Blunt tools to specific ones, and the circus: GLP-1s bind hypothalamic appetite circuits and work when you ramp levels about a thousandfold; they also cut other drives, which is why Sam Altman talked about backing off. About 90% of adults drink caffeine. SSRIs helped clinical OCD and were over-prescribed for depression. He Jiankui announced CRISPR twins with the HIV receptor deleted; China punished him; Huberman has heard he now has a lab in Austin. Whole-body MRI, his medical friends tell him, will be commonplace in about 20 months. Public health talk is a clown show; easy to get attention, hard to keep respect. He expects a 2027–28 lull, then trained MDs and PhDs. Protocols is the book of things he already knows; waking states are next."
+  ],
+  "mental_model": {
+    "name": "Sleep On-Ramp × Non-Invasive Write × Blunt-to-Specific",
+    "components": "Know your sleep need; do not copy Elon's 4–5 hours. The skill that hard-chargers lack is shutting thoughts off, dropping heart rate, and losing proprioception — rocking, eye-mask stim, Eight Sleep temperature. Labs that look like LLM companies (Meta, OpenAI, Anthropic) plus Neuralink are in a race to read and write the nervous system without a craniotomy. Sleep is where the public will accept it first. Pharmacology and caffeine are blunt because receptors sit everywhere; the field is moving to spatial and temporal tags (virus plus hat, AND-gate pill, vagus under the skin). Memory sequence may not matter, which both helps and scares writers-to-brain. Health Twitter is theatrics; 2027–28 should thin the clowns.",
+    "application": "META is the named public that he says becomes a biotech company; Zuck is in his big four of brain athletes with Sam, Dario, and Elon. Private:Neuralink is the invasive pole (McDougall, locked-in speech, door implant) against the non-invasive hat/ultrasound path. Private:EightSleep is the product already writing to the nervous system via temperature and the contrast with Whoop/Aura, which do not measure REM. Do not treat GLP-1s as clean motivation drugs. Do not fade sleep hardware because the discourse looks kooky — he thinks the serious wave is next."
+  },
+  "key_insights": [
+    {
+      "view": "The labs are biotech companies.",
+      "question": "What is the real AI race?",
+      "answer": "Read and write the brain without opening the skull. Meta, OpenAI, Anthropic, plus Elon and Neuralink. Sleep is the socially acceptable on-ramp."
+    },
+    {
+      "view": "Shut-off is the scarce skill.",
+      "question": "What actually limits the greats?",
+      "answer": "Not another workout. Thoughts, heart rate, proprioception. MIT mask in 7–12 months; Eight Sleep already writes with temperature."
+    },
+    {
+      "view": "Blunt first, then specific.",
+      "question": "Caffeine or a cap?",
+      "answer": "90%+ drink coffee; GLP-1s at ~1000x quiet more than hunger. The next devices tag neurons. He Jiankui is the ethics warning."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "META",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named LLM name he says becomes a biotech company; Zuck is in the four athletes of brain exploration — low"
+    },
+    {
+      "ticker": "Private:Neuralink",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "McDougall, Chang-adjacent speech work, under-skin implants; the invasive pole of the read/write race — low"
+    },
+    {
+      "ticker": "Private:EightSleep",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Already writes to the nervous system via night temperature for REM/deep; contrast with Whoop/Aura, which do not measure REM — low"
+    }
+  ],
+  "golden_quotes": [
+    "Every single one of those is going to be a biotech company.",
+    "The goal is to be able to read and write from your brain non-invasively.",
+    "It's very easy to get attention. It's very hard to keep respect."
+  ],
+  "chronology": {
+    "subject": "Neurotech · sleep · labs as biotech",
+    "events": [
+      {
+        "date": "Grad school",
+        "event": "80–100 hour weeks; 8 first-author papers after switching to Chapman lab"
+      },
+      {
+        "date": "Last 30–40 yrs",
+        "event": "Neuroscience mostly read from the nervous system"
+      },
+      {
+        "date": "He Jiankui",
+        "event": "CRISPR twins, HIV receptor; later rumor of Austin lab"
+      },
+      {
+        "date": "Now",
+        "event": "Eight Sleep temperature write; Whoop/Aura no direct REM"
+      },
+      {
+        "date": "7–12 months",
+        "event": "MIT extraocular REM mask targeted for release"
+      },
+      {
+        "date": "12 months",
+        "event": "~20% of founder class may ask for under-skin vagal stim"
+      },
+      {
+        "date": "~20 months",
+        "event": "Whole-body MRI commonplace, per his medical friends"
+      },
+      {
+        "date": "2027–28",
+        "event": "Expected lull in public health/optimization talk"
+      },
+      {
+        "date": "2026-10-06",
+        "event": "ILTB EP.494 Huberman"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly ILTB Huberman",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+ep494",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

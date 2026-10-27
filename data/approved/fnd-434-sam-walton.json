@@ -1,0 +1,120 @@
+{
+  "episode_id": "fnd-434-sam-walton",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 434,
+    "title": "#434 Sam Walton",
+    "guest": "Sam Walton",
+    "guest_role": "Solo biography (Vance Trimble / how he worked)",
+    "date": "2026-09-21",
+    "duration_minutes": 49,
+    "youtube_url": "https://www.youtube.com/watch?v=dAx0W29-FWE",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=dAx0W29-FWE",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "WMT",
+    "JCP",
+    "TGT"
+  ],
+  "conclusion": "Senra uses Vance Trimble's 40-year-old Sam Walton — written before Made in America — as a how-he-worked tape, not a childhood bio. The 1980s public discovers the richest American is an Arkansas five-and-dime man, not a Rockefeller. JCPenney in 1940 (1,500 stores, $300 million) teaches small-town satisfaction and wrap-the-box thrift. Newport is stolen by the landlord. He starts again. Saturday mornings, store walks, and borrowed ideas become Walmart.",
+  "background": "Fourth or fifth pass on Trimble. Senra skips early life and stays on method: Penney, the lost Newport store, pilots, Saturday meetings, and copying anyone who sells cheaper. Themes: ordinary surface, maniac underneath, small towns first.",
+  "important_facts": [
+    "Surface and school: reporters in the early 1980s find the richest man in America is not Rockefeller, DuPont, Trump, Kennedy, Getty, or Perot but an unglamorous guy from Arkansas. Depression Missouri, college, WWII stateside, Oklahoma banker's daughter, first five-and-dime in north-central Arkansas, four kids. At JCPenney in 1940 the chain has over 1,500 stores and $300 million in sales. John Cash Penney, then 65, watches Sam wrap a box and rewrap it with less paper. Customer satisfaction ahead of profits. Strength is small towns — the map Walmart later copies. Sam will wander stores the way Penney wandered his.",
+    "Newport and restart: he builds a Ben Franklin into the best in the region, then the landlord and family steal the location. He finds the store and cannot buy the building. Personality: my store will be here anyway. He takes the lesson and the money to a new town and does it again. Tiny stores first. The first five-and-dime is a farming-town box, not a city flagship. Managers must know their numbers. He spends days walking competitors. Ideas that later put billions on the scoreboard start as sidewalk traffic tricks and borrowed discount math.",
+    "How he worked: fly himself, Saturday morning meetings, steal any merchandising idea that moves goods, stay in small towns until the map is dense, then hit the cities. Trimble is almost 40 years old and predates the official autobiography — Senra wants the working habits, not the myth polish. Kmart and the catalog giants are the named rivals he studies in person. The richest-man reveal is the punchline; the method is the product."
+  ],
+  "mental_model": {
+    "name": "Small-Town Density × Steal the Idea × Saturday Morning",
+    "components": "Look ordinary. Work like a maniac. Learn wrapping paper from the 65-year-old founder. Lose the building and start again. Put managers on numbers. Walk the other guy's aisle. Saturday is for the system, not rest. Density in forgotten towns beats a flagship. Autobiography is later; habits are now. Keep the method boring enough to repeat every week. Numbers in the room beat stories in the hallway. The founder who will not walk the floor, make the tenth call, or rewrite the Saturday software is already the cartel.",
+    "application": "WMT is the named compounder: small-town first, Penney's 1,500-store map inverted. JCP is the 1940 classroom ($300M, 1,500 stores, wrap the box). TGT is the later city-discount foil he would have walked. Fade 'ordinary Arkansas' as the thesis. Size any retailer that will not walk stores on Saturday as already losing."
+  },
+  "key_insights": [
+    {
+      "view": "Ordinary is the disguise.",
+      "question": "Who was the richest American?",
+      "answer": "Not Rockefeller. An Arkansas five-and-dime man the press had not noticed until the early 1980s."
+    },
+    {
+      "view": "Lose the building, keep the method.",
+      "question": "What did Newport teach?",
+      "answer": "The landlord can take the lease. He cannot take the Saturday walks or the small-town map."
+    },
+    {
+      "view": "Penney at 65 is the teacher.",
+      "question": "What did the 1940 job pay in ideas?",
+      "answer": "1,500 stores, $300 million, less wrapping paper, satisfaction before profit, wander the floor."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "WMT",
+      "direction": "Long",
+      "confidence": "Medium",
+      "thesis": "Small-town density plus stolen ideas plus Saturday operating system; Trimble's how-he-worked tape — medium"
+    },
+    {
+      "ticker": "JCP",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "1940 classroom: 1,500 stores, $300M, Penney rewrapping the box; not a turnaround print — low"
+    },
+    {
+      "ticker": "TGT",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named later discount foil of the city map he would have walked — low"
+    }
+  ],
+  "golden_quotes": [
+    "Pretty darned ordinary, but only on the surface.",
+    "Sam Walton underneath was no ordinary man.",
+    "Boys, I want to show you something."
+  ],
+  "chronology": {
+    "subject": "Penney · Newport · Saturday OS",
+    "events": [
+      {
+        "date": "Depression",
+        "event": "Missouri childhood; works through college"
+      },
+      {
+        "date": "WWII",
+        "event": "Stateside service"
+      },
+      {
+        "date": "1940",
+        "event": "JCPenney: 1,500 stores, $300M; Penney wraps the box"
+      },
+      {
+        "date": "Newport",
+        "event": "Best Ben Franklin; landlord takes the building"
+      },
+      {
+        "date": "Restart",
+        "event": "New town, same method, tiny stores first"
+      },
+      {
+        "date": "Early 1980s",
+        "event": "Press discovers the richest American"
+      },
+      {
+        "date": "2026-09-21",
+        "event": "Founders #434"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 weekly Founders Walton",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube/auto+fnd-434",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

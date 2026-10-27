@@ -1,0 +1,355 @@
+{
+  "feeds": {
+    "ILTB": "https://feeds.megaphone.fm/CLS2859450455",
+    "Acquired": "https://feeds.transistor.fm/acquired",
+    "Founders": "https://feeds.megaphone.fm/DSLLC6297708582",
+    "BB": "https://feeds.megaphone.fm/breakdowns",
+    "ZJ": "https://feed.xyzfm.space/dk4yh3pkpjp3",
+    "TZS": "https://feed.xyzfm.space/rgnq4rbx9tpv",
+    "SV101": "https://feeds.fireside.fm/sv101/rss"
+  },
+  "episodes": {
+    "ILTB": [
+      {
+        "date": "2026-10-27",
+        "title": "Cliff Sosin - Owning the Complements to Intelligence - [Invest Like the Best, EP.497]",
+        "duration": 60,
+        "audio": "https://traffic.megaphone.fm/CLS5603610979.mp3",
+        "link": "https://colossus.com/episode/the-limits-of-intelligence/",
+        "guid": "8b3e3192-d1c1-11f1-979a-77ed8e9f0194"
+      },
+      {
+        "date": "2026-10-20",
+        "title": "Christina Cacioppo - Building an Enduring Software Company in the Age of AI - [Invest Like the Best, EP.496]",
+        "duration": 57,
+        "audio": "https://traffic.megaphone.fm/CLS1049065818.mp3",
+        "link": "https://colossus.com/episode/becoming-a-category-winner/",
+        "guid": "5d4b6646-cc2c-11f1-b83e-6fbc19058151"
+      },
+      {
+        "date": "2026-10-13",
+        "title": "David Vélez - Building Nubank and the Future of Global Banking - [Invest Like the Best, EP.495]",
+        "duration": 71,
+        "audio": "https://traffic.megaphone.fm/CLS2134103794.mp3",
+        "link": "https://colossus.com/episode/david-v-goliath/",
+        "guid": "4bab0140-c690-11f1-ba93-9ff1cc3f5ef5"
+      },
+      {
+        "date": "2026-10-06",
+        "title": "Andrew Huberman - The Frontier of Neurotechnology - [Invest Like the Best, EP.494]",
+        "duration": 72,
+        "audio": "https://traffic.megaphone.fm/CLS1239827470.mp3",
+        "link": "http://colossus.com/episode/reading-and-writing-the-brain/",
+        "guid": "641962f4-bdcf-11f1-899d-0759b6038cac"
+      },
+      {
+        "date": "2026-09-28",
+        "title": "Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493]",
+        "duration": 71,
+        "audio": "https://traffic.megaphone.fm/CLS4620503535.mp3",
+        "link": "https://colossus.com/episode/instinct-the-personal-agent/",
+        "guid": "72db537c-bb24-11f1-805d-739c8a3d8d83"
+      },
+      {
+        "date": "2026-09-22",
+        "title": "Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492]",
+        "duration": 64,
+        "audio": "https://traffic.megaphone.fm/CLS7922860814.mp3",
+        "link": "",
+        "guid": "ea3567a0-b511-11f1-b31a-f738f618d5f9"
+      },
+      {
+        "date": "2026-09-16",
+        "title": "Michael Moritz - Lessons From 40 Years of Investing and Writing - [Invest Like the Best, EP.491]",
+        "duration": 72,
+        "audio": "https://traffic.megaphone.fm/CLS6587705018.mp3",
+        "link": "https://colossus.com/episode/the-outsider/",
+        "guid": "87191ece-b17d-11f1-82f8-a3ebc660a3bc"
+      },
+      {
+        "date": "2026-09-08",
+        "title": "Walter Russell Mead - How America Keeps Winning - [Invest Like the Best, EP.490]",
+        "duration": 78,
+        "audio": "https://traffic.megaphone.fm/CLS4316656997.mp3",
+        "link": "https://colossus.com/episode/god-gold-silicon/",
+        "guid": "15a690ac-ab0e-11f1-b645-033fb2279e5b"
+      },
+      {
+        "date": "2026-09-01",
+        "title": "Sarah Guo - Funding the Frontier - [Invest Like the Best, EP.489]",
+        "duration": 59,
+        "audio": "https://traffic.megaphone.fm/CLS7890997457.mp3",
+        "link": "https://colossus.com/episode/no-priors-just-conviction/",
+        "guid": "987a3d0c-a547-11f1-907d-e7244a2569a6"
+      }
+    ],
+    "Acquired": [
+      {
+        "date": "2026-10-18",
+        "title": "Seinfeld",
+        "duration": 230,
+        "audio": "https://pscrb.fm/rss/p/media.transistor.fm/96a5f313/515377c5.mp3",
+        "link": "https://www.acquired.fm/episodes/seinfeld",
+        "guid": "9c3ce276-af3c-49a3-9d45-94b784b9c6a5"
+      },
+      {
+        "date": "2026-09-13",
+        "title": "The Home Depot",
+        "duration": 215,
+        "audio": "https://pscrb.fm/rss/p/media.transistor.fm/8ecb4ed4/568b6b7a.mp3",
+        "link": "https://www.acquired.fm/episodes/home-depot",
+        "guid": "68b66323-6e74-4c90-8157-ef3f1ed0d042"
+      }
+    ],
+    "Founders": [
+      {
+        "date": "2026-10-26",
+        "title": "#438 James Garfield's Extraordinary Rise",
+        "duration": 38,
+        "audio": "https://traffic.megaphone.fm/DSLLC9614527488.mp3",
+        "link": "",
+        "guid": "ac362fae-d0e9-11f1-aaaa-bb1e5f76cf23"
+      },
+      {
+        "date": "2026-10-13",
+        "title": "#437 The Tycoons: Carnegie, Rockefeller, Gould & Morgan",
+        "duration": 54,
+        "audio": "https://traffic.megaphone.fm/DSLLC2102531802.mp3",
+        "link": "",
+        "guid": "333ce5c4-c75d-11f1-a31e-7bbfecdd098c"
+      },
+      {
+        "date": "2026-10-05",
+        "title": "#436 Ari Emanuel's Autobiography",
+        "duration": 69,
+        "audio": "https://traffic.megaphone.fm/DSLLC5030588491.mp3",
+        "link": "",
+        "guid": "0a19dd5c-c071-11f1-ac8e-8b757b22b3b7"
+      },
+      {
+        "date": "2026-09-28",
+        "title": "#435 Mark Zuckerberg's Empire",
+        "duration": 41,
+        "audio": "https://traffic.megaphone.fm/DSLLC8986910456.mp3",
+        "link": "",
+        "guid": "6db0368a-baeb-11f1-ab5d-0fa3b3dd96cd"
+      },
+      {
+        "date": "2026-09-21",
+        "title": "#434 Sam Walton",
+        "duration": 49,
+        "audio": "https://traffic.megaphone.fm/DSLLC1116428270.mp3",
+        "link": "",
+        "guid": "a9a4ff62-b556-11f1-b65b-9b42dbe957f1"
+      },
+      {
+        "date": "2026-09-14",
+        "title": "#433 How Michael Bloomberg Works",
+        "duration": 48,
+        "audio": "https://traffic.megaphone.fm/DSLLC7209633121.mp3",
+        "link": "",
+        "guid": "d0c3c534-b069-11f1-bc61-4345073b86a6"
+      },
+      {
+        "date": "2026-09-05",
+        "title": "#432 The Mind of Napoleon",
+        "duration": 55,
+        "audio": "https://traffic.megaphone.fm/DSLLC8997503523.mp3",
+        "link": "https://www.founderspodcast.com/",
+        "guid": "6da070c2-a945-11f1-9294-0b8c75e1a778"
+      },
+      {
+        "date": "2026-08-31",
+        "title": "#431 How Henry Singleton Worked",
+        "duration": 49,
+        "audio": "https://traffic.megaphone.fm/DSLLC6578475076.mp3",
+        "link": "",
+        "guid": "66440888-a4dc-11f1-9ad2-4b47c594a56f"
+      }
+    ],
+    "BB": [
+      {
+        "date": "2026-10-22",
+        "title": "Affirm: The Internet’s American Express - [Business Breakdowns, EP.249]",
+        "duration": 71,
+        "audio": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/CLS7299533905.mp3",
+        "link": "https://colossus.com/episode/affirm-the-internets-american-express",
+        "guid": "e72c1768-cdba-11f1-8240-b3cccf45dcda"
+      }
+    ],
+    "ZJ": [
+      {
+        "date": "2026-10-21",
+        "title": "155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻",
+        "duration": 120,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6ad4dacd641ef406308d86e5?utm_source=rss",
+        "guid": "6ad4dacd641ef406308d86e5"
+      },
+      {
+        "date": "2026-10-15",
+        "title": "154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明",
+        "duration": 171,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6acf81f0195d838e2af1e281/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lssO9j-p6L7ZGWAwhIB14zJXksFQ.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6acf81f0195d838e2af1e281?utm_source=rss",
+        "guid": "6acf81f0195d838e2af1e281"
+      },
+      {
+        "date": "2026-09-03",
+        "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+        "duration": 154,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee6b03ea5b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luZvhPtdKotbkVR-SHFRKVVUiM2P.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6a97f287f03e74ee6b03ea5b?utm_source=rss",
+        "guid": "6a97f287f03e74ee6b03ea5b"
+      }
+    ],
+    "TZS": [
+      {
+        "date": "2026-10-25",
+        "title": "E206 中国金融大循环的转型、路径、投资机会 | 永庆对谈《置身业内》作者王礼",
+        "duration": 81,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/643cdf1ad3d94ec2ad39ae94/6adb5a5997726cd46756ae29/media.xyzcdn.net/643cdf1ad3d94ec2ad39ae94/ljE7kZ1T8C1-ZIwnkj8EOHwigYJy.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6adb5a5997726cd46756ae29?utm_source=rss",
+        "guid": "6adb5a5997726cd46756ae29"
+      },
+      {
+        "date": "2026-10-21",
+        "title": "E205 十年投资策略的实践、演变 | 永庆对谈前中欧基金经理罗佳明",
+        "duration": 114,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/643cdf1ad3d94ec2ad39ae94/6ad8f109b381c0fcba19c29c/media.xyzcdn.net/643cdf1ad3d94ec2ad39ae94/lgfjhJtqtu3kQJOrRrLxfzvyFV1w.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6ad8f109b381c0fcba19c29c?utm_source=rss",
+        "guid": "6ad8f109b381c0fcba19c29c"
+      },
+      {
+        "date": "2026-10-18",
+        "title": "E204  全球 1% 公司：福耀玻璃的护城河、战略选择 | 永庆对话汽车资深从业者 Yan",
+        "duration": 116,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/643cdf1ad3d94ec2ad39ae94/6ad44b890e4e410a05be8631/media.xyzcdn.net/643cdf1ad3d94ec2ad39ae94/liHHQ3QqZr7Jb-7WikPZcfQza_w3.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6ad44b890e4e410a05be8631?utm_source=rss",
+        "guid": "6ad44b890e4e410a05be8631"
+      },
+      {
+        "date": "2026-10-11",
+        "title": "E203 美妆行业真相：穿透业务、数据与财报 | David对话消费行业专家小Z",
+        "duration": 90,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/643cdf1ad3d94ec2ad39ae94/6acb86c2195d838e2af035d9/media.xyzcdn.net/643cdf1ad3d94ec2ad39ae94/lmvz6_uPKl-LbCl3w2uLB9icmD9x.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6acb86c2195d838e2af035d9?utm_source=rss",
+        "guid": "6acb86c2195d838e2af035d9"
+      },
+      {
+        "date": "2026-10-04",
+        "title": "E202 中国运动品牌四十年：李宁 vs 安踏 | 永庆对话《鞋帮》作者黄子懿",
+        "duration": 136,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/643cdf1ad3d94ec2ad39ae94/6ac06a35195d838e2aeccdab/media.xyzcdn.net/643cdf1ad3d94ec2ad39ae94/lrTKZwXWmOteycbHmsPtgift6KEL.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6ac06a35195d838e2aeccdab?utm_source=rss",
+        "guid": "6ac06a35195d838e2aeccdab"
+      },
+      {
+        "date": "2026-09-27",
+        "title": "E201 共识与筹码：从周期股到AI | David对谈小X老师",
+        "duration": 68,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/643cdf1ad3d94ec2ad39ae94/6ab51d2fe742e36efcbadf5d/media.xyzcdn.net/643cdf1ad3d94ec2ad39ae94/lmXluFMeZx55MrYJuQuGtqz0rTSF.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6ab51d2fe742e36efcbadf5d?utm_source=rss",
+        "guid": "6ab51d2fe742e36efcbadf5d"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "E200 Ai芯片、中国算力和《昇腾崛起》 | 永庆对话方兴东",
+        "duration": 92,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/643cdf1ad3d94ec2ad39ae94/6aaf91e20916f6f8b4462bd3/media.xyzcdn.net/643cdf1ad3d94ec2ad39ae94/lpCZjRC1-2NCg9sjrRKbwGHJkgTa.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6aaf91e20916f6f8b4462bd3?utm_source=rss",
+        "guid": "6aaf91e20916f6f8b4462bd3"
+      },
+      {
+        "date": "2026-09-13",
+        "title": "E199 AI投研的边界、能力与实战卡点 I David对话岗底斯首席 FDE",
+        "duration": 80,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/643cdf1ad3d94ec2ad39ae94/6aa3ce2f492687f6aad86b6d/media.xyzcdn.net/643cdf1ad3d94ec2ad39ae94/llF-m__lxigw0eAPF8HtbGu2Exux.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6aa3ce2f492687f6aad86b6d?utm_source=rss",
+        "guid": "6aa3ce2f492687f6aad86b6d"
+      },
+      {
+        "date": "2026-09-06",
+        "title": "E198 《资本回报》思维、关注聪明钱 | 永庆对谈戴斌",
+        "duration": 92,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/643cdf1ad3d94ec2ad39ae94/6a9d2c42f03e74ee6b05db4f/media.xyzcdn.net/643cdf1ad3d94ec2ad39ae94/lsR3FnJerTOlu5GZXQk0qbdUUHWj.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6a9d2c42f03e74ee6b05db4f?utm_source=rss",
+        "guid": "6a9d2c42f03e74ee6b05db4f"
+      },
+      {
+        "date": "2026-09-02",
+        "title": "E197 流派林立，我为何选了价值投资？心路历程分享 | 永庆串台自由 x 无用",
+        "duration": 65,
+        "audio": "https://dts-api.xiaoyuzhoufm.com/track/643cdf1ad3d94ec2ad39ae94/6a97fb86f03e74ee6b03ef89/media.xyzcdn.net/643cdf1ad3d94ec2ad39ae94/lhoK9uJByMD7BizO9GGaufqDxsPQ.m4a",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6a97fb86f03e74ee6b03ef89?utm_source=rss",
+        "guid": "6a97fb86f03e74ee6b03ef89"
+      }
+    ],
+    "SV101": [
+      {
+        "date": "2026-10-19",
+        "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+        "duration": 80,
+        "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e6e1db1-f30b-492d-8a09-d8756b9df700.mp3",
+        "link": "https://sv101.fireside.fm/270",
+        "guid": "9e6e1db1-f30b-492d-8a09-d8756b9df700"
+      },
+      {
+        "date": "2026-10-08",
+        "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
+        "duration": 46,
+        "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8fa0b58e-8359-4609-8e84-30c9a632df50.mp3",
+        "link": "https://sv101.fireside.fm/269",
+        "guid": "8fa0b58e-8359-4609-8e84-30c9a632df50"
+      },
+      {
+        "date": "2026-09-29",
+        "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+        "duration": 62,
+        "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0b644f51-461c-4ddb-b707-d2a39b9a7d80.mp3",
+        "link": "https://sv101.fireside.fm/268",
+        "guid": "0b644f51-461c-4ddb-b707-d2a39b9a7d80"
+      },
+      {
+        "date": "2026-09-27",
+        "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+        "duration": 58,
+        "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d.mp3",
+        "link": "https://sv101.fireside.fm/267",
+        "guid": "0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d"
+      },
+      {
+        "date": "2026-09-23",
+        "title": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人",
+        "duration": 55,
+        "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/833a6b89-e6a1-4d61-a3b3-46f4d664894e.mp3",
+        "link": "https://sv101.fireside.fm/266",
+        "guid": "833a6b89-e6a1-4d61-a3b3-46f4d664894e"
+      },
+      {
+        "date": "2026-09-17",
+        "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+        "duration": 36,
+        "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/78ec2d74-0ad7-4c6f-9764-728eec0e6e87.mp3",
+        "link": "https://sv101.fireside.fm/265",
+        "guid": "78ec2d74-0ad7-4c6f-9764-728eec0e6e87"
+      },
+      {
+        "date": "2026-09-15",
+        "title": "E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
+        "duration": 92,
+        "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/786d63c4-d46c-4ff3-80f8-fc895b2a57f0.mp3",
+        "link": "https://sv101.fireside.fm/264",
+        "guid": "786d63c4-d46c-4ff3-80f8-fc895b2a57f0"
+      },
+      {
+        "date": "2026-08-27",
+        "title": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
+        "duration": 77,
+        "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73a69583-98ee-43d6-a892-3e7c93012dd9.mp3",
+        "link": "https://sv101.fireside.fm/263",
+        "guid": "73a69583-98ee-43d6-a892-3e7c93012dd9"
+      }
+    ]
+  }
+}
