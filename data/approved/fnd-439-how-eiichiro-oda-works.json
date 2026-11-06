@@ -1,0 +1,124 @@
+{
+  "episode_id": "fnd-439-how-eiichiro-oda-works",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 439,
+    "title": "#439 How Eiichiro Oda Works",
+    "guest": "Eiichiro Oda",
+    "guest_role": "Creator of One Piece · no biography, interview file",
+    "date": "2026-11-04",
+    "duration_minutes": 33,
+    "youtube_url": "https://www.youtube.com/watch?v=WaxQXHi5Vuo",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=WaxQXHi5Vuo",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "NFLX",
+    "DIS",
+    "AAPL"
+  ],
+  "conclusion": "Senra builds Oda from interviews because there is no biography and almost no photographs. One Piece passed 600 million copies. Oda started it in July 1997 as a five-year story and is still in it approaching a 30th anniversary in 2027. The schedule is the method: a chapter every seven days, about three hours of sleep, every moving figure drawn by him. The only reader in his head is himself at 15. Netflix did not ship the live-action until he signed the scripts. He copied Disney's Little Mermaid frame by frame after an editor insulted his characters.",
+  "background": "Founders 439, Nov 4, about 33 minutes. Eric Glyman at Ramp kept texting Senra to do Oda. The mid-episode Ramp block — 5% average savings, a UK launch, ramp.com/invest — is a sponsor read, not the manga file. Senra spent a week in interviews. Oda is 51, started the life of a manga artist young, and will not be photographed.",
+  "important_facts": [
+    "Scale and the broken five-year plan. One Piece is the best-selling manga and comic series Senra cites, over 600 million copies, with a Guinness record for copies of one series by a single author. Serialization began in Weekly Shonen Jump in July 1997. Oda expected the adventure to last about five years. In a 2022 interview he said he had badly underestimated it. The original plan now runs toward a 30th anniversary in 2027, and he has repeatedly underestimated how much story is left. He is 51 on this tape. Published wealth guesses run from $250 million to $500 million, with $20 million to $40 million a year from the work. For the 600 million copy mark he wrote the truth of the treasure and of Luffy, split the page, and sank the revealing half in a chest on the seabed, to be raised when the manga ends.",
+    "The week and the sleep. A chapter has to move every seven days. Monday through Wednesday he writes story, dialogue, and rough boards. Thursday through Saturday he draws and finishes with assistants. Sunday is color, covers, and the rest. In a 2016 interview he described bed at 2:00 a.m. and wake at 5:00 a.m., held for roughly 15 years. An extra hour of sleep is an hour of work lost. Planning on four hours made him dread wasting that fourth hour. After a manuscript he allows one longer sleep. New ideas, he says, arrive only when he is tired and has skipped sleep and food, because that is when a person hits a limit. Assistants paint backgrounds. He draws people, animals, crowds, smoke, clouds, and the ocean himself, because another hand changes the moving line. He once stayed on the phone with an editor for 12 hours; the editor fell asleep. If the idea is not his, he does not want to draw it. They may criticize. They may not invent.",
+    "One reader, then the guard dog. The audience in his head is himself at 15. He does not know how other people feel, so awesome means what that boy would love. An early editor said the women were not attractive. Oda could not sleep, practiced all night, and advanced through hand-drawn Disney — The Little Mermaid — frame by frame. On the Netflix live-action he refused a handoff. Netflix agreed not to release until he called it satisfactory. He read scripts, gave notes, and called himself a guard dog."
+  ],
+  "mental_model": {
+    "name": "Fifteen-Year-Old Reader × Three-Hour Nights × Guard-Dog IP",
+    "components": "No biography, so the file is interviews. 600 million copies, Jump since July 1997, a five-year plan that became a 30th anniversary in 2027. The week is fixed: write Mon–Wed, draw Thu–Sat, color Sunday. Sleep is three hours, 2:00 a.m. to 5:00 a.m., for about 15 years; four hours already feels like waste; youth was two hours per 48, in 15-minute naps. He draws every moving mark. Editors criticize and do not invent. The only reader is Oda at 15, which Senra hears as Jobs on taste. Netflix waited for his signature. Disney's Little Mermaid was the frame-by-frame school after an insult. A chest on the seabed holds the ending until the manga ends. Wealth on the tape is $250–500 million and $20–40 million a year, displayed on purpose so younger artists see the prize.",
+    "application": "NFLX is the adapter that could not ship until the author signed. DIS is the animation school he copied, not the owner of One Piece. AAPL is Senra's explicit taste compare — Jobs to Moritz — not a manga multiple. Do not underwrite the Ramp sponsor read (5% savings, UK launch) as Oda's business. The operating fact is one person still drawing the moving line in year 28."
+  },
+  "key_insights": [
+    {
+      "view": "The five-year story is in year 28.",
+      "question": "What did 1997 assume?",
+      "answer": "July 1997 in Jump, done in about five years. By 2022 he said he had underestimated it. 600 million copies, and a 30th anniversary due in 2027."
+    },
+    {
+      "view": "Sleep is the scarce input he withholds.",
+      "question": "What is the night?",
+      "answer": "2:00 a.m. to 5:00 a.m. for about 15 years. A fourth hour feels like waste. Ideas show up at the limit, without sleep or food. He still draws every moving figure."
+    },
+    {
+      "view": "The live-action waited on one signature.",
+      "question": "What did Netflix agree?",
+      "answer": "No release until he was satisfied. He read scripts and acted as guard dog. Editors may criticize. They may not invent the plot."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NFLX",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Live-action shipped only after Oda signed the scripts; the author is still the guard dog — low"
+    },
+    {
+      "ticker": "DIS",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Little Mermaid was the frame-by-frame school after an editor insulted the characters, not the One Piece owner — low"
+    },
+    {
+      "ticker": "AAPL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Senra's Jobs/Moritz compare: taste starts with the product test, not the commercial brief — low"
+    }
+  ],
+  "golden_quotes": [
+    "Would the 15-year-old version of me think this is awesome?",
+    "Netflix agreed that they wouldn't go out with the show until I agreed it was satisfactory.",
+    "humans can only come up with truly new ideas when they reach their limit"
+  ],
+  "chronology": {
+    "subject": "Oda · One Piece · schedule",
+    "events": [
+      {
+        "date": "1997-07",
+        "event": "One Piece begins in Weekly Shonen Jump; five-year plan"
+      },
+      {
+        "date": "~2001–16",
+        "event": "2:00 a.m.–5:00 a.m. sleep held ~15 years by the 2016 interview"
+      },
+      {
+        "date": "2015",
+        "event": "Published week: write Mon–Wed, draw Thu–Sat, color Sunday"
+      },
+      {
+        "date": "2022",
+        "event": "Admits the five-year plan was badly short"
+      },
+      {
+        "date": "2020s",
+        "event": "600 million copies; ending page sunk in a seabed chest"
+      },
+      {
+        "date": "2020s",
+        "event": "Netflix live-action waits on his script sign-off"
+      },
+      {
+        "date": "2027",
+        "event": "Series approaches its 30th anniversary, still unfinished"
+      },
+      {
+        "date": "2026-11-04",
+        "event": "Founders 439 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window Founders 439",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube-auto",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

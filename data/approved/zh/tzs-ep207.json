@@ -1,0 +1,116 @@
+{
+  "episode_id": "tzs-ep207",
+  "podcast": "投资实战派",
+  "host": "永庆 & David",
+  "metadata": {
+    "episode_number": 207,
+    "title": "E207 永庆分享《股票投资实战派》、中美金融大循环对比",
+    "guest": "永庆",
+    "guest_role": "主播 · 《股票投资实战派》作者",
+    "date": "2026-10-28",
+    "duration_minutes": 97,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6ae1f123c96c8942ec13c18e"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "2899.HK",
+    "AAPL",
+    "600519.SZ"
+  ],
+  "conclusion": "永庆讲自己的书。大约2024年9月写完，9月24日政策之后股票书变挤，这本拖了一两年。大约3000本、40块，版税大约1万。写书是为了逼出系统，不是为了稿费。他把文件发给ChatGPT，模型说方法可以，缺的是组合和买卖。管别人的钱扛不住茅台跌10个点、AI涨50%。紫金是干净的拆法：2019年以来10倍，利润大约4倍，10倍里大约60%–70%是金属价格。美股上市公司从大约7000家减到5000家，中国仍用上市给转型融资。",
+  "background": "E207，10月28日，大约97分钟。永庆一个人讲书，再比中美金融循环。书是框架、方法和案例，不是世界观。他说这次分享大约75分钟。Whisper是繁体小模型。带子上的声明：不是推荐，历史不是未来。",
+  "important_facts": [
+    "书写完大约是2024年9月。9月24日政策之后，股票书热闹起来，这本非名作者的稿又拖了一两年。全网大约3000本，定价大约40元，版税15%–20%，大约1万元。知识星球一头1000元，更容易到10万。他仍然写，因为2024年上半年聊天工具还不强，手写能逼出财务、估值和商业模式。后来把文件发给ChatGPT。模型说方法论可以，没讲组合管理和买卖，眼睛停在个股，没看到组合。这小时要补的就是这个洞。",
+    "自己的钱可以熬三年不涨。别人的钱两个月就问。4月到6月问为什么不多配AI。8月问为什么不卖。他用的对照是AI涨了50%，茅台跌了10个点，持有的人显得很蠢。紫金是他复盘邓晓峰的案子：大约2019年买，到现在股价10倍，利润大约4倍。10倍里大约60%–70%是价格，大约40%是利润。去掉价格，差的六年持有仍然大约2到2.5倍，来自利润。苹果是倍数档案：增长偏软、账上净现金时买，一年利润他放到大约500亿美元，倍数从十几倍到三十几倍。价格、利润、倍数是三次不同的检查。单位利润从6万变成拍卖定价下的8千，模型就坏了。成本定价再一步步提价，才是舒服的路径。",
+    "两个循环。美股上市公司从大约7000家减到大约5000家。90年代以后门槛提高，一年退市三五百家，上市少于退出，市场像是来赚钱的。中国在他的说法里用上市给科技转型出钱，供给一直来，指数体验更差。美股市值坐在前面两三百家。A股不允许那样集中，小公司尾巴仍然重要。标普100的ROE和ROIC在2011年到2023年往上。中国往下。他引用的高盛笔记里，地方国有控股平台的ROIC不到1。制造和出口要资本开支，还有过剩产能。美国结构是消费、医疗和科技，加上回购。中国上市公司像居民一样囤现金。国企不能随便分。地方财政差、公司有钱时，最好是持续分红；差一档是钱进财务公司；再差是被要求收当地资产。央企他觉得干净些，因为钱是财政部的。杠杆：中国是居民和企业在借。美国借钱的是联邦政府，地方政府看起来还好。那边养老金是股票的持续买盘。这边权益相对银行很小，散户占资产和交易都高，没有真正的做空，销售循环是卖产品。那边股票是核心资产，机构拿着，客户付钱给管理人。"
+  ],
+  "mental_model": {
+    "name": "个股方法 × 价格对利润 × 两个循环",
+    "components": "书是个股方法。ChatGPT指出的洞是组合和交易。自己的钱能等。外面的钱用AI涨50%、茅台跌10%来考你。把紫金的10倍拆成价格（大约60%–70%）和利润（大约4倍，去掉价格仍有2到2.5倍）。苹果是倍数从十几到三十几，利润大约500亿美元。美国循环在退市、集中、ROE上升，养老金是买盘。中国循环用上市给转型融资，囤现金，居民和企业加杠杆，向散户卖产品。3000本、40元的书是系统，不是利润表。",
+    "application": "2899.HK是2019年到现在的档案：10倍，大部分是金属价格，利润残差仍是正的。AAPL是他走的倍数扩张，从增长偏软和净现金到三十几倍。600519.SZ是代理痛苦，跌10个点而AI在涨，不是产品消失的做空。不要因为美国退市更多就去买指数。先问你拿到的是价格、利润，还是倍数。"
+  },
+  "key_insights": [
+    {
+      "view": "这本书比社群赚得少，这没关系。",
+      "question": "为什么写？",
+      "answer": "大约3000本、40元、版税15%–20%，大约1万元。1000元的社群更赚。书逼出系统，ChatGPT才能批评它。"
+    },
+    {
+      "view": "把10倍拆开。",
+      "question": "紫金付的是什么？",
+      "answer": "2019年以来股价10倍。利润大约4倍。股价里大约60%–70%是价格。差的六年只看利润，仍大约2到2.5倍。"
+    },
+    {
+      "view": "美国在减少上市公司。中国用上市做政策。",
+      "question": "循环差在哪？",
+      "answer": "美股大约7000家减到5000家，一年退市三五百家。标普100的ROE从2011年到2023年上升。中国下降。那边有养老金买盘。这边是散户和现金囤积。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "2899.HK",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "10 times since 2019, about 60–70% of it the metal price, profit growth still about 2–2.5 times in a bad six-year case — low"
+    },
+    {
+      "ticker": "AAPL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Multiple from the teens to the thirties on roughly $50 billion of earnings, bought when growth was soft — low"
+    },
+    {
+      "ticker": "600519.SZ",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "The down-10-points holding next to AI up 50; the pain is agency, not a vanished product — low"
+    }
+  ],
+  "golden_quotes": [
+    "全網只有3000本",
+    "買了茅台跌了10個點",
+    "紫金漲了10倍"
+  ],
+  "chronology": {
+    "subject": "Book · Zijin · US vs China listings",
+    "events": [
+      {
+        "date": "2011–23",
+        "event": "S&P 100 ROE/ROIC up; China shareholder returns down"
+      },
+      {
+        "date": "2019",
+        "event": "Zijin hold he reviews; stock later 10x, profit ~4x"
+      },
+      {
+        "date": "2024-09",
+        "event": "Book finished; Sept 24 policy delays the print"
+      },
+      {
+        "date": "2024–26",
+        "event": "About 3,000 copies, ~40 yuan, royalty ~10,000 yuan"
+      },
+      {
+        "date": "2026",
+        "event": "US listings ~7,000 to ~5,000 in his count"
+      },
+      {
+        "date": "2026-10-28",
+        "event": "E207 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 投资实战派 E207",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

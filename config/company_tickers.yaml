@@ -51,6 +51,12 @@ aliases:
   福耀: 3606.HK
   福耀玻璃: 3606.HK
   科沃斯: 603486.SH
+  紫金: 2899.HK
+  紫金矿业: 2899.HK
+  xiaomi: 1810.HK
+  小米: 1810.HK
+  arista: ANET
+  "arista networks": ANET
   broadcom: AVGO
   coinbase: COIN
   doordash: DASH
@@ -176,6 +182,12 @@ china_listings:
   603486.SH:
     zh: 科沃斯
     en: Ecovacs
+  2899.HK:
+    zh: 紫金矿业
+    en: Zijin Mining
+  1810.HK:
+    zh: 小米集团
+    en: Xiaomi
   1398.HK:
     zh: 工商银行
     en: ICBC

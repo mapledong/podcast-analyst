@@ -1,6 +1,15 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
+- id: ep498
+  episode_number: 498
+  title: Martin Casado — Frontier Model Economics, the Slowdown, and the Cursor Deal
+  guest: Martin Casado
+  guest_role: General partner, a16z · infrastructure
+  date: '2026-11-04'
+  duration_minutes: 65
+  youtube_url: https://www.youtube.com/watch?v=XZxDawMm4lU
+  podcast: Invest Like the Best
 - id: ep497
   episode_number: 497
   title: Cliff Sosin — Owning the Complements to Intelligence
@@ -509,6 +518,15 @@ episodes:
   duration_minutes: 147
   youtube_url: https://www.youtube.com/watch?v=a06qSgfccZs
   podcast: Invest Like the Best
+- id: fnd-439-how-eiichiro-oda-works
+  episode_number: 439
+  title: '#439 How Eiichiro Oda Works'
+  guest: Eiichiro Oda
+  guest_role: Creator of One Piece · no biography, interview file
+  date: '2026-11-04'
+  duration_minutes: 33
+  youtube_url: https://www.youtube.com/watch?v=WaxQXHi5Vuo
+  podcast: Founders
 - id: ep438
   episode_number: 438
   title: Performance During Pain
@@ -1370,6 +1388,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=2oIrZM6e8Ro
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: sv101-ep257
+  episode_number: 257
+  title: Vitalik on AI Safety, Effective Altruism, and d/acc
+  guest: Vitalik Buterin · Afra
+  guest_role: Ethereum co-founder · writer and tech journalist
+  date: '2026-10-28'
+  duration_minutes: 113
+  youtube_url: https://www.youtube.com/watch?v=XcastAK9pDM
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: sv101-ep256
   episode_number: 256
   title: 'GPT-6 Astra: Agents, Robots, and Pharma — Who Gets Rewritten First?'
@@ -1807,6 +1835,17 @@ episodes:
   duration_minutes: 73
   youtube_url: https://www.youtube.com/watch?v=Q5xa7XveU5g
   podcast: Business Breakdowns
+- id: tzs-ep208
+  episode_number: 208
+  title: A-Share Swings and the Practice of Value Investing — Yongqing and David with
+    Zhang Jun
+  guest: Zhang Jun
+  guest_role: Hongshang Asset
+  date: '2026-11-03'
+  duration_minutes: 88
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6ae9ac11c96c8942ec16b0af
 - id: acq-rolex
   episode_number: 207
   title: Rolex
@@ -1825,6 +1864,16 @@ episodes:
   duration_minutes: 43
   youtube_url: https://www.youtube.com/watch?v=H15GCvEO5d0
   podcast: Business Breakdowns
+- id: tzs-ep207
+  episode_number: 207
+  title: Yongqing on Practical Stock Investing, and the US–China Financial Circuit
+  guest: Yongqing
+  guest_role: Host · author, Practical Stock Investing
+  date: '2026-10-28'
+  duration_minutes: 97
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6ae1f123c96c8942ec13c18e
 - id: acq-costco
   episode_number: 206
   title: Costco

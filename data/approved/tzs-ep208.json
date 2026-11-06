@@ -1,0 +1,124 @@
+{
+  "episode_id": "tzs-ep208",
+  "podcast": "Practical Investments",
+  "host": "Yongqing & David",
+  "metadata": {
+    "episode_number": 208,
+    "title": "A-Share Swings and the Practice of Value Investing — Yongqing and David with Zhang Jun",
+    "guest": "Zhang Jun",
+    "guest_role": "Hongshang Asset",
+    "date": "2026-11-03",
+    "duration_minutes": 88,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6ae9ac11c96c8942ec16b0af"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "600519.SZ",
+    "NVDA",
+    "1810.HK"
+  ],
+  "conclusion": "Third sitting with Zhang Jun of Hongshang Asset, taped October 16. His cumulative drawdown this year is a personal record, while Shanghai's amplitude looks under 20, about 4,200 to about 3,600. ChiNext and STAR are about 40% off the late-June high. Photonics is more than 50% off the peak. Baijiu's worst drop is about 30%. Dividend low-vol fell about 10 points in a hot June and bounced in July. The 2001 engine, property plus trade, broke by about 2018. Moutai has halved over five years. Xiaomi tripled, then placed a huge deal. Nvidia gave back a large rally.",
+  "background": "E208, published Nov 3, taped Oct 16, about 88 minutes. First tape with Zhang was Sept 13, 2024, then a fall 2025 sitting. David is in the room. Whisper hears 张郡 and 红上. The show title is 弘尚资产张骏. Not a product recommendation.",
+  "important_facts": [
+    "Index calm, sleeve violence. Zhang's cumulative giveback this year is a record for him, even if the absolute number is still controlled. The cold fact: Shanghai Composite amplitude, as he remembers it, is under 20, from a high around 4,200 to a low around 3,600. ChiNext and STAR are about 40% off the late-June high, not quite a halving. A photonics sleeve is more than 50% off the peak. Semiconductors swung hard. The baijiu index's worst drop this year is about 30%. Dividend low-vol, the index that is supposed to be quiet, had a teens drawdown on the year, fell about 10 points in June while tech was frantic, and bounced in July as the market fell. He calls that dividend low-vol turned into dividend high-vol. The push is short-duration money. This week's drop gets blamed on insurers and fixed-income books hitting stop-losses. US AI and tech names, on the same tape, kept making highs. The noise there looks ordinary. A-share old-light names kept falling. Good manufacturers round-tripped whether or not they were tied to AI.",
+    "Do not grant a long duration. His break was 2023. Looking back, the stable stretch started around 2001: better trade terms outside, a property upcycle inside, household income and wealth rising, and Western value models imported into that weather. He dates the break around 2018, when property topped and the US-China relationship turned. Exports can still be fine. There is no agreed new domestic engine. Households save because the future is unclear. Firms with access raise money. Firms without it cut investment and fight on price. A classic value model that assumes a long calm does not fit a world that will not hand you the duration. Dividend stocks at 6–7% look fine until earnings drop and the dividend itself is the question. He would add some dividend weight. He does not treat 6–7% as a promise.",
+    "Purchasing power, then the round trip. Over five years Moutai's stock has halved. The index is still above 3,000. Shanghai housing is better. Edge districts can be down by half. High-end prices, including liquor, fell. A drinker who did nothing doubled purchasing power in Moutai. Restaurant purchasing power is up maybe 20–30%. Daily goods barely rose. The thing that hurts can be the thing that later pays, and the reverse. Nvidia and Xiaomi are his paired example of a rally that does not change the market's character: Xiaomi's stock tripled and then came a very large placement. Nvidia ran up and then gave back a large piece. US AI, he notes, had already recovered and was breaking highs again. A-shares stay short-bull, long-bear. He had hoped an AI industrial shift would change that. It has not, much. Li Guofei's old posts name Ping An, Tencent, and Apple and carry the stamp of that era. Zhang says some of his own views rhyme with that blog."
+  ],
+  "mental_model": {
+    "name": "Quiet Index × Short-Duration Money × No New Engine",
+    "components": "Shanghai can move less than 20 points from about 4,200 to about 3,600 and still destroy a concentrated book. STAR and ChiNext about 40% off the June high. Photonics more than 50%. Baijiu about 30%. Dividend low-vol down about 10 in the hot June and up in the weak July. Insurers and bond books are the short-duration sellers. The 2001–2018 engine was trade plus property. After that, households save and firms either raise or shrink. A 6–7% dividend is not a duration. Moutai halved and the drinker's purchasing power doubled. Xiaomi's triple ended in a huge placement. Nvidia's rally gave a large piece back and the US tape was at highs again. A-share AI labels did not turn the bull short and the bear long.",
+    "application": "600519.SZ is the five-year halving that raised a drinker's purchasing power. NVDA is the US AI name that gave back and then made highs again. 1810.HK is the triple plus a huge placement, the A-share version of a rally that finances itself. Do not read a sub-20 Shanghai amplitude as a quiet book. Underwrite sleeve drawdowns and how short the money is."
+  },
+  "key_insights": [
+    {
+      "view": "The index got quieter. The sleeves did not.",
+      "question": "What is the cold fact?",
+      "answer": "Shanghai amplitude under 20, about 4,200 to about 3,600. ChiNext and STAR about 40% off the late-June high. Photonics more than 50%. Baijiu about 30%. Dividend low-vol fell about 10 points in June."
+    },
+    {
+      "view": "The long calm ended around 2018.",
+      "question": "What was the engine?",
+      "answer": "From about 2001, trade terms plus a property upcycle. Property topped and the US-China relationship turned. No replacement engine, so households save and firms raise or cut."
+    },
+    {
+      "view": "A halving can be a purchasing-power gain.",
+      "question": "What happened to Moutai?",
+      "answer": "The stock halved over five years. A regular drinker doubled purchasing power. Xiaomi tripled and placed stock. Nvidia gave back a large rally and US AI was at highs again."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "600519.SZ",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Stock halved over five years while a regular drinker doubled purchasing power — low"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Large giveback after the rally, then US AI names back at highs — the contrast to A-share round trips — low"
+    },
+    {
+      "ticker": "1810.HK",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Tripled, then a very large placement; the A-share rally that finances itself — low"
+    }
+  ],
+  "golden_quotes": [
+    "应该是小于20的",
+    "没腰斩大概也有40的这样的幅度",
+    "茅台的股票跌一半"
+  ],
+  "chronology": {
+    "subject": "Zhang Jun · A-share amplitude · 2018 break",
+    "events": [
+      {
+        "date": "2001",
+        "event": "Trade-terms plus property upcycle begins, in his dating"
+      },
+      {
+        "date": "~2018",
+        "event": "Property tops; US-China relationship turns; long duration ends"
+      },
+      {
+        "date": "2023",
+        "event": "Personal investment break; the reflection starts"
+      },
+      {
+        "date": "2024-09-13",
+        "event": "First sitting with Yongqing"
+      },
+      {
+        "date": "2025-09",
+        "event": "Second sitting"
+      },
+      {
+        "date": "2026-06",
+        "event": "STAR/ChiNext high; later ~40% drawdown; dividend low-vol -10 in the hot month"
+      },
+      {
+        "date": "2026-10-16",
+        "event": "Third sitting, Shanghai ~4200 to ~3600 on the year"
+      },
+      {
+        "date": "2026-11-03",
+        "event": "E208 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window TZS E208",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

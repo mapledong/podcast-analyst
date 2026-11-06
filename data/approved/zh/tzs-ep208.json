@@ -1,0 +1,124 @@
+{
+  "episode_id": "tzs-ep208",
+  "podcast": "投资实战派",
+  "host": "永庆 & David",
+  "metadata": {
+    "episode_number": 208,
+    "title": "E208 A股又是大震荡，价值投资的实践、挑战和思考 | 永庆、David 对谈弘尚资产张骏",
+    "guest": "张骏",
+    "guest_role": "弘尚资产",
+    "date": "2026-11-03",
+    "duration_minutes": 88,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6ae9ac11c96c8942ec16b0af"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "600519.SZ",
+    "NVDA",
+    "1810.HK"
+  ],
+  "conclusion": "弘尚资产张骏第三次来，10月16日录。他今年的累计回撤是个人纪录，同时记得上证振幅不到20，大约从4200点到3600点。狠的是切片：创业板和科创板从6月底高点下来大约40%，光模块一类从顶点超过50%，白酒指数最差大约30%。红利低波在6月科技最热时单月跌大约10个点，7月市场跌时又弹回去。钱的久期很短。2001年开始的引擎是贸易加地产，大约2018年停了。茅台股价五年跌一半，喝酒的人购买力翻倍。小米涨了三倍然后有一笔超大定增。英伟达涨上去又回吐一大块。美股AI当时已经回到新高。",
+  "background": "E208，11月3日发布，10月16日录，大约88分钟。第一次是2024年9月13日，2025年秋天又坐过一次。David在场。Whisper听成张郡、红上。节目标题是弘尚资产张骏。不是产品推荐。",
+  "important_facts": [
+    "指数安静，板块很狠。张骏说今年累计回撤是自己的纪录，绝对数仍然控得住。冷知识：他印象里上证振幅小于20，高点大约4200，低点大约3600。创业板和科创板从6月底高点下来大约40%，没到腰斩。光模块一类从顶点超过50%。半导体波动也大。白酒指数今年最大跌幅大约30%出头。红利低波本该安静，年内最大回撤有十几，6月科技疯狂时单月跌大约10个点，7月市场跌时又弹回去。他把这叫红利低波做成了红利高波。推动力是短久期的钱。这一周的下跌被归到保险和固收止损。同一条带子上，美股AI和科技还在创新高，扰动看起来普通。A股老灯还在跌。好的制造业公司涨完又跌，跟不跟AI关系不大。",
+    "不要再给长久期。他的坎在2023年。回头看，稳定段大约从2001年开始：外面贸易条件变好，里面地产向上，居民收入和财富往上，西方价值模型是在那种天气里套进来的。断点他放在大约2018年，地产到头，中美关系转向。出口还可以。国内没有公认的新引擎。居民因为不确定而存钱。有资源的企业去融资。没有资源的就收缩投资、打价格。经典价值模型假设一段长的平静，而这世界不再给你久期。红利股6到7个点看起来不错，业绩掉下去，股息本身就成了问题。他愿意加一点红利权重。他不把6%–7%当成承诺。",
+    "购买力，然后是来回。五年里茅台股价跌一半。指数还在3000点以上。上海房子好一些。边缘可以跌一半。高端价格包括酒在跌。什么都没做、平时喝茅台的人，购买力翻倍。下馆子的购买力也许提高20%–30%。日用品基本没涨。让你难受的东西以后可能让你赚钱，反过来也一样。英伟达和小米是他配的一对：涨完并不改变市场性格。小米股价涨了三倍，然后一笔超大定增。英伟达涨上去，又回吐一大块。美股AI他指出已经收回来并突破新高。A股仍是牛短熊长。他曾希望AI产业革命改掉这一点。改动不大。李国飞旧文里的平安、腾讯、苹果带着那个时代的印。张骏说自己有些看法和那博客同韵。"
+  ],
+  "mental_model": {
+    "name": "安静的指数 × 短久期的钱 × 没有新引擎",
+    "components": "上证可以从大约4200到3600、振幅不到20，仍然毁掉一个集中的组合。科创和创业板离6月高点大约40%。光模块超过50%。白酒大约30%。红利低波在热的6月跌大约10个点，在弱的7月上涨。保险和债券盘是短久期的卖方。2001到2018的引擎是贸易加地产。之后居民存钱，企业要么融资要么收缩。6%–7%的股息不是久期。茅台跌一半，喝酒的人购买力翻倍。小米的三倍结束于超大定增。英伟达的上涨回吐一大块，美股又在高点。A股的AI标签没有把牛短熊长反过来。",
+    "application": "600519.SZ是五年跌半、喝酒的人购买力上升。NVDA是回吐之后美股AI又创新高的对照。1810.HK是三倍加超大定增，A股版的上涨给自己融资。不要把上证振幅不到20读成组合也安静。先看切片回撤，以及钱有多短。"
+  },
+  "key_insights": [
+    {
+      "view": "指数更安静了。切片没有。",
+      "question": "冷知识是什么？",
+      "answer": "上证振幅不到20，大约4200到3600。创业板和科创板离6月底高点大约40%。光模块超过50%。白酒大约30%。红利低波在6月跌了大约10个点。"
+    },
+    {
+      "view": "长的平静大约在2018年结束。",
+      "question": "引擎是什么？",
+      "answer": "大约从2001年起，贸易条件加地产向上。地产到头，中美关系转向。没有替代引擎，所以居民存钱，企业融资或收缩。"
+    },
+    {
+      "view": "跌一半可以是购买力上升。",
+      "question": "茅台发生了什么？",
+      "answer": "股价五年跌一半。常喝的人购买力翻倍。小米涨三倍然后定增。英伟达把一大段涨幅回吐，美股AI又在新高。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "600519.SZ",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Stock halved over five years while a regular drinker doubled purchasing power — low"
+    },
+    {
+      "ticker": "NVDA",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Large giveback after the rally, then US AI names back at highs — the contrast to A-share round trips — low"
+    },
+    {
+      "ticker": "1810.HK",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Tripled, then a very large placement; the A-share rally that finances itself — low"
+    }
+  ],
+  "golden_quotes": [
+    "应该是小于20的",
+    "没腰斩大概也有40的这样的幅度",
+    "茅台的股票跌一半"
+  ],
+  "chronology": {
+    "subject": "Zhang Jun · A-share amplitude · 2018 break",
+    "events": [
+      {
+        "date": "2001",
+        "event": "Trade-terms plus property upcycle begins, in his dating"
+      },
+      {
+        "date": "~2018",
+        "event": "Property tops; US-China relationship turns; long duration ends"
+      },
+      {
+        "date": "2023",
+        "event": "Personal investment break; the reflection starts"
+      },
+      {
+        "date": "2024-09-13",
+        "event": "First sitting with Yongqing"
+      },
+      {
+        "date": "2025-09",
+        "event": "Second sitting"
+      },
+      {
+        "date": "2026-06",
+        "event": "STAR/ChiNext high; later ~40% drawdown; dividend low-vol -10 in the hot month"
+      },
+      {
+        "date": "2026-10-16",
+        "event": "Third sitting, Shanghai ~4200 to ~3600 on the year"
+      },
+      {
+        "date": "2026-11-03",
+        "event": "E208 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 投资实战派 E208",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

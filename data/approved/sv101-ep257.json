@@ -1,0 +1,126 @@
+{
+  "episode_id": "sv101-ep257",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 257,
+    "title": "Vitalik on AI Safety, Effective Altruism, and d/acc",
+    "guest": "Vitalik Buterin · Afra",
+    "guest_role": "Ethereum co-founder · writer and tech journalist",
+    "date": "2026-10-28",
+    "duration_minutes": 113,
+    "youtube_url": "https://www.youtube.com/watch?v=XcastAK9pDM",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=XcastAK9pDM",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "fireside": "https://sv101.fireside.fm/271",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Anthropic",
+    "Private:OpenAI",
+    "Private:a16z"
+  ],
+  "conclusion": "Yiwen opens on Anthropic's S-1: nearly 100 pages of risk factors, the word safety 248 times and AI safety 36 times, seven founders keeping 50.1% of ordinary votes, and a long-term benefit trust that can elect a board majority. The secret successor list is the public's problem if the warnings are real. The hour maps effective altruism from MacAskill and 80,000 Hours through SBF and Dario Amodei's exit from OpenAI. Vitalik's 2021 crypto gift to the Future of Life Institute later cashed out near $500 million. His alternative is d/acc. OpenAI gave up openness for safety, then safety for speed.",
+  "background": "E257, Oct 28, about 113 minutes, two sittings. Yiwen frames the S-1 and the camps. Hongjun and Yiwen then talk with Vitalik and Afra about his donations and his break with parts of EA; a second sitting is Afra alone on MacAskill and Yudkowsky. The Economist put EA on the cover this month. The US Defense Department's line on the tape is Americanism, not effective altruism. Captions are the Chinese manual file.",
+  "important_facts": [
+    "The S-1 is the cold open, not a footnote. Anthropic filed this week. Yiwen counts nearly 100 pages of risk factors, including catastrophic and existential risk from frontier AI, plus a line that the company cannot promise its safety measures will work. Ctrl-F: safety 248 times, AI safety 36 times. After listing, seven co-founders keep 50.1% of votes on ordinary matters through a special share class. A long-term benefit trust may elect a majority of the board, so commercial goals are supposed to sit next to humanity's long-run interest. Founders may pre-name who inherits their votes if they cannot serve. Those names need internal approval and stay secret. Yiwen's second worry is governance: if the warning is real, the public still does not know who might speak for humanity. That stack is why the episode treats AI safety as a corporate fact about Anthropic, not only a philosophy seminar. Holden Karnofsky, married to Daniela Amodei, co-founded GiveWell and Open Philanthropy.",
+    "How EA got to the labs. MacAskill, an Oxford philosopher, asks how limited money and time can help more people, and co-founded 80,000 Hours — a career is about that many hours. SBF made 'earn to give' famous; the FTX collapse brought the criticism, and did not end the movement. Yudkowsky is the rationalist who asked how a smarter-than-human machine stays aimed at human interests. Dario Amodei left OpenAI with colleagues to start Anthropic over safety and direction. Vitalik funded global health and, in 2021, sent crypto to the Future of Life Institute. He later recalled that gift realizing about $500 million, and he has moved away from some of that circle's methods. The camps Afra draws are no longer one EA: EA close to Anthropic, EA far from Anthropic, Pause AI (more populist, willing to say rationalism and AI are bad), and e/acc — Andreessen Horowitz and Jeff Bezos — which wants acceleration. Rationalists sit nearby but, in Vitalik's split, they are motivated by curiosity; EA is solemn, a rescue mission that does not get to play.",
+    "d/acc against the OpenAI sequence. Vitalik's label is defensive, decentralized or democratizing, and acceleration. Technology should keep moving. More of the budget should go to protection: cybersecurity against AI hacking, and antiviral work before models make dangerous biology easier. The third leg refuses concentrated power — open source and tools that empower ordinary people, with a Switzerland-and-mountains picture of small independent units rather than one capital. Defensive and democratizing reinforce each other. Afra's short history of OpenAI is the foil: they sacrificed openness for safety (GPT-3 too dangerous to open-source, around 2020, plus safety pledges), then sacrificed safety for acceleration when the pledges, including ones to government bodies, became inconvenient. Altman pushed out and brought back is, on this tape, one more round of e/acc versus EA inside the same company. Vitalik offers d/acc as acceleration that does not hand the vote to a secret list. The named firms are Anthropic, OpenAI, and a16z."
+  ],
+  "mental_model": {
+    "name": "S-1 Safety Count × Four Camps × d/acc",
+    "components": "Read the filing before the philosophy. Safety appears 248 times, AI safety 36, across nearly 100 pages of risks the company will not guarantee it can manage. Seven founders keep 50.1% of ordinary votes. A long-term benefit trust can elect the board majority. Successor voters are pre-named and secret. EA reached that clause through MacAskill, 80,000 Hours, SBF's collapse, Yudkowsky, Bostrom, and Dario's exit from OpenAI. Vitalik's 2021 FLI crypto gift later cashed near $500 million, and he now dissents from parts of the circle. Camps: Anthropic-near EA, Anthropic-far EA, Pause AI, and e/acc (a16z and Bezos), with rationalists as the curious neighbors. d/acc keeps acceleration, spends on cyber and antivirals, and refuses a single capital. OpenAI's audible sequence is openness given up for safety, then safety given up for acceleration.",
+    "application": "Private:Anthropic is the S-1 governance file — safety language plus 50.1% and the trust — not a settled answer to who speaks for humanity. Private:OpenAI is the acceleration sequence on the tape, including Altman out and back. Private:a16z is the named e/acc firm, not a lab. Do not mark AMZN off Bezos's personal camp, or GOOGL off a campus meetup. The tradable question is not in this hour."
+  },
+  "key_insights": [
+    {
+      "view": "The safety words are a filing fact.",
+      "question": "What did Yiwen count?",
+      "answer": "Safety 248 times, AI safety 36, in nearly 100 pages of risks Anthropic will not promise to contain. Seven founders keep 50.1% of ordinary votes. A trust can elect the board majority. Successors stay secret."
+    },
+    {
+      "view": "EA did not end with FTX.",
+      "question": "How did it reach the labs?",
+      "answer": "MacAskill and 80,000 Hours, then SBF, then Dario leaving OpenAI. Vitalik's 2021 gift to FLI later cashed near $500 million. He has since broken with parts of that practice."
+    },
+    {
+      "view": "d/acc is acceleration with a brake and a split vote.",
+      "question": "What are the three legs?",
+      "answer": "Keep building. Spend on cyber defense and antivirals. Do not concentrate power. OpenAI, on this tape, dropped openness for safety and then safety for speed."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Anthropic",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "S-1 puts safety 248 times in the risk factors and leaves 50.1% plus a board trust with the founders' circle — low"
+    },
+    {
+      "ticker": "Private:OpenAI",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Tape's sequence is openness traded for safety, then safety traded for acceleration, Altman out and back — low"
+    },
+    {
+      "ticker": "Private:a16z",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named home of e/acc on this tape, the camp opposite Pause AI and Anthropic-near EA — low"
+    }
+  ],
+  "golden_quotes": [
+    "safety安全这个词一共出现了248次",
+    "掌握一般表决事项50.1%的投票权",
+    "最终让机构兑现了大约5亿美元"
+  ],
+  "chronology": {
+    "subject": "EA · Anthropic S-1 · d/acc",
+    "events": [
+      {
+        "date": "2010s",
+        "event": "MacAskill, 80,000 Hours; Yudkowsky; Bostrom Superintelligence"
+      },
+      {
+        "date": "~2020",
+        "event": "OpenAI withholds GPT-3; safety pledges"
+      },
+      {
+        "date": "2021",
+        "event": "Dario leaves OpenAI for Anthropic; Vitalik's FLI gift later ~$500M"
+      },
+      {
+        "date": "2022",
+        "event": "FTX collapse; EA criticism, movement continues"
+      },
+      {
+        "date": "2023",
+        "event": "Altman removed and returned — e/acc vs EA inside OpenAI"
+      },
+      {
+        "date": "2026-10",
+        "event": "Economist EA cover; DoD line against EA"
+      },
+      {
+        "date": "2026-10",
+        "event": "Anthropic S-1: safety 248 / AI safety 36; 50.1% votes"
+      },
+      {
+        "date": "2026-10-28",
+        "event": "E257 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window SV101 E257",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube-manual",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
