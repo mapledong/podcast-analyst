@@ -1,0 +1,116 @@
+{
+  "episode_id": "fnd-440-born-of-this-land",
+  "podcast": "Founders",
+  "host": "David Senra",
+  "metadata": {
+    "episode_number": 440,
+    "title": "#440 Born of This Land: Chung Ju-yung",
+    "guest": "Chung Ju-yung",
+    "guest_role": "Autobiography, Born of This Land · founder of Hyundai",
+    "date": "2026-11-17",
+    "duration_minutes": 50,
+    "youtube_url": "https://www.youtube.com/watch?v=_DSOxu2tLVY",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=_DSOxu2tLVY",
+      "apple_podcasts": "https://podcasts.apple.com/podcast/founders/id1141877104"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "HYMTF",
+    "Private:Hyundai Construction",
+    "Private:Hyundai Shipyard"
+  ],
+  "conclusion": "Senra reads Chung Ju-yung's autobiography. The nickname was bulldozer, and Chung treats it as an insult about an unschooled man who dug first. He says formal school is not wisdom, and that he thinks and works harder than others before a job that later looks reckless. The ladder is rice shop, auto repair, construction, then Korea's first shipyard. A Greek buyer gives him a purchase order and a deposit for a ship the yard does not yet have. A poor man, he writes, has to work 10 to 20 times harder.",
+  "background": "Founders 440, Nov 17, about 50 minutes. No guest. Senra is in Chung's own words from Born of This Land. The mid-episode Router read, a customer cutting model cost by 92% on billions of tokens, is a sponsor spot, not the book. Hyundai today, Chung writes, could not have been built by the man people thought he was.",
+  "important_facts": [
+    "The ladder. Chung's father had a healthy body and a diligent character and did not take days off. From age 10, Chung worked beside him and did not complain. The late 1930s rice-shop job paid a bag of rice a month. He treated small deliveries as if they were the whole job. The owner eventually offered to sell him the shop. He then ran an auto repair garage, including cars converted to charcoal and carbide when fuel was scarce, and then a construction company. Workers fled to Busan and he built them quarters. He does not give workers an excuse to procrastinate, and he does not give executives a separate elevator. A carpet going into a temporary site office, under a motto of diligence, frugality, and affection, is the scene he shuts down. Asked how he became the richest man in Korea, he answers with the sequence: rice shop, garage, construction, each time pushing again. The diligent, he says, lead lives 100 times more productive than the lazy. One day of diligence is a night of sleep. A year, two years, ten years, a life, is how the work gets recognized.",
+    "The shipyard. A great idea starts as a grain of rice and is nurtured until he can see the project. In the early 1960s that project is Korea's first shipyard, and he had never built a boat. He travels for money. Japanese and American capital mock the technology. He quits in front of President Park. Park turns to the vice prime minister and says to reject all of Chung's proposals and never do business with him again, The line that brings Chung back is that a president and an economics minister had promised support and Chung was rolling over. He then has a Greek buyer. The purchase order and the down payment exist before the yard does. He also picks up a second order, an oil tanker, on the same trip. The government that had threatened him then tells him to build. The order is the idea, the buyer, the deposit, then the yard.",
+    "The philosophy he wants repeated. Time is capital distributed equally. Success, if he has it, is using that capital on conviction. The poor man works 10 to 20 times harder than the rich man, because Korea did not have the resources of the advanced nations, only effort. Hyundai is his evidence. He plans every detail and then implements so fast it looks reckless. He does not experience himself as underprivileged, including farm work on an empty stomach. Positive thinking is a section of the book, not a slogan at the end. He does not trust lazy people. The bulldozer nickname, he thinks, was meant to mark an uneducated upstart who dug first and thought later. His reply is that the thinking happened before the digging, and that school is not the only place wisdom is stored. The modern group, he writes, could never have been built if he had accepted the nickname."
+  ],
+  "mental_model": {
+    "name": "Grain of Rice × Greek Deposit × 10 to 20 Times the Work",
+    "components": "School is not the test. The sequence is rice shop, garage, construction, shipyard. A carpet in the site office fails the frugality motto. The shipyard starts as an idea the size of a grain of rice in the early 1960s. Foreign capital mocks it. Park threatens to cut him off for quitting. A Greek purchase order and a deposit arrive before the yard exists, plus a tanker order. The poor man's ratio is 10 to 20 times the work. Time is equal capital. Diligence over a life is his 100 times claim against laziness. The bulldozer nickname is an insult he answers with the planning that happened before the digging.",
+    "application": "HYMTF is the motor company that came out of this ladder, not a multiple on one ship order. The construction company and the shipyard are the two earlier businesses in the book. Do not underwrite the Router sponsor, including the 92% inference-cost claim. The operating fact is a deposit taken before the yard existed, after he had already tried to quit."
+  },
+  "key_insights": [
+    {
+      "view": "The nickname was an insult about sequence.",
+      "question": "What does bulldozer mean to him?",
+      "answer": "An unschooled man who digs first. He says the thinking and the plan came before the work that looked reckless, and that school is not the only source of wisdom."
+    },
+    {
+      "view": "The yard was financed by a buyer, not by a yard.",
+      "question": "What did the Greek order do?",
+      "answer": "He had quit in front of President Park. A purchase order and a down payment for a ship, plus a tanker order, existed before the first Korean shipyard did."
+    },
+    {
+      "view": "The ladder is the whole biography.",
+      "question": "How does he explain being the richest man in Korea?",
+      "answer": "Rice shop, then a garage, then construction, each time pushing again. A poor man works 10 to 20 times harder. Diligence over a life is his 100 times claim."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "HYMTF",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "The motor company at the end of the rice-shop, garage, construction, shipyard ladder — low"
+    },
+    {
+      "ticker": "Private:Hyundai Construction",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "The company after the garage, and the frugality test of the site office — low"
+    },
+    {
+      "ticker": "Private:Hyundai Shipyard",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Korea's first yard, financed by a Greek deposit before the yard existed — low"
+    }
+  ],
+  "golden_quotes": [
+    "not receiving formal education does not mean one is lacking in wisdom",
+    "The poor man has to work 10 to 20 times harder than the rich man.",
+    "A great idea starts with one single thought."
+  ],
+  "chronology": {
+    "subject": "Chung Ju-yung · Hyundai · shipyard",
+    "events": [
+      {
+        "date": "1915-30s",
+        "event": "Farm work from age 10; late-1930s rice shop"
+      },
+      {
+        "date": "1940s",
+        "event": "Auto repair, charcoal and carbide cars; then construction"
+      },
+      {
+        "date": "early 1960s",
+        "event": "Shipyard idea; foreign capital refuses; Park threatens a cutoff"
+      },
+      {
+        "date": "1960s",
+        "event": "Greek purchase order and deposit before the yard exists"
+      },
+      {
+        "date": "later",
+        "event": "World's largest shipbuilding company, in Senra's framing"
+      },
+      {
+        "date": "2026-11-17",
+        "event": "Founders 440 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window Founders 440",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube-auto",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

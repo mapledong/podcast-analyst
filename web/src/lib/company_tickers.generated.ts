@@ -33,6 +33,8 @@ export const COMPANY_ALIASES: Record<string, string> = {
   "ferrari": "RACE",
   "google": "GOOGL",
   "home depot": "HD",
+  "hyundai": "HYMTF",
+  "hyundai motor": "HYMTF",
   "instagram": "META",
   "intel": "INTC",
   "jp morgan": "JPM",

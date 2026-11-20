@@ -1,6 +1,34 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
+- id: ep501
+  episode_number: 501
+  title: Brad Gerstner and Geoffrey Canada — Invest America and Raising the Floor
+  guest: Brad Gerstner and Geoffrey Canada
+  guest_role: Altimeter founder · Harlem Children's Zone
+  date: '2026-11-17'
+  duration_minutes: 84
+  youtube_url: https://www.youtube.com/watch?v=u6pCmQd0Wrg
+  podcast: Invest Like the Best
+- id: ep500
+  episode_number: 500
+  title: Zach Reitano — Building Ro, and Why Healthcare Should Be a Larger Share of
+    GDP
+  guest: Zach Reitano
+  guest_role: Co-founder and CEO, Ro
+  date: '2026-11-11'
+  duration_minutes: 76
+  youtube_url: https://www.youtube.com/watch?v=aOSuI2qPeB8
+  podcast: Invest Like the Best
+- id: ep499
+  episode_number: 499
+  title: Ramtin Naimi — The State of Venture and Trillion-Dollar Goalposts
+  guest: Ramtin Naimi
+  guest_role: Founder, Abstract
+  date: '2026-11-06'
+  duration_minutes: 46
+  youtube_url: https://www.youtube.com/watch?v=r95bEutZUN4
+  podcast: Invest Like the Best
 - id: ep498
   episode_number: 498
   title: Martin Casado — Frontier Model Economics, the Slowdown, and the Cursor Deal
@@ -509,6 +537,15 @@ episodes:
   duration_minutes: 75
   youtube_url: https://www.youtube.com/watch?v=g4zzkuFyI18
   podcast: Invest Like the Best
+- id: fnd-440-born-of-this-land
+  episode_number: 440
+  title: '#440 Born of This Land: Chung Ju-yung'
+  guest: Chung Ju-yung
+  guest_role: Autobiography, Born of This Land · founder of Hyundai
+  date: '2026-11-17'
+  duration_minutes: 50
+  youtube_url: https://www.youtube.com/watch?v=_DSOxu2tLVY
+  podcast: Founders
 - id: ep439
   episode_number: 439
   title: Building Alpha School, and The Future of Education

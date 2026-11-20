@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T09:06:21.107Z",
+  "generatedAt": "2026-11-20T14:44:55.773Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -9,7 +9,7 @@
       "accent_color": "#C45D3E",
       "youtube_url": "https://www.youtube.com/@ILTB_Podcast",
       "cover_url": "/covers/invest-like-the-best.jpg",
-      "episodeCount": 77
+      "episodeCount": 80
     },
     {
       "id": "acquired",
@@ -29,7 +29,7 @@
       "accent_color": "#2D5016",
       "youtube_url": "https://www.youtube.com/@founderspodcast1",
       "cover_url": "/covers/founders.jpg",
-      "episodeCount": 87
+      "episodeCount": 88
     },
     {
       "id": "business-breakdowns",
@@ -73,6 +73,147 @@
     }
   ],
   "episodes": [
+    {
+      "id": "ep501",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 501,
+      "title": "Brad Gerstner and Geoffrey Canada — Invest America and Raising the Floor",
+      "guest": "Brad Gerstner and Geoffrey Canada",
+      "displayTitle": "Brad Gerstner and Geoffrey Canada",
+      "displaySubtitle": "Altimeter founder · Harlem Children's Zone",
+      "guestRole": "Altimeter founder · Harlem Children's Zone",
+      "date": "2026-11-17",
+      "durationMinutes": 84,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Gerstner and Canada argue you raise the floor instead of attacking success. The Invest America Act, signed July 4, 2025, opens a capital account with $1,000 in the S&P 500 when a child gets a Social Security number. About 3.7 million babies a year, and about 10,000 births a day, each get an account. The law also opened accounts for every child under 18, about 70 million, because Michael and Susan Dell and other donors said they would fund the grandfathered cohort the government would not. The child owns a slice of Walmart, Berkshire, and Apple.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=u6pCmQd0Wrg",
+      "summaryFile": "ep501.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "AAPL",
+        "BRK.B",
+        "WMT"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "AAPL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "One of the three companies Gerstner says a child can see they own through the S&P account — low"
+        },
+        {
+          "ticker": "BRK.B",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named alongside Apple and Walmart as a slice of the birthright account, not a separate stock pitch — low"
+        },
+        {
+          "ticker": "WMT",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The third named holding a child is supposed to recognize on the phone — low"
+        }
+      ],
+      "chronologySubject": "Invest America · Trump accounts · claim rate"
+    },
+    {
+      "id": "ep500",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 500,
+      "title": "Zach Reitano — Building Ro, and Why Healthcare Should Be a Larger Share of GDP",
+      "guest": "Zach Reitano",
+      "displayTitle": "Zach Reitano",
+      "displaySubtitle": "Co-founder and CEO, Ro",
+      "guestRole": "Co-founder and CEO, Ro",
+      "date": "2026-11-11",
+      "durationMinutes": 76,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Reitano's complaint is that the patient is not the customer. Whoever controls the money at the point of purchase is who the system builds for. He wants healthcare to be a larger share of GDP, not a smaller one, if the unit of health gets cheaper and better. The US is at 18% because unit costs rose. About half of spending is on 5% of people. A $1,300 drug can net $300 to $400. Ro went from about a $250 million run rate to over $3 billion in four years, led by GLP-1s and integrated with Novo and Lilly.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=aOSuI2qPeB8",
+      "summaryFile": "ep500.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Ro",
+        "LLY",
+        "NVO"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Ro",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "From a $250 million run rate to over $3 billion in four years, fewer people, patient is the buyer — medium"
+        },
+        {
+          "ticker": "LLY",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "One of the two GLP-1 suppliers Ro is integrated with, and the category revenue already exceeds AI — low"
+        },
+        {
+          "ticker": "NVO",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The other integrated GLP-1 source on the tape, same cash-pay volume story — low"
+        }
+      ],
+      "chronologySubject": "Ro · GLP-1s · who the customer is"
+    },
+    {
+      "id": "ep499",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 499,
+      "title": "Ramtin Naimi — The State of Venture and Trillion-Dollar Goalposts",
+      "guest": "Ramtin Naimi",
+      "displayTitle": "Ramtin Naimi",
+      "displaySubtitle": "Founder, Abstract",
+      "guestRole": "Founder, Abstract",
+      "date": "2026-11-06",
+      "durationMinutes": 46,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Naimi says the venture goalpost moved from a $10 billion dream to $100 billion and now a trillion. SpaceX, Anthropic, and OpenAI are already three of those, and he expects two or three more, not forty. Headline growth hides messy revenue: thin margins, concentration, or last month times twelve. Data-labeling margins sit at 15-20%. Some Abstract companies are growing 200-700% while margins go from negative 15% to positive 35%. Public software is near 13 times revenue. Mega funds are deploying about three times faster than an 18-24 month plan, so they return for larger funds.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=r95bEutZUN4",
+      "summaryFile": "ep499.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:SpaceX",
+        "Private:Anthropic",
+        "Private:OpenAI"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:SpaceX",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "One of three trillion-scale names, and the one whose absence means an LP still has no liquidity — low"
+        },
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Trillion goalpost name that, with OpenAI and SpaceX, is where LP venture weights actually sit — low"
+        },
+        {
+          "ticker": "Private:OpenAI",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Same liquidity set. He does not think the next forty companies join them — low"
+        }
+      ],
+      "chronologySubject": "Abstract · trillion goalposts · LP liquidity"
+    },
     {
       "id": "ep498",
       "podcastId": "invest-like-the-best",
@@ -2662,6 +2803,53 @@
         }
       ],
       "chronologySubject": "Insight Partners"
+    },
+    {
+      "id": "fnd-440-born-of-this-land",
+      "podcastId": "founders",
+      "episodeNumber": 440,
+      "title": "#440 Born of This Land: Chung Ju-yung",
+      "guest": "Chung Ju-yung",
+      "displayTitle": "Chung Ju-yung",
+      "displaySubtitle": "Autobiography, Born of This Land · founder of Hyundai",
+      "guestRole": "Autobiography, Born of This Land · founder of Hyundai",
+      "date": "2026-11-17",
+      "durationMinutes": 50,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Senra reads Chung Ju-yung's autobiography. The nickname was bulldozer, and Chung treats it as an insult about an unschooled man who dug first. He says formal school is not wisdom, and that he thinks and works harder than others before a job that later looks reckless. The ladder is rice shop, auto repair, construction, then Korea's first shipyard. A Greek buyer gives him a purchase order and a deposit for a ship the yard does not yet have. A poor man, he writes, has to work 10 to 20 times harder.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_DSOxu2tLVY",
+      "summaryFile": "fnd-440-born-of-this-land.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "HYMTF",
+        "Private:Hyundai Construction",
+        "Private:Hyundai Shipyard"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "HYMTF",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The motor company at the end of the rice-shop, garage, construction, shipyard ladder — low"
+        },
+        {
+          "ticker": "Private:Hyundai Construction",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The company after the garage, and the frugality test of the site office — low"
+        },
+        {
+          "ticker": "Private:Hyundai Shipyard",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Korea's first yard, financed by a Greek deposit before the yard existed — low"
+        }
+      ],
+      "chronologySubject": "Chung Ju-yung · Hyundai · shipyard"
     },
     {
       "id": "ep439",
