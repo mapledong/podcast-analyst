@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:01:15.617Z",
+  "generatedAt": "2026-11-20T15:11:37.094Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -49,7 +49,7 @@
       "accent_color": "#8B2942",
       "youtube_url": "https://www.youtube.com/@xiaojunpodcast",
       "cover_url": "/covers/zhang-xiaojun.jpg",
-      "episodeCount": 36
+      "episodeCount": 37
     },
     {
       "id": "touzi-shizhanpai",
@@ -10808,6 +10808,55 @@
       "chronologySubject": "David · NVDA $5T Bear Case"
     },
     {
+      "id": "zj-ep157",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 157,
+      "title": "Personal Agents with Cai Wei of Ant Lingguang",
+      "guest": "Cai Wei (David)",
+      "displayTitle": "Cai Wei (David)",
+      "displaySubtitle": "Personal Agents with Cai Wei of Ant Lingguang",
+      "guestRole": "Head of Ant Lingguang",
+      "date": "2026-11-18",
+      "durationMinutes": 163,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Cai Wei runs Ant Lingguang and splits a personal agent into three jobs: intelligence, supply, and safety you can actually trust. He maps the product stages onto industries. Chat retrieved information, a hundred-billion-yuan market. Manus and Claude Code complete tasks, a trillion-yuan software market. A personal agent sells services, and in China that is a ten-trillion-yuan market. Ant starts with Alipay partners and still tunes each scene. His boss says that in this market even Sam Altman would hand out red packets.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Ydn4NH_KQT8",
+      "summaryFile": "zj-ep157.md",
+      "summaryFileZh": "zj-ep157.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Ant",
+        "Private:Manus",
+        "Private:Anthropic"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Ant",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Lingguang on the Alipay graph, scoped March 2025, the service layer he sizes near 10 trillion yuan — low"
+        },
+        {
+          "ticker": "Private:Manus",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The task-completion stage under the personal agent, software rather than services — low"
+        },
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Claude Code is the other task tool on the tape, same shelf as Manus, not the service market — low"
+        }
+      ],
+      "chronologySubject": "Cai Wei · Lingguang · personal agents"
+    },
+    {
       "id": "tzs-ep156",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 156,
@@ -13471,44 +13520,6 @@
         }
       ],
       "chronologySubject": "Compass Group"
-    },
-    {
-      "id": "tzs-ep109",
-      "podcastId": "touzi-shizhanpai",
-      "episodeNumber": 109,
-      "title": "Meituan: Business Model, Earnings Read, and Investment View | Curated 50, Apr 2, 2025",
-      "guest": "David",
-      "displayTitle": "David",
-      "displaySubtitle": "Meituan: Business Model, Earnings Read, and Investment View | Curated 50, Apr 2, 2025",
-      "guestRole": "Practical Investments Host",
-      "date": "2025-04-02",
-      "durationMinutes": 35,
-      "readMinutes": 2,
-      "rating": 3,
-      "conclusion": "David's Curated 50 Meituan episode frames 3690.HK as local-commerce infrastructure — delivery density, merchant ad spend, and in-store digitization — under Douyin local-services attack. Profitability improved but competition caps take rate; investors should Watch Meituan (3690.HK) on order growth, operating margin, and instant-retail mix versus content-platform subsidies.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=IUuUJZlPNxY",
-      "summaryFile": "tzs-ep109.md",
-      "summaryFileZh": "tzs-ep109.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "3690.HK",
-        "Meituan",
-        "Local Services",
-        "Delivery"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "3690.HK",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Meituan (3690.HK): David business-model episode — Watch delivery density, operating margin, and subsidy defense vs Douyin"
-        }
-      ],
-      "chronologySubject": "David · Meituan Curated 50"
     },
     {
       "id": "bb-essilorluxottica-sight-to-behold",
@@ -17395,6 +17406,44 @@
         }
       ],
       "chronologySubject": "Edwin Land · Polaroid · SX-70"
+    },
+    {
+      "id": "tzs-ep109",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 109,
+      "title": "Meituan: Business Model, Earnings Read, and Investment View | Curated 50, Apr 2, 2025",
+      "guest": "David",
+      "displayTitle": "David",
+      "displaySubtitle": "Meituan: Business Model, Earnings Read, and Investment View | Curated 50, Apr 2, 2025",
+      "guestRole": "Practical Investments Host",
+      "date": "2025-04-02",
+      "durationMinutes": 35,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "David's Curated 50 Meituan episode frames 3690.HK as local-commerce infrastructure — delivery density, merchant ad spend, and in-store digitization — under Douyin local-services attack. Profitability improved but competition caps take rate; investors should Watch Meituan (3690.HK) on order growth, operating margin, and instant-retail mix versus content-platform subsidies.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IUuUJZlPNxY",
+      "summaryFile": "tzs-ep109.md",
+      "summaryFileZh": "tzs-ep109.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "3690.HK",
+        "Meituan",
+        "Local Services",
+        "Delivery"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "3690.HK",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Meituan (3690.HK): David business-model episode — Watch delivery density, operating margin, and subsidy defense vs Douyin"
+        }
+      ],
+      "chronologySubject": "David · Meituan Curated 50"
     },
     {
       "id": "zj-ep108",

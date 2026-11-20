@@ -3072,6 +3072,16 @@ episodes:
   duration_minutes: 258
   youtube_url: ''
   podcast: Acquired
+- id: zj-ep157
+  episode_number: 157
+  title: Personal Agents with Cai Wei of Ant Lingguang
+  guest: Cai Wei (David)
+  guest_role: Head of Ant Lingguang
+  date: '2026-11-18'
+  duration_minutes: 163
+  youtube_url: https://www.youtube.com/watch?v=Ydn4NH_KQT8
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6afd12c6a4a79edf137afd61
 - id: acq-from-nfl-to-startup-coo-to-congressman-regulating-crypto-with-rep-anthony-gonzalez
   episode_number: 156
   title: From NFL to Startup COO to Congressman Regulating Crypto (with Rep. Anthony
