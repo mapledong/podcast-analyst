@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:44:55.773Z",
+  "generatedAt": "2026-11-20T14:59:23.570Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -59,7 +59,7 @@
       "accent_color": "#1A5F4A",
       "youtube_url": "https://www.youtube.com/results?search_query=投资实战派",
       "cover_url": "/covers/touzi-shizhanpai.jpg",
-      "episodeCount": 50
+      "episodeCount": 52
     },
     {
       "id": "silicon-valley-101",
@@ -7094,6 +7094,104 @@
       "chronologySubject": "Token Maxing · OpenClaw · Hermes"
     },
     {
+      "id": "tzs-ep211",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 211,
+      "title": "A Bad Tape Is for Reading — Yongqing's Value-Investing Shelf, with Sam",
+      "guest": "Yongqing",
+      "displayTitle": "Yongqing",
+      "displaySubtitle": "Host, on the books, with Sam as stand-in",
+      "guestRole": "Host, on the books, with Sam as stand-in",
+      "date": "2026-11-18",
+      "durationMinutes": 78,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Sam hosts after a Shanghai podcast-festival book panel. Yongqing's shared shelf, if he may name only three, is three Columbia value courses. Greenwald's Competition Demystified is the business test: without an advantage you cannot forecast, because the company cannot forecast itself. Value Investing from Graham to Buffett is the valuation test: assets, earnings, and growth. The analyst's advanced guide is how you write the case for a boss, a client, or yourself. Value meant quality in 2019, PDD and Li Auto in 2021, and dividends now. Courage to Be Disliked covers wanting 12 times and printing 10.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep211.md",
+      "summaryFileZh": "tzs-ep211.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "PDD",
+        "LI",
+        "OXY"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "PDD",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The 2021 meaning of value on this tape, hyper-growth, not the dividend definition he hears now — low"
+        },
+        {
+          "ticker": "LI",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named with Pinduoduo as the EV growth the market called value in 2021 — low"
+        },
+        {
+          "ticker": "OXY",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The Occidental file he would reread, next to PetroChina, before buying an oil stock — low"
+        }
+      ],
+      "chronologySubject": "Yongqing · three books · what value meant"
+    },
+    {
+      "id": "tzs-ep209",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 209,
+      "title": "How to Recognize a Good Investment Firm — Capital Group with Fan Enjie",
+      "guest": "Fan Enjie",
+      "displayTitle": "Fan Enjie",
+      "displaySubtitle": "Founder, Smart Investor · translator, The Long Game",
+      "guestRole": "Founder, Smart Investor · translator, The Long Game",
+      "date": "2026-11-08",
+      "durationMinutes": 115,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Fan Enjie spent five years as a fund reporter from 2002, nine years inside a mutual fund through 2015, then built Smart Investor. In 2018 he interviewed 70 to 80 people for the industry's twenty-year book. Capital Group, founded in 1931, stayed near $20 million for about twenty years and was a $1.5 trillion growth complex by 2015. Own money can hold Moutai as a deposit substitute. An institution that needs 10-15% cannot copy Duan Yongping's Moutai. One manager went to cash at Sputnik. Jon Lovelace answered with multiple managers, and in 1974 they still sold stocks.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep209.md",
+      "summaryFileZh": "tzs-ep209.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Capital Group",
+        "600519.SZ",
+        "9992.HK"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Capital Group",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "1931 start, about $20 million for twenty years, $1.5 trillion growth complex by 2015, multiple managers after Sputnik — low"
+        },
+        {
+          "ticker": "600519.SZ",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "A deposit substitute for personal capital, not a 10-15% institutional hurdle — low"
+        },
+        {
+          "ticker": "9992.HK",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "A personal-money position clients of a fund will not finance through the drawdown — low"
+        }
+      ],
+      "chronologySubject": "Fan Enjie · Capital Group · multiple managers"
+    },
+    {
       "id": "tzs-ep208",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 208,
@@ -10421,6 +10519,82 @@
       "chronologySubject": "Hu Wei · Apple Culture"
     },
     {
+      "id": "bb-games-workshop-the-world-of-warhammer",
+      "podcastId": "business-breakdowns",
+      "episodeNumber": 239,
+      "title": "Games Workshop: The World of Warhammer",
+      "guest": "Games Workshop",
+      "displayTitle": "Games Workshop",
+      "displaySubtitle": "The World of Warhammer · Public · GMWKF",
+      "guestRole": "Public · GMWKF",
+      "date": "2026-01-30",
+      "durationMinutes": 39,
+      "readMinutes": 3,
+      "rating": 4,
+      "conclusion": "Games Workshop is a rare hobby IP compounder: roughly 575 stores, 70% gross margins, >40% EBIT margins, and a customer loop that pulls teenagers back in their 30s and 40s. The Warhammer universe provides pricing power, direct distribution, and high-margin licensing optionality. The public-equity question is whether Amazon/2027 media expansion grows the funnel without diluting the hobby's scarcity and community.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=_wUIQkNi6Ag",
+      "summaryFile": "bb-games-workshop-the-world-of-warhammer.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "GMWKF",
+        "Warhammer",
+        "Licensing"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GMWKF",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Games Workshop combines owned IP, direct channels, 70% gross margins, >40% EBIT margins, and licensing optionality; the risk is that media expansion or pricing overreach weakens the community-driven hobby core."
+        }
+      ],
+      "chronologySubject": "Games Workshop · Warhammer"
+    },
+    {
+      "id": "acq-the-nfl",
+      "podcastId": "acquired",
+      "episodeNumber": 208,
+      "title": "The NFL",
+      "guest": "The NFL",
+      "displayTitle": "The NFL",
+      "displaySubtitle": "Season 19",
+      "guestRole": "Season 19",
+      "date": "2026-01-26",
+      "durationMinutes": 257,
+      "readMinutes": 7,
+      "rating": 5,
+      "conclusion": "The NFL is less a sports league than a century-long exercise in cooperative capitalism. Owners share national media revenue equally, cap player costs as a fixed percentage of that pool, and engineer competitive balance through reverse-order drafts and strength-of-schedule — producing a product where any team can win on any given Sunday. Television transformed ticket-dependent barnstormers into America's dominant media property; the 2023–2033 rights package alone exceeds $112 billion. Ben and David frame the league as communist capitalism among billionaires — rivals who chose to grow the pie together. The 2026 remaster adds private equity minority stakes with league-level carry, Taylor Swift-driven demographic expansion, and Forbes franchise valuations averaging $7.1 billion. The bear case remains revenue inequality across markets, but structurally the NFL remains the most perfectly designed American sports media business.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-the-nfl.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Revenue Sharing",
+        "Media Rights",
+        "Competitive Balance"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "DIS",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Disney's pending acquisition of NFL Network and fantasy app in exchange for ~10% of ESPN equity ties the largest sports cable brand to the NFL for a generation — a bet on NFL content as streaming anchor tenant."
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Amazon's Thursday Night Football and reported $100M+ New Heights podcast deal validate tech platforms as incremental NFL distribution beyond traditional networks."
+        }
+      ],
+      "chronologySubject": "National Football League"
+    },
+    {
       "id": "tzs-ep167",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 167,
@@ -11011,82 +11185,6 @@
         }
       ],
       "chronologySubject": "Shen Yujun · Ant Lingbo"
-    },
-    {
-      "id": "bb-games-workshop-the-world-of-warhammer",
-      "podcastId": "business-breakdowns",
-      "episodeNumber": 239,
-      "title": "Games Workshop: The World of Warhammer",
-      "guest": "Games Workshop",
-      "displayTitle": "Games Workshop",
-      "displaySubtitle": "The World of Warhammer · Public · GMWKF",
-      "guestRole": "Public · GMWKF",
-      "date": "2026-01-30",
-      "durationMinutes": 39,
-      "readMinutes": 3,
-      "rating": 4,
-      "conclusion": "Games Workshop is a rare hobby IP compounder: roughly 575 stores, 70% gross margins, >40% EBIT margins, and a customer loop that pulls teenagers back in their 30s and 40s. The Warhammer universe provides pricing power, direct distribution, and high-margin licensing optionality. The public-equity question is whether Amazon/2027 media expansion grows the funnel without diluting the hobby's scarcity and community.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=_wUIQkNi6Ag",
-      "summaryFile": "bb-games-workshop-the-world-of-warhammer.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "GMWKF",
-        "Warhammer",
-        "Licensing"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "GMWKF",
-          "direction": "Long",
-          "confidence": "Medium",
-          "thesis": "Games Workshop combines owned IP, direct channels, 70% gross margins, >40% EBIT margins, and licensing optionality; the risk is that media expansion or pricing overreach weakens the community-driven hobby core."
-        }
-      ],
-      "chronologySubject": "Games Workshop · Warhammer"
-    },
-    {
-      "id": "acq-the-nfl",
-      "podcastId": "acquired",
-      "episodeNumber": 208,
-      "title": "The NFL",
-      "guest": "The NFL",
-      "displayTitle": "The NFL",
-      "displaySubtitle": "Season 19",
-      "guestRole": "Season 19",
-      "date": "2026-01-26",
-      "durationMinutes": 257,
-      "readMinutes": 7,
-      "rating": 5,
-      "conclusion": "The NFL is less a sports league than a century-long exercise in cooperative capitalism. Owners share national media revenue equally, cap player costs as a fixed percentage of that pool, and engineer competitive balance through reverse-order drafts and strength-of-schedule — producing a product where any team can win on any given Sunday. Television transformed ticket-dependent barnstormers into America's dominant media property; the 2023–2033 rights package alone exceeds $112 billion. Ben and David frame the league as communist capitalism among billionaires — rivals who chose to grow the pie together. The 2026 remaster adds private equity minority stakes with league-level carry, Taylor Swift-driven demographic expansion, and Forbes franchise valuations averaging $7.1 billion. The bear case remains revenue inequality across markets, but structurally the NFL remains the most perfectly designed American sports media business.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-the-nfl.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Revenue Sharing",
-        "Media Rights",
-        "Competitive Balance"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "DIS",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Disney's pending acquisition of NFL Network and fantasy app in exchange for ~10% of ESPN equity ties the largest sports cable brand to the NFL for a generation — a bet on NFL content as streaming anchor tenant."
-        },
-        {
-          "ticker": "AMZN",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Amazon's Thursday Night Football and reported $100M+ New Heights podcast deal validate tech platforms as incremental NFL distribution beyond traditional networks."
-        }
-      ],
-      "chronologySubject": "National Football League"
     },
     {
       "id": "bb-databricks-from-data-to-decisions",
@@ -13212,6 +13310,50 @@
       "chronologySubject": "Yao Shunyu · OpenAI Agent Research"
     },
     {
+      "id": "zj-ep109",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 109,
+      "title": "Robot Data Famine? Xie Chen on Simulation, Synthetic Data, Meta's Scale AI Deal, and Alexandr Wang",
+      "guest": "Xie Chen",
+      "displayTitle": "Xie Chen",
+      "displaySubtitle": "Lightwheel Intelligence Founder & CEO",
+      "guestRole": "Lightwheel Intelligence Founder & CEO",
+      "date": "2025-06-20",
+      "durationMinutes": 101,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Galbot co-founder Xie Chen argues embodied AI sits at GPT-1 stage — real robot data is ~1% of training mix; synthetic data and simulation dominate. Meta's ~$30B Scale AI bet validates labeling infrastructure, but Galbot sees real-world capture as the scarce 1%. He calls Nvidia a simulation company at core — Omniverse and Isaac compound before fleet scale. Investors should Watch Meta (META) on data-platform ROI and Nvidia (NVDA) on sim-to-real tooling monetization, not assume hardware alone wins embodied AI.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pWY0HVUH8GA",
+      "summaryFile": "zj-ep109.md",
+      "summaryFileZh": "zj-ep109.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "META",
+        "NVDA",
+        "Synthetic Data",
+        "Embodied AI"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "META",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Meta (META): ~$30B Scale AI bet validates data-factory economics for embodied era — Watch labeled throughput and robotics pipeline integration"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Nvidia (NVDA): Xie frames NV as simulation company — Omniverse/Isaac sim-to-real tooling may compound before embodied unit volumes; Watch developer lock-in"
+        }
+      ],
+      "chronologySubject": "Xie Chen · Galbot Embodied Data"
+    },
+    {
       "id": "bb-goosehead-insuring-coverage",
       "podcastId": "business-breakdowns",
       "episodeNumber": 212,
@@ -13280,6 +13422,44 @@
         }
       ],
       "chronologySubject": "Compass Group"
+    },
+    {
+      "id": "tzs-ep109",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 109,
+      "title": "Meituan: Business Model, Earnings Read, and Investment View | Curated 50, Apr 2, 2025",
+      "guest": "David",
+      "displayTitle": "David",
+      "displaySubtitle": "Meituan: Business Model, Earnings Read, and Investment View | Curated 50, Apr 2, 2025",
+      "guestRole": "Practical Investments Host",
+      "date": "2025-04-02",
+      "durationMinutes": 35,
+      "readMinutes": 2,
+      "rating": 3,
+      "conclusion": "David's Curated 50 Meituan episode frames 3690.HK as local-commerce infrastructure — delivery density, merchant ad spend, and in-store digitization — under Douyin local-services attack. Profitability improved but competition caps take rate; investors should Watch Meituan (3690.HK) on order growth, operating margin, and instant-retail mix versus content-platform subsidies.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=IUuUJZlPNxY",
+      "summaryFile": "tzs-ep109.md",
+      "summaryFileZh": "tzs-ep109.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "3690.HK",
+        "Meituan",
+        "Local Services",
+        "Delivery"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "3690.HK",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Meituan (3690.HK): David business-model episode — Watch delivery density, operating margin, and subsidy defense vs Douyin"
+        }
+      ],
+      "chronologySubject": "David · Meituan Curated 50"
     },
     {
       "id": "bb-essilorluxottica-sight-to-behold",
@@ -17010,6 +17190,129 @@
       "chronologySubject": "DoorDash"
     },
     {
+      "id": "acq-slack-salesforce-emergency-pod-with-packy-mccormick-of-not-boring",
+      "podcastId": "acquired",
+      "episodeNumber": 111,
+      "title": "Slack + Salesforce Emergency Pod with Packy McCormick of Not Boring",
+      "guest": "Slack + Salesforce Emergency Pod with Packy McCormick of Not Boring",
+      "displayTitle": "Slack + Salesforce Emergency Pod",
+      "displaySubtitle": "Packy McCormick of Not Boring · Season 7",
+      "guestRole": "Season 7",
+      "date": "2020-12-01",
+      "durationMinutes": 91,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Hours after Salesforce announced a $27.7 billion acquisition of Slack ($45.86/share, ~55% premium to pre-leak price, ~85% above September earnings crash), Ben, David, and Packy McCormick unpack an emergency pod. Slack — DPO'd as the anti-Microsoft best-of-breed champion — sold after Teams bundling and go-to-market limits capped growth despite top-quartile SaaS metrics. Microsoft Teams competes more with Zoom than Slack per Packy, yet Microsoft markets Teams vs. Slack while giving O365 away. Salesforce positions the deal as anti-Microsoft consolidation for best-of-breed SaaS; hosts grade Slack's public tenure C- and debate whether $28B buys distribution or product atrophy (Heroku/Quip comps). Zoom's ~$130B market cap made stock merger impractical; Google sat out. Emergency pod recorded on YouTube Live two hours post-announcement with Packy McCormick.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-slack-salesforce-emergency-pod-with-packy-mccormick-of-not-boring.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Enterprise M&A",
+        "Microsoft Teams",
+        "SaaS Distribution"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "CRM",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Largest software deal since Red Hat tests Salesforce's ability to revive Slack growth via CRM channel; integration execution drives whether $27.7B beats internal ROI hurdles."
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Teams bundling forced Slack sale — evidence of hyperscaler distribution power; watch antitrust and Teams monetization vs. Zoom in video."
+        },
+        {
+          "ticker": "ZM",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Zoom's ~$130B market cap made stock merger impractical — missed combination of async chat plus video platform for enterprise."
+        }
+      ],
+      "chronologySubject": "Slack / Salesforce acquisition"
+    },
+    {
+      "id": "acq-virgin-galactic",
+      "podcastId": "acquired",
+      "episodeNumber": 110,
+      "title": "Virgin Galactic",
+      "guest": "Virgin Galactic",
+      "displayTitle": "Virgin Galactic",
+      "displaySubtitle": "Season 7 · Episode 6",
+      "guestRole": "Season 7 · Episode 6",
+      "date": "2020-11-22",
+      "durationMinutes": 108,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Virgin Galactic's story spans Peter Diamandis's 1996 $10M XPRIZE (won 2004 by Burt Rutan's SpaceShipOne after Paul Allen's ~$20M secret funding) to Richard Branson's 2004 \"screw it, let's do it\" acquisition the night before the prize flight. Tickets started at $200,000; ~600 paid full price plus deposits on \"One Small Step.\" Sixteen years and $1B+ R&D later, suborbital tourism still awaits routine passenger flights — Branson SPAC'd the company in 2019 with Chamath (VG Acquisition Corp). Bull case: 1.8M humans with $10M+ net worth × 10% uptake × $250K ≈ $50B lifetime revenue potential; bear case: SpaceX reached orbit routinely while Virgin delayed through 2020 COVID and 15th postponement culture. Feather reentry and White Knight mothership design remain ingenious; capitalization and market-existence risk do not — ASCEND 2020 live episode compares SpaceX orbital cadence to 16 years of Virgin schedule slips and November 2020 COVID test delay.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-virgin-galactic.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Space Tourism",
+        "XPRIZE",
+        "SPAC Financing"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "SPCE",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "High-beta call on suborbital tourism execution; November 2020 test delay and 16-year slip history keep bear case alive despite preorder backlog."
+        },
+        {
+          "ticker": "SPACE",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Private SpaceX not investable here — episode uses as execution benchmark; orbital launch revenue vs. Virgin tourism TAM contrast."
+        }
+      ],
+      "chronologySubject": "Virgin Galactic"
+    },
+    {
+      "id": "acq-superhuman",
+      "podcastId": "acquired",
+      "episodeNumber": 109,
+      "title": "Superhuman Part II - Designing Software to Feel like a Game",
+      "guest": "Rahul Vohra",
+      "displayTitle": "Rahul Vohra",
+      "displaySubtitle": "Superhuman Part II - Designing Software to Feel like a Game · Season 7",
+      "guestRole": "Season 7",
+      "date": "2020-11-12",
+      "durationMinutes": 56,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "This Acquired LP episode visits Superhuman HQ with CEO Rahul Vohra (Rapportive sold to LinkedIn 2012) on PMF science, not game design. Superhuman spent ~2½ years pre-launch (Feb 2015–summer 2017): a year sketching, a year designing, 14-person team before ship — heresy versus MVP dogma but rational when competing with Gmail and Outlook in an established market. Pricing locked at $30/month from Crossing the Chasm early-adopter framing; waitlist grew to 180,000 with weekly admission throttles. Rahul's Sean Ellis-inspired survey: users who'd be \"very disappointed\" without the product define PMF; four-step loop segments lovers, builds for them, surveys ~40% disappointment threshold, then grows. Second-time-founder discipline let the team ignore premature-launch pressure — relevant as Airbnb, DoorDash, and Slack IPO season framed the conversation.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-superhuman.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Product-Market Fit",
+        "Premium SaaS",
+        "Sean Ellis Survey"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GOOGL",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Gmail incumbent Superhuman displaces among power users; Google's UX bar and workspace bundling determine whether premium email niche sustains."
+        }
+      ],
+      "chronologySubject": "Rahul Vohra / Superhuman"
+    },
+    {
       "id": "fnd-132-edwin-land-steve-jobs-s-hero",
       "podcastId": "founders",
       "episodeNumber": 132,
@@ -17043,88 +17346,6 @@
         }
       ],
       "chronologySubject": "Edwin Land · Polaroid · SX-70"
-    },
-    {
-      "id": "zj-ep109",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 109,
-      "title": "Robot Data Famine? Xie Chen on Simulation, Synthetic Data, Meta's Scale AI Deal, and Alexandr Wang",
-      "guest": "Xie Chen",
-      "displayTitle": "Xie Chen",
-      "displaySubtitle": "Lightwheel Intelligence Founder & CEO",
-      "guestRole": "Lightwheel Intelligence Founder & CEO",
-      "date": "2025-06-20",
-      "durationMinutes": 101,
-      "readMinutes": 3,
-      "rating": 3,
-      "conclusion": "Galbot co-founder Xie Chen argues embodied AI sits at GPT-1 stage — real robot data is ~1% of training mix; synthetic data and simulation dominate. Meta's ~$30B Scale AI bet validates labeling infrastructure, but Galbot sees real-world capture as the scarce 1%. He calls Nvidia a simulation company at core — Omniverse and Isaac compound before fleet scale. Investors should Watch Meta (META) on data-platform ROI and Nvidia (NVDA) on sim-to-real tooling monetization, not assume hardware alone wins embodied AI.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=pWY0HVUH8GA",
-      "summaryFile": "zj-ep109.md",
-      "summaryFileZh": "zj-ep109.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "META",
-        "NVDA",
-        "Synthetic Data",
-        "Embodied AI"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "META",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Meta (META): ~$30B Scale AI bet validates data-factory economics for embodied era — Watch labeled throughput and robotics pipeline integration"
-        },
-        {
-          "ticker": "NVDA",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Nvidia (NVDA): Xie frames NV as simulation company — Omniverse/Isaac sim-to-real tooling may compound before embodied unit volumes; Watch developer lock-in"
-        }
-      ],
-      "chronologySubject": "Xie Chen · Galbot Embodied Data"
-    },
-    {
-      "id": "tzs-ep109",
-      "podcastId": "touzi-shizhanpai",
-      "episodeNumber": 109,
-      "title": "Meituan: Business Model, Earnings Read, and Investment View | Curated 50, Apr 2, 2025",
-      "guest": "David",
-      "displayTitle": "David",
-      "displaySubtitle": "Meituan: Business Model, Earnings Read, and Investment View | Curated 50, Apr 2, 2025",
-      "guestRole": "Practical Investments Host",
-      "date": "2025-04-02",
-      "durationMinutes": 35,
-      "readMinutes": 2,
-      "rating": 3,
-      "conclusion": "David's Curated 50 Meituan episode frames 3690.HK as local-commerce infrastructure — delivery density, merchant ad spend, and in-store digitization — under Douyin local-services attack. Profitability improved but competition caps take rate; investors should Watch Meituan (3690.HK) on order growth, operating margin, and instant-retail mix versus content-platform subsidies.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=IUuUJZlPNxY",
-      "summaryFile": "tzs-ep109.md",
-      "summaryFileZh": "tzs-ep109.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "3690.HK",
-        "Meituan",
-        "Local Services",
-        "Delivery"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "3690.HK",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Meituan (3690.HK): David business-model episode — Watch delivery density, operating margin, and subsidy defense vs Douyin"
-        }
-      ],
-      "chronologySubject": "David · Meituan Curated 50"
     },
     {
       "id": "zj-ep108",
@@ -18322,129 +18543,6 @@
         }
       ],
       "chronologySubject": "Andy Grove · Swimming Across · Intel"
-    },
-    {
-      "id": "acq-slack-salesforce-emergency-pod-with-packy-mccormick-of-not-boring",
-      "podcastId": "acquired",
-      "episodeNumber": 111,
-      "title": "Slack + Salesforce Emergency Pod with Packy McCormick of Not Boring",
-      "guest": "Slack + Salesforce Emergency Pod with Packy McCormick of Not Boring",
-      "displayTitle": "Slack + Salesforce Emergency Pod",
-      "displaySubtitle": "Packy McCormick of Not Boring · Season 7",
-      "guestRole": "Season 7",
-      "date": "2020-12-01",
-      "durationMinutes": 91,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Hours after Salesforce announced a $27.7 billion acquisition of Slack ($45.86/share, ~55% premium to pre-leak price, ~85% above September earnings crash), Ben, David, and Packy McCormick unpack an emergency pod. Slack — DPO'd as the anti-Microsoft best-of-breed champion — sold after Teams bundling and go-to-market limits capped growth despite top-quartile SaaS metrics. Microsoft Teams competes more with Zoom than Slack per Packy, yet Microsoft markets Teams vs. Slack while giving O365 away. Salesforce positions the deal as anti-Microsoft consolidation for best-of-breed SaaS; hosts grade Slack's public tenure C- and debate whether $28B buys distribution or product atrophy (Heroku/Quip comps). Zoom's ~$130B market cap made stock merger impractical; Google sat out. Emergency pod recorded on YouTube Live two hours post-announcement with Packy McCormick.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-slack-salesforce-emergency-pod-with-packy-mccormick-of-not-boring.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Enterprise M&A",
-        "Microsoft Teams",
-        "SaaS Distribution"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "CRM",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Largest software deal since Red Hat tests Salesforce's ability to revive Slack growth via CRM channel; integration execution drives whether $27.7B beats internal ROI hurdles."
-        },
-        {
-          "ticker": "MSFT",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Teams bundling forced Slack sale — evidence of hyperscaler distribution power; watch antitrust and Teams monetization vs. Zoom in video."
-        },
-        {
-          "ticker": "ZM",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Zoom's ~$130B market cap made stock merger impractical — missed combination of async chat plus video platform for enterprise."
-        }
-      ],
-      "chronologySubject": "Slack / Salesforce acquisition"
-    },
-    {
-      "id": "acq-virgin-galactic",
-      "podcastId": "acquired",
-      "episodeNumber": 110,
-      "title": "Virgin Galactic",
-      "guest": "Virgin Galactic",
-      "displayTitle": "Virgin Galactic",
-      "displaySubtitle": "Season 7 · Episode 6",
-      "guestRole": "Season 7 · Episode 6",
-      "date": "2020-11-22",
-      "durationMinutes": 108,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Virgin Galactic's story spans Peter Diamandis's 1996 $10M XPRIZE (won 2004 by Burt Rutan's SpaceShipOne after Paul Allen's ~$20M secret funding) to Richard Branson's 2004 \"screw it, let's do it\" acquisition the night before the prize flight. Tickets started at $200,000; ~600 paid full price plus deposits on \"One Small Step.\" Sixteen years and $1B+ R&D later, suborbital tourism still awaits routine passenger flights — Branson SPAC'd the company in 2019 with Chamath (VG Acquisition Corp). Bull case: 1.8M humans with $10M+ net worth × 10% uptake × $250K ≈ $50B lifetime revenue potential; bear case: SpaceX reached orbit routinely while Virgin delayed through 2020 COVID and 15th postponement culture. Feather reentry and White Knight mothership design remain ingenious; capitalization and market-existence risk do not — ASCEND 2020 live episode compares SpaceX orbital cadence to 16 years of Virgin schedule slips and November 2020 COVID test delay.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-virgin-galactic.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Space Tourism",
-        "XPRIZE",
-        "SPAC Financing"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "SPCE",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "High-beta call on suborbital tourism execution; November 2020 test delay and 16-year slip history keep bear case alive despite preorder backlog."
-        },
-        {
-          "ticker": "SPACE",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Private SpaceX not investable here — episode uses as execution benchmark; orbital launch revenue vs. Virgin tourism TAM contrast."
-        }
-      ],
-      "chronologySubject": "Virgin Galactic"
-    },
-    {
-      "id": "acq-superhuman",
-      "podcastId": "acquired",
-      "episodeNumber": 109,
-      "title": "Superhuman Part II - Designing Software to Feel like a Game",
-      "guest": "Rahul Vohra",
-      "displayTitle": "Rahul Vohra",
-      "displaySubtitle": "Superhuman Part II - Designing Software to Feel like a Game · Season 7",
-      "guestRole": "Season 7",
-      "date": "2020-11-12",
-      "durationMinutes": 56,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "This Acquired LP episode visits Superhuman HQ with CEO Rahul Vohra (Rapportive sold to LinkedIn 2012) on PMF science, not game design. Superhuman spent ~2½ years pre-launch (Feb 2015–summer 2017): a year sketching, a year designing, 14-person team before ship — heresy versus MVP dogma but rational when competing with Gmail and Outlook in an established market. Pricing locked at $30/month from Crossing the Chasm early-adopter framing; waitlist grew to 180,000 with weekly admission throttles. Rahul's Sean Ellis-inspired survey: users who'd be \"very disappointed\" without the product define PMF; four-step loop segments lovers, builds for them, surveys ~40% disappointment threshold, then grows. Second-time-founder discipline let the team ignore premature-launch pressure — relevant as Airbnb, DoorDash, and Slack IPO season framed the conversation.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-superhuman.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Product-Market Fit",
-        "Premium SaaS",
-        "Sean Ellis Survey"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "GOOGL",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Gmail incumbent Superhuman displaces among power users; Google's UX bar and workspace bundling determine whether premium email niche sustains."
-        }
-      ],
-      "chronologySubject": "Rahul Vohra / Superhuman"
     },
     {
       "id": "acq-special-superhuman-part-ii-designing-software-to-feel-like-a-game-with-rahul-vohra",

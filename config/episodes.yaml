@@ -1818,6 +1818,16 @@ episodes:
   duration_minutes: 58
   youtube_url: https://www.youtube.com/watch?v=7vVjkPMnAU0
   podcast: Business Breakdowns
+- id: tzs-ep211
+  episode_number: 211
+  title: A Bad Tape Is for Reading — Yongqing's Value-Investing Shelf, with Sam
+  guest: Yongqing
+  guest_role: Host, on the books, with Sam as stand-in
+  date: '2026-11-18'
+  duration_minutes: 78
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6afda919a4a79edf137b529b
 - id: acq-sp26-02
   episode_number: 210
   title: The Prancing Horse and the Business of Desire
@@ -1854,6 +1864,16 @@ episodes:
   duration_minutes: 55
   youtube_url: ''
   podcast: Business Breakdowns
+- id: tzs-ep209
+  episode_number: 209
+  title: How to Recognize a Good Investment Firm — Capital Group with Fan Enjie
+  guest: Fan Enjie
+  guest_role: Founder, Smart Investor · translator, The Long Game
+  date: '2026-11-08'
+  duration_minutes: 115
+  youtube_url: ''
+  podcast: Practical Investments
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6af034beb4a4e20202f686d8
 - id: acq-the-nfl
   episode_number: 208
   title: The NFL
