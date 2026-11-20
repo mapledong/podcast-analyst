@@ -3103,6 +3103,16 @@ episodes:
   youtube_url: ''
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: zj-ep156
+  episode_number: 156
+  title: Liang Qiwei on Phantom Blade Zero, Wuxia, and Fifteen Years of Making Games
+  guest: Liang Qiwei
+  guest_role: Founder, Lingyoufang · Phantom Blade Zero
+  date: '2026-11-13'
+  duration_minutes: 387
+  youtube_url: https://www.youtube.com/watch?v=uq7aHKfXlJI
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6af5debf14d01a26f8a900ac
 - id: acq-walmart
   episode_number: 155
   title: Walmart

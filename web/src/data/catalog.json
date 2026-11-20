@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:11:37.094Z",
+  "generatedAt": "2026-11-20T15:39:35.467Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -49,7 +49,7 @@
       "accent_color": "#8B2942",
       "youtube_url": "https://www.youtube.com/@xiaojunpodcast",
       "cover_url": "/covers/zhang-xiaojun.jpg",
-      "episodeCount": 37
+      "episodeCount": 38
     },
     {
       "id": "touzi-shizhanpai",
@@ -10895,6 +10895,55 @@
       "chronologySubject": "Meng Ping · Moutai & Duan"
     },
     {
+      "id": "zj-ep156",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 156,
+      "title": "Liang Qiwei on Phantom Blade Zero, Wuxia, and Fifteen Years of Making Games",
+      "guest": "Liang Qiwei",
+      "displayTitle": "Liang Qiwei",
+      "displaySubtitle": "Founder, Lingyoufang · Phantom Blade Zero",
+      "guestRole": "Founder, Lingyoufang · Phantom Blade Zero",
+      "date": "2026-11-13",
+      "durationMinutes": 387,
+      "readMinutes": 8,
+      "rating": 3,
+      "conclusion": "Liang Qiwei's six hours end on a company, not only on a definition of xia. Xu Xiaoping wired 1 million yuan to him personally in August 2011, before the company existed. Years later Liang bought that stake back for 30 million. The team was about 20 people. Tencent is a shareholder he calls nice. NetEase came in around 2013. A weekly report and a wuxia author cannot share one structure. The pirate still has to live with the navy.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=uq7aHKfXlJI",
+      "summaryFile": "zj-ep156.md",
+      "summaryFileZh": "zj-ep156.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Lingyoufang",
+        "TCEHY",
+        "NTES"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Lingyoufang",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The studio that had to be a company: 1 million personal in 2011, 30 million buyback, about 20 people — low"
+        },
+        {
+          "ticker": "TCEHY",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Shareholder he calls nice, the regular army in the wuxia metaphor, not the author — low"
+        },
+        {
+          "ticker": "NTES",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "2013 mobile publishing check, inside the decade he also calls a black history — low"
+        }
+      ],
+      "chronologySubject": "Liang Qiwei · Lingyoufang · Phantom Blade"
+    },
+    {
       "id": "tzs-ep155",
       "podcastId": "touzi-shizhanpai",
       "episodeNumber": 155,
@@ -13406,50 +13455,6 @@
         }
       ],
       "chronologySubject": "Yao Shunyu · OpenAI Agent Research"
-    },
-    {
-      "id": "zj-ep109",
-      "podcastId": "zhang-xiaojun",
-      "episodeNumber": 109,
-      "title": "Robot Data Famine? Xie Chen on Simulation, Synthetic Data, Meta's Scale AI Deal, and Alexandr Wang",
-      "guest": "Xie Chen",
-      "displayTitle": "Xie Chen",
-      "displaySubtitle": "Lightwheel Intelligence Founder & CEO",
-      "guestRole": "Lightwheel Intelligence Founder & CEO",
-      "date": "2025-06-20",
-      "durationMinutes": 101,
-      "readMinutes": 3,
-      "rating": 3,
-      "conclusion": "Galbot co-founder Xie Chen argues embodied AI sits at GPT-1 stage — real robot data is ~1% of training mix; synthetic data and simulation dominate. Meta's ~$30B Scale AI bet validates labeling infrastructure, but Galbot sees real-world capture as the scarce 1%. He calls Nvidia a simulation company at core — Omniverse and Isaac compound before fleet scale. Investors should Watch Meta (META) on data-platform ROI and Nvidia (NVDA) on sim-to-real tooling monetization, not assume hardware alone wins embodied AI.",
-      "youtubeUrl": "https://www.youtube.com/watch?v=pWY0HVUH8GA",
-      "summaryFile": "zj-ep109.md",
-      "summaryFileZh": "zj-ep109.md",
-      "availableLocales": [
-        "en",
-        "zh"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "META",
-        "NVDA",
-        "Synthetic Data",
-        "Embodied AI"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "META",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Meta (META): ~$30B Scale AI bet validates data-factory economics for embodied era — Watch labeled throughput and robotics pipeline integration"
-        },
-        {
-          "ticker": "NVDA",
-          "direction": "Watch",
-          "confidence": "Medium",
-          "thesis": "Nvidia (NVDA): Xie frames NV as simulation company — Omniverse/Isaac sim-to-real tooling may compound before embodied unit volumes; Watch developer lock-in"
-        }
-      ],
-      "chronologySubject": "Xie Chen · Galbot Embodied Data"
     },
     {
       "id": "bb-goosehead-insuring-coverage",
@@ -17406,6 +17411,50 @@
         }
       ],
       "chronologySubject": "Edwin Land · Polaroid · SX-70"
+    },
+    {
+      "id": "zj-ep109",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 109,
+      "title": "Robot Data Famine? Xie Chen on Simulation, Synthetic Data, Meta's Scale AI Deal, and Alexandr Wang",
+      "guest": "Xie Chen",
+      "displayTitle": "Xie Chen",
+      "displaySubtitle": "Lightwheel Intelligence Founder & CEO",
+      "guestRole": "Lightwheel Intelligence Founder & CEO",
+      "date": "2025-06-20",
+      "durationMinutes": 101,
+      "readMinutes": 3,
+      "rating": 3,
+      "conclusion": "Galbot co-founder Xie Chen argues embodied AI sits at GPT-1 stage — real robot data is ~1% of training mix; synthetic data and simulation dominate. Meta's ~$30B Scale AI bet validates labeling infrastructure, but Galbot sees real-world capture as the scarce 1%. He calls Nvidia a simulation company at core — Omniverse and Isaac compound before fleet scale. Investors should Watch Meta (META) on data-platform ROI and Nvidia (NVDA) on sim-to-real tooling monetization, not assume hardware alone wins embodied AI.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=pWY0HVUH8GA",
+      "summaryFile": "zj-ep109.md",
+      "summaryFileZh": "zj-ep109.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "META",
+        "NVDA",
+        "Synthetic Data",
+        "Embodied AI"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "META",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Meta (META): ~$30B Scale AI bet validates data-factory economics for embodied era — Watch labeled throughput and robotics pipeline integration"
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "Watch",
+          "confidence": "Medium",
+          "thesis": "Nvidia (NVDA): Xie frames NV as simulation company — Omniverse/Isaac sim-to-real tooling may compound before embodied unit volumes; Watch developer lock-in"
+        }
+      ],
+      "chronologySubject": "Xie Chen · Galbot Embodied Data"
     },
     {
       "id": "tzs-ep109",
