@@ -1425,6 +1425,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=2oIrZM6e8Ro
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: sv101-ep258
+  episode_number: 258
+  title: HF0 and the Early OpenRouter Story
+  guest: Guo Jing (Joe)
+  guest_role: Founder and CEO, ACE Studio
+  date: '2026-11-09'
+  duration_minutes: 54
+  youtube_url: https://www.youtube.com/watch?v=3K7IWJAnOE8
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: sv101-ep257
   episode_number: 257
   title: Vitalik on AI Safety, Effective Altruism, and d/acc

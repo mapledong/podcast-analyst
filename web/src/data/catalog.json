@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:59:23.570Z",
+  "generatedAt": "2026-11-20T15:01:15.617Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -69,7 +69,7 @@
       "accent_color": "#0B4F6C",
       "youtube_url": "https://www.youtube.com/@TheValley101",
       "cover_url": "/covers/silicon-valley-101.jpg",
-      "episodeCount": 35
+      "episodeCount": 36
     }
   ],
   "episodes": [
@@ -6726,6 +6726,55 @@
         }
       ],
       "chronologySubject": "Agent checkout · KYA · Waitan"
+    },
+    {
+      "id": "sv101-ep258",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 258,
+      "title": "HF0 and the Early OpenRouter Story",
+      "guest": "Guo Jing (Joe)",
+      "displayTitle": "Guo Jing (Joe)",
+      "displaySubtitle": "HF0 and the Early OpenRouter Story",
+      "guestRole": "Founder and CEO, ACE Studio",
+      "date": "2026-11-09",
+      "durationMinutes": 54,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Hongjun asks why founders would take HF0 over Y Combinator. Joe, who runs ACE Studio, a voice model for working musicians, was in the fall 2024 batch. HF0 takes 10 companies, three times a year, and has them live together for three months. His batch was $1 million for 5%. YC, as he hears it, is a couple hundred teams and a spray. OpenRouter, a year earlier, was four people. It adds 5% to the model price and became the door for trying a new model. ACE roughly did a 10x by treating growth as a product, not a trick.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3K7IWJAnOE8",
+      "summaryFile": "sv101-ep258.md",
+      "summaryFileZh": "sv101-ep258.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:HF0",
+        "Private:OpenRouter",
+        "Private:ACE Studio"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:OpenRouter",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "5% on the token price, first test door for new models, fall 2023 HF0 batch at four people — low"
+        },
+        {
+          "ticker": "Private:HF0",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "10 companies, 3 months, $1 million for 5% on the latest batch, founders take it over YC — low"
+        },
+        {
+          "ticker": "Private:ACE Studio",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Voice model for working musicians, about a 10x inside the fall 2024 house — low"
+        }
+      ],
+      "chronologySubject": "HF0 · OpenRouter · ACE Studio"
     },
     {
       "id": "sv101-ep257",
