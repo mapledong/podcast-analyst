@@ -1,6 +1,15 @@
 podcast: Invest Like the Best
 host: Patrick O'Shaughnessy
 episodes:
+- id: ep502
+  episode_number: 502
+  title: Scott Wu — Cybersecurity, Compute, and the Future of Engineering
+  guest: Scott Wu
+  guest_role: CEO, Cognition
+  date: '2026-11-24'
+  duration_minutes: 64
+  youtube_url: https://www.youtube.com/watch?v=efoZj_7oVJs
+  podcast: Invest Like the Best
 - id: ep501
   episode_number: 501
   title: Brad Gerstner and Geoffrey Canada — Invest America and Raising the Floor
@@ -1423,6 +1432,36 @@ episodes:
   date: '2026-09-17'
   duration_minutes: 36
   youtube_url: https://www.youtube.com/watch?v=2oIrZM6e8Ro
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: sv101-ep261
+  episode_number: 261
+  title: How Korean Beauty Took the US Shelf
+  guest: Kelly Peng and Han Xiao
+  guest_role: US-based business writer · editor, Beauty Insider
+  date: '2026-11-26'
+  duration_minutes: 90
+  youtube_url: https://www.youtube.com/watch?v=7uXtzRAf4PM
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: sv101-ep260
+  episode_number: 260
+  title: Nvidia, CoreWeave, and the Compute Credit Market
+  guest: Maggie Wang and Ethan Xu
+  guest_role: Founder, Anoris Capital · data-center and energy strategist
+  date: '2026-11-24'
+  duration_minutes: 86
+  youtube_url: https://www.youtube.com/watch?v=aZlaPfp_2-U
+  podcast: Silicon Valley 101
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
+- id: sv101-ep259
+  episode_number: 259
+  title: Quant Giants, Anti-Human Strategy, and the AI Compute Bet
+  guest: XTX Markets researcher and a former DRW researcher
+  guest_role: Quant researchers
+  date: '2026-11-22'
+  duration_minutes: 150
+  youtube_url: https://www.youtube.com/watch?v=yvV2svDKAEA
   podcast: Silicon Valley 101
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc
 - id: sv101-ep258

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:39:35.467Z",
+  "generatedAt": "2026-11-27T13:22:20.920Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -9,7 +9,7 @@
       "accent_color": "#C45D3E",
       "youtube_url": "https://www.youtube.com/@ILTB_Podcast",
       "cover_url": "/covers/invest-like-the-best.jpg",
-      "episodeCount": 80
+      "episodeCount": 81
     },
     {
       "id": "acquired",
@@ -69,10 +69,57 @@
       "accent_color": "#0B4F6C",
       "youtube_url": "https://www.youtube.com/@TheValley101",
       "cover_url": "/covers/silicon-valley-101.jpg",
-      "episodeCount": 36
+      "episodeCount": 39
     }
   ],
   "episodes": [
+    {
+      "id": "ep502",
+      "podcastId": "invest-like-the-best",
+      "episodeNumber": 502,
+      "title": "Scott Wu — Cybersecurity, Compute, and the Future of Engineering",
+      "guest": "Scott Wu",
+      "displayTitle": "Scott Wu",
+      "displaySubtitle": "CEO, Cognition",
+      "guestRole": "CEO, Cognition",
+      "date": "2026-11-24",
+      "durationMinutes": 64,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Wu says the next 6 to 12 months bring major breaches at Fortune 50 and Fortune 100 firms and at governments, because attackers will use agent swarms on 30-year-old software before defenders do. Cognition went from a first dollar on September 20, 2024 to a billion-dollar revenue run rate on September 16, 2026. It is inside more than 100 of the Fortune 500, with about 500 employees. Customers measure about 8 to 15 times ROI. Citi is rolling Devin out to about 14,000 of 80,000 technical staff. The defense he wants is the same swarm on your own attack surface.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=efoZj_7oVJs",
+      "summaryFile": "ep502.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Cognition",
+        "C",
+        "DDOG"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Cognition",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "Zero to a billion-dollar run rate in just under two years, 8 to 15 times customer ROI, security product in the same quarter — medium"
+        },
+        {
+          "ticker": "C",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "About 14,000 engineers on Devin and about $1.5 billion of 2026 insourcing savings named by the CEO — low"
+        },
+        {
+          "ticker": "DDOG",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named among Silicon Valley teams that have moved Devin past routine migrations — low"
+        }
+      ],
+      "chronologySubject": "Cognition · Devin · the breach window"
+    },
     {
       "id": "ep501",
       "podcastId": "invest-like-the-best",
@@ -6726,6 +6773,153 @@
         }
       ],
       "chronologySubject": "Agent checkout · KYA · Waitan"
+    },
+    {
+      "id": "sv101-ep261",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 261,
+      "title": "How Korean Beauty Took the US Shelf",
+      "guest": "Kelly Peng and Han Xiao",
+      "displayTitle": "Kelly Peng and Han Xiao",
+      "displaySubtitle": "How Korean Beauty Took the US Shelf",
+      "guestRole": "US-based business writer · editor, Beauty Insider",
+      "date": "2026-11-26",
+      "durationMinutes": 90,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Mahua, Kelly Peng, and Han Xiao of Beauty Insider treat Korean beauty as an export policy, not a cheap cream. Korea has passed the US to become the second-largest beauty exporter after France. Global sales more than doubled in two years. Nearly a quarter of American households have used a Korean product. APR's European revenue was up about 380% in the second quarter. Silicon2 switched from chips in 2012 and now lists more than 430 brands, with US warehouses.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=7uXtzRAf4PM",
+      "summaryFile": "sv101-ep261.md",
+      "summaryFileZh": "sv101-ep261.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "EL",
+        "LRLCY",
+        "Private:Silicon2"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "EL",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named as a centralized-media brand this Korean wave is not using to open the US shelf — low"
+        },
+        {
+          "ticker": "LRLCY",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The other broadcast-era incumbent on the tape, beside Estee, not the exporter — low"
+        },
+        {
+          "ticker": "Private:Silicon2",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Semiconductor trader from 2002, cosmetics since 2012, 430-plus brands and US warehouses — low"
+        }
+      ],
+      "chronologySubject": "Korean beauty · Silicon2 · Amorepacific"
+    },
+    {
+      "id": "sv101-ep260",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 260,
+      "title": "Nvidia, CoreWeave, and the Compute Credit Market",
+      "guest": "Maggie Wang and Ethan Xu",
+      "displayTitle": "Maggie Wang and Ethan Xu",
+      "displaySubtitle": "Nvidia, CoreWeave, and the Compute Credit Market",
+      "guestRole": "Founder, Anoris Capital · data-center and energy strategist",
+      "date": "2026-11-24",
+      "durationMinutes": 86,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "The episode was taped November 17, the night of Nvidia's third-quarter print, while the board was still saying Jensen Huang would not return. The published open is November 23: he is CEO again, the stock opens up about 30%, and CoreWeave jumps more than 20%. Huang and CFO Colette Kress disagreed on neo-cloud guarantees. A guarantee starts when a project can be turned on. Microsoft and CoreWeave do not borrow on the same terms.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=aZlaPfp_2-U",
+      "summaryFile": "sv101-ep260.md",
+      "summaryFileZh": "sv101-ep260.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "NVDA",
+        "CRWV",
+        "MSFT"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Medium",
+          "thesis": "The firm whose CEO return, on this tape, opens the stock about 30% and moves neo-clouds with it — medium"
+        },
+        {
+          "ticker": "CRWV",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The neo-cloud roller coaster, up more than 20% with the return, borrowing on worse terms than Microsoft — low"
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Same data-center build, cheaper and cleaner borrowing than CoreWeave when a project slips — low"
+        }
+      ],
+      "chronologySubject": "Nvidia · CoreWeave · who signs the guarantee"
+    },
+    {
+      "id": "sv101-ep259",
+      "podcastId": "silicon-valley-101",
+      "episodeNumber": 259,
+      "title": "Quant Giants, Anti-Human Strategy, and the AI Compute Bet",
+      "guest": "XTX Markets researcher and a former DRW researcher",
+      "displayTitle": "XTX Markets researcher and a former DRW researcher",
+      "displaySubtitle": "Quant Giants, Anti-Human Strategy, and the AI Compute Bet",
+      "guestRole": "Quant researchers",
+      "date": "2026-11-22",
+      "durationMinutes": 150,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Jane Street pays about $2.68 million a person. Goldman, one street over, pays about $400,000. Banks left this spread after Volcker. Jane Street signed about $19 billion of compute this year. ETFs went from about $70 billion to about $24 trillion. XTX had about 25,000 GPUs at roughly 200 people by December 2024. The hiring test is losing your own money so you will not override the model.",
+      "youtubeUrl": "https://www.youtube.com/watch?v=yvV2svDKAEA",
+      "summaryFile": "sv101-ep259.md",
+      "summaryFileZh": "sv101-ep259.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:Jane Street",
+        "Private:XTX",
+        "GS"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "Private:Jane Street",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "ETF spread book, about $2.68 million pay per person, about $19 billion of compute this year — low"
+        },
+        {
+          "ticker": "Private:XTX",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "About 25,000 GPUs, early Anthropic, about £3.93 billion UK net revenue, hire people who will not override the model — low"
+        },
+        {
+          "ticker": "GS",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The Manhattan neighbor at about $400,000 a person, the firm that no longer owns this spread — low"
+        }
+      ],
+      "chronologySubject": "Jane Street · XTX · the spread banks left"
     },
     {
       "id": "sv101-ep258",

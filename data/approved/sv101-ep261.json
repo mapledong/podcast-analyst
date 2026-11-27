@@ -1,0 +1,118 @@
+{
+  "episode_id": "sv101-ep261",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 261,
+    "title": "How Korean Beauty Took the US Shelf",
+    "guest": "Kelly Peng and Han Xiao",
+    "guest_role": "US-based business writer · editor, Beauty Insider",
+    "date": "2026-11-26",
+    "duration_minutes": 90,
+    "youtube_url": "https://www.youtube.com/watch?v=7uXtzRAf4PM",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=7uXtzRAf4PM",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+      "fireside": "https://sv101.fireside.fm/275"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "EL",
+    "LRLCY",
+    "Private:Silicon2"
+  ],
+  "conclusion": "Mahua, Kelly Peng, and Han Xiao of Beauty Insider treat Korean beauty as an export policy, not a cheap cream. Korea has passed the US to become the second-largest beauty exporter after France. Global sales more than doubled in two years. Nearly a quarter of American households have used a Korean product. APR's European revenue was up about 380% in the second quarter. Silicon2 switched from chips in 2012 and now lists more than 430 brands, with US warehouses.",
+  "background": "E261, Nov 26, about 90 minutes. A joint episode of Silicon Valley 101 and its consumer show, hosted by contributing researcher Mahua. Kelly Peng writes from the Bay Area. Han Xiao edits Beauty Insider, a trade title. Manual Chinese captions. The claim is culture plus a group supply chain, not a low price alone. Amorepacific, founded in 1945, and LG Household and Health still own old labels and buy new ones. Olive Young, Sephora, and Costco are shelves, not the exporters. A product at $10 to $50 is the price that surprises people and is not the cause.",
+  "important_facts": [
+    "The export numbers. Across third-party counts, Korean beauty sales more than doubled globally in two years. The US is now the largest export destination. Nearly one in four American households has used a Korean product. Western Europe is growing faster than North America. Exports to the UK rose about 1.8 times in the first three quarters. APR, a newer group, grew European revenue about 380% in the second quarter. Korea has passed the US and sits second only to France as a beauty exporter. The price that surprises people is low: about 100 to 200 yuan, or $10 to $50, for products that sound technical. Kelly and Han Xiao say the heat is not the price. It is the control of a marketing concept, a state policy that sends culture out to carry the product, and a supply chain that leaves as a group rather than as one brand.",
+    "Old groups and new labels. The 1.0 brands and the 2.0 brands are partly the same companies. Amorepacific, founded in 1945, still has Sulwhasoo, Laneige, and Innisfree, and the 2.0 snail line COSRX, and it has been buying newer names such as Aestura. LG Household and Health is the other old giant that is still here. The new fortunes are often one group with a long list of small brands, each brand built around one hero product. Medicube is the example they use. Centralized media made Estee Lauder, L'Oreal, and Helena Rubinstein, and also Chinese names such as Proya. That broadcast is hard to repeat, outside elevator ads people hate. The new Korean labels spread through circles, then through US shelves at Sephora and Costco and through Olive Young at home. Local American influencers, not only Korean celebrities, now carry the product. Kendall Jenner is one of the endorsements they mention.",
+    "The distributor that used to sell chips. Silicon2 is the firm Mahua found organizing the overseas shelf, especially in Europe and, in the conversation, the US network. It was founded in 2002 as a semiconductor trader. In 2012, as Korean beauty was growing, it switched to cosmetics distribution. It is now one of the larger Korean beauty distributors. US warehouses mean the box does not have to come through Hong Kong, which changes time and cost versus peers that only store in Hong Kong. It works with more than 430 Korean brands. That is the group exit: culture, a pile of hero SKUs, and a distributor that already knows how to move physical goods across a border because it used to move chips. The Western incumbents on the tape are the brands of the broadcast era. They are not the ones opening the US warehouse."
+  ],
+  "mental_model": {
+    "name": "Culture First × Hero SKU × A Chip Trader's Warehouse",
+    "components": "Second-largest beauty exporter after France, ahead of the US. Sales more than doubled in two years. US is the top destination. Nearly a quarter of American homes have used a Korean product. UK exports about 1.8 times in three quarters. APR Europe about 380% in one quarter. Price $10 to $50 is not the cause. Amorepacific, since 1945, buys the new labels. Silicon2, chips from 2002, cosmetics from 2012, more than 430 brands, US warehouses. Estee and L'Oreal are the old broadcast brands. The warehouse, not the $10 bottle, is the operating asset.",
+    "application": "EL and LRLCY are the incumbents this wave is routing around, not the exporters. Private:Silicon2 is the distributor that makes the US shelf possible. Do not underwrite a salmon essence. Underwrite who owns the warehouse and how many hero SKUs sit behind one group."
+  },
+  "key_insights": [
+    {
+      "view": "Korea is now the number two beauty exporter.",
+      "question": "What are the figures?",
+      "answer": "Past the US, second to France. Global sales more than doubled in two years. The US is the top destination. Nearly one in four American households has used a product. APR's Europe was up about 380% in the second quarter."
+    },
+    {
+      "view": "The old groups are buying the new labels.",
+      "question": "Is Amorepacific finished?",
+      "answer": "Founded in 1945, still Sulwhasoo and Laneige, plus COSRX, and it bought Aestura. LG Household and Health is the other old giant. New money is often one group and many small brands, Medicube among them."
+    },
+    {
+      "view": "A chip trader now holds the US warehouse.",
+      "question": "What is Silicon2?",
+      "answer": "Founded in 2002 in semiconductor trade, switched to cosmetics in 2012, more than 430 Korean brands, warehouses in the US so the box does not wait in Hong Kong."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "EL",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Named as a centralized-media brand this Korean wave is not using to open the US shelf — low"
+    },
+    {
+      "ticker": "LRLCY",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "The other broadcast-era incumbent on the tape, beside Estee, not the exporter — low"
+    },
+    {
+      "ticker": "Private:Silicon2",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Semiconductor trader from 2002, cosmetics since 2012, 430-plus brands and US warehouses — low"
+    }
+  ],
+  "golden_quotes": [
+    "仅次于法国的",
+    "近1/4的美国家庭",
+    "同比增长了380%"
+  ],
+  "chronology": {
+    "subject": "Korean beauty · Silicon2 · Amorepacific",
+    "events": [
+      {
+        "date": "1945",
+        "event": "Amorepacific founded"
+      },
+      {
+        "date": "2002",
+        "event": "Silicon2 founded in semiconductor trade"
+      },
+      {
+        "date": "2012",
+        "event": "Silicon2 switches to cosmetics distribution"
+      },
+      {
+        "date": "2024-26",
+        "event": "Global Korean beauty sales more than double; US becomes top destination"
+      },
+      {
+        "date": "2026",
+        "event": "APR Europe about 380% in Q2; UK exports about 1.8x in three quarters"
+      },
+      {
+        "date": "2026-11-26",
+        "event": "E261 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window sv101-ep261",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube-zh",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

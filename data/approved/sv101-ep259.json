@@ -1,0 +1,122 @@
+{
+  "episode_id": "sv101-ep259",
+  "podcast": "Silicon Valley 101",
+  "host": "Hongjun",
+  "metadata": {
+    "episode_number": 259,
+    "title": "Quant Giants, Anti-Human Strategy, and the AI Compute Bet",
+    "guest": "XTX Markets researcher and a former DRW researcher",
+    "guest_role": "Quant researchers",
+    "date": "2026-11-22",
+    "duration_minutes": 150,
+    "youtube_url": "https://www.youtube.com/watch?v=yvV2svDKAEA",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yvV2svDKAEA",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+      "fireside": "https://sv101.fireside.fm/273"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Jane Street",
+    "Private:XTX",
+    "GS"
+  ],
+  "conclusion": "Jane Street pays about $2.68 million a person. Goldman, one street over, pays about $400,000. Banks left this spread after Volcker. Jane Street signed about $19 billion of compute this year. ETFs went from about $70 billion to about $24 trillion. XTX had about 25,000 GPUs at roughly 200 people by December 2024. The hiring test is losing your own money so you will not override the model.",
+  "background": "E259, Nov 22, about 150 minutes. Two guests from a closed industry: one at XTX Markets in London, one formerly at DRW, which started in rates and was present when Lehman fell in 2008. Alex Gerko built XTX from foreign exchange and has been among Britain's largest taxpayers. Citadel Securities and Hudson River Trading are in the same spread group. High-Flyer is the Chinese firm from that window. Manual Chinese captions.",
+  "important_facts": [
+    "The spread business the banks dropped. Hongjun's picture is an airport exchange desk: a bid, an offer, a thin gap. Market maker and high-frequency shop are the same people, machines and models. Goldman and Jane Street sit one street apart in Manhattan. Goldman pay is about $400,000 a person. Jane Street pay, from the Bloomberg report she cites, is about $2.68 million. Banks once ignored electronic market making because the profit looked too thin. After 2008 the Volcker rule limited proprietary trading with the bank's own money. Electronics did the rest. Twenty years later these firms are the new whales. Jane Street's edge was ETFs. That market was about $70 billion when it entered and about $24 trillion now. This year Jane Street signed about $19 billion of multi-year compute. XTX is also spending heavily on compute. Several of these firms were early investors in frontier model labs.",
+    "XTX, High-Flyer, and the anti-human rule. XTX was founded around the same time as OpenAI and bet early on deep learning. It was an early investor in Anthropic. It once shared a campus with DeepMind. A Financial Times report from about two years ago, dated December 2024 on the tape, put the firm at a bit over 200 people and about 25,000 GPUs. Last year three UK operating entities had about £3.93 billion of net revenue. Public filings imply nearly $20 million of revenue per employee, which Hongjun calls the highest among quant shops. Founder Alex Gerko came from FX. The hiring joke is the point: a researcher who steadily loses a few thousand of his own money, and more in a bad year, is hired because he will not override the model with a personal view. His boss says that personal judgment is nothing. High-Flyer, cofounded by DeepSeek's Liang Wenfeng, is the Chinese firm from the same era. DRW, the other guest's old shop, started in interest-rate derivatives and was in the market when Lehman failed in 2008.",
+    "Why the strategy is called anti-human. The product is not a star trader. It is a model that must not be talked out of a print by someone who is sure this time is different. The compensation gap, $400,000 versus $2.68 million, is what that model is worth to the people who keep it running. The compute bills, $19 billion at Jane Street and a large GPU pile at XTX, are the same bet the labs are making, funded by a spread instead of a subscription. ETFs supplied Jane Street's volume. Deep learning supplied XTX's. The regulatory gift was Volcker. None of these firms is a public stock on this tape except the bank that no longer owns the book. Goldman is the before picture, one street away and much cheaper per person."
+  ],
+  "mental_model": {
+    "name": "Thin Spread × No Human Override × Compute Like a Lab",
+    "components": "Bid, offer, a small gap, machines. Banks left because the margin looked thin and Volcker closed proprietary trading. Jane Street pay is about $2.68 million versus Goldman at about $400,000. ETFs went from about $70 billion to about $24 trillion. Jane Street signed about $19 billion of compute this year. XTX, about 200 people and 25,000 GPUs in December 2024, early Anthropic, about £3.93 billion net revenue and near $20 million per person. Hire the person who loses his own money so he will not touch the model. That rule is the product.",
+    "application": "Private:Jane Street and Private:XTX are the two compute-heavy books. GS is the firm one street away that no longer owns this spread. Do not buy a bank because the whale used to sit there. The public tell is the compute contract and the pay, not a ticker on the tape."
+  },
+  "key_insights": [
+    {
+      "view": "The spread the banks skipped became the whale.",
+      "question": "What is the pay gap?",
+      "answer": "Goldman about $400,000 a person. Jane Street about $2.68 million, one street over. Volcker plus electronic markets moved the book. ETFs went from about $70 billion to about $24 trillion."
+    },
+    {
+      "view": "These firms buy compute like labs.",
+      "question": "How large is the bill?",
+      "answer": "Jane Street about $19 billion of multi-year compute this year. XTX had about 25,000 GPUs at roughly 200 people by December 2024, and was an early Anthropic investor."
+    },
+    {
+      "view": "A losing personal account is the hiring test.",
+      "question": "Why not a star trader?",
+      "answer": "XTX wants someone who knows his own judgment is nothing, so he will not override the model. Three UK entities did about £3.93 billion of net revenue, near $20 million a person."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Jane Street",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "ETF spread book, about $2.68 million pay per person, about $19 billion of compute this year — low"
+    },
+    {
+      "ticker": "Private:XTX",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "About 25,000 GPUs, early Anthropic, about £3.93 billion UK net revenue, hire people who will not override the model — low"
+    },
+    {
+      "ticker": "GS",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "The Manhattan neighbor at about $400,000 a person, the firm that no longer owns this spread — low"
+    }
+  ],
+  "golden_quotes": [
+    "人均薪酬高达268万美元",
+    "190亿美元",
+    "24万亿美元"
+  ],
+  "chronology": {
+    "subject": "Jane Street · XTX · the spread banks left",
+    "events": [
+      {
+        "date": "2008",
+        "event": "Volcker era begins; DRW is in rates when Lehman fails"
+      },
+      {
+        "date": "2010s",
+        "event": "Jane Street rides ETFs from about $70 billion toward $24 trillion"
+      },
+      {
+        "date": "2015",
+        "event": "XTX founded near OpenAI; later an early Anthropic investor"
+      },
+      {
+        "date": "2024-12",
+        "event": "XTX about 200 people and 25,000 GPUs, per the FT figure on the tape"
+      },
+      {
+        "date": "2025",
+        "event": "Three UK entities about £3.93 billion net revenue"
+      },
+      {
+        "date": "2026",
+        "event": "Jane Street signs about $19 billion of multi-year compute"
+      },
+      {
+        "date": "2026-11-22",
+        "event": "E259 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window sv101-ep259",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube-zh",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}

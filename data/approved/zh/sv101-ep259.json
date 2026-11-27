@@ -1,0 +1,122 @@
+{
+  "episode_id": "sv101-ep259",
+  "podcast": "硅谷101",
+  "host": "泓君",
+  "metadata": {
+    "episode_number": 259,
+    "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+    "guest": "XTX Markets 研究员 · 前 DRW 研究员",
+    "guest_role": "量化研究员",
+    "date": "2026-11-22",
+    "duration_minutes": 150,
+    "youtube_url": "https://www.youtube.com/watch?v=yvV2svDKAEA",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yvV2svDKAEA",
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1498541229",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc",
+      "fireside": "https://sv101.fireside.fm/273"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:Jane Street",
+    "Private:XTX",
+    "GS"
+  ],
+  "conclusion": "泓君把Jane Street、XTX、Citadel Securities和Hudson River Trading写成股票和ETF交易对面的人，赚的是机场换汇柜台那种薄价差。高盛人均大约40万美元。隔一条街的Jane Street，她引用彭博，人均大约268万美元。银行觉得太薄，沃尔克规则又限制了自营，这块生意让了出去。Jane Street今年签了大约190亿美元的多年算力合同。ETF从它进入时的大约700亿美元到现在大约24万亿美元。XTX和OpenAI差不多同时成立，是Anthropic的早期投资人，2024年12月大约200人和25000张GPU，去年三家英国实体净营收大约39.3亿英镑，人均接近2000万美元。幻方是梁文锋的中国对照。招聘测验是你自己的账户会稳定亏钱，这样你就不会用个人判断去改模型。",
+  "background": "E259，11月22日，大约150分钟。两位来自封闭行业的嘉宾：一位在伦敦XTX Markets，一位曾在DRW，利率衍生品起家，2008年雷曼倒下时在场。Alex Gerko从外汇做出XTX，做过英国纳税最多的人之一。中文人工字幕。",
+  "important_facts": [
+    "银行丢掉的价差。泓君的图是机场换汇柜台：买价、卖价、中间很薄。做市商和高频说的是同一批人，机器和模型。曼哈顿高盛和Jane Street隔一条街。高盛人均大约40万美元。Jane Street人均，她引用的彭博报道，大约268万美元。银行曾经看不上电子做市，因为利润看起来太薄。2008年之后沃尔克规则限制银行用自己的钱做自营。电子化做了剩下的事。二十年后这些公司是新的巨鲸。Jane Street的优势是ETF。它进入时这个市场大约700亿美元，现在大约24万亿美元。今年Jane Street签了大约190亿美元的多年算力合同。XTX也在重金押算力。其中几家还是前沿模型实验室的早期投资人。",
+    "XTX、幻方，以及反人性。XTX和OpenAI差不多同时成立，很早押深度学习，也是Anthropic的早期投资人，曾经和DeepMind在同一个园区。大约两年前的《金融时报》，带子上写的是2024年12月，公司200多人、大约25000张GPU。去年三家英国运营实体净营收大约39.3亿英镑。按公开备案估算，人均接近2000万美元，泓君称为量化公司里最高的一档。创始人Alex Gerko从外汇来，做过英国纳税最多的人。招聘笑话就是论点：一个研究员自己的账户每年稳定亏几千，差的年份亏更多，才会被留下，因为他不会用个人判断去改模型。老板说个人判断什么都不是。幻方由DeepSeek的梁文锋联合创办，是同一时期的中国公司。另一位嘉宾的旧东家DRW从利率衍生品起家，雷曼2008年倒下时在场。",
+    "为什么叫反人性。产品不是明星交易员，是一个不能被「这次不一样」说动的模型。40万美元对268万美元的薪酬差，是这个模型对维护它的人值多少钱。算力账单，Jane Street大约190亿美元，XTX一大堆GPU，是和实验室同一笔赌注，资金来自价差而不是订阅。ETF给了Jane Street成交量。深度学习给了XTX。监管送的礼是沃尔克。这期带子上除了已经不再拥有这块账本的银行，这些公司都不是上市股票。高盛是「之前」的画面，隔一条街，每个人便宜得多。"
+  ],
+  "mental_model": {
+    "name": "薄价差 × 不许人改模型 × 像实验室一样买算力",
+    "components": "买价、卖价、一条小缝、机器。银行离开是因为利润看起来薄，沃尔克关掉了自营。Jane Street人均大约268万美元，高盛大约40万。ETF从大约700亿美元到大约24万亿美元。Jane Street今年大约190亿美元算力。XTX在2024年12月大约200人和25000张GPU，早期投了Anthropic，净营收大约39.3亿英镑，人均近2000万美元。雇那个会把自己的钱亏掉的人，这样他不会去碰模型。",
+    "application": "Private:Jane Street和Private:XTX是两本重算力的账。GS是隔街那家不再拥有这个价差的公司。不要因为巨鲸以前坐在银行里就去买银行。公开的信号是算力合同和薪酬，不是带子上的一个交易代码。"
+  },
+  "key_insights": [
+    {
+      "view": "银行跳过的价差变成了巨鲸。",
+      "question": "薪酬差多少？",
+      "answer": "高盛大约每人40万美元。Jane Street大约268万美元，隔一条街。沃尔克加上电子市场把账本搬走了。ETF从大约700亿美元到大约24万亿美元。"
+    },
+    {
+      "view": "这些公司和实验室一样买算力。",
+      "question": "账单有多大？",
+      "answer": "Jane Street今年大约190亿美元的多年合同。XTX到2024年12月大约200人、25000张GPU，并且是Anthropic的早期投资人。"
+    },
+    {
+      "view": "自己的账户会亏，才是招聘测验。",
+      "question": "为什么不是明星交易员？",
+      "answer": "XTX要一个知道自己的判断什么都不是的人，这样他不会改模型。三家英国实体净营收大约39.3亿英镑，人均接近2000万美元。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "Private:Jane Street",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "ETF spread book, about $2.68 million pay per person, about $19 billion of compute this year — low"
+    },
+    {
+      "ticker": "Private:XTX",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "About 25,000 GPUs, early Anthropic, about £3.93 billion UK net revenue, hire people who will not override the model — low"
+    },
+    {
+      "ticker": "GS",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "The Manhattan neighbor at about $400,000 a person, the firm that no longer owns this spread — low"
+    }
+  ],
+  "golden_quotes": [
+    "人均薪酬高达268万美元",
+    "190亿美元",
+    "24万亿美元"
+  ],
+  "chronology": {
+    "subject": "Jane Street · XTX · the spread banks left",
+    "events": [
+      {
+        "date": "2008",
+        "event": "Volcker era begins; DRW is in rates when Lehman fails"
+      },
+      {
+        "date": "2010s",
+        "event": "Jane Street rides ETFs from about $70 billion toward $24 trillion"
+      },
+      {
+        "date": "2015",
+        "event": "XTX founded near OpenAI; later an early Anthropic investor"
+      },
+      {
+        "date": "2024-12",
+        "event": "XTX about 200 people and 25,000 GPUs, per the FT figure on the tape"
+      },
+      {
+        "date": "2025",
+        "event": "Three UK entities about £3.93 billion net revenue"
+      },
+      {
+        "date": "2026",
+        "event": "Jane Street signs about $19 billion of multi-year compute"
+      },
+      {
+        "date": "2026-11-22",
+        "event": "E259 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 硅谷101 sv101-ep259",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "youtube-zh",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
