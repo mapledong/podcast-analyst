@@ -1,0 +1,126 @@
+# EP.158 — Shen Yikang
+
+## *Founder-CEO, Learning Machine; former xAI pretraining*
+
+**★★★☆☆** · 3/5
+
+**Podcast** Zhang Xiaojun Podcast · **Date** Nov 24, 2026 · **Duration** 202 min · **Read** ≈8 min
+
+**Host** Zhang Xiaojun
+
+**Guest** Shen Yikang · Founder-CEO, Learning Machine; former xAI pretraining
+
+**Listen**  · [Apple](https://podcasts.apple.com/cn/podcast/id1634356920)
+
+**Topics** xAI · NVDA · Anthropic
+> ### Conclusion
+>
+> Shen Yikang recaps 2026 from inside the training stack. The week of this taping, Silicon Valley felt pessimistic: Anthropic listing talk had moved from about 2 trillion to about 1.3 trillion, and Jensen Huang was, on that tape, out. xAI can stand up a few hundred thousand GB-class GPUs in months and, he says, can clear more than 10 billion a year as a cloud even if the model is not first. The failure is direction. RSI today is a linear 10 to 20 percent. A new capability is the unsolved half. Learning Machine is the continual-learning bet.
+
+---
+
+## Background
+
+> E158, Nov 24, about 202 minutes. Zhang Xiaojun with Shen Yikang, founder-CEO of Learning Machine and a former xAI pretraining researcher who joined in early 2025. Before that he led a pretraining team at a lab Whisper renders as APPM and does not expand. A Montreal PhD from 2016, architectures from LSTM to the transformer, and a tape credit for an ICLR 2019 best paper. Whisper hears Shen Yikang as Shen Yikang-variant, Grok as Glock, Muon as Mewang, and DeltaNet as Dark Knight. The hour was taped the week the show was treating Jensen Huang as out. The day before publish he was said to be back, and they kept the earlier tape. That sequence is the episode account. At IBM he worked with MIT on gated linear attention and DeltaNet. He says a recent Kimi model combines those two. The papers he ranks are the transformer, GPT-style in-context learning and scaling, RLHF or SFT, and chain-of-thought. He calls language the key to intelligence.
+
+---
+
+## Key Facts
+
+> **F1** The week felt like a bubble argument. Shen calls the Silicon Valley mood pessimistic. Anthropic, he says, went from listing talk near 2 trillion to about 1.4 trillion and then about 1.3 trillion. New labs were still raising at hundreds of millions and at tens of billions, series A or series C, which he sets next to the hottest stretch of the internet bubble. His own round is money already sitting with VCs, so a short shock does not pull it. He puts the cleanup from year-end into next year, and possibly one to two years, while the technology itself still looks to him like it is moving. The complaint he hears about Huang is the GPU price, which he treats as demand. He puts the next stretch at about 50 percent either way, and says the shock has not yet changed how the industry works. He wants the chip supply, and the financing around it, not to break.
+
+> **F2** xAI was not short of money or people. Grok 1, Grok 2, and Grok 3 scaled up. The cluster moved from H100 to GB200 to large GB300 deployments. A few hundred thousand cards can be stood up in months. He calls the lab one of the largest buyers of the GB series, with a large share of that capacity. Even if the model is not the winner, xAI or SpaceX as a cloud vendor can still clear more than 10 billion a year. The tape does not name the currency. The failure is the digit in front. Engineering speed and talent density are the zeros. Without one stable direction, each area ends a step behind the first tier, and the early spend is hard to justify. A rocket wreck can be collected and read. A model is right or wrong only after users show up. The leftover path, if you are not the frontier, is to distill behavior off a frontier model.
+
+> **F3** RSI, as he defines it, is GPT-4 training GPT-5 with no person in the loop. A 10 percent faster kernel, a 10 percent better optimizer, cleaner data, and new synthetic data add up to a 10 to 20 percent gain from one generation to the next. That linear gain is what exists now, including a coding score moving from 50 to 70. Inventing a capability the last model did not have, such as chain-of-thought, is the unsolved half. Infra moved first because token throughput is one number. A small pretrain can iterate in minutes to an hour. Post-training is slower because the benchmarks do not agree. A startup that runs the loop on Claude may be improving Claude. Continual learning is related and is not a subset. After deployment, task A is slow, B is faster, C is direct, and D falls from a slow pass to a fast one. Frontier RSI shops are not, on what he has seen, slower than the new labs. That comparison still needs a test.
+
+
+---
+
+## Mental Model · *One direction × linear RSI × a private front door*
+
+> **Components**
+>
+> Separate the cluster from the research bet. A few hundred thousand GB cards in months, and a cloud that can clear more than 10 billion a year, are a survival plan even when the model is not first. They do not pick the next capability. User data is slower than the 2023 story. It does not open a gap in one release. It tells a lab which problem to train for, repo-level work versus a single change, and that hint is why a coding share matters. RSI that only climbs an existing score, 10 percent on a kernel or 20 points on a coding test, is a tool the frontier labs already run. A new idea, a training trick the last model could not express, is the bar he does not think anyone has cleared. Continual learning sits beside that bar. The model keeps the domain after it is shipped, so the fourth task in a family no longer needs a long search. A white box, in this telling, is the shape of the update, not a caption on every neuron. Muon pulls large destructive steps down and small patterns up, which also covers a data mix that was never balanced. The product picture is a personal agent as the front door and a specialist model inside each firm. The legal file goes out as a packet. The private history stays put. Anthropic, once it found coding and held most of that market, is his example of a lab that can see the next training choice instead of guessing. A small lab does not get a free pass on RSI just by being new. What it can own is the memory after shipping, because that asks for a different pretrain and post-train design from the first day.
+>
+> **Application**
+>
+> NVDA is the supply he does not want broken, and the price is the complaint he will live with. Private:xAI is the cluster and the cloud cash, under a direction that has not stayed still. Private:Anthropic is the coding loop that actually collects users, while the listing number on this tape fell from about 2 trillion toward about 1.3. Learning Machine is the continual-learning company, not a mark on those three.
+
+---
+
+
+## Key Insights
+
+> **1.** The zeros do not save a missing one.
+>
+> **Q** Why did a rich xAI pretrain still miss the first tier?
+>
+> **A** People, speed, and GPUs were there. Grok moved from the first model to the third. Cards moved from H100 to GB200 to GB300, and a few hundred thousand can arrive in months. He still says each area finished a step behind, because the lab did not stay on one direction long enough for the spend to compound. A rocket team can read a wreck. A model team learns from users it does not have unless it is already in front. Distilling a frontier model is what remains. More than 10 billion a year of cloud revenue, currency unnamed, can keep the firm alive and still leave every research area a step behind. Standing the cards up is a few months of work. Choosing what those cards should learn, and staying with that choice, is the part the lab did not bank. He is explicit about the gap.
+
+> **2.** Linear RSI is not a new capability.
+>
+> **Q** What would count as RSI actually working?
+>
+> **A** Using GPT-4 to train GPT-5 with no person in the loop, for a 10 percent faster kernel or a cleaner dataset, is the linear version, and a 10 to 20 percent generation gain is the result he says labs already get. A coding score from 50 to 70 is the same kind of climb. The flag he wants is a capability the previous model did not have, found by the agent rather than specified by a researcher. Infra got there first because throughput is one score. Post-training has too many scores. A loop that calls Claude may be teaching Claude.
+
+> **3.** The agent should be a door, not the whole building.
+>
+> **Q** What does decentralized AI mean on this tape?
+>
+> **A** Each person holds a model that knows them and does not leak. Each firm holds a model with its own files. The personal agent routes a job, the way a search box routes a query to a site it does not own. A legal packet goes to a legal model and comes back done. Phone chips and a laptop that is not always open are limits, so this is not a promise that the model lives on the device. The white-box claim is narrower too. He can describe the update, including a Muon step that evens lengths across directions. He does not claim a name for every neuron. Learning rate driven all the way to zero is also not the checkpoint he trusts, because the last steps overfit.
+
+---
+
+## Investment Ideas
+
+> **1. NVDA** · 🟢 LONG · ●○○ Low
+>
+> Chip supply he does not want broken; the complaint is price — low
+
+> **2. xAI** · 🟢 LONG · ●○○ Low
+>
+> A GB cluster and cloud cash above 10 billion, if one direction holds — low
+
+> **3. Anthropic** · 🟢 LONG · ●○○ Low
+>
+> Coding share that collects a real user loop, as the listing talk fell — low
+
+---
+
+## Golden Quotes
+
+> "我觉得最近两周的硅谷的氛围其实是挺悲观的"
+
+> "我觉得XI最大的问题就是它没有自己稳定的站位方向"
+
+> "每年依然能够有上百亿的收入"
+
+---
+
+## Chronology
+
+> *Shen Yikang · xAI pretrain · Learning Machine*
+>
+> **2016** Starts architecture research in a Montreal PhD
+>
+> **2019** Tape credits an ICLR best paper
+>
+> **2025-01** Joins xAI pretraining, architecture and scaling
+>
+> **2026** Founder-CEO of Learning Machine, on continual learning
+>
+> **2026-11** Taping, the week the show treats Jensen Huang as out
+>
+> **2026-11-23** Day before publish, the show says he is back; the tape stays
+>
+> **2026-11-24** E158 publishes
+>
+
+---
+
+## Disclaimer
+
+- **Independent notes.** This summary is not affiliated with, endorsed by, or produced by Zhang Xiaojun Podcast, Zhang Xiaojun, or Shen Yikang. It reflects independent analyst notes for personal research and education only.
+- **Original content.** All rights to the podcast audio, show materials, and guest remarks belong to the respective rights holders. Short attributed quotes are used for commentary; this is not a transcript or reproduction of the episode.
+- **Not advice.** Nothing here is investment, legal, or professional advice. Listen to the original episode for full context and the guest's own words.
+- **Corrections & takedown.** If you are a rights holder and believe this summary misuses your content, please request review or removal through the podcast-analyst project contact.

@@ -3112,6 +3112,16 @@ episodes:
   youtube_url: https://www.youtube.com/watch?v=OSxQnF4sIz8
   podcast: Practical Investments
   xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/643cdf1ad3d94ec2ad39ae94
+- id: zj-ep158
+  episode_number: 158
+  title: 2026 Recap with Shen Yikang — xAI, RSI, and a White-Box Pretrain
+  guest: Shen Yikang
+  guest_role: Founder-CEO, Learning Machine; former xAI pretraining
+  date: '2026-11-24'
+  duration_minutes: 202
+  youtube_url: ''
+  podcast: Zhang Xiaojun Podcast
+  xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/episode/6b05746801b0ab432eddab62
 - id: acq-amazon-com
   episode_number: 157
   title: Amazon.com

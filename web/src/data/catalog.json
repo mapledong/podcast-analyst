@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T13:34:50.058Z",
+  "generatedAt": "2026-11-27T13:42:27.772Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -49,7 +49,7 @@
       "accent_color": "#8B2942",
       "youtube_url": "https://www.youtube.com/@xiaojunpodcast",
       "cover_url": "/covers/zhang-xiaojun.jpg",
-      "episodeCount": 38
+      "episodeCount": 39
     },
     {
       "id": "touzi-shizhanpai",
@@ -11045,6 +11045,55 @@
       "chronologySubject": "David · NVDA $5T Bear Case"
     },
     {
+      "id": "zj-ep158",
+      "podcastId": "zhang-xiaojun",
+      "episodeNumber": 158,
+      "title": "2026 Recap with Shen Yikang — xAI, RSI, and a White-Box Pretrain",
+      "guest": "Shen Yikang",
+      "displayTitle": "Shen Yikang",
+      "displaySubtitle": "Founder-CEO, Learning Machine; former xAI pretraining",
+      "guestRole": "Founder-CEO, Learning Machine; former xAI pretraining",
+      "date": "2026-11-24",
+      "durationMinutes": 202,
+      "readMinutes": 8,
+      "rating": 3,
+      "conclusion": "Shen Yikang recaps 2026 from inside the training stack. The week of this taping, Silicon Valley felt pessimistic: Anthropic listing talk had moved from about 2 trillion to about 1.3 trillion, and Jensen Huang was, on that tape, out. xAI can stand up a few hundred thousand GB-class GPUs in months and, he says, can clear more than 10 billion a year as a cloud even if the model is not first. The failure is direction. RSI today is a linear 10 to 20 percent. A new capability is the unsolved half. Learning Machine is the continual-learning bet.",
+      "youtubeUrl": "",
+      "summaryFile": "zj-ep158.md",
+      "summaryFileZh": "zj-ep158.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Private:xAI",
+        "NVDA",
+        "Private:Anthropic"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "NVDA",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Chip supply he does not want broken; the complaint is price — low"
+        },
+        {
+          "ticker": "Private:xAI",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "A GB cluster and cloud cash above 10 billion, if one direction holds — low"
+        },
+        {
+          "ticker": "Private:Anthropic",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Coding share that collects a real user loop, as the listing talk fell — low"
+        }
+      ],
+      "chronologySubject": "Shen Yikang · xAI pretrain · Learning Machine"
+    },
+    {
       "id": "zj-ep157",
       "podcastId": "zhang-xiaojun",
       "episodeNumber": 157,
@@ -17539,47 +17588,6 @@
       "chronologySubject": "Slack / Salesforce acquisition"
     },
     {
-      "id": "acq-virgin-galactic",
-      "podcastId": "acquired",
-      "episodeNumber": 110,
-      "title": "Virgin Galactic",
-      "guest": "Virgin Galactic",
-      "displayTitle": "Virgin Galactic",
-      "displaySubtitle": "Season 7 · Episode 6",
-      "guestRole": "Season 7 · Episode 6",
-      "date": "2020-11-22",
-      "durationMinutes": 108,
-      "readMinutes": 5,
-      "rating": 3,
-      "conclusion": "Virgin Galactic's story spans Peter Diamandis's 1996 $10M XPRIZE (won 2004 by Burt Rutan's SpaceShipOne after Paul Allen's ~$20M secret funding) to Richard Branson's 2004 \"screw it, let's do it\" acquisition the night before the prize flight. Tickets started at $200,000; ~600 paid full price plus deposits on \"One Small Step.\" Sixteen years and $1B+ R&D later, suborbital tourism still awaits routine passenger flights — Branson SPAC'd the company in 2019 with Chamath (VG Acquisition Corp). Bull case: 1.8M humans with $10M+ net worth × 10% uptake × $250K ≈ $50B lifetime revenue potential; bear case: SpaceX reached orbit routinely while Virgin delayed through 2020 COVID and 15th postponement culture. Feather reentry and White Knight mothership design remain ingenious; capitalization and market-existence risk do not — ASCEND 2020 live episode compares SpaceX orbital cadence to 16 years of Virgin schedule slips and November 2020 COVID test delay.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-virgin-galactic.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Space Tourism",
-        "XPRIZE",
-        "SPAC Financing"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "SPCE",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "High-beta call on suborbital tourism execution; November 2020 test delay and 16-year slip history keep bear case alive despite preorder backlog."
-        },
-        {
-          "ticker": "SPACE",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Private SpaceX not investable here — episode uses as execution benchmark; orbital launch revenue vs. Virgin tourism TAM contrast."
-        }
-      ],
-      "chronologySubject": "Virgin Galactic"
-    },
-    {
       "id": "fnd-132-edwin-land-steve-jobs-s-hero",
       "podcastId": "founders",
       "episodeNumber": 132,
@@ -18892,6 +18900,47 @@
         }
       ],
       "chronologySubject": "Andy Grove · Swimming Across · Intel"
+    },
+    {
+      "id": "acq-virgin-galactic",
+      "podcastId": "acquired",
+      "episodeNumber": 110,
+      "title": "Virgin Galactic",
+      "guest": "Virgin Galactic",
+      "displayTitle": "Virgin Galactic",
+      "displaySubtitle": "Season 7 · Episode 6",
+      "guestRole": "Season 7 · Episode 6",
+      "date": "2020-11-22",
+      "durationMinutes": 108,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Virgin Galactic's story spans Peter Diamandis's 1996 $10M XPRIZE (won 2004 by Burt Rutan's SpaceShipOne after Paul Allen's ~$20M secret funding) to Richard Branson's 2004 \"screw it, let's do it\" acquisition the night before the prize flight. Tickets started at $200,000; ~600 paid full price plus deposits on \"One Small Step.\" Sixteen years and $1B+ R&D later, suborbital tourism still awaits routine passenger flights — Branson SPAC'd the company in 2019 with Chamath (VG Acquisition Corp). Bull case: 1.8M humans with $10M+ net worth × 10% uptake × $250K ≈ $50B lifetime revenue potential; bear case: SpaceX reached orbit routinely while Virgin delayed through 2020 COVID and 15th postponement culture. Feather reentry and White Knight mothership design remain ingenious; capitalization and market-existence risk do not — ASCEND 2020 live episode compares SpaceX orbital cadence to 16 years of Virgin schedule slips and November 2020 COVID test delay.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-virgin-galactic.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Space Tourism",
+        "XPRIZE",
+        "SPAC Financing"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "SPCE",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "High-beta call on suborbital tourism execution; November 2020 test delay and 16-year slip history keep bear case alive despite preorder backlog."
+        },
+        {
+          "ticker": "SPACE",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Private SpaceX not investable here — episode uses as execution benchmark; orbital launch revenue vs. Virgin tourism TAM contrast."
+        }
+      ],
+      "chronologySubject": "Virgin Galactic"
     },
     {
       "id": "acq-superhuman",

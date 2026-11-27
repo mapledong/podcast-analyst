@@ -1,0 +1,126 @@
+{
+  "episode_id": "zj-ep158",
+  "podcast": "张小珺商业访谈录",
+  "host": "张小珺",
+  "metadata": {
+    "episode_number": 158,
+    "title": "E158 2026年复盘：和沈驿康聊黄仁勋、xAI、RSI、持续学习与预训练白盒",
+    "guest": "沈驿康",
+    "guest_role": "Learning Machine 创始人兼 CEO · 前 xAI 预训练",
+    "date": "2026-11-24",
+    "duration_minutes": 202,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1634356920",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6b05746801b0ab432eddab62"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "Private:xAI",
+    "NVDA",
+    "Private:Anthropic"
+  ],
+  "conclusion": "沈驿康从训练栈里面复盘2026。这期录制的那一周，硅谷情绪悲观：Anthropic上市说法从大约2万亿说到大约1.3万亿，节目里的黄仁勋当时是离开的。xAI可以在几个月里拉起几十万张GB卡。他说就算模型不是第一，做成云一年也能有上百亿收入。失败在方向。前面的1如果一直换，后面的0没有用。现在的RSI是线性的10%到20%。新能力还没人做出来。Learning Machine押的是持续学习。",
+  "background": "E158，11月24日，大约202分钟。张小珺对谈沈驿康，Learning Machine创始人兼CEO，2025年初加入xAI预训练，之前在一家Whisper听成APPM、没有展开的实验室负责整个预训练团队。2016年起在蒙特利尔读博做架构，从LSTM到transformer，节目里提到ICLR 2019的最佳论文。Whisper把沈驿康听成沈亿康，把Grok听成Glock，把Muon听成Mewang，把DeltaNet听成Dark Knight。节目录于节目所说黄仁勋离开后的一周。发布前一天他又回来了，他们把原来的录音留着。这是节目自己的时间线。",
+  "important_facts": [
+    "那一周像一场泡沫辩论。他说硅谷氛围挺悲观。Anthropic的上市说法从大约2万亿变成大约1.4万亿，再到大约1.3万亿。新实验室仍在以几亿到几十亿估值融A轮或C轮，他拿来和互联网泡沫最热的一段比。他自己要融的钱是已经在VC手里的资金，短震不会把它抽走。清理期他放到今年年底到明年，也可能一到两年，技术本身他仍然觉得在变快。对黄仁勋听到的抱怨是GPU越来越贵，他认为这是需求。他希望芯片供应和周围的融资环境不要断。",
+    "xAI不缺钱，也不缺人。Grok从1到2到3，规模在涨。集群从H100到GB200，再到大规模GB300。几十万张卡可以在几个月里建起来。他说他们是GB系列最大的买家之一，很大一部分产能在这边。就算模型不成功，xAI或SpaceX做成云，一年仍可以有上百亿收入。带子没有说币种。问题是前面的那个1。工程速度和人才密度是后面的0。方向不稳定，每个领域都会差第一梯队一截，早期投入就很难解释。火箭炸了可以把碎片收回来读。模型对不对，要等用户用了才知道。不是frontier，剩下的路就是去蒸馏frontier模型的行为。",
+    "他把RSI定义成用GPT-4训练GPT-5，人不再介入。内核快10%，优化器好10%，清掉脏数据，再自动造一批新方向的数据，加起来一代提升10%到20%。这是现在有的线性版本，包括coding从50分到70分。上一代没有的能力，比如在没有思维链的模型上做出思维链，是还没解决的那一半。Infra最先动，因为token吞吐量是一个数。小预训练几分钟到一小时就能迭代。后训练更慢，因为benchmark对不齐。用Claude把循环跑起来的创业公司，可能是在训练Claude。持续学习相关，但不是子集。部署之后，任务A很慢，B更快，C可以直接做，D从慢思考变成快反应。这是Learning Machine要做的。他看到的frontier实验室做RSI并不比新公司慢。这个比较还需要验证。"
+  ],
+  "mental_model": {
+    "name": "一个方向 × 线性RSI × 私人前门",
+    "components": "把集群和研究赌注分开。几个月几十万张GB卡，以及一年上百亿的云收入，是模型不是第一时的生存方案。它们不决定下一种能力。用户数据比2023年的故事慢。它不会在一个版本里拉开鸿沟。它告诉实验室下一步该练什么，是整个仓库还是一个改动。这就是coding份额有用的原因。只爬现有分数的RSI，内核快10%或者coding高20分，frontier实验室已经在跑。新想法，上一代模型表达不了的训练技巧，是他认为还没有人跨过的线。持续学习在这条线旁边。模型出货之后还留着这个领域的经验，所以同一族的第四个任务不必再长搜索。白盒在这里是更新的形状，不是给每个神经元起名字。Muon把破坏性的大步压下去，把小的模式提上来，也补一块本来就不平衡的数据配比。产品图景是个人agent当大门，每家公司里有专家模型。法律文件打包送出去。私人历史留在原地。",
+    "application": "NVDA是他不希望断掉的供应，价格是他可以接受的抱怨。Private:xAI是集群和云的现金，方向还没有站稳。Private:Anthropic是真能收到用户的coding循环，这期带子上的上市数字从大约2万亿落到大约1.3万亿。Learning Machine是持续学习公司，不是这三家里的一个标的。"
+  },
+  "key_insights": [
+    {
+      "view": "后面的0救不了前面缺失的1。",
+      "question": "资源很多的xAI为什么还是没进第一梯队？",
+      "answer": "人、速度和GPU都在。Grok从第一代走到第三代。卡从H100到GB200再到GB300，几十万张可以在几个月里到位。他仍然说每个领域都差一截，因为实验室没有在一个方向上停留到投入可以复利。火箭队能读残骸。模型队要有用户才学得会，除非它已经在前面。剩下的路是蒸馏frontier模型。"
+    },
+    {
+      "view": "线性的RSI不是一种新能力。",
+      "question": "怎样才算RSI真的做成了？",
+      "answer": "用GPT-4训练GPT-5、人不进循环，内核快10%或数据更干净，这是线性版本。一代10%到20%是他说实验室已经拿到的结果。coding从50分到70分是同一种爬升。他要的旗子是上一代没有的能力，由agent找出来，而不是研究员写进规格。Infra先到，因为吞吐量是一个分数。后训练的分数太多。调用Claude的循环，可能是在教Claude。"
+    },
+    {
+      "view": "Agent应该是门，不是整栋楼。",
+      "question": "这期说的去中心化是什么？",
+      "answer": "每个人有一个了解自己、又不外泄的模型。每家公司有一个装着自己文件的模型。个人agent把活分出去，像搜索框把查询送到它并不拥有的网站。法律材料打包给法律模型，办完送回。手机算力和不会一直开着的笔记本是限制，所以这不是承诺模型住在设备上。白盒也比较窄。他能描述更新，包括Muon把各个方向的步长拉平。他不声称能给每个神经元起名。学习率一路收到零也不是他信任的检查点，因为最后几步会过拟合。"
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Chip supply he does not want broken; the complaint is price — low",
+      "rationale": "Everyone still needs the GPUs. The gripe he hears is that they got expensive, which he reads as demand. The resignation week is the episode account, and he hopes the supply and the financing around it hold."
+    },
+    {
+      "ticker": "Private:xAI",
+      "company": "xAI",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "A GB cluster and cloud cash above 10 billion, if one direction holds — low",
+      "rationale": "Hundreds of thousands of cards in months, a large share of GB supply, and a cloud that can clear more than 10 billion a year even if the model is not first. The research bet fails when the direction moves."
+    },
+    {
+      "ticker": "Private:Anthropic",
+      "company": "Anthropic",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "Coding share that collects a real user loop, as the listing talk fell — low",
+      "rationale": "Finding coding and keeping most of that market is how a lab gets the feedback a model needs. On this tape the listing talk moved from about 2 trillion to about 1.3 trillion. He treats that as caution, not a break in the technical case."
+    }
+  ],
+  "golden_quotes": [
+    "我觉得最近两周的硅谷的氛围其实是挺悲观的",
+    "我觉得XI最大的问题就是它没有自己稳定的站位方向",
+    "每年依然能够有上百亿的收入"
+  ],
+  "chronology": {
+    "subject": "Shen Yikang · xAI pretrain · Learning Machine",
+    "events": [
+      {
+        "date": "2016",
+        "event": "Starts architecture research in a Montreal PhD"
+      },
+      {
+        "date": "2019",
+        "event": "Tape credits an ICLR best paper"
+      },
+      {
+        "date": "2025-01",
+        "event": "Joins xAI pretraining, architecture and scaling"
+      },
+      {
+        "date": "2026",
+        "event": "Founder-CEO of Learning Machine, on continual learning"
+      },
+      {
+        "date": "2026-11",
+        "event": "Taping, the week the show treats Jensen Huang as out"
+      },
+      {
+        "date": "2026-11-23",
+        "event": "Day before publish, the show says he is back; the tape stays"
+      },
+      {
+        "date": "2026-11-24",
+        "event": "E158 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window 张小珺 E158",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
