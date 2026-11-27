@@ -42,6 +42,12 @@ aliases:
   moutai: 600519.SZ
   贵州茅台: 600519.SZ
   kweichow moutai: 600519.SZ
+  vanke: 000002.SZ
+  万科: 000002.SZ
+  "china vanke": 000002.SZ
+  luxshare: 002475.SZ
+  立讯精密: 002475.SZ
+  "luxshare precision": 002475.SZ
   东鹏饮料: 605499.SH
   老铺黄金: 6181.HK
   农夫山泉: 9633.HK
@@ -199,3 +205,9 @@ china_listings:
   300308.SZ:
     zh: 中际旭创
     en: Zhongji Innolight
+  000002.SZ:
+    zh: 万科
+    en: China Vanke
+  002475.SZ:
+    zh: 立讯精密
+    en: Luxshare Precision

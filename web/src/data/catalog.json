@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T13:22:20.920Z",
+  "generatedAt": "2026-11-27T13:34:50.058Z",
   "podcasts": [
     {
       "id": "invest-like-the-best",
@@ -59,7 +59,7 @@
       "accent_color": "#1A5F4A",
       "youtube_url": "https://www.youtube.com/results?search_query=投资实战派",
       "cover_url": "/covers/touzi-shizhanpai.jpg",
-      "episodeCount": 52
+      "episodeCount": 53
     },
     {
       "id": "silicon-valley-101",
@@ -7337,53 +7337,47 @@
       "chronologySubject": "Token Maxing · OpenClaw · Hermes"
     },
     {
-      "id": "tzs-ep211",
+      "id": "tzs-ep212",
       "podcastId": "touzi-shizhanpai",
-      "episodeNumber": 211,
-      "title": "A Bad Tape Is for Reading — Yongqing's Value-Investing Shelf, with Sam",
-      "guest": "Yongqing",
-      "displayTitle": "Yongqing",
-      "displaySubtitle": "Host, on the books, with Sam as stand-in",
-      "guestRole": "Host, on the books, with Sam as stand-in",
-      "date": "2026-11-18",
-      "durationMinutes": 78,
+      "episodeNumber": 212,
+      "title": "Steady Is Fast — Liang Yufeng on Allocation After the Drawdown",
+      "guest": "Liang Yufeng",
+      "displayTitle": "Liang Yufeng",
+      "displaySubtitle": "Author, Steady Is Fast",
+      "guestRole": "Author, Steady Is Fast",
+      "date": "2026-11-23",
+      "durationMinutes": 77,
       "readMinutes": 5,
       "rating": 3,
-      "conclusion": "Sam hosts after a Shanghai podcast-festival book panel. Yongqing's shared shelf, if he may name only three, is three Columbia value courses. Greenwald's Competition Demystified is the business test: without an advantage you cannot forecast, because the company cannot forecast itself. Value Investing from Graham to Buffett is the valuation test: assets, earnings, and growth. The analyst's advanced guide is how you write the case for a boss, a client, or yourself. Value meant quality in 2019, PDD and Li Auto in 2021, and dividends now. Courage to Be Disliked covers wanting 12 times and printing 10.",
+      "conclusion": "After the October drawdown, Liang Yufeng walks through Steady Is Fast. CSI 300 is under 14 times, an earnings yield near 7.5 percent, and ROE near 11 to 12 percent on a 1.4 price to book. Deposits are about 1 percent. Credit bonds are about 2 to 3 percent. He wants a pyramid: more equity when cheap, less if Shanghai reaches 5,000 or 6,000. Vanke in late 2020 was his largest value trap. A 30 percent optical-module margin without a deep moat is a profit he expects rivals to attack.",
       "youtubeUrl": "",
-      "summaryFile": "tzs-ep211.md",
-      "summaryFileZh": "tzs-ep211.md",
+      "summaryFile": "tzs-ep212.md",
+      "summaryFileZh": "tzs-ep212.md",
       "availableLocales": [
         "en",
         "zh"
       ],
       "defaultLocale": "en",
       "keywords": [
-        "PDD",
-        "LI",
-        "OXY"
+        "600519.SZ",
+        "002475.SZ",
+        "000002.SZ"
       ],
       "investmentIdeas": [
         {
-          "ticker": "PDD",
+          "ticker": "600519.SZ",
           "direction": "Long",
           "confidence": "Low",
-          "thesis": "The 2021 meaning of value on this tape, hyper-growth, not the dividend definition he hears now — low"
+          "thesis": "The baijiu moat that still holds a shelf price — low"
         },
         {
-          "ticker": "LI",
+          "ticker": "002475.SZ",
           "direction": "Long",
           "confidence": "Low",
-          "thesis": "Named with Pinduoduo as the EV growth the market called value in 2021 — low"
-        },
-        {
-          "ticker": "OXY",
-          "direction": "Long",
-          "confidence": "Low",
-          "thesis": "The Occidental file he would reread, next to PetroChina, before buying an oil stock — low"
+          "thesis": "A bitter 4 to 5 percent margin over a 30 percent optical profit — low"
         }
       ],
-      "chronologySubject": "Yongqing · three books · what value meant"
+      "chronologySubject": "Liang Yufeng · Steady Is Fast · six steadies"
     },
     {
       "id": "tzs-ep209",
@@ -7838,6 +7832,55 @@
         }
       ],
       "chronologySubject": "Lingyang · FDE · enterprise agents"
+    },
+    {
+      "id": "tzs-ep211",
+      "podcastId": "touzi-shizhanpai",
+      "episodeNumber": 211,
+      "title": "A Bad Tape Is for Reading — Yongqing's Value-Investing Shelf, with Sam",
+      "guest": "Yongqing",
+      "displayTitle": "Yongqing",
+      "displaySubtitle": "Host, on the books, with Sam as stand-in",
+      "guestRole": "Host, on the books, with Sam as stand-in",
+      "date": "2026-11-18",
+      "durationMinutes": 78,
+      "readMinutes": 5,
+      "rating": 3,
+      "conclusion": "Sam hosts after a Shanghai podcast-festival book panel. Yongqing's shared shelf, if he may name only three, is three Columbia value courses. Greenwald's Competition Demystified is the business test: without an advantage you cannot forecast, because the company cannot forecast itself. Value Investing from Graham to Buffett is the valuation test: assets, earnings, and growth. The analyst's advanced guide is how you write the case for a boss, a client, or yourself. Value meant quality in 2019, PDD and Li Auto in 2021, and dividends now. Courage to Be Disliked covers wanting 12 times and printing 10.",
+      "youtubeUrl": "",
+      "summaryFile": "tzs-ep211.md",
+      "summaryFileZh": "tzs-ep211.md",
+      "availableLocales": [
+        "en",
+        "zh"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "PDD",
+        "LI",
+        "OXY"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "PDD",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The 2021 meaning of value on this tape, hyper-growth, not the dividend definition he hears now — low"
+        },
+        {
+          "ticker": "LI",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "Named with Pinduoduo as the EV growth the market called value in 2021 — low"
+        },
+        {
+          "ticker": "OXY",
+          "direction": "Long",
+          "confidence": "Low",
+          "thesis": "The Occidental file he would reread, next to PetroChina, before buying an oil stock — low"
+        }
+      ],
+      "chronologySubject": "Yongqing · three books · what value meant"
     },
     {
       "id": "sv101-ep203",
@@ -17537,41 +17580,6 @@
       "chronologySubject": "Virgin Galactic"
     },
     {
-      "id": "acq-superhuman",
-      "podcastId": "acquired",
-      "episodeNumber": 109,
-      "title": "Superhuman Part II - Designing Software to Feel like a Game",
-      "guest": "Rahul Vohra",
-      "displayTitle": "Rahul Vohra",
-      "displaySubtitle": "Superhuman Part II - Designing Software to Feel like a Game · Season 7",
-      "guestRole": "Season 7",
-      "date": "2020-11-12",
-      "durationMinutes": 56,
-      "readMinutes": 4,
-      "rating": 3,
-      "conclusion": "This Acquired LP episode visits Superhuman HQ with CEO Rahul Vohra (Rapportive sold to LinkedIn 2012) on PMF science, not game design. Superhuman spent ~2½ years pre-launch (Feb 2015–summer 2017): a year sketching, a year designing, 14-person team before ship — heresy versus MVP dogma but rational when competing with Gmail and Outlook in an established market. Pricing locked at $30/month from Crossing the Chasm early-adopter framing; waitlist grew to 180,000 with weekly admission throttles. Rahul's Sean Ellis-inspired survey: users who'd be \"very disappointed\" without the product define PMF; four-step loop segments lovers, builds for them, surveys ~40% disappointment threshold, then grows. Second-time-founder discipline let the team ignore premature-launch pressure — relevant as Airbnb, DoorDash, and Slack IPO season framed the conversation.",
-      "youtubeUrl": "",
-      "summaryFile": "acq-superhuman.md",
-      "availableLocales": [
-        "en"
-      ],
-      "defaultLocale": "en",
-      "keywords": [
-        "Product-Market Fit",
-        "Premium SaaS",
-        "Sean Ellis Survey"
-      ],
-      "investmentIdeas": [
-        {
-          "ticker": "GOOGL",
-          "direction": "Watch",
-          "confidence": "Low",
-          "thesis": "Gmail incumbent Superhuman displaces among power users; Google's UX bar and workspace bundling determine whether premium email niche sustains."
-        }
-      ],
-      "chronologySubject": "Rahul Vohra / Superhuman"
-    },
-    {
       "id": "fnd-132-edwin-land-steve-jobs-s-hero",
       "podcastId": "founders",
       "episodeNumber": 132,
@@ -18884,6 +18892,41 @@
         }
       ],
       "chronologySubject": "Andy Grove · Swimming Across · Intel"
+    },
+    {
+      "id": "acq-superhuman",
+      "podcastId": "acquired",
+      "episodeNumber": 109,
+      "title": "Superhuman Part II - Designing Software to Feel like a Game",
+      "guest": "Rahul Vohra",
+      "displayTitle": "Rahul Vohra",
+      "displaySubtitle": "Superhuman Part II - Designing Software to Feel like a Game · Season 7",
+      "guestRole": "Season 7",
+      "date": "2020-11-12",
+      "durationMinutes": 56,
+      "readMinutes": 4,
+      "rating": 3,
+      "conclusion": "This Acquired LP episode visits Superhuman HQ with CEO Rahul Vohra (Rapportive sold to LinkedIn 2012) on PMF science, not game design. Superhuman spent ~2½ years pre-launch (Feb 2015–summer 2017): a year sketching, a year designing, 14-person team before ship — heresy versus MVP dogma but rational when competing with Gmail and Outlook in an established market. Pricing locked at $30/month from Crossing the Chasm early-adopter framing; waitlist grew to 180,000 with weekly admission throttles. Rahul's Sean Ellis-inspired survey: users who'd be \"very disappointed\" without the product define PMF; four-step loop segments lovers, builds for them, surveys ~40% disappointment threshold, then grows. Second-time-founder discipline let the team ignore premature-launch pressure — relevant as Airbnb, DoorDash, and Slack IPO season framed the conversation.",
+      "youtubeUrl": "",
+      "summaryFile": "acq-superhuman.md",
+      "availableLocales": [
+        "en"
+      ],
+      "defaultLocale": "en",
+      "keywords": [
+        "Product-Market Fit",
+        "Premium SaaS",
+        "Sean Ellis Survey"
+      ],
+      "investmentIdeas": [
+        {
+          "ticker": "GOOGL",
+          "direction": "Watch",
+          "confidence": "Low",
+          "thesis": "Gmail incumbent Superhuman displaces among power users; Google's UX bar and workspace bundling determine whether premium email niche sustains."
+        }
+      ],
+      "chronologySubject": "Rahul Vohra / Superhuman"
     },
     {
       "id": "acq-special-superhuman-part-ii-designing-software-to-feel-like-a-game-with-rahul-vohra",

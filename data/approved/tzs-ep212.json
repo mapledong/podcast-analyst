@@ -1,0 +1,122 @@
+{
+  "episode_id": "tzs-ep212",
+  "podcast": "Practical Investments",
+  "host": "David",
+  "metadata": {
+    "episode_number": 212,
+    "title": "Steady Is Fast — Liang Yufeng on Allocation After the Drawdown",
+    "guest": "Liang Yufeng",
+    "guest_role": "Author, Steady Is Fast",
+    "date": "2026-11-23",
+    "duration_minutes": 77,
+    "youtube_url": "",
+    "links": {
+      "apple_podcasts": "https://podcasts.apple.com/cn/podcast/id1718660227",
+      "xiaoyuzhou": "https://www.xiaoyuzhoufm.com/episode/6b0424fe4ecad672d4105bb9"
+    }
+  },
+  "episode_rating": {
+    "overall": 3
+  },
+  "keywords": [
+    "600519.SZ",
+    "002475.SZ",
+    "000002.SZ"
+  ],
+  "conclusion": "After the October drawdown, Liang Yufeng walks through Steady Is Fast. CSI 300 is under 14 times, an earnings yield near 7.5 percent, and ROE near 11 to 12 percent on a 1.4 price to book. Deposits are about 1 percent. Credit bonds are about 2 to 3 percent. He wants a pyramid: more equity when cheap, less if Shanghai reaches 5,000 or 6,000. Vanke in late 2020 was his largest value trap. A 30 percent optical-module margin without a deep moat is a profit he expects rivals to attack.",
+  "background": "E212, published Nov 23, taped Oct 20, about 77 minutes. David hosts Liang Yufeng, in securities since 1998, more than ten years running research at Orient Securities, and out on his own in 2014. The new book has a preface from Liu Jipeng. Whisper hears the title as a jumble and the name as Liang Yunfen. Six steadies: allocation, name, action, portfolio, risk, temperament. Not a product pitch. A signed-copy giveaway closes the open.",
+  "important_facts": [
+    "The equity case is an earnings yield. CSI 300 is under 14 times, so the inverse is about 7.5 percent. He sets aside this year growth, which he puts near 20 percent, and still gets a 7 to 8 percent potential return. ROE is about 11 to 12 percent, down from about 20 percent at the peak, when it sat near the S&P 500. Bank ROE went from about 20 percent to about 10 percent. Price to book is about 1.4, and 11 to 12 divided by 1.4 is again 7 to 8 percent. Deposits are about 1 percent. Government bonds are about 1.6 to 1.7 percent. Credit bonds are about 2 to 3 percent. Shanghai rental yield is 1 to 2 points. The old 10-point property capital gain is what buyers no longer expect. A 60 percent equity and 40 percent bond mix, he says, beat many complicated models in one paper he read.",
+    "A cheap name can still destroy value. His largest value trap was Vanke, looked at in late 2020 or early 2021, while the bubble was still intact and both quality and the multiple looked fine. From 2022 the industry destroyed value. He keeps the miss small: Vanke was about 3 to 5 percent of the book. Banks are the contrast. If in 2021 someone said sales area would fall 70 to 80 percent and prices 30 to 40 percent, he says 99 percent of people would not believe it, and would conclude the economy and the banks were finished. Five or six years later the drop happened. Big banks have earnings pressure, not a liquidity break. Exposure was smaller than imagined because policy had already kept banks off developer credit, which is why shadow banking grew. From the June 30 high, some public funds he watches are down more than 40 percent. His simulated balanced books are down under 10 points.",
+    "A 30 percent margin in a shallow moat is an invitation. Optical modules sit between strong suppliers and strong customers. Shortage lets that link earn about 30 percent, while 10 percent is already a good Chinese manufacturing margin and many plants earn 4 or 5. Luxshare at 4 to 5 percent is the bitter business he prefers, because few owners copy a hard life for a thin margin, and many will copy 30 percent. Moutai is the deep moat: baijiu is weak and Moutai still holds the shelf price while other labels trade inverted. He believes in technology and not in technology stocks. On AI hardware spend, a 1 trillion bill can fall to 300 or 400 billion in two years, the way photovoltaic equipment orders fell about 90 percent over two or three years. Optimistic optical demand of 200 to 300 billion and a pessimistic peak of 70 to 80 billion are a variance he will not underwrite. Beer is the small-variance cousin: margins went from about 3 points twenty years ago to about 15."
+  ],
+  "mental_model": {
+    "name": "Pyramid allocation × small mistakes × bitter margin",
+    "components": "Price the asset class by earnings yield before you pick a story. Under 14 times on CSI 300 is about 7.5 percent, against deposits near 1 percent. Add equity when the multiple is low. Cut it if Shanghai is at 5,000 or 6,000. The inverted pyramid, empty at 3,000 and full plus leverage at 4,500, is how ordinary accounts lose. A wrong name is allowed if it is 3 to 5 percent. A 40 percent drawdown in a hot fund versus under 10 points in a balanced book is the same lesson. Prefer a moat that holds price, or a bitter 4 to 5 percent margin. Do not underwrite a 30 percent margin that a crowd can enter. Most technology-stock profits are not his to take.",
+    "application": "600519.SZ is the moat example, a shelf price that other baijiu labels no longer hold. 002475.SZ is the bitter industrial margin, not a new buy order. 000002.SZ is the trap already lived, sized small on purpose. The action is the pyramid, not a call on optical modules."
+  },
+  "key_insights": [
+    {
+      "view": "Seven to eight percent is the scarce yield.",
+      "question": "Why is equity the attractive asset now?",
+      "answer": "CSI 300 under 14 times and ROE of 11 to 12 percent on 1.4 times book both land near 7 to 8 percent. Deposits are about 1 percent and credit bonds about 2 to 3."
+    },
+    {
+      "view": "The miss has to stay small.",
+      "question": "What did Vanke teach him?",
+      "answer": "Late 2020 it looked cheap and high quality. From 2022 it destroyed value. It was 3 to 5 percent of the book, so the error was survivable."
+    },
+    {
+      "view": "A fat margin without a moat gets copied.",
+      "question": "Why avoid the 30 percent optical profit?",
+      "answer": "Luxshare earns 4 to 5 percent in a hard business few will copy. Thirty percent in a shallow moat is the profit a crowd will chase."
+    }
+  ],
+  "top_investment_implications": [
+    {
+      "ticker": "600519.SZ",
+      "company": "Kweichow Moutai",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "The baijiu moat that still holds a shelf price — low",
+      "rationale": "Baijiu is weak and Moutai still holds the only shelf price that is not inverted. He uses it as the deep moat, not as a fresh price target."
+    },
+    {
+      "ticker": "002475.SZ",
+      "company": "Luxshare Precision",
+      "direction": "Long",
+      "confidence": "Low",
+      "thesis": "A bitter 4 to 5 percent margin over a 30 percent optical profit — low",
+      "rationale": "A 4 to 5 percent margin in a bitter business is the industrial pattern he prefers to a 30 percent optical margin that rivals can enter."
+    }
+  ],
+  "golden_quotes": [
+    "现在大概不到14倍",
+    "最大的价值陷阱有万科",
+    "我是科技信仰者"
+  ],
+  "chronology": {
+    "subject": "Liang Yufeng · Steady Is Fast · six steadies",
+    "events": [
+      {
+        "date": "1998",
+        "event": "Enters the securities industry"
+      },
+      {
+        "date": "2000s",
+        "event": "Runs research at Orient Securities for more than ten years"
+      },
+      {
+        "date": "2014",
+        "event": "Leaves to build his own research practice"
+      },
+      {
+        "date": "2020-12",
+        "event": "Looks at Vanke before the property break"
+      },
+      {
+        "date": "2022",
+        "event": "Property downturn turns that holding into a value trap"
+      },
+      {
+        "date": "2026-06-30",
+        "event": "Hot public funds he watches later fall more than 40 percent"
+      },
+      {
+        "date": "2026-10-20",
+        "event": "Taping, after the October growth-stock drawdown"
+      },
+      {
+        "date": "2026-11-23",
+        "event": "E212 publishes"
+      }
+    ]
+  },
+  "review_notes": "| v4.10 window TZS E212",
+  "extraction_meta": {
+    "model": "manual-gpt-agent-v4.10",
+    "transcript_source": "whisper-small",
+    "status": "approved",
+    "template_version": "4.10"
+  }
+}
